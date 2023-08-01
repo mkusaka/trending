@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-01T02:01:18Z</updated>
+  <subtitle>Monthly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cpm-cmake/CPM.cmake</title>
+    <updated>2023-08-01T02:01:18Z</updated>
+    <id>tag:github.com,2023-08-01:/cpm-cmake/CPM.cmake</id>
+    <link href="https://github.com/cpm-cmake/CPM.cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📦 CMake&#39;s missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jrl-umi3218/jrl-cmakemodules</title>
+    <updated>2023-08-01T02:01:18Z</updated>
+    <id>tag:github.com,2023-08-01:/jrl-umi3218/jrl-cmakemodules</id>
+    <link href="https://github.com/jrl-umi3218/jrl-cmakemodules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake utility toolbox&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JoakimSoderberg/coveralls-cmake</title>
+    <updated>2023-08-01T02:01:18Z</updated>
+    <id>tag:github.com,2023-08-01:/JoakimSoderberg/coveralls-cmake</id>
+    <link href="https://github.com/JoakimSoderberg/coveralls-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Coveralls JSON coverage generator and uploader for CMake&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

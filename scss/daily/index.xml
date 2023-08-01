@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-31T01:45:13Z</updated>
+  <updated>2023-08-01T01:35:29Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jana-social/jana_social_fe</title>
-    <updated>2023-07-31T01:45:13Z</updated>
-    <id>tag:github.com,2023-07-31:/jana-social/jana_social_fe</id>
-    <link href="https://github.com/jana-social/jana_social_fe" rel="alternate"></link>
+    <title>kevin-powell/website-starter-template-v3-prefixed</title>
+    <updated>2023-08-01T01:35:29Z</updated>
+    <id>tag:github.com,2023-08-01:/kevin-powell/website-starter-template-v3-prefixed</id>
+    <link href="https://github.com/kevin-powell/website-starter-template-v3-prefixed" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

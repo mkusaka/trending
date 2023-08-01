@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-31T01:40:45Z</updated>
+  <updated>2023-08-01T01:31:17Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>truelecter/hive</title>
-    <updated>2023-07-31T01:40:45Z</updated>
-    <id>tag:github.com,2023-07-31:/truelecter/hive</id>
-    <link href="https://github.com/truelecter/hive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Hive - The secretly open NixOS-Society&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Gaelan/minifedi</title>
-    <updated>2023-07-31T01:40:45Z</updated>
-    <id>tag:github.com,2023-07-31:/Gaelan/minifedi</id>
-    <link href="https://github.com/Gaelan/minifedi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Run a tiny fediverse on your machine for testing, with no fuss.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adisbladis/pyproject.nix</title>
-    <updated>2023-07-31T01:40:45Z</updated>
-    <id>tag:github.com,2023-07-31:/adisbladis/pyproject.nix</id>
-    <link href="https://github.com/adisbladis/pyproject.nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

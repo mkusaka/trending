@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-31T01:44:14Z</updated>
+  <updated>2023-08-01T01:34:30Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BrooksResearchGroup-UM/MSLD-Workshop</title>
+    <updated>2023-08-01T01:34:30Z</updated>
+    <id>tag:github.com,2023-08-01:/BrooksResearchGroup-UM/MSLD-Workshop</id>
+    <link href="https://github.com/BrooksResearchGroup-UM/MSLD-Workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Materials for five day workshop on using MSLD (including ALF and MSLD_py_prep) for drug discovery and protein engineering&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

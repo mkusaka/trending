@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-31T01:38:11Z</updated>
+  <updated>2023-08-01T01:29:01Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bkamins/WooldridgeCode.jl</title>
-    <updated>2023-07-31T01:38:11Z</updated>
-    <id>tag:github.com,2023-07-31:/bkamins/WooldridgeCode.jl</id>
-    <link href="https://github.com/bkamins/WooldridgeCode.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia code for &#34;Introductory Econometrics&#34; A Modern Approach&#34;, Seventh Edition by Jeffrey M. Wooldridge&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>itsdfish/SSMPlots.jl</title>
+    <updated>2023-08-01T01:29:01Z</updated>
+    <id>tag:github.com,2023-08-01:/itsdfish/SSMPlots.jl</id>
+    <link href="https://github.com/itsdfish/SSMPlots.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia package for plotting sequential sampling models&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ronisbr/PrettyTables.jl</title>
-    <updated>2023-07-31T01:38:11Z</updated>
-    <id>tag:github.com,2023-07-31:/ronisbr/PrettyTables.jl</id>
-    <link href="https://github.com/ronisbr/PrettyTables.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Print data in formatted tables.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>biaslab/RxInfer.jl</title>
+    <updated>2023-08-01T01:29:01Z</updated>
+    <id>tag:github.com,2023-08-01:/biaslab/RxInfer.jl</id>
+    <link href="https://github.com/biaslab/RxInfer.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia package for automated Bayesian inference on a factor graph with reactive message passing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ThummeTo/FMIFlux.jl</title>
+    <updated>2023-08-01T01:29:01Z</updated>
+    <id>tag:github.com,2023-08-01:/ThummeTo/FMIFlux.jl</id>
+    <link href="https://github.com/ThummeTo/FMIFlux.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FMIFlux.jl is a free-to-use software library for the Julia programming language, which offers the ability to set up NeuralFMUs just like NeuralODEs: You can place FMUs (fmi-standard.org) simply inside any feed-forward ANN topology and keep the resulting hybrid model trainable with a standard (or custom) FluxML training process.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

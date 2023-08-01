@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-01T02:14:19Z</updated>
+  <subtitle>Monthly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>1e100/cloud_archive</title>
+    <updated>2023-08-01T02:14:19Z</updated>
+    <id>tag:github.com,2023-08-01:/1e100/cloud_archive</id>
+    <link href="https://github.com/1e100/cloud_archive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rule to securely download private dependencies from cloud storage.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bazelbuild/stardoc</title>
+    <updated>2023-08-01T02:14:19Z</updated>
+    <id>tag:github.com,2023-08-01:/bazelbuild/stardoc</id>
+    <link href="https://github.com/bazelbuild/stardoc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stardoc: Starlark Documentation Generator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aspect-build/rules_js</title>
+    <updated>2023-08-01T02:14:19Z</updated>
+    <id>tag:github.com,2023-08-01:/aspect-build/rules_js</id>
+    <link href="https://github.com/aspect-build/rules_js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High-performance Bazel rules for running Node.js tools and building JavaScript projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

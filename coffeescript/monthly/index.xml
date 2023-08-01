@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-01T02:01:22Z</updated>
+  <subtitle>Monthly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>stayradiated/webkeys</title>
+    <updated>2023-08-01T02:01:22Z</updated>
+    <id>tag:github.com,2023-08-01:/stayradiated/webkeys</id>
+    <link href="https://github.com/stayradiated/webkeys" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple password manager.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Fuzion24/Node-Password-Manager</title>
+    <updated>2023-08-01T02:01:22Z</updated>
+    <id>tag:github.com,2023-08-01:/Fuzion24/Node-Password-Manager</id>
+    <link href="https://github.com/Fuzion24/Node-Password-Manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A (not quite functional) password manager written in coffescript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mlin/node-assert-type</title>
+    <updated>2023-08-01T02:01:22Z</updated>
+    <id>tag:github.com,2023-08-01:/mlin/node-assert-type</id>
+    <link href="https://github.com/mlin/node-assert-type" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Concise runtime type assertions for Node.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

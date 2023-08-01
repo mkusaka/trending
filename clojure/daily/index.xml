@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-31T01:31:10Z</updated>
+  <updated>2023-08-01T01:23:10Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>imteekay/programming-language-research</title>
-    <updated>2023-07-31T01:31:10Z</updated>
-    <id>tag:github.com,2023-07-31:/imteekay/programming-language-research</id>
-    <link href="https://github.com/imteekay/programming-language-research" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Programming Language Research, Applied PLT &amp; Compilers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cleancoders/c3kit-apron</title>
-    <updated>2023-07-31T01:31:10Z</updated>
-    <id>tag:github.com,2023-07-31:/cleancoders/c3kit-apron</id>
-    <link href="https://github.com/cleancoders/c3kit-apron" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-01T01:59:00Z</updated>
+  <subtitle>Monthly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MunGell/awesome-for-beginners</title>
+    <updated>2023-08-01T01:59:00Z</updated>
+    <id>tag:github.com,2023-08-01:/MunGell/awesome-for-beginners</id>
+    <link href="https://github.com/MunGell/awesome-for-beginners" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of awesome beginners-friendly projects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pittcsc/Summer2024-Internships</title>
+    <updated>2023-08-01T01:59:00Z</updated>
+    <id>tag:github.com,2023-08-01:/pittcsc/Summer2024-Internships</id>
+    <link href="https://github.com/pittcsc/Summer2024-Internships" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of Summer 2023 &amp; Summer 2024 tech internships!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>karanpratapsingh/system-design</title>
+    <updated>2023-08-01T01:59:00Z</updated>
+    <id>tag:github.com,2023-08-01:/karanpratapsingh/system-design</id>
+    <link href="https://github.com/karanpratapsingh/system-design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn how to design systems at scale and prepare for system design interviews&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

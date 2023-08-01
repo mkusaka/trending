@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-01T02:03:36Z</updated>
+  <subtitle>Monthly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pkazmier/erlang-port-howto</title>
+    <updated>2023-08-01T02:03:36Z</updated>
+    <id>tag:github.com,2023-08-01:/pkazmier/erlang-port-howto</id>
+    <link href="https://github.com/pkazmier/erlang-port-howto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;How to create an Erlang Port&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>blt/port_compiler</title>
+    <updated>2023-08-01T02:03:36Z</updated>
+    <id>tag:github.com,2023-08-01:/blt/port_compiler</id>
+    <link href="https://github.com/blt/port_compiler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A rebar3 port compiler&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>emqx/emqtt</title>
+    <updated>2023-08-01T02:03:36Z</updated>
+    <id>tag:github.com,2023-08-01:/emqx/emqtt</id>
+    <link href="https://github.com/emqx/emqtt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang MQTT 5.0 Client&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

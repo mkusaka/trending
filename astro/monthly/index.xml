@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-01T01:59:42Z</updated>
+  <subtitle>Monthly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>delucis/astro-netlify-cms-starter</title>
+    <updated>2023-08-01T01:59:42Z</updated>
+    <id>tag:github.com,2023-08-01:/delucis/astro-netlify-cms-starter</id>
+    <link href="https://github.com/delucis/astro-netlify-cms-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blog Starter Template for Astro &amp; Netlify CMS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nas5w/interview-guide</title>
+    <updated>2023-08-01T01:59:42Z</updated>
+    <id>tag:github.com,2023-08-01:/nas5w/interview-guide</id>
+    <link href="https://github.com/nas5w/interview-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opinionated, actionable guide for software engineering interviews.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zeon-studio/astroplate</title>
+    <updated>2023-08-01T01:59:42Z</updated>
+    <id>tag:github.com,2023-08-01:/zeon-studio/astroplate</id>
+    <link href="https://github.com/zeon-studio/astroplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Astroplate is a free starter template built with Astro, TailwindCSS &amp; TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

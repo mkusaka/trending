@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-31T01:29:59Z</updated>
+  <updated>2023-08-01T01:22:02Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Nrmot-GithubRepo/Project-CBT</title>
-    <updated>2023-07-31T01:29:59Z</updated>
-    <id>tag:github.com,2023-07-31:/Nrmot-GithubRepo/Project-CBT</id>
-    <link href="https://github.com/Nrmot-GithubRepo/Project-CBT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project CBT: A minecraft modpack that tries to combine aspects of RLCraft, GTNH, Touhou and HBM&#39;s Nuclear Tech Mod into 1 totally not buggy masterpiece. Full name is Cock and Ball Touhouture: NuclearGreg Horizons&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

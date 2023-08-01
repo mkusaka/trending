@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-01T01:59:45Z</updated>
+  <subtitle>Monthly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HazyResearch/hyena-dna</title>
+    <updated>2023-08-01T01:59:45Z</updated>
+    <id>tag:github.com,2023-08-01:/HazyResearch/hyena-dna</id>
+    <link href="https://github.com/HazyResearch/hyena-dna" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official implementation for HyenaDNA, a long-range genomic foundation model built with Hyena&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ClickHouse/icudata</title>
+    <updated>2023-08-01T01:59:45Z</updated>
+    <id>tag:github.com,2023-08-01:/ClickHouse/icudata</id>
+    <link href="https://github.com/ClickHouse/icudata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pregenerated data for ICU library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>boneys/Assembly-Programs</title>
+    <updated>2023-08-01T01:59:45Z</updated>
+    <id>tag:github.com,2023-08-01:/boneys/Assembly-Programs</id>
+    <link href="https://github.com/boneys/Assembly-Programs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Assembly program compiled using NASM&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

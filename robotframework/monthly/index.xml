@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub RobotFramework Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-01T02:12:32Z</updated>
+  <subtitle>Monthly Trending of RobotFramework in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>spryker/robotframework-suite-tests</title>
+    <updated>2023-08-01T02:12:32Z</updated>
+    <id>tag:github.com,2023-08-01:/spryker/robotframework-suite-tests</id>
+    <link href="https://github.com/spryker/robotframework-suite-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Using Robotframework to test suite&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

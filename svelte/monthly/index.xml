@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-01T02:14:28Z</updated>
+  <subtitle>Monthly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>primocms/primo</title>
+    <updated>2023-08-01T02:14:28Z</updated>
+    <id>tag:github.com,2023-08-01:/primocms/primo</id>
+    <link href="https://github.com/primocms/primo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kbrgl/svelte-french-toast</title>
+    <updated>2023-08-01T02:14:28Z</updated>
+    <id>tag:github.com,2023-08-01:/kbrgl/svelte-french-toast</id>
+    <link href="https://github.com/kbrgl/svelte-french-toast" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🍞🥂 Buttery smooth toast notifications for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>itswadesh/svelte-commerce</title>
+    <updated>2023-08-01T02:14:28Z</updated>
+    <id>tag:github.com,2023-08-01:/itswadesh/svelte-commerce</id>
+    <link href="https://github.com/itswadesh/svelte-commerce" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The open-source storefront for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. The API approach also allows you to merge Svelte Commerce with any third-party tool like payment gateways, POS or AI. WIP for MedusaJS, Woocommerce, Bigcommerce and Shopify.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
