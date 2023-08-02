@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-01T01:30:22Z</updated>
+  <updated>2023-08-02T01:38:07Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>psyai-net/SelfTalk_release</title>
-    <updated>2023-08-01T01:30:22Z</updated>
-    <id>tag:github.com,2023-08-01:/psyai-net/SelfTalk_release</id>
-    <link href="https://github.com/psyai-net/SelfTalk_release" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the official source for our ACM MM 2023 paper &#34;SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces&#34;&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jinyeying/nighttime_dehaze</title>
+    <updated>2023-08-02T01:38:07Z</updated>
+    <id>tag:github.com,2023-08-02:/jinyeying/nighttime_dehaze</id>
+    <link href="https://github.com/jinyeying/nighttime_dehaze" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[ACMMM2023] &#34;Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

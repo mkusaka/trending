@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-01T01:35:36Z</updated>
+  <updated>2023-08-02T01:43:56Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DhruvChaurasia3418/Google-Cloud-July-2023</title>
+    <updated>2023-08-02T01:43:56Z</updated>
+    <id>tag:github.com,2023-08-02:/DhruvChaurasia3418/Google-Cloud-July-2023</id>
+    <link href="https://github.com/DhruvChaurasia3418/Google-Cloud-July-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>docker/docker-install</title>
+    <updated>2023-08-02T01:43:56Z</updated>
+    <id>tag:github.com,2023-08-02:/docker/docker-install</id>
+    <link href="https://github.com/docker/docker-install" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Docker installation script&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;docker/docker-install&lt;/h1&gt; &#xA;&lt;p&gt;Home of the script that lives at &lt;code&gt;get.docker.com&lt;/code&gt; and &lt;code&gt;test.docker.com&lt;/code&gt;!&lt;/p&gt; &#xA;&lt;p&gt;The purpose of the install script is for a convenience for quickly installing the latest Docker-CE releases on the supported linux distros. It is not recommended to depend on this script for deployment to production systems. For more thorough instructions for installing on the supported distros, see the &lt;a href=&#34;https://docs.docker.com/engine/install/&#34;&gt;install instructions&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This repository is solely maintained by Docker, Inc.&lt;/p&gt; &#xA;&lt;h2&gt;Usage:&lt;/h2&gt; &#xA;&lt;p&gt;From &lt;code&gt;https://get.docker.com&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;curl -fsSL https://get.docker.com -o get-docker.sh&#xA;sh get-docker.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;From &lt;code&gt;https://test.docker.com&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;curl -fsSL https://test.docker.com -o test-docker.sh&#xA;sh test-docker.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;From the source repo (This will install latest from the &lt;code&gt;stable&lt;/code&gt; channel):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;sh install.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Testing:&lt;/h2&gt; &#xA;&lt;p&gt;To verify that the install script works amongst the supported operating systems run:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;make shellcheck&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Legal&lt;/h2&gt; &#xA;&lt;p&gt;&lt;em&gt;Brought to you courtesy of our legal counsel. For more context, please see the &lt;a href=&#34;https://raw.githubusercontent.com/docker/docker-install/master/NOTICE&#34;&gt;NOTICE&lt;/a&gt; document in this repo.&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;Use and transfer of Docker may be subject to certain restrictions by the United States and other governments.&lt;/p&gt; &#xA;&lt;p&gt;It is your responsibility to ensure that your use and/or transfer does not violate applicable laws.&lt;/p&gt; &#xA;&lt;p&gt;For more information, please see &lt;a href=&#34;https://www.bis.doc.gov&#34;&gt;https://www.bis.doc.gov&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Reporting security issues&lt;/h2&gt; &#xA;&lt;p&gt;The maintainers take security seriously. If you discover a security issue, please bring it to their attention right away!&lt;/p&gt; &#xA;&lt;p&gt;Please &lt;strong&gt;DO NOT&lt;/strong&gt; file a public issue, instead send your report privately to &lt;a href=&#34;mailto:security@docker.com&#34;&gt;security@docker.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Security reports are greatly appreciated and we will publicly thank you for it. We also like to send gifts—if you&#39;re into Docker schwag, make sure to let us know. We currently do not offer a paid security bounty program, but are not ruling it out in the future.&lt;/p&gt; &#xA;&lt;h2&gt;Licensing&lt;/h2&gt; &#xA;&lt;p&gt;docker/docker-install is licensed under the Apache License, Version 2.0. See &lt;a href=&#34;https://raw.githubusercontent.com/docker/docker-install/master/LICENSE&#34;&gt;LICENSE&lt;/a&gt; for the full license text.&lt;/p&gt;</summary>
+  </entry>
 </feed>

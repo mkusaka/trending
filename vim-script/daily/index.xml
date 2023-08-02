@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-01T01:38:10Z</updated>
+  <updated>2023-08-02T01:47:06Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jgdavey/vim-weefactor</title>
+    <updated>2023-08-02T01:47:06Z</updated>
+    <id>tag:github.com,2023-08-02:/jgdavey/vim-weefactor</id>
+    <link href="https://github.com/jgdavey/vim-weefactor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Micro Ruby refactorings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>julienzmiro/dotfiles</title>
+    <updated>2023-08-02T01:47:06Z</updated>
+    <id>tag:github.com,2023-08-02:/julienzmiro/dotfiles</id>
+    <link href="https://github.com/julienzmiro/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My env settings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

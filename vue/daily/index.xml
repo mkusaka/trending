@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-01T01:38:16Z</updated>
+  <updated>2023-08-02T01:47:13Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ChanceYu/front-end-rss</title>
-    <updated>2023-08-01T01:38:16Z</updated>
-    <id>tag:github.com,2023-08-01:/ChanceYu/front-end-rss</id>
-    <link href="https://github.com/ChanceYu/front-end-rss" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📙 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>starsliao/TenSunS</title>
+    <updated>2023-08-02T01:47:13Z</updated>
+    <id>tag:github.com,2023-08-02:/starsliao/TenSunS</id>
+    <link href="https://github.com/starsliao/TenSunS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&amp;多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer&amp;ECS/MySQL/Redis云监控指标采集&amp;Blackbox站点监控维护&amp;漏洞通知/资源到期余额告警&amp;各类资源Grafana看板展示&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pierre-josselin/payday-2-ultimate-trainer-6</title>
-    <updated>2023-08-01T01:38:16Z</updated>
-    <id>tag:github.com,2023-08-01:/pierre-josselin/payday-2-ultimate-trainer-6</id>
-    <link href="https://github.com/pierre-josselin/payday-2-ultimate-trainer-6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A revolutionary mod for PAYDAY 2.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>huccct/vue-admin</title>
+    <updated>2023-08-02T01:47:13Z</updated>
+    <id>tag:github.com,2023-08-02:/huccct/vue-admin</id>
+    <link href="https://github.com/huccct/vue-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;☀️ A Vue3.x project about management system.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

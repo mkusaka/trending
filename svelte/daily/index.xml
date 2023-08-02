@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-01T01:36:40Z</updated>
+  <updated>2023-08-02T01:45:20Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>coderpy4/coderpy4.github.io</title>
-    <updated>2023-08-01T01:36:40Z</updated>
-    <id>tag:github.com,2023-08-01:/coderpy4/coderpy4.github.io</id>
-    <link href="https://github.com/coderpy4/coderpy4.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Manuraptor/amunt-p1-aligra</title>
-    <updated>2023-08-01T01:36:40Z</updated>
-    <id>tag:github.com,2023-08-01:/Manuraptor/amunt-p1-aligra</id>
-    <link href="https://github.com/Manuraptor/amunt-p1-aligra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PostOwl/postowl</title>
+    <updated>2023-08-02T01:45:20Z</updated>
+    <id>tag:github.com,2023-08-02:/PostOwl/postowl</id>
+    <link href="https://github.com/PostOwl/postowl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create a personal website for your blog, journal and sending letters to friends.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

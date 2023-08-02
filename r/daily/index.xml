@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-01T01:34:03Z</updated>
+  <updated>2023-08-02T01:42:14Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dmoul/australian-mining</title>
-    <updated>2023-08-01T01:34:03Z</updated>
-    <id>tag:github.com,2023-08-01:/dmoul/australian-mining</id>
-    <link href="https://github.com/dmoul/australian-mining" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Analysis of Australian mining data compiled by Gavin Mudd in A Comprehensive dataset for Australian mine production 1799 to 2021 https://doi.org/10.1038/s41597-023-02275-z&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;australian-mining&lt;/h1&gt; &#xA;&lt;p&gt;Analysis of Australian mining data compiled by Gavin Mudd in &lt;em&gt;A Comprehensive dataset for Australian mine production 1799 to 2021&lt;/em&gt; &lt;a href=&#34;https://doi.org/10.1038/s41597-023-02275-z&#34;&gt;https://doi.org/10.1038/s41597-023-02275-z&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>weiyi-bitw/BCCModels</title>
-    <updated>2023-08-01T01:34:03Z</updated>
-    <id>tag:github.com,2023-08-01:/weiyi-bitw/BCCModels</id>
-    <link href="https://github.com/weiyi-bitw/BCCModels" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source files for DREAM7 BCC models&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BCCModels&lt;/h1&gt; &#xA;&lt;p&gt;Source files for DREAM7 BCC models&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>bsmiguelangel/bayesian-modeling-of-spatial-ordinal-data-from-health-surveys</title>
-    <updated>2023-08-01T01:34:03Z</updated>
-    <id>tag:github.com,2023-08-01:/bsmiguelangel/bayesian-modeling-of-spatial-ordinal-data-from-health-surveys</id>
-    <link href="https://github.com/bsmiguelangel/bayesian-modeling-of-spatial-ordinal-data-from-health-surveys" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Supplementary material to the paper &#34;Bayesian modeling of spatial ordinal data from health surveys&#34;.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Bayesian modeling of spatial ordinal data from health surveys&lt;/h1&gt; &#xA;&lt;p&gt;WinBUGS and R code used to run the entire case study.&lt;/p&gt;</summary>
+    <title>tidyverse/design</title>
+    <updated>2023-08-02T01:42:14Z</updated>
+    <id>tag:github.com,2023-08-02:/tidyverse/design</id>
+    <link href="https://github.com/tidyverse/design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tidyverse design principles&lt;/p&gt;&lt;hr&gt;&lt;p&gt;A place to document (and hash out) development principles for packages in the &lt;a href=&#34;http://tidyverse.org&#34;&gt;tidyverse&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;A complement to &lt;a href=&#34;http://style.tidyverse.org&#34;&gt;http://style.tidyverse.org&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Structure&lt;/h2&gt; &#xA;&lt;p&gt;Title should be a command. Keep it as short as possible, and frame it positively (which you should do, not what you shouldn&#39;t do).&lt;/p&gt; &#xA;&lt;p&gt;Sections:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;What&#39;s the pattern? Brief description and why it&#39;s important.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;What are some examples? Bulleted list of existing functions. Can be both positive and negative examples. Show results of code where useful. Goal is to include enough variety that everyone recognises at least one function, and can look up the docs for the details of the others.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;What are the exceptions?&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;How to avoid/remediate/use it? Detailed explanation (with example) of how to prevent the problem, fix the problem, and/or use the pattern.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;See also. Include related problems as bulleted list.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Case studies are useful for functions that need more explanation, have multiple problems, or need greater discussion of different trade-offs.&lt;/p&gt;</summary>
   </entry>
 </feed>
