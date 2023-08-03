@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-02T01:36:42Z</updated>
+  <updated>2023-08-03T01:37:27Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>acfr/RobustNeuralNetworks.jl</title>
-    <updated>2023-08-02T01:36:42Z</updated>
-    <id>tag:github.com,2023-08-02:/acfr/RobustNeuralNetworks.jl</id>
-    <link href="https://github.com/acfr/RobustNeuralNetworks.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia package for robust neural networks.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rai-llc/LanguageModels.jl</title>
+    <updated>2023-08-03T01:37:27Z</updated>
+    <id>tag:github.com,2023-08-03:/rai-llc/LanguageModels.jl</id>
+    <link href="https://github.com/rai-llc/LanguageModels.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Load nanoGPT-style transformers in Julia. Code ported from @karpathy&#39;s llama2.c&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cafaxo/Llama2.jl</title>
-    <updated>2023-08-02T01:36:42Z</updated>
-    <id>tag:github.com,2023-08-02:/cafaxo/Llama2.jl</id>
-    <link href="https://github.com/cafaxo/Llama2.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;llama2.c but in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jw3126/ONNXRunTime.jl</title>
+    <updated>2023-08-03T01:37:27Z</updated>
+    <id>tag:github.com,2023-08-03:/jw3126/ONNXRunTime.jl</id>
+    <link href="https://github.com/jw3126/ONNXRunTime.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia bindings for onnxruntime&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JeffreySarnoff/RollingDuckDB.jl</title>
-    <updated>2023-08-02T01:36:42Z</updated>
-    <id>tag:github.com,2023-08-02:/JeffreySarnoff/RollingDuckDB.jl</id>
-    <link href="https://github.com/JeffreySarnoff/RollingDuckDB.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;adding Julia to DuckDB rollfun benchmarks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Seelengrab/RequiredInterfaces.jl</title>
+    <updated>2023-08-03T01:37:27Z</updated>
+    <id>tag:github.com,2023-08-03:/Seelengrab/RequiredInterfaces.jl</id>
+    <link href="https://github.com/Seelengrab/RequiredInterfaces.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A small package for providing the minimal required method surface of a Julia API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-02T01:43:50Z</updated>
+  <updated>2023-08-03T01:44:18Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>p2pu/course-in-a-box</title>
-    <updated>2023-08-02T01:43:50Z</updated>
-    <id>tag:github.com,2023-08-02:/p2pu/course-in-a-box</id>
-    <link href="https://github.com/p2pu/course-in-a-box" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open-source project for creating online courses, built by P2PU&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TykTechnologies/tyk-docs</title>
-    <updated>2023-08-02T01:43:50Z</updated>
-    <id>tag:github.com,2023-08-02:/TykTechnologies/tyk-docs</id>
-    <link href="https://github.com/TykTechnologies/tyk-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Docs for Tyk Open source API gateway and API management platform. 100% Cloud native&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prof18/feed-flow</title>
+    <updated>2023-08-03T01:44:18Z</updated>
+    <id>tag:github.com,2023-08-03:/prof18/feed-flow</id>
+    <link href="https://github.com/prof18/feed-flow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FeedFlow is a minimalistic and opinionated RSS Reader available on Android, iOS and macOS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

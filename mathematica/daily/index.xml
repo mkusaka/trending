@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-02T01:38:03Z</updated>
+  <updated>2023-08-03T01:38:46Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DigitalHumanSpace/MetaHuman_DNA_Tools</title>
-    <updated>2023-08-02T01:38:03Z</updated>
-    <id>tag:github.com,2023-08-02:/DigitalHumanSpace/MetaHuman_DNA_Tools</id>
-    <link href="https://github.com/DigitalHumanSpace/MetaHuman_DNA_Tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tools for MetaHuman DNA&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Amirrezahmi/Mathematica-Wolfram-notebooks</title>
+    <updated>2023-08-03T01:38:46Z</updated>
+    <id>tag:github.com,2023-08-03:/Amirrezahmi/Mathematica-Wolfram-notebooks</id>
+    <link href="https://github.com/Amirrezahmi/Mathematica-Wolfram-notebooks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository houses five notebooks containing Mathematica Wolfram commands along with their detailed descriptions in Persian. Explore calculus, linear algebra, plotting, and more in the realm of mathematics through these comprehensive notebooks. Enhance your understanding and proficiency in Mathematica Wolfram with this invaluable resource.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub G-code Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-02T01:33:38Z</updated>
+  <updated>2023-08-03T01:34:10Z</updated>
   <subtitle>Daily Trending of G-code in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>prusa3d/libbgcode</title>
+    <updated>2023-08-03T01:34:10Z</updated>
+    <id>tag:github.com,2023-08-03:/prusa3d/libbgcode</id>
+    <link href="https://github.com/prusa3d/libbgcode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Prusa Block &amp; Binary G-code reader / writer / converter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

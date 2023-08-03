@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-02T01:30:40Z</updated>
+  <updated>2023-08-03T01:31:25Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sortega/invasion</title>
+    <updated>2023-08-03T01:31:25Z</updated>
+    <id>tag:github.com,2023-08-03:/sortega/invasion</id>
+    <link href="https://github.com/sortega/invasion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some katas&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>damn/x.x</title>
+    <updated>2023-08-03T01:31:25Z</updated>
+    <id>tag:github.com,2023-08-03:/damn/x.x</id>
+    <link href="https://github.com/damn/x.x" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A functional and dynamic Entity Component System DSL written in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

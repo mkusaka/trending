@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-02T01:46:58Z</updated>
+  <updated>2023-08-03T01:46:52Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jge162/ScoreBoard-wTimer</title>
-    <updated>2023-08-02T01:46:58Z</updated>
-    <id>tag:github.com,2023-08-02:/jge162/ScoreBoard-wTimer</id>
-    <link href="https://github.com/jge162/ScoreBoard-wTimer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Objective of this project was to emulate a Basketball scoreboard, with timer and two teams scores. See readme for pic and more details. FPGA design with Vivado.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

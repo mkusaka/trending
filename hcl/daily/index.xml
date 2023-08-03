@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-02T01:34:49Z</updated>
+  <updated>2023-08-03T01:35:18Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>terraform-ibm-modules/terraform-ibm-landing-zone</title>
-    <updated>2023-08-02T01:34:49Z</updated>
-    <id>tag:github.com,2023-08-02:/terraform-ibm-modules/terraform-ibm-landing-zone</id>
-    <link href="https://github.com/terraform-ibm-modules/terraform-ibm-landing-zone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Creates a fully customizable VPC environment and compute resources (VSI, Red Hat OpenShift) with presets designed to meet strict compliance needs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

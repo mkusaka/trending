@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-02T01:45:54Z</updated>
+  <updated>2023-08-03T01:46:01Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nathaliafab/Projeto_IH_RISC-V</title>
+    <updated>2023-08-03T01:46:01Z</updated>
+    <id>tag:github.com,2023-08-03:/nathaliafab/Projeto_IH_RISC-V</id>
+    <link href="https://github.com/nathaliafab/Projeto_IH_RISC-V" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Arquivos base para o projeto da disciplina Infraestrutura de Hardware (IF674) no CIn-UFPE.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
