@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-03T01:35:12Z</updated>
+  <updated>2023-08-04T01:35:12Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>victoricoma/appThoughts</title>
-    <updated>2023-08-03T01:35:12Z</updated>
-    <id>tag:github.com,2023-08-03:/victoricoma/appThoughts</id>
-    <link href="https://github.com/victoricoma/appThoughts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exemplo de continuidade do projeto em BackEnd&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

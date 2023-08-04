@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-03T01:33:21Z</updated>
+  <updated>2023-08-04T01:33:24Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>RoyalIcing/Orb</title>
+    <updated>2023-08-04T01:33:24Z</updated>
+    <id>tag:github.com,2023-08-04:/RoyalIcing/Orb</id>
+    <link href="https://github.com/RoyalIcing/Orb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir DSL for WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-03T01:31:08Z</updated>
+  <updated>2023-08-04T01:31:13Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>snapshot-labs/sx-starknet</title>
-    <updated>2023-08-03T01:31:08Z</updated>
-    <id>tag:github.com,2023-08-03:/snapshot-labs/sx-starknet</id>
-    <link href="https://github.com/snapshot-labs/sx-starknet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core smart contracts of Snapshot X for Starknet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>keep-starknet-strange/tsubasa</title>
+    <updated>2023-08-04T01:31:13Z</updated>
+    <id>tag:github.com,2023-08-04:/keep-starknet-strange/tsubasa</id>
+    <link href="https://github.com/keep-starknet-strange/tsubasa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tsubasa onchain game built with Dojo, running on a Starknet Appchain.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

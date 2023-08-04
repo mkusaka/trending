@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-03T01:44:18Z</updated>
+  <updated>2023-08-04T01:43:32Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>prof18/feed-flow</title>
-    <updated>2023-08-03T01:44:18Z</updated>
-    <id>tag:github.com,2023-08-03:/prof18/feed-flow</id>
-    <link href="https://github.com/prof18/feed-flow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FeedFlow is a minimalistic and opinionated RSS Reader available on Android, iOS and macOS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kumar045/Skillup_Burger_Shop</title>
+    <updated>2023-08-04T01:43:32Z</updated>
+    <id>tag:github.com,2023-08-04:/kumar045/Skillup_Burger_Shop</id>
+    <link href="https://github.com/kumar045/Skillup_Burger_Shop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

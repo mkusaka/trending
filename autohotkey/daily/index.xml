@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-03T01:29:55Z</updated>
+  <updated>2023-08-04T01:29:57Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>telppa/KMCounter</title>
-    <updated>2023-08-03T01:29:55Z</updated>
-    <id>tag:github.com,2023-08-03:/telppa/KMCounter</id>
-    <link href="https://github.com/telppa/KMCounter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use heatmap to show mouse and keyboard usage. 使用热力图显示鼠标与键盘使用情况的工具。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

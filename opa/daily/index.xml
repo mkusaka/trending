@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Opa Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-03T01:40:20Z</updated>
+  <updated>2023-08-04T01:40:15Z</updated>
   <subtitle>Daily Trending of Opa in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tsloughter/todomvc_opa</title>
+    <updated>2023-08-04T01:40:15Z</updated>
+    <id>tag:github.com,2023-08-04:/tsloughter/todomvc_opa</id>
+    <link href="https://github.com/tsloughter/todomvc_opa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Opa TodoMVC&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

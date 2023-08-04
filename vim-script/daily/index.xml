@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-03T01:46:58Z</updated>
+  <updated>2023-08-04T01:46:01Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mynewsdesk/chefup</title>
-    <updated>2023-08-03T01:46:58Z</updated>
-    <id>tag:github.com,2023-08-03:/mynewsdesk/chefup</id>
-    <link href="https://github.com/mynewsdesk/chefup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Configure frequently-used tools for an OS X workstation with Chef&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zeekay/vice-complete</title>
+    <updated>2023-08-04T01:46:01Z</updated>
+    <id>tag:github.com,2023-08-04:/zeekay/vice-complete</id>
+    <link href="https://github.com/zeekay/vice-complete" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nickh/dotfiles</title>
-    <updated>2023-08-03T01:46:58Z</updated>
-    <id>tag:github.com,2023-08-03:/nickh/dotfiles</id>
-    <link href="https://github.com/nickh/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Keeping my codespaces consistent since 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nobeans/unite-grails</title>
+    <updated>2023-08-04T01:46:01Z</updated>
+    <id>tag:github.com,2023-08-04:/nobeans/unite-grails</id>
+    <link href="https://github.com/nobeans/unite-grails" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An unite.vim plugin for grails&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mikeage/vimfiles</title>
-    <updated>2023-08-03T01:46:58Z</updated>
-    <id>tag:github.com,2023-08-03:/mikeage/vimfiles</id>
-    <link href="https://github.com/mikeage/vimfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My .vim directory.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kablamo/vim-ribbon</title>
+    <updated>2023-08-04T01:46:01Z</updated>
+    <id>tag:github.com,2023-08-04:/kablamo/vim-ribbon</id>
+    <link href="https://github.com/kablamo/vim-ribbon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim-ribbon is a Vim plugin that helps you read through the latest changes to a git repository.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

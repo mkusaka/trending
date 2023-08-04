@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-03T01:46:06Z</updated>
+  <updated>2023-08-04T01:45:07Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jonasnick/little-crypto-notebook</title>
+    <updated>2023-08-04T01:45:07Z</updated>
+    <id>tag:github.com,2023-08-04:/jonasnick/little-crypto-notebook</id>
+    <link href="https://github.com/jonasnick/little-crypto-notebook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Little Crypto Notebook&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/jonasnick/releases/&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>bingjin/ThinkPython2-CN</title>
+    <updated>2023-08-04T01:45:07Z</updated>
+    <id>tag:github.com,2023-08-04:/bingjin/ThinkPython2-CN</id>
+    <link href="https://github.com/bingjin/ThinkPython2-CN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;《Think Python 2e》最新版中文翻译，已完结。&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;《Think Python 2ed》最新版中文翻译&lt;/h1&gt; &#xA;&lt;p&gt;本书中文翻译已经完结，感谢各位贡献者的参与和大家的关注及支持。&lt;/p&gt; &#xA;&lt;p&gt;贡献者名单如下：&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/bingjin&#34;&gt;@bingjin&lt;/a&gt; 全书校对，完成第1-4、17-21章的翻译。&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/iphyer&#34;&gt;@ipyher&lt;/a&gt; 完成第5、9、13、15章的翻译。&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/thejian&#34;&gt;@theJian&lt;/a&gt; 完成第6、11章的翻译。&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/lroolle&#34;&gt;@lroolle&lt;/a&gt; 完成第7章的翻译。&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/xpgeng&#34;&gt;@xpgeng&lt;/a&gt; 完成第8章的翻译。&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/obserthinker&#34;&gt;@obserthinker&lt;/a&gt; 完成第10、14章的翻译。&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/SeikaScarlet&#34;&gt;@SeikaScarlet&lt;/a&gt; 完成第12章的翻译，独自完成全书TEX版的制作和校对。&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/cxyfreedom&#34;&gt;@cxyfreedom&lt;/a&gt; 完成第16章的翻译。&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;本书目前托管在&lt;a href=&#34;https://codingpy.com/books/thinkpython2/&#34;&gt;编程派网站&lt;/a&gt;。&lt;/p&gt; &#xA;&lt;p&gt;使用 Sphinx 制作的 PDF、EPUB 等电子版的分享链接为：&lt;a href=&#34;http://pan.baidu.com/s/1eRZOrHC%E3%80%82&#34;&gt;http://pan.baidu.com/s/1eRZOrHC。&lt;/a&gt; 提取码: n24y。&lt;/p&gt; &#xA;&lt;p&gt;TEX 精校版 PDF 的分享链接为：&lt;a href=&#34;https://pan.baidu.com/s/1pLiwSAn%E3%80%82&#34;&gt;https://pan.baidu.com/s/1pLiwSAn。&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;如果你觉得这本书对你有帮助，可以考虑扫描下面的二维码，打赏我一杯咖啡。&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;http://ww1.sinaimg.cn/mw690/006faQNTgw1f1g1gf903aj308w0ai74q.jpg&#34; alt=&#34;赞助编程派的翻译计划&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;同时也欢迎大家关注我的微信公众号：编程派（ID：codingpy），现在基本是每天定期更新，分享 Python 精彩教程和资源。&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;该中译版以知识共享协议（&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/3.0/us/&#34;&gt;Creative Commons Attribution-NonCommercial 3.0 Unported License&lt;/a&gt;）发布，你可以自由分享、修改、复制该中译版，但请不要用于商业用途。&lt;/p&gt; &#xA;&lt;p&gt;本书原著版权归&lt;a href=&#34;http://greenteapress.com/wp/think-python-2e/&#34;&gt;Allen Downey&lt;/a&gt;所有，原作链接如下：&lt;a href=&#34;https://github.com/AllenDowney/ThinkPython2&#34;&gt;https://github.com/AllenDowney/ThinkPython2&lt;/a&gt;。&lt;/p&gt; &#xA;&lt;p&gt;该中译版在翻译过程中，参考了车万翔老师组织翻译的 Python 2 版：&lt;a href=&#34;https://github.com/carfly/thinkpython-cn&#34;&gt;https://github.com/carfly/thinkpython-cn&lt;/a&gt;，在此表示感谢。&lt;/p&gt; &#xA;&lt;p&gt;本书中如仍存在细微错误，会不定期更新，也希望大家指正。&lt;/p&gt;</summary>
+  </entry>
 </feed>

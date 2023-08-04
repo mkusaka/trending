@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-03T01:29:47Z</updated>
+  <updated>2023-08-04T01:29:52Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>credebl/studio</title>
-    <updated>2023-08-03T01:29:47Z</updated>
-    <id>tag:github.com,2023-08-03:/credebl/studio</id>
-    <link href="https://github.com/credebl/studio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern UI for CREDEBL Platform built using Astro, Flowbite &amp; Tailwind.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
