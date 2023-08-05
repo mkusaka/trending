@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-04T01:43:59Z</updated>
+  <updated>2023-08-05T01:42:27Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>asimmon/local-kubernetes-setup</title>
-    <updated>2023-08-04T01:43:59Z</updated>
-    <id>tag:github.com,2023-08-04:/asimmon/local-kubernetes-setup</id>
-    <link href="https://github.com/asimmon/local-kubernetes-setup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Setup a local Kubernetes cluster on any OS with TLS support and nginx as an ingress controller to deploy services on local trusted domains.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pluralsh/module-library</title>
+    <updated>2023-08-05T01:42:27Z</updated>
+    <id>tag:github.com,2023-08-05:/pluralsh/module-library</id>
+    <link href="https://github.com/pluralsh/module-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;library of useful terraform modules and helm charts to build apps with plural&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-04T01:29:00Z</updated>
+  <updated>2023-08-05T01:28:07Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NFTTraderKing/Opensea-Javascript-NFT-sniper-raribles-coinbase-opensoruce-tracker</title>
-    <updated>2023-08-04T01:29:00Z</updated>
-    <id>tag:github.com,2023-08-04:/NFTTraderKing/Opensea-Javascript-NFT-sniper-raribles-coinbase-opensoruce-tracker</id>
-    <link href="https://github.com/NFTTraderKing/Opensea-Javascript-NFT-sniper-raribles-coinbase-opensoruce-tracker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Enhance your NFT trading skills with Opensoruce-Javascript, your ultimate sniper for Opensea, Raribles, and Coinbase.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CodingAIDatasets/DEX-Triangular-Arbitrage-Bot-V5-Bot</title>
+    <updated>2023-08-05T01:28:07Z</updated>
+    <id>tag:github.com,2023-08-05:/CodingAIDatasets/DEX-Triangular-Arbitrage-Bot-V5-Bot</id>
+    <link href="https://github.com/CodingAIDatasets/DEX-Triangular-Arbitrage-Bot-V5-Bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Our open-source JavaScript bot performs Triangular Arbitrage on DEX&#39;s, allowing you to maximize your profits. Easy to use and effective, start trading better.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lordmyshepherd-edu/wanted-pre-onboardung-backend-selection-assignment</title>
-    <updated>2023-08-04T01:29:00Z</updated>
-    <id>tag:github.com,2023-08-04:/lordmyshepherd-edu/wanted-pre-onboardung-backend-selection-assignment</id>
-    <link href="https://github.com/lordmyshepherd-edu/wanted-pre-onboardung-backend-selection-assignment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wanted Pre-Onboarding Backend Internship Selection Assignment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iuricode/desafios-frontend</title>
+    <updated>2023-08-05T01:28:07Z</updated>
+    <id>tag:github.com,2023-08-05:/iuricode/desafios-frontend</id>
+    <link href="https://github.com/iuricode/desafios-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Desafios frontend do Codelândia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zlida5818/AutoClicker</title>
+    <updated>2023-08-05T01:28:07Z</updated>
+    <id>tag:github.com,2023-08-05:/zlida5818/AutoClicker</id>
+    <link href="https://github.com/zlida5818/AutoClicker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;loves automation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

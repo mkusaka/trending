@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-04T01:33:24Z</updated>
+  <updated>2023-08-05T01:32:04Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RoyalIcing/Orb</title>
-    <updated>2023-08-04T01:33:24Z</updated>
-    <id>tag:github.com,2023-08-04:/RoyalIcing/Orb</id>
-    <link href="https://github.com/RoyalIcing/Orb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir DSL for WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brexhq/result</title>
+    <updated>2023-08-05T01:32:04Z</updated>
+    <id>tag:github.com,2023-08-05:/brexhq/result</id>
+    <link href="https://github.com/brexhq/result" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This library provides tools to handle three common return values in Elixir: :ok | {:ok, value} | {:error, reason}&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lambdaclass/lambda_ethereum_consensus</title>
+    <updated>2023-08-05T01:32:04Z</updated>
+    <id>tag:github.com,2023-08-05:/lambdaclass/lambda_ethereum_consensus</id>
+    <link href="https://github.com/lambdaclass/lambda_ethereum_consensus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ethereum Consensus Client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

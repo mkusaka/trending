@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-04T01:37:23Z</updated>
+  <updated>2023-08-05T01:35:28Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tecosaur/DataToolkit.jl</title>
-    <updated>2023-08-04T01:37:23Z</updated>
-    <id>tag:github.com,2023-08-04:/tecosaur/DataToolkit.jl</id>
-    <link href="https://github.com/tecosaur/DataToolkit.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reproducible, felexible, and convenient data management&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>COMCIFS/Demonstration_Dictionary</title>
+    <updated>2023-08-05T01:35:28Z</updated>
+    <id>tag:github.com,2023-08-05:/COMCIFS/Demonstration_Dictionary</id>
+    <link href="https://github.com/COMCIFS/Demonstration_Dictionary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for demonstrating the process of dictionary creation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

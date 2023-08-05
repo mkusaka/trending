@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-04T01:37:59Z</updated>
+  <updated>2023-08-05T01:36:16Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SouravDas25/AttendanceMS</title>
-    <updated>2023-08-04T01:37:59Z</updated>
-    <id>tag:github.com,2023-08-04:/SouravDas25/AttendanceMS</id>
-    <link href="https://github.com/SouravDas25/AttendanceMS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Attendance Management System For Schools and Colleges&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

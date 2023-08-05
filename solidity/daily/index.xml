@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-04T01:44:11Z</updated>
+  <updated>2023-08-05T01:42:39Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2023-08-tangible</title>
-    <updated>2023-08-04T01:44:11Z</updated>
-    <id>tag:github.com,2023-08-04:/code-423n4/2023-08-tangible</id>
-    <link href="https://github.com/code-423n4/2023-08-tangible" rel="alternate"></link>
+    <title>GenerationSoftware/pt-v5-cgda-liquidator</title>
+    <updated>2023-08-05T01:42:39Z</updated>
+    <id>tag:github.com,2023-08-05:/GenerationSoftware/pt-v5-cgda-liquidator</id>
+    <link href="https://github.com/GenerationSoftware/pt-v5-cgda-liquidator" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>code-423n4/2023-08-goodentry</title>
-    <updated>2023-08-04T01:44:11Z</updated>
-    <id>tag:github.com,2023-08-04:/code-423n4/2023-08-goodentry</id>
-    <link href="https://github.com/code-423n4/2023-08-goodentry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hstead1104/airdrop-nft</title>
-    <updated>2023-08-04T01:44:11Z</updated>
-    <id>tag:github.com,2023-08-04:/hstead1104/airdrop-nft</id>
-    <link href="https://github.com/hstead1104/airdrop-nft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contract allowing withdrawing claimable NFT airdrops&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OffchainLabs/bold</title>
+    <updated>2023-08-05T01:42:39Z</updated>
+    <id>tag:github.com,2023-08-05:/OffchainLabs/bold</id>
+    <link href="https://github.com/OffchainLabs/bold" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Efficient, all-vs-all dispute protocol for Optimistic Rollups&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

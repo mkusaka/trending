@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pug Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-04T01:41:33Z</updated>
+  <updated>2023-08-05T01:39:49Z</updated>
   <subtitle>Daily Trending of Pug in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>donategifts/donategifts</title>
+    <updated>2023-08-05T01:39:49Z</updated>
+    <id>tag:github.com,2023-08-05:/donategifts/donategifts</id>
+    <link href="https://github.com/donategifts/donategifts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This web app enables the users to send holiday gifts and school supplies to the children in foster care and emergency shelters.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-04T01:31:38Z</updated>
+  <updated>2023-08-05T01:30:28Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>batterycenter/embed</title>
-    <updated>2023-08-04T01:31:38Z</updated>
-    <id>tag:github.com,2023-08-04:/batterycenter/embed</id>
-    <link href="https://github.com/batterycenter/embed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A CMake/C++14 library to embed resource files at compile time&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>linuxdeepin/deepin-desktop-theme</title>
-    <updated>2023-08-04T01:31:38Z</updated>
-    <id>tag:github.com,2023-08-04:/linuxdeepin/deepin-desktop-theme</id>
-    <link href="https://github.com/linuxdeepin/deepin-desktop-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>udacity/CppND-Capstone-Hello-World</title>
-    <updated>2023-08-04T01:31:38Z</updated>
-    <id>tag:github.com,2023-08-04:/udacity/CppND-Capstone-Hello-World</id>
-    <link href="https://github.com/udacity/CppND-Capstone-Hello-World" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A &#34;Hello World!&#34; application using C++ with CMake&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

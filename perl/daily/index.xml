@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-04T01:40:45Z</updated>
+  <updated>2023-08-05T01:38:53Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ngs-archives/PrettyXML.codaplugin</title>
-    <updated>2023-08-04T01:40:45Z</updated>
-    <id>tag:github.com,2023-08-04:/ngs-archives/PrettyXML.codaplugin</id>
-    <link href="https://github.com/ngs-archives/PrettyXML.codaplugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Coda plugin for Pretty printing XML&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PrettyXML.codaplugin&lt;/h1&gt; &#xA;&lt;p&gt;A Coda plug-in to prettify string in current document.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ git://github.com/ngs/PrettyXML.codaplugin.git ~/Library/Application\ Support/Coda\ 2/Plug-ins/PrettyXML.codaplugin&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>
