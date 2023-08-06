@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub V Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-05T01:44:15Z</updated>
+  <updated>2023-08-06T01:44:05Z</updated>
   <subtitle>Daily Trending of V in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Casper64/vaunt</title>
-    <updated>2023-08-05T01:44:15Z</updated>
-    <id>tag:github.com,2023-08-05:/Casper64/vaunt</id>
-    <link href="https://github.com/Casper64/vaunt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cms with visual editor written in V that you can use to generate static sites.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

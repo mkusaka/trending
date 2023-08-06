@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nextflow Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-06T01:56:52Z</updated>
+  <subtitle>Weekly Trending of Nextflow in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sanger-tol/ascc</title>
+    <updated>2023-08-06T01:56:52Z</updated>
+    <id>tag:github.com,2023-08-06:/sanger-tol/ascc</id>
+    <link href="https://github.com/sanger-tol/ascc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sanger-tol/treeval</title>
+    <updated>2023-08-06T01:56:52Z</updated>
+    <id>tag:github.com,2023-08-06:/sanger-tol/treeval</id>
+    <link href="https://github.com/sanger-tol/treeval" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pipelines for the production of Treeval data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

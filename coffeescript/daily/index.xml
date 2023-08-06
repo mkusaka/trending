@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-05T01:30:31Z</updated>
+  <updated>2023-08-06T01:29:21Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>raulriera/ImageGalleryView</title>
+    <updated>2023-08-06T01:29:21Z</updated>
+    <id>tag:github.com,2023-08-06:/raulriera/ImageGalleryView</id>
+    <link href="https://github.com/raulriera/ImageGalleryView" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multiplatform ImageGalleryView for Titanium Appcelerator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>s-bayer/lendabook</title>
+    <updated>2023-08-06T01:29:21Z</updated>
+    <id>tag:github.com,2023-08-06:/s-bayer/lendabook</id>
+    <link href="https://github.com/s-bayer/lendabook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lend books from people near you&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LnL7/e-heroku</title>
+    <updated>2023-08-06T01:29:21Z</updated>
+    <id>tag:github.com,2023-08-06:/LnL7/e-heroku</id>
+    <link href="https://github.com/LnL7/e-heroku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ExpressJS Boilerplate for Heroku (Procfile)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Less Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-06T01:55:18Z</updated>
+  <subtitle>Weekly Trending of Less in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hsl947/react-antd-multi-tabs-admin</title>
+    <updated>2023-08-06T01:55:18Z</updated>
+    <id>tag:github.com,2023-08-06:/hsl947/react-antd-multi-tabs-admin</id>
+    <link href="https://github.com/hsl947/react-antd-multi-tabs-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ts+react+antd-多页签后台模板(纯净版，非 antd pro！)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

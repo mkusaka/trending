@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cairo Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-06T01:47:46Z</updated>
+  <subtitle>Weekly Trending of Cairo in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>starknet-edu/starknetbook</title>
+    <updated>2023-08-06T01:47:46Z</updated>
+    <id>tag:github.com,2023-08-06:/starknet-edu/starknetbook</id>
+    <link href="https://github.com/starknet-edu/starknetbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mastering Cairo and Starknet. By the Starknet community&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jediswaplabs/JediSwap</title>
+    <updated>2023-08-06T01:47:46Z</updated>
+    <id>tag:github.com,2023-08-06:/jediswaplabs/JediSwap</id>
+    <link href="https://github.com/jediswaplabs/JediSwap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JediSwap&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

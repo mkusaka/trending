@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pug Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-06T01:59:04Z</updated>
+  <subtitle>Weekly Trending of Pug in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tidory/hello</title>
+    <updated>2023-08-06T01:59:04Z</updated>
+    <id>tag:github.com,2023-08-06:/tidory/hello</id>
+    <link href="https://github.com/tidory/hello" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;😎 당신의 멋진 블로그에 걸맞는 최고의 티스토리 스킨&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

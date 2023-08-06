@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-06T02:04:13Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>webpilot-ai/Webpilot</title>
+    <updated>2023-08-06T02:04:13Z</updated>
+    <id>tag:github.com,2023-08-06:/webpilot-ai/Webpilot</id>
+    <link href="https://github.com/webpilot-ai/Webpilot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>laravel/breeze</title>
+    <updated>2023-08-06T02:04:13Z</updated>
+    <id>tag:github.com,2023-08-06:/laravel/breeze</id>
+    <link href="https://github.com/laravel/breeze" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>imsyy/home</title>
+    <updated>2023-08-06T02:04:13Z</updated>
+    <id>tag:github.com,2023-08-06:/imsyy/home</id>
+    <link href="https://github.com/imsyy/home" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;个人主页，我的个人主页，个人主页源码，主页模板，homepage&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

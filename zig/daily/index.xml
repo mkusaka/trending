@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-05T01:45:21Z</updated>
+  <updated>2023-08-06T01:45:19Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ziglibs/eggzon</title>
-    <updated>2023-08-05T01:45:21Z</updated>
-    <id>tag:github.com,2023-08-05:/ziglibs/eggzon</id>
-    <link href="https://github.com/ziglibs/eggzon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🥚Zon - A DOM based Zig Object Notation parser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>schmee/habu</title>
+    <updated>2023-08-06T01:45:19Z</updated>
+    <id>tag:github.com,2023-08-06:/schmee/habu</id>
+    <link href="https://github.com/schmee/habu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A TUI habit tracker&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

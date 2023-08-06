@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-05T01:44:36Z</updated>
+  <updated>2023-08-06T01:44:28Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Miazzy/oa-front-service</title>
-    <updated>2023-08-05T01:44:36Z</updated>
-    <id>tag:github.com,2023-08-05:/Miazzy/oa-front-service</id>
-    <link href="https://github.com/Miazzy/oa-front-service" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;oa-front-service, 基于Vue的OA系统，功能丰富，界面美观，演示地址：https://www.shengtai.club 账户zhaoziyun/Miazzy@163.com&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>weiwosuoai/WeBlog</title>
+    <updated>2023-08-06T01:44:28Z</updated>
+    <id>tag:github.com,2023-08-06:/weiwosuoai/WeBlog</id>
+    <link href="https://github.com/weiwosuoai/WeBlog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📗 Spring Boot + Vue 3.2 + Vite 前后端分离博客~ 感谢点个 Star 呀~&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

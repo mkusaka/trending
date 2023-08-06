@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-05T01:28:07Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-08-06T01:26:37Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CodingAIDatasets/DEX-Triangular-Arbitrage-Bot-V5-Bot</title>
-    <updated>2023-08-05T01:28:07Z</updated>
-    <id>tag:github.com,2023-08-05:/CodingAIDatasets/DEX-Triangular-Arbitrage-Bot-V5-Bot</id>
-    <link href="https://github.com/CodingAIDatasets/DEX-Triangular-Arbitrage-Bot-V5-Bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Our open-source JavaScript bot performs Triangular Arbitrage on DEX&#39;s, allowing you to maximize your profits. Easy to use and effective, start trading better.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>The-Code-Dose/html-css-challenges</title>
+    <updated>2023-08-06T01:26:37Z</updated>
+    <id>tag:github.com,2023-08-06:/The-Code-Dose/html-css-challenges</id>
+    <link href="https://github.com/The-Code-Dose/html-css-challenges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of beginner friendly practice exercises on HTML &amp; CSS topics.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iuricode/desafios-frontend</title>
-    <updated>2023-08-05T01:28:07Z</updated>
-    <id>tag:github.com,2023-08-05:/iuricode/desafios-frontend</id>
-    <link href="https://github.com/iuricode/desafios-frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Desafios frontend do Codelândia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ziishaned/learn-regex</title>
+    <updated>2023-08-06T01:26:37Z</updated>
+    <id>tag:github.com,2023-08-06:/ziishaned/learn-regex</id>
+    <link href="https://github.com/ziishaned/learn-regex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn regex the easy way&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zlida5818/AutoClicker</title>
-    <updated>2023-08-05T01:28:07Z</updated>
-    <id>tag:github.com,2023-08-05:/zlida5818/AutoClicker</id>
-    <link href="https://github.com/zlida5818/AutoClicker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;loves automation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kdeldycke/awesome-falsehood</title>
+    <updated>2023-08-06T01:26:37Z</updated>
+    <id>tag:github.com,2023-08-06:/kdeldycke/awesome-falsehood</id>
+    <link href="https://github.com/kdeldycke/awesome-falsehood" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;😱 Falsehoods Programmers Believe in&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

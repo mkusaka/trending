@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-05T01:44:31Z</updated>
+  <updated>2023-08-06T01:44:22Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>girishji/vimcomplete</title>
+    <updated>2023-08-06T01:44:22Z</updated>
+    <id>tag:github.com,2023-08-06:/girishji/vimcomplete</id>
+    <link href="https://github.com/girishji/vimcomplete" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Async autocompletion plugin for Vim written in Vim9script with support for LSP, snippets, dictionary, buffer, abbrevs, path, vimscript, ngrams, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

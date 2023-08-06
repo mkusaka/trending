@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-05T01:29:11Z</updated>
+  <updated>2023-08-06T01:27:49Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>airilrazman/FREE-RDP</title>
-    <updated>2023-08-05T01:29:11Z</updated>
-    <id>tag:github.com,2023-08-05:/airilrazman/FREE-RDP</id>
-    <link href="https://github.com/airilrazman/FREE-RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adithya-s-sekhar/advanced-youtube-client-ayc</title>
-    <updated>2023-08-05T01:29:11Z</updated>
-    <id>tag:github.com,2023-08-05:/adithya-s-sekhar/advanced-youtube-client-ayc</id>
-    <link href="https://github.com/adithya-s-sekhar/advanced-youtube-client-ayc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AYC is a highly responsive, no nonsense, easy to use, fast video downloader from the text based era.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SamsulGG15/rdp</title>
-    <updated>2023-08-05T01:29:11Z</updated>
-    <id>tag:github.com,2023-08-05:/SamsulGG15/rdp</id>
-    <link href="https://github.com/SamsulGG15/rdp" rel="alternate"></link>
+    <title>ctf-gemastik2023/penyisihan</title>
+    <updated>2023-08-06T01:27:49Z</updated>
+    <id>tag:github.com,2023-08-06:/ctf-gemastik2023/penyisihan</id>
+    <link href="https://github.com/ctf-gemastik2023/penyisihan" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

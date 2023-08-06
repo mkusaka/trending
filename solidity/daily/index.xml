@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-05T01:42:39Z</updated>
+  <updated>2023-08-06T01:42:26Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GenerationSoftware/pt-v5-cgda-liquidator</title>
-    <updated>2023-08-05T01:42:39Z</updated>
-    <id>tag:github.com,2023-08-05:/GenerationSoftware/pt-v5-cgda-liquidator</id>
-    <link href="https://github.com/GenerationSoftware/pt-v5-cgda-liquidator" rel="alternate"></link>
+    <title>emilianobonassi/whitehacks-kit</title>
+    <updated>2023-08-06T01:42:26Z</updated>
+    <id>tag:github.com,2023-08-06:/emilianobonassi/whitehacks-kit</id>
+    <link href="https://github.com/emilianobonassi/whitehacks-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple template to perform whitehacks safely&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2022-02-hubble</title>
+    <updated>2023-08-06T01:42:26Z</updated>
+    <id>tag:github.com,2023-08-06:/code-423n4/2022-02-hubble</id>
+    <link href="https://github.com/code-423n4/2022-02-hubble" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>OffchainLabs/bold</title>
-    <updated>2023-08-05T01:42:39Z</updated>
-    <id>tag:github.com,2023-08-05:/OffchainLabs/bold</id>
-    <link href="https://github.com/OffchainLabs/bold" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Efficient, all-vs-all dispute protocol for Optimistic Rollups&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>worldcoin/world-id-state-bridge</title>
+    <updated>2023-08-06T01:42:26Z</updated>
+    <id>tag:github.com,2023-08-06:/worldcoin/world-id-state-bridge</id>
+    <link href="https://github.com/worldcoin/world-id-state-bridge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;State bridge between the WorldID Ethereum mainnet deployment and WorldID supported networks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

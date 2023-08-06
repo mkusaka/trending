@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-05T01:43:33Z</updated>
+  <updated>2023-08-06T01:43:27Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pat-alt/julia-deeplearning-book</title>
+    <updated>2023-08-06T01:43:27Z</updated>
+    <id>tag:github.com,2023-08-06:/pat-alt/julia-deeplearning-book</id>
+    <link href="https://github.com/pat-alt/julia-deeplearning-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo that hosts the companion book of Julia for Deep Learning&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;julia-deeplearning-book&lt;/h1&gt; &#xA;&lt;p&gt;Repo that hosts the companion book of &lt;a href=&#34;https://github.com/cpfiffer/julia-deeplearning&#34;&gt;Julia for Deep Learning&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

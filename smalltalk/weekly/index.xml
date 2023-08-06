@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-06T02:01:53Z</updated>
+  <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pharo-contributions/OSSubprocess</title>
+    <updated>2023-08-06T02:01:53Z</updated>
+    <id>tag:github.com,2023-08-06:/pharo-contributions/OSSubprocess</id>
+    <link href="https://github.com/pharo-contributions/OSSubprocess" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Forking Operating System Processes from within Pharo Language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

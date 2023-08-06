@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-06T01:59:03Z</updated>
+  <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>example42/puppet-sysklogd</title>
+    <updated>2023-08-06T01:59:03Z</updated>
+    <id>tag:github.com,2023-08-06:/example42/puppet-sysklogd</id>
+    <link href="https://github.com/example42/puppet-sysklogd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module for Sysklogd&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cordoval/puppet-symfony</title>
+    <updated>2023-08-06T01:59:03Z</updated>
+    <id>tag:github.com,2023-08-06:/cordoval/puppet-symfony</id>
+    <link href="https://github.com/cordoval/puppet-symfony" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet modules for Symfony development with Vagrant&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jfryman/puppet-puppet</title>
+    <updated>2023-08-06T01:59:03Z</updated>
+    <id>tag:github.com,2023-08-06:/jfryman/puppet-puppet</id>
+    <link href="https://github.com/jfryman/puppet-puppet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module to manage Puppet (meta!)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

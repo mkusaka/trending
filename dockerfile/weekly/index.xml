@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Dockerfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-06T01:49:27Z</updated>
+  <subtitle>Weekly Trending of Dockerfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>uncleluointel/free</title>
+    <updated>2023-08-06T01:49:27Z</updated>
+    <id>tag:github.com,2023-08-06:/uncleluointel/free</id>
+    <link href="https://github.com/uncleluointel/free" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ktestrepos/Four</title>
+    <updated>2023-08-06T01:49:27Z</updated>
+    <id>tag:github.com,2023-08-06:/ktestrepos/Four</id>
+    <link href="https://github.com/ktestrepos/Four" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a broken repository for testing purposes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

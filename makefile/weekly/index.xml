@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-06T01:55:56Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cartesi/grpc-interfaces</title>
+    <updated>2023-08-06T01:55:56Z</updated>
+    <id>tag:github.com,2023-08-06:/cartesi/grpc-interfaces</id>
+    <link href="https://github.com/cartesi/grpc-interfaces" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cartesi gRPC Interfaces&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xmos/lib_xassert</title>
+    <updated>2023-08-06T01:55:56Z</updated>
+    <id>tag:github.com,2023-08-06:/xmos/lib_xassert</id>
+    <link href="https://github.com/xmos/lib_xassert" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight assertions library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-06T02:02:04Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ptahdao/lmr-partners</title>
+    <updated>2023-08-06T02:02:04Z</updated>
+    <id>tag:github.com,2023-08-06:/ptahdao/lmr-partners</id>
+    <link href="https://github.com/ptahdao/lmr-partners" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cyfrin/2023-07-escrow</title>
+    <updated>2023-08-06T02:02:04Z</updated>
+    <id>tag:github.com,2023-08-06:/Cyfrin/2023-07-escrow</id>
+    <link href="https://github.com/Cyfrin/2023-07-escrow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cyfrin/2023-07-foundry-defi-stablecoin</title>
+    <updated>2023-08-06T02:02:04Z</updated>
+    <id>tag:github.com,2023-08-06:/Cyfrin/2023-07-foundry-defi-stablecoin</id>
+    <link href="https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

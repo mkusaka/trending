@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-05T01:41:58Z</updated>
+  <updated>2023-08-06T01:41:46Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>helloflask/bootstrap-flask</title>
-    <updated>2023-08-05T01:41:58Z</updated>
-    <id>tag:github.com,2023-08-05:/helloflask/bootstrap-flask</id>
-    <link href="https://github.com/helloflask/bootstrap-flask" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap 4 &amp; 5 helper for your Flask projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>creativetimofficial/material-dashboard-flask</title>
+    <updated>2023-08-06T01:41:46Z</updated>
+    <id>tag:github.com,2023-08-06:/creativetimofficial/material-dashboard-flask</id>
+    <link href="https://github.com/creativetimofficial/material-dashboard-flask" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material Dashboard - Flask Template | Creative-Tim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vamsibyramala/live01</title>
+    <updated>2023-08-06T01:41:46Z</updated>
+    <id>tag:github.com,2023-08-06:/vamsibyramala/live01</id>
+    <link href="https://github.com/vamsibyramala/live01" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

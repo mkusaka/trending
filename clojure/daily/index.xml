@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-05T01:30:23Z</updated>
+  <updated>2023-08-06T01:29:09Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>muraiki/clojurepoker</title>
-    <updated>2023-08-05T01:30:23Z</updated>
-    <id>tag:github.com,2023-08-05:/muraiki/clojurepoker</id>
-    <link href="https://github.com/muraiki/clojurepoker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure and Clojurescript poker library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>taoensso/sente</title>
+    <updated>2023-08-06T01:29:09Z</updated>
+    <id>tag:github.com,2023-08-06:/taoensso/sente</id>
+    <link href="https://github.com/taoensso/sente" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Realtime web comms for Clojure/Script applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-06T01:56:06Z</updated>
+  <subtitle>Weekly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hongyusu/mmcrfmissing_scripts</title>
+    <updated>2023-08-06T01:56:06Z</updated>
+    <id>tag:github.com,2023-08-06:/hongyusu/mmcrfmissing_scripts</id>
+    <link href="https://github.com/hongyusu/mmcrfmissing_scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eric-tramel/CSQuantization</title>
+    <updated>2023-08-06T01:56:06Z</updated>
+    <id>tag:github.com,2023-08-06:/eric-tramel/CSQuantization</id>
+    <link href="https://github.com/eric-tramel/CSQuantization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Research code repository for ongoing development of methods connecting quantization and compressed sensing.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nvartolomei/k-means</title>
+    <updated>2023-08-06T01:56:06Z</updated>
+    <id>tag:github.com,2023-08-06:/nvartolomei/k-means</id>
+    <link href="https://github.com/nvartolomei/k-means" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;K-Means clustering algorithm implemented in Octave&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Isabelle Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-05T01:34:34Z</updated>
+  <updated>2023-08-06T01:33:47Z</updated>
   <subtitle>Daily Trending of Isabelle in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rems-project/sail</title>
+    <updated>2023-08-06T01:33:47Z</updated>
+    <id>tag:github.com,2023-08-06:/rems-project/sail</id>
+    <link href="https://github.com/rems-project/sail" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sail architecture definition language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
