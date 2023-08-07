@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-06T01:33:00Z</updated>
+  <updated>2023-08-07T01:36:16Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>t0rrant/xmonad-config</title>
-    <updated>2023-08-06T01:33:00Z</updated>
-    <id>tag:github.com,2023-08-06:/t0rrant/xmonad-config</id>
-    <link href="https://github.com/t0rrant/xmonad-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common base to replicate in all of my machines.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;xmonad-config&lt;/h1&gt; &#xA;&lt;p&gt;Common base to replicate in all of my machines.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>snoyberg/yesod-pure</title>
-    <updated>2023-08-06T01:33:00Z</updated>
-    <id>tag:github.com,2023-08-06:/snoyberg/yesod-pure</id>
-    <link href="https://github.com/snoyberg/yesod-pure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yesod in pure Haskell: no Template Haskell or QuasiQuotes&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;yesod-pure&lt;/h1&gt; &#xA;&lt;p&gt;Yesod in pure Haskell: no Template Haskell or QuasiQuotes&lt;/p&gt;</summary>
+    <title>graninas/Pragmatic-Type-Level-Design</title>
+    <updated>2023-08-07T01:36:16Z</updated>
+    <id>tag:github.com,2023-08-07:/graninas/Pragmatic-Type-Level-Design</id>
+    <link href="https://github.com/graninas/Pragmatic-Type-Level-Design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code and materials for my book &#34;Pragmatic Type Level Design&#34;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Pragmatic-Type-Level-Design&lt;/h1&gt; &#xA;&lt;p&gt;Code and materials for my book &lt;strong&gt;Pragmatic Type Level Design&lt;/strong&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Pragmatic type level design&lt;/strong&gt; is a book about practical ideas expressed with the help of the rich type system of Haskell. In contrast with all other materials about types in Haskell, the main focus of this book is not the type system itself, and not the related math. The main focus of the book is pragmatism: how to apply those concepts in real programs. What are the best practices, how types affect the design and architecture of applciations, what principles one should follow when dealing with the accidental complexity of a type-level code.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1eCZKPeq5tiRzY8QyxcgYlKXTGaPLWCVboAaaUEfC_D0/edit?usp=sharing&#34;&gt;ToC (draft)&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;My book on high-level software design with statically typed functional languages: &lt;a href=&#34;https://www.manning.com/books/functional-design-and-architecture&#34;&gt;Functional Design and Architecture&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>

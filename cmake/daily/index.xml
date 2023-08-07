@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-06T01:29:16Z</updated>
+  <updated>2023-08-07T01:31:42Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>franneck94/CppProjectTemplate</title>
-    <updated>2023-08-06T01:29:16Z</updated>
-    <id>tag:github.com,2023-08-06:/franneck94/CppProjectTemplate</id>
-    <link href="https://github.com/franneck94/CppProjectTemplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C++ project template with unit-tests, documentation, ci-testing and workflows.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mrexodia/phnt-single-header</title>
+    <updated>2023-08-07T01:31:42Z</updated>
+    <id>tag:github.com,2023-08-07:/mrexodia/phnt-single-header</id>
+    <link href="https://github.com/mrexodia/phnt-single-header" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Single header version of System Informer&#39;s phnt library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

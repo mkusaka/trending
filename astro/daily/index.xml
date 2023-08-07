@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-06T01:27:33Z</updated>
+  <updated>2023-08-07T01:30:05Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>houzyk/thephilosophicalcode</title>
-    <updated>2023-08-06T01:27:33Z</updated>
-    <id>tag:github.com,2023-08-06:/houzyk/thephilosophicalcode</id>
-    <link href="https://github.com/houzyk/thephilosophicalcode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-source article series exploring the intersection of philosophy and computation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>danielcgilibert/blog-template</title>
+    <updated>2023-08-07T01:30:05Z</updated>
+    <id>tag:github.com,2023-08-07:/danielcgilibert/blog-template</id>
+    <link href="https://github.com/danielcgilibert/blog-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 An open-source blog template.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vipyrsec/vipyrsec-site</title>
+    <updated>2023-08-07T01:30:05Z</updated>
+    <id>tag:github.com,2023-08-07:/vipyrsec/vipyrsec-site</id>
+    <link href="https://github.com/vipyrsec/vipyrsec-site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Our organizations website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Charca/astro-records</title>
+    <updated>2023-08-07T01:30:05Z</updated>
+    <id>tag:github.com,2023-08-07:/Charca/astro-records</id>
+    <link href="https://github.com/Charca/astro-records" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Astro SPA Demo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

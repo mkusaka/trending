@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-06T01:39:15Z</updated>
+  <updated>2023-08-07T01:42:23Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HoussemDellai/docker-kubernetes-course</title>
-    <updated>2023-08-06T01:39:15Z</updated>
-    <id>tag:github.com,2023-08-06:/HoussemDellai/docker-kubernetes-course</id>
-    <link href="https://github.com/HoussemDellai/docker-kubernetes-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demoing Kubernetes/AKS features&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;docker-kubernetes-course&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HJ6F05Pm5mQ&amp;amp;list=PLpbcUe4chE79sB7Jg7B4z3HytqUUEwcNE&#34;&gt;https://www.youtube.com/watch?v=HJ6F05Pm5mQ&amp;amp;list=PLpbcUe4chE79sB7Jg7B4z3HytqUUEwcNE&lt;/a&gt;&lt;/p&gt; &#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=HJ6F05Pm5mQ&amp;amp;list=PLpbcUe4chE79sB7Jg7B4z3HytqUUEwcNE&#34;&gt; &lt;img src=&#34;https://github.com/HoussemDellai/docker-kubernetes-course/raw/main/videos.jpg?raw=true&#34;&gt; &lt;/a&gt;</summary>
-  </entry>
 </feed>

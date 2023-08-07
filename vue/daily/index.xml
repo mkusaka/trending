@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-06T01:44:28Z</updated>
+  <updated>2023-08-07T01:47:30Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>weiwosuoai/WeBlog</title>
-    <updated>2023-08-06T01:44:28Z</updated>
-    <id>tag:github.com,2023-08-06:/weiwosuoai/WeBlog</id>
-    <link href="https://github.com/weiwosuoai/WeBlog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📗 Spring Boot + Vue 3.2 + Vite 前后端分离博客~ 感谢点个 Star 呀~&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mjjh1717/ai-beehive-web</title>
+    <updated>2023-08-07T01:47:30Z</updated>
+    <id>tag:github.com,2023-08-07:/mjjh1717/ai-beehive-web</id>
+    <link href="https://github.com/mjjh1717/ai-beehive-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;蜂巢 ai-beehive 用户端&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-06T01:37:18Z</updated>
+  <updated>2023-08-07T01:40:36Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nitely/nim-regex</title>
-    <updated>2023-08-06T01:37:18Z</updated>
-    <id>tag:github.com,2023-08-06:/nitely/nim-regex</id>
-    <link href="https://github.com/nitely/nim-regex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pure Nim regex engine. Guarantees linear time matching&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

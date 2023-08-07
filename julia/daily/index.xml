@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-06T01:34:45Z</updated>
+  <updated>2023-08-07T01:38:07Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>beacon-biosignals/ray_core_worker_julia_jll.jl</title>
-    <updated>2023-08-06T01:34:45Z</updated>
-    <id>tag:github.com,2023-08-06:/beacon-biosignals/ray_core_worker_julia_jll.jl</id>
-    <link href="https://github.com/beacon-biosignals/ray_core_worker_julia_jll.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia C++ wrapper for the Ray core worker library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arviz-devs/PosteriorStats.jl</title>
+    <updated>2023-08-07T01:38:07Z</updated>
+    <id>tag:github.com,2023-08-07:/arviz-devs/PosteriorStats.jl</id>
+    <link href="https://github.com/arviz-devs/PosteriorStats.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Statistical analyses for Bayesian workflows&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WestleyArgentum/GeneticAlgorithms.jl</title>
-    <updated>2023-08-06T01:34:45Z</updated>
-    <id>tag:github.com,2023-08-06:/WestleyArgentum/GeneticAlgorithms.jl</id>
-    <link href="https://github.com/WestleyArgentum/GeneticAlgorithms.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight framework for writing genetic algorithms in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>abap34/JITrench.jl</title>
+    <updated>2023-08-07T01:38:07Z</updated>
+    <id>tag:github.com,2023-08-07:/abap34/JITrench.jl</id>
+    <link href="https://github.com/abap34/JITrench.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[wip] Lightweight Automatic Differentiation &amp; DeepLearning Framework implemented in pure Julia.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

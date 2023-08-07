@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub IDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-06T01:33:36Z</updated>
+  <updated>2023-08-07T01:36:51Z</updated>
   <subtitle>Daily Trending of IDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>idl-coyote/coyote</title>
+    <updated>2023-08-07T01:36:51Z</updated>
+    <id>tag:github.com,2023-08-07:/idl-coyote/coyote</id>
+    <link href="https://github.com/idl-coyote/coyote" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Coyote Library evolved from work David Fanning was doing teaching IDL courses and answering IDL questions on the IDL newsgroup. It is meant to be a well-documented library that demonstrates how to write solid (dare we say eloquent) IDL programs that are easy to maintain and extend. You can learn more about these programs and about IDL progra…&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

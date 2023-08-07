@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-06T01:31:20Z</updated>
+  <updated>2023-08-07T01:34:26Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lontivero/Berlino</title>
+    <updated>2023-08-07T01:34:26Z</updated>
+    <id>tag:github.com,2023-08-07:/lontivero/Berlino</id>
+    <link href="https://github.com/lontivero/Berlino" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The simplest bitcoin wallet&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Berlino wallet&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/lontivero/Berlino/actions/workflows/dotnet.yml&#34;&gt;&lt;img src=&#34;https://github.com/lontivero/Berlino/actions/workflows/dotnet.yml/badge.svg?sanitize=true&#34; alt=&#34;.NET&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Berlino is an attempt to create the simplest bitcoin wallet ever.&lt;/p&gt;</summary>
+  </entry>
 </feed>

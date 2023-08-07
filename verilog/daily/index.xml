@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-06T01:44:17Z</updated>
+  <updated>2023-08-07T01:47:18Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>trailofbits/sholva</title>
-    <updated>2023-08-06T01:44:17Z</updated>
-    <id>tag:github.com,2023-08-06:/trailofbits/sholva</id>
-    <link href="https://github.com/trailofbits/sholva" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An experimental Tiny86 decoder and verifier for SIEVE&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>efabless/openlane-ci-designs</title>
+    <updated>2023-08-07T01:47:18Z</updated>
+    <id>tag:github.com,2023-08-07:/efabless/openlane-ci-designs</id>
+    <link href="https://github.com/efabless/openlane-ci-designs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

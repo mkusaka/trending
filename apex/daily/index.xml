@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-06T01:27:23Z</updated>
+  <updated>2023-08-07T01:29:51Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pgonzaleznetwork/salesforce-feature-flags</title>
-    <updated>2023-08-06T01:27:23Z</updated>
-    <id>tag:github.com,2023-08-06:/pgonzaleznetwork/salesforce-feature-flags</id>
-    <link href="https://github.com/pgonzaleznetwork/salesforce-feature-flags" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple framework for using feature flags in apex driven by Custom Permissions and Custom Metadata Types.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

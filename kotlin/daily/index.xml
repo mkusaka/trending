@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-06T01:35:12Z</updated>
+  <updated>2023-08-07T01:38:41Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ReVanced/revanced-patcher</title>
-    <updated>2023-08-06T01:35:12Z</updated>
-    <id>tag:github.com,2023-08-06:/ReVanced/revanced-patcher</id>
-    <link href="https://github.com/ReVanced/revanced-patcher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💉 ReVanced Patcher used to patch Android applications&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;💉 ReVanced Patcher&lt;/h1&gt; &#xA;&lt;p&gt;ReVanced Patcher used to patch Android applications.&lt;/p&gt;</summary>
+    <title>ReVanced/revanced-cli</title>
+    <updated>2023-08-07T01:38:41Z</updated>
+    <id>tag:github.com,2023-08-07:/ReVanced/revanced-cli</id>
+    <link href="https://github.com/ReVanced/revanced-cli" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💻 Command line application as an alternative to the ReVanced Manager&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;💻 ReVanced CLI&lt;/h1&gt; &#xA;&lt;p&gt;Command line application as an alternative to the ReVanced Manager.&lt;/p&gt;</summary>
   </entry>
 </feed>
