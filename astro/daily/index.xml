@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-07T01:30:05Z</updated>
+  <updated>2023-08-08T01:29:44Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>danielcgilibert/blog-template</title>
-    <updated>2023-08-07T01:30:05Z</updated>
-    <id>tag:github.com,2023-08-07:/danielcgilibert/blog-template</id>
-    <link href="https://github.com/danielcgilibert/blog-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 An open-source blog template.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ColorlibHQ/AdminLTE</title>
+    <updated>2023-08-08T01:29:44Z</updated>
+    <id>tag:github.com,2023-08-08:/ColorlibHQ/AdminLTE</id>
+    <link href="https://github.com/ColorlibHQ/AdminLTE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AdminLTE - Free admin dashboard template based on Bootstrap 5&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vipyrsec/vipyrsec-site</title>
-    <updated>2023-08-07T01:30:05Z</updated>
-    <id>tag:github.com,2023-08-07:/vipyrsec/vipyrsec-site</id>
-    <link href="https://github.com/vipyrsec/vipyrsec-site" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Our organizations website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Charca/astro-records</title>
-    <updated>2023-08-07T01:30:05Z</updated>
-    <id>tag:github.com,2023-08-07:/Charca/astro-records</id>
-    <link href="https://github.com/Charca/astro-records" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Astro SPA Demo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>scarsu/scarsu.com</title>
+    <updated>2023-08-08T01:29:44Z</updated>
+    <id>tag:github.com,2023-08-08:/scarsu/scarsu.com</id>
+    <link href="https://github.com/scarsu/scarsu.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;用astro重构的最新个人网站，地址：scarsu.com&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

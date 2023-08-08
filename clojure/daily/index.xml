@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-07T01:31:33Z</updated>
+  <updated>2023-08-08T01:31:21Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>taoensso/encore</title>
-    <updated>2023-08-07T01:31:33Z</updated>
-    <id>tag:github.com,2023-08-07:/taoensso/encore</id>
-    <link href="https://github.com/taoensso/encore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core utils library for Clojure/Script&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>practicalli/project-templates</title>
-    <updated>2023-08-07T01:31:33Z</updated>
-    <id>tag:github.com,2023-08-07:/practicalli/project-templates</id>
-    <link href="https://github.com/practicalli/project-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure CLI Production level templates for seancorfield/deps-new&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>taoensso/nippy</title>
-    <updated>2023-08-07T01:31:33Z</updated>
-    <id>tag:github.com,2023-08-07:/taoensso/nippy</id>
-    <link href="https://github.com/taoensso/nippy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The fastest serialization library for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

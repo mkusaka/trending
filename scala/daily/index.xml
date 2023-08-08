@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-07T01:44:36Z</updated>
+  <updated>2023-08-08T01:43:48Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rob-p/GHOST</title>
-    <updated>2023-08-07T01:44:36Z</updated>
-    <id>tag:github.com,2023-08-07:/rob-p/GHOST</id>
-    <link href="https://github.com/rob-p/GHOST" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Global Network Alignment using Multiscale Spectral Signatures&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GHOST&lt;/h1&gt; &#xA;&lt;p&gt;Global Network Alignment using Multiscale Spectral Signatures&lt;/p&gt;</summary>
-  </entry>
 </feed>

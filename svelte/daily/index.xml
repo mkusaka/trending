@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-07T01:45:55Z</updated>
+  <updated>2023-08-08T01:45:15Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>spinspire/pocketbase-sveltekit-starter</title>
-    <updated>2023-08-07T01:45:55Z</updated>
-    <id>tag:github.com,2023-08-07:/spinspire/pocketbase-sveltekit-starter</id>
-    <link href="https://github.com/spinspire/pocketbase-sveltekit-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a starter project to build a SvelteKit frontend with PocketBase backend&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jerzakm/three-threlte-fps</title>
-    <updated>2023-08-07T01:45:55Z</updated>
-    <id>tag:github.com,2023-08-07:/jerzakm/three-threlte-fps</id>
-    <link href="https://github.com/jerzakm/three-threlte-fps" rel="alternate"></link>
+    <title>pevey/sveltekit-medusa-starter</title>
+    <updated>2023-08-08T01:45:15Z</updated>
+    <id>tag:github.com,2023-08-08:/pevey/sveltekit-medusa-starter</id>
+    <link href="https://github.com/pevey/sveltekit-medusa-starter" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

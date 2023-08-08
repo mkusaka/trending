@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-07T01:38:07Z</updated>
+  <updated>2023-08-08T01:37:20Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>arviz-devs/PosteriorStats.jl</title>
-    <updated>2023-08-07T01:38:07Z</updated>
-    <id>tag:github.com,2023-08-07:/arviz-devs/PosteriorStats.jl</id>
-    <link href="https://github.com/arviz-devs/PosteriorStats.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Statistical analyses for Bayesian workflows&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joshday/OnlineStats.jl</title>
+    <updated>2023-08-08T01:37:20Z</updated>
+    <id>tag:github.com,2023-08-08:/joshday/OnlineStats.jl</id>
+    <link href="https://github.com/joshday/OnlineStats.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡ Single-pass algorithms for statistics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>abap34/JITrench.jl</title>
-    <updated>2023-08-07T01:38:07Z</updated>
-    <id>tag:github.com,2023-08-07:/abap34/JITrench.jl</id>
-    <link href="https://github.com/abap34/JITrench.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[wip] Lightweight Automatic Differentiation &amp; DeepLearning Framework implemented in pure Julia.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>svaksha/pythonidae</title>
+    <updated>2023-08-08T01:37:20Z</updated>
+    <id>tag:github.com,2023-08-08:/svaksha/pythonidae</id>
+    <link href="https://github.com/svaksha/pythonidae" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated decibans of scientific programming resources in Python.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jondeuce/Ignite.jl</title>
+    <updated>2023-08-08T01:37:20Z</updated>
+    <id>tag:github.com,2023-08-08:/jondeuce/Ignite.jl</id>
+    <link href="https://github.com/jondeuce/Ignite.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

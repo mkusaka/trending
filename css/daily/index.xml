@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-07T01:32:15Z</updated>
+  <updated>2023-08-08T01:31:52Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>brunasilvaraujo/Login-Form</title>
-    <updated>2023-08-07T01:32:15Z</updated>
-    <id>tag:github.com,2023-08-07:/brunasilvaraujo/Login-Form</id>
-    <link href="https://github.com/brunasilvaraujo/Login-Form" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Animated Glassmorphism Login Form using Html &amp; CSS&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Login-Form&lt;/h1&gt; &#xA;&lt;img src=&#34;/img/Captura de tela 2023-07-31 093411.png&#34; alt=&#34;My cool logo&#34;&gt;</summary>
+    <title>bedimcode/responsive-portfolio-website-rian</title>
+    <updated>2023-08-08T01:31:52Z</updated>
+    <id>tag:github.com,2023-08-08:/bedimcode/responsive-portfolio-website-rian</id>
+    <link href="https://github.com/bedimcode/responsive-portfolio-website-rian" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Responsive Personal Portfolio Website Using HTML CSS &amp; JavaScript&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Responsive Portfolio Website Rian&lt;/h1&gt; &#xA;&lt;h2&gt;&lt;a href=&#34;https://youtu.be/-uQIBlaZ4P0&#34;&gt;Watch it on youtube&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;h3&gt;Responsive Portfolio Website Rian&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Responsive Personal Portfolio Website Using HTML CSS &amp;amp; JavaScript&lt;/li&gt; &#xA; &lt;li&gt;Contains animations when scrolling.&lt;/li&gt; &#xA; &lt;li&gt;Smooth scrolling in each section.&lt;/li&gt; &#xA; &lt;li&gt;Includes a dark &amp;amp; light theme.&lt;/li&gt; &#xA; &lt;li&gt;Sending emails in the contact section.&lt;/li&gt; &#xA; &lt;li&gt;Developed first with the Mobile First methodology, then for desktop.&lt;/li&gt; &#xA; &lt;li&gt;Compatible with all mobile devices and with a beautiful and pleasant user interface.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;💙 Join the channel to see more videos like this. &lt;a href=&#34;https://www.youtube.com/@Bedimcode&#34;&gt;Bedimcode&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/bedimcode/responsive-portfolio-website-rian/main/preview.png&#34; alt=&#34;preview img&#34;&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>stevekinney/name-badges</title>
-    <updated>2023-08-07T01:32:15Z</updated>
-    <id>tag:github.com,2023-08-07:/stevekinney/name-badges</id>
-    <link href="https://github.com/stevekinney/name-badges" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;React and TypeScript Example&lt;/h1&gt; &#xA;&lt;p&gt;This is an exmaple application from Steve&#39;s React and TypeScript course.&lt;/p&gt;</summary>
+    <title>fmhy/FMHYedit</title>
+    <updated>2023-08-08T01:31:52Z</updated>
+    <id>tag:github.com,2023-08-08:/fmhy/FMHYedit</id>
+    <link href="https://github.com/fmhy/FMHYedit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make changes to FMHY&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;strong&gt;The Largest Collection of Free Stuff On The Internet!&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Anyone can suggest &lt;a href=&#34;https://github.com/nbats/FMHYedit&#34;&gt;changes or corrections&lt;/a&gt; to the wiki.&lt;/li&gt; &#xA; &lt;li&gt;If you&#39;re adding a new site, please &lt;a href=&#34;https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page&#34;&gt;search&lt;/a&gt; first to make sure we don&#39;t already have it.&lt;/li&gt; &#xA; &lt;li&gt;Approved edits will be applied to this site and all &lt;a href=&#34;https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups&#34;&gt;🔒 backups&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;You can send us stuff directly via &lt;a href=&#34;https://redd.it/uto5vw&#34;&gt;💬 Divolt&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;You can discuss the wiki or anything you&#39;d like on our &lt;a href=&#34;https://lemmy.fmhy.net/&#34;&gt;🐭 Lemmy&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;You can also checkout our subreddit, &lt;a href=&#34;https://www.reddit.com/r/FREEMEDIAHECKYEAH/&#34;&gt;r/FREEMEDIAHECKYEAH&lt;/a&gt; to know about any major updates to the wiki.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

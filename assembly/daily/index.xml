@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-07T01:30:08Z</updated>
+  <updated>2023-08-08T01:29:47Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jtriley-eth/vy-deepdive</title>
-    <updated>2023-08-07T01:30:08Z</updated>
-    <id>tag:github.com,2023-08-07:/jtriley-eth/vy-deepdive</id>
-    <link href="https://github.com/jtriley-eth/vy-deepdive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vyper Deep Dive Notes and Scripts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openvinotoolkit/mlas</title>
-    <updated>2023-08-07T01:30:08Z</updated>
-    <id>tag:github.com,2023-08-07:/openvinotoolkit/mlas</id>
-    <link href="https://github.com/openvinotoolkit/mlas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DerpFest-AOSP/bionic</title>
-    <updated>2023-08-07T01:30:08Z</updated>
-    <id>tag:github.com,2023-08-07:/DerpFest-AOSP/bionic</id>
-    <link href="https://github.com/DerpFest-AOSP/bionic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

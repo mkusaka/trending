@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-07T01:36:12Z</updated>
+  <updated>2023-08-08T01:35:15Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>terraform-ibm-modules/terraform-ibm-observability-instances</title>
-    <updated>2023-08-07T01:36:12Z</updated>
-    <id>tag:github.com,2023-08-07:/terraform-ibm-modules/terraform-ibm-observability-instances</id>
-    <link href="https://github.com/terraform-ibm-modules/terraform-ibm-observability-instances" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deploys services for LogDNA, Activity Tracker, and SysDig&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-ibm-modules/terraform-ibm-kms-key</title>
-    <updated>2023-08-07T01:36:12Z</updated>
-    <id>tag:github.com,2023-08-07:/terraform-ibm-modules/terraform-ibm-kms-key</id>
-    <link href="https://github.com/terraform-ibm-modules/terraform-ibm-kms-key" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Module for creation of KMS keys&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dominodatalab/terraform-aws-eks</title>
-    <updated>2023-08-07T01:36:12Z</updated>
-    <id>tag:github.com,2023-08-07:/dominodatalab/terraform-aws-eks</id>
-    <link href="https://github.com/dominodatalab/terraform-aws-eks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module for deploying a Domino on EKS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/terraform-azurerm-vnet-gateway</title>
+    <updated>2023-08-08T01:35:15Z</updated>
+    <id>tag:github.com,2023-08-08:/Azure/terraform-azurerm-vnet-gateway</id>
+    <link href="https://github.com/Azure/terraform-azurerm-vnet-gateway" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to deploy VPN and ExpressRoute gateways&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
