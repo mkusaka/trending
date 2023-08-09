@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-08T01:37:20Z</updated>
+  <updated>2023-08-09T01:36:57Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>joshday/OnlineStats.jl</title>
-    <updated>2023-08-08T01:37:20Z</updated>
-    <id>tag:github.com,2023-08-08:/joshday/OnlineStats.jl</id>
-    <link href="https://github.com/joshday/OnlineStats.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡ Single-pass algorithms for statistics&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>svaksha/pythonidae</title>
-    <updated>2023-08-08T01:37:20Z</updated>
-    <id>tag:github.com,2023-08-08:/svaksha/pythonidae</id>
-    <link href="https://github.com/svaksha/pythonidae" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated decibans of scientific programming resources in Python.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jondeuce/Ignite.jl</title>
-    <updated>2023-08-08T01:37:20Z</updated>
-    <id>tag:github.com,2023-08-08:/jondeuce/Ignite.jl</id>
-    <link href="https://github.com/jondeuce/Ignite.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

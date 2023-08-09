@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-08T01:44:51Z</updated>
+  <updated>2023-08-09T01:45:08Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ratimon/solid-grinder</title>
-    <updated>2023-08-08T01:44:51Z</updated>
-    <id>tag:github.com,2023-08-08:/Ratimon/solid-grinder</id>
-    <link href="https://github.com/Ratimon/solid-grinder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clabby/mips-huff</title>
+    <updated>2023-08-09T01:45:08Z</updated>
+    <id>tag:github.com,2023-08-09:/clabby/mips-huff</id>
+    <link href="https://github.com/clabby/mips-huff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A rewrite of Optimism&#39;s MIPS.sol thread context in Huff&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>emilianobonassi/curve-whitehack-example</title>
-    <updated>2023-08-08T01:44:51Z</updated>
-    <id>tag:github.com,2023-08-08:/emilianobonassi/curve-whitehack-example</id>
-    <link href="https://github.com/emilianobonassi/curve-whitehack-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example of the whitehack for Curve exploit 30/07/23&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>risc0/bonsai-foundry-template</title>
+    <updated>2023-08-09T01:45:08Z</updated>
+    <id>tag:github.com,2023-08-09:/risc0/bonsai-foundry-template</id>
+    <link href="https://github.com/risc0/bonsai-foundry-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bonsai starter template for foundry / forge&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

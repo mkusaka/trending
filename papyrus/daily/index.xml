@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Papyrus Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-08T01:40:31Z</updated>
+  <updated>2023-08-09T01:40:16Z</updated>
   <subtitle>Daily Trending of Papyrus in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>isathar/F4_AmmoTweaks</title>
-    <updated>2023-08-08T01:40:31Z</updated>
-    <id>tag:github.com,2023-08-08:/isathar/F4_AmmoTweaks</id>
-    <link href="https://github.com/isathar/F4_AmmoTweaks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Fallout 4 Mod. Includes ammo switching, additional ammo types, a weapon condition system, ammo/explosives crafting, and more.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
