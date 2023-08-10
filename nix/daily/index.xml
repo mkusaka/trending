@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-09T01:39:19Z</updated>
+  <updated>2023-08-10T01:40:20Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ALT-F4-LLC/kickstart.nix</title>
-    <updated>2023-08-09T01:39:19Z</updated>
-    <id>tag:github.com,2023-08-09:/ALT-F4-LLC/kickstart.nix</id>
-    <link href="https://github.com/ALT-F4-LLC/kickstart.nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kickstart your Nix environment.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>x0ba/dotfiles</title>
+    <updated>2023-08-10T01:40:20Z</updated>
+    <id>tag:github.com,2023-08-10:/x0ba/dotfiles</id>
+    <link href="https://github.com/x0ba/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-09T01:39:02Z</updated>
+  <updated>2023-08-10T01:40:02Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kubereboot/charts</title>
-    <updated>2023-08-09T01:39:02Z</updated>
-    <id>tag:github.com,2023-08-09:/kubereboot/charts</id>
-    <link href="https://github.com/kubereboot/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm charts for kubereboot org (kured)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>crowdproj/crowdproj</title>
-    <updated>2023-08-09T01:39:02Z</updated>
-    <id>tag:github.com,2023-08-09:/crowdproj/crowdproj</id>
-    <link href="https://github.com/crowdproj/crowdproj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Main project repository containgin binding/deployment components and documentation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>luminartech/helm-charts-public</title>
+    <updated>2023-08-10T01:40:02Z</updated>
+    <id>tag:github.com,2023-08-10:/luminartech/helm-charts-public</id>
+    <link href="https://github.com/luminartech/helm-charts-public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Luminar Technologies public repository for kubernetes helm charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

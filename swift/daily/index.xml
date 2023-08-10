@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-09T01:45:40Z</updated>
+  <updated>2023-08-10T01:46:18Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Kinark/winston</title>
+    <updated>2023-08-10T01:46:18Z</updated>
+    <id>tag:github.com,2023-08-10:/Kinark/winston</id>
+    <link href="https://github.com/Kinark/winston" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Winston for Reddit&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Kinark/winston/main/winston-everywhere/Resources/images/icon-128.png&#34; alt=&#34;Winston Logo&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;This is the official repository for Winston, a beautiful, FOSS, native handcrafted Reddit client for iOS.&lt;/p&gt; &#xA;&lt;p&gt;This is a WIP, both the app and this README.&lt;/p&gt; &#xA;&lt;p&gt;You can join the TestFlight here: &lt;a href=&#34;https://testflight.apple.com/join/3UF8bAUN&#34;&gt;https://testflight.apple.com/join/3UF8bAUN&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;You can support this project by subscribing to our Patreon: &lt;a href=&#34;https://patreon.com/user?u=93745105&#34;&gt;https://patreon.com/user?u=93745105&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

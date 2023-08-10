@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub RobotFramework Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-09T01:43:21Z</updated>
+  <updated>2023-08-10T01:44:06Z</updated>
   <subtitle>Daily Trending of RobotFramework in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>3mdeb/rtectrl-rest-api</title>
+    <updated>2023-08-10T01:44:06Z</updated>
+    <id>tag:github.com,2023-08-10:/3mdeb/rtectrl-rest-api</id>
+    <link href="https://github.com/3mdeb/rtectrl-rest-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Robot Framework REST API calls submodule&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

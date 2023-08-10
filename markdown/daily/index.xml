@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-09T01:38:17Z</updated>
+  <updated>2023-08-10T01:39:18Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Clearloveyuan/Awesome-Active-Learning</title>
+    <updated>2023-08-10T01:39:18Z</updated>
+    <id>tag:github.com,2023-08-10:/Clearloveyuan/Awesome-Active-Learning</id>
+    <link href="https://github.com/Clearloveyuan/Awesome-Active-Learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All top conference about Active Learning.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

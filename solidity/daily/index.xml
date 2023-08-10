@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-09T01:45:08Z</updated>
+  <updated>2023-08-10T01:45:46Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>clabby/mips-huff</title>
-    <updated>2023-08-09T01:45:08Z</updated>
-    <id>tag:github.com,2023-08-09:/clabby/mips-huff</id>
-    <link href="https://github.com/clabby/mips-huff" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A rewrite of Optimism&#39;s MIPS.sol thread context in Huff&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2023-08-verwa</title>
+    <updated>2023-08-10T01:45:46Z</updated>
+    <id>tag:github.com,2023-08-10:/code-423n4/2023-08-verwa</id>
+    <link href="https://github.com/code-423n4/2023-08-verwa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>risc0/bonsai-foundry-template</title>
-    <updated>2023-08-09T01:45:08Z</updated>
-    <id>tag:github.com,2023-08-09:/risc0/bonsai-foundry-template</id>
-    <link href="https://github.com/risc0/bonsai-foundry-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bonsai starter template for foundry / forge&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paxosglobal/pyusd-contract</title>
+    <updated>2023-08-10T01:45:46Z</updated>
+    <id>tag:github.com,2023-08-10:/paxosglobal/pyusd-contract</id>
+    <link href="https://github.com/paxosglobal/pyusd-contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PYUSD stablecoin smart contract repo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>valamidev/web3-defi-honeypot-and-slippage-checker</title>
+    <updated>2023-08-10T01:45:46Z</updated>
+    <id>tag:github.com,2023-08-10:/valamidev/web3-defi-honeypot-and-slippage-checker</id>
+    <link href="https://github.com/valamidev/web3-defi-honeypot-and-slippage-checker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-chain deployed Smart-contract to detect Honeypot and Slippage for DeFi tokens.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

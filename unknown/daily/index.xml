@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-09T01:28:46Z</updated>
+  <updated>2023-08-10T01:29:10Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jamesmurdza/awesome-ai-devtools</title>
-    <updated>2023-08-09T01:28:46Z</updated>
-    <id>tag:github.com,2023-08-09:/jamesmurdza/awesome-ai-devtools</id>
-    <link href="https://github.com/jamesmurdza/awesome-ai-devtools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated list of AI-powered developer tools.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wangdoc/typescript-tutorial</title>
+    <updated>2023-08-10T01:29:10Z</updated>
+    <id>tag:github.com,2023-08-10:/wangdoc/typescript-tutorial</id>
+    <link href="https://github.com/wangdoc/typescript-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TypeScript 教程&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rootusercop/Free-DevOps-Books-1</title>
-    <updated>2023-08-09T01:28:46Z</updated>
-    <id>tag:github.com,2023-08-09:/rootusercop/Free-DevOps-Books-1</id>
-    <link href="https://github.com/rootusercop/Free-DevOps-Books-1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated collection of free DevOps related eBooks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RightNightCoder/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript</title>
+    <updated>2023-08-10T01:29:10Z</updated>
+    <id>tag:github.com,2023-08-10:/RightNightCoder/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript</id>
+    <link href="https://github.com/RightNightCoder/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Take your trading to the next level with our JavaScript bot that executes Triangular Arbitrage on DEX&#39;s. Open-source and profitable, get started now!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TodePond/C</title>
-    <updated>2023-08-09T01:28:46Z</updated>
-    <id>tag:github.com,2023-08-09:/TodePond/C</id>
-    <link href="https://github.com/TodePond/C" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;perfect programming language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CyberSecurityUP/Awesome-Red-Team-Operations</title>
+    <updated>2023-08-10T01:29:10Z</updated>
+    <id>tag:github.com,2023-08-10:/CyberSecurityUP/Awesome-Red-Team-Operations</id>
+    <link href="https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-09T01:39:39Z</updated>
+  <updated>2023-08-10T01:40:38Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zendesk/sdk_messaging_ios</title>
-    <updated>2023-08-09T01:39:39Z</updated>
-    <id>tag:github.com,2023-08-09:/zendesk/sdk_messaging_ios</id>
-    <link href="https://github.com/zendesk/sdk_messaging_ios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Zendesk Messaging SDK&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;span&gt;⚠&lt;/span&gt; &lt;em&gt;Use of this software is subject to important terms and conditions as set forth in the License file&lt;/em&gt; &lt;span&gt;⚠&lt;/span&gt;&lt;/p&gt; &#xA;&lt;h1&gt;ZendeskSDKMessaging for iOS&lt;/h1&gt; &#xA;&lt;p&gt;The ZendeskSDKMessaging is an SDK that provides customer support through a Messaging interface powered by Zendesk Sunshine Conversations.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;You can find our documentation on &lt;a href=&#34;https://developer.zendesk.com/embeddables/docs/zendesk-sdk-for-ios/getting_started&#34;&gt;https://developer.zendesk.com/embeddables/docs/zendesk-sdk-for-ios/getting_started&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;API reference documentation&lt;/h2&gt; &#xA;&lt;p&gt;You can check the &lt;a href=&#34;https://zendesk.github.io/sdk_messaging_ios/&#34;&gt;API documentation&lt;/a&gt; for Swift and Objective-C. In addition, a &lt;a href=&#34;https://developer.apple.com/documentation/xcode/distributing-documentation-to-external-developers#Send-a-documentation-archive-directly-to-developers&#34;&gt;DocCArchive&lt;/a&gt; is also attached to every GitHub release. Download the file, open it and Xcode will add it to the Imported Documentation section of the documentation viewer.&lt;/p&gt; &#xA;&lt;h2&gt;Feature requests and issues&lt;/h2&gt; &#xA;&lt;p&gt;All feature requests and issues are welcomed. Please see our &lt;a href=&#34;https://raw.githubusercontent.com/zendesk/sdk_messaging_ios/main/CONTRIBUTING.md&#34;&gt;contributing guidelines&lt;/a&gt; to find out how to contact us.&lt;/p&gt; &#xA;&lt;h2&gt;Copyright and license&lt;/h2&gt; &#xA;&lt;p&gt;Copyright 2020 Zendesk&lt;/p&gt; &#xA;&lt;p&gt;By downloading or using the Zendesk ZendeskSDKMessaging SDK, You agree to the Zendesk Master Subscription Agreement &lt;a href=&#34;https://www.zendesk.com/company/customers-partners/#master-subscription-agreement&#34;&gt;https://www.zendesk.com/company/customers-partners/#master-subscription-agreement&lt;/a&gt; and Application Developer and API License Agreement &lt;a href=&#34;https://www.zendesk.com/company/customers-partners/#application-developer-api-license-agreement&#34;&gt;https://www.zendesk.com/company/customers-partners/#application-developer-api-license-agreement&lt;/a&gt; and acknowledge that such terms govern Your use of and access to the ZendeskSDKHTTPClient SDK.&lt;/p&gt; &#xA;&lt;p&gt;If You make any Contributions (defined below) to the ZendeskSDKMessaging SDK, You hereby grant Zendesk a royalty-free, worldwide, transferable, sub-licensable, irrevocable and perpetual license to incorporate into the Service or the Zendesk API or otherwise use and commercially exploit any Contributions. “Contribution” shall mean any work of authorship, including any modifications or additions to the Mobile SDK or derivative works thereof, that is submitted to Zendesk by You.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>shadowsocks/shadowsocks-iOS</title>
-    <updated>2023-08-09T01:39:39Z</updated>
-    <id>tag:github.com,2023-08-09:/shadowsocks/shadowsocks-iOS</id>
-    <link href="https://github.com/shadowsocks/shadowsocks-iOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Removed according to regulations.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Removed according to regulations.&lt;/p&gt;</summary>
-  </entry>
 </feed>

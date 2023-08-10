@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-09T01:47:52Z</updated>
+  <updated>2023-08-10T01:48:26Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vogellacompany/codeexamples-java</title>
+    <updated>2023-08-10T01:48:26Z</updated>
+    <id>tag:github.com,2023-08-10:/vogellacompany/codeexamples-java</id>
+    <link href="https://github.com/vogellacompany/codeexamples-java" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Java and Eclipse code tutorial examples from vogella.com&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;vogella code examples&lt;/h1&gt; &#xA;&lt;p&gt;Example code for the &lt;a href=&#34;http://www.vogella.com/tutorials&#34;&gt;Eclipse and Java tutorials&lt;/a&gt; from the &lt;a href=&#34;http://www.vogella.com&#34;&gt;vogella&lt;/a&gt; website.&lt;/p&gt; &#xA;&lt;p&gt;Also used in the &lt;a href=&#34;http://www.vogella.com/training/eclipse/index.html&#34;&gt;Eclipse training sessions&lt;/a&gt; and &lt;a href=&#34;http://www.vogella.com/training/java.html&#34;&gt;Java training sessions&lt;/a&gt; and the &lt;a href=&#34;http://www.vogella.com/books/&#34;&gt;vogella book series&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;For the Android examples please see the &lt;a href=&#34;https://github.com/vogellacompany/android-examples&#34;&gt;Android examples repository&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/vogella/vogella/raw/master/LICENSE&#34;&gt;Eclipse Public License - v 1.0&lt;/a&gt; is used.&lt;/p&gt;</summary>
+  </entry>
 </feed>

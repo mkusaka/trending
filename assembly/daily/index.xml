@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-09T01:29:41Z</updated>
+  <updated>2023-08-10T01:30:05Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>n0-computer/iroh-blake3</title>
+    <updated>2023-08-10T01:30:05Z</updated>
+    <id>tag:github.com,2023-08-10:/n0-computer/iroh-blake3</id>
+    <link href="https://github.com/n0-computer/iroh-blake3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fork of the blake3 crate that allows quicker subtree hashing, until it gets upstreamed&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dsu-cs/sre-mh</title>
+    <updated>2023-08-10T01:30:05Z</updated>
+    <id>tag:github.com,2023-08-10:/dsu-cs/sre-mh</id>
+    <link href="https://github.com/dsu-cs/sre-mh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
