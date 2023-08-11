@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-10T01:38:59Z</updated>
+  <updated>2023-08-11T01:30:38Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Afool4U/Logi_purgatory_macro</title>
-    <updated>2023-08-10T01:38:59Z</updated>
-    <id>tag:github.com,2023-08-10:/Afool4U/Logi_purgatory_macro</id>
-    <link href="https://github.com/Afool4U/Logi_purgatory_macro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;罗技G系列炼狱宏&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Logi_purgatory_macro&lt;/h1&gt; &#xA;&lt;p&gt;罗技G系列炼狱宏&lt;/p&gt; &#xA;&lt;h2&gt;该代码使用GPL v3.0协议，如需商用，请务必开源并沿用该协议！！&lt;/h2&gt; &#xA;&lt;h3&gt;游戏内设置&lt;/h3&gt; &#xA;&lt;p&gt;1.改键方法&lt;/p&gt; &#xA;&lt;p&gt;游戏内设置----控制----战斗操作----射击----按下键盘的“L键”----确定&lt;/p&gt; &#xA;&lt;p&gt;2.改回方法&lt;/p&gt; &#xA;&lt;p&gt;游戏内设置----控制----战斗操作----射击----单击鼠标左键----确定&lt;/p&gt; &#xA;&lt;h3&gt;疑难杂症&lt;/h3&gt; &#xA;&lt;p&gt;1.宏已经配置成功，但游戏内外都没效果&lt;/p&gt; &#xA;&lt;p&gt;解决方案：&lt;/p&gt; &#xA;&lt;p&gt;关闭板载内存模式（原因：板载内存过于隐蔽，所以罗技关掉了宏放入板载的功能）&lt;/p&gt; &#xA;&lt;p&gt;2.游戏里没有效果（或枪管就转一下），而游戏外正常&lt;/p&gt; &#xA;&lt;p&gt;解决方案：&lt;/p&gt; &#xA;&lt;p&gt;右键桌面黑色驱动/蓝色驱动快捷方式点击属性----上方选择兼容性-----下方勾选以管理员模式运行此程序---应用----确定&lt;/p&gt; &#xA;&lt;h3&gt;讲解视频&lt;/h3&gt; &#xA;&lt;p&gt;&lt;em&gt;点击&lt;a href=&#34;https://b23.tv/NYTZymS&#34;&gt;此处&lt;/a&gt;查看。&lt;/em&gt;&lt;/p&gt; &#xA;&lt;h3&gt;注意事项&lt;/h3&gt; &#xA;&lt;p&gt;不要拿来打人机和排位！！不要拿来打人机和排位！！不要拿来打人机和排位！！&lt;/p&gt; &#xA;&lt;p&gt;默认是滚轮中键单击 开启/关闭 宏&lt;/p&gt; &#xA;&lt;p&gt;鼠标左侧离鼠尾近的一端 是速点键&lt;/p&gt; &#xA;&lt;p&gt;(无侧键的鼠标请查看代码提示进行改键)&lt;/p&gt; &#xA;&lt;p&gt;使用之前请先看代码，并配置相关数据。&lt;/p&gt; &#xA;&lt;h3&gt;讨论Q群&lt;/h3&gt; &#xA;&lt;p&gt;群号：702325640&lt;/p&gt; &#xA;&lt;p&gt;群文件有视频讲解、鼠标键位大全和宏代码文件。请谨慎使用其他群员上传的文件，出现问题概不负责！！&lt;/p&gt;</summary>
+    <title>bestadamdagoat/random-scripts</title>
+    <updated>2023-08-11T01:30:38Z</updated>
+    <id>tag:github.com,2023-08-11:/bestadamdagoat/random-scripts</id>
+    <link href="https://github.com/bestadamdagoat/random-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;random scripts i find, i did not make any of these&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>amroot/pillage</title>
+    <updated>2023-08-11T01:30:38Z</updated>
+    <id>tag:github.com,2023-08-11:/amroot/pillage</id>
+    <link href="https://github.com/amroot/pillage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Messing around with Lua and ended up with &#34;pillage&#34;. Currently, pillage&#39;s only job is to pillage (crawl) web applications for forms and log them to a csv file.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Script: pillage Version: 0.04 License: BSD Simplified Author: Robert Gilbert - amroot.com Current Release Date: April 10, 2013 Description: currently, pillage&#39;s only job is to find forms in web applications. I just felt like playing with Lua. Required: luasec Debian prereq: apt-get install lua5.1 liblua5.1-0-dev liblua5.1-socket-dev liblua5.1-sec-dev liblua5.1-curl-dev&lt;/p&gt; &#xA;&lt;p&gt;Verson history: 0.0.4 - April 10, 2013: Fixed error if -w is not specified Merged includes into a single script 0.0.3 - June 25, 2012: First release for public consumption&lt;/p&gt; &#xA;&lt;p&gt;Short might do: Form based Authentication. Replace socket with regex Update cookiejar Better error handling and debugging Submit forms for multi-stage form disc? Do not add forms found previously Find and log form fields Add the ability to supply a list of directories, pages, and/or URIs.&lt;/p&gt; &#xA;&lt;p&gt;Pillage usage: -u - required: valid URL to crawl. http(s)://userid:&lt;a href=&#34;mailto:password@www.attackersite.com&#34;&gt;password@www.attackersite.com&lt;/a&gt;:port -r - optional: follow redirects (301 response). -t - optional: time in milliseconds to pause between requests -s - optional: do not stay within scope (this might crawl the world) -w - optional: write to file in csv format. ./save.csv -m - optional: max URLs to follow. default is never stop crawling until there are no more to crawl -a - optional: user agent (pillage-agent/1.0 by default) -c - optional: cookie storage (default cookiejar.txt) -v - optional: verbosity. -v[1-3] -h - optional: what you&#39;re seeing right now&lt;/p&gt; &#xA;&lt;p&gt;Example: ./pillage.lua -u &lt;a href=&#34;http://www.attackersite.com&#34;&gt;http://www.attackersite.com&lt;/a&gt; -r -s -a &#39;attacker-agent/1.0&#39; -t 500 -m 100 -w ./attackersite-forms.csv -v1&lt;/p&gt;</summary>
   </entry>
 </feed>

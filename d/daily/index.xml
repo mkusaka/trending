@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-10T01:32:37Z</updated>
+  <updated>2023-08-11T01:24:31Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PHdeOliveira/eeConnect</title>
-    <updated>2023-08-10T01:32:37Z</updated>
-    <id>tag:github.com,2023-08-10:/PHdeOliveira/eeConnect</id>
-    <link href="https://github.com/PHdeOliveira/eeConnect" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Android App&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>facebookarchive/warp</title>
-    <updated>2023-08-10T01:32:37Z</updated>
-    <id>tag:github.com,2023-08-10:/facebookarchive/warp</id>
-    <link href="https://github.com/facebookarchive/warp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast preprocessor for C and C++&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

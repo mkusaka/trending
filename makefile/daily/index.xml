@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-10T01:39:12Z</updated>
+  <updated>2023-08-11T01:30:52Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TheMuppets/proprietary_vendor_nubia_sm7250-common</title>
-    <updated>2023-08-10T01:39:12Z</updated>
-    <id>tag:github.com,2023-08-10:/TheMuppets/proprietary_vendor_nubia_sm7250-common</id>
-    <link href="https://github.com/TheMuppets/proprietary_vendor_nubia_sm7250-common" rel="alternate"></link>
+    <title>telekom-mms/sectpmctl-kmodsign-wrapper</title>
+    <updated>2023-08-11T01:30:52Z</updated>
+    <id>tag:github.com,2023-08-11:/telekom-mms/sectpmctl-kmodsign-wrapper</id>
+    <link href="https://github.com/telekom-mms/sectpmctl-kmodsign-wrapper" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>IIC2133-PUC/2023-2</title>
-    <updated>2023-08-10T01:39:12Z</updated>
-    <id>tag:github.com,2023-08-10:/IIC2133-PUC/2023-2</id>
-    <link href="https://github.com/IIC2133-PUC/2023-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pilvikala/c-goof</title>
-    <updated>2023-08-10T01:39:12Z</updated>
-    <id>tag:github.com,2023-08-10:/pilvikala/c-goof</id>
-    <link href="https://github.com/pilvikala/c-goof" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vulnerable C++ project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nengyi1226/msfauto</title>
+    <updated>2023-08-11T01:30:52Z</updated>
+    <id>tag:github.com,2023-08-11:/nengyi1226/msfauto</id>
+    <link href="https://github.com/nengyi1226/msfauto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some msfvenom auto-generating tools&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

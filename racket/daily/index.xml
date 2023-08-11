@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Racket Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-10T01:43:31Z</updated>
+  <updated>2023-08-11T01:34:43Z</updated>
   <subtitle>Daily Trending of Racket in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>atran246/Text_Files</title>
-    <updated>2023-08-10T01:43:31Z</updated>
-    <id>tag:github.com,2023-08-10:/atran246/Text_Files</id>
-    <link href="https://github.com/atran246/Text_Files" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>misko/minichr</title>
-    <updated>2023-08-10T01:43:31Z</updated>
-    <id>tag:github.com,2023-08-10:/misko/minichr</id>
-    <link href="https://github.com/misko/minichr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mini Chromosome&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

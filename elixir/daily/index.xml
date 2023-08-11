@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-10T01:34:01Z</updated>
+  <updated>2023-08-11T01:25:48Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fanduel/ex_vmstats</title>
+    <updated>2023-08-11T01:25:48Z</updated>
+    <id>tag:github.com,2023-08-11:/fanduel/ex_vmstats</id>
+    <link href="https://github.com/fanduel/ex_vmstats" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir package for pushing Erlang VM stats into StatsD&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

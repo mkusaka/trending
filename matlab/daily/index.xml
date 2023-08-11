@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-10T01:39:23Z</updated>
+  <updated>2023-08-11T01:31:00Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jbgoldman1104/SpamFilter-SVM</title>
-    <updated>2023-08-10T01:39:23Z</updated>
-    <id>tag:github.com,2023-08-10:/jbgoldman1104/SpamFilter-SVM</id>
-    <link href="https://github.com/jbgoldman1104/SpamFilter-SVM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Spam Filter Project - Support Vector Machine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Aiwiscal/ECG-ML-DL-Algorithm-Matlab</title>
+    <updated>2023-08-11T01:31:00Z</updated>
+    <id>tag:github.com,2023-08-11:/Aiwiscal/ECG-ML-DL-Algorithm-Matlab</id>
+    <link href="https://github.com/Aiwiscal/ECG-ML-DL-Algorithm-Matlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basic Algorithm For Beginners&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-10T01:29:10Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-08-11T01:21:14Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wangdoc/typescript-tutorial</title>
-    <updated>2023-08-10T01:29:10Z</updated>
-    <id>tag:github.com,2023-08-10:/wangdoc/typescript-tutorial</id>
-    <link href="https://github.com/wangdoc/typescript-tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TypeScript 教程&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joonspk-research/generative_agents</title>
+    <updated>2023-08-11T01:21:14Z</updated>
+    <id>tag:github.com,2023-08-11:/joonspk-research/generative_agents</id>
+    <link href="https://github.com/joonspk-research/generative_agents" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generative Agents: Interactive Simulacra of Human Behavior&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>RightNightCoder/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript</title>
-    <updated>2023-08-10T01:29:10Z</updated>
-    <id>tag:github.com,2023-08-10:/RightNightCoder/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript</id>
-    <link href="https://github.com/RightNightCoder/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Take your trading to the next level with our JavaScript bot that executes Triangular Arbitrage on DEX&#39;s. Open-source and profitable, get started now!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SleepyLakeCoder/Javascript-Crypto-DEX-Front-Running-Bot-Version-4</title>
+    <updated>2023-08-11T01:21:14Z</updated>
+    <id>tag:github.com,2023-08-11:/SleepyLakeCoder/Javascript-Crypto-DEX-Front-Running-Bot-Version-4</id>
+    <link href="https://github.com/SleepyLakeCoder/Javascript-Crypto-DEX-Front-Running-Bot-Version-4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Our open-source JavaScript bot performs Front Running on DEX&#39;s, giving you maximum profit potential. Easy to use and effective, start trading smarter.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CyberSecurityUP/Awesome-Red-Team-Operations</title>
-    <updated>2023-08-10T01:29:10Z</updated>
-    <id>tag:github.com,2023-08-10:/CyberSecurityUP/Awesome-Red-Team-Operations</id>
-    <link href="https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>continuousml/Awesome-Out-Of-Distribution-Detection</title>
+    <updated>2023-08-11T01:21:14Z</updated>
+    <id>tag:github.com,2023-08-11:/continuousml/Awesome-Out-Of-Distribution-Detection</id>
+    <link href="https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A professionally curated list of papers, tutorials, books, videos, articles and open-source libraries etc for Out-of-distribution detection, robustness, and generalization&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-10T01:45:03Z</updated>
+  <updated>2023-08-11T01:36:23Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jbgoldman1104/Uniswap-V2-Interface</title>
-    <updated>2023-08-10T01:45:03Z</updated>
-    <id>tag:github.com,2023-08-10:/jbgoldman1104/Uniswap-V2-Interface</id>
-    <link href="https://github.com/jbgoldman1104/Uniswap-V2-Interface" rel="alternate"></link>
+    <title>motors-shop-kenzie/motors-shop-FrontEnd</title>
+    <updated>2023-08-11T01:36:23Z</updated>
+    <id>tag:github.com,2023-08-11:/motors-shop-kenzie/motors-shop-FrontEnd</id>
+    <link href="https://github.com/motors-shop-kenzie/motors-shop-FrontEnd" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ansys-internal/jekyll-theme-corp</title>
+    <updated>2023-08-11T01:36:23Z</updated>
+    <id>tag:github.com,2023-08-11:/ansys-internal/jekyll-theme-corp</id>
+    <link href="https://github.com/ansys-internal/jekyll-theme-corp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Corporate Jekyll theme!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
