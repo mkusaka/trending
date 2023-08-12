@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-11T01:36:26Z</updated>
+  <updated>2023-08-12T01:37:50Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>stalomeow/StarRailNPRShader</title>
-    <updated>2023-08-11T01:36:26Z</updated>
-    <id>tag:github.com,2023-08-11:/stalomeow/StarRailNPRShader</id>
-    <link href="https://github.com/stalomeow/StarRailNPRShader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fan-made shaders for Unity URP attempting to replicate the shading of Honkai: Star Rail.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hh455695642/URPGenshinImpactShader</title>
+    <updated>2023-08-12T01:37:50Z</updated>
+    <id>tag:github.com,2023-08-12:/hh455695642/URPGenshinImpactShader</id>
+    <link href="https://github.com/hh455695642/URPGenshinImpactShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;简单模仿原神风格化渲染&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

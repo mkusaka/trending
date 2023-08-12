@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-11T01:34:03Z</updated>
+  <updated>2023-08-12T01:35:39Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MarginallyClever/weaving_algorithm</title>
+    <updated>2023-08-12T01:35:39Z</updated>
+    <id>tag:github.com,2023-08-12:/MarginallyClever/weaving_algorithm</id>
+    <link href="https://github.com/MarginallyClever/weaving_algorithm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;weaving thread between nails in a circle to produce an image.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Code-Bullet/Smart-Dots-Genetic-Algorithm-Tutorial</title>
+    <updated>2023-08-12T01:35:39Z</updated>
+    <id>tag:github.com,2023-08-12:/Code-Bullet/Smart-Dots-Genetic-Algorithm-Tutorial</id>
+    <link href="https://github.com/Code-Bullet/Smart-Dots-Genetic-Algorithm-Tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Here is the code for my genetic algorithm tutorial&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

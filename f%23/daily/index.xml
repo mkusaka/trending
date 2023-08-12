@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-11T01:26:09Z</updated>
+  <updated>2023-08-12T01:27:21Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>miklund/lisp.dsl</title>
-    <updated>2023-08-11T01:26:09Z</updated>
-    <id>tag:github.com,2023-08-11:/miklund/lisp.dsl</id>
-    <link href="https://github.com/miklund/lisp.dsl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;From a lunch seminar about building your own languages&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Blog post describing this code&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://litemedia.info/write-your-own-language&#34;&gt;http://litemedia.info/write-your-own-language&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Branches in Git&lt;/h1&gt; &#xA;&lt;p&gt;Step0 - Basic project structure Step1 - Primitives (number, boolean) Step2 - Function calls Step3 - Defining functions Step4 - Expressive definitions&lt;/p&gt;</summary>
-  </entry>
 </feed>

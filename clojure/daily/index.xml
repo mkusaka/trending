@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-11T01:23:39Z</updated>
+  <updated>2023-08-12T01:25:01Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>diegopacheco/dev-clojure</title>
-    <updated>2023-08-11T01:23:39Z</updated>
-    <id>tag:github.com,2023-08-11:/diegopacheco/dev-clojure</id>
-    <link href="https://github.com/diegopacheco/dev-clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;dev-clojure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

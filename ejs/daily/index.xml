@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-11T01:25:40Z</updated>
+  <updated>2023-08-12T01:26:49Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Dhaigh94/Online-Portfolio</title>
-    <updated>2023-08-11T01:25:40Z</updated>
-    <id>tag:github.com,2023-08-11:/Dhaigh94/Online-Portfolio</id>
-    <link href="https://github.com/Dhaigh94/Online-Portfolio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is my Online Portfolio I made from Scratch using NodeJS, HTML, CSS and Bootstrap.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HolaClient/HolaClient</title>
+    <updated>2023-08-12T01:26:49Z</updated>
+    <id>tag:github.com,2023-08-12:/HolaClient/HolaClient</id>
+    <link href="https://github.com/HolaClient/HolaClient" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern and sleek design dashboard for Pterodactyl &amp; Jexactyl panel with tons of features. Easy to use and optimized for all devices such as Mobile, Desktop etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

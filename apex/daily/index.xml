@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-11T01:21:50Z</updated>
+  <updated>2023-08-12T01:23:12Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tyoshikawa1106/Apex_SObjectCopy</title>
-    <updated>2023-08-11T01:21:50Z</updated>
-    <id>tag:github.com,2023-08-11:/tyoshikawa1106/Apex_SObjectCopy</id>
-    <link href="https://github.com/tyoshikawa1106/Apex_SObjectCopy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;sObjectの内容をコピーする処理のサンプルコードです。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

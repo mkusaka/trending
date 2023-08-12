@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-11T01:31:00Z</updated>
+  <updated>2023-08-12T01:32:33Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Aiwiscal/ECG-ML-DL-Algorithm-Matlab</title>
-    <updated>2023-08-11T01:31:00Z</updated>
-    <id>tag:github.com,2023-08-11:/Aiwiscal/ECG-ML-DL-Algorithm-Matlab</id>
-    <link href="https://github.com/Aiwiscal/ECG-ML-DL-Algorithm-Matlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basic Algorithm For Beginners&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aresmiki/CS-Recovery-Algorithms</title>
+    <updated>2023-08-12T01:32:33Z</updated>
+    <id>tag:github.com,2023-08-12:/aresmiki/CS-Recovery-Algorithms</id>
+    <link href="https://github.com/aresmiki/CS-Recovery-Algorithms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bangeravivek/B.E.-Proj</title>
+    <updated>2023-08-12T01:32:33Z</updated>
+    <id>tag:github.com,2023-08-12:/bangeravivek/B.E.-Proj</id>
+    <link href="https://github.com/bangeravivek/B.E.-Proj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Final year Project: Image Compression using Vector Quantization and Wavelet Transform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

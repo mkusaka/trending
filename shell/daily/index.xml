@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-11T01:36:30Z</updated>
+  <updated>2023-08-12T01:37:53Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wangdoc/javascript-tutorial</title>
+    <updated>2023-08-12T01:37:53Z</updated>
+    <id>tag:github.com,2023-08-12:/wangdoc/javascript-tutorial</id>
+    <link href="https://github.com/wangdoc/javascript-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JavaScript 教程 https://wangdoc.com/javascript&lt;/p&gt;&lt;hr&gt;&lt;p&gt;本教程全面介绍 JavaScript 核心语法，覆盖了 ES5 和 DOM 规范的所有内容。&lt;/p&gt; &#xA;&lt;p&gt;内容上从最简单的讲起，循序渐进、由浅入深，力求清晰易懂。所有章节都带有大量的代码实例，便于理解和模仿，可以用到实际项目中，即学即用。&lt;/p&gt; &#xA;&lt;p&gt;本教程适合初学者当作 JavaScript 语言入门教程，学完后就可以承担实际的网页开发工作，也适合当作日常使用的参考手册。&lt;/p&gt; &#xA;&lt;p&gt;JavaScript 后续新增的 ES6 语法，请看&lt;a href=&#34;https://wangdoc.com/es6/&#34;&gt;《ES6 标准入门教程》&lt;/a&gt;。&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>wolfi-dev/advisories</title>
+    <updated>2023-08-12T01:37:53Z</updated>
+    <id>tag:github.com,2023-08-12:/wolfi-dev/advisories</id>
+    <link href="https://github.com/wolfi-dev/advisories" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Security advisory data for Wolfi&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;advisories&lt;/h1&gt; &#xA;&lt;p&gt;Security advisory data for the Wolfi distribution.&lt;/p&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;This repository is where we store Wolfi&#39;s security advisory data. Each Wolfi package is represented with a &lt;code&gt;&amp;lt;package-name&amp;gt;.advisories.yaml&lt;/code&gt; file, if there are any advisories recorded for the given package.&lt;/p&gt; &#xA;&lt;p&gt;The purpose of the advisory data is to record all investigated package vulnerabilities and indicate the latest understanding of whether or not the package is affected by the vulnerability.&lt;/p&gt; &#xA;&lt;h2&gt;Interpreting the data&lt;/h2&gt; &#xA;&lt;p&gt;Each package advisories file in this repository has a list of one or more advisories. Each advisory is named by a vulnerability identifier (e.g. &#34;CVE-2023-12345&#34;) and contains a list of timestamped status updates.&lt;/p&gt; &#xA;&lt;h3&gt;Statuses&lt;/h3&gt; &#xA;&lt;p&gt;Here are the allowed &lt;code&gt;status&lt;/code&gt; values and what they mean:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;under_investigation&lt;/code&gt;: The maintainers are aware that the package is potentially affected by the vulnerability, but more investigation is needed in order to reach a conclusion.&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;affected&lt;/code&gt;: The package is believed to be affected by the vulnerability. Where possible, there will be advice for mitigating the vulnerability in the &lt;code&gt;action&lt;/code&gt; field attached to this status update.&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;not_affected&lt;/code&gt;: The package is not believed to be affected by the vulnerability. Any instance of a match of the package to this vulnerability should be treated as a &lt;strong&gt;false positive&lt;/strong&gt;. Where possible, further explanation about why this match is a false positive is included in the &lt;code&gt;impact&lt;/code&gt; field attached to this status update.&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;fixed&lt;/code&gt;: There was one or more versions of the package affected by the vulnerability, but as of the &lt;code&gt;fixed-version&lt;/code&gt;, the vulnerability has been mitigated.&lt;/p&gt; &#xA;&lt;h2&gt;Using the data&lt;/h2&gt; &#xA;&lt;p&gt;The best way to interact with the data in this repo is to use &lt;a href=&#34;https://github.com/wolfi-dev/wolfictl&#34;&gt;&lt;code&gt;wolfictl&lt;/code&gt;&lt;/a&gt;. Run &lt;code&gt;wolfictl advisory -h&lt;/code&gt; to see a list of commands designed to interact with this dataset.&lt;/p&gt; &#xA;&lt;p&gt;For example, to see advisories for every package in Wolfi:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;$ wolfictl advisory list&#xA;apko: CVE-2023-28840: fixed (0.7.3-r1)&#xA;apko: CVE-2023-28841: fixed (0.7.3-r1)&#xA;apko: CVE-2023-28842: fixed (0.7.3-r1)&#xA;bind: CVE-2018-5736: fixed (9.18.10-r0)&#xA;(and so on...)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

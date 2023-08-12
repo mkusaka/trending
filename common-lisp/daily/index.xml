@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-11T01:23:55Z</updated>
+  <updated>2023-08-12T01:25:16Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hraban/metacopy</title>
-    <updated>2023-08-11T01:23:55Z</updated>
-    <id>tag:github.com,2023-08-11:/hraban/metacopy</id>
-    <link href="https://github.com/hraban/metacopy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;flexibly shallow/deep copying library for Common Lisp&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;metacopy&lt;/h1&gt; &#xA;&lt;p&gt;Flexibly shallow/deep copying library for Common Lisp&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Originally written by Gary Warren King, EKSL and BBN.&lt;/p&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://raw.githubusercontent.com/hraban/metacopy/master/COPYING&#34;&gt;COPYING&lt;/a&gt; file.&lt;/p&gt;</summary>
-  </entry>
 </feed>

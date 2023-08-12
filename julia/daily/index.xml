@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-11T01:29:35Z</updated>
+  <updated>2023-08-12T01:31:01Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ncollins/tic-tac-toe-julia</title>
-    <updated>2023-08-11T01:29:35Z</updated>
-    <id>tag:github.com,2023-08-11:/ncollins/tic-tac-toe-julia</id>
-    <link href="https://github.com/ncollins/tic-tac-toe-julia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tic Tac Toe in Julia (http://julialang.org/)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sshin23/ExaModels.jl</title>
-    <updated>2023-08-11T01:29:35Z</updated>
-    <id>tag:github.com,2023-08-11:/sshin23/ExaModels.jl</id>
-    <link href="https://github.com/sshin23/ExaModels.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An algebraic modeling and automatic differentiation tool in Julia Language, specialized for SIMD abstraction of nonlinear programs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaNeuralGraphics/Whisper.jl</title>
+    <updated>2023-08-12T01:31:01Z</updated>
+    <id>tag:github.com,2023-08-12:/JuliaNeuralGraphics/Whisper.jl</id>
+    <link href="https://github.com/JuliaNeuralGraphics/Whisper.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

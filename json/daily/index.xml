@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JSON Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-11T01:29:27Z</updated>
+  <updated>2023-08-12T01:30:54Z</updated>
   <subtitle>Daily Trending of JSON in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>intel471/CU-GIR</title>
-    <updated>2023-08-11T01:29:27Z</updated>
-    <id>tag:github.com,2023-08-11:/intel471/CU-GIR</id>
-    <link href="https://github.com/intel471/CU-GIR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cyber Underground General Intelligence Requirements&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
