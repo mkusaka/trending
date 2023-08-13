@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-13T01:50:30Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>arkadius/journalioMigration</title>
+    <updated>2023-08-13T01:50:30Z</updated>
+    <id>tag:github.com,2023-08-13:/arkadius/journalioMigration</id>
+    <link href="https://github.com/arkadius/journalioMigration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Groovy script that migrate Jornal.IO logs between versions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gilday/groovy-java-generics</title>
+    <updated>2023-08-13T01:50:30Z</updated>
+    <id>tag:github.com,2023-08-13:/gilday/groovy-java-generics</id>
+    <link href="https://github.com/gilday/groovy-java-generics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Found a discrepancy between Java and Groovy when dealing with interfaces, generics, and inheritence. Found a solution http://stackoverflow.com/a/14863906/501368&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

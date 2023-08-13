@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-12T01:36:18Z</updated>
+  <updated>2023-08-13T01:37:34Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>labo-imp/labo2023ba</title>
-    <updated>2023-08-12T01:36:18Z</updated>
-    <id>tag:github.com,2023-08-12:/labo-imp/labo2023ba</id>
-    <link href="https://github.com/labo-imp/labo2023ba" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Veronica0206/nlpsem</title>
+    <updated>2023-08-13T01:37:34Z</updated>
+    <id>tag:github.com,2023-08-13:/Veronica0206/nlpsem</id>
+    <link href="https://github.com/Veronica0206/nlpsem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;R package for analyzing nonlinear longitudinal processes in the structural equation modeling framework&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;nlpsem&lt;/h1&gt; &#xA;&lt;p&gt;R package that provides computational tools for nonlinear longitudinal models, in particular the intrinsically nonlinear models, in four scenarios:&lt;/p&gt; &#xA;&lt;p&gt;(1) univariate longitudinal processes with growth factors, with or without covariates including time-invariant covariates (TICs) and time-varying covariates (TVCs);&lt;/p&gt; &#xA;&lt;p&gt;(2) multivariate longitudinal processes that facilitate the assessment of correlation or causation between multiple longitudinal variables;&lt;/p&gt; &#xA;&lt;p&gt;(3) multiple-group models for scenarios (1) and (2) to evaluate differences among manifested groups, and&lt;/p&gt; &#xA;&lt;p&gt;(4) longitudinal mixture models for scenarios (1) and (2), with an assumption that trajectories are from multiple latent classes. The methods implemented are introduced in &lt;a href=&#34;https://arxiv.org/abs/2302.03237v2&#34;&gt;Jin Liu (2023)&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Huber-group-EMBL/Huber-group-EMBL.github.io</title>
+    <updated>2023-08-13T01:37:34Z</updated>
+    <id>tag:github.com,2023-08-13:/Huber-group-EMBL/Huber-group-EMBL.github.io</id>
+    <link href="https://github.com/Huber-group-EMBL/Huber-group-EMBL.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Huber group public webpage&lt;/p&gt;&lt;hr&gt;&lt;p&gt;To build the website, run&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;quarto render&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;in the top-level directory of this repository. Quarto is here: &lt;a href=&#34;https://quarto.org/&#34;&gt;https://quarto.org/&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

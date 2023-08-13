@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-12T01:39:28Z</updated>
+  <updated>2023-08-13T01:41:10Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>stacks/stacks-project</title>
-    <updated>2023-08-12T01:39:28Z</updated>
-    <id>tag:github.com,2023-08-12:/stacks/stacks-project</id>
-    <link href="https://github.com/stacks/stacks-project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for the Stacks Project&lt;/p&gt;&lt;hr&gt;&lt;pre&gt;&lt;code&gt;stacks-project -- algebraic stacks project&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Collaborative web-based project writing a text book on algebraic stacks and the algebraic geometry that is needed to define them. Location on the web:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;https://stacks.math.columbia.edu/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You can simply latex the files in the current directory read them, edit them, and submit your changes by email back into the project.&lt;/p&gt; &#xA;&lt;p&gt;Here is are some pointers to documentation:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;how to create all dvi/pdf files at once, see documentation/make-project&lt;/li&gt; &#xA; &lt;li&gt;how to submit your work, see documentation/submitting-patches&lt;/li&gt; &#xA; &lt;li&gt;how to use git, see documentation/git-howto&lt;/li&gt; &#xA; &lt;li&gt;read about support from organizations in documentation/support&lt;/li&gt; &#xA; &lt;li&gt;for a rough todo list, see documentation/todo-list&lt;/li&gt; &#xA; &lt;li&gt;for technical rules governing internal references, see documentation/rules For more information, please see the website at the address above.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;To get in touch with the maintainer(s) of this project please email&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;stacks.project@gmail.com&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>swissmanu/hsr-apf-2013</title>
+    <updated>2023-08-13T01:41:10Z</updated>
+    <id>tag:github.com,2023-08-13:/swissmanu/hsr-apf-2013</id>
+    <link href="https://github.com/swissmanu/hsr-apf-2013" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zusammengetragene Ergebnisse aus den Workshops im Rahmen des Modules Advanced Patterns and Frameworks an der Hochschule für Technik in Rapperswil HSR vom Frühjahressemester 2013.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Advanced Patterns And Framework&lt;/h1&gt; &#xA;&lt;p&gt;Dieses Dokument enhält zusammengetragenen Ergebnisse aus den Workshops im Rahmen des Modules &lt;em&gt;Advanced Patterns and Frameworks&lt;/em&gt; an der Hochschule für Technik in Rapperswil &lt;em&gt;HSR&lt;/em&gt; vom Frühjahressemester 2013.&lt;/p&gt; &#xA;&lt;p&gt;Alle Texte sind in Originalform (Links in Spalte &lt;em&gt;Übung&lt;/em&gt;) im HSR Wiki einsehbar:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://wiki.ifs.hsr.ch/APF/wiki.cgi?APF&amp;amp;1.27&#34;&gt;http://wiki.ifs.hsr.ch/APF/wiki.cgi?APF&amp;amp;1.27&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Autoren&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;em&gt;Teilnehmer APF FS 2013&lt;/em&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;PDF&lt;/h2&gt; &#xA;&lt;p&gt;Eine aktuelle Version diesere Dokumentation ist als PDF unter &lt;a href=&#34;http://swissmanu.github.com/hsr-apf-2013/patterns.pdf&#34;&gt;http://swissmanu.github.io/hsr-apf-2013/patterns.pdf&lt;/a&gt; verfügbar.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/swissmanu/hsr-apf-2013&#34;&gt;&lt;img src=&#34;https://travis-ci.org/swissmanu/hsr-apf-2013.png&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-13T02:01:34Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>emilianobonassi/whitehacks-kit</title>
+    <updated>2023-08-13T02:01:34Z</updated>
+    <id>tag:github.com,2023-08-13:/emilianobonassi/whitehacks-kit</id>
+    <link href="https://github.com/emilianobonassi/whitehacks-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple template to perform whitehacks safely&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maple-labs/maple-proxy-factory</title>
+    <updated>2023-08-13T02:01:34Z</updated>
+    <id>tag:github.com,2023-08-13:/maple-labs/maple-proxy-factory</id>
+    <link href="https://github.com/maple-labs/maple-proxy-factory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Maple flavored proxy factory&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gmchad/zardkat</title>
+    <updated>2023-08-13T02:01:34Z</updated>
+    <id>tag:github.com,2023-08-13:/gmchad/zardkat</id>
+    <link href="https://github.com/gmchad/zardkat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;hardhat-circom template 🐱&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

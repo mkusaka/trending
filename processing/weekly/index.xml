@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Processing Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-13T01:58:08Z</updated>
+  <subtitle>Weekly Trending of Processing in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>n1ckfg/DragonDouble</title>
+    <updated>2023-08-13T01:58:08Z</updated>
+    <id>tag:github.com,2023-08-13:/n1ckfg/DragonDouble</id>
+    <link href="https://github.com/n1ckfg/DragonDouble" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(Eyebeam #12 of 13) Grab and reproject stop-motion frames.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>c-flynn/Nunchuckoo</title>
+    <updated>2023-08-13T01:58:08Z</updated>
+    <id>tag:github.com,2023-08-13:/c-flynn/Nunchuckoo</id>
+    <link href="https://github.com/c-flynn/Nunchuckoo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adapt a Wii Nunchuck to work with Arduino and Processing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

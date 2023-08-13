@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-13T01:56:02Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>viperML/wrapper-manager</title>
+    <updated>2023-08-13T01:56:02Z</updated>
+    <id>tag:github.com,2023-08-13:/viperML/wrapper-manager</id>
+    <link href="https://github.com/viperML/wrapper-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Post-modern configuration management&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nix-community/nixvim</title>
+    <updated>2023-08-13T01:56:02Z</updated>
+    <id>tag:github.com,2023-08-13:/nix-community/nixvim</id>
+    <link href="https://github.com/nix-community/nixvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>obsidiansystems/nix-daml-sdk</title>
+    <updated>2023-08-13T01:56:02Z</updated>
+    <id>tag:github.com,2023-08-13:/obsidiansystems/nix-daml-sdk</id>
+    <link href="https://github.com/obsidiansystems/nix-daml-sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

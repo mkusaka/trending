@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-13T02:01:59Z</updated>
+  <subtitle>Weekly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Xyphyn/photon</title>
+    <updated>2023-08-13T02:01:59Z</updated>
+    <id>tag:github.com,2023-08-13:/Xyphyn/photon</id>
+    <link href="https://github.com/Xyphyn/photon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lemmy client&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wobsoriano/svelte-sonner</title>
+    <updated>2023-08-13T02:01:59Z</updated>
+    <id>tag:github.com,2023-08-13:/wobsoriano/svelte-sonner</id>
+    <link href="https://github.com/wobsoriano/svelte-sonner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opinionated toast component for Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

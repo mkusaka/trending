@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-12T01:22:31Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-08-13T01:23:53Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PeiQi0/PeiQi-WIKI-Book</title>
-    <updated>2023-08-12T01:22:31Z</updated>
-    <id>tag:github.com,2023-08-12:/PeiQi0/PeiQi-WIKI-Book</id>
-    <link href="https://github.com/PeiQi0/PeiQi-WIKI-Book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;面向网络安全从业者的知识文库🍃&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LetsDefend/SOC-Interview-Questions</title>
+    <updated>2023-08-13T01:23:53Z</updated>
+    <id>tag:github.com,2023-08-13:/LetsDefend/SOC-Interview-Questions</id>
+    <link href="https://github.com/LetsDefend/SOC-Interview-Questions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SOC Interview Questions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ChenCrazyHome/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEX</title>
-    <updated>2023-08-12T01:22:31Z</updated>
-    <id>tag:github.com,2023-08-12:/ChenCrazyHome/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEX</id>
-    <link href="https://github.com/ChenCrazyHome/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Save time and maximize your profits with our JavaScript bot that performs Triangular Arbitrage on DEX&#39;s. Open-source and easy to use, start trading smarter.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Audio-AGI/AudioSep</title>
+    <updated>2023-08-13T01:23:53Z</updated>
+    <id>tag:github.com,2023-08-13:/Audio-AGI/AudioSep</id>
+    <link href="https://github.com/Audio-AGI/AudioSep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official implementation of &#34;Separate Anything You Describe&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elidianaandrade/dio-lab-open-source</title>
-    <updated>2023-08-12T01:22:31Z</updated>
-    <id>tag:github.com,2023-08-12:/elidianaandrade/dio-lab-open-source</id>
-    <link href="https://github.com/elidianaandrade/dio-lab-open-source" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Bo0oM/fuzz.txt</title>
+    <updated>2023-08-13T01:23:53Z</updated>
+    <id>tag:github.com,2023-08-13:/Bo0oM/fuzz.txt</id>
+    <link href="https://github.com/Bo0oM/fuzz.txt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Potentially dangerous files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

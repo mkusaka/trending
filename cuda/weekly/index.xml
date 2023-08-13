@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cuda Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-13T01:47:07Z</updated>
+  <subtitle>Weekly Trending of Cuda in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Liu-xiandong/How_to_optimize_in_GPU</title>
+    <updated>2023-08-13T01:47:07Z</updated>
+    <id>tag:github.com,2023-08-13:/Liu-xiandong/How_to_optimize_in_GPU</id>
+    <link href="https://github.com/Liu-xiandong/How_to_optimize_in_GPU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a series of GPU optimization topics. Here we will introduce how to optimize the CUDA kernel in detail. I will introduce several basic kernel optimizations, including: elementwise, reduce, sgemv, sgemm, etc. The performance of these kernels is basically at or near the theoretical limit.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

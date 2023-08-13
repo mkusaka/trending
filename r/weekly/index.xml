@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub R Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-13T01:59:06Z</updated>
+  <subtitle>Weekly Trending of R in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>getzlab/ABSOLUTE</title>
+    <updated>2023-08-13T01:59:06Z</updated>
+    <id>tag:github.com,2023-08-13:/getzlab/ABSOLUTE</id>
+    <link href="https://github.com/getzlab/ABSOLUTE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ABSOLUTE source code that works with allelic copy ratio on both hg19 and hg38&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OCHA-DAP/ds-nga-flood-monitoring</title>
+    <updated>2023-08-13T01:59:06Z</updated>
+    <id>tag:github.com,2023-08-13:/OCHA-DAP/ds-nga-flood-monitoring</id>
+    <link href="https://github.com/OCHA-DAP/ds-nga-flood-monitoring" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>houshuang/ganalytics</title>
+    <updated>2023-08-13T01:59:06Z</updated>
+    <id>tag:github.com,2023-08-13:/houshuang/ganalytics</id>
+    <link href="https://github.com/houshuang/ganalytics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experiment analyzing data from Google Analytics and WordPress with R&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ganalytics&lt;/h1&gt; &#xA;&lt;h2&gt;Purpose&lt;/h2&gt; &#xA;&lt;p&gt;I am in the process of learning R, and I wanted a challenge, so I am going to experiment with combining Google Analytics data, and content data from my WordPress blog, and doing some exploratory data analysis/ visualization.&lt;/p&gt; &#xA;&lt;p&gt;I first need to get a hold of the data, and then begin playing with it. I will probably use &lt;code&gt;ddply&lt;/code&gt; quite a bit, for some of the more advanced stuff I&#39;ll need to study up on timeseries analysis.&lt;/p&gt; &#xA;&lt;h2&gt;Log: Feb 14&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;So far, I have managed to download all the Google Analytics statistics (I think, have not validated that I got all the data). It was surprisingly difficult, dealing with OAuth2.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Log: Feb 15&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Managed to convert the dates to UNIXct (moved this to get_ga_data.R), and also calculate a column with day numbers (distance from today).&lt;/li&gt; &#xA; &lt;li&gt;Exported WordPress database into csv, using Export-to-text plugin, resaved it in Excel, and imported it. Added .Rda file as well as the .csv.&lt;/li&gt; &#xA; &lt;li&gt;Wrote Ruby script to extract some indicators from post text (length, number of images, number of links, etc) - R gave me trouble with UTF8&lt;/li&gt; &#xA; &lt;li&gt;Combined summarized GA data and WP data, and did my first graphs. Nothing interesting stands out yet. Need to create a better &#34;popularity&#34; function - right now just using total page views.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+</feed>

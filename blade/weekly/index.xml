@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Blade Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-13T01:45:04Z</updated>
+  <subtitle>Weekly Trending of Blade in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Marolix2011/E-Commerce</title>
+    <updated>2023-08-13T01:45:04Z</updated>
+    <id>tag:github.com,2023-08-13:/Marolix2011/E-Commerce</id>
+    <link href="https://github.com/Marolix2011/E-Commerce" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-12T01:25:29Z</updated>
+  <updated>2023-08-13T01:26:53Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>edic-nus/Basic-HTML-CSS-and-JS-Docs</title>
-    <updated>2023-08-12T01:25:29Z</updated>
-    <id>tag:github.com,2023-08-12:/edic-nus/Basic-HTML-CSS-and-JS-Docs</id>
-    <link href="https://github.com/edic-nus/Basic-HTML-CSS-and-JS-Docs" rel="alternate"></link>
+    <title>streetwriters/notesnook-themes</title>
+    <updated>2023-08-13T01:26:53Z</updated>
+    <id>tag:github.com,2023-08-13:/streetwriters/notesnook-themes</id>
+    <link href="https://github.com/streetwriters/notesnook-themes" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>codingstella/projects</title>
-    <updated>2023-08-12T01:25:29Z</updated>
-    <id>tag:github.com,2023-08-12:/codingstella/projects</id>
-    <link href="https://github.com/codingstella/projects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source Code of all projects that I upload on Instagram&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;strong&gt;See Preview of all Source Code In My Telegram Channel or Instagram&lt;/strong&gt;&lt;/h1&gt; &#xA;&lt;p&gt;ㅤ&lt;/p&gt; &#xA;&lt;a href=&#34;https://instagram.com/coding.stella&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/-Instagram-red?color=white&amp;amp;logo=instagram&amp;amp;logoColor=#00000&#34; width=&#34;250px;&#34; title=&#34;Telegram&#34; alt=&#34;Instagram&#34;&gt; &lt;/a&gt; &#xA;&lt;a href=&#34;https://t.me/codingstella&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/-Telegram-red?color=white&amp;amp;logo=telegram&amp;amp;logoColor=blue&#34; width=&#34;250px;&#34; title=&#34;Telegram&#34; alt=&#34;Instagram&#34;&gt; &lt;/a&gt;</summary>
+    <title>gwcx/imgdalao</title>
+    <updated>2023-08-13T01:26:53Z</updated>
+    <id>tag:github.com,2023-08-13:/gwcx/imgdalao</id>
+    <link href="https://github.com/gwcx/imgdalao" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;大佬图床&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;imgdalao&lt;/h1&gt; &#xA;&lt;p&gt;大佬图床&lt;/p&gt; &#xA;&lt;p&gt;#使用教程：&lt;a href=&#34;https://www.dalao.pro/archives/86.html&#34;&gt;https://www.dalao.pro/archives/86.html&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>xiaoxuan6/chatgpt-server</title>
-    <updated>2023-08-12T01:25:29Z</updated>
-    <id>tag:github.com,2023-08-12:/xiaoxuan6/chatgpt-server</id>
-    <link href="https://github.com/xiaoxuan6/chatgpt-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatGPT 在线免费网站&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ChatGPT 在线免费网站&lt;/h1&gt; &#xA;&lt;p&gt;由于 ChatGPT 封锁很多国内网站，本网站收集一些免费可用的基于 OPENAI API 开发的在线应用列表（需要科学上网）。&lt;/p&gt;</summary>
+    <title>CC6-Pancake/portfolio</title>
+    <updated>2023-08-13T01:26:53Z</updated>
+    <id>tag:github.com,2023-08-13:/CC6-Pancake/portfolio</id>
+    <link href="https://github.com/CC6-Pancake/portfolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Personal Portfolio Website&lt;/h1&gt;</summary>
   </entry>
 </feed>

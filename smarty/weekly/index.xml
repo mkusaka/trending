@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-13T02:01:21Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>krumIO/cloud-native-workshop-charts</title>
+    <updated>2023-08-13T02:01:21Z</updated>
+    <id>tag:github.com,2023-08-13:/krumIO/cloud-native-workshop-charts</id>
+    <link href="https://github.com/krumIO/cloud-native-workshop-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example charts repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

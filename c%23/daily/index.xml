@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-12T01:24:22Z</updated>
+  <updated>2023-08-13T01:25:39Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shalzuth/BG3Cam</title>
-    <updated>2023-08-12T01:24:22Z</updated>
-    <id>tag:github.com,2023-08-12:/shalzuth/BG3Cam</id>
-    <link href="https://github.com/shalzuth/BG3Cam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Baldur&#39;s Gate 3 camera mod to zoom and tilt the camera&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BG3Cam&lt;/h1&gt; &#xA;&lt;p&gt;Baldur&#39;s Gate 3 camera mod to zoom and tilt the camera&lt;/p&gt; &#xA;&lt;h1&gt;Instructions&lt;/h1&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Open Baldur&#39;s Gate 3&lt;/li&gt; &#xA; &lt;li&gt;Run BG3Cam.exe&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h1&gt;Example&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/xYeOW91.png&#34; alt=&#34;Imgur Image&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>obfuscar/obfuscar</title>
-    <updated>2023-08-12T01:24:22Z</updated>
-    <id>tag:github.com,2023-08-12:/obfuscar/obfuscar</id>
-    <link href="https://github.com/obfuscar/obfuscar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source obfuscation tool for .NET assemblies&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Obfuscar&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.nuget.org/packages/Obfuscar/&#34;&gt;&lt;img src=&#34;https://img.shields.io/nuget/v/Obfuscar.svg?style=flat-square&#34; alt=&#34;NuGet Version&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/obfuscar/obfuscar/actions/workflows/windows.yml&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/actions/workflow/status/obfuscar/obfuscar/windows.yml?style=flat-square&#34; alt=&#34;Build status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;The project logo cames from &lt;a href=&#34;http://raindropmemory.deviantart.com/art/Legendora-Icon-Set-118999011&#34;&gt;Legendora Icon&lt;/a&gt; by &lt;a href=&#34;http://raindropmemory.deviantart.com/&#34;&gt;Teekatas Suwannakrua&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Maintained and supported by &lt;a href=&#34;https://lextudio.com/&#34;&gt;LeXtudio&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Project Description&lt;/h1&gt; &#xA;&lt;p&gt;Obfuscar is an open source .NET obfuscator released under MIT license. It provides basic obfuscation features that help secure secrets in a .NET assembly.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.obfuscar.com/&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/obfuscar/obfuscar/master/obfuscar.png&#34; alt=&#34;Obfuscar&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Get Started&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://docs.obfuscar.com/&#34;&gt;Documentation section&lt;/a&gt; contains most information you need, and also a detailed history of this project all through the years.&lt;/p&gt; &#xA;&lt;p&gt;This tool has been heavily in Lex Li&#39;s personal project (&lt;a href=&#34;https://www.sharpsnmp.com/&#34;&gt;#SNMP Pro&lt;/a&gt;).&lt;/p&gt; &#xA;&lt;h1&gt;Issues&lt;/h1&gt; &#xA;&lt;p&gt;If you have a patch to contribute, a feature to request, or a bug to report, please post to the &lt;a href=&#34;https://github.com/obfuscar/obfuscar/issues&#34;&gt;Issue Tracker&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Support Services&lt;/h1&gt; &#xA;&lt;p&gt;Please contact &lt;a href=&#34;http://lextudio.com/Home/Send&#34;&gt;LeXtudio&lt;/a&gt; for support services.&lt;/p&gt; &#xA;&lt;h1&gt;Contribution&lt;/h1&gt; &#xA;&lt;p&gt;Pull requests are welcome, but make sure you sign the Contributor License Agreement.&lt;/p&gt; &#xA;&lt;h1&gt;Donation&lt;/h1&gt; &#xA;&lt;p&gt;If you want to donate to my efforts on this project, please use the following link,&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=TZATDDPGZUSPL&#34;&gt;&lt;img src=&#34;https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif&#34; alt=&#34;Donate via Paypal&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-12T01:34:35Z</updated>
+  <updated>2023-08-13T01:35:58Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bmartins/CTT</title>
-    <updated>2023-08-12T01:34:35Z</updated>
-    <id>tag:github.com,2023-08-12:/bmartins/CTT</id>
-    <link href="https://github.com/bmartins/CTT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;CTT - Perl package to query CTT (Portuguese Post Office)&lt;/p&gt;</summary>
+    <title>takuji31/p5-qpsmtpd-plugin-jobqueue</title>
+    <updated>2023-08-13T01:35:58Z</updated>
+    <id>tag:github.com,2023-08-13:/takuji31/p5-qpsmtpd-plugin-jobqueue</id>
+    <link href="https://github.com/takuji31/p5-qpsmtpd-plugin-jobqueue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Qpsmtpd JobQueue plugin&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is Perl module Qpsmtpd::Plugin::JobQueue.&lt;/p&gt; &#xA;&lt;p&gt;INSTALLATION&lt;/p&gt; &#xA;&lt;p&gt;Qpsmtpd::Plugin::JobQueue installation is straightforward. If your CPAN shell is set up, you should just be able to do&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;% cpan Qpsmtpd::Plugin::JobQueue&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Download it, unpack it, then build it as per the usual:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;% perl Makefile.PL&#xA;% make &amp;amp;&amp;amp; make test&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then install it:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;% make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;DOCUMENTATION&lt;/p&gt; &#xA;&lt;p&gt;Qpsmtpd::Plugin::JobQueue documentation is available as in POD. So you can do:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;% perldoc Qpsmtpd::Plugin::JobQueue&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;to read the documentation online with your favorite pager.&lt;/p&gt; &#xA;&lt;p&gt;Nishibayashi Takuji&lt;/p&gt;</summary>
   </entry>
 </feed>

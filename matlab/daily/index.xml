@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-12T01:32:33Z</updated>
+  <updated>2023-08-13T01:33:50Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aresmiki/CS-Recovery-Algorithms</title>
-    <updated>2023-08-12T01:32:33Z</updated>
-    <id>tag:github.com,2023-08-12:/aresmiki/CS-Recovery-Algorithms</id>
-    <link href="https://github.com/aresmiki/CS-Recovery-Algorithms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MATLAB-Graphics-and-App-Building/horizon-chart</title>
+    <updated>2023-08-13T01:33:50Z</updated>
+    <id>tag:github.com,2023-08-13:/MATLAB-Graphics-and-App-Building/horizon-chart</id>
+    <link href="https://github.com/MATLAB-Graphics-and-App-Building/horizon-chart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Horizon Chart is a data visualization technique that displays time-series data in a compact and layered format, improving readability and enabling comparison of multiple datasets over time.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bangeravivek/B.E.-Proj</title>
-    <updated>2023-08-12T01:32:33Z</updated>
-    <id>tag:github.com,2023-08-12:/bangeravivek/B.E.-Proj</id>
-    <link href="https://github.com/bangeravivek/B.E.-Proj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Final year Project: Image Compression using Vector Quantization and Wavelet Transform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mesywang/Motion-Planning-Algorithms</title>
+    <updated>2023-08-13T01:33:50Z</updated>
+    <id>tag:github.com,2023-08-13:/Mesywang/Motion-Planning-Algorithms</id>
+    <link href="https://github.com/Mesywang/Motion-Planning-Algorithms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Matlab Implementations of some basic motion planning algorithms, such as A*, RRT, RRT*, Minimum Snap Trajectory Generation, etc..&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenHUTB/gpt</title>
+    <updated>2023-08-13T01:33:50Z</updated>
+    <id>tag:github.com,2023-08-13:/OpenHUTB/gpt</id>
+    <link href="https://github.com/OpenHUTB/gpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

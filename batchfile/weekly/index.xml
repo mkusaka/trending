@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-13T01:44:53Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>airilrazman/FREE-RDP</title>
+    <updated>2023-08-13T01:44:53Z</updated>
+    <id>tag:github.com,2023-08-13:/airilrazman/FREE-RDP</id>
+    <link href="https://github.com/airilrazman/FREE-RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Esteban10yt/Esteban_10YT_VPS</title>
+    <updated>2023-08-13T01:44:53Z</updated>
+    <id>tag:github.com,2023-08-13:/Esteban10yt/Esteban_10YT_VPS</id>
+    <link href="https://github.com/Esteban10yt/Esteban_10YT_VPS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VPS using Github and NGROK&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DEAM0/Windows-7-Activator</title>
+    <updated>2023-08-13T01:44:53Z</updated>
+    <id>tag:github.com,2023-08-13:/DEAM0/Windows-7-Activator</id>
+    <link href="https://github.com/DEAM0/Windows-7-Activator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
