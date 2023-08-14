@@ -10,6 +10,6 @@
     "deploy:ci": "gh-pages -d out -u 'github-actions-bot <support+actions@github.com>'"
   },
   "devDependencies": {
-    "gh-pages": "5.0.0"
+    "gh-pages": "6.0.0"
   }
 }
