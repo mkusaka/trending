@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["gh-pages", "npm:5.0.0"]
+            ["gh-pages", "npm:6.0.0"]
           ],
           "linkType": "SOFT",
         }]
@@ -91,10 +91,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["commander", [
-        ["npm:2.20.3", {
-          "packageLocation": "./.yarn/cache/commander-npm-2.20.3-d8dcbaa39b-b73428e97d.zip/node_modules/commander/",
+        ["npm:11.0.0", {
+          "packageLocation": "./.yarn/cache/commander-npm-11.0.0-7def992f0c-ad974d1564.zip/node_modules/commander/",
           "packageDependencies": [
-            ["commander", "npm:2.20.3"]
+            ["commander", "npm:11.0.0"]
           ],
           "linkType": "HARD",
         }]
@@ -180,13 +180,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["fs-extra", [
-        ["npm:8.1.0", {
-          "packageLocation": "./.yarn/cache/fs-extra-npm-8.1.0-197473387f-056a96d4f5.zip/node_modules/fs-extra/",
+        ["npm:11.1.1", {
+          "packageLocation": "./.yarn/cache/fs-extra-npm-11.1.1-ca44602180-d632a5c91c.zip/node_modules/fs-extra/",
           "packageDependencies": [
-            ["fs-extra", "npm:8.1.0"],
+            ["fs-extra", "npm:11.1.1"],
             ["graceful-fs", "npm:4.2.11"],
-            ["jsonfile", "npm:4.0.0"],
-            ["universalify", "npm:0.1.2"]
+            ["jsonfile", "npm:6.1.0"],
+            ["universalify", "npm:2.0.0"]
           ],
           "linkType": "HARD",
         }]
@@ -201,16 +201,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["gh-pages", [
-        ["npm:5.0.0", {
-          "packageLocation": "./.yarn/cache/gh-pages-npm-5.0.0-85e52a94f0-4789d61a3f.zip/node_modules/gh-pages/",
+        ["npm:6.0.0", {
+          "packageLocation": "./.yarn/cache/gh-pages-npm-6.0.0-2e48eb90f2-87e9d27ad2.zip/node_modules/gh-pages/",
           "packageDependencies": [
-            ["gh-pages", "npm:5.0.0"],
+            ["gh-pages", "npm:6.0.0"],
             ["async", "npm:3.2.4"],
-            ["commander", "npm:2.20.3"],
+            ["commander", "npm:11.0.0"],
             ["email-addresses", "npm:5.0.0"],
             ["filenamify", "npm:4.3.0"],
             ["find-cache-dir", "npm:3.3.2"],
-            ["fs-extra", "npm:8.1.0"],
+            ["fs-extra", "npm:11.1.1"],
             ["globby", "npm:6.1.0"]
           ],
           "linkType": "HARD",
@@ -275,11 +275,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["jsonfile", [
-        ["npm:4.0.0", {
-          "packageLocation": "./.yarn/cache/jsonfile-npm-4.0.0-10ce3aea15-a40b7b64da.zip/node_modules/jsonfile/",
+        ["npm:6.1.0", {
+          "packageLocation": "./.yarn/cache/jsonfile-npm-6.1.0-20a4796cee-9419c886ab.zip/node_modules/jsonfile/",
           "packageDependencies": [
-            ["jsonfile", "npm:4.0.0"],
-            ["graceful-fs", "npm:4.2.11"]
+            ["jsonfile", "npm:6.1.0"],
+            ["graceful-fs", "npm:4.2.11"],
+            ["universalify", "npm:2.0.0"]
           ],
           "linkType": "HARD",
         }]
@@ -442,7 +443,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["trending", "workspace:."],
-            ["gh-pages", "npm:5.0.0"]
+            ["gh-pages", "npm:6.0.0"]
           ],
           "linkType": "SOFT",
         }]
@@ -458,10 +459,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["universalify", [
-        ["npm:0.1.2", {
-          "packageLocation": "./.yarn/cache/universalify-npm-0.1.2-9b22d31d2d-420fc65473.zip/node_modules/universalify/",
+        ["npm:2.0.0", {
+          "packageLocation": "./.yarn/cache/universalify-npm-2.0.0-03b8b418a8-36bfbdc97b.zip/node_modules/universalify/",
           "packageDependencies": [
-            ["universalify", "npm:0.1.2"]
+            ["universalify", "npm:2.0.0"]
           ],
           "linkType": "HARD",
         }]
