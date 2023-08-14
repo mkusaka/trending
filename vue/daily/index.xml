@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-13T01:42:16Z</updated>
+  <updated>2023-08-14T01:40:04Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dulaiduwang003/TIME-SEA-PLUS</title>
-    <updated>2023-08-13T01:42:16Z</updated>
-    <id>tag:github.com,2023-08-13:/dulaiduwang003/TIME-SEA-PLUS</id>
-    <link href="https://github.com/dulaiduwang003/TIME-SEA-PLUS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于SpringBoot3开发的GPT绘图微信小程序 可搭配Web plugs插件实现Web以及小程序双端,支持自定义预设词,功能板块定义,各类绘图 ....&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Deltares/fews-web-oc</title>
+    <updated>2023-08-14T01:40:04Z</updated>
+    <id>tag:github.com,2023-08-14:/Deltares/fews-web-oc</id>
+    <link href="https://github.com/Deltares/fews-web-oc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delft-FEWS Web Operator Client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

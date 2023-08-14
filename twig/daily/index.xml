@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-13T01:41:35Z</updated>
+  <updated>2023-08-14T01:39:22Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TYPO3-Documentation/rst-rendering-demo</title>
-    <updated>2023-08-13T01:41:35Z</updated>
-    <id>tag:github.com,2023-08-13:/TYPO3-Documentation/rst-rendering-demo</id>
-    <link href="https://github.com/TYPO3-Documentation/rst-rendering-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>silverstripe/silverstripe-installer</title>
+    <updated>2023-08-14T01:39:22Z</updated>
+    <id>tag:github.com,2023-08-14:/silverstripe/silverstripe-installer</id>
+    <link href="https://github.com/silverstripe/silverstripe-installer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The installer for Silverstripe CMS and Framework. Check out this repository to start working with Silverstripe!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

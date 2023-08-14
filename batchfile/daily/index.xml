@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-13T01:25:00Z</updated>
+  <updated>2023-08-14T01:23:40Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WindowsAddict/IDM-Activation-Script</title>
-    <updated>2023-08-13T01:25:00Z</updated>
-    <id>tag:github.com,2023-08-13:/WindowsAddict/IDM-Activation-Script</id>
-    <link href="https://github.com/WindowsAddict/IDM-Activation-Script" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open source tool to activate and reset trial of Internet Download Manager&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>olokos/Europa-Universalis-IV-Spolszczenie</title>
+    <updated>2023-08-14T01:23:40Z</updated>
+    <id>tag:github.com,2023-08-14:/olokos/Europa-Universalis-IV-Spolszczenie</id>
+    <link href="https://github.com/olokos/Europa-Universalis-IV-Spolszczenie" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Polskie Fanowskie spolszczenie do gry Europa Universalis IV / Polish Fan Translation for Europa Universalis IV&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

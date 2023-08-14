@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Valve Data Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-13T01:41:57Z</updated>
+  <updated>2023-08-14T01:39:44Z</updated>
   <subtitle>Daily Trending of Valve Data Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Vexcenot/-Middle-Mann</title>
-    <updated>2023-08-13T01:41:57Z</updated>
-    <id>tag:github.com,2023-08-13:/Vexcenot/-Middle-Mann</id>
-    <link href="https://github.com/Vexcenot/-Middle-Mann" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;the best hud in tf2 (probably)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

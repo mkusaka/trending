@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-13T01:42:10Z</updated>
+  <updated>2023-08-14T01:39:57Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>themichaellai/dotfiles</title>
-    <updated>2023-08-13T01:42:10Z</updated>
-    <id>tag:github.com,2023-08-13:/themichaellai/dotfiles</id>
-    <link href="https://github.com/themichaellai/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;meine dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mbrochh/vim-as-a-python-ide</title>
+    <updated>2023-08-14T01:39:57Z</updated>
+    <id>tag:github.com,2023-08-14:/mbrochh/vim-as-a-python-ide</id>
+    <link href="https://github.com/mbrochh/vim-as-a-python-ide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example code from my PyCon APAC 2012 talk.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>artur-shaik/vim-javacomplete2</title>
+    <updated>2023-08-14T01:39:57Z</updated>
+    <id>tag:github.com,2023-08-14:/artur-shaik/vim-javacomplete2</id>
+    <link href="https://github.com/artur-shaik/vim-javacomplete2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DEPRECATED in favor of jc.nvim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

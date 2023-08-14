@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-13T01:40:26Z</updated>
+  <updated>2023-08-14T01:38:34Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ShipBit/svane</title>
-    <updated>2023-08-13T01:40:26Z</updated>
-    <id>tag:github.com,2023-08-13:/ShipBit/svane</id>
-    <link href="https://github.com/ShipBit/svane" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Project-Sloth/ps-realtor</title>
-    <updated>2023-08-13T01:40:26Z</updated>
-    <id>tag:github.com,2023-08-13:/Project-Sloth/ps-realtor</id>
-    <link href="https://github.com/Project-Sloth/ps-realtor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ps-realtor for ps-housing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aleksilassila/reiverr</title>
+    <updated>2023-08-14T01:38:34Z</updated>
+    <id>tag:github.com,2023-08-14:/aleksilassila/reiverr</id>
+    <link href="https://github.com/aleksilassila/reiverr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-13T01:26:28Z</updated>
+  <updated>2023-08-14T01:25:02Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iauns/cpm</title>
-    <updated>2023-08-13T01:26:28Z</updated>
-    <id>tag:github.com,2023-08-13:/iauns/cpm</id>
-    <link href="https://github.com/iauns/cpm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C++ Package Manager&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ch4nKyy/BG3WASD</title>
+    <updated>2023-08-14T01:25:02Z</updated>
+    <id>tag:github.com,2023-08-14:/Ch4nKyy/BG3WASD</id>
+    <link href="https://github.com/Ch4nKyy/BG3WASD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WASD Character Movement Mod for Baldur&#39;s Gate 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

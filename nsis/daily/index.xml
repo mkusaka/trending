@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NSIS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-13T01:34:53Z</updated>
+  <updated>2023-08-14T01:32:55Z</updated>
   <subtitle>Daily Trending of NSIS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gdzx/chernobyl-simulator</title>
+    <updated>2023-08-14T01:32:55Z</updated>
+    <id>tag:github.com,2023-08-14:/gdzx/chernobyl-simulator</id>
+    <link href="https://github.com/gdzx/chernobyl-simulator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🏭 Chernobyl Nuclear Power Plant Simulator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

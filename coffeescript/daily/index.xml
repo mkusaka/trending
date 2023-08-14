@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-13T01:26:33Z</updated>
+  <updated>2023-08-14T01:25:07Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>atom/language-python</title>
-    <updated>2023-08-13T01:26:33Z</updated>
-    <id>tag:github.com,2023-08-13:/atom/language-python</id>
-    <link href="https://github.com/atom/language-python" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python package for Atom&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>atom/language-php</title>
+    <updated>2023-08-14T01:25:07Z</updated>
+    <id>tag:github.com,2023-08-14:/atom/language-php</id>
+    <link href="https://github.com/atom/language-php" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PHP package for Atom&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tnwinc/htmldiff.js</title>
+    <updated>2023-08-14T01:25:07Z</updated>
+    <id>tag:github.com,2023-08-14:/tnwinc/htmldiff.js</id>
+    <link href="https://github.com/tnwinc/htmldiff.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Diff algorithm that understands HTML, in the browser.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

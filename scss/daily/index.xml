@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-13T01:39:07Z</updated>
+  <updated>2023-08-14T01:37:19Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WOLFRIEND/skeleton-mammoth</title>
-    <updated>2023-08-13T01:39:07Z</updated>
-    <id>tag:github.com,2023-08-13:/WOLFRIEND/skeleton-mammoth</id>
-    <link href="https://github.com/WOLFRIEND/skeleton-mammoth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Skeleton Mammoth - a powerful CSS library designed to enhance user experience by displaying UI skeleton loaders, also known as placeholders. It allows you to simulate the layout or elements of a website while data is being loaded in the background.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CoralPink/commentary</title>
+    <updated>2023-08-14T01:37:19Z</updated>
+    <id>tag:github.com,2023-08-14:/CoralPink/commentary</id>
+    <link href="https://github.com/CoralPink/commentary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This site introduces WezTerm and Neovim dotfiles that I usually use.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WuSuoV/TencentFanghong</title>
+    <updated>2023-08-14T01:37:19Z</updated>
+    <id>tag:github.com,2023-08-14:/WuSuoV/TencentFanghong</id>
+    <link href="https://github.com/WuSuoV/TencentFanghong" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;通过github.io域名实现QQ、微信防红接口&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
