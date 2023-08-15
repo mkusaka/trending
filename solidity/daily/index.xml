@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-14T01:38:09Z</updated>
+  <updated>2023-08-15T01:38:30Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>minaminao/seccamp</title>
+    <updated>2023-08-15T01:38:30Z</updated>
+    <id>tag:github.com,2023-08-15:/minaminao/seccamp</id>
+    <link href="https://github.com/minaminao/seccamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Security Camp 2023 L4 Resources&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kadenzipfel/veLP</title>
+    <updated>2023-08-15T01:38:30Z</updated>
+    <id>tag:github.com,2023-08-15:/kadenzipfel/veLP</id>
+    <link href="https://github.com/kadenzipfel/veLP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curve style voting escrow (ve) Uniswap v4 hook contract&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

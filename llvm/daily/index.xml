@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LLVM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-14T01:31:18Z</updated>
+  <updated>2023-08-15T01:31:39Z</updated>
   <subtitle>Daily Trending of LLVM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lac-dcc/honey-potion</title>
-    <updated>2023-08-14T01:31:18Z</updated>
-    <id>tag:github.com,2023-08-14:/lac-dcc/honey-potion</id>
-    <link href="https://github.com/lac-dcc/honey-potion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Writing eBPF programs with Elixir!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>IITH-Compilers/IR2Vec</title>
-    <updated>2023-08-14T01:31:18Z</updated>
-    <id>tag:github.com,2023-08-14:/IITH-Compilers/IR2Vec</id>
-    <link href="https://github.com/IITH-Compilers/IR2Vec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of IR2Vec, published in ACM TACO&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

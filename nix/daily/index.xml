@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-14T01:32:50Z</updated>
+  <updated>2023-08-15T01:33:21Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hyprwm/hyprland-protocols</title>
-    <updated>2023-08-14T01:32:50Z</updated>
-    <id>tag:github.com,2023-08-14:/hyprwm/hyprland-protocols</id>
-    <link href="https://github.com/hyprwm/hyprland-protocols" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wayland protocol extensions for Hyprland&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openebs/mayastor-api</title>
-    <updated>2023-08-14T01:32:50Z</updated>
-    <id>tag:github.com,2023-08-14:/openebs/mayastor-api</id>
-    <link href="https://github.com/openebs/mayastor-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>on-nix/python</title>
+    <updated>2023-08-15T01:33:21Z</updated>
+    <id>tag:github.com,2023-08-15:/on-nix/python</id>
+    <link href="https://github.com/on-nix/python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extensive collection of Python projects from PyPI, for Nix!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

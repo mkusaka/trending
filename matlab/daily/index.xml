@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-14T01:31:53Z</updated>
+  <updated>2023-08-15T01:32:22Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>computed-axial-lithography/CAL-software-Matlab</title>
-    <updated>2023-08-14T01:31:53Z</updated>
-    <id>tag:github.com,2023-08-14:/computed-axial-lithography/CAL-software-Matlab</id>
-    <link href="https://github.com/computed-axial-lithography/CAL-software-Matlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Software to support volumetric additive manufacturing by tomographic reconstruction (education, research and not-for-profit use)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Shuai-Xie/genetic-algorithm</title>
+    <updated>2023-08-15T01:32:22Z</updated>
+    <id>tag:github.com,2023-08-15:/Shuai-Xie/genetic-algorithm</id>
+    <link href="https://github.com/Shuai-Xie/genetic-algorithm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;遗传算法 - Matlab&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nasa/PrognosticsAlgorithmLibrary</title>
+    <updated>2023-08-15T01:32:22Z</updated>
+    <id>tag:github.com,2023-08-15:/nasa/PrognosticsAlgorithmLibrary</id>
+    <link href="https://github.com/nasa/PrognosticsAlgorithmLibrary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>meyiao/ImuFusion</title>
+    <updated>2023-08-15T01:32:22Z</updated>
+    <id>tag:github.com,2023-08-15:/meyiao/ImuFusion</id>
+    <link href="https://github.com/meyiao/ImuFusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EKF IMU Fusion Algorithms&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

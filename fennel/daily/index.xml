@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fennel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-14T01:27:27Z</updated>
+  <updated>2023-08-15T01:27:32Z</updated>
   <subtitle>Daily Trending of Fennel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rafaeldelboni/cajus-nfnl</title>
+    <updated>2023-08-15T01:27:32Z</updated>
+    <id>tag:github.com,2023-08-15:/rafaeldelboni/cajus-nfnl</id>
+    <link href="https://github.com/rafaeldelboni/cajus-nfnl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curvy and juicy neovim configuration following the &#34;Keep it simple!&#34; design principle, but using nfnl instead of aniseed.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-14T01:31:43Z</updated>
+  <updated>2023-08-15T01:32:10Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chialab/docker-php</title>
+    <updated>2023-08-15T01:32:10Z</updated>
+    <id>tag:github.com,2023-08-15:/chialab/docker-php</id>
+    <link href="https://github.com/chialab/docker-php" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧰 Adding common PHP extensions to some of the official PHP Docker images.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>amaysim-au/docker-serverless</title>
+    <updated>2023-08-15T01:32:10Z</updated>
+    <id>tag:github.com,2023-08-15:/amaysim-au/docker-serverless</id>
+    <link href="https://github.com/amaysim-au/docker-serverless" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Docker image containing NodeJS, Serverless Framework and Yarn.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fairyly/mynodejs</title>
+    <updated>2023-08-15T01:32:10Z</updated>
+    <id>tag:github.com,2023-08-15:/fairyly/mynodejs</id>
+    <link href="https://github.com/fairyly/mynodejs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nodejs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
