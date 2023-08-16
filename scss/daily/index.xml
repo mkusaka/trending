@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-15T01:37:43Z</updated>
+  <updated>2023-08-16T01:38:24Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vedic-lang/vedic-lang.github.io</title>
-    <updated>2023-08-15T01:37:43Z</updated>
-    <id>tag:github.com,2023-08-15:/vedic-lang/vedic-lang.github.io</id>
-    <link href="https://github.com/vedic-lang/vedic-lang.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vedic language - Online Documentation and Compiler&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>docura/docura</title>
+    <updated>2023-08-16T01:38:24Z</updated>
+    <id>tag:github.com,2023-08-16:/docura/docura</id>
+    <link href="https://github.com/docura/docura" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📖 A modular Hugo theme to build your next documentation site&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

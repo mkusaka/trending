@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-15T01:28:59Z</updated>
+  <updated>2023-08-16T01:28:39Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudposse/terraform-aws-ec2-client-vpn</title>
-    <updated>2023-08-15T01:28:59Z</updated>
-    <id>tag:github.com,2023-08-15:/cloudposse/terraform-aws-ec2-client-vpn</id>
-    <link href="https://github.com/cloudposse/terraform-aws-ec2-client-vpn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paredes-jr/Jenkins-Terraform-Example</title>
+    <updated>2023-08-16T01:28:39Z</updated>
+    <id>tag:github.com,2023-08-16:/paredes-jr/Jenkins-Terraform-Example</id>
+    <link href="https://github.com/paredes-jr/Jenkins-Terraform-Example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo manage a simple code to do a terraform testing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

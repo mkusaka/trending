@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-15T01:23:12Z</updated>
+  <updated>2023-08-16T01:22:43Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ch4nKyy/BG3WASD</title>
+    <updated>2023-08-16T01:22:43Z</updated>
+    <id>tag:github.com,2023-08-16:/Ch4nKyy/BG3WASD</id>
+    <link href="https://github.com/Ch4nKyy/BG3WASD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WASD Character Movement Mod for Baldur&#39;s Gate 3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

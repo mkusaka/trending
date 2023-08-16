@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-15T01:34:25Z</updated>
+  <updated>2023-08-16T01:34:52Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>duckduckgo/zeroclickinfo-goodies</title>
-    <updated>2023-08-15T01:34:25Z</updated>
-    <id>tag:github.com,2023-08-15:/duckduckgo/zeroclickinfo-goodies</id>
-    <link href="https://github.com/duckduckgo/zeroclickinfo-goodies" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DuckDuckGo Instant Answers based on Perl &amp; JavaScript&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;This repo is now archived&lt;/h1&gt; &#xA;&lt;p&gt;DuckDuckHack went on maintenance mode in 2015 and we aren&#39;t in a position to continue it. This repo hasn&#39;t been maintained subsequently and so we are archiving it.&lt;/p&gt; &#xA;&lt;h2&gt;Need to report a bug?&lt;/h2&gt; &#xA;&lt;p&gt;If you find a bug or relevancy issue, the &lt;strong&gt;best&lt;/strong&gt; way to report this is via the Feedback button on the DuckDuckGo.com search results page. These issues are compiled and reviewed daily.&lt;/p&gt; &#xA;&lt;h2&gt;Have a suggestion or idea?&lt;/h2&gt; &#xA;&lt;p&gt;The &lt;strong&gt;best&lt;/strong&gt; way to report these is also via the Feedback button on the DuckDuckGo.com search results page.&lt;/p&gt; &#xA;&lt;p&gt;You can also share your thoughts with our community on &lt;a href=&#34;https://www.reddit.com/r/duckduckgo/&#34;&gt;Reddit&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>suapapa/i2c-tools</title>
-    <updated>2023-08-15T01:34:25Z</updated>
-    <id>tag:github.com,2023-08-15:/suapapa/i2c-tools</id>
-    <link href="https://github.com/suapapa/i2c-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Android port of i2c-tools&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;I2C TOOLS FOR LINUX&lt;/h1&gt; &#xA;&lt;p&gt;This package contains an heterogeneous set of I2C tools for the Linux kernel. These tools were originally part of the lm-sensors project but were finally split into their own package for convenience. They compile, run and have been tested on GNU/Linux.&lt;/p&gt; &#xA;&lt;h2&gt;CONTENTS&lt;/h2&gt; &#xA;&lt;p&gt;The various tools included in this package are grouped by category, each category has its own sub-directory:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;eeprom Perl scripts for decoding different types of EEPROMs (SPD, EDID...) These scripts rely on the &#34;eeprom&#34; kernel driver. They are installed by default.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;eepromer Tools for writing to EEPROMs. These tools rely on the &#34;i2c-dev&#34; kernel driver. They are not installed by default.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;include C/C++ header files for I2C and SMBus access over i2c-dev. Installed by default.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;py-smbus Python wrapper for SMBus access over i2c-dev. Not installed by default.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;stub A helper script to use with the i2c-stub kernel driver. Installed by default.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;tools I2C device detection and register dump tools. These tools rely on the &#34;i2c-dev&#34; kernel driver. They are installed by default.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;INSTALLATION&lt;/h2&gt; &#xA;&lt;p&gt;There&#39;s no configure script, so simply run &#34;make&#34; to build the tools, and &#34;make install&#34; to install them. You also can use &#34;make uninstall&#34; to remove all the files you installed. By default, files are installed in /usr/local but you can change this behavior by editing the Makefile file and setting prefix to wherever you want. You may change the C compiler and the compilation flags as well.&lt;/p&gt; &#xA;&lt;p&gt;Optionally, you can run &#34;make strip&#34; prior to &#34;make install&#34; if you want smaller binaries. However, be aware that this will prevent any further attempt to debug the programs.&lt;/p&gt; &#xA;&lt;p&gt;If you wish to include sub-directories that are not enabled by default, then just set them via the EXTRA make variable. For example, to build py-smbus, do: $ make EXTRA=&#34;py-smbus&#34;&lt;/p&gt; &#xA;&lt;h2&gt;DOCUMENTATION&lt;/h2&gt; &#xA;&lt;p&gt;The main tools have manual pages, which are installed by &#34;make install&#34;. See these manual pages for command line interface details and tool specific information.&lt;/p&gt; &#xA;&lt;p&gt;The other tools come with simple text documentation, which isn&#39;t installed.&lt;/p&gt; &#xA;&lt;h2&gt;QUESTIONS AND BUG REPORTS&lt;/h2&gt; &#xA;&lt;p&gt;Please post your questions and bug reports to the linux-i2c mailing list: &lt;a href=&#34;mailto:linux-i2c@vger.kernel.org&#34;&gt;linux-i2c@vger.kernel.org&lt;/a&gt; For additional information about this list, see: &lt;a href=&#34;http://vger.kernel.org/vger-lists.html#linux-i2c&#34;&gt;http://vger.kernel.org/vger-lists.html#linux-i2c&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>eprints/ptm</title>
+    <updated>2023-08-16T01:34:52Z</updated>
+    <id>tag:github.com,2023-08-16:/eprints/ptm</id>
+    <link href="https://github.com/eprints/ptm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Polynomial Texture Map extension&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

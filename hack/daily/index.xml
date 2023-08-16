@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-15T01:28:51Z</updated>
+  <updated>2023-08-16T01:28:32Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>beruangsalju/shell-backdoor</title>
-    <updated>2023-08-15T01:28:51Z</updated>
-    <id>tag:github.com,2023-08-15:/beruangsalju/shell-backdoor</id>
-    <link href="https://github.com/beruangsalju/shell-backdoor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;all shell backdoor in the world&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

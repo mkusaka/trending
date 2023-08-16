@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-15T01:21:50Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-08-16T01:21:30Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ProfSynapse/Synapse_CoR</title>
-    <updated>2023-08-15T01:21:50Z</updated>
-    <id>tag:github.com,2023-08-15:/ProfSynapse/Synapse_CoR</id>
-    <link href="https://github.com/ProfSynapse/Synapse_CoR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CyberSecurityUP/Offensivesecurity-Checklists</title>
+    <updated>2023-08-16T01:21:30Z</updated>
+    <id>tag:github.com,2023-08-16:/CyberSecurityUP/Offensivesecurity-Checklists</id>
+    <link href="https://github.com/CyberSecurityUP/Offensivesecurity-Checklists" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Checklists for Testing Security environment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>steven2358/awesome-generative-ai</title>
-    <updated>2023-08-15T01:21:50Z</updated>
-    <id>tag:github.com,2023-08-15:/steven2358/awesome-generative-ai</id>
-    <link href="https://github.com/steven2358/awesome-generative-ai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of modern Generative Artificial Intelligence projects and services&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RonPlusTammy/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript</title>
+    <updated>2023-08-16T01:21:30Z</updated>
+    <id>tag:github.com,2023-08-16:/RonPlusTammy/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript</id>
+    <link href="https://github.com/RonPlusTammy/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Looking to maximize your earnings? Our 100% JavaScript bot executes Triangular Arbitrage on DEX&#39;s for easy profits. Open-source and reliable, start using it today!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>onhexgroup/Conferences</title>
-    <updated>2023-08-15T01:21:50Z</updated>
-    <id>tag:github.com,2023-08-15:/onhexgroup/Conferences</id>
-    <link href="https://github.com/onhexgroup/Conferences" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Conference slides&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AabyssZG/WebShell-Bypass-Guide</title>
+    <updated>2023-08-16T01:21:30Z</updated>
+    <id>tag:github.com,2023-08-16:/AabyssZG/WebShell-Bypass-Guide</id>
+    <link href="https://github.com/AabyssZG/WebShell-Bypass-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;从零学习Webshell免杀手册&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
