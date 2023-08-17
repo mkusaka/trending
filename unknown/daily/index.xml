@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-16T01:21:30Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-08-17T01:21:36Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CyberSecurityUP/Offensivesecurity-Checklists</title>
-    <updated>2023-08-16T01:21:30Z</updated>
-    <id>tag:github.com,2023-08-16:/CyberSecurityUP/Offensivesecurity-Checklists</id>
-    <link href="https://github.com/CyberSecurityUP/Offensivesecurity-Checklists" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Checklists for Testing Security environment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ibaiw/2023Hvv</title>
+    <updated>2023-08-17T01:21:36Z</updated>
+    <id>tag:github.com,2023-08-17:/ibaiw/2023Hvv</id>
+    <link href="https://github.com/ibaiw/2023Hvv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2023 HVV情报速递~&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>RonPlusTammy/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript</title>
-    <updated>2023-08-16T01:21:30Z</updated>
-    <id>tag:github.com,2023-08-16:/RonPlusTammy/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript</id>
-    <link href="https://github.com/RonPlusTammy/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Looking to maximize your earnings? Our 100% JavaScript bot executes Triangular Arbitrage on DEX&#39;s for easy profits. Open-source and reliable, start using it today!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>seudonam/awesome-courses-online</title>
+    <updated>2023-08-17T01:21:36Z</updated>
+    <id>tag:github.com,2023-08-17:/seudonam/awesome-courses-online</id>
+    <link href="https://github.com/seudonam/awesome-courses-online" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;😄Courses with open lecture notes and assignments. DO NOT pull requests.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AabyssZG/WebShell-Bypass-Guide</title>
-    <updated>2023-08-16T01:21:30Z</updated>
-    <id>tag:github.com,2023-08-16:/AabyssZG/WebShell-Bypass-Guide</id>
-    <link href="https://github.com/AabyssZG/WebShell-Bypass-Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;从零学习Webshell免杀手册&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PicPay/picpay-desafio-backend</title>
+    <updated>2023-08-17T01:21:36Z</updated>
+    <id>tag:github.com,2023-08-17:/PicPay/picpay-desafio-backend</id>
+    <link href="https://github.com/PicPay/picpay-desafio-backend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Desafio técnico - Backend&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

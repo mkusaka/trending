@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-16T01:31:00Z</updated>
+  <updated>2023-08-17T01:29:44Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Clemapfel/mousetrap.jl</title>
-    <updated>2023-08-16T01:31:00Z</updated>
-    <id>tag:github.com,2023-08-16:/Clemapfel/mousetrap.jl</id>
-    <link href="https://github.com/Clemapfel/mousetrap.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Finally, a GUI Engine made for Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TNO-Tulipa/TulipaBulb.jl</title>
-    <updated>2023-08-16T01:31:00Z</updated>
-    <id>tag:github.com,2023-08-16:/TNO-Tulipa/TulipaBulb.jl</id>
-    <link href="https://github.com/TNO-Tulipa/TulipaBulb.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

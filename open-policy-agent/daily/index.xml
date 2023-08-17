@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Open Policy Agent Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-16T01:34:19Z</updated>
+  <updated>2023-08-17T01:32:54Z</updated>
   <subtitle>Daily Trending of Open Policy Agent in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>trufflesecurity/logwarden</title>
-    <updated>2023-08-16T01:34:19Z</updated>
-    <id>tag:github.com,2023-08-16:/trufflesecurity/logwarden</id>
-    <link href="https://github.com/trufflesecurity/logwarden" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Process all of your GCP audit logs against OPA Rego policies and alert for violations in real-time.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

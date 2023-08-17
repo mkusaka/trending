@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-16T01:27:23Z</updated>
+  <updated>2023-08-17T01:26:57Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BenjaTK/Criss-Cross</title>
-    <updated>2023-08-16T01:27:23Z</updated>
-    <id>tag:github.com,2023-08-16:/BenjaTK/Criss-Cross</id>
-    <link href="https://github.com/BenjaTK/Criss-Cross" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple Godot addon that adds generic grid classes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maktoobgar/scene_manager</title>
-    <updated>2023-08-16T01:27:23Z</updated>
-    <id>tag:github.com,2023-08-16:/maktoobgar/scene_manager</id>
-    <link href="https://github.com/maktoobgar/scene_manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tool to manage and organize scenes and ease transitions between different scenes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

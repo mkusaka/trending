@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-16T01:24:27Z</updated>
+  <updated>2023-08-17T01:23:55Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>clojure/java.jdbc</title>
-    <updated>2023-08-16T01:24:27Z</updated>
-    <id>tag:github.com,2023-08-16:/clojure/java.jdbc</id>
-    <link href="https://github.com/clojure/java.jdbc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JDBC from Clojure (formerly clojure.contrib.sql)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

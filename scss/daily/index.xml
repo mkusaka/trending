@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-16T01:38:24Z</updated>
+  <updated>2023-08-17T01:36:32Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>docura/docura</title>
-    <updated>2023-08-16T01:38:24Z</updated>
-    <id>tag:github.com,2023-08-16:/docura/docura</id>
-    <link href="https://github.com/docura/docura" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📖 A modular Hugo theme to build your next documentation site&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

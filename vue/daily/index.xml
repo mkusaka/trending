@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-16T01:41:46Z</updated>
+  <updated>2023-08-17T01:39:19Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ijry/uview-plus</title>
-    <updated>2023-08-16T01:41:46Z</updated>
-    <id>tag:github.com,2023-08-16:/ijry/uview-plus</id>
-    <link href="https://github.com/ijry/uview-plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;uview-plus，是[uni-app](https://uniapp.dcloud.io/) 全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>li-junpeng/dbtu-client</title>
-    <updated>2023-08-16T01:41:46Z</updated>
-    <id>tag:github.com,2023-08-16:/li-junpeng/dbtu-client</id>
-    <link href="https://github.com/li-junpeng/dbtu-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DB兔，国产数据库管理工具，支持Windows、Mac,、Linux等系统，支持Web在线使用。目前正在处于前期开发，如果对此项目感兴趣，动动您的小手给个Star吧。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dulaiduwang003/TIME-SEA-PLUS-GPT</title>
+    <updated>2023-08-17T01:39:19Z</updated>
+    <id>tag:github.com,2023-08-17:/dulaiduwang003/TIME-SEA-PLUS-GPT</id>
+    <link href="https://github.com/dulaiduwang003/TIME-SEA-PLUS-GPT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于SpringBoot3开发的GPT绘图流量主及充值一体微信小程序 可搭配Web plugs插件实现Web以及小程序双端,支持自定义预设词,功能板块定义,各类绘图 ....&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
