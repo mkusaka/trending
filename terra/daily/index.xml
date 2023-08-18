@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Terra Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-17T01:38:15Z</updated>
+  <updated>2023-08-18T01:38:37Z</updated>
   <subtitle>Daily Trending of Terra in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AnkaChan/Shortest-Path-to-Boundary-for-Self-Intersecting-Meshes</title>
-    <updated>2023-08-17T01:38:15Z</updated>
-    <id>tag:github.com,2023-08-17:/AnkaChan/Shortest-Path-to-Boundary-for-Self-Intersecting-Meshes</id>
-    <link href="https://github.com/AnkaChan/Shortest-Path-to-Boundary-for-Self-Intersecting-Meshes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code for the Siggraph 2023 Paper: Shortest Path to Boundary for Self-Intersecting Meshes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

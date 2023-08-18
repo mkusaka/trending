@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-17T01:37:16Z</updated>
+  <updated>2023-08-18T01:37:35Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Consensys/linea-attestation-registry</title>
-    <updated>2023-08-17T01:37:16Z</updated>
-    <id>tag:github.com,2023-08-17:/Consensys/linea-attestation-registry</id>
-    <link href="https://github.com/Consensys/linea-attestation-registry" rel="alternate"></link>
+    <title>maple-labs/address-registry</title>
+    <updated>2023-08-18T01:37:35Z</updated>
+    <id>tag:github.com,2023-08-18:/maple-labs/address-registry</id>
+    <link href="https://github.com/maple-labs/address-registry" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maple-labs/withdrawal-manager</title>
+    <updated>2023-08-18T01:37:35Z</updated>
+    <id>tag:github.com,2023-08-18:/maple-labs/withdrawal-manager</id>
+    <link href="https://github.com/maple-labs/withdrawal-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo for doing smart contracts research for PoolV2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

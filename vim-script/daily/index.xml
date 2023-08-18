@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-17T01:39:13Z</updated>
+  <updated>2023-08-18T01:39:45Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vim-scripts/refactor</title>
-    <updated>2023-08-17T01:39:13Z</updated>
-    <id>tag:github.com,2023-08-17:/vim-scripts/refactor</id>
-    <link href="https://github.com/vim-scripts/refactor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C/C++ refactoring tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jayli/vim-easycomplete</title>
+    <updated>2023-08-18T01:39:45Z</updated>
+    <id>tag:github.com,2023-08-18:/jayli/vim-easycomplete</id>
+    <link href="https://github.com/jayli/vim-easycomplete" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;杭州市余杭区最好用的 VIM/NVIM 代码补全插件&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

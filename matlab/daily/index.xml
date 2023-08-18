@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-17T01:31:16Z</updated>
+  <updated>2023-08-18T01:31:36Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mtics/NAIL</title>
-    <updated>2023-08-17T01:31:16Z</updated>
-    <id>tag:github.com,2023-08-17:/mtics/NAIL</id>
-    <link href="https://github.com/mtics/NAIL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;the code of &#34;Incomplete multi-view weak-label learning with noisy features and imbalanced labels&#34;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HdTgon/2023-ESWA-SCMvFS</title>
-    <updated>2023-08-17T01:31:16Z</updated>
-    <id>tag:github.com,2023-08-17:/HdTgon/2023-ESWA-SCMvFS</id>
-    <link href="https://github.com/HdTgon/2023-ESWA-SCMvFS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Matlab code for the &#34;Revise&#34; ESWA 2023 paper &#34;Structure Learning with Consensus Label Information for Multi-View Unsupervised Feature Selection&#34;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ktekeli/audio-steganography-algorithms</title>
-    <updated>2023-08-17T01:31:16Z</updated>
-    <id>tag:github.com,2023-08-17:/ktekeli/audio-steganography-algorithms</id>
-    <link href="https://github.com/ktekeli/audio-steganography-algorithms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Library of Audio Steganography &amp; Watermarking Algorithms&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Hannah-Zhou/Optimization_Algorithm</title>
+    <updated>2023-08-18T01:31:36Z</updated>
+    <id>tag:github.com,2023-08-18:/Hannah-Zhou/Optimization_Algorithm</id>
+    <link href="https://github.com/Hannah-Zhou/Optimization_Algorithm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;非线性优化主要算法的Matlab程序，有精确线搜索的0.618法和抛物线法, 非精确线搜索的Armijo准则, 最速下降法, 牛顿法, 共轭梯度法, BFGS 算法, DFP 算法, Broyden 族方法, 信赖域方法, 求解非线性最小二乘问题的L-M算法, 解约束优化问题的乘子法, 求解二次规划的有效集法, SQP 子问题的光滑牛顿法以及求解约束优化问题的SQP方法等. 程序基本通用.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

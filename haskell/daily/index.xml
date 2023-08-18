@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-17T01:27:56Z</updated>
+  <updated>2023-08-18T01:28:17Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chpatrick/clang-pure</title>
+    <updated>2023-08-18T01:28:17Z</updated>
+    <id>tag:github.com,2023-08-18:/chpatrick/clang-pure</id>
+    <link href="https://github.com/chpatrick/clang-pure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easy C++ code analysis with pure Haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Pure Haskell bindings to &lt;a href=&#34;http://clang.llvm.org/doxygen/group__CINDEX.html&#34;&gt;libclang&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://hackage.haskell.org/package/clang-pure&#34;&gt;&lt;img src=&#34;https://img.shields.io/hackage/v/clang-pure.svg?sanitize=true&#34; alt=&#34;Hackage&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://travis-ci.org/chpatrick/clang-pure&#34;&gt;&lt;img src=&#34;https://travis-ci.org/chpatrick/clang-pure.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;A Haskell library for pure C++ code analysis&lt;/p&gt; &#xA;&lt;h2&gt;API examples&lt;/h2&gt; &#xA;&lt;h3&gt;Enumerate all function declarations in &lt;code&gt;main.cpp&lt;/code&gt;&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haskell&#34;&gt;module Main (main) where&#xA;&#xA;import Control.Monad&#xA;import Language.C.Clang&#xA;&#xA;main :: IO ()&#xA;main = do&#xA;    idx &amp;lt;- createIndex&#xA;    tu &amp;lt;- parseTranslationUnit idx &#34;main.cpp&#34; [&#34;-I/usr/local/include&#34;]&#xA;    let root = translationUnitCursor tu&#xA;        children = cursorChildren root&#xA;        functionDecls = filter (\c -&amp;gt; cursorKind c == FunctionDecl) children&#xA;    forM_ functionDecls (print . cursorSpelling)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;List all function declarations and their types, &lt;code&gt;lens&lt;/code&gt;-style&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haskell&#34;&gt;idx &amp;lt;- createIndex&#xA;tu &amp;lt;- parseTranslationUnit idx path clangArgs&#xA;let funDecs =&#xA;      -- fold over cursors recursively&#xA;        cursorDescendantsF&#xA;      -- finding FunctionDecls...&#xA;      . folding (matchKind @&#39;FunctionDecl)&#xA;      -- ...that are actually in the given file&#xA;      . filtered (isFromMainFile . rangeStart . cursorExtent)&#xA;      -- and get their names and types&#xA;      . to (\funDec -&amp;gt; cursorSpelling funDec &amp;lt;&amp;gt; &#34; :: &#34; &amp;lt;&amp;gt; typeSpelling (cursorType funDec))&#xA;BS.putStrLn $ BS.unlines (translationUnitCursor tu ^.. funDecs)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Development&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/chpatrick/clang-pure/master/DEV.md&#34;&gt;View development guide&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

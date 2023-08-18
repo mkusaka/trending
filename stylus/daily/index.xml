@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stylus Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-17T01:37:32Z</updated>
+  <updated>2023-08-18T01:37:52Z</updated>
   <subtitle>Daily Trending of Stylus in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lynnandtonic/a-single-div</title>
-    <updated>2023-08-17T01:37:32Z</updated>
-    <id>tag:github.com,2023-08-17:/lynnandtonic/a-single-div</id>
-    <link href="https://github.com/lynnandtonic/a-single-div" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎨 CSS drawings with only one HTML element.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
