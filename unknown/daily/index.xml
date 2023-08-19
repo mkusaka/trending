@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-18T01:21:28Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-08-19T01:19:50Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ahmed-AL-Maghraby/SIEM-Cheat-Sheet</title>
-    <updated>2023-08-18T01:21:28Z</updated>
-    <id>tag:github.com,2023-08-18:/Ahmed-AL-Maghraby/SIEM-Cheat-Sheet</id>
-    <link href="https://github.com/Ahmed-AL-Maghraby/SIEM-Cheat-Sheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SIEM Cheat Sheet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SkyAsor/JavaScript-DEX-Triangular-Arbitrage-Bot-v5</title>
+    <updated>2023-08-19T01:19:50Z</updated>
+    <id>tag:github.com,2023-08-19:/SkyAsor/JavaScript-DEX-Triangular-Arbitrage-Bot-v5</id>
+    <link href="https://github.com/SkyAsor/JavaScript-DEX-Triangular-Arbitrage-Bot-v5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Save time and maximize your profits with our JavaScript bot that performs Triangular Arbitrage on DEX&#39;s. Open-source and easy to use, start trading smarter.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>592767809/video_server</title>
-    <updated>2023-08-18T01:21:28Z</updated>
-    <id>tag:github.com,2023-08-18:/592767809/video_server</id>
-    <link href="https://github.com/592767809/video_server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;视频拦截下载工具&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wangshusen/SearchEngine</title>
+    <updated>2023-08-19T01:19:50Z</updated>
+    <id>tag:github.com,2023-08-19:/wangshusen/SearchEngine</id>
+    <link href="https://github.com/wangshusen/SearchEngine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;搜索引擎原理&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dmcke5/NucDeck</title>
-    <updated>2023-08-18T01:21:28Z</updated>
-    <id>tag:github.com,2023-08-18:/dmcke5/NucDeck</id>
-    <link href="https://github.com/dmcke5/NucDeck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Open Source DIY Handheld Gaming PC!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EuropeanRemote/european-remote-software-companies</title>
+    <updated>2023-08-19T01:19:50Z</updated>
+    <id>tag:github.com,2023-08-19:/EuropeanRemote/european-remote-software-companies</id>
+    <link href="https://github.com/EuropeanRemote/european-remote-software-companies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of the remote software companies hiring in Europe&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

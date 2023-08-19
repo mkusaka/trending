@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-18T01:22:13Z</updated>
+  <updated>2023-08-19T01:20:19Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Avinava/jQuery-Slider-For-Visualforce-Pages</title>
-    <updated>2023-08-18T01:22:13Z</updated>
-    <id>tag:github.com,2023-08-18:/Avinava/jQuery-Slider-For-Visualforce-Pages</id>
-    <link href="https://github.com/Avinava/jQuery-Slider-For-Visualforce-Pages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demostration of how to use jQuery Slider in a visualforce page&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

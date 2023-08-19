@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-18T01:36:45Z</updated>
+  <updated>2023-08-19T01:32:51Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>amaanq/tree-sitter-starlark</title>
+    <updated>2023-08-19T01:32:51Z</updated>
+    <id>tag:github.com,2023-08-19:/amaanq/tree-sitter-starlark</id>
+    <link href="https://github.com/amaanq/tree-sitter-starlark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Starlark grammar for tree-sitter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

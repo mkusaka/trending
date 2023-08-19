@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-18T01:39:53Z</updated>
+  <updated>2023-08-19T01:35:35Z</updated>
   <subtitle>Daily Trending of WDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PacificBiosciences/wdl-humanwgs</title>
-    <updated>2023-08-18T01:39:53Z</updated>
-    <id>tag:github.com,2023-08-18:/PacificBiosciences/wdl-humanwgs</id>
-    <link href="https://github.com/PacificBiosciences/wdl-humanwgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

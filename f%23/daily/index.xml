@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-18T01:26:45Z</updated>
+  <updated>2023-08-19T01:23:59Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>colinbull/Playground</title>
-    <updated>2023-08-18T01:26:45Z</updated>
-    <id>tag:github.com,2023-08-18:/colinbull/Playground</id>
-    <link href="https://github.com/colinbull/Playground" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
