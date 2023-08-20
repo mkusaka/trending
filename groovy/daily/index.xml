@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-19T01:25:12Z</updated>
+  <updated>2023-08-20T01:29:51Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aim42/htmlSanityCheck</title>
+    <updated>2023-08-20T01:29:51Z</updated>
+    <id>tag:github.com,2023-08-20:/aim42/htmlSanityCheck</id>
+    <link href="https://github.com/aim42/htmlSanityCheck" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Standalone (batch- and command-line) and Gradle-plugin html sanity checker - detects missing images, dead links and cross-references, duplicate link targets (anchors) and the like.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Itiviti/gradle-msbuild-plugin</title>
+    <updated>2023-08-20T01:29:51Z</updated>
+    <id>tag:github.com,2023-08-20:/Itiviti/gradle-msbuild-plugin</id>
+    <link href="https://github.com/Itiviti/gradle-msbuild-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin for msbuild execution, supports C# project files for now&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

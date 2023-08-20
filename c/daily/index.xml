@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-19T01:21:32Z</updated>
+  <updated>2023-08-20T01:24:59Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>InJeCTrL/ClickRun</title>
-    <updated>2023-08-19T01:21:32Z</updated>
-    <id>tag:github.com,2023-08-19:/InJeCTrL/ClickRun</id>
-    <link href="https://github.com/InJeCTrL/ClickRun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ClickRun鼠标连点器&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ClickRun&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;简单的鼠标连点器&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;下载&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/InJeCTrL/ClickRun/releases/download/1.0/x86.zip&#34;&gt;X86&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/InJeCTrL/ClickRun/releases/download/1.0/x64.zip&#34;&gt;X64&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;说明&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/InJeCTrL/ClickRun/master/View.png&#34; alt=&#34;Preview&#34;&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; &lt;p&gt;连点鼠标左键、右键&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; &lt;p&gt;SendInput与mouse_event两种API实现模拟点击&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; &lt;p&gt;可选F1~F12作为连点启停热键&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; &lt;p&gt;程序启动时尝试读取历史配置信息，锁定当前配置后记录本次配置信息到注册表&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; &lt;p&gt;自定义两次点击的时间间隔&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>nxp-imx/linux-imx</title>
-    <updated>2023-08-19T01:21:32Z</updated>
-    <id>tag:github.com,2023-08-19:/nxp-imx/linux-imx</id>
-    <link href="https://github.com/nxp-imx/linux-imx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;i.MX Linux kernel&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Linux kernel&lt;/h1&gt; &#xA;&lt;p&gt;There are several guides for kernel developers and users. These guides can be rendered in a number of formats, like HTML and PDF. Please read Documentation/admin-guide/README.rst first.&lt;/p&gt; &#xA;&lt;p&gt;In order to build the documentation, use &lt;code&gt;make htmldocs&lt;/code&gt; or &lt;code&gt;make pdfdocs&lt;/code&gt;. The formatted documentation can also be read online at:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;https://www.kernel.org/doc/html/latest/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;There are various text files in the Documentation/ subdirectory, several of them using the Restructured Text markup notation.&lt;/p&gt; &#xA;&lt;p&gt;Please read the Documentation/process/changes.rst file, as it contains the requirements for building and running the kernel, and information about the problems which may result by upgrading your kernel.&lt;/p&gt;</summary>
+    <title>ipxe/ipxe</title>
+    <updated>2023-08-20T01:24:59Z</updated>
+    <id>tag:github.com,2023-08-20:/ipxe/ipxe</id>
+    <link href="https://github.com/ipxe/ipxe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;iPXE network bootloader&lt;/p&gt;&lt;hr&gt;&lt;p&gt;iPXE README File&lt;/p&gt; &#xA;&lt;p&gt;Quick start guide:&lt;/p&gt; &#xA;&lt;p&gt;cd src make&lt;/p&gt; &#xA;&lt;p&gt;For any more detailed instructions, see &lt;a href=&#34;http://ipxe.org&#34;&gt;http://ipxe.org&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

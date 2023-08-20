@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-20T01:45:03Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>triptec/derby-tutorial</title>
+    <updated>2023-08-20T01:45:03Z</updated>
+    <id>tag:github.com,2023-08-20:/triptec/derby-tutorial</id>
+    <link href="https://github.com/triptec/derby-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Derby(derbyjs.com) tutorial (the making of snippster.io)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Voicious/Voicious</title>
+    <updated>2023-08-20T01:45:03Z</updated>
+    <id>tag:github.com,2023-08-20:/Voicious/Voicious</id>
+    <link href="https://github.com/Voicious/Voicious" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Voicious is an open source web application allowing everyone to enjoy video conferencing. Aimed as well for private using than for enterprises, its ease of use and its ergonomy are its main strengths.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cowboy-coder/bundle-up</title>
+    <updated>2023-08-20T01:45:03Z</updated>
+    <id>tag:github.com,2023-08-20:/Cowboy-coder/bundle-up</id>
+    <link href="https://github.com/Cowboy-coder/bundle-up" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An asset manager for nodejs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

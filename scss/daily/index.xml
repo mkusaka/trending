@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-19T01:32:55Z</updated>
+  <updated>2023-08-20T01:38:33Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ineesalmeida/almeida-cv</title>
-    <updated>2023-08-19T01:32:55Z</updated>
-    <id>tag:github.com,2023-08-19:/ineesalmeida/almeida-cv</id>
-    <link href="https://github.com/ineesalmeida/almeida-cv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Theme to build a customizeable printable CV with minor web responsiveness.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

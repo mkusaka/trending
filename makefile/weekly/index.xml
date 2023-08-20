@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-20T01:51:23Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AlexZhuo/openwrt-ngrokc</title>
+    <updated>2023-08-20T01:51:23Z</updated>
+    <id>tag:github.com,2023-08-20:/AlexZhuo/openwrt-ngrokc</id>
+    <link href="https://github.com/AlexZhuo/openwrt-ngrokc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ngrok-c for OpenWrt/LEDE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IIC2133-PUC/2023-2</title>
+    <updated>2023-08-20T01:51:23Z</updated>
+    <id>tag:github.com,2023-08-20:/IIC2133-PUC/2023-2</id>
+    <link href="https://github.com/IIC2133-PUC/2023-2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nanoninja/docker-nginx-php-mysql</title>
+    <updated>2023-08-20T01:51:23Z</updated>
+    <id>tag:github.com,2023-08-20:/nanoninja/docker-nginx-php-mysql</id>
+    <link href="https://github.com/nanoninja/docker-nginx-php-mysql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Docker running Nginx, PHP-FPM, MySQL &amp; PHPMyAdmin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

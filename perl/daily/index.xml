@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-19T01:30:09Z</updated>
+  <updated>2023-08-20T01:35:29Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bestpractical/rt-authen-openid</title>
-    <updated>2023-08-19T01:30:09Z</updated>
-    <id>tag:github.com,2023-08-19:/bestpractical/rt-authen-openid</id>
-    <link href="https://github.com/bestpractical/rt-authen-openid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>perl5-dbi/DBD-mysql</title>
+    <updated>2023-08-20T01:35:29Z</updated>
+    <id>tag:github.com,2023-08-20:/perl5-dbi/DBD-mysql</id>
+    <link href="https://github.com/perl5-dbi/DBD-mysql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MySQL driver for the Perl5 Database Interface (DBI)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DBD::mysql - database driver for Perl&lt;/h1&gt; &#xA;&lt;p&gt;This is the Perl &lt;a href=&#34;https://metacpan.org/pod/DBI&#34;&gt;DBI&lt;/a&gt; driver for access to MySQL databases.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Usage is described in &lt;a href=&#34;https://metacpan.org/pod/DBD::mysql&#34;&gt;DBD::mysql&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Building and Testing Using Docker&lt;/h2&gt; &#xA;&lt;p&gt;We&#39;ve include some basic docker support for building and testing. This uses an Ubuntu image. It can be used as follows:&lt;/p&gt; &#xA;&lt;p&gt;docker-compose build docker-compose up --abort-on-container-exit --exit-code-from test&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Installation is described in &lt;a href=&#34;https://metacpan.org/pod/DBD::mysql::INSTALL&#34;&gt;DBD::mysql::INSTALL&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Support&lt;/h2&gt; &#xA;&lt;p&gt;This module is maintained and supported on a mailing list, dbi-users. To subscribe to this list, send an email to&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;dbi-users-subscribe@perl.org&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Mailing list archives are at&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://groups.google.com/group/perl.dbi.users&#34;&gt;http://groups.google.com/group/perl.dbi.users&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

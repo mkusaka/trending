@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-19T01:28:09Z</updated>
+  <updated>2023-08-20T01:33:17Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>drk1wi/portspoof</title>
+    <updated>2023-08-20T01:33:17Z</updated>
+    <id>tag:github.com,2023-08-20:/drk1wi/portspoof</id>
+    <link href="https://github.com/drk1wi/portspoof" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Portspoof&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

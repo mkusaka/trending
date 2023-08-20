@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-19T01:33:32Z</updated>
+  <updated>2023-08-20T01:39:21Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jtriley-eth/smart-types</title>
-    <updated>2023-08-19T01:33:32Z</updated>
-    <id>tag:github.com,2023-08-19:/jtriley-eth/smart-types</id>
-    <link href="https://github.com/jtriley-eth/smart-types" rel="alternate"></link>
+    <title>maple-labs/open-term-loan-manager</title>
+    <updated>2023-08-20T01:39:21Z</updated>
+    <id>tag:github.com,2023-08-20:/maple-labs/open-term-loan-manager</id>
+    <link href="https://github.com/maple-labs/open-term-loan-manager" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alcueca/erc7399-reference</title>
-    <updated>2023-08-19T01:33:32Z</updated>
-    <id>tag:github.com,2023-08-19:/alcueca/erc7399-reference</id>
-    <link href="https://github.com/alcueca/erc7399-reference" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ERC7399 Flash Loans Reference Implementation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>maple-labs/fixed-term-loan-manager</title>
+    <updated>2023-08-20T01:39:21Z</updated>
+    <id>tag:github.com,2023-08-20:/maple-labs/fixed-term-loan-manager</id>
+    <link href="https://github.com/maple-labs/fixed-term-loan-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>stakedotlink/contracts</title>
-    <updated>2023-08-19T01:33:32Z</updated>
-    <id>tag:github.com,2023-08-19:/stakedotlink/contracts</id>
-    <link href="https://github.com/stakedotlink/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contracts for the stake.link Liquid Staking Protocol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>maple-labs/fixed-term-loan</title>
+    <updated>2023-08-20T01:39:21Z</updated>
+    <id>tag:github.com,2023-08-20:/maple-labs/fixed-term-loan</id>
+    <link href="https://github.com/maple-labs/fixed-term-loan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

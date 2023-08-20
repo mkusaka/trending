@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Apex Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-20T01:43:07Z</updated>
+  <subtitle>Weekly Trending of Apex in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tehnrd/sObject-Remote</title>
+    <updated>2023-08-20T01:43:07Z</updated>
+    <id>tag:github.com,2023-08-20:/tehnrd/sObject-Remote</id>
+    <link href="https://github.com/tehnrd/sObject-Remote" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JavaScript library to simplify CRUD DML operations with JavaScript Remoting on the force.com platform.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-20T01:57:05Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hkirat/web3-bootcamp</title>
+    <updated>2023-08-20T01:57:05Z</updated>
+    <id>tag:github.com,2023-08-20:/hkirat/web3-bootcamp</id>
+    <link href="https://github.com/hkirat/web3-bootcamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2023-08-gmx-fv</title>
+    <updated>2023-08-20T01:57:05Z</updated>
+    <id>tag:github.com,2023-08-20:/code-423n4/2023-08-gmx-fv</id>
+    <link href="https://github.com/code-423n4/2023-08-gmx-fv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maple-labs/erc20-helper</title>
+    <updated>2023-08-20T01:57:05Z</updated>
+    <id>tag:github.com,2023-08-20:/maple-labs/erc20-helper</id>
+    <link href="https://github.com/maple-labs/erc20-helper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

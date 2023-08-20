@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-19T01:35:31Z</updated>
+  <updated>2023-08-20T01:41:30Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nuxtbase/auth-ui-vue</title>
-    <updated>2023-08-19T01:35:31Z</updated>
-    <id>tag:github.com,2023-08-19:/nuxtbase/auth-ui-vue</id>
-    <link href="https://github.com/nuxtbase/auth-ui-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔒 Pre-built Auth UI for Vue&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>codeacme17/examor</title>
-    <updated>2023-08-19T01:35:31Z</updated>
-    <id>tag:github.com,2023-08-19:/codeacme17/examor</id>
-    <link href="https://github.com/codeacme17/examor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;For students, scholars, interviewees and lifelong learners&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xiaou61/mydocs</title>
-    <updated>2023-08-19T01:35:31Z</updated>
-    <id>tag:github.com,2023-08-19:/xiaou61/mydocs</id>
-    <link href="https://github.com/xiaou61/mydocs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;个人博客,里面包含java，Vue，Spring,数据结构，爬虫,JVM,Springboot,react,javascript等内容的整理&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-20T01:50:12Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WestleyArgentum/GeneticAlgorithms.jl</title>
+    <updated>2023-08-20T01:50:12Z</updated>
+    <id>tag:github.com,2023-08-20:/WestleyArgentum/GeneticAlgorithms.jl</id>
+    <link href="https://github.com/WestleyArgentum/GeneticAlgorithms.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight framework for writing genetic algorithms in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

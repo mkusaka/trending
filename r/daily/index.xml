@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-19T01:31:33Z</updated>
+  <updated>2023-08-20T01:37:11Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>datacarpentry/genomics-r-intro</title>
-    <updated>2023-08-19T01:31:33Z</updated>
-    <id>tag:github.com,2023-08-19:/datacarpentry/genomics-r-intro</id>
-    <link href="https://github.com/datacarpentry/genomics-r-intro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Intro to R and RStudio for Genomics&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Intro to R and RStudio for Genomics&lt;/h1&gt; &#xA;&lt;p&gt;Lesson in development.&lt;/p&gt; &#xA;&lt;h2&gt;How to contribute?&lt;/h2&gt; &#xA;&lt;p&gt;This repository uses GitHub Actions to build and deploy the lesson.&lt;/p&gt; &#xA;&lt;p&gt;Contributions and Pull Requests should be made against the &lt;code&gt;main&lt;/code&gt; branch. After your contribution is merged, Travis will take care of using R to process the Rmd files into markdown files, and push them into the &lt;code&gt;gh-branch&lt;/code&gt; which GitHub uses to serve the lesson website.&lt;/p&gt; &#xA;&lt;p&gt;Individual episode files are in the &lt;code&gt;_episodes_rmd&lt;/code&gt; folder.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub G-code Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-20T01:47:24Z</updated>
+  <subtitle>Weekly Trending of G-code in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>prusa3d/gcode-metadata</title>
+    <updated>2023-08-20T01:47:24Z</updated>
+    <id>tag:github.com,2023-08-20:/prusa3d/gcode-metadata</id>
+    <link href="https://github.com/prusa3d/gcode-metadata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python G-CODE metadata parsing library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
