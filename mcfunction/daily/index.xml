@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub mcfunction Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-20T01:33:30Z</updated>
+  <updated>2023-08-21T01:33:24Z</updated>
   <subtitle>Daily Trending of mcfunction in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AimToStar-Localization-Group/DarkRPG</title>
-    <updated>2023-08-20T01:33:30Z</updated>
-    <id>tag:github.com,2023-08-20:/AimToStar-Localization-Group/DarkRPG</id>
-    <link href="https://github.com/AimToStar-Localization-Group/DarkRPG" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DarkRPG (MC)1.20.1 版本汉化&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

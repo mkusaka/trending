@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-20T01:28:56Z</updated>
+  <updated>2023-08-21T01:28:43Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>voylin/TeleDot</title>
-    <updated>2023-08-20T01:28:56Z</updated>
-    <id>tag:github.com,2023-08-20:/voylin/TeleDot</id>
-    <link href="https://github.com/voylin/TeleDot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A better teleprompter (made with Godot)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MakovWait/godots</title>
+    <updated>2023-08-21T01:28:43Z</updated>
+    <id>tag:github.com,2023-08-21:/MakovWait/godots</id>
+    <link href="https://github.com/MakovWait/godots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀Ultimate go-to hub for managing your Godot versions and projects! 🚀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

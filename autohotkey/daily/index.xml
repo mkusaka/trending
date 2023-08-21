@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-20T01:24:18Z</updated>
+  <updated>2023-08-21T01:24:26Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lemasatodev/POE-Trades-Companion</title>
-    <updated>2023-08-20T01:24:18Z</updated>
-    <id>tag:github.com,2023-08-20:/lemasatodev/POE-Trades-Companion</id>
-    <link href="https://github.com/lemasatodev/POE-Trades-Companion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Eternal-Walnut/Apex-NoRecoil-Alpha</title>
+    <updated>2023-08-21T01:24:26Z</updated>
+    <id>tag:github.com,2023-08-21:/Eternal-Walnut/Apex-NoRecoil-Alpha</id>
+    <link href="https://github.com/Eternal-Walnut/Apex-NoRecoil-Alpha" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An official branch version that I can modify and update myself&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Lailloken/Lailloken-UI-Legacy</title>
+    <updated>2023-08-21T01:24:26Z</updated>
+    <id>tag:github.com,2023-08-21:/Lailloken/Lailloken-UI-Legacy</id>
+    <link href="https://github.com/Lailloken/Lailloken-UI-Legacy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Legacy version (1.30.6) of Lailloken UI, published separately as a fallback version after the v1.50 overhaul.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>a1987zz/OBWH_AHK</title>
+    <updated>2023-08-21T01:24:26Z</updated>
+    <id>tag:github.com,2023-08-21:/a1987zz/OBWH_AHK</id>
+    <link href="https://github.com/a1987zz/OBWH_AHK" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;wallhack for cs:go game&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

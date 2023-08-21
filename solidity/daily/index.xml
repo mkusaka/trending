@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-20T01:39:21Z</updated>
+  <updated>2023-08-21T01:39:24Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>maple-labs/open-term-loan-manager</title>
-    <updated>2023-08-20T01:39:21Z</updated>
-    <id>tag:github.com,2023-08-20:/maple-labs/open-term-loan-manager</id>
-    <link href="https://github.com/maple-labs/open-term-loan-manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>solidquant/mev-templates</title>
+    <updated>2023-08-21T01:39:24Z</updated>
+    <id>tag:github.com,2023-08-21:/solidquant/mev-templates</id>
+    <link href="https://github.com/solidquant/mev-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MEV bot templates written in Python/Javascript/Rust. All implementing DEX flashloan arbitrage&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>maple-labs/fixed-term-loan-manager</title>
-    <updated>2023-08-20T01:39:21Z</updated>
-    <id>tag:github.com,2023-08-20:/maple-labs/fixed-term-loan-manager</id>
-    <link href="https://github.com/maple-labs/fixed-term-loan-manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maple-labs/fixed-term-loan</title>
-    <updated>2023-08-20T01:39:21Z</updated>
-    <id>tag:github.com,2023-08-20:/maple-labs/fixed-term-loan</id>
-    <link href="https://github.com/maple-labs/fixed-term-loan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chronicleprotocol/scribe</title>
+    <updated>2023-08-21T01:39:24Z</updated>
+    <id>tag:github.com,2023-08-21:/chronicleprotocol/scribe</id>
+    <link href="https://github.com/chronicleprotocol/scribe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Efficient Schnorr multi-signature based Oracle&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

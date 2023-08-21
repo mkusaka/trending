@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LOLCODE Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-20T01:32:54Z</updated>
+  <updated>2023-08-21T01:32:42Z</updated>
   <subtitle>Daily Trending of LOLCODE in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WHU-MSC/WHUMSC2023New</title>
+    <updated>2023-08-21T01:32:42Z</updated>
+    <id>tag:github.com,2023-08-21:/WHU-MSC/WHUMSC2023New</id>
+    <link href="https://github.com/WHU-MSC/WHUMSC2023New" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;武汉大学微软学生俱乐部2023年招新&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

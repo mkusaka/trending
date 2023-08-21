@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-20T01:24:59Z</updated>
+  <updated>2023-08-21T01:25:01Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ipxe/ipxe</title>
-    <updated>2023-08-20T01:24:59Z</updated>
-    <id>tag:github.com,2023-08-20:/ipxe/ipxe</id>
-    <link href="https://github.com/ipxe/ipxe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;iPXE network bootloader&lt;/p&gt;&lt;hr&gt;&lt;p&gt;iPXE README File&lt;/p&gt; &#xA;&lt;p&gt;Quick start guide:&lt;/p&gt; &#xA;&lt;p&gt;cd src make&lt;/p&gt; &#xA;&lt;p&gt;For any more detailed instructions, see &lt;a href=&#34;http://ipxe.org&#34;&gt;http://ipxe.org&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

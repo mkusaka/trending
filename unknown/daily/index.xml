@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-20T01:23:26Z</updated>
+  <updated>2023-08-21T01:23:32Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yujiangshui/A-Programmers-Guide-to-English</title>
-    <updated>2023-08-20T01:23:26Z</updated>
-    <id>tag:github.com,2023-08-20:/yujiangshui/A-Programmers-Guide-to-English</id>
-    <link href="https://github.com/yujiangshui/A-Programmers-Guide-to-English" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Clooos/Bubble-Card</title>
+    <updated>2023-08-21T01:23:32Z</updated>
+    <id>tag:github.com,2023-08-21:/Clooos/Bubble-Card</id>
+    <link href="https://github.com/Clooos/Bubble-Card" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WIP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>readyplayerme/animation-library</title>
-    <updated>2023-08-20T01:23:26Z</updated>
-    <id>tag:github.com,2023-08-20:/readyplayerme/animation-library</id>
-    <link href="https://github.com/readyplayerme/animation-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ready Player Me Animation Library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bootun/go-analysis</title>
+    <updated>2023-08-21T01:23:32Z</updated>
+    <id>tag:github.com,2023-08-21:/bootun/go-analysis</id>
+    <link href="https://github.com/bootun/go-analysis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;通过汇编和图解，深入浅出Go内部实现&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elidianaandrade/dio-curso-git-github</title>
-    <updated>2023-08-20T01:23:26Z</updated>
-    <id>tag:github.com,2023-08-20:/elidianaandrade/dio-curso-git-github</id>
-    <link href="https://github.com/elidianaandrade/dio-curso-git-github" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositório do curso Versionamento de Código com Git e GitHub da Digital Innovation One.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ClashForIOS/ClashPro</title>
+    <updated>2023-08-21T01:23:32Z</updated>
+    <id>tag:github.com,2023-08-21:/ClashForIOS/ClashPro</id>
+    <link href="https://github.com/ClashForIOS/ClashPro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;windows, iOS, MacOS released&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

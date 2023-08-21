@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-20T01:24:33Z</updated>
+  <updated>2023-08-21T01:24:38Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure-Samples/app-service-basic-implementation</title>
-    <updated>2023-08-20T01:24:33Z</updated>
-    <id>tag:github.com,2023-08-20:/Azure-Samples/app-service-basic-implementation</id>
-    <link href="https://github.com/Azure-Samples/app-service-basic-implementation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A basic implementation for running web applications on Azure App Service.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
