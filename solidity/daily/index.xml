@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:39:24Z</updated>
+  <updated>2023-08-22T01:40:55Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>solidquant/mev-templates</title>
-    <updated>2023-08-21T01:39:24Z</updated>
-    <id>tag:github.com,2023-08-21:/solidquant/mev-templates</id>
-    <link href="https://github.com/solidquant/mev-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MEV bot templates written in Python/Javascript/Rust. All implementing DEX flashloan arbitrage&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>XuHugo/solidityproject</title>
+    <updated>2023-08-22T01:40:55Z</updated>
+    <id>tag:github.com,2023-08-22:/XuHugo/solidityproject</id>
+    <link href="https://github.com/XuHugo/solidityproject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DApp go go go ！！！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chronicleprotocol/scribe</title>
-    <updated>2023-08-21T01:39:24Z</updated>
-    <id>tag:github.com,2023-08-21:/chronicleprotocol/scribe</id>
-    <link href="https://github.com/chronicleprotocol/scribe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Efficient Schnorr multi-signature based Oracle&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Moeez-Rajpoot/Solidity-Smart-Contracts</title>
+    <updated>2023-08-22T01:40:55Z</updated>
+    <id>tag:github.com,2023-08-22:/Moeez-Rajpoot/Solidity-Smart-Contracts</id>
+    <link href="https://github.com/Moeez-Rajpoot/Solidity-Smart-Contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This Reository contains Solidity Smart Contracts Practice Projects and also full Contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

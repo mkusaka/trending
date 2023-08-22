@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:35:09Z</updated>
+  <updated>2023-08-22T01:36:45Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>paolo-rossi/sqids-delphi</title>
+    <updated>2023-08-22T01:36:45Z</updated>
+    <id>tag:github.com,2023-08-22:/paolo-rossi/sqids-delphi</id>
+    <link href="https://github.com/paolo-rossi/sqids-delphi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delphi port of Sqids. Generate short YouTube-looking IDs from numbers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

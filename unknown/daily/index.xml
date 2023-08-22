@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:23:32Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-08-22T01:22:04Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Clooos/Bubble-Card</title>
-    <updated>2023-08-21T01:23:32Z</updated>
-    <id>tag:github.com,2023-08-21:/Clooos/Bubble-Card</id>
-    <link href="https://github.com/Clooos/Bubble-Card" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WIP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri</title>
+    <updated>2023-08-22T01:22:04Z</updated>
+    <id>tag:github.com,2023-08-22:/fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri</id>
+    <link href="https://github.com/fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bootun/go-analysis</title>
-    <updated>2023-08-21T01:23:32Z</updated>
-    <id>tag:github.com,2023-08-21:/bootun/go-analysis</id>
-    <link href="https://github.com/bootun/go-analysis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;通过汇编和图解，深入浅出Go内部实现&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rajucs/Book-For-Programmers</title>
+    <updated>2023-08-22T01:22:04Z</updated>
+    <id>tag:github.com,2023-08-22:/rajucs/Book-For-Programmers</id>
+    <link href="https://github.com/rajucs/Book-For-Programmers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ClashForIOS/ClashPro</title>
-    <updated>2023-08-21T01:23:32Z</updated>
-    <id>tag:github.com,2023-08-21:/ClashForIOS/ClashPro</id>
-    <link href="https://github.com/ClashForIOS/ClashPro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;windows, iOS, MacOS released&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jingyi0000/VLM_survey</title>
+    <updated>2023-08-22T01:22:04Z</updated>
+    <id>tag:github.com,2023-08-22:/jingyi0000/VLM_survey</id>
+    <link href="https://github.com/jingyi0000/VLM_survey" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vision-Language Models for Vision Tasks: A Survey&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

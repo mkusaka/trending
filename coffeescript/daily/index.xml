@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:25:55Z</updated>
+  <updated>2023-08-22T01:25:34Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>twilson63/express-coffee</title>
-    <updated>2023-08-21T01:25:55Z</updated>
-    <id>tag:github.com,2023-08-21:/twilson63/express-coffee</id>
-    <link href="https://github.com/twilson63/express-coffee" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Template for NodeJs Application using Express, CoffeeScript, Jade, Stylus, Nib&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dschwen/switch-header-source</title>
-    <updated>2023-08-21T01:25:55Z</updated>
-    <id>tag:github.com,2023-08-21:/dschwen/switch-header-source</id>
-    <link href="https://github.com/dschwen/switch-header-source" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Quick switching between C/C++ header and source files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>shadowsocks/shadowsocks-nodejs</title>
-    <updated>2023-08-21T01:25:55Z</updated>
-    <id>tag:github.com,2023-08-21:/shadowsocks/shadowsocks-nodejs</id>
-    <link href="https://github.com/shadowsocks/shadowsocks-nodejs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fredkingham/brunch-with-cantaloupe</title>
+    <updated>2023-08-22T01:25:34Z</updated>
+    <id>tag:github.com,2023-08-22:/fredkingham/brunch-with-cantaloupe</id>
+    <link href="https://github.com/fredkingham/brunch-with-cantaloupe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;basic brunch with file structure but no bells or whistles&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

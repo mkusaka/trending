@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:39:47Z</updated>
+  <updated>2023-08-22T01:41:19Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CleverCloud/PostOwl</title>
-    <updated>2023-08-21T01:39:47Z</updated>
-    <id>tag:github.com,2023-08-21:/CleverCloud/PostOwl</id>
-    <link href="https://github.com/CleverCloud/PostOwl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Replicate SQLite on Clever Cloud&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>deta/space-docs</title>
+    <updated>2023-08-22T01:41:19Z</updated>
+    <id>tag:github.com,2023-08-22:/deta/space-docs</id>
+    <link href="https://github.com/deta/space-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation and guides for Deta Space&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

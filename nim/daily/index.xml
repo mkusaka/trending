@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:34:11Z</updated>
+  <updated>2023-08-22T01:35:44Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>codex-storage/swarmsim</title>
-    <updated>2023-08-21T01:34:11Z</updated>
-    <id>tag:github.com,2023-08-21:/codex-storage/swarmsim</id>
-    <link href="https://github.com/codex-storage/swarmsim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simulator for experimenting with swarm protocols.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>juancarlospaco/nodejs</title>
-    <updated>2023-08-21T01:34:11Z</updated>
-    <id>tag:github.com,2023-08-21:/juancarlospaco/nodejs</id>
-    <link href="https://github.com/juancarlospaco/nodejs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:31:52Z</updated>
+  <updated>2023-08-22T01:32:39Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>triscale-innov/Eikonal.jl</title>
-    <updated>2023-08-21T01:31:52Z</updated>
-    <id>tag:github.com,2023-08-21:/triscale-innov/Eikonal.jl</id>
-    <link href="https://github.com/triscale-innov/Eikonal.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solvers for the Eikonal equation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaGNI/GeometricMachineLearning.jl</title>
-    <updated>2023-08-21T01:31:52Z</updated>
-    <id>tag:github.com,2023-08-21:/JuliaGNI/GeometricMachineLearning.jl</id>
-    <link href="https://github.com/JuliaGNI/GeometricMachineLearning.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Structure Preserving Machine Learning Models in Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaServices/AutoHashEquals.jl</title>
-    <updated>2023-08-21T01:31:52Z</updated>
-    <id>tag:github.com,2023-08-21:/JuliaServices/AutoHashEquals.jl</id>
-    <link href="https://github.com/JuliaServices/AutoHashEquals.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia macro to add == and hash() to composite types.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

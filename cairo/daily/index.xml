@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:25:27Z</updated>
+  <updated>2023-08-22T01:24:48Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>abdelhamidbakhta/kickstart-starknet</title>
-    <updated>2023-08-21T01:25:27Z</updated>
-    <id>tag:github.com,2023-08-21:/abdelhamidbakhta/kickstart-starknet</id>
-    <link href="https://github.com/abdelhamidbakhta/kickstart-starknet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Start your new Starknet project in one command!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:32:39Z</updated>
+  <updated>2023-08-22T01:33:53Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PoomSmart/YTVideoOverlay</title>
-    <updated>2023-08-21T01:32:39Z</updated>
-    <id>tag:github.com,2023-08-21:/PoomSmart/YTVideoOverlay</id>
-    <link href="https://github.com/PoomSmart/YTVideoOverlay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A helper tweak to add buttons on YouTube video overlay.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

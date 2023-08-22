@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:24:22Z</updated>
+  <updated>2023-08-22T01:23:06Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pret/pmd-sky</title>
+    <updated>2023-08-22T01:23:06Z</updated>
+    <id>tag:github.com,2023-08-22:/pret/pmd-sky</id>
+    <link href="https://github.com/pret/pmd-sky" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Decompilation of Pokémon Mystery Dungeon: Explorers of Sky&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

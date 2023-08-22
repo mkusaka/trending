@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:34:40Z</updated>
+  <updated>2023-08-22T01:36:15Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dbuenzli/webglue</title>
-    <updated>2023-08-21T01:34:40Z</updated>
-    <id>tag:github.com,2023-08-21:/dbuenzli/webglue</id>
-    <link href="https://github.com/dbuenzli/webglue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Command line tool to build static websites (experiment, unreleased)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coq/opam</title>
+    <updated>2023-08-22T01:36:15Z</updated>
+    <id>tag:github.com,2023-08-22:/coq/opam</id>
+    <link href="https://github.com/coq/opam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Archive for all Coq related OPAM packages organized in various repositories&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cil-project/cil</title>
+    <updated>2023-08-22T01:36:15Z</updated>
+    <id>tag:github.com,2023-08-22:/cil-project/cil</id>
+    <link href="https://github.com/cil-project/cil" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C Intermediate Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

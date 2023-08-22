@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:38:33Z</updated>
+  <updated>2023-08-22T01:40:02Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DoctorWh012/Client-Side-Prediction</title>
-    <updated>2023-08-21T01:38:33Z</updated>
-    <id>tag:github.com,2023-08-21:/DoctorWh012/Client-Side-Prediction</id>
-    <link href="https://github.com/DoctorWh012/Client-Side-Prediction" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A step by step guide on how to do client side prediction with non physics based movement&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

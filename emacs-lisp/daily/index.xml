@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-21T01:28:01Z</updated>
+  <updated>2023-08-22T01:27:53Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>byuksel/Emacs-as-a-C-Cplusplus-Editor-IDE-settings</title>
-    <updated>2023-08-21T01:28:01Z</updated>
-    <id>tag:github.com,2023-08-21:/byuksel/Emacs-as-a-C-Cplusplus-Editor-IDE-settings</id>
-    <link href="https://github.com/byuksel/Emacs-as-a-C-Cplusplus-Editor-IDE-settings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;.emacs file for &#34;Emacs as a C/C++ Editor/IDE&#34; video tutorial series&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Emacs-as-a-C-Cplusplus-Editor-IDE-settings&lt;/h1&gt; &#xA;&lt;p&gt;.emacs file for &#34;Emacs as a C/C++ Editor/IDE&#34; video tutorial series&lt;/p&gt; &#xA;&lt;p&gt;This is the .emacs file we build in &#34;Emacs as a C/C++ Editor/IDE&#34; series: &lt;a href=&#34;https://www.youtube.com/playlist?list=PL-mFLc7R_MJet8ItKipCtYc7PWoS5KTfM&#34;&gt;https://www.youtube.com/playlist?list=PL-mFLc7R_MJet8ItKipCtYc7PWoS5KTfM&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Happy coding with Emacs :)&lt;/p&gt; &#xA;&lt;p&gt;Baris Yuksel&lt;/p&gt;</summary>
-  </entry>
 </feed>
