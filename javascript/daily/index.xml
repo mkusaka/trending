@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-22T01:31:39Z</updated>
+  <updated>2023-08-23T01:31:46Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nerfies/nerfies.github.io</title>
+    <updated>2023-08-23T01:31:46Z</updated>
+    <id>tag:github.com,2023-08-23:/nerfies/nerfies.github.io</id>
+    <link href="https://github.com/nerfies/nerfies.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Nerfies&lt;/h1&gt; &#xA;&lt;p&gt;This is the repository that contains source code for the &lt;a href=&#34;https://nerfies.github.io&#34;&gt;Nerfies website&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;If you find Nerfies useful for your work please cite:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;@article{park2021nerfies&#xA;  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},&#xA;  title     = {Nerfies: Deformable Neural Radiance Fields},&#xA;  journal   = {ICCV},&#xA;  year      = {2021},&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Website License&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#34;&gt;&lt;/a&gt;&lt;br&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

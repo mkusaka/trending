@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-22T01:28:42Z</updated>
+  <updated>2023-08-23T01:29:05Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bitbrain/pandora</title>
-    <updated>2023-08-22T01:28:42Z</updated>
-    <id>tag:github.com,2023-08-22:/bitbrain/pandora</id>
-    <link href="https://github.com/bitbrain/pandora" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot 4 addon for RPG data management such items, inventories, spells, mobs, quests and NPCs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Evanator05/albertagamejam2023</title>
-    <updated>2023-08-22T01:28:42Z</updated>
-    <id>tag:github.com,2023-08-22:/Evanator05/albertagamejam2023</id>
-    <link href="https://github.com/Evanator05/albertagamejam2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

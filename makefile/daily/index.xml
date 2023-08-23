@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-22T01:34:31Z</updated>
+  <updated>2023-08-23T01:33:45Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sysml/toolchain</title>
-    <updated>2023-08-22T01:34:31Z</updated>
-    <id>tag:github.com,2023-08-22:/sysml/toolchain</id>
-    <link href="https://github.com/sysml/toolchain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C/C++ toolchain for MiniOS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anton-rs/op-boot</title>
+    <updated>2023-08-23T01:33:45Z</updated>
+    <id>tag:github.com,2023-08-23:/anton-rs/op-boot</id>
+    <link href="https://github.com/anton-rs/op-boot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Boot an Optimism Node, Blazingly Fast.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mbcrawfo/GenericMakefile</title>
+    <updated>2023-08-23T01:33:45Z</updated>
+    <id>tag:github.com,2023-08-23:/mbcrawfo/GenericMakefile</id>
+    <link href="https://github.com/mbcrawfo/GenericMakefile" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A generic makefile for use with small/medium C and C++ projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

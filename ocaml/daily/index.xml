@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-22T01:36:15Z</updated>
+  <updated>2023-08-23T01:35:32Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>coq/opam</title>
-    <updated>2023-08-22T01:36:15Z</updated>
-    <id>tag:github.com,2023-08-22:/coq/opam</id>
-    <link href="https://github.com/coq/opam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Archive for all Coq related OPAM packages organized in various repositories&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cil-project/cil</title>
-    <updated>2023-08-22T01:36:15Z</updated>
-    <id>tag:github.com,2023-08-22:/cil-project/cil</id>
-    <link href="https://github.com/cil-project/cil" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C Intermediate Language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>direct-manipulation/profound</title>
+    <updated>2023-08-23T01:35:32Z</updated>
+    <id>tag:github.com,2023-08-23:/direct-manipulation/profound</id>
+    <link href="https://github.com/direct-manipulation/profound" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An experiment in formula linking as an interaction method&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

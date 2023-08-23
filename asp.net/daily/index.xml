@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASP.NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-22T01:23:00Z</updated>
+  <updated>2023-08-23T01:22:33Z</updated>
   <subtitle>Daily Trending of ASP.NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Rvn0xsy/usefull-code</title>
-    <updated>2023-08-22T01:23:00Z</updated>
-    <id>tag:github.com,2023-08-22:/Rvn0xsy/usefull-code</id>
-    <link href="https://github.com/Rvn0xsy/usefull-code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;usefull-code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

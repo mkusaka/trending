@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-22T01:24:20Z</updated>
+  <updated>2023-08-23T01:23:58Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zer0condition/NVDrv</title>
+    <updated>2023-08-23T01:23:58Z</updated>
+    <id>tag:github.com,2023-08-23:/zer0condition/NVDrv</id>
+    <link href="https://github.com/zer0condition/NVDrv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Abusing nvidia driver (nvoclock.sys) for physical/virtual memory and control register manipulation.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NVDrv&lt;/h1&gt; &#xA;&lt;p&gt;Abusing nvidia driver nvoclock.sys for arbitrary (read/write)/s to physical memory, control registers (CR0 - CR4 and more), MSRs (not implemented yet into example source yet).&lt;/p&gt; &#xA;&lt;p&gt;nvoclock.sys download: &lt;a href=&#34;https://www.unknowncheats.me/forum/downloads.php?do=file&amp;amp;id=41635&#34;&gt;https://www.unknowncheats.me/forum/downloads.php?do=file&amp;amp;id=41635&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

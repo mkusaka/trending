@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-22T01:39:44Z</updated>
+  <updated>2023-08-23T01:39:16Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bennetimo/scalatrain</title>
+    <updated>2023-08-23T01:39:16Z</updated>
+    <id>tag:github.com,2023-08-23:/bennetimo/scalatrain</id>
+    <link href="https://github.com/bennetimo/scalatrain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scala training course&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ScalaTrain&lt;/h1&gt; &#xA;&lt;p&gt;This project is part of the course materials for the Scala training courses from Typesafe. Each successive commit corresponds to an exercise in the slide deck, i.e. it is possible to jump on at any given stage.&lt;/p&gt; &#xA;&lt;h2&gt;Copyright&lt;/h2&gt; &#xA;&lt;p&gt;Unless otherwise agreed, training materials may only be used for educational and reference purposes by individual named participants in a training course offered by Typesafe or a Typesafe training partner. Unauthorized reproduction, redistribution, or use of this material is prohibited.&lt;/p&gt;</summary>
+  </entry>
 </feed>

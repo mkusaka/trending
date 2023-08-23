@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-22T01:28:11Z</updated>
+  <updated>2023-08-23T01:28:29Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ijrussell/FSharpExample</title>
-    <updated>2023-08-22T01:28:11Z</updated>
-    <id>tag:github.com,2023-08-22:/ijrussell/FSharpExample</id>
-    <link href="https://github.com/ijrussell/FSharpExample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;F# Example Codebase&lt;/h1&gt; &#xA;&lt;p&gt;This is some code from converting an interview coding test from C# into F#. It makes use of the awesome FsToolkit.ErrorHandling package (&lt;a href=&#34;https://github.com/demystifyfp/FsToolkit.ErrorHandling&#34;&gt;https://github.com/demystifyfp/FsToolkit.ErrorHandling&lt;/a&gt;).&lt;/p&gt; &#xA;&lt;p&gt;This codebase contains a number of F# features and techniques including:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Computation Expressions&lt;/li&gt; &#xA; &lt;li&gt;Higher-Order Functions&lt;/li&gt; &#xA; &lt;li&gt;Validation&lt;/li&gt; &#xA; &lt;li&gt;Discriminated Unions&lt;/li&gt; &#xA; &lt;li&gt;Single-case Discriminated Unions&lt;/li&gt; &#xA; &lt;li&gt;Result and Option&lt;/li&gt; &#xA; &lt;li&gt;Records and Tuples&lt;/li&gt; &#xA; &lt;li&gt;Modules&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Free F# ebook&lt;/h2&gt; &#xA;&lt;p&gt;To learn more about these features and a lot more, you can download my free 200-page ebook from &lt;a href=&#34;https://leanpub.com/essential-fsharp&#34;&gt;https://leanpub.com/essential-fsharp&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Setting up&lt;/h2&gt; &#xA;&lt;p&gt;This code was written using VS Code, the ionide F# extension, and .Net SDK 7.0.10.&lt;/p&gt; &#xA;&lt;h2&gt;Running the code&lt;/h2&gt; &#xA;&lt;p&gt;In the terminal, navigate to the project in the src folder and type:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;dotnet run&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;In the terminal, you will get an output of &lt;code&gt;Ok ()&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;If you change some of the data to be invalid, say the FirstName to &#34; &#34; and the Email to &#34;&#34; and run again you will get an output of &lt;code&gt;Error (FailedCreateValidation [EmptyFirstName &#34; &#34;; InvalidEmail &#34;&#34;])&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Running the tests&lt;/h2&gt; &#xA;&lt;p&gt;Open a new terminal, navigate to the project in the tests folder and type:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;dotnet test&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;In the terminal, you will get an output showing the result of running the tests.&lt;/p&gt;</summary>
-  </entry>
 </feed>

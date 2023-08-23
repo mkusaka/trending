@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-22T01:29:52Z</updated>
+  <updated>2023-08-23T01:30:41Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>paul-rouse/mysql</title>
-    <updated>2023-08-22T01:29:52Z</updated>
-    <id>tag:github.com,2023-08-22:/paul-rouse/mysql</id>
-    <link href="https://github.com/paul-rouse/mysql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight Haskell binding to the C mysqlclient API&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;mysql: bindings to the mysqlclient library&lt;/h1&gt; &#xA;&lt;p&gt;This library is a Haskell binding to the MySQL &lt;code&gt;mysqlclient&lt;/code&gt; client library. It is a fairly faithful, low level library that implements most of the MySQL client API. The major departure from the C API is that in Haskell, resource management is mostly automatic and safe.&lt;/p&gt; &#xA;&lt;p&gt;This library deliberately avoids the question of providing a &#34;good&#34; API. Its purpose is to serve as a base upon which higher-level libraries can be built.&lt;/p&gt; &#xA;&lt;h1&gt;Licensing&lt;/h1&gt; &#xA;&lt;p&gt;This library is BSD-licensed under the terms of the &lt;a href=&#34;http://www.mysql.com/about/legal/licensing/foss-exception/&#34;&gt;MySQL FOSS License Exception&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Since this library links against the GPL-licensed &lt;code&gt;mysqlclient&lt;/code&gt; library, a non-open-source application that uses it &lt;em&gt;may&lt;/em&gt; be subject to the terms of the GPL.&lt;/p&gt; &#xA;&lt;h1&gt;To do&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Add support for prepared statements. The prepared statement API is huge and of dubious performance value, so it&#39;s not currently a priority for us. Patches welcome!&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Get involved!&lt;/h1&gt; &#xA;&lt;p&gt;We are happy to receive bug reports, fixes, documentation enhancements, and other improvements.&lt;/p&gt; &#xA;&lt;p&gt;Please report bugs via the &lt;a href=&#34;http://github.com/paul-rouse/mysql/issues&#34;&gt;github issue tracker&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Master &lt;a href=&#34;http://github.com/paul-rouse/mysql&#34;&gt;git repository&lt;/a&gt;:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;git clone git://github.com/paul-rouse/mysql.git&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Authors&lt;/h1&gt; &#xA;&lt;p&gt;This library was written by Bryan O&#39;Sullivan, &lt;a href=&#34;mailto:bos@serpentine.com&#34;&gt;bos@serpentine.com&lt;/a&gt;, to whom all of the credit is due. It is now being maintained by Paul Rouse, &lt;a href=&#34;mailto:pyr@doynton.org&#34;&gt;pyr@doynton.org&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>
