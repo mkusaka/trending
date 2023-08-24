@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-23T01:25:54Z</updated>
+  <updated>2023-08-24T01:28:06Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CodeCrafter11/css-projects</title>
-    <updated>2023-08-23T01:25:54Z</updated>
-    <id>tag:github.com,2023-08-23:/CodeCrafter11/css-projects</id>
-    <link href="https://github.com/CodeCrafter11/css-projects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;You can find all source codes for all css projects here&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;css-projects&lt;/h1&gt; &#xA;&lt;p&gt;You can find all source codes for all css projects here&lt;/p&gt;</summary>
+    <title>jd-solanki/slidev-theme-dracula</title>
+    <updated>2023-08-24T01:28:06Z</updated>
+    <id>tag:github.com,2023-08-24:/jd-solanki/slidev-theme-dracula</id>
+    <link href="https://github.com/jd-solanki/slidev-theme-dracula" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dracula theme for slidev 🧛&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;🧛‍♂️ slidev-theme-dracula&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/47495003/217882601-bd444dff-8e47-4240-940d-49e9e21fed41.png&#34; alt=&#34;theme-banner.png&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.npmjs.com/package/slidev-theme-dracula&#34;&gt;&lt;img src=&#34;https://img.shields.io/npm/v/slidev-theme-dracula?color=bd93f9&amp;amp;label=&#34; alt=&#34;NPM version&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;A Dracula theme for &lt;a href=&#34;https://github.com/slidevjs/slidev&#34;&gt;Slidev&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;!--&#xA;  Learn more about how to write a theme:&#xA;  https://sli.dev/themes/write-a-theme.html&#xA;---&gt; &#xA;&lt;!--&#xA;  run `npm run dev` to check out the slides for more details of how to start writing a theme&#xA;--&gt; &#xA;&lt;!--&#xA;  Put some screenshots here to demonstrate your theme&#xA;&#xA;  Live demo: [...]&#xA;--&gt; &#xA;&lt;h2&gt;✨ Demo&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://jd-solanki.github.io/slidev-theme-dracula/example&#34;&gt;Example&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://jd-solanki.github.io/slidev-theme-dracula/layouts/&#34;&gt;Layouts&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;🛠️ Install&lt;/h2&gt; &#xA;&lt;p&gt;Add the following frontmatter to your &lt;code&gt;slides.md&lt;/code&gt;. Start Slidev then it will prompt you to install the theme automatically.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;---&#xA;theme: &lt;b&gt;dracula&lt;/b&gt;&#xA;---&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Learn more about &lt;a href=&#34;https://sli.dev/themes/use&#34;&gt;how to use a theme&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;🧱 Layouts&lt;/h2&gt; &#xA;&lt;p&gt;This theme provides the following layouts:&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;&lt;em&gt;Please refer to the source code of the &lt;a href=&#34;https://github.com/jd-solanki/slidev-theme-dracula/tree/main/layouts&#34;&gt;available layouts&lt;/a&gt; to learn more about how to use them.&lt;/em&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;For a preview of the layouts, please refer to &lt;a href=&#34;https://jd-solanki.github.io/slidev-theme-dracula/layouts/&#34;&gt;layouts&lt;/a&gt; demo.&lt;/p&gt; &#xA;&lt;h2&gt;📦 Components&lt;/h2&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;&lt;em&gt;Raise issue&lt;/em&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;🤝 Contributing&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;npm install&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;npm run dev&lt;/code&gt; to start theme preview of &lt;code&gt;example.md&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Edit the &lt;code&gt;example.md&lt;/code&gt; and style to see the changes&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;npm run export&lt;/code&gt; to generate the preview PDF&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;npm run screenshot&lt;/code&gt; to generate the preview PNG&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;💖 Sponsors&lt;/h2&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://cdn.jsdelivr.net/gh/jd-solanki/static/sponsors/sponsors.svg&#34;&gt; &lt;img alt=&#34;sponsors&#34; src=&#34;https://cdn.jsdelivr.net/gh/jd-solanki/static/sponsors/sponsors.svg?sanitize=true&#34;&gt; &lt;/a&gt; &lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Kalvium-Program/shape_generator_boilerplate</title>
-    <updated>2023-08-23T01:25:54Z</updated>
-    <id>tag:github.com,2023-08-23:/Kalvium-Program/shape_generator_boilerplate</id>
-    <link href="https://github.com/Kalvium-Program/shape_generator_boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;shape_generator&lt;/h1&gt;</summary>
+    <title>FrancescoXX/contentbox</title>
+    <updated>2023-08-24T01:28:06Z</updated>
+    <id>tag:github.com,2023-08-24:/FrancescoXX/contentbox</id>
+    <link href="https://github.com/FrancescoXX/contentbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The organized solution for Content Creators.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ContentBox&lt;/h1&gt; &#xA;&lt;p&gt;The organized solution for Content Creators.&lt;/p&gt; &#xA;&lt;h2&gt;Core idea&lt;/h2&gt; &#xA;&lt;p&gt;If you are an active content creator, you probably have many pieces of content.&lt;/p&gt; &#xA;&lt;p&gt;The problem is that you have to manage them in different places, and keeping track of them is hard.&lt;/p&gt; &#xA;&lt;p&gt;ContentBox is a solution to this problem. It&#39;s a place where you can store all your content, and it&#39;s easy to manage.&lt;/p&gt; &#xA;&lt;p&gt;You can add content from different sources and search for them easily (search will be integrated with Algolia).&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;p&gt;✅ Deployment with Vercel&lt;/p&gt; &#xA;&lt;p&gt;✅ Google Analytics&lt;/p&gt; &#xA;&lt;p&gt;✅ Algolia Integration for Search&lt;/p&gt; &#xA;&lt;p&gt;✅ Dark/light mode&lt;/p&gt; &#xA;&lt;p&gt;✅ Navbar&lt;/p&gt; &#xA;&lt;p&gt;✅ Announcement bar&lt;/p&gt; &#xA;&lt;h2&gt;Tech Stack&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Docusaurus&lt;/li&gt; &#xA; &lt;li&gt;React&lt;/li&gt; &#xA; &lt;li&gt;JavaScript&lt;/li&gt; &#xA; &lt;li&gt;Algolia (search)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Videos&lt;/h1&gt; &#xA;&lt;p&gt;#1 &lt;a href=&#34;https://youtube.com/live/BxYJnON2r4o&#34;&gt;https://youtube.com/live/BxYJnON2r4o&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;#2 &lt;a href=&#34;https://youtube.com/live/PH2qkpIle50&#34;&gt;https://youtube.com/live/PH2qkpIle50&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;#3 &lt;a href=&#34;https://www.youtube.com/watch?v=jeP5Cnqk35U&#34;&gt;https://www.youtube.com/watch?v=jeP5Cnqk35U&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;How to use it&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone https://github.com/FrancescoXX/contentbox.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code&gt;npm i&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code&gt;npm start&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
   <entry>
-    <title>cassidoo/cardstock</title>
-    <updated>2023-08-23T01:25:54Z</updated>
-    <id>tag:github.com,2023-08-23:/cassidoo/cardstock</id>
-    <link href="https://github.com/cassidoo/cardstock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A clean Obsidian theme&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/cassidoo/cardstock/main/logo.svg?sanitize=true&#34; alt=&#34;cardstock&#34;&gt;&lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; A CSS theme for Obsidian! &lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/cassidoo/cardstock/main/screenshot.png&#34; alt=&#34;screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;To use&lt;/h2&gt; &#xA;&lt;p&gt;Install it!&lt;/p&gt; &#xA;&lt;p&gt;There are some font defaults that will work out of the box, but I recommend you install these fonts (for free!) for the full theme design:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://fonts.google.com/specimen/Source+Serif+4&#34;&gt;Source Serif&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://fonts.google.com/specimen/DM+Sans&#34;&gt;DM Sans&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>yazan-abuhammad/php_project_5</title>
+    <updated>2023-08-24T01:28:06Z</updated>
+    <id>tag:github.com,2023-08-24:/yazan-abuhammad/php_project_5</id>
+    <link href="https://github.com/yazan-abuhammad/php_project_5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;php_project_5&lt;/h1&gt;</summary>
   </entry>
 </feed>

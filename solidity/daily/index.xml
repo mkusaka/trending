@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-23T01:40:12Z</updated>
+  <updated>2023-08-24T01:43:40Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2023-08-gmx-fv</title>
-    <updated>2023-08-23T01:40:12Z</updated>
-    <id>tag:github.com,2023-08-23:/code-423n4/2023-08-gmx-fv</id>
-    <link href="https://github.com/code-423n4/2023-08-gmx-fv" rel="alternate"></link>
+    <title>code-423n4/2023-08-dopex</title>
+    <updated>2023-08-24T01:43:40Z</updated>
+    <id>tag:github.com,2023-08-24:/code-423n4/2023-08-dopex</id>
+    <link href="https://github.com/code-423n4/2023-08-dopex" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zkBob/zkbob-contracts</title>
-    <updated>2023-08-23T01:40:12Z</updated>
-    <id>tag:github.com,2023-08-23:/zkBob/zkbob-contracts</id>
-    <link href="https://github.com/zkBob/zkbob-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A stablecoin-based zkprotocol designed for simplicity, privacy and utility&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2023-08-shell</title>
+    <updated>2023-08-24T01:43:40Z</updated>
+    <id>tag:github.com,2023-08-24:/code-423n4/2023-08-shell</id>
+    <link href="https://github.com/code-423n4/2023-08-shell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GenerationSoftware/pt-v5-vault</title>
-    <updated>2023-08-23T01:40:12Z</updated>
-    <id>tag:github.com,2023-08-23:/GenerationSoftware/pt-v5-vault</id>
-    <link href="https://github.com/GenerationSoftware/pt-v5-vault" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>samsonajulor/smart_contracts</title>
+    <updated>2023-08-24T01:43:40Z</updated>
+    <id>tag:github.com,2023-08-24:/samsonajulor/smart_contracts</id>
+    <link href="https://github.com/samsonajulor/smart_contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains smart contracts and dApps worked on collaboratively by web3bridgers of cohort IX.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-23T01:41:08Z</updated>
+  <updated>2023-08-24T01:44:32Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EzoeRyou/cpp17book</title>
+    <updated>2023-08-24T01:44:32Z</updated>
+    <id>tag:github.com,2023-08-24:/EzoeRyou/cpp17book</id>
+    <link href="https://github.com/EzoeRyou/cpp17book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;textbook for C++17&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;C++17の新機能の差分本&lt;/h1&gt; &#xA;&lt;p&gt;著者：江添亮&lt;/p&gt; &#xA;&lt;p&gt;ブログ: &lt;a href=&#34;https://cpplover.blogspot.jp/&#34;&gt;https://cpplover.blogspot.jp/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;とりあえず書く。&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://ezoeryou.github.io/cpp17book/index.html&#34;&gt;GitHub Pageで閲覧:C++17の新機能&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;参考書の構成&lt;/h1&gt; &#xA;&lt;p&gt;参考書のソースコードはPandoc markdownで記述されている。&lt;/p&gt; &#xA;&lt;p&gt;ソースコードのファイル名は、&#34;3文字の数字-記述内容の概要.md&#34;となっている。ファイル名でソートした順番で結合される。&lt;/p&gt; &#xA;&lt;p&gt;C++のコード例のうち、すべての標準ヘッダーファイルが#includeされていればwell-formedなものは、&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;~~~cpp&#xA;C++のコード例&#xA;~~~&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;で囲む。&lt;/p&gt; &#xA;&lt;p&gt;C++のコード例のうち、意図的にill-formedなものは、&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;~~~c++&#xA;C++のコード例&#xA;~~~&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;で囲む。&lt;/p&gt; &#xA;&lt;h1&gt;参考書のビルド&lt;/h1&gt; &#xA;&lt;p&gt;参考書はmarkdownからpandocを使って目的のフォーマットに変換される。&lt;/p&gt; &#xA;&lt;p&gt;pandocを呼び出すためにMakefileを使っている。これはGNU Makeで使うことを前提として記述されている。&lt;/p&gt; &#xA;&lt;p&gt;参考書をHTMLファイルにするには、makeを使う。index.htmlが生成される。&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;make&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;参考書を単一のmarkdownファイルにするにはmakeを使う。index.mdが生成される。&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;make index.md&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;参考書を紙の本で印刷する工程&lt;/h1&gt; &#xA;&lt;p&gt;参考書を紙の本で印刷する場合、想定される工程は以下のようになる。&lt;/p&gt; &#xA;&lt;h2&gt;アスキードワンゴから出版される場合&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;pandocを使ってmarkdownからtexに変換&lt;/li&gt; &#xA; &lt;li&gt;生成されたtexを編集者が手で編集&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;その他の製本方法&lt;/h2&gt; &#xA;&lt;p&gt;以下は、大多数の出版社で想定される方法である。&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;pandocを使ってmarkdownからInDesign ICMLに変換。生成されたInDesignを手で編集。&lt;/li&gt; &#xA; &lt;li&gt;markdownを編集者が目で読み、手でInDesignに入力。&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

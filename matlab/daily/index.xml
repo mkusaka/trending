@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-23T01:33:57Z</updated>
+  <updated>2023-08-24T01:37:11Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vonsylvia/MATLAB_Algorithm_with_cases</title>
-    <updated>2023-08-23T01:33:57Z</updated>
-    <id>tag:github.com,2023-08-23:/vonsylvia/MATLAB_Algorithm_with_cases</id>
-    <link href="https://github.com/vonsylvia/MATLAB_Algorithm_with_cases" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;遗传算法、免疫算法、退火算法、粒子群算法、鱼群算法、蚁群算法和神经网络算法等常用智能算法的MATLAB实现&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yangzhen0512/IntelligentOptimizationAlgorithms</title>
-    <updated>2023-08-23T01:33:57Z</updated>
-    <id>tag:github.com,2023-08-23:/yangzhen0512/IntelligentOptimizationAlgorithms</id>
-    <link href="https://github.com/yangzhen0512/IntelligentOptimizationAlgorithms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository displays the demos of some Intelligent Optimization Algorithms, including SA (Simulated Annealing), GA (Genetic algorithm), PSO (Particle Swarm Optimizer) and so on. And some other algorithms will be appended in the future.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ThePolywellGuy/Matlab-Modeling</title>
-    <updated>2023-08-23T01:33:57Z</updated>
-    <id>tag:github.com,2023-08-23:/ThePolywellGuy/Matlab-Modeling</id>
-    <link href="https://github.com/ThePolywellGuy/Matlab-Modeling" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Download the MATLAB Code Used to Model WB6!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

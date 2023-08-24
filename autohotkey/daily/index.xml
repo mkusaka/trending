@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-23T01:22:46Z</updated>
+  <updated>2023-08-24T01:26:00Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hwayne/autohotkey-scripts</title>
+    <updated>2023-08-24T01:26:00Z</updated>
+    <id>tag:github.com,2023-08-24:/hwayne/autohotkey-scripts</id>
+    <link href="https://github.com/hwayne/autohotkey-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some of my AutoHotKey scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

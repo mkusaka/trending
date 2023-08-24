@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-23T01:27:52Z</updated>
+  <updated>2023-08-24T01:29:45Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Approximated-Inc/phoenix-custom-domains-example</title>
+    <updated>2023-08-24T01:29:45Z</updated>
+    <id>tag:github.com,2023-08-24:/Approximated-Inc/phoenix-custom-domains-example</id>
+    <link href="https://github.com/Approximated-Inc/phoenix-custom-domains-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An example repo for adding custom domains as a feature to an Elixir Phoenix app.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-23T01:40:26Z</updated>
+  <updated>2023-08-24T01:43:55Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aspect-build/rules_jest</title>
-    <updated>2023-08-23T01:40:26Z</updated>
-    <id>tag:github.com,2023-08-23:/aspect-build/rules_jest</id>
-    <link href="https://github.com/aspect-build/rules_jest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel rules to run tests using https://jestjs.io&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>david-lekko-test/demo-saas-config</title>
+    <updated>2023-08-24T01:43:55Z</updated>
+    <id>tag:github.com,2023-08-24:/david-lekko-test/demo-saas-config</id>
+    <link href="https://github.com/david-lekko-test/demo-saas-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configuration for demo SaaS application&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

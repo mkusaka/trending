@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-23T01:42:14Z</updated>
+  <updated>2023-08-24T01:45:37Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>quasarframework/quasar-ui-qcalendar</title>
+    <updated>2023-08-24T01:45:37Z</updated>
+    <id>tag:github.com,2023-08-24:/quasarframework/quasar-ui-qcalendar</id>
+    <link href="https://github.com/quasarframework/quasar-ui-qcalendar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;QCalendar - Quasar App Extension, Vue CLI plug-in and UMD distributions available&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alvarosabu/vitesome</title>
+    <updated>2023-08-24T01:45:37Z</updated>
+    <id>tag:github.com,2023-08-24:/alvarosabu/vitesome</id>
+    <link href="https://github.com/alvarosabu/vitesome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple opinionated Vue3 Starter Template with Vite.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nuxt-modules/cloudinary</title>
+    <updated>2023-08-24T01:45:37Z</updated>
+    <id>tag:github.com,2023-08-24:/nuxt-modules/cloudinary</id>
+    <link href="https://github.com/nuxt-modules/cloudinary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cloudinary Module for Nuxt&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

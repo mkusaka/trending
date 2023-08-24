@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-23T01:21:40Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-08-24T01:24:54Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NomaDamas/awesome-korean-llm</title>
-    <updated>2023-08-23T01:21:40Z</updated>
-    <id>tag:github.com,2023-08-23:/NomaDamas/awesome-korean-llm</id>
-    <link href="https://github.com/NomaDamas/awesome-korean-llm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome list of Korean Large Language Models.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Eltirosto/Degrees-of-Lewdity-Chinese-Localization</title>
+    <updated>2023-08-24T01:24:54Z</updated>
+    <id>tag:github.com,2023-08-24:/Eltirosto/Degrees-of-Lewdity-Chinese-Localization</id>
+    <link href="https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Degrees of Lewdity 游戏的授权中文社区本地化版本&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kwai/KwaiYii</title>
-    <updated>2023-08-23T01:21:40Z</updated>
-    <id>tag:github.com,2023-08-23:/kwai/KwaiYii</id>
-    <link href="https://github.com/kwai/KwaiYii" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>runbear-io/awesome-runbook</title>
+    <updated>2023-08-24T01:24:54Z</updated>
+    <id>tag:github.com,2023-08-24:/runbear-io/awesome-runbook</id>
+    <link href="https://github.com/runbear-io/awesome-runbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome runbook documents, guidebooks, software and resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>notfromstatefarm/nvflashk</title>
-    <updated>2023-08-23T01:21:40Z</updated>
-    <id>tag:github.com,2023-08-23:/notfromstatefarm/nvflashk</id>
-    <link href="https://github.com/notfromstatefarm/nvflashk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flash (almost) any vBIOS to (almost) any nVIDIA GPU&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DmitryRyumin/INTERSPEECH-2023-Papers</title>
+    <updated>2023-08-24T01:24:54Z</updated>
+    <id>tag:github.com,2023-08-24:/DmitryRyumin/INTERSPEECH-2023-Papers</id>
+    <link href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;INTERSPEECH 2023 Papers: A complete collection of influential and exciting research papers from the INTERSPEECH 2023 conference. Explore the latest advances in speech and language processing. Code included. Star the repository to support the advancement of speech technology!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
