@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-24T01:44:13Z</updated>
+  <updated>2023-08-25T03:16:57Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TopWidgets/SwingAnimation</title>
-    <updated>2023-08-24T01:44:13Z</updated>
-    <id>tag:github.com,2023-08-24:/TopWidgets/SwingAnimation</id>
-    <link href="https://github.com/TopWidgets/SwingAnimation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;小组件平移动画 | Widget on the Move, A Playful Animation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;SwingAnimation&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://swift.org/package-manager/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat&#34; alt=&#34;SPM&#34;&gt;&lt;/a&gt; &lt;img src=&#34;https://github.com/TopWidgets/SwingAnimation/actions/workflows/push.yml/badge.svg?sanitize=true&#34; alt=&#34;CI&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;SwingAnimation&lt;/strong&gt; is a framework allows you to apply smooth animations in widgets.&lt;/p&gt; &#xA;&lt;h2&gt;Example&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/TopWidgets/SwingAnimation/main/Demo.gif&#34; alt=&#34;Demo&#34;&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-swift&#34;&gt;content.swingAnimation(duration: 8, direction: .horizontal, distance: 100)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;iOS 14.0+&lt;/li&gt; &#xA; &lt;li&gt;Swift 5.8+&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;h3&gt;Swift Package Manager&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-swift&#34;&gt;dependencies: [&#xA;    .package(url: &#34;https://github.com/TopWidgets/SwingAnimation.git&#34;, .upToNextMajor(from: &#34;1.0.0&#34;))&#xA;]&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Try our App&lt;/h2&gt; &#xA;&lt;a href=&#34;https://apps.apple.com/cn/app/Top-Widgets⁺/id6446477593&#34;&gt; &lt;img src=&#34;https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/90/e1/ed/90e1edd7-1c19-9b0c-2996-accda8cfddca/AppIcon-1x_U007ephone-85-220.png/246x0w.png&#34; style=&#34;width:100;height:100px;&#34;&gt;&lt;/a&gt; &#xA;&lt;h2&gt;Star History&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://star-history.com/#TopWidgets/SwingAnimation&amp;amp;Date&#34;&gt;&lt;img src=&#34;https://api.star-history.com/svg?repos=TopWidgets/SwingAnimation&amp;amp;type=Date&#34; alt=&#34;Star History Chart&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;SwingAnimation&lt;/strong&gt; is available under the MIT license. See the LICENSE file for more info.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Odyssey-Team/Taurine</title>
-    <updated>2023-08-24T01:44:13Z</updated>
-    <id>tag:github.com,2023-08-24:/Odyssey-Team/Taurine</id>
-    <link href="https://github.com/Odyssey-Team/Taurine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;iOS 14 semi-untethered jailbreak&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Taurine&lt;/h1&gt; &#xA;&lt;p&gt;iOS 14 semi-untethered jailbreak.&lt;/p&gt; &#xA;&lt;h1&gt;Supported Devices&lt;/h1&gt; &#xA;&lt;p&gt;All A8-A14 devices on iOS 14.0-14.3&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;Taurine is licensed under the 4-Clause BSD License&lt;/p&gt;</summary>
+    <title>Lrdsnow/PureKFD</title>
+    <updated>2023-08-25T03:16:57Z</updated>
+    <id>tag:github.com,2023-08-25:/Lrdsnow/PureKFD</id>
+    <link href="https://github.com/Lrdsnow/PureKFD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A KFD Package Manager with Picasso &amp; Misaka Support&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;left&#34;&gt; &lt;img align=&#34;left&#34; height=&#34;120&#34; src=&#34;https://github.com/Lrdsnow/PureKFD/raw/main/PureKFD/AppIcon.png?raw=true&#34; alt=&#34;PureKFD Logo&#34; style=&#34;float: left; border-radius: 10px;&#34;&gt; &lt;/p&gt; &#xA;&lt;h3 align=&#34;right&#34;&gt;PureKFD, A KFD Package Manager that supports Picasso &amp;amp; Misaka Packages/Repos&lt;/h3&gt; &#xA;&lt;p align=&#34;right&#34;&gt; &lt;strong&gt;&lt;a href=&#34;https://github.com/Lrdsnow/PureKFD/releases/latest&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt; • &lt;strong&gt;&lt;a href=&#34;https://discord.gg/Kh8aKRfD3K&#34;&gt;Discord&lt;/a&gt;&lt;/strong&gt; • &lt;strong&gt;&lt;a href=&#34;https://twitter.com/Lrdsnow101&#34;&gt;Twitter&lt;/a&gt;&lt;/strong&gt; &lt;/p&gt; &#xA;&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt; &#xA;&lt;h1&gt;&lt;/h1&gt; &#xA;&lt;h3&gt;Supported Versions: Arm64e 15.0-16.5 &amp;amp; 16.6b1, Arm64 15.0-15.7.1&lt;/h3&gt; &#xA;&lt;h3&gt;A KFD Tweaks app that supports misaka &amp;amp; picasso repos/packages&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fully supports picasso packages &amp;amp; Has rudementary support for misaka packages&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Todo:&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fix Prefs (Only color prefs save correctly &amp;amp; they dont load at all to the ui)&lt;/li&gt; &#xA; &lt;li&gt;Fix AccentColorOperation&lt;/li&gt; &#xA; &lt;li&gt;Improve Misaka Packages&lt;/li&gt; &#xA; &lt;li&gt;Add MDC?&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

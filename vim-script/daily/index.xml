@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-24T01:45:30Z</updated>
+  <updated>2023-08-25T03:22:35Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bfrg/vim-cpp-modern</title>
-    <updated>2023-08-24T01:45:30Z</updated>
-    <id>tag:github.com,2023-08-24:/bfrg/vim-cpp-modern</id>
-    <link href="https://github.com/bfrg/vim-cpp-modern" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extended Vim syntax highlighting for C and C++ (C++11/14/17/20/23)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

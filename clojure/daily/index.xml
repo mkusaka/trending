@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-24T01:27:35Z</updated>
+  <updated>2023-08-25T02:03:54Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>techascent/tech.ml.dataset</title>
+    <updated>2023-08-25T02:03:54Z</updated>
+    <id>tag:github.com,2023-08-25:/techascent/tech.ml.dataset</id>
+    <link href="https://github.com/techascent/tech.ml.dataset" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure high performance data processing system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>danielsz/cohere-clojure</title>
+    <updated>2023-08-25T02:03:54Z</updated>
+    <id>tag:github.com,2023-08-25:/danielsz/cohere-clojure</id>
+    <link href="https://github.com/danielsz/cohere-clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unofficial port of the Cohere SDK&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cemerick/clojurescript.test</title>
+    <updated>2023-08-25T02:03:54Z</updated>
+    <id>tag:github.com,2023-08-25:/cemerick/clojurescript.test</id>
+    <link href="https://github.com/cemerick/clojurescript.test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A maximal port of `clojure.test` to ClojureScript. DEPRECATED&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

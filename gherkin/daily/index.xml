@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-24T01:31:10Z</updated>
+  <updated>2023-08-25T02:17:45Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jason-johnson/azure-pipelines-tasks-terraform</title>
-    <updated>2023-08-24T01:31:10Z</updated>
-    <id>tag:github.com,2023-08-24:/jason-johnson/azure-pipelines-tasks-terraform</id>
-    <link href="https://github.com/jason-johnson/azure-pipelines-tasks-terraform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Azure Pipelines extension for Terraform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

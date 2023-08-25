@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-24T01:43:01Z</updated>
+  <updated>2023-08-25T03:10:53Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>deathline94/Juicity-Installer</title>
-    <updated>2023-08-24T01:43:01Z</updated>
-    <id>tag:github.com,2023-08-24:/deathline94/Juicity-Installer</id>
-    <link href="https://github.com/deathline94/Juicity-Installer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Juicity one click Installer 🚀&lt;/h1&gt; &#xA;&lt;h1&gt;🚨 Warning&lt;/h1&gt; &#xA;&lt;p&gt;Always activate &#34;Allow Insecure&#34; on the client when using the provided share link!&lt;/p&gt; &#xA;&lt;h1&gt;🚀 Quick Start&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;bash &amp;lt;(curl -fsSL https://raw.githubusercontent.com/deathline94/Juicity-Installer/main/juicity-installer.sh)&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;📋 Features&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;🔧 Automated installation of the Juicity server.&#xA;🖥️ Supports multiple architectures: x86_64, arm64, armv7, mips32, mips64, riscv64, and x86_32.&#xA;🔄 Option to modify the listening port of an existing installation.&#xA;🛡️ Secure uninstallation to completely remove Juicity server and configurations.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;For detailed instructions and support, refer to the script or open an issue. Find me on Twitter @NamelesGhoul&lt;/p&gt;</summary>
-  </entry>
 </feed>

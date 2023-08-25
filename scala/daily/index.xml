@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-24T01:42:40Z</updated>
+  <updated>2023-08-25T03:08:20Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>arturaz/doobie-typesafe</title>
-    <updated>2023-08-24T01:42:40Z</updated>
-    <id>tag:github.com,2023-08-24:/arturaz/doobie-typesafe</id>
-    <link href="https://github.com/arturaz/doobie-typesafe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A typesafe wrapper for doobie that allows you to write queries in a typesafe way.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;doobie-typesafe&lt;/h1&gt; &#xA;&lt;p&gt;The documentation for this project is available at &lt;a href=&#34;https://arturaz.github.io/doobie-typesafe/&#34;&gt;arturaz.github.io/doobie-typesafe&lt;/a&gt;.&lt;/p&gt;</summary>
+    <title>MojoJolo/textteaser</title>
+    <updated>2023-08-25T03:08:20Z</updated>
+    <id>tag:github.com,2023-08-25:/MojoJolo/textteaser</id>
+    <link href="https://github.com/MojoJolo/textteaser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TextTeaser is an automatic summarization algorithm.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TextTeaser&lt;/h1&gt; &#xA;&lt;p&gt;TextTeaser is an automatic summarization algorithm that combines the power of natural language processing and machine learning to produce good results.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/IndigoResearch/textteaser&#34;&gt;TextTeaser is ported in Python&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Requirements&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt; is needed for TextTeaser to run. Use of &lt;a href=&#34;http://scala-ide.org/&#34;&gt;Scala IDE&lt;/a&gt; is recommended&lt;/p&gt; &#xA;&lt;h3&gt;Setup&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ git clone https://github.com/MojoJolo/textteaser.git&#xA;$ sbt compile&#xA;$ sbt eclipse // If using Eclipse.&#xA;$ sbt run&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

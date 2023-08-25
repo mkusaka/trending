@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-24T01:29:45Z</updated>
+  <updated>2023-08-25T02:13:15Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Approximated-Inc/phoenix-custom-domains-example</title>
-    <updated>2023-08-24T01:29:45Z</updated>
-    <id>tag:github.com,2023-08-24:/Approximated-Inc/phoenix-custom-domains-example</id>
-    <link href="https://github.com/Approximated-Inc/phoenix-custom-domains-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An example repo for adding custom domains as a feature to an Elixir Phoenix app.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iacobson/ecspanse</title>
+    <updated>2023-08-25T02:13:15Z</updated>
+    <id>tag:github.com,2023-08-25:/iacobson/ecspanse</id>
+    <link href="https://github.com/iacobson/ecspanse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Entity Component System (ECS) library for Elixir, offering a suite of features including: flexible queries with multiple filters, dynamic bidirectional relationships, versatile tagging capabilities, system event subscriptions, or asynchronous system execution.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VRagments/fader360-backend</title>
+    <updated>2023-08-25T02:13:15Z</updated>
+    <id>tag:github.com,2023-08-25:/VRagments/fader360-backend</id>
+    <link href="https://github.com/VRagments/fader360-backend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>blinkenlights/polychrome</title>
+    <updated>2023-08-25T02:13:15Z</updated>
+    <id>tag:github.com,2023-08-25:/blinkenlights/polychrome</id>
+    <link href="https://github.com/blinkenlights/polychrome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blinkenlights Polychrome light and sound installation in Mildenberg, Germany&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elm Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-24T01:29:40Z</updated>
+  <updated>2023-08-25T02:12:53Z</updated>
   <subtitle>Daily Trending of Elm in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>amenzwa/pfd</title>
+    <updated>2023-08-25T02:12:53Z</updated>
+    <id>tag:github.com,2023-08-25:/amenzwa/pfd</id>
+    <link href="https://github.com/amenzwa/pfd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This project reimplements in Elm the data structures presented in the book &#34;Purely Functional Data Structures&#34; by Professor Okasaki (1999). Okasaki first published this material in 1996 in his PhD dissertation at CMU. The book provides Standard ML and Haskell implementations.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
