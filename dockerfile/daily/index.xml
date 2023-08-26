@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T02:11:19Z</updated>
+  <updated>2023-08-26T01:25:13Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>geekcell/docker-compose-nodejs-examples</title>
-    <updated>2023-08-25T02:11:19Z</updated>
-    <id>tag:github.com,2023-08-25:/geekcell/docker-compose-nodejs-examples</id>
-    <link href="https://github.com/geekcell/docker-compose-nodejs-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Finally some real world examples on getting started with Docker Compose and Nodejs.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Getting started with Docker Compose and Nodejs&lt;/h1&gt; &#xA;&lt;h2&gt;Motivation&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://docs.docker.com/compose/&#34;&gt;Docker Compose&lt;/a&gt; is an awesome tool for creating isolated development environments with &lt;a href=&#34;http://docker.com&#34;&gt;Docker&lt;/a&gt; by using simple configurations with &lt;a href=&#34;http://www.yaml.org/&#34;&gt;YAML&lt;/a&gt;. It&#39;s clean and easy enough to wrap your head around, even if you are new to Docker.&lt;/p&gt; &#xA;&lt;p&gt;If you&#39;re like us, you&#39;re using a development server like &lt;a href=&#34;https://github.com/remy/nodemon&#34;&gt;nodemon&lt;/a&gt; that watches all your file changes and reloads your app. Bringing this workflow over to Docker Compose is a bit tricky. We hope the following real world examples will save you from headaches while trying to figure out how to (pragmatically) use Docker Compose for your Nodejs apps.&lt;/p&gt; &#xA;&lt;h2&gt;Examples&lt;/h2&gt; &#xA;&lt;h3&gt;Basic skeleton with Express app generator&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/geekcell/docker-compose-nodejs-examples/tree/main/00-basic-express-generator&#34;&gt;https://github.com/geekcell/docker-compose-nodejs-examples/tree/main/00-basic-express-generator&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Express app with nodemon development server&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/geekcell/docker-compose-nodejs-examples/tree/main/01-express-nodemon&#34;&gt;https://github.com/geekcell/docker-compose-nodejs-examples/tree/main/01-express-nodemon&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Express app with Redis and nodemon development server&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/geekcell/docker-compose-nodejs-examples/tree/main/02-express-redis-nodemon&#34;&gt;https://github.com/geekcell/docker-compose-nodejs-examples/tree/main/02-express-redis-nodemon&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Maintainers&lt;/h2&gt; &#xA;&lt;p&gt;Geek Cell&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/thegeekcell&#34;&gt;@thegeekcell&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Web: &lt;a href=&#34;https://geekcell.io&#34;&gt;https://geekcell.io&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Previous Maintainer&lt;/h3&gt; &#xA;&lt;p&gt;Pascal Cremer&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Email: &lt;a href=&#34;mailto:hello@codenugget.co&#34;&gt;hello@codenugget.co&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/b00gizm&#34;&gt;@b00gizm&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Web: &lt;a href=&#34;http://codenugget.co&#34;&gt;http://codenugget.co&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://choosealicense.com/licenses/mit/&#34;&gt;MIT&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>anselmenumbisia/Docker-jjtech</title>
+    <updated>2023-08-26T01:25:13Z</updated>
+    <id>tag:github.com,2023-08-26:/anselmenumbisia/Docker-jjtech</id>
+    <link href="https://github.com/anselmenumbisia/Docker-jjtech" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T02:17:12Z</updated>
+  <updated>2023-08-26T01:27:00Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>EIRTeam/Project-Heartbeat</title>
-    <updated>2023-08-25T02:17:12Z</updated>
-    <id>tag:github.com,2023-08-25:/EIRTeam/Project-Heartbeat</id>
-    <link href="https://github.com/EIRTeam/Project-Heartbeat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project Heartbeat source code release&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

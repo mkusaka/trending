@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T02:45:27Z</updated>
+  <updated>2023-08-26T01:32:38Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TunnelGRE/XOR_NIM_Inject</title>
+    <updated>2023-08-26T01:32:38Z</updated>
+    <id>tag:github.com,2023-08-26:/TunnelGRE/XOR_NIM_Inject</id>
+    <link href="https://github.com/TunnelGRE/XOR_NIM_Inject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple shellcode injection in Nim encrypted in XOR&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tsoding/boomer</title>
+    <updated>2023-08-26T01:32:38Z</updated>
+    <id>tag:github.com,2023-08-26:/tsoding/boomer</id>
+    <link href="https://github.com/tsoding/boomer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zoomer application for Linux&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

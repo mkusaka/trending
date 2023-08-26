@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T03:10:09Z</updated>
+  <updated>2023-08-26T01:37:00Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KubeDev/desafio-imersao-devops-cloud-02</title>
-    <updated>2023-08-25T03:10:09Z</updated>
-    <id>tag:github.com,2023-08-25:/KubeDev/desafio-imersao-devops-cloud-02</id>
-    <link href="https://github.com/KubeDev/desafio-imersao-devops-cloud-02" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SRA-VJTI/blog</title>
+    <updated>2023-08-26T01:37:00Z</updated>
+    <id>tag:github.com,2023-08-26:/SRA-VJTI/blog</id>
+    <link href="https://github.com/SRA-VJTI/blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blog for SRA-VJTI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sexfat/chd103_sass</title>
-    <updated>2023-08-25T03:10:09Z</updated>
-    <id>tag:github.com,2023-08-25:/sexfat/chd103_sass</id>
-    <link href="https://github.com/sexfat/chd103_sass" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GFDRR/rdls-cove</title>
+    <updated>2023-08-26T01:37:00Z</updated>
+    <id>tag:github.com,2023-08-26:/GFDRR/rdls-cove</id>
+    <link href="https://github.com/GFDRR/rdls-cove" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Check that your data complies with the Risk Data Library Standard (RDLS) using our open source data review tool&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Squirrel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T03:15:03Z</updated>
+  <updated>2023-08-26T01:37:53Z</updated>
   <subtitle>Daily Trending of Squirrel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>L4D-Community-Team/Last-Stand-Refresh</title>
-    <updated>2023-08-25T03:15:03Z</updated>
-    <id>tag:github.com,2023-08-25:/L4D-Community-Team/Last-Stand-Refresh</id>
-    <link href="https://github.com/L4D-Community-Team/Last-Stand-Refresh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimalist legacy branch of public repo with gamebreaker and other high priority fixes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

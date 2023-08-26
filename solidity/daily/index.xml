@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T03:14:47Z</updated>
+  <updated>2023-08-26T01:37:47Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Cyfrin/2023-08-sparkn</title>
-    <updated>2023-08-25T03:14:47Z</updated>
-    <id>tag:github.com,2023-08-25:/Cyfrin/2023-08-sparkn</id>
-    <link href="https://github.com/Cyfrin/2023-08-sparkn" rel="alternate"></link>
+    <title>Earniverse/EIV_Token</title>
+    <updated>2023-08-26T01:37:47Z</updated>
+    <id>tag:github.com,2023-08-26:/Earniverse/EIV_Token</id>
+    <link href="https://github.com/Earniverse/EIV_Token" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bitbestdex/bitbestdex</title>
-    <updated>2023-08-25T03:14:47Z</updated>
-    <id>tag:github.com,2023-08-25:/bitbestdex/bitbestdex</id>
-    <link href="https://github.com/bitbestdex/bitbestdex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;contracts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>matter-labs/era-test-node</title>
-    <updated>2023-08-25T03:14:47Z</updated>
-    <id>tag:github.com,2023-08-25:/matter-labs/era-test-node</id>
-    <link href="https://github.com/matter-labs/era-test-node" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;In-memory node that can be used for integration testing and debugging.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

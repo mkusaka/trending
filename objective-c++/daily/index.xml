@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T02:47:41Z</updated>
+  <updated>2023-08-26T01:32:57Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zynga/jsbindings</title>
-    <updated>2023-08-25T02:47:41Z</updated>
-    <id>tag:github.com,2023-08-25:/zynga/jsbindings</id>
-    <link href="https://github.com/zynga/jsbindings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[DEPRECATED] JavaScript bindings for Objective-C and C&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

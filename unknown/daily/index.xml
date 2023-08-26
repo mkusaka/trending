@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T01:54:11Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-08-26T01:20:54Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TrionesType/zhuque</title>
-    <updated>2023-08-25T01:54:11Z</updated>
-    <id>tag:github.com,2023-08-25:/TrionesType/zhuque</id>
-    <link href="https://github.com/TrionesType/zhuque" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;朱雀仿宋：开源正文仿宋字库计划&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/python-in-excel</title>
+    <updated>2023-08-26T01:20:54Z</updated>
+    <id>tag:github.com,2023-08-26:/microsoft/python-in-excel</id>
+    <link href="https://github.com/microsoft/python-in-excel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python in Microsoft Excel&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SimplifyJobs/2024-New-Grad-Tech-Jobs</title>
-    <updated>2023-08-25T01:54:11Z</updated>
-    <id>tag:github.com,2023-08-25:/SimplifyJobs/2024-New-Grad-Tech-Jobs</id>
-    <link href="https://github.com/SimplifyJobs/2024-New-Grad-Tech-Jobs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>microsoft/winget-pkgs</title>
-    <updated>2023-08-25T01:54:11Z</updated>
-    <id>tag:github.com,2023-08-25:/microsoft/winget-pkgs</id>
-    <link href="https://github.com/microsoft/winget-pkgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Microsoft community Windows Package Manager manifest repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LearningKijo/SecurityResearcher-Note</title>
+    <updated>2023-08-26T01:20:54Z</updated>
+    <id>tag:github.com,2023-08-26:/LearningKijo/SecurityResearcher-Note</id>
+    <link href="https://github.com/LearningKijo/SecurityResearcher-Note" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cover various security approaches to attack techniques and also provides new discoveries about security breaches.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

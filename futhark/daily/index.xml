@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Futhark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T02:16:39Z</updated>
+  <updated>2023-08-26T01:26:50Z</updated>
   <subtitle>Daily Trending of Futhark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>diku-dk/pmph-e2023-pub</title>
-    <updated>2023-08-25T02:16:39Z</updated>
-    <id>tag:github.com,2023-08-25:/diku-dk/pmph-e2023-pub</id>
-    <link href="https://github.com/diku-dk/pmph-e2023-pub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

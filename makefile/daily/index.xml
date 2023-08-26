@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T02:39:43Z</updated>
+  <updated>2023-08-26T01:31:28Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>awesome-selfhosted/awesome-selfhosted-data</title>
-    <updated>2023-08-25T02:39:43Z</updated>
-    <id>tag:github.com,2023-08-25:/awesome-selfhosted/awesome-selfhosted-data</id>
-    <link href="https://github.com/awesome-selfhosted/awesome-selfhosted-data" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;machine-readable data for https://awesome-selfhosted.net&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dariomanesku/.tmux</title>
+    <updated>2023-08-26T01:31:28Z</updated>
+    <id>tag:github.com,2023-08-26:/dariomanesku/.tmux</id>
+    <link href="https://github.com/dariomanesku/.tmux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal tmux config.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>brash99/CLionProjects</title>
-    <updated>2023-08-25T02:39:43Z</updated>
-    <id>tag:github.com,2023-08-25:/brash99/CLionProjects</id>
-    <link href="https://github.com/brash99/CLionProjects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aristanetworks/ci-workshops-avd</title>
-    <updated>2023-08-25T02:39:43Z</updated>
-    <id>tag:github.com,2023-08-25:/aristanetworks/ci-workshops-avd</id>
-    <link href="https://github.com/aristanetworks/ci-workshops-avd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AVD workshop repository to deliver workshop content specific to AVD.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>exoscale/go.mk</title>
+    <updated>2023-08-26T01:31:28Z</updated>
+    <id>tag:github.com,2023-08-26:/exoscale/go.mk</id>
+    <link href="https://github.com/exoscale/go.mk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Base makefile for go projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T03:24:04Z</updated>
+  <updated>2023-08-26T01:39:54Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dreamhunter2333/cloudflare_temp_email</title>
-    <updated>2023-08-25T03:24:04Z</updated>
-    <id>tag:github.com,2023-08-25:/dreamhunter2333/cloudflare_temp_email</id>
-    <link href="https://github.com/dreamhunter2333/cloudflare_temp_email" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CloudFlare free temp domain email 免费 临时 域名邮箱&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>barraponto/usegit</title>
+    <updated>2023-08-26T01:39:54Z</updated>
+    <id>tag:github.com,2023-08-26:/barraponto/usegit</id>
+    <link href="https://github.com/barraponto/usegit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use Git courseware, written in slidev&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ulivz/vt</title>
-    <updated>2023-08-25T03:24:04Z</updated>
-    <id>tag:github.com,2023-08-25:/ulivz/vt</id>
-    <link href="https://github.com/ulivz/vt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🖼️ A &#34;Post-VuePress Era&#34; Documentation Theme&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>enpitsuLin/tres-the-aviator</title>
+    <updated>2023-08-26T01:39:54Z</updated>
+    <id>tag:github.com,2023-08-26:/enpitsuLin/tres-the-aviator</id>
+    <link href="https://github.com/enpitsuLin/tres-the-aviator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>7eu7d7/HCP-Diffusion-webui</title>
+    <updated>2023-08-26T01:39:54Z</updated>
+    <id>tag:github.com,2023-08-26:/7eu7d7/HCP-Diffusion-webui</id>
+    <link href="https://github.com/7eu7d7/HCP-Diffusion-webui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;webui for HCP-Diffusion&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

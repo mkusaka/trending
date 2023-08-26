@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T03:12:49Z</updated>
+  <updated>2023-08-26T01:37:34Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DeepSourceCorp/helm-charts</title>
+    <updated>2023-08-26T01:37:34Z</updated>
+    <id>tag:github.com,2023-08-26:/DeepSourceCorp/helm-charts</id>
+    <link href="https://github.com/DeepSourceCorp/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DeepSource Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stacksimplify/helm-masterclass</title>
+    <updated>2023-08-26T01:37:34Z</updated>
+    <id>tag:github.com,2023-08-26:/stacksimplify/helm-masterclass</id>
+    <link href="https://github.com/stacksimplify/helm-masterclass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm Masterclass: 50 Practical Demos for Kubernetes DevOps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stacksimplify/helm-charts</title>
+    <updated>2023-08-26T01:37:34Z</updated>
+    <id>tag:github.com,2023-08-26:/stacksimplify/helm-charts</id>
+    <link href="https://github.com/stacksimplify/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository to host all Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

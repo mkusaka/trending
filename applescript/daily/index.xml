@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AppleScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-25T01:56:15Z</updated>
+  <updated>2023-08-26T01:21:49Z</updated>
   <subtitle>Daily Trending of AppleScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>barretlee/alfred-workflow-paste-image-to-file</title>
+    <updated>2023-08-26T01:21:49Z</updated>
+    <id>tag:github.com,2023-08-26:/barretlee/alfred-workflow-paste-image-to-file</id>
+    <link href="https://github.com/barretlee/alfred-workflow-paste-image-to-file" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Paste image to file from clipboard to desktop&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Paste image to file&lt;/h1&gt; &#xA;&lt;p&gt;Save clipboard image as file to desktop.&lt;/p&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;Make sure you have installed Alfred locally. After downloading the &lt;a href=&#34;https://raw.githubusercontent.com/barretlee/alfred-workflow-paste-image-to-file/main/Paste-image-to-file.alfredworkflow&#34;&gt;workflow file&lt;/a&gt;, double click to complete the installation.&lt;/p&gt; &#xA;&lt;h2&gt;alfred selector&lt;/h2&gt; &#xA;&lt;p&gt;You can search for the workflow &#34;paste image&#34; in Alfred by typing it,&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/barretlee/alfred-workflow-paste-image-to-file/main/docs/usage-1.png&#34; width=&#34;400&#34;&gt; &#xA;&lt;h2&gt;hotkey&lt;/h2&gt; &#xA;&lt;p&gt;Or you can use a shortcut key to paste directly: &lt;kbd&gt;cmd + shift + alt + v&lt;/kbd&gt;&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/barretlee/alfred-workflow-paste-image-to-file/main/docs/usage-2.png&#34; width=&#34;400&#34;&gt; &#xA;&lt;p&gt;After successful execution, press enter to open the directory where the file is located and select the newly generated file.&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/barretlee/alfred-workflow-paste-image-to-file/main/LICENSE&#34;&gt;MIT&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
