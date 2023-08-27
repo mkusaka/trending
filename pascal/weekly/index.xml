@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T02:01:37Z</updated>
+  <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sacfiscal/eanpictures4D</title>
+    <updated>2023-08-27T02:01:37Z</updated>
+    <id>tag:github.com,2023-08-27:/sacfiscal/eanpictures4D</id>
+    <link href="https://github.com/sacfiscal/eanpictures4D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Backend Delphi Horse MySql para consultas de produtos por EAN/GTIN&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

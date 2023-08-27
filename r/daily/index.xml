@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-26T01:35:32Z</updated>
+  <updated>2023-08-27T01:43:42Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GediminasB/bayesVAR_TVP</title>
-    <updated>2023-08-26T01:35:32Z</updated>
-    <id>tag:github.com,2023-08-26:/GediminasB/bayesVAR_TVP</id>
-    <link href="https://github.com/GediminasB/bayesVAR_TVP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;R/C++ implementation of Bayes VAR models&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;bayesVAR_TVP&lt;/h1&gt; &#xA;&lt;p&gt;R/C++ implementation of Bayes VAR-TVP models.&lt;/p&gt; &#xA;&lt;p&gt;Package can be installed using &lt;code&gt;devtools&lt;/code&gt;, e.g.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(devtools)&#xA;install_github(&#34;GediminasB/bayesVAR_TVP&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

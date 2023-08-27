@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Max Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-26T01:31:35Z</updated>
+  <updated>2023-08-27T01:39:15Z</updated>
   <subtitle>Daily Trending of Max in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adamjmurray/ableton-midi-sculptor</title>
+    <updated>2023-08-27T01:39:15Z</updated>
+    <id>tag:github.com,2023-08-27:/adamjmurray/ableton-midi-sculptor</id>
+    <link href="https://github.com/adamjmurray/ableton-midi-sculptor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ableton MIDI Sculptor: Tools for MIDI editing in Ableton Live&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

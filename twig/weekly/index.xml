@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Twig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T02:07:24Z</updated>
+  <subtitle>Weekly Trending of Twig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WildCodeSchool/2023-03-remote-fr-php-testing-escape</title>
+    <updated>2023-08-27T02:07:24Z</updated>
+    <id>tag:github.com,2023-08-27:/WildCodeSchool/2023-03-remote-fr-php-testing-escape</id>
+    <link href="https://github.com/WildCodeSchool/2023-03-remote-fr-php-testing-escape" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spryker/sales-service-point-gui</title>
+    <updated>2023-08-27T02:07:24Z</updated>
+    <id>tag:github.com,2023-08-27:/spryker/sales-service-point-gui</id>
+    <link href="https://github.com/spryker/sales-service-point-gui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[READ ONLY] Subtree split of the SalesServicePointGui module.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

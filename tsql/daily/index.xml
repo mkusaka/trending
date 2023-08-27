@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-26T01:39:01Z</updated>
+  <updated>2023-08-27T01:47:19Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Thinkgamer/Machine-Learning-With-Python</title>
-    <updated>2023-08-26T01:39:01Z</updated>
-    <id>tag:github.com,2023-08-26:/Thinkgamer/Machine-Learning-With-Python</id>
-    <link href="https://github.com/Thinkgamer/Machine-Learning-With-Python" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;此项目是我在学习《机器学习实战》这本书时的代码记录情况，用python实现，当然也会包括一些其他的机器学习算法，使用Python实现&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/fusion-dev-ebook</title>
+    <updated>2023-08-27T01:47:19Z</updated>
+    <id>tag:github.com,2023-08-27:/microsoft/fusion-dev-ebook</id>
+    <link href="https://github.com/microsoft/fusion-dev-ebook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample Code for eBook - Use Power Apps to bring your business and pro devs together to build apps fast&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/ignite-learning-paths-training-data</title>
+    <updated>2023-08-27T01:47:19Z</updated>
+    <id>tag:github.com,2023-08-27:/microsoft/ignite-learning-paths-training-data</id>
+    <link href="https://github.com/microsoft/ignite-learning-paths-training-data" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Microsoft Ignite Learning Path, Train the Trainer materials: Modern Data Warehouse (Data)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

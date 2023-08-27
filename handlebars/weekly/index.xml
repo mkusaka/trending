@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Handlebars Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T01:55:40Z</updated>
+  <subtitle>Weekly Trending of Handlebars in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fazt/nodejs-notes-app</title>
+    <updated>2023-08-27T01:55:40Z</updated>
+    <id>tag:github.com,2023-08-27:/fazt/nodejs-notes-app</id>
+    <link href="https://github.com/fazt/nodejs-notes-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A web app to manage notes using Nodejs, and Mongodb as database, plus authentication with passportjs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ProtonProtocol/webauth-discourse-plugin</title>
+    <updated>2023-08-27T01:55:40Z</updated>
+    <id>tag:github.com,2023-08-27:/ProtonProtocol/webauth-discourse-plugin</id>
+    <link href="https://github.com/ProtonProtocol/webauth-discourse-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>epam/edp-ddm-architecture</title>
+    <updated>2023-08-27T01:55:40Z</updated>
+    <id>tag:github.com,2023-08-27:/epam/edp-ddm-architecture</id>
+    <link href="https://github.com/epam/edp-ddm-architecture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

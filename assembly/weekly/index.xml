@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T01:50:17Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>videolan/dav1d</title>
+    <updated>2023-08-27T01:50:17Z</updated>
+    <id>tag:github.com,2023-08-27:/videolan/dav1d</id>
+    <link href="https://github.com/videolan/dav1d" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A read-only mirror of dav1d source code repository. The origin is at https://code.videolan.org/videolan/dav1d/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>freebsd/rpi3-psci-monitor</title>
+    <updated>2023-08-27T01:50:17Z</updated>
+    <id>tag:github.com,2023-08-27:/freebsd/rpi3-psci-monitor</id>
+    <link href="https://github.com/freebsd/rpi3-psci-monitor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

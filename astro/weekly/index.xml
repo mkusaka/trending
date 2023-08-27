@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T01:50:14Z</updated>
+  <subtitle>Weekly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ML-Purdue/ml-purdue.github.io</title>
+    <updated>2023-08-27T01:50:14Z</updated>
+    <id>tag:github.com,2023-08-27:/ML-Purdue/ml-purdue.github.io</id>
+    <link href="https://github.com/ML-Purdue/ml-purdue.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sanity-io/sanity-astro</title>
+    <updated>2023-08-27T01:50:14Z</updated>
+    <id>tag:github.com,2023-08-27:/sanity-io/sanity-astro</id>
+    <link href="https://github.com/sanity-io/sanity-astro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

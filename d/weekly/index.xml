@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub D Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T01:52:44Z</updated>
+  <subtitle>Weekly Trending of D in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>libmir/mir-algorithm</title>
+    <updated>2023-08-27T01:52:44Z</updated>
+    <id>tag:github.com,2023-08-27:/libmir/mir-algorithm</id>
+    <link href="https://github.com/libmir/mir-algorithm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dlang Core Library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

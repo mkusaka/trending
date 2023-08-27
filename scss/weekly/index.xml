@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T02:05:13Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Wallapop/web-styleguide</title>
+    <updated>2023-08-27T02:05:13Z</updated>
+    <id>tag:github.com,2023-08-27:/Wallapop/web-styleguide</id>
+    <link href="https://github.com/Wallapop/web-styleguide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CSS Styling for frontend web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>creativetimofficial/soft-ui-dashboard</title>
+    <updated>2023-08-27T02:05:13Z</updated>
+    <id>tag:github.com,2023-08-27:/creativetimofficial/soft-ui-dashboard</id>
+    <link href="https://github.com/creativetimofficial/soft-ui-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

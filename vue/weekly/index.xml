@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T02:08:07Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>antdv-pro/antdv-pro</title>
+    <updated>2023-08-27T02:08:07Z</updated>
+    <id>tag:github.com,2023-08-27:/antdv-pro/antdv-pro</id>
+    <link href="https://github.com/antdv-pro/antdv-pro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An antdv-based middle and background management system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dulaiduwang003/TIME-SEA-chatgpt</title>
+    <updated>2023-08-27T02:08:07Z</updated>
+    <id>tag:github.com,2023-08-27:/dulaiduwang003/TIME-SEA-chatgpt</id>
+    <link href="https://github.com/dulaiduwang003/TIME-SEA-chatgpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于SpringBoot3开发的Ai平台 含双端 网页以及小程序(Web支持编译打包 Windows Mac应用), 双端支持支持自定义预设词,功能板块定义,各类绘图 ....&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>li-junpeng/dbtu-client</title>
+    <updated>2023-08-27T02:08:07Z</updated>
+    <id>tag:github.com,2023-08-27:/li-junpeng/dbtu-client</id>
+    <link href="https://github.com/li-junpeng/dbtu-client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥🔥🔥DB兔，免费的数据库管理工具🧰，支持Web在线使用🚀，将计划支持Windows、Mac,、Linux等系统。如果你对此项目感兴趣，动动您的小手给个Star⭐吧。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

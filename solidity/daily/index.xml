@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-26T01:37:47Z</updated>
+  <updated>2023-08-27T01:45:56Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Earniverse/EIV_Token</title>
-    <updated>2023-08-26T01:37:47Z</updated>
-    <id>tag:github.com,2023-08-26:/Earniverse/EIV_Token</id>
-    <link href="https://github.com/Earniverse/EIV_Token" rel="alternate"></link>
+    <title>code-423n4/2023-08-chainlink</title>
+    <updated>2023-08-27T01:45:56Z</updated>
+    <id>tag:github.com,2023-08-27:/code-423n4/2023-08-chainlink</id>
+    <link href="https://github.com/code-423n4/2023-08-chainlink" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DvlprOscar/token_code</title>
+    <updated>2023-08-27T01:45:56Z</updated>
+    <id>tag:github.com,2023-08-27:/DvlprOscar/token_code</id>
+    <link href="https://github.com/DvlprOscar/token_code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Token &amp; Cryptocurrency Coin Contract Code CA. BSC, ETH, TRX, ARB and MORE (BEP20, ERC20, TRC20) Tron&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

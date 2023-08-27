@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-26T01:23:58Z</updated>
+  <updated>2023-08-27T01:30:32Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>adaltas/node-hbase</title>
-    <updated>2023-08-26T01:23:58Z</updated>
-    <id>tag:github.com,2023-08-26:/adaltas/node-hbase</id>
-    <link href="https://github.com/adaltas/node-hbase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Asynchronous HBase client for NodeJs using REST&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ryhan/twig</title>
+    <updated>2023-08-27T01:30:32Z</updated>
+    <id>tag:github.com,2023-08-27:/ryhan/twig</id>
+    <link href="https://github.com/ryhan/twig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Surfaces the best conversations on twitter by highlighting tweets carried on by accounts I&#39;ve recently interacted with.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Digital8/feather-daemon</title>
+    <updated>2023-08-27T01:30:32Z</updated>
+    <id>tag:github.com,2023-08-27:/Digital8/feather-daemon</id>
+    <link href="https://github.com/Digital8/feather-daemon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FurqanSoftware/node-whois</title>
+    <updated>2023-08-27T01:30:32Z</updated>
+    <id>tag:github.com,2023-08-27:/FurqanSoftware/node-whois</id>
+    <link href="https://github.com/FurqanSoftware/node-whois" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple WHOIS client for NodeJS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

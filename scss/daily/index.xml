@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-26T01:37:00Z</updated>
+  <updated>2023-08-27T01:45:08Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SRA-VJTI/blog</title>
-    <updated>2023-08-26T01:37:00Z</updated>
-    <id>tag:github.com,2023-08-26:/SRA-VJTI/blog</id>
-    <link href="https://github.com/SRA-VJTI/blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blog for SRA-VJTI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GFDRR/rdls-cove</title>
-    <updated>2023-08-26T01:37:00Z</updated>
-    <id>tag:github.com,2023-08-26:/GFDRR/rdls-cove</id>
-    <link href="https://github.com/GFDRR/rdls-cove" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Check that your data complies with the Risk Data Library Standard (RDLS) using our open source data review tool&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

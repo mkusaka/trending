@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T01:52:24Z</updated>
+  <subtitle>Weekly Trending of CSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>apna-college/Delta-Projects</title>
+    <updated>2023-08-27T01:52:24Z</updated>
+    <id>tag:github.com,2023-08-27:/apna-college/Delta-Projects</id>
+    <link href="https://github.com/apna-college/Delta-Projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All Delta students can create a PR to this repo to merge their projects.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Delta-Projects&lt;/h1&gt; &#xA;&lt;p&gt;All Delta students can create a PR to this repo to merge their projects.&lt;/p&gt; &#xA;&lt;h2&gt;How to add your project in this repository?&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Fork this repository.&lt;/li&gt; &#xA; &lt;li&gt;Add your project in a folder with your First &amp;amp; Last Name. &lt;br&gt; Eg - &#34;Rahul Kumar&#34; is the folder name. And this folder should contain all project related files.&lt;br&gt; Make sure to create your own README.md in the project that contains a brief description about your project.&lt;/li&gt; &#xA; &lt;li&gt;Create a PR to merge your project to the repository.&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
+  <entry>
+    <title>yandex-praktikum/ono-tebe-nado</title>
+    <updated>2023-08-27T01:52:24Z</updated>
+    <id>tag:github.com,2023-08-27:/yandex-praktikum/ono-tebe-nado</id>
+    <link href="https://github.com/yandex-praktikum/ono-tebe-nado" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Проект &#34;Оно тебе надо&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GuangLun2000/GuangLun2000.github.io</title>
+    <updated>2023-08-27T01:52:24Z</updated>
+    <id>tag:github.com,2023-08-27:/GuangLun2000/GuangLun2000.github.io</id>
+    <link href="https://github.com/GuangLun2000/GuangLun2000.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GuangLun means Nimbus in Chinese&lt;/h1&gt; &#xA;&lt;p&gt;My name is &lt;strong&gt;Hanlin Cai (Lance, 蔡汉霖)&lt;/strong&gt;. Here is my personal website. Welcome to fork for free!&lt;/p&gt; &#xA;&lt;h2&gt;Update and News&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;May 2023:&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1ja4y1G7tX/?share_source=copy_web&amp;amp;vd_source=c8936a3bacfd65375f9e88b3bb9a12ba&#34;&gt;Jekyll website building tutorial&lt;/a&gt;&lt;/strong&gt; have been uploaded to Bilibili (in Chinese)&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Feb. 2023:&lt;/strong&gt; If you have any problem, please feel free to contact me - &lt;a href=&#34;https://calendly.com/lancecai/meet-with-lance&#34;&gt;Online Talk 15mins&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Dec. 2022:&lt;/strong&gt; My personal website have been implemented and deployed in &lt;a href=&#34;https://caihanlin.com&#34;&gt;caihanlin.com&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Star History&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://star-history.com/#GuangLun2000/GuangLun2000.github.io&amp;amp;Date&#34;&gt;&lt;img src=&#34;https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&amp;amp;type=Date&#34; alt=&#34;Star History Chart&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Statement&lt;/h2&gt; &#xA;&lt;p&gt;© 2023 Hanlin Cai. Published with &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;, powered by &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;, based on the &lt;a href=&#34;https://mademistakes.com/&#34;&gt;Minimal Mistakes&lt;/a&gt; theme and &lt;a href=&#34;https://github.com/jansel/jansel.github.io&#34;&gt;Jason Ansel&#39;s site&lt;/a&gt;. Source code for this website can be found &lt;a href=&#34;https://github.com/GuangLun2000/GuangLun2000.github.io&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T01:59:21Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dariomanesku/.tmux</title>
+    <updated>2023-08-27T01:59:21Z</updated>
+    <id>tag:github.com,2023-08-27:/dariomanesku/.tmux</id>
+    <link href="https://github.com/dariomanesku/.tmux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal tmux config.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>drk1wi/portspoof</title>
+    <updated>2023-08-27T01:59:21Z</updated>
+    <id>tag:github.com,2023-08-27:/drk1wi/portspoof</id>
+    <link href="https://github.com/drk1wi/portspoof" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Portspoof&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DLR-TS/apt_cacher_ng_docker</title>
+    <updated>2023-08-27T01:59:21Z</updated>
+    <id>tag:github.com,2023-08-27:/DLR-TS/apt_cacher_ng_docker</id>
+    <link href="https://github.com/DLR-TS/apt_cacher_ng_docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A docker wrapper around apt-cacher-ng, provides a service, docker compose file and example consumers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Gherkin Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T01:54:57Z</updated>
+  <subtitle>Weekly Trending of Gherkin in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>htmlacademy/js3-six-cities-e2e</title>
+    <updated>2023-08-27T01:54:57Z</updated>
+    <id>tag:github.com,2023-08-27:/htmlacademy/js3-six-cities-e2e</id>
+    <link href="https://github.com/htmlacademy/js3-six-cities-e2e" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Автоматические e2e тесты для проекта «Шесть городов»&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

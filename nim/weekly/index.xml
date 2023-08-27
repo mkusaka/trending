@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nim Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T02:00:29Z</updated>
+  <subtitle>Weekly Trending of Nim in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Helixo32/NimBlackout</title>
+    <updated>2023-08-27T02:00:29Z</updated>
+    <id>tag:github.com,2023-08-27:/Helixo32/NimBlackout</id>
+    <link href="https://github.com/Helixo32/NimBlackout" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kill AV/EDR leveraging BYOVD attack&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>status-im/nim-eth-verkle</title>
+    <updated>2023-08-27T02:00:29Z</updated>
+    <id>tag:github.com,2023-08-27:/status-im/nim-eth-verkle</id>
+    <link href="https://github.com/status-im/nim-eth-verkle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verkle tree implementation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>treeform/debby</title>
+    <updated>2023-08-27T02:00:29Z</updated>
+    <id>tag:github.com,2023-08-27:/treeform/debby</id>
+    <link href="https://github.com/treeform/debby" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Database ORM layer for Nim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

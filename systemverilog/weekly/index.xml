@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SystemVerilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T02:06:53Z</updated>
+  <subtitle>Weekly Trending of SystemVerilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pulp-platform/snitch_cluster</title>
+    <updated>2023-08-27T02:06:53Z</updated>
+    <id>tag:github.com,2023-08-27:/pulp-platform/snitch_cluster</id>
+    <link href="https://github.com/pulp-platform/snitch_cluster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A high-efficiency floating-point compute cluster.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenXiangShan/Penglai-SagittaVerificationPlatform</title>
+    <updated>2023-08-27T02:06:53Z</updated>
+    <id>tag:github.com,2023-08-27:/OpenXiangShan/Penglai-SagittaVerificationPlatform</id>
+    <link href="https://github.com/OpenXiangShan/Penglai-SagittaVerificationPlatform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sagitta_verification_platform from Penglai&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

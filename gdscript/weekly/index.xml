@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T01:54:43Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nklbdev/godot-4-importality</title>
+    <updated>2023-08-27T01:54:43Z</updated>
+    <id>tag:github.com,2023-08-27:/nklbdev/godot-4-importality</id>
+    <link href="https://github.com/nklbdev/godot-4-importality" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Universal raster graphics and animations importers pack&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fenix-hub/godot-engine.easy-charts</title>
+    <updated>2023-08-27T01:54:43Z</updated>
+    <id>tag:github.com,2023-08-27:/fenix-hub/godot-engine.easy-charts</id>
+    <link href="https://github.com/fenix-hub/godot-engine.easy-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Godot Engine addon for plotting general purpose charts. A collection of Control, 2D and 3D Nodes to plot every chart possible.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

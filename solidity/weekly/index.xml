@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-08-27T02:06:07Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>matter-labs/era-test-node</title>
+    <updated>2023-08-27T02:06:07Z</updated>
+    <id>tag:github.com,2023-08-27:/matter-labs/era-test-node</id>
+    <link href="https://github.com/matter-labs/era-test-node" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In-memory node that can be used for integration testing and debugging.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>allo-protocol/bounty-strategy-tutorial</title>
+    <updated>2023-08-27T02:06:07Z</updated>
+    <id>tag:github.com,2023-08-27:/allo-protocol/bounty-strategy-tutorial</id>
+    <link href="https://github.com/allo-protocol/bounty-strategy-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Strategy developed as part of the Writing a Custom Strategy tutorial in Allo&#39;s documentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>circlefin/evm-cctp-contracts</title>
+    <updated>2023-08-27T02:06:07Z</updated>
+    <id>tag:github.com,2023-08-27:/circlefin/evm-cctp-contracts</id>
+    <link href="https://github.com/circlefin/evm-cctp-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
