@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-27T01:46:20Z</updated>
+  <updated>2023-08-28T01:41:31Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mskocik/svelecte</title>
-    <updated>2023-08-27T01:46:20Z</updated>
-    <id>tag:github.com,2023-08-27:/mskocik/svelecte</id>
-    <link href="https://github.com/mskocik/svelecte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Selectize-like component written in Svelte, also usable as custom-element 💪⚡&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antiboredom/ffmpeg-explorer</title>
+    <updated>2023-08-28T01:41:31Z</updated>
+    <id>tag:github.com,2023-08-28:/antiboredom/ffmpeg-explorer</id>
+    <link href="https://github.com/antiboredom/ffmpeg-explorer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

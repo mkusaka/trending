@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-27T01:35:16Z</updated>
+  <updated>2023-08-28T01:30:54Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cartazio/language-c</title>
-    <updated>2023-08-27T01:35:16Z</updated>
-    <id>tag:github.com,2023-08-27:/cartazio/language-c</id>
-    <link href="https://github.com/cartazio/language-c" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;git mirror of language-c darcs repo at http://code.haskell.org/language-c&lt;/p&gt;&lt;hr&gt;&lt;p&gt;= Language.C =&lt;/p&gt; &#xA;&lt;p&gt;Language.C is a parser and pretty-printer framework for C99 and the extensions of gcc.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;http://www.sivity.net/projects/language.c/&#34;&gt;http://www.sivity.net/projects/language.c/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;== Build and Install ==&lt;/p&gt; &#xA;&lt;p&gt;cabal install&lt;/p&gt; &#xA;&lt;p&gt;-- or --&lt;/p&gt; &#xA;&lt;p&gt;runhaskell Setup.hs configure FLAGS runhaskell Setup.hs build runhaskell Setup.hs install&lt;/p&gt; &#xA;&lt;p&gt;Provide the set of flags passing --flags=&#34;&#xA; &lt;flags-seperated-by-space&gt;&#xA;  &#34; to configure.&#xA; &lt;/flags-seperated-by-space&gt;&lt;/p&gt; &#xA;&lt;p&gt;== Compatibility ==&lt;/p&gt; &#xA;&lt;p&gt;Tested with ghc-7.2 (Ubuntu) and ghc-7.4 (Ubuntu). It is recommended to use the most recent platform release: &lt;a href=&#34;http://hackage.haskell.org/platform/&#34;&gt;http://hackage.haskell.org/platform/&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;== Sources ==&lt;/p&gt; &#xA;&lt;p&gt;see src/README&lt;/p&gt; &#xA;&lt;p&gt;== Examples ==&lt;/p&gt; &#xA;&lt;p&gt;A couple of small examples are available in /examples&lt;/p&gt; &#xA;&lt;p&gt;== Testing ==&lt;/p&gt; &#xA;&lt;p&gt;A couple of regression tests can be run via&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;cd test/harness; make&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;For more tests, see test/README.&lt;/p&gt;</summary>
-  </entry>
 </feed>

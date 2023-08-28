@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-27T01:30:36Z</updated>
+  <updated>2023-08-28T01:25:33Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>seanfisk/kurmas-lisp</title>
+    <updated>2023-08-28T01:25:33Z</updated>
+    <id>tag:github.com,2023-08-28:/seanfisk/kurmas-lisp</id>
+    <link href="https://github.com/seanfisk/kurmas-lisp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lecture notes on Lisp for Dr. Kurmas&#39; CS 343 class.&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;Introduction to Lisp&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;These is a lecture for Dr. Kurmas&#39; CIS 343 Structure of Programming Languages at Grand Valley State University.&lt;/p&gt; &#xA;&lt;p&gt;You can find the PDF here: &lt;a href=&#34;http://seanfisk.github.com/kurmas-lisp/lisp-intro.pdf&#34;&gt;http://seanfisk.github.com/kurmas-lisp/lisp-intro.pdf&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;** Building the presentation&lt;/p&gt; &#xA;&lt;p&gt;The Beamer presentation is =lisp-intro.tex=.&lt;/p&gt; &#xA;&lt;p&gt;*** Necessaries&lt;/p&gt; &#xA;&lt;p&gt;**** External, must be installed&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;[[http://scons.org/][SCons]] - build tool&lt;/li&gt; &#xA; &lt;li&gt;TeX distribution - compiled on [[http://www.tug.org/texlive/][TeX Live 2012]]; other implementations may or may not work&lt;/li&gt; &#xA; &lt;li&gt;[[http://pygments.org/][Pygments]] - syntax highlighter&lt;/li&gt; &#xA; &lt;li&gt;[[http://www.graphviz.org/][Graphviz]] - graph generator; uses =dot=&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;**** Included in TeX Live 2012&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;[[https://bitbucket.org/rivanvx/beamer/wiki/Home][Beamer]]&lt;/li&gt; &#xA; &lt;li&gt;[[http://biblatex-biber.sourceforge.net/][BibLaTeX and Biber]]&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;[[https://code.google.com/p/minted/][Minted]] is also required but a patched version is included in this repository.&lt;/p&gt; &#xA;&lt;p&gt;*** Building&lt;/p&gt; &#xA;&lt;p&gt;From the top directory, run: : scons&lt;/p&gt; &#xA;&lt;p&gt;That&#39;s it! It will take a minute to build.&lt;/p&gt; &#xA;&lt;p&gt;The presentation uses an excessive amount of syntax highlighting. However, I think it adds to the color and look of the presentation. This does add a lot to the compilation time because the code blocks are syntax highlighted by shelling out to =pygmentize= every time. I&#39;m not sure how to tell it not to regenerate those files.&lt;/p&gt;</summary>
+  </entry>
 </feed>

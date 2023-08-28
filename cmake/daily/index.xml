@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-27T01:30:25Z</updated>
+  <updated>2023-08-28T01:25:20Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>VMML/vmmlib</title>
-    <updated>2023-08-27T01:30:25Z</updated>
-    <id>tag:github.com,2023-08-27:/VMML/vmmlib</id>
-    <link href="https://github.com/VMML/vmmlib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A templatized C++ vector and matrix math library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>steinwurf/source_location</title>
-    <updated>2023-08-27T01:30:25Z</updated>
-    <id>tag:github.com,2023-08-27:/steinwurf/source_location</id>
-    <link href="https://github.com/steinwurf/source_location" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;source_location build script wrapper for the waf build system.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-27T01:43:42Z</updated>
+  <updated>2023-08-28T01:38:50Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TangFei965/pan-NK</title>
+    <updated>2023-08-28T01:38:50Z</updated>
+    <id>tag:github.com,2023-08-28:/TangFei965/pan-NK</id>
+    <link href="https://github.com/TangFei965/pan-NK" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;These are scripts for pan-cacner NK cells analyses.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;pan-NK&lt;/h1&gt; &#xA;&lt;p&gt;These are scripts for pan-cacner NK cells analyses.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>nationalparkservice/mojn-ds-datapackage</title>
+    <updated>2023-08-28T01:38:50Z</updated>
+    <id>tag:github.com,2023-08-28:/nationalparkservice/mojn-ds-datapackage</id>
+    <link href="https://github.com/nationalparkservice/mojn-ds-datapackage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts to create data and metadata for the MOJN Desert Springs data package&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mages/googleVis</title>
+    <updated>2023-08-28T01:38:50Z</updated>
+    <id>tag:github.com,2023-08-28:/mages/googleVis</id>
+    <link href="https://github.com/mages/googleVis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interface between R and the Google Chart Tools&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;googleVis&lt;/h1&gt; &#xA;&lt;!-- badges: start --&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/mages/googleVis/actions&#34;&gt;&lt;img src=&#34;https://github.com/mages/googleVis/workflows/R-CMD-check/badge.svg?sanitize=true&#34; alt=&#34;R-CMD-check&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;!-- badges: end --&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org/package=googleVis&#34;&gt;&lt;img src=&#34;https://www.r-pkg.org/badges/version/googleVis&#34; alt=&#34;CRAN_Status_Badge&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://cran.r-project.org/package=googleVis&#34;&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/grand-total/googleVis&#34; alt=&#34;downloads&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;The googleVis package provides an interface between R and the &lt;a href=&#34;https://developers.google.com/chart/&#34;&gt;Google&#39;s charts tools&lt;/a&gt;. It allows users to create web pages with interactive charts based on R data frames. Charts are displayed locally via the R HTTP help server. A modern browser with Internet connection is required. The data remains local and is not uploaded to Google.&lt;/p&gt; &#xA;&lt;p&gt;Check out the &lt;a href=&#34;https://mages.github.io/googleVis/articles/googleVis_examples.html&#34;&gt;examples&lt;/a&gt; from the googleVis demo.&lt;/p&gt; &#xA;&lt;p&gt;Please read &lt;a href=&#34;https://developers.google.com/terms/&#34;&gt;Google&#39;s Terms of Use&lt;/a&gt; before you start using the package.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;You can install the stable version from &lt;a href=&#34;https://cran.r-project.org/package=googleVis/&#34;&gt;CRAN&lt;/a&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-s&#34;&gt;install.packages(&#39;googleVis&#39;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-s&#34;&gt;library(googleVis)&#xA;?googleVis&#xA;demo(googleVis)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;See the googleVis package &lt;a href=&#34;https://mages.github.io/googleVis/articles/googleVis_intro.html&#34;&gt;vignette&lt;/a&gt; for more details. For a brief introduction read the five page &lt;a href=&#34;https://journal.r-project.org/archive/2011-2/RJournal_2011-2_Gesmann+de~Castillo.pdf&#34;&gt;R Journal article&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;This package is free and open source software, licensed under GPL 2 or later.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en_GB&#34;&gt;&lt;img alt=&#34;Creative Commons Licence&#34; class=&#34;c1&#34; src=&#34;https://i.creativecommons.org/l/by-sa/4.0/80x15.png&#34;&gt;&lt;/a&gt;&lt;br&gt; &lt;span&gt;googleVis documentation&lt;/span&gt; by &lt;a href=&#34;https://github.com/mages/googleVis&#34; rel=&#34;cc:attributionURL&#34;&gt;Markus Gesmann &amp;amp; Diego de Castillo&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en_GB&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

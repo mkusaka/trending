@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-27T01:44:43Z</updated>
+  <updated>2023-08-28T01:39:46Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>evmcheb/friendrekt</title>
-    <updated>2023-08-27T01:44:43Z</updated>
-    <id>tag:github.com,2023-08-27:/evmcheb/friendrekt</id>
-    <link href="https://github.com/evmcheb/friendrekt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;friend.tech mempool sniper&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;img src=&#34;https://github.com/evmcheb/friendrekt/assets/50129617/e3ba3f2d-62fd-4c6c-a9db-df95f93b9794&#34; width=&#34;48&#34;&gt; friend.tech mempool sniper bot &lt;img src=&#34;https://github.com/evmcheb/friendrekt/assets/50129617/e3ba3f2d-62fd-4c6c-a9db-df95f93b9794&#34; width=&#34;48&#34;&gt;&lt;/h1&gt; &#xA;&lt;p&gt;mempool sniper bot for new friend.tech joiners. the story goes:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;op-stack is supposed to be blind mempool. but base node default config had txpool+ws rpcs open (see the &lt;a href=&#34;https://github.com/ethereum-optimism/op-geth/pull/118&#34;&gt;patch notes&lt;/a&gt;)&lt;/li&gt; &#xA; &lt;li&gt;friend.tech uses blast-api rpc&lt;/li&gt; &#xA; &lt;li&gt;blast-api used base node default config for their backend nodes&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;important parts&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;friendrekt-rs &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;rust bot for finding new joiners, caching follow count and sniping&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;friendrekt-contracts &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;solidity contract for sniping w/ fail-safes&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;twt-follower-api &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;python http api for retrieving follower count&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;algo&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;/*&#xA;    here&#39;s a brief overview of the sniper:&#xA;    there are two tokio threads. &#xA;&#xA;    1. listen to every block.&#xA;        for every ETH transfer or bridge relays:&#xA;            reverse search the addresses involved on friend.tech&#xA;            find the number of followers&#xA;            if the address is not cached:&#xA;                cache the address&#xA;&#xA;    2. listen to blast-api eth_newPendingTransactions&#xA;        there are multiple (4?) backend nodes so subscribe a few times&#xA;            (afaict its mostly rng which stream you get)&#xA;            (also run this bot on several geo-distributed servers)&#xA;            if its a first-share-buy (a signup):&#xA;                if the address is cached:&#xA;                    if follow count &amp;gt; 20k: send snipe tx&#xA;                otherwise:&#xA;                    do a live lookup of follow count&#xA;                    if follow count &amp;gt; 20k: send snipe tx&#xA;*/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;devs&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://twitter.com/evmcheb&#34;&gt;cheb&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://twitter.com/rage_pit&#34;&gt;rage&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>paritytech/polkadot-sdk</title>
-    <updated>2023-08-27T01:44:43Z</updated>
-    <id>tag:github.com,2023-08-27:/paritytech/polkadot-sdk</id>
-    <link href="https://github.com/paritytech/polkadot-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Parity Polkadot Blockchain SDK&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

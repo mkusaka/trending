@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-27T01:45:12Z</updated>
+  <updated>2023-08-28T01:40:23Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mertusta1996/Unity-Football-Freekick-Game</title>
-    <updated>2023-08-27T01:45:12Z</updated>
-    <id>tag:github.com,2023-08-27:/mertusta1996/Unity-Football-Freekick-Game</id>
-    <link href="https://github.com/mertusta1996/Unity-Football-Freekick-Game" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This project is the creation of a &#34;football freekick mechanism&#34; similar to the &#34;FIFA 23&#34; video game&#39;s freekick mechanism, in Unity 3D game engine by a software developer named Mert Usta.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

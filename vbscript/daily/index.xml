@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-27T01:47:47Z</updated>
+  <updated>2023-08-28T01:42:46Z</updated>
   <subtitle>Daily Trending of VBScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sailay1996/awesome_windows_logical_bugs</title>
+    <updated>2023-08-28T01:42:46Z</updated>
+    <id>tag:github.com,2023-08-28:/sailay1996/awesome_windows_logical_bugs</id>
+    <link href="https://github.com/sailay1996/awesome_windows_logical_bugs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;collect for learning cases&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

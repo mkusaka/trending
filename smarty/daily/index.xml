@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-27T01:45:40Z</updated>
+  <updated>2023-08-28T01:40:51Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>trifork/cheetah-charts</title>
+    <updated>2023-08-28T01:40:51Z</updated>
+    <id>tag:github.com,2023-08-28:/trifork/cheetah-charts</id>
+    <link href="https://github.com/trifork/cheetah-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of helm charts used be the Cheetah Data Platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ThoughtWorks-DPS/lab-platform-eks-base</title>
+    <updated>2023-08-28T01:40:51Z</updated>
+    <id>tag:github.com,2023-08-28:/ThoughtWorks-DPS/lab-platform-eks-base</id>
+    <link href="https://github.com/ThoughtWorks-DPS/lab-platform-eks-base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eclipse-tractusx/portal-cd</title>
+    <updated>2023-08-28T01:40:51Z</updated>
+    <id>tag:github.com,2023-08-28:/eclipse-tractusx/portal-cd</id>
+    <link href="https://github.com/eclipse-tractusx/portal-cd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Portal - Continuous Deployment&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
