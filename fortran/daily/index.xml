@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-28T01:29:06Z</updated>
+  <updated>2023-08-29T01:28:51Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fommil/netlib-java</title>
+    <updated>2023-08-29T01:28:51Z</updated>
+    <id>tag:github.com,2023-08-29:/fommil/netlib-java</id>
+    <link href="https://github.com/fommil/netlib-java" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 High Performance Linear Algebra (low level)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

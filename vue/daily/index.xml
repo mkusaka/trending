@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-28T01:43:07Z</updated>
+  <updated>2023-08-29T01:44:32Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>YunYouJun/cook</title>
-    <updated>2023-08-28T01:43:07Z</updated>
-    <id>tag:github.com,2023-08-28:/YunYouJun/cook</id>
-    <link href="https://github.com/YunYouJun/cook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🍲 好的，今天我们来做菜！OK, Let&#39;s Cook!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sub-store-org/Sub-Store-Front-End</title>
-    <updated>2023-08-28T01:43:07Z</updated>
-    <id>tag:github.com,2023-08-28:/sub-store-org/Sub-Store-Front-End</id>
-    <link href="https://github.com/sub-store-org/Sub-Store-Front-End" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sub-Store Progressive Web App&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imsyy/Snavigation</title>
+    <updated>2023-08-29T01:44:32Z</updated>
+    <id>tag:github.com,2023-08-29:/imsyy/Snavigation</id>
+    <link href="https://github.com/imsyy/Snavigation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

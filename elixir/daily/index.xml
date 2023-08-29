@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-28T01:28:07Z</updated>
+  <updated>2023-08-29T01:28:01Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>liveview-native/elixirconf_chat</title>
-    <updated>2023-08-28T01:28:07Z</updated>
-    <id>tag:github.com,2023-08-28:/liveview-native/elixirconf_chat</id>
-    <link href="https://github.com/liveview-native/elixirconf_chat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ElixirConf 2023 Chat&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

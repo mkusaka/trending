@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-28T01:25:54Z</updated>
+  <updated>2023-08-29T01:26:04Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pagers-org/react-world</title>
+    <updated>2023-08-29T01:26:04Z</updated>
+    <id>tag:github.com,2023-08-29:/pagers-org/react-world</id>
+    <link href="https://github.com/pagers-org/react-world" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&#34;The mother of all demo apps&#34; — 리얼 월드 to 리액트 월드🫶&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;img src=&#34;https://raw.githubusercontent.com/pagers-org/react-world/main/assets/logo.png&#34; alt=&#34;RealWorld Example App&#34;&gt;&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;h3&gt;[YOUR_FRAMEWORK] codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the &lt;a href=&#34;https://github.com/gothinkster/realworld&#34;&gt;RealWorld&lt;/a&gt; spec and API.&lt;/h3&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h3&gt;&lt;a href=&#34;https://demo.realworld.io/&#34;&gt;Demo&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://github.com/gothinkster/realworld&#34;&gt;RealWorld&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;p&gt;This codebase was created to demonstrate a fully fledged fullstack application built with &lt;strong&gt;[YOUR_FRAMEWORK]&lt;/strong&gt; including CRUD operations, authentication, routing, pagination, and more.&lt;/p&gt; &#xA;&lt;p&gt;We&#39;ve gone to great lengths to adhere to the &lt;strong&gt;[YOUR_FRAMEWORK]&lt;/strong&gt; community styleguides &amp;amp; best practices.&lt;/p&gt; &#xA;&lt;p&gt;For more information on how to this works with other frontends/backends, head over to the &lt;a href=&#34;https://github.com/gothinkster/realworld&#34;&gt;RealWorld&lt;/a&gt; repo.&lt;/p&gt; &#xA;&lt;h1&gt;How it works&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Describe the general architecture of your app here&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h1&gt;Getting started&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;npm install, npm start, etc.&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
+  </entry>
 </feed>
