@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-29T01:28:08Z</updated>
+  <updated>2023-08-30T01:28:21Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>emacs-straight/peg</title>
-    <updated>2023-08-29T01:28:08Z</updated>
-    <id>tag:github.com,2023-08-29:/emacs-straight/peg</id>
-    <link href="https://github.com/emacs-straight/peg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of the peg package from GNU ELPA, current as of 2023-08-29&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kzahel/dotfiles</title>
+    <updated>2023-08-30T01:28:21Z</updated>
+    <id>tag:github.com,2023-08-30:/kzahel/dotfiles</id>
+    <link href="https://github.com/kzahel/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;my dotconfigs etc&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dotfiles&lt;/h1&gt; &#xA;&lt;p&gt;my dotconfigs etc&lt;/p&gt; &#xA;&lt;p&gt;test 1 2 3&lt;/p&gt;</summary>
   </entry>
 </feed>

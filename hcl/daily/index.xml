@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-29T01:30:51Z</updated>
+  <updated>2023-08-30T01:30:28Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LondheShubham153/TerraWeek</title>
-    <updated>2023-08-29T01:30:51Z</updated>
-    <id>tag:github.com,2023-08-29:/LondheShubham153/TerraWeek</id>
-    <link href="https://github.com/LondheShubham153/TerraWeek" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;#TerraWeek Challenge by TWS Community Builders is a 7 Day challenge to Upskill the DevOps Community, which will be starting on 5th June and ending on 11th June at 11:59 P.M IST.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LandmarkFk/terraform-master-class-series2</title>
-    <updated>2023-08-29T01:30:51Z</updated>
-    <id>tag:github.com,2023-08-29:/LandmarkFk/terraform-master-class-series2</id>
-    <link href="https://github.com/LandmarkFk/terraform-master-class-series2" rel="alternate"></link>
+    <title>LandmakTechnology/terraform-master-class-series</title>
+    <updated>2023-08-30T01:30:28Z</updated>
+    <id>tag:github.com,2023-08-30:/LandmakTechnology/terraform-master-class-series</id>
+    <link href="https://github.com/LandmakTechnology/terraform-master-class-series" rel="alternate"></link>
     <summary type="html">&lt;p&gt;A repository for terraform-master-class-series&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

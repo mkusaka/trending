@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-29T01:36:34Z</updated>
+  <updated>2023-08-30T01:36:11Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>leostera/criterion.ml</title>
-    <updated>2023-08-29T01:36:34Z</updated>
-    <id>tag:github.com,2023-08-29:/leostera/criterion.ml</id>
-    <link href="https://github.com/leostera/criterion.ml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Benchmarking framework for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ocaml-multicore/multicoretests</title>
-    <updated>2023-08-29T01:36:34Z</updated>
-    <id>tag:github.com,2023-08-29:/ocaml-multicore/multicoretests</id>
-    <link href="https://github.com/ocaml-multicore/multicoretests" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PBT testsuite and libraries for testing multicore OCaml&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

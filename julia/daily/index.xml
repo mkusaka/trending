@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-29T01:33:21Z</updated>
+  <updated>2023-08-30T01:32:35Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>JuliaGL/GLFW.jl</title>
-    <updated>2023-08-29T01:33:21Z</updated>
-    <id>tag:github.com,2023-08-29:/JuliaGL/GLFW.jl</id>
-    <link href="https://github.com/JuliaGL/GLFW.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia interface to GLFW, a multi-platform library for creating windows with OpenGL contexts and managing input and events.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

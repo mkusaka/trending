@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-29T01:26:15Z</updated>
+  <updated>2023-08-30T01:26:12Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Saurabh-29/Waveglow_Inference_in_CUDA</title>
-    <updated>2023-08-29T01:26:15Z</updated>
-    <id>tag:github.com,2023-08-29:/Saurabh-29/Waveglow_Inference_in_CUDA</id>
-    <link href="https://github.com/Saurabh-29/Waveglow_Inference_in_CUDA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C++ Code to run waveglow inference in cuda&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

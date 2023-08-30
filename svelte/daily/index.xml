@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-29T01:42:24Z</updated>
+  <updated>2023-08-30T01:42:59Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>QuadballScorekeeper/quadball-scorekeeper</title>
-    <updated>2023-08-29T01:42:24Z</updated>
-    <id>tag:github.com,2023-08-29:/QuadballScorekeeper/quadball-scorekeeper</id>
-    <link href="https://github.com/QuadballScorekeeper/quadball-scorekeeper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;name in progress.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TheRealFugma/Fugma</title>
-    <updated>2023-08-29T01:42:24Z</updated>
-    <id>tag:github.com,2023-08-29:/TheRealFugma/Fugma</id>
-    <link href="https://github.com/TheRealFugma/Fugma" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A team matching app.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RanDXDev/ran-minigames</title>
+    <updated>2023-08-30T01:42:59Z</updated>
+    <id>tag:github.com,2023-08-30:/RanDXDev/ran-minigames</id>
+    <link href="https://github.com/RanDXDev/ran-minigames" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of minigame for fivem&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

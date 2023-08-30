@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-29T01:41:55Z</updated>
+  <updated>2023-08-30T01:42:35Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>threefoldtech/3bot</title>
-    <updated>2023-08-29T01:41:55Z</updated>
-    <id>tag:github.com,2023-08-29:/threefoldtech/3bot</id>
-    <link href="https://github.com/threefoldtech/3bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Proxy for the web3 world&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BuidlerDAO/Shanhaiwoo-hackathon-2023</title>
+    <updated>2023-08-30T01:42:35Z</updated>
+    <id>tag:github.com,2023-08-30:/BuidlerDAO/Shanhaiwoo-hackathon-2023</id>
+    <link href="https://github.com/BuidlerDAO/Shanhaiwoo-hackathon-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;山海坞hackathon&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ava-labs/teleporter</title>
+    <updated>2023-08-30T01:42:35Z</updated>
+    <id>tag:github.com,2023-08-30:/ava-labs/teleporter</id>
+    <link href="https://github.com/ava-labs/teleporter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EVM cross-chain messaging protocol built on top of Avalanche Warp Messaging&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>devtooligan/Huffpoint</title>
+    <updated>2023-08-30T01:42:35Z</updated>
+    <id>tag:github.com,2023-08-30:/devtooligan/Huffpoint</id>
+    <link href="https://github.com/devtooligan/Huffpoint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create breakpoints for use with Foundry debugger -- https://book.getfoundry.sh/cheatcodes/breakpoint&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

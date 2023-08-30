@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-29T01:24:45Z</updated>
+  <updated>2023-08-30T01:24:16Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>florylsk/NtRemoteLoad</title>
+    <updated>2023-08-30T01:24:16Z</updated>
+    <id>tag:github.com,2023-08-30:/florylsk/NtRemoteLoad</id>
+    <link href="https://github.com/florylsk/NtRemoteLoad" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Remote Shellcode Injector&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NtRemoteLoad&lt;/h1&gt; &#xA;&lt;p&gt;Remote shellcode injector, based on HWSyscalls by ShorSec, leveraging undetectable (currently) indirect native syscalls to inject shellcode into another process, creating a thread and executing it.&lt;/p&gt; &#xA;&lt;p&gt;Disclaimer: The information/files provided in this repository are strictly intended for educational and ethical purposes only. The techniques and tools are intended to be used in a lawful and responsible manner, with the explicit consent of the target system&#39;s owner. Any unauthorized or malicious use of these techniques and tools is strictly prohibited and may result in legal consequences. I am not responsible for any damages or legal issues that may arise from the misuse of the information provided.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-powershell&#34;&gt;.\NtRemoteLoad.exe &amp;lt;path_to_shellcode_file&amp;gt; &amp;lt;remote_process_pid&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Detection&lt;/h2&gt; &#xA;&lt;p&gt;Testing it against API monitor by Rohitab shows the following detection for Native syscalls:&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/florylsk/NtRemoteLoad/assets/46110263/86cc58e0-e3dd-47f5-9f00-8da8e1d74933&#34; alt=&#34;NtRemoteLoad4&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Which is fairly good, though NtCreateFile could also be hidden but I have not seen a reason to change it yet.&lt;/p&gt; &#xA;&lt;p&gt;On the other hand, testing it against Defender for Endpoint EDR trial with a Havoc C2 beacon payload yields the following detection:&lt;/p&gt; &#xA;&lt;h3&gt;Executing the payload&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/florylsk/NtRemoteLoad/assets/46110263/4c0cbb86-418f-429c-a5ee-8aaab9d115e0&#34; alt=&#34;NtRemoteLoad2&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Getting the callback&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/florylsk/NtRemoteLoad/assets/46110263/b79bb767-003d-4469-b71b-15da5528752a&#34; alt=&#34;NtRemoteLoad1&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Visibility&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/florylsk/NtRemoteLoad/assets/46110263/1fc73235-88f7-4fdf-bf13-873a1a390824&#34; alt=&#34;NtRemoteLoad3&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Which is also fairly good as these are just events, meaning the blue team would need Threat Hunting or SIEM to actually detect it.&lt;/p&gt;</summary>
+  </entry>
 </feed>

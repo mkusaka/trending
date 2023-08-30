@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-29T01:25:47Z</updated>
+  <updated>2023-08-30T01:25:35Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>samanthadoran/potential-disco</title>
-    <updated>2023-08-29T01:25:47Z</updated>
-    <id>tag:github.com,2023-08-29:/samanthadoran/potential-disco</id>
-    <link href="https://github.com/samanthadoran/potential-disco" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Trying to emulate the NES again in Common Lisp&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;potential-disco&lt;/h1&gt; &#xA;&lt;p&gt;Trying to emulate the NES again in Common Lisp&lt;/p&gt; &#xA;&lt;p&gt;TODO: Other mapppers besides NROM&lt;br&gt; TODO: Audio&lt;br&gt; TODO: Run at proper speed instead of just letting it go however fast it pleases.&lt;br&gt; TODO: Write more idiomatic Lisp&lt;/p&gt; &#xA;&lt;h4&gt;Examples&lt;/h4&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://i.gyazo.com/5b8b161be74281255e48b63db45a7285.gif&#34; alt=&#34;Super Mario Bros&#34;&gt; &lt;img src=&#34;https://i.gyazo.com/d9af4b6f32a1b6790be46627c2035306.gif&#34; alt=&#34;Galaga&#34;&gt; &lt;img src=&#34;https://i.gyazo.com/edfc1dc4245ce0bfbbf99af8e84870e0.gif&#34; alt=&#34;Donkey Kong&#34;&gt; &lt;img src=&#34;https://i.gyazo.com/ef21cd65df7267662637c735aa406bde.gif&#34; alt=&#34;Volley Ball&#34;&gt; &lt;img src=&#34;https://i.gyazo.com/f6f0767f3806388b99fb343190406b71.png&#34; alt=&#34;NesTest&#34;&gt;&lt;/p&gt; &#xA;&lt;h4&gt;Usage&lt;/h4&gt; &#xA;&lt;p&gt;In your favorite common lisp repl (I haven&#39;t tested outside of sbcl), just run&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(asdf:load-system :console)&#xA;(nes:setup-and-emulate path-to-rom)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Where path to rom is a string&lt;br&gt; The controls map to.. Start: Tab&lt;br&gt; Select: Grave&lt;br&gt; Left, Down, Right, Up: W, A, S, D&lt;br&gt; A, B: Left Arrow, Down Arrow&lt;br&gt; I&#39;m sorry, they aren&#39;t re-mappable yet. =(&lt;/p&gt;</summary>
-  </entry>
 </feed>

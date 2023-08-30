@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-29T01:23:56Z</updated>
+  <updated>2023-08-30T01:23:31Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ic3qu33n/michelangelo-reanimator</title>
-    <updated>2023-08-29T01:23:56Z</updated>
-    <id>tag:github.com,2023-08-29:/ic3qu33n/michelangelo-reanimator</id>
-    <link href="https://github.com/ic3qu33n/michelangelo-reanimator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Michelangelo REanimator bootkit and REcon 2023 talk slides/materials&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Evolution-X/bionic</title>
-    <updated>2023-08-29T01:23:56Z</updated>
-    <id>tag:github.com,2023-08-29:/Evolution-X/bionic</id>
-    <link href="https://github.com/Evolution-X/bionic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
