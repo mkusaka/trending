@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-30T01:26:12Z</updated>
+  <updated>2023-08-31T01:26:34Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CLinvx/HPM-MVS</title>
+    <updated>2023-08-31T01:26:34Z</updated>
+    <id>tag:github.com,2023-08-31:/CLinvx/HPM-MVS</id>
+    <link href="https://github.com/CLinvx/HPM-MVS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hierarchical Prior Mining for Non-local Multi-View Stereo (ICCV 2023)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MQL4 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-30T01:34:58Z</updated>
+  <updated>2023-08-31T01:36:31Z</updated>
   <subtitle>Daily Trending of MQL4 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vobornik/mt4-trade-copy</title>
+    <updated>2023-08-31T01:36:31Z</updated>
+    <id>tag:github.com,2023-08-31:/vobornik/mt4-trade-copy</id>
+    <link href="https://github.com/vobornik/mt4-trade-copy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free MT4 trade copier - Metatrader4 EA software to copy all trades from one to one or more Metatrader4 terminals written in MQL4 language (*.mq4)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

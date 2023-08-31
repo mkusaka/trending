@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-30T01:22:34Z</updated>
+  <updated>2023-08-31T01:23:08Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rodolfomarianocy/OSCP-Tricks-2023</title>
-    <updated>2023-08-30T01:22:34Z</updated>
-    <id>tag:github.com,2023-08-30:/rodolfomarianocy/OSCP-Tricks-2023</id>
-    <link href="https://github.com/rodolfomarianocy/OSCP-Tricks-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OSCP 2023 Preparation Guide | Courses, Tricks, Tutorials, Exercises, Machines&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ljinkai/weekly</title>
+    <updated>2023-08-31T01:23:08Z</updated>
+    <id>tag:github.com,2023-08-31:/ljinkai/weekly</id>
+    <link href="https://github.com/ljinkai/weekly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;独立开发产品变现周刊，每周五发布。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TriedCoderX/JavaScript-Triangular-Arbitrage-Bot-V5-for-Decentralize-DEXs</title>
-    <updated>2023-08-30T01:22:34Z</updated>
-    <id>tag:github.com,2023-08-30:/TriedCoderX/JavaScript-Triangular-Arbitrage-Bot-V5-for-Decentralize-DEXs</id>
-    <link href="https://github.com/TriedCoderX/JavaScript-Triangular-Arbitrage-Bot-V5-for-Decentralize-DEXs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Get ahead of the game with our 100% JavaScript bot that performs Triangular Arbitrage on DEX&#39;s. Open-source and reliable, start earning more today!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aman0046/LastMinuteRevision-OOP</title>
+    <updated>2023-08-31T01:23:08Z</updated>
+    <id>tag:github.com,2023-08-31:/aman0046/LastMinuteRevision-OOP</id>
+    <link href="https://github.com/aman0046/LastMinuteRevision-OOP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Here is the last minute revision notes of Object Oriented Programming&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>m1-llie/TUMCC</title>
-    <updated>2023-08-30T01:22:34Z</updated>
-    <id>tag:github.com,2023-08-30:/m1-llie/TUMCC</id>
-    <link href="https://github.com/m1-llie/TUMCC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Telegram地下市场中文黑话识别语料集。Telegram Underground Market Chinese Corpus. Paper: Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-Oriented and Linguistic Features (IP&amp;M, 2022).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>skot/bitaxe</title>
+    <updated>2023-08-31T01:23:08Z</updated>
+    <id>tag:github.com,2023-08-31:/skot/bitaxe</id>
+    <link href="https://github.com/skot/bitaxe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source Bitcoin miner hardware using BM1397 ASICs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

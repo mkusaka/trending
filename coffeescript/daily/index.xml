@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-30T01:25:28Z</updated>
+  <updated>2023-08-31T01:26:04Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mattkahl/Github-Filter-by-Assignee</title>
-    <updated>2023-08-30T01:25:28Z</updated>
-    <id>tag:github.com,2023-08-30:/mattkahl/Github-Filter-by-Assignee</id>
-    <link href="https://github.com/mattkahl/Github-Filter-by-Assignee" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;*Abandoned* An extension for Safari and Google Chrome that allows you to filter your Github issues by assignees (other than yourself).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pandastrike/c50n</title>
-    <updated>2023-08-30T01:25:28Z</updated>
-    <id>tag:github.com,2023-08-30:/pandastrike/c50n</id>
-    <link href="https://github.com/pandastrike/c50n" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A very simple CSON parser / stringify&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>harmsk/atom-html-preview</title>
-    <updated>2023-08-30T01:25:28Z</updated>
-    <id>tag:github.com,2023-08-30:/harmsk/atom-html-preview</id>
-    <link href="https://github.com/harmsk/atom-html-preview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Atom HTML Live Preview Package&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>atom/language-html</title>
+    <updated>2023-08-31T01:26:04Z</updated>
+    <id>tag:github.com,2023-08-31:/atom/language-html</id>
+    <link href="https://github.com/atom/language-html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTML package for Atom&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

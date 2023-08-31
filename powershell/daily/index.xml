@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-30T01:37:50Z</updated>
+  <updated>2023-08-31T01:39:31Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>trailofbits/HVCI-loldrivers-check</title>
-    <updated>2023-08-30T01:37:50Z</updated>
-    <id>tag:github.com,2023-08-30:/trailofbits/HVCI-loldrivers-check</id>
-    <link href="https://github.com/trailofbits/HVCI-loldrivers-check" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HVCI-loldrivers-check&lt;/h1&gt; &#xA;&lt;p&gt;Checks to see which drivers from loldrivers.io are not blocked by the current HVCI blocklist on the system.&lt;/p&gt; &#xA;&lt;h3&gt;Requirements&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Powershell 6.0+&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Usage&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;.\check_allowed_drivers.ps1&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;The script will automatically pull the loldrivers JSON file which can be found here: &lt;a href=&#34;https://www.loldrivers.io/&#34;&gt;https://www.loldrivers.io/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;The script will automatically parse the HVCI driver policy. If you&#39;d like to extract the list yourself, you can use this script: &lt;a href=&#34;https://gist.github.com/mattifestation/92e545bf1ee5b68eeb71d254cec2f78e&#34;&gt;https://gist.github.com/mattifestation/92e545bf1ee5b68eeb71d254cec2f78e&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Output&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;Number of blocked drivers: &amp;lt;number&amp;gt;&#xA;Number of allowed drivers: &amp;lt;number&amp;gt;&#xA;&#xA;Allowed:&#xA;MD5: &amp;lt;hash&amp;gt; SHA1: &amp;lt;hash&amp;gt; SHA256: &amp;lt;hash&amp;gt;&#xA;MD5: &amp;lt;hash&amp;gt; SHA1: &amp;lt;hash&amp;gt; SHA256: &amp;lt;hash&amp;gt;&#xA;...&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;All drivers have at least one of their MD5, SHA1, or SHA256 hashes available on loldrivers.io, but some of them have one or two of these missing.&lt;/p&gt; &#xA;&lt;p&gt;The drivers outputted under &#34;allowed&#34; are drivers that do not match any of the criteria that the blocklist uses to determine which drivers are blocked:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Blocked by MD5, SHA1 or SHA256 of the file&lt;/li&gt; &#xA; &lt;li&gt;Blocked by a combination of Original File Name and signer, and in some cases also file version. The signer list uses the issuer of the intermediate signature and can be an MD5, SHA1, SHA256 or SHA384.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

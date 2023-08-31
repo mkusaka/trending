@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-30T01:42:35Z</updated>
+  <updated>2023-08-31T01:43:02Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BuidlerDAO/Shanhaiwoo-hackathon-2023</title>
-    <updated>2023-08-30T01:42:35Z</updated>
-    <id>tag:github.com,2023-08-30:/BuidlerDAO/Shanhaiwoo-hackathon-2023</id>
-    <link href="https://github.com/BuidlerDAO/Shanhaiwoo-hackathon-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;山海坞hackathon&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>returntocorp/semgrep-rules</title>
+    <updated>2023-08-31T01:43:02Z</updated>
+    <id>tag:github.com,2023-08-31:/returntocorp/semgrep-rules</id>
+    <link href="https://github.com/returntocorp/semgrep-rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Semgrep rules registry&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ava-labs/teleporter</title>
-    <updated>2023-08-30T01:42:35Z</updated>
-    <id>tag:github.com,2023-08-30:/ava-labs/teleporter</id>
-    <link href="https://github.com/ava-labs/teleporter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;EVM cross-chain messaging protocol built on top of Avalanche Warp Messaging&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Jesserc/Secp256k1-huff</title>
+    <updated>2023-08-31T01:43:02Z</updated>
+    <id>tag:github.com,2023-08-31:/Jesserc/Secp256k1-huff</id>
+    <link href="https://github.com/Jesserc/Secp256k1-huff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Secp256k1 Elliptic Curve Library Written In Huff&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>devtooligan/Huffpoint</title>
-    <updated>2023-08-30T01:42:35Z</updated>
-    <id>tag:github.com,2023-08-30:/devtooligan/Huffpoint</id>
-    <link href="https://github.com/devtooligan/Huffpoint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create breakpoints for use with Foundry debugger -- https://book.getfoundry.sh/cheatcodes/breakpoint&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sablier-labs/v2-periphery</title>
+    <updated>2023-08-31T01:43:02Z</updated>
+    <id>tag:github.com,2023-08-31:/sablier-labs/v2-periphery</id>
+    <link href="https://github.com/sablier-labs/v2-periphery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎛 Peripheral smart contracts for interacting with Sablier V2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
