@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-31T01:24:11Z</updated>
+  <updated>2023-09-01T01:26:44Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>3forges/juste-un-curieux</title>
-    <updated>2023-08-31T01:24:11Z</updated>
-    <id>tag:github.com,2023-08-31:/3forges/juste-un-curieux</id>
-    <link href="https://github.com/3forges/juste-un-curieux" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Un site internet pour les curieux...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>astranoto/soluter</title>
-    <updated>2023-08-31T01:24:11Z</updated>
-    <id>tag:github.com,2023-08-31:/astranoto/soluter</id>
-    <link href="https://github.com/astranoto/soluter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;we solve things&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kbujari/kleidi.ca</title>
+    <updated>2023-09-01T01:26:44Z</updated>
+    <id>tag:github.com,2023-09-01:/kbujari/kleidi.ca</id>
+    <link href="https://github.com/kbujari/kleidi.ca" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal website and blog made with Astro/TailwindCSS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

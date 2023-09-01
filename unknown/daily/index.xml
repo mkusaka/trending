@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-31T01:23:08Z</updated>
+  <updated>2023-09-01T01:25:43Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ljinkai/weekly</title>
-    <updated>2023-08-31T01:23:08Z</updated>
-    <id>tag:github.com,2023-08-31:/ljinkai/weekly</id>
-    <link href="https://github.com/ljinkai/weekly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;独立开发产品变现周刊，每周五发布。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>magic-research/magic-edit</title>
+    <updated>2023-09-01T01:25:43Z</updated>
+    <id>tag:github.com,2023-09-01:/magic-research/magic-edit</id>
+    <link href="https://github.com/magic-research/magic-edit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MagicEdit: High-Fidelity Temporally Coherent Video Editing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aman0046/LastMinuteRevision-OOP</title>
-    <updated>2023-08-31T01:23:08Z</updated>
-    <id>tag:github.com,2023-08-31:/aman0046/LastMinuteRevision-OOP</id>
-    <link href="https://github.com/aman0046/LastMinuteRevision-OOP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Here is the last minute revision notes of Object Oriented Programming&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aws-ia/terraform-aws-eks-blueprints</title>
+    <updated>2023-09-01T01:25:43Z</updated>
+    <id>tag:github.com,2023-09-01:/aws-ia/terraform-aws-eks-blueprints</id>
+    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configure and deploy complete EKS clusters.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>skot/bitaxe</title>
-    <updated>2023-08-31T01:23:08Z</updated>
-    <id>tag:github.com,2023-08-31:/skot/bitaxe</id>
-    <link href="https://github.com/skot/bitaxe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source Bitcoin miner hardware using BM1397 ASICs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CoderRonX/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEXs</title>
+    <updated>2023-09-01T01:25:43Z</updated>
+    <id>tag:github.com,2023-09-01:/CoderRonX/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEXs</id>
+    <link href="https://github.com/CoderRonX/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEXs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Get ahead of the game with our 100% JavaScript bot that performs Triangular Arbitrage on DEX&#39;s. Open-source and reliable, start earning more today!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:09:25Z</updated>
+  <subtitle>Monthly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>inaka/cowboy_swagger</title>
+    <updated>2023-09-01T02:09:25Z</updated>
+    <id>tag:github.com,2023-09-01:/inaka/cowboy_swagger</id>
+    <link href="https://github.com/inaka/cowboy_swagger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Swagger integration for Cowboy (built on trails)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kivra/id_token</title>
+    <updated>2023-09-01T02:09:25Z</updated>
+    <id>tag:github.com,2023-09-01:/kivra/id_token</id>
+    <link href="https://github.com/kivra/id_token" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang application to easily handle ID tokens&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Kehao/playErlang</title>
+    <updated>2023-09-01T02:09:25Z</updated>
+    <id>tag:github.com,2023-09-01:/Kehao/playErlang</id>
+    <link href="https://github.com/Kehao/playErlang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;play erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

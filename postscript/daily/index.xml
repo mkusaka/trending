@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PostScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-31T01:39:27Z</updated>
+  <updated>2023-09-01T01:38:49Z</updated>
   <subtitle>Daily Trending of PostScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TnTech-ECE/CapstoneStarterRepo</title>
+    <updated>2023-09-01T01:38:49Z</updated>
+    <id>tag:github.com,2023-09-01:/TnTech-ECE/CapstoneStarterRepo</id>
+    <link href="https://github.com/TnTech-ECE/CapstoneStarterRepo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository can be forked and modified as a starting point for a TnTech capstone project GitHub&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

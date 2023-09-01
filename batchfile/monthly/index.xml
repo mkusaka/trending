@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:05:21Z</updated>
+  <subtitle>Monthly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DiligentGraphics/DiligentEngine</title>
+    <updated>2023-09-01T02:05:21Z</updated>
+    <id>tag:github.com,2023-09-01:/DiligentGraphics/DiligentEngine</id>
+    <link href="https://github.com/DiligentGraphics/DiligentEngine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern cross-platform low-level graphics library and rendering framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AveYo/ShowMMR</title>
+    <updated>2023-09-01T02:05:21Z</updated>
+    <id>tag:github.com,2023-09-01:/AveYo/ShowMMR</id>
+    <link href="https://github.com/AveYo/ShowMMR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a DOTA dashboard mod to bring back the mmr numbers now that rank changes are variable&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>focus-editor/focus</title>
+    <updated>2023-09-01T02:05:21Z</updated>
+    <id>tag:github.com,2023-09-01:/focus-editor/focus</id>
+    <link href="https://github.com/focus-editor/focus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple and fast text editor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

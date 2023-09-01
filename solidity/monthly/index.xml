@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:20:29Z</updated>
+  <subtitle>Monthly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ptahdao/lmr-partners</title>
+    <updated>2023-09-01T02:20:29Z</updated>
+    <id>tag:github.com,2023-09-01:/ptahdao/lmr-partners</id>
+    <link href="https://github.com/ptahdao/lmr-partners" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>returntocorp/semgrep-rules</title>
+    <updated>2023-09-01T02:20:29Z</updated>
+    <id>tag:github.com,2023-09-01:/returntocorp/semgrep-rules</id>
+    <link href="https://github.com/returntocorp/semgrep-rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Semgrep rules registry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2023-08-goodentry</title>
+    <updated>2023-09-01T02:20:29Z</updated>
+    <id>tag:github.com,2023-09-01:/code-423n4/2023-08-goodentry</id>
+    <link href="https://github.com/code-423n4/2023-08-goodentry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nextflow Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:15:12Z</updated>
+  <subtitle>Monthly Trending of Nextflow in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nf-core/rnasplice</title>
+    <updated>2023-09-01T02:15:12Z</updated>
+    <id>tag:github.com,2023-09-01:/nf-core/rnasplice</id>
+    <link href="https://github.com/nf-core/rnasplice" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;rnasplice is a bioinformatics pipeline for RNA-seq alternative splicing analysis&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nf-core/mag</title>
+    <updated>2023-09-01T02:15:12Z</updated>
+    <id>tag:github.com,2023-09-01:/nf-core/mag</id>
+    <link href="https://github.com/nf-core/mag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Assembly and binning of metagenomes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nf-core/clipseq</title>
+    <updated>2023-09-01T02:15:12Z</updated>
+    <id>tag:github.com,2023-09-01:/nf-core/clipseq</id>
+    <link href="https://github.com/nf-core/clipseq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CLIP sequencing analysis pipeline for QC, pre-mapping, genome mapping, UMI deduplication, and multiple peak-calling options.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:20:43Z</updated>
+  <subtitle>Monthly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bazelbuild/rules_swift</title>
+    <updated>2023-09-01T02:20:43Z</updated>
+    <id>tag:github.com,2023-09-01:/bazelbuild/rules_swift</id>
+    <link href="https://github.com/bazelbuild/rules_swift" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rules to build Swift on Apple and Linux platforms&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-31T01:44:57Z</updated>
+  <updated>2023-09-01T01:44:06Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gaozhangmin/aliyunpan</title>
-    <updated>2023-08-31T01:44:57Z</updated>
-    <id>tag:github.com,2023-08-31:/gaozhangmin/aliyunpan</id>
-    <link href="https://github.com/gaozhangmin/aliyunpan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;小白羊网盘 - Powered by 阿里云盘。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GoodManWEN/GoodManWEN.github.io</title>
-    <updated>2023-08-31T01:44:57Z</updated>
-    <id>tag:github.com,2023-08-31:/GoodManWEN/GoodManWEN.github.io</id>
-    <link href="https://github.com/GoodManWEN/GoodManWEN.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📕 A website simulating linux system&#39;s GUI, using theme of Deepin distro. 网页模拟桌面&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>P1kaj1uu/ChatGPT-Video-Parsing</title>
-    <updated>2023-08-31T01:44:57Z</updated>
-    <id>tag:github.com,2023-08-31:/P1kaj1uu/ChatGPT-Video-Parsing</id>
-    <link href="https://github.com/P1kaj1uu/ChatGPT-Video-Parsing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;本项目已接入ChatGPT和文生图服务(无需再代理和APIKey)，同时支持腾讯视频、爱奇艺、优酷、芒果TV、哔哩哔哩、网易云音乐等平台会员视频破解可在线解析和论文降重（目前仅适用于PC端，移动端适配暂未完成）&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

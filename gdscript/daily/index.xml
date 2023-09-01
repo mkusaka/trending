@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-31T01:28:47Z</updated>
+  <updated>2023-09-01T01:31:33Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Ericdowney/SignalVisualizer</title>
-    <updated>2023-08-31T01:28:47Z</updated>
-    <id>tag:github.com,2023-08-31:/Ericdowney/SignalVisualizer</id>
-    <link href="https://github.com/Ericdowney/SignalVisualizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A plugin for Godot 4.x. SignalVisualizer displays the current scene&#39;s signals and connections in a easy to read graph and tree dock.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

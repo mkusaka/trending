@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-31T01:44:43Z</updated>
+  <updated>2023-09-01T01:43:54Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ZoroGH/RiscV-CPU</title>
+    <updated>2023-09-01T01:43:54Z</updated>
+    <id>tag:github.com,2023-09-01:/ZoroGH/RiscV-CPU</id>
+    <link href="https://github.com/ZoroGH/RiscV-CPU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo is for little term, the goal is to develop a risc-v based cpu with pipeline struct&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

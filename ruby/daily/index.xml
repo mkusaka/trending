@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-31T01:41:20Z</updated>
+  <updated>2023-09-01T01:40:41Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lazaronixon/rinha_de_backend</title>
+    <updated>2023-09-01T01:40:41Z</updated>
+    <id>tag:github.com,2023-09-01:/lazaronixon/rinha_de_backend</id>
+    <link href="https://github.com/lazaronixon/rinha_de_backend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;README&lt;/h1&gt; &#xA;&lt;p&gt;This README would normally document whatever steps are necessary to get the application up and running.&lt;/p&gt; &#xA;&lt;p&gt;Things you may want to cover:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Ruby version&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;System dependencies&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Configuration&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Database creation&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Database initialization&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;How to run the test suite&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Services (job queues, cache servers, search engines, etc.)&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Deployment instructions&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;...&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

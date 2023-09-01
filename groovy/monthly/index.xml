@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:10:45Z</updated>
+  <subtitle>Monthly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>The1Studio/JenkinsScripts</title>
+    <updated>2023-09-01T02:10:45Z</updated>
+    <id>tag:github.com,2023-09-01:/The1Studio/JenkinsScripts</id>
+    <link href="https://github.com/The1Studio/JenkinsScripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>young-zhang/freebase-neo4j-importer</title>
+    <updated>2023-09-01T02:10:45Z</updated>
+    <id>tag:github.com,2023-09-01:/young-zhang/freebase-neo4j-importer</id>
+    <link href="https://github.com/young-zhang/freebase-neo4j-importer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Groovy version of the importer.rb script from p243 of Seven Databases in Seven Weeks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ihub-pub/plugins</title>
+    <updated>2023-09-01T02:10:45Z</updated>
+    <id>tag:github.com,2023-09-01:/ihub-pub/plugins</id>
+    <link href="https://github.com/ihub-pub/plugins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of Gradle plug-ins that greatly simplify project management / 一套极大简化项目管理的Gradle插件集&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

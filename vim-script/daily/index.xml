@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-31T01:44:51Z</updated>
+  <updated>2023-09-01T01:44:00Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cstein/dotfiles</title>
-    <updated>2023-08-31T01:44:51Z</updated>
-    <id>tag:github.com,2023-08-31:/cstein/dotfiles</id>
-    <link href="https://github.com/cstein/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My dotfiles for ubuntu 12.04 and various tools&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>myhere/vim-nodejs-complete</title>
-    <updated>2023-08-31T01:44:51Z</updated>
-    <id>tag:github.com,2023-08-31:/myhere/vim-nodejs-complete</id>
-    <link href="https://github.com/myhere/vim-nodejs-complete" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nodejs &#39;omnifunc&#39; function of vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yma/vimconf</title>
+    <updated>2023-09-01T01:44:00Z</updated>
+    <id>tag:github.com,2023-09-01:/yma/vimconf</id>
+    <link href="https://github.com/yma/vimconf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim configuration&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

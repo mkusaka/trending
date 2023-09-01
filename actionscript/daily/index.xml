@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-31T01:23:42Z</updated>
+  <updated>2023-09-01T01:26:13Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Beyamor/vikes-invaders</title>
+    <updated>2023-09-01T01:26:13Z</updated>
+    <id>tag:github.com,2023-09-01:/Beyamor/vikes-invaders</id>
+    <link href="https://github.com/Beyamor/vikes-invaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A single-day jam of a Space Invaders clone&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

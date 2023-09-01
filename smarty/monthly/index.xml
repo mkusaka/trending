@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:20:20Z</updated>
+  <subtitle>Monthly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Shikhar82/springboot-maven-micro</title>
+    <updated>2023-09-01T02:20:20Z</updated>
+    <id>tag:github.com,2023-09-01:/Shikhar82/springboot-maven-micro</id>
+    <link href="https://github.com/Shikhar82/springboot-maven-micro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>apache/skywalking-helm</title>
+    <updated>2023-09-01T02:20:20Z</updated>
+    <id>tag:github.com,2023-09-01:/apache/skywalking-helm</id>
+    <link href="https://github.com/apache/skywalking-helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache SkyWalking Kubernetes Deployment Helm Chart&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>grafana/meta-monitoring-chart</title>
+    <updated>2023-09-01T02:20:20Z</updated>
+    <id>tag:github.com,2023-09-01:/grafana/meta-monitoring-chart</id>
+    <link href="https://github.com/grafana/meta-monitoring-chart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A meta-monitoring chart for GEL, GEM and GET.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

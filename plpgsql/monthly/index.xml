@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PLpgSQL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:16:51Z</updated>
+  <subtitle>Monthly Trending of PLpgSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>manoelcampos/java-postgres-playground</title>
+    <updated>2023-09-01T02:16:51Z</updated>
+    <id>tag:github.com,2023-09-01:/manoelcampos/java-postgres-playground</id>
+    <link href="https://github.com/manoelcampos/java-postgres-playground" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Java / PostgreSQL Playground: servidor Postgres e JDK 17 para construção de aplicações em um container com VSCode no gitpod.io&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

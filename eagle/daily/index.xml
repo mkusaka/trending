@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Eagle Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-08-31T01:27:41Z</updated>
+  <updated>2023-09-01T01:30:19Z</updated>
   <subtitle>Daily Trending of Eagle in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>X13home/X13.hardware</title>
-    <updated>2023-08-31T01:27:41Z</updated>
-    <id>tag:github.com,2023-08-31:/X13home/X13.hardware</id>
-    <link href="https://github.com/X13home/X13.hardware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;X13 Home Hardware Section. Nodes, Gateways, Sensors, others&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

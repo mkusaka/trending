@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:06:48Z</updated>
+  <subtitle>Monthly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pingcap/kvproto</title>
+    <updated>2023-09-01T02:06:48Z</updated>
+    <id>tag:github.com,2023-09-01:/pingcap/kvproto</id>
+    <link href="https://github.com/pingcap/kvproto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Protocol buffer files for TiKV&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>steinbergmedia/vst3_cmake</title>
+    <updated>2023-09-01T02:06:48Z</updated>
+    <id>tag:github.com,2023-09-01:/steinbergmedia/vst3_cmake</id>
+    <link href="https://github.com/steinbergmedia/vst3_cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>autowarefoundation/autoware_msgs</title>
+    <updated>2023-09-01T02:06:48Z</updated>
+    <id>tag:github.com,2023-09-01:/autowarefoundation/autoware_msgs</id>
+    <link href="https://github.com/autowarefoundation/autoware_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

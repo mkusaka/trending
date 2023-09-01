@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:06:42Z</updated>
+  <subtitle>Monthly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bryanesmith/wormj</title>
+    <updated>2023-09-01T02:06:42Z</updated>
+    <id>tag:github.com,2023-09-01:/bryanesmith/wormj</id>
+    <link href="https://github.com/bryanesmith/wormj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure port of BSD game &#34;worm&#34; - the growing worm game.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>itang/cljtang</title>
+    <updated>2023-09-01T02:06:42Z</updated>
+    <id>tag:github.com,2023-09-01:/itang/cljtang</id>
+    <link href="https://github.com/itang/cljtang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;好加糖 itang&#39;s clojure lib&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/matcher-combinators</title>
+    <updated>2023-09-01T02:06:42Z</updated>
+    <id>tag:github.com,2023-09-01:/nubank/matcher-combinators</id>
+    <link href="https://github.com/nubank/matcher-combinators" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for creating matcher combinator to compare nested data structures&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

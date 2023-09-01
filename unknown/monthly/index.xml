@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:04:03Z</updated>
+  <subtitle>Monthly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>awesome-selfhosted/awesome-selfhosted</title>
+    <updated>2023-09-01T02:04:03Z</updated>
+    <id>tag:github.com,2023-09-01:/awesome-selfhosted/awesome-selfhosted</id>
+    <link href="https://github.com/awesome-selfhosted/awesome-selfhosted" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of Free Software network services and web applications which can be hosted on your own servers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>steven2358/awesome-generative-ai</title>
+    <updated>2023-09-01T02:04:03Z</updated>
+    <id>tag:github.com,2023-09-01:/steven2358/awesome-generative-ai</id>
+    <link href="https://github.com/steven2358/awesome-generative-ai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of modern Generative Artificial Intelligence projects and services&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kuchin/awesome-cto</title>
+    <updated>2023-09-01T02:04:03Z</updated>
+    <id>tag:github.com,2023-09-01:/kuchin/awesome-cto</id>
+    <link href="https://github.com/kuchin/awesome-cto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

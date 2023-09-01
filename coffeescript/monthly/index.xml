@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:06:54Z</updated>
+  <subtitle>Monthly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>s-bayer/lendabook</title>
+    <updated>2023-09-01T02:06:54Z</updated>
+    <id>tag:github.com,2023-09-01:/s-bayer/lendabook</id>
+    <link href="https://github.com/s-bayer/lendabook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lend books from people near you&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>triptec/derby-tutorial</title>
+    <updated>2023-09-01T02:06:54Z</updated>
+    <id>tag:github.com,2023-09-01:/triptec/derby-tutorial</id>
+    <link href="https://github.com/triptec/derby-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Derby(derbyjs.com) tutorial (the making of snippster.io)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>freewil/mybootstrap</title>
+    <updated>2023-09-01T02:06:54Z</updated>
+    <id>tag:github.com,2023-09-01:/freewil/mybootstrap</id>
+    <link href="https://github.com/freewil/mybootstrap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

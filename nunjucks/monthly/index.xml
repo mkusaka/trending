@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nunjucks Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:15:26Z</updated>
+  <subtitle>Monthly Trending of Nunjucks in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bigskysoftware/hypermedia-systems</title>
+    <updated>2023-09-01T02:15:26Z</updated>
+    <id>tag:github.com,2023-09-01:/bigskysoftware/hypermedia-systems</id>
+    <link href="https://github.com/bigskysoftware/hypermedia-systems" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A book on building Hypermedia Driven Applications with htmx and Hyperview&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hideckies/exploit-notes</title>
+    <updated>2023-09-01T02:15:26Z</updated>
+    <id>tag:github.com,2023-09-01:/hideckies/exploit-notes</id>
+    <link href="https://github.com/hideckies/exploit-notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sticky notes for pentesting.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

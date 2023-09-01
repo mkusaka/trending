@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-01T02:14:11Z</updated>
+  <subtitle>Monthly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DHDAXCW/OpenWRT_x86_x64</title>
+    <updated>2023-09-01T02:14:11Z</updated>
+    <id>tag:github.com,2023-09-01:/DHDAXCW/OpenWRT_x86_x64</id>
+    <link href="https://github.com/DHDAXCW/OpenWRT_x86_x64" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 lede 源码建构 x86 的 OpenWrt 固件。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>markbates/errx</title>
+    <updated>2023-09-01T02:14:11Z</updated>
+    <id>tag:github.com,2023-09-01:/markbates/errx</id>
+    <link href="https://github.com/markbates/errx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lightstep/lightstep-tracer-common</title>
+    <updated>2023-09-01T02:14:11Z</updated>
+    <id>tag:github.com,2023-09-01:/lightstep/lightstep-tracer-common</id>
+    <link href="https://github.com/lightstep/lightstep-tracer-common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Files shared by most or all of the Lightstep tracer implementations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
