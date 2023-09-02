@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-01T01:44:02Z</updated>
+  <updated>2023-09-02T01:41:09Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yifanjiang/lo_ooxml_wintool</title>
-    <updated>2023-09-01T01:44:02Z</updated>
-    <id>tag:github.com,2023-09-01:/yifanjiang/lo_ooxml_wintool</id>
-    <link href="https://github.com/yifanjiang/lo_ooxml_wintool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;windows tool for libreoffice ooxml testing, mostly for generating reference documents automatically from a single sample file.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

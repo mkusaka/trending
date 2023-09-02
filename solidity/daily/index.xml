@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-01T01:42:12Z</updated>
+  <updated>2023-09-02T01:39:08Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hashgraph/hedera-improvement-proposal</title>
-    <updated>2023-09-01T01:42:12Z</updated>
-    <id>tag:github.com,2023-09-01:/hashgraph/hedera-improvement-proposal</id>
-    <link href="https://github.com/hashgraph/hedera-improvement-proposal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hedera Improvement Proposal&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Synthetixio/external-nodes</title>
-    <updated>2023-09-01T01:42:12Z</updated>
-    <id>tag:github.com,2023-09-01:/Synthetixio/external-nodes</id>
-    <link href="https://github.com/Synthetixio/external-nodes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

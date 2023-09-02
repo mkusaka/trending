@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-01T01:43:06Z</updated>
+  <updated>2023-09-02T01:40:09Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MaCFP/macfp-db</title>
+    <updated>2023-09-02T01:40:09Z</updated>
+    <id>tag:github.com,2023-09-02:/MaCFP/macfp-db</id>
+    <link href="https://github.com/MaCFP/macfp-db" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Measurement and Computation of Fire Phenomena Database&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;macfp-db&lt;/h1&gt; &#xA;&lt;p&gt;Measurement and Computation of Fire Phenomena Database&lt;/p&gt; &#xA;&lt;p&gt;Welcome to the MaCFP database!&lt;/p&gt; &#xA;&lt;p&gt;The central objective of the MaCFP working group is to target fundamental progress in fire science and to advance predictive fire modeling. The purpose of this database is to host high-quality experimental data for the purpose of validating physics-based fire models. The working group meets before the &lt;a href=&#34;http://www.iafss.org/&#34;&gt;IAFSS&lt;/a&gt; conference currently held every three years.&lt;/p&gt; &#xA;&lt;p&gt;In preparation for MaCFP-3, please read the following:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/MaCFP/macfp-db/wiki/MaCFP-2023-Modeling-Guidelines&#34;&gt;Modeling Guidelines for the MaCFP 2023 Workshop&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/MaCFP/macfp-db/wiki/Submitting-Computational-Results&#34;&gt;Submission of Computational Results&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Please visit our &lt;a href=&#34;https://github.com/MaCFP/macfp-db/wiki&#34;&gt;wiki pages&lt;/a&gt; for additional details.&lt;/p&gt; &#xA;&lt;p&gt;Presentations for the MaCFP workshops can be found on the &lt;a href=&#34;https://github.com/MaCFP/macfp-db/releases&#34;&gt;&lt;strong&gt;GitHub Releases&lt;/strong&gt;&lt;/a&gt; page:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/MaCFP/macfp-db/releases/tag/macfp-3.0&#34;&gt;&lt;strong&gt;MaCFP-3 (Tsukuba, 2023)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/MaCFP/macfp-db/releases/tag/macfp-2.0&#34;&gt;&lt;strong&gt;MaCFP-2 (Waterloo, 2021)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/MaCFP/macfp-db/releases/tag/macfp-1.0&#34;&gt;&lt;strong&gt;MaCFP-1 (Lund, 2017)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;If you find problems with the database or if you have suggestions for improvement, please submit an &lt;a href=&#34;https://github.com/MaCFP/macfp-db/issues&#34;&gt;Issue&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-01T01:26:58Z</updated>
+  <updated>2023-09-02T01:24:16Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SeenKid/flipper-zero-bad-usb</title>
+    <updated>2023-09-02T01:24:16Z</updated>
+    <id>tag:github.com,2023-09-02:/SeenKid/flipper-zero-bad-usb</id>
+    <link href="https://github.com/SeenKid/flipper-zero-bad-usb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My collection of BadUSB scripts for the Flipper Zero. By downloading the files, you automatically agree to the license and the specific terms in the ReadMe.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-01T01:41:31Z</updated>
+  <updated>2023-09-02T01:38:14Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dhakalnirajan/Web-Assignment</title>
+    <updated>2023-09-02T01:38:14Z</updated>
+    <id>tag:github.com,2023-09-02:/dhakalnirajan/Web-Assignment</id>
+    <link href="https://github.com/dhakalnirajan/Web-Assignment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for Web Technology - I Assignment Collection&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KubeDev/rotten-potatoes</title>
+    <updated>2023-09-02T01:38:14Z</updated>
+    <id>tag:github.com,2023-09-02:/KubeDev/rotten-potatoes</id>
+    <link href="https://github.com/KubeDev/rotten-potatoes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

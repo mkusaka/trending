@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-01T01:25:43Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-09-02T01:22:59Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>magic-research/magic-edit</title>
-    <updated>2023-09-01T01:25:43Z</updated>
-    <id>tag:github.com,2023-09-01:/magic-research/magic-edit</id>
-    <link href="https://github.com/magic-research/magic-edit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MagicEdit: High-Fidelity Temporally Coherent Video Editing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FlyByCoders/JavaScript-Triangular-Arbitrage-Bot-V4-for-DEXS</title>
+    <updated>2023-09-02T01:22:59Z</updated>
+    <id>tag:github.com,2023-09-02:/FlyByCoders/JavaScript-Triangular-Arbitrage-Bot-V4-for-DEXS</id>
+    <link href="https://github.com/FlyByCoders/JavaScript-Triangular-Arbitrage-Bot-V4-for-DEXS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Save time and maximize your profits with our JavaScript bot that performs Triangular Arbitrage on DEX&#39;s. Open-source and easy to use, start trading smarter.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aws-ia/terraform-aws-eks-blueprints</title>
-    <updated>2023-09-01T01:25:43Z</updated>
-    <id>tag:github.com,2023-09-01:/aws-ia/terraform-aws-eks-blueprints</id>
-    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Configure and deploy complete EKS clusters.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>magic-research/magic-avatar</title>
+    <updated>2023-09-02T01:22:59Z</updated>
+    <id>tag:github.com,2023-09-02:/magic-research/magic-avatar</id>
+    <link href="https://github.com/magic-research/magic-avatar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MagicAvatar: Multimodal Avatar Generation and Animation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CoderRonX/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEXs</title>
-    <updated>2023-09-01T01:25:43Z</updated>
-    <id>tag:github.com,2023-09-01:/CoderRonX/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEXs</id>
-    <link href="https://github.com/CoderRonX/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEXs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Get ahead of the game with our 100% JavaScript bot that performs Triangular Arbitrage on DEX&#39;s. Open-source and reliable, start earning more today!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>connext/community-sybil-reports</title>
+    <updated>2023-09-02T01:22:59Z</updated>
+    <id>tag:github.com,2023-09-02:/connext/community-sybil-reports</id>
+    <link href="https://github.com/connext/community-sybil-reports" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-01T01:28:30Z</updated>
+  <updated>2023-09-02T01:25:35Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Frozenlock/Bacnet-logger</title>
-    <updated>2023-09-01T01:28:30Z</updated>
-    <id>tag:github.com,2023-09-01:/Frozenlock/Bacnet-logger</id>
-    <link href="https://github.com/Frozenlock/Bacnet-logger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;scan a BACnet network at regulvar interval&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sorenmacbeth/deoptim</title>
+    <updated>2023-09-02T01:25:35Z</updated>
+    <id>tag:github.com,2023-09-02:/sorenmacbeth/deoptim</id>
+    <link href="https://github.com/sorenmacbeth/deoptim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Differential Evolution Optimizer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

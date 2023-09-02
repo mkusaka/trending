@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-01T01:42:01Z</updated>
+  <updated>2023-09-02T01:38:58Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>npci/falcon</title>
-    <updated>2023-09-01T01:42:01Z</updated>
-    <id>tag:github.com,2023-09-01:/npci/falcon</id>
-    <link href="https://github.com/npci/falcon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Falcon: The Hyperledger Fabric Deployment Helper for Kubernetes is an open-source project designed to streamline the deployment and management of Hyperledger Fabric based blockchain networks on K8.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stacksimplify/helm-charts-repo</title>
-    <updated>2023-09-01T01:42:01Z</updated>
-    <id>tag:github.com,2023-09-01:/stacksimplify/helm-charts-repo</id>
-    <link href="https://github.com/stacksimplify/helm-charts-repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm Charts Repository on GitHub&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>isovalent/olm-for-cilium</title>
+    <updated>2023-09-02T01:38:58Z</updated>
+    <id>tag:github.com,2023-09-02:/isovalent/olm-for-cilium</id>
+    <link href="https://github.com/isovalent/olm-for-cilium" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenShift Operator Lifecycle Manager for Cilium&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

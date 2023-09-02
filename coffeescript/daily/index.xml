@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-01T01:28:42Z</updated>
+  <updated>2023-09-02T01:25:45Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>appleboy/html5-template-engine</title>
+    <updated>2023-09-02T01:25:45Z</updated>
+    <id>tag:github.com,2023-09-02:/appleboy/html5-template-engine</id>
+    <link href="https://github.com/appleboy/html5-template-engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;html5 template engine with CoffeeScript, Compass, RequireJS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>helgoboss/iota-observable</title>
+    <updated>2023-09-02T01:25:45Z</updated>
+    <id>tag:github.com,2023-09-02:/helgoboss/iota-observable</id>
+    <link href="https://github.com/helgoboss/iota-observable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Observable JS objects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

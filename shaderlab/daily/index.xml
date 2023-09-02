@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-01T01:41:35Z</updated>
+  <updated>2023-09-02T01:38:17Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>UHDON/What_is_this</title>
-    <updated>2023-09-01T01:41:35Z</updated>
-    <id>tag:github.com,2023-09-01:/UHDON/What_is_this</id>
-    <link href="https://github.com/UHDON/What_is_this" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DiegoCF8377/CIBRUC_CR_Juego</title>
+    <updated>2023-09-02T01:38:17Z</updated>
+    <id>tag:github.com,2023-09-02:/DiegoCF8377/CIBRUC_CR_Juego</id>
+    <link href="https://github.com/DiegoCF8377/CIBRUC_CR_Juego" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Juego de carreras para CIBRUC en Unity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

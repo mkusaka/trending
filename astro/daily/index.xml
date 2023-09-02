@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-01T01:26:44Z</updated>
+  <updated>2023-09-02T01:24:00Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kbujari/kleidi.ca</title>
-    <updated>2023-09-01T01:26:44Z</updated>
-    <id>tag:github.com,2023-09-01:/kbujari/kleidi.ca</id>
-    <link href="https://github.com/kbujari/kleidi.ca" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Personal website and blog made with Astro/TailwindCSS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CircleCI-Public/Config.Tips</title>
+    <updated>2023-09-02T01:24:00Z</updated>
+    <id>tag:github.com,2023-09-02:/CircleCI-Public/Config.Tips</id>
+    <link href="https://github.com/CircleCI-Public/Config.Tips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple sharable config tips for developers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
