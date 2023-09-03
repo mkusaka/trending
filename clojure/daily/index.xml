@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-02T01:25:35Z</updated>
+  <updated>2023-09-03T01:27:52Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sorenmacbeth/deoptim</title>
-    <updated>2023-09-02T01:25:35Z</updated>
-    <id>tag:github.com,2023-09-02:/sorenmacbeth/deoptim</id>
-    <link href="https://github.com/sorenmacbeth/deoptim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Differential Evolution Optimizer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dcmoore/easy-bake-service</title>
+    <updated>2023-09-03T01:27:52Z</updated>
+    <id>tag:github.com,2023-09-03:/dcmoore/easy-bake-service</id>
+    <link href="https://github.com/dcmoore/easy-bake-service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple library that makes it easy to serve data&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

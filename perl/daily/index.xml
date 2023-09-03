@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-02T01:34:41Z</updated>
+  <updated>2023-09-03T01:37:28Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tobyink/p5-string-interpolate-delayed</title>
-    <updated>2023-09-02T01:34:41Z</updated>
-    <id>tag:github.com,2023-09-02:/tobyink/p5-string-interpolate-delayed</id>
-    <link href="https://github.com/tobyink/p5-string-interpolate-delayed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mcsaucy/Shazbot</title>
-    <updated>2023-09-02T01:34:41Z</updated>
-    <id>tag:github.com,2023-09-02:/mcsaucy/Shazbot</id>
-    <link href="https://github.com/mcsaucy/Shazbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Perl IRC bot that accepts Wikipedia, Wolfram|Alpha, and Bit.ly queries and responds accordingly.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bingos/win32-adsienumerations</title>
+    <updated>2023-09-03T01:37:28Z</updated>
+    <id>tag:github.com,2023-09-03:/bingos/win32-adsienumerations</id>
+    <link href="https://github.com/bingos/win32-adsienumerations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(perl) constants for the Active Directory Service Interfaces (ADSI) enumerations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

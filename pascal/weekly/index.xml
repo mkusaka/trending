@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-03T01:57:10Z</updated>
+  <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>FMXExpress/Firemonkey</title>
+    <updated>2023-09-03T01:57:10Z</updated>
+    <id>tag:github.com,2023-09-03:/FMXExpress/Firemonkey</id>
+    <link href="https://github.com/FMXExpress/Firemonkey" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Firemonkey demos in Object Pascal and C++.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BerndGabriel/HtmlViewer</title>
+    <updated>2023-09-03T01:57:10Z</updated>
+    <id>tag:github.com,2023-09-03:/BerndGabriel/HtmlViewer</id>
+    <link href="https://github.com/BerndGabriel/HtmlViewer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The well-known Delphi/Lazarus HtmlViewer/FrameViewer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ying32/htmlparser</title>
+    <updated>2023-09-03T01:57:10Z</updated>
+    <id>tag:github.com,2023-09-03:/ying32/htmlparser</id>
+    <link href="https://github.com/ying32/htmlparser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;delphi html parser（代码是改自原wr960204的HtmlParser）&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

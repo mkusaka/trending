@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-03T01:55:19Z</updated>
+  <subtitle>Weekly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WenzheLiu-Speech/sound-source-localization-algorithm_DOA_estimation</title>
+    <updated>2023-09-03T01:55:19Z</updated>
+    <id>tag:github.com,2023-09-03:/WenzheLiu-Speech/sound-source-localization-algorithm_DOA_estimation</id>
+    <link href="https://github.com/WenzheLiu-Speech/sound-source-localization-algorithm_DOA_estimation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;关于语音信号声源定位DOA估计所用的一些传统算法&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Tracesource/FIMVC-VIA</title>
+    <updated>2023-09-03T01:55:19Z</updated>
+    <id>tag:github.com,2023-09-03:/Tracesource/FIMVC-VIA</id>
+    <link href="https://github.com/Tracesource/FIMVC-VIA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code of &#34;Fast Incomplete Multi-view Clustering with View-independent Anchors&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jinyeying/S-Aware-network</title>
+    <updated>2023-09-03T01:55:19Z</updated>
+    <id>tag:github.com,2023-09-03:/jinyeying/S-Aware-network</id>
+    <link href="https://github.com/jinyeying/S-Aware-network" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[AAAI23] Estimating Reflectance Layer from A Single Image: Integrating Reflectance Guidance and Shadow/Specular Aware Learning, https://arxiv.org/abs/2211.14751&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

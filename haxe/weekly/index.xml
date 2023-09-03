@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haxe Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-03T01:51:19Z</updated>
+  <subtitle>Weekly Trending of Haxe in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wighawag/wighawag-gpu</title>
+    <updated>2023-09-03T01:51:19Z</updated>
+    <id>tag:github.com,2023-09-03:/wighawag/wighawag-gpu</id>
+    <link href="https://github.com/wighawag/wighawag-gpu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;gpu-based renderer based on Stage3D API in NME&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>larsiusprime/haxe-flx-ui</title>
+    <updated>2023-09-03T01:51:19Z</updated>
+    <id>tag:github.com,2023-09-03:/larsiusprime/haxe-flx-ui</id>
+    <link href="https://github.com/larsiusprime/haxe-flx-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FlxUI - GUI library for Haxe+Flixel&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;This Project is DEPRECATED.&lt;/h1&gt; &#xA;&lt;p&gt;haxe-flx-ui has been renamed to flixel-ui and is now part of the &lt;a href=&#34;https://github.com/HaxeFlixel/&#34;&gt;official HaxeFlixel repositories&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;You can find the new project here: &lt;a href=&#34;https://github.com/HaxeFlixel/flixel-ui/&#34;&gt;flixel-ui&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+</feed>

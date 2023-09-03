@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-02T01:39:30Z</updated>
+  <updated>2023-09-03T01:42:01Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0xDjole/super-navigation</title>
-    <updated>2023-09-02T01:39:30Z</updated>
-    <id>tag:github.com,2023-09-02:/0xDjole/super-navigation</id>
-    <link href="https://github.com/0xDjole/super-navigation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kind-0/packages</title>
-    <updated>2023-09-02T01:39:30Z</updated>
-    <id>tag:github.com,2023-09-02:/kind-0/packages</id>
-    <link href="https://github.com/kind-0/packages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Monorepo with packages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>huntabyte/bits-ui</title>
+    <updated>2023-09-03T01:42:01Z</updated>
+    <id>tag:github.com,2023-09-03:/huntabyte/bits-ui</id>
+    <link href="https://github.com/huntabyte/bits-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Headless Svelte components built on top of Melt UI. 🚀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

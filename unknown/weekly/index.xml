@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-03T01:44:32Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>microsoft/python-in-excel</title>
+    <updated>2023-09-03T01:44:32Z</updated>
+    <id>tag:github.com,2023-09-03:/microsoft/python-in-excel</id>
+    <link href="https://github.com/microsoft/python-in-excel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python in Microsoft Excel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Eltirosto/Degrees-of-Lewdity-Chinese-Localization</title>
+    <updated>2023-09-03T01:44:32Z</updated>
+    <id>tag:github.com,2023-09-03:/Eltirosto/Degrees-of-Lewdity-Chinese-Localization</id>
+    <link href="https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Degrees of Lewdity 游戏的授权中文社区本地化版本&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eddlez/litiaotiao_package_backup</title>
+    <updated>2023-09-03T01:44:32Z</updated>
+    <id>tag:github.com,2023-09-03:/eddlez/litiaotiao_package_backup</id>
+    <link href="https://github.com/eddlez/litiaotiao_package_backup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;李跳跳APK包备份&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

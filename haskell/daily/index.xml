@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-02T01:29:11Z</updated>
+  <updated>2023-09-03T01:31:52Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TU-CSCI2322-FL23/workspace-11-30</title>
+    <updated>2023-09-03T01:31:52Z</updated>
+    <id>tag:github.com,2023-09-03:/TU-CSCI2322-FL23/workspace-11-30</id>
+    <link href="https://github.com/TU-CSCI2322-FL23/workspace-11-30" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;workspace-11-30 created by GitHub Classroom&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TU-CSCI2322-FL23/workspace-12-30</title>
+    <updated>2023-09-03T01:31:52Z</updated>
+    <id>tag:github.com,2023-09-03:/TU-CSCI2322-FL23/workspace-12-30</id>
+    <link href="https://github.com/TU-CSCI2322-FL23/workspace-12-30" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;workspace-12-30 created by GitHub Classroom&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>snoyberg/markdown</title>
+    <updated>2023-09-03T01:31:52Z</updated>
+    <id>tag:github.com,2023-09-03:/snoyberg/markdown</id>
+    <link href="https://github.com/snoyberg/markdown" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convert Markdown to HTML, with XSS protection&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Markdown for haskell&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt; This package is deprecated and no longer supported. Instead, please consider using &lt;a href=&#34;https://www.stackage.org/package/cmark&#34;&gt;cmark&lt;/a&gt; or &lt;a href=&#34;https://www.stackage.org/package/cmark-gfm&#34;&gt;cmark-gfm&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This is a haskell library for converting markdown to HTML. It&#39;s written in pure haskell. Also read the more technical description on &lt;a href=&#34;https://www.stackage.org/package/markdown&#34;&gt;stackage&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;Use with yesod&lt;/h3&gt; &#xA;&lt;p&gt;For use with yesod, check out &lt;a href=&#34;https://github.com/Tarrasch/yesod-text-markdown&#34;&gt;yesod-text-markdown&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

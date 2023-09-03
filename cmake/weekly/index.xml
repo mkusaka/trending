@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-03T01:47:05Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zerojiu/pro-cmake</title>
+    <updated>2023-09-03T01:47:05Z</updated>
+    <id>tag:github.com,2023-09-03:/zerojiu/pro-cmake</id>
+    <link href="https://github.com/zerojiu/pro-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cmake template for C/C++/Qt Project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-iai/iai_robots</title>
+    <updated>2023-09-03T01:47:05Z</updated>
+    <id>tag:github.com,2023-09-03:/code-iai/iai_robots</id>
+    <link href="https://github.com/code-iai/iai_robots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo holding descriptions and launch-files for robots in the iai lab.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

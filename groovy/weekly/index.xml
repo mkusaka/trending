@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-03T01:51:05Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kiy0taka/jenkins-assembler</title>
+    <updated>2023-09-03T01:51:05Z</updated>
+    <id>tag:github.com,2023-09-03:/kiy0taka/jenkins-assembler</id>
+    <link href="https://github.com/kiy0taka/jenkins-assembler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>clintonhealthaccess/chai-kevin-data</title>
+    <updated>2023-09-03T01:51:05Z</updated>
+    <id>tag:github.com,2023-09-03:/clintonhealthaccess/chai-kevin-data</id>
+    <link href="https://github.com/clintonhealthaccess/chai-kevin-data" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data plugin for Clinton Health Access Initiative projects, DHSST - https://github.com/fterrier/kevin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jdereg/json-io</title>
+    <updated>2023-09-03T01:51:05Z</updated>
+    <id>tag:github.com,2023-09-03:/jdereg/json-io</id>
+    <link href="https://github.com/jdereg/json-io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convert Java to JSON. Convert JSON to Java. Pretty print JSON. Java JSON serializer.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

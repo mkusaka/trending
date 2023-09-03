@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SWIG Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-03T02:01:29Z</updated>
+  <subtitle>Weekly Trending of SWIG in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WiringPi/WiringPi-Python</title>
+    <updated>2023-09-03T02:01:29Z</updated>
+    <id>tag:github.com,2023-09-03:/WiringPi/WiringPi-Python</id>
+    <link href="https://github.com/WiringPi/WiringPi-Python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unofficial Python-wrapped version of Gordon Henderson&#39;s WiringPi version 2.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

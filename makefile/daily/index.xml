@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-02T01:32:31Z</updated>
+  <updated>2023-09-03T01:35:18Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kazuhisya/nodejs-rpm</title>
-    <updated>2023-09-02T01:32:31Z</updated>
-    <id>tag:github.com,2023-09-02:/kazuhisya/nodejs-rpm</id>
-    <link href="https://github.com/kazuhisya/nodejs-rpm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;node.js rpm spec&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alswl/excalidraw-collaboration</title>
+    <updated>2023-09-03T01:35:18Z</updated>
+    <id>tag:github.com,2023-09-03:/alswl/excalidraw-collaboration</id>
+    <link href="https://github.com/alswl/excalidraw-collaboration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;excalidraw with collaboration feature, self-hosting, and only one-click deploy&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

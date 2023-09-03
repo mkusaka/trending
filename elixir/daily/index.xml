@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-02T01:27:27Z</updated>
+  <updated>2023-09-03T01:30:02Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nutshell-lab/meilisearch-ex</title>
-    <updated>2023-09-02T01:27:27Z</updated>
-    <id>tag:github.com,2023-09-02:/nutshell-lab/meilisearch-ex</id>
-    <link href="https://github.com/nutshell-lab/meilisearch-ex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Meilisearch 1.x client for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-02T01:32:36Z</updated>
+  <updated>2023-09-03T01:35:24Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>eleev/soft-skills</title>
-    <updated>2023-09-02T01:32:36Z</updated>
-    <id>tag:github.com,2023-09-02:/eleev/soft-skills</id>
-    <link href="https://github.com/eleev/soft-skills" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🍦List of Soft Skills for software engineers/developers.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>shu-cake1salie/SHU-Cyberspace-Security-101</title>
-    <updated>2023-09-02T01:32:36Z</updated>
-    <id>tag:github.com,2023-09-02:/shu-cake1salie/SHU-Cyberspace-Security-101</id>
-    <link href="https://github.com/shu-cake1salie/SHU-Cyberspace-Security-101" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;上海大学网络空间安全专业指南&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>saveweb/general-writing-laws</title>
+    <updated>2023-09-03T01:35:24Z</updated>
+    <id>tag:github.com,2023-09-03:/saveweb/general-writing-laws</id>
+    <link href="https://github.com/saveweb/general-writing-laws" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Writing specifications, and multi-language mixed arrangement and modularization.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

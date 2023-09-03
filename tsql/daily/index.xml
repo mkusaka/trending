@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-02T01:40:28Z</updated>
+  <updated>2023-09-03T01:42:50Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>happyadam73/tsql-chatgpt</title>
-    <updated>2023-09-02T01:40:28Z</updated>
-    <id>tag:github.com,2023-09-02:/happyadam73/tsql-chatgpt</id>
-    <link href="https://github.com/happyadam73/tsql-chatgpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;T-SQL based ChatGPT integration for Azure SQL Database. Query your data with Natural Language, automatically generate SQL, produce documentation for database objects, generate test data, and create tSQLt Unit Test stored procedures through a natural language interface.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

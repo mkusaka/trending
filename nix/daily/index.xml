@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-02T01:33:34Z</updated>
+  <updated>2023-09-03T01:36:21Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jeffrey-l-turner/CPSC-370_BTC_derivates_AI_Chapman</title>
-    <updated>2023-09-02T01:33:34Z</updated>
-    <id>tag:github.com,2023-09-02:/jeffrey-l-turner/CPSC-370_BTC_derivates_AI_Chapman</id>
-    <link href="https://github.com/jeffrey-l-turner/CPSC-370_BTC_derivates_AI_Chapman" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo for University testnet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>accelbread/flakelight</title>
+    <updated>2023-09-03T01:36:21Z</updated>
+    <id>tag:github.com,2023-09-03:/accelbread/flakelight</id>
+    <link href="https://github.com/accelbread/flakelight" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Framework for simplifying flake setup&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DeterminateSystems/flake-schemas</title>
+    <updated>2023-09-03T01:36:21Z</updated>
+    <id>tag:github.com,2023-09-03:/DeterminateSystems/flake-schemas</id>
+    <link href="https://github.com/DeterminateSystems/flake-schemas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Schemas for common flake output types&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

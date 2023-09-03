@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-03T01:56:29Z</updated>
+  <subtitle>Weekly Trending of Objective-C in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>google/interop-ios-for-google-sdks</title>
+    <updated>2023-09-03T01:56:29Z</updated>
+    <id>tag:github.com,2023-09-03:/google/interop-ios-for-google-sdks</id>
+    <link href="https://github.com/google/interop-ios-for-google-sdks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Google-internal interfaces that allow Google SDKs to reliably interoperate with one another via weak dependencies.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Interop Libraries for Google SDKs on Apple Platforms&lt;/h1&gt; &#xA;&lt;p&gt;This repository is for internal Google use only.&lt;/p&gt; &#xA;&lt;p&gt;This repository contains interfaces (Objective-C or Swift Protocols) that allow Google SDKs, for Apple platforms, to reliably interoperate with one another via weak dependencies. These interfaces enable Google SDKs to depend on the features of another Google SDK while optionally installing the dependent SDK only if specified by the client.&lt;/p&gt; &#xA;&lt;h2&gt;Versioning&lt;/h2&gt; &#xA;&lt;p&gt;The major version of this SDK should always be 100. When a new interface is added, the minor version should be incremented. Clients should always enable minor version updates from the required minimum required minor version, &lt;code&gt;100.x&lt;/code&gt;, e.g.:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Swift Package Manager: &lt;code&gt;&#34;100.x&#34; ..&amp;lt; &#34;101.0&#34;&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;CocoaPods: &lt;code&gt;&#39;~100.x&#39;&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;If a breaking change is ever required, it should be done by renaming the library to a new name in this repo.&lt;/p&gt; &#xA;&lt;h2&gt;Support&lt;/h2&gt; &#xA;&lt;p&gt;Please file issues or request support for the following SDKs rather than directly in this repository:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;RecaptchaInterop&lt;/code&gt;: &lt;a href=&#34;https://cloud.google.com/recaptcha-enterprise/docs/getting-support&#34;&gt;reCAPTCHA Enterprise&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://raw.githubusercontent.com/google/interop-ios-for-google-sdks/main/CONTRIBUTING.md&#34;&gt;Contributing&lt;/a&gt; for more information on contributing to the project.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;The contents of this repository is licensed under the &lt;a href=&#34;http://www.apache.org/licenses/LICENSE-2.0&#34;&gt;Apache License, version 2.0&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+</feed>

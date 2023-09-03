@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-02T01:24:03Z</updated>
+  <updated>2023-09-03T01:26:03Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cj7hawk/LokiOS</title>
-    <updated>2023-09-02T01:24:03Z</updated>
-    <id>tag:github.com,2023-09-02:/cj7hawk/LokiOS</id>
-    <link href="https://github.com/cj7hawk/LokiOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern version of CP/M written as a compatible OS to CP/M 2.2 written from scratch in z80 Assembly - Created in the same way DOS was.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

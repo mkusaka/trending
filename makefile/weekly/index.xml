@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-03T01:55:08Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>awesome-selfhosted/awesome-selfhosted-data</title>
+    <updated>2023-09-03T01:55:08Z</updated>
+    <id>tag:github.com,2023-09-03:/awesome-selfhosted/awesome-selfhosted-data</id>
+    <link href="https://github.com/awesome-selfhosted/awesome-selfhosted-data" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;machine-readable data for https://awesome-selfhosted.net&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pilvikala/c-goof</title>
+    <updated>2023-09-03T01:55:08Z</updated>
+    <id>tag:github.com,2023-09-03:/pilvikala/c-goof</id>
+    <link href="https://github.com/pilvikala/c-goof" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vulnerable C++ project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fairyly/mynodejs</title>
+    <updated>2023-09-03T01:55:08Z</updated>
+    <id>tag:github.com,2023-09-03:/fairyly/mynodejs</id>
+    <link href="https://github.com/fairyly/mynodejs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nodejs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

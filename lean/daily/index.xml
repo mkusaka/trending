@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-02T01:31:51Z</updated>
+  <updated>2023-09-03T01:34:40Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mhuisi/lean4-cli</title>
-    <updated>2023-09-02T01:31:51Z</updated>
-    <id>tag:github.com,2023-09-02:/mhuisi/lean4-cli</id>
-    <link href="https://github.com/mhuisi/lean4-cli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

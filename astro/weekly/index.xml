@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-03T01:45:23Z</updated>
+  <subtitle>Weekly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>danielcgilibert/blog-template</title>
+    <updated>2023-09-03T01:45:23Z</updated>
+    <id>tag:github.com,2023-09-03:/danielcgilibert/blog-template</id>
+    <link href="https://github.com/danielcgilibert/blog-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO, and performance.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

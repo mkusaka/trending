@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-02T01:24:00Z</updated>
+  <updated>2023-09-03T01:26:06Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CircleCI-Public/Config.Tips</title>
-    <updated>2023-09-02T01:24:00Z</updated>
-    <id>tag:github.com,2023-09-02:/CircleCI-Public/Config.Tips</id>
-    <link href="https://github.com/CircleCI-Public/Config.Tips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple sharable config tips for developers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>m6v3l9/astro-theme-stone</title>
+    <updated>2023-09-03T01:26:06Z</updated>
+    <id>tag:github.com,2023-09-03:/m6v3l9/astro-theme-stone</id>
+    <link href="https://github.com/m6v3l9/astro-theme-stone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stone is a free and open-source Astro theme specially designed for Business, Marketing, SaaS and Startup websites.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
