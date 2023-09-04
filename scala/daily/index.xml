@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-03T01:40:37Z</updated>
+  <updated>2023-09-04T01:40:10Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FederatedAI/eggroll</title>
-    <updated>2023-09-03T01:40:37Z</updated>
-    <id>tag:github.com,2023-09-03:/FederatedAI/eggroll</id>
-    <link href="https://github.com/FederatedAI/eggroll" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Simple High Performance Computing Framework for [Federated] Machine Learning&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/WeBankFinTech/eggroll&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/FederatedAI/eggroll/main/logo.png&#34; align=&#34;center&#34; alt=&#34;drawing&#34; width=&#34;800&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://opensource.org/licenses/Apache-2.0&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/License-Apache%202.0-blue.svg?sanitize=true&#34; alt=&#34;License&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://checkstyle.sourceforge.io/google_style.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Check%20Style-Google-brightgreen&#34; alt=&#34;CodeStyle&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/mmyjona/FATE-Serving/pulls&#34;&gt;&lt;img src=&#34;https://img.shields.io/endpoint?url=https%3A%2F%2Fscan.sbrella.com%2Fadmin%2Fapi%2Fv1%2Fpinpoint%2Fshield%2FWeBankFinTech%2Feggroll&#34; alt=&#34;Pinpoint Satellite&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://checkstyle.sourceforge.io/google_style.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Check%20Style-Black-black&#34; alt=&#34;Style&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;A Simple High Performance Computing Framework for [Federated] Machine Learning&lt;/p&gt; &#xA;&lt;h2&gt;Building and Deploying Eggroll&lt;/h2&gt; &#xA;&lt;p&gt;You can check the deploy document here:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/WeBankFinTech/eggroll/raw/v2.x/deploy/Eggroll%20Deployment%20Guide.md&#34;&gt;English&lt;/a&gt; &lt;a href=&#34;https://github.com/WeBankFinTech/eggroll/raw/v2.x/deploy/Eggroll%E9%83%A8%E7%BD%B2%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E.md&#34;&gt;简体中文&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Running Tests&lt;/h2&gt; &#xA;&lt;p&gt;Testing requires Eggroll having been built and deployed. Once it is completed, you can try the example test cases:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;&#xA;# standalone mode&#xA;python -m unittest eggroll.roll_pair.test.test_roll_pair.TestRollPairStandalone&#xA;&#xA;# cluster mode&#xA;python -m unittest eggroll.roll_pair.test.test_roll_pair.TestRollPairCluster&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Special thanks to:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.ej-technologies.com/products/jprofiler/overview.html&#34;&gt;&lt;img src=&#34;https://www.ej-technologies.com/images/product_banners/jprofiler_small.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>YoshikuniJujo/lojbanGismuThesaurus</title>
+    <updated>2023-09-04T01:40:10Z</updated>
+    <id>tag:github.com,2023-09-04:/YoshikuniJujo/lojbanGismuThesaurus</id>
+    <link href="https://github.com/YoshikuniJujo/lojbanGismuThesaurus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;lojban gismu thesaurus&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

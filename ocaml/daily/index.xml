@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-03T01:36:54Z</updated>
+  <updated>2023-09-04T01:36:39Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>paurkedal/ocaml-caqti</title>
-    <updated>2023-09-03T01:36:54Z</updated>
-    <id>tag:github.com,2023-09-03:/paurkedal/ocaml-caqti</id>
-    <link href="https://github.com/paurkedal/ocaml-caqti" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cooperative-threaded access to relational data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ToposInstitute/polytt</title>
-    <updated>2023-09-03T01:36:54Z</updated>
-    <id>tag:github.com,2023-09-03:/ToposInstitute/polytt</id>
-    <link href="https://github.com/ToposInstitute/polytt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A type theory with native support for Polynomial Functors.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

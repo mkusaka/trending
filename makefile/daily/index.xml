@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-03T01:35:18Z</updated>
+  <updated>2023-09-04T01:35:09Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alswl/excalidraw-collaboration</title>
-    <updated>2023-09-03T01:35:18Z</updated>
-    <id>tag:github.com,2023-09-03:/alswl/excalidraw-collaboration</id>
-    <link href="https://github.com/alswl/excalidraw-collaboration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;excalidraw with collaboration feature, self-hosting, and only one-click deploy&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MartinHeinz/python-project-blueprint</title>
+    <updated>2023-09-04T01:35:09Z</updated>
+    <id>tag:github.com,2023-09-04:/MartinHeinz/python-project-blueprint</id>
+    <link href="https://github.com/MartinHeinz/python-project-blueprint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blueprint/Boilerplate For Python Projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

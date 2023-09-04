@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-03T01:28:53Z</updated>
+  <updated>2023-09-04T01:29:15Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>abuanwar072/Flutter-Course-Amplify-Recipe-App</title>
+    <updated>2023-09-04T01:29:15Z</updated>
+    <id>tag:github.com,2023-09-04:/abuanwar072/Flutter-Course-Amplify-Recipe-App</id>
+    <link href="https://github.com/abuanwar072/Flutter-Course-Amplify-Recipe-App" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Welcome to our Complete Flutter Course. If you&#39;ve been searching for the best Flutter course online, look no further. This comprehensive guide will not only teach you the basics but will elevate your Flutter skills to the next level.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Complete Flutter Course: Take Your Flutter Skills to the Next Level for FREE!&lt;/h1&gt; &#xA;&lt;p&gt;Welcome to our Complete Flutter Course. If you&#39;ve been searching for the best Flutter course online, look no further. This comprehensive guide will not only teach you the basics but will elevate your Flutter skills to the next level.&lt;/p&gt; &#xA;&lt;h3&gt;&lt;a href=&#34;https://youtu.be/2j5ONMbX7xE&#34;&gt;Watch the full course on YouTube for FREE!&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;p&gt;This is your one-stop spot to master on:&lt;br&gt; 📁 Project Structure &lt;br&gt; 🔐 Email &amp;amp; Social Logins &lt;br&gt; 🔔 Push Notifications &lt;br&gt; 🛠 CRUD Operations &lt;br&gt; ☁️ AWSAmplify &lt;br&gt; ...and that&#39;s just scratching the surface! We cover many more advanced topics to give you an edge in Flutter app development.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Useful links:&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://gist.github.com/salihgueler/e9be9fa6cc9ece30ba05764146850f74&#34;&gt;🔗 Function link: &lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://gist.github.com/salihgueler/2b44dd5494bdbfbd288a033af21bff9d&#34;&gt;🔗 Custom policy:&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://cutt.ly/PwkRT3yZ&#34;&gt;🔥 Complate source code:&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/amplify/&#34;&gt;☁️ AWS Amplify:&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://docs.amplify.aws/lib/q/platform/flutter/&#34;&gt;📄 AWS Amplify Doc:&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;👨‍💻 Instructor:&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;Muhammed Salih Guler (Sr. Dev Advocate at AWS Amplify | Flutter/Dart GDE) &lt;br&gt; Follow him on &lt;a href=&#34;https://twitter.com/salihgueler&#34;&gt;Twitter&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.linkedin.com/in/salihgueler/&#34;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

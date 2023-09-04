@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-03T01:31:43Z</updated>
+  <updated>2023-09-04T01:32:14Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tiagotecinternet23/exercicio-php-crud</title>
-    <updated>2023-09-03T01:31:43Z</updated>
-    <id>tag:github.com,2023-09-03:/tiagotecinternet23/exercicio-php-crud</id>
-    <link href="https://github.com/tiagotecinternet23/exercicio-php-crud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercício de CRUD com PHP e SQL&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

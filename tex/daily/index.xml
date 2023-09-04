@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-03T01:42:32Z</updated>
+  <updated>2023-09-04T01:41:52Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kekesh/CMSC131</title>
-    <updated>2023-09-03T01:42:32Z</updated>
-    <id>tag:github.com,2023-09-03:/kekesh/CMSC131</id>
-    <link href="https://github.com/kekesh/CMSC131" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Course notes for CMSC 131: Object Oriented Programming I&lt;/p&gt;&lt;hr&gt;&lt;p&gt;These are lecture notes for Fall 2019&#39;s CMSC 131: Object Oriented Programming I course. Any errors are my own responsibility. I was not enrolled in this course; I wrote these notes as a TA.&lt;/p&gt; &#xA;&lt;p&gt;Please let me know about any mistakes at &lt;a href=&#34;mailto:ekumar1@terpmail.umd.edu&#34;&gt;ekumar1@terpmail.umd.edu&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Acknowledgements:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;The code examples in the PDF were provided by Professor Nelson Padua-Perez (&lt;a href=&#34;http://www.cs.umd.edu/~nelson/&#34;&gt;http://www.cs.umd.edu/~nelson/&lt;/a&gt;).&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;LaTeX style file (evan.sty) created by &lt;a href=&#34;https://github.com/vEnhance&#34;&gt;https://github.com/vEnhance&lt;/a&gt;.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
