@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AGS Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-04T01:26:23Z</updated>
+  <updated>2023-09-05T01:22:41Z</updated>
   <subtitle>Daily Trending of AGS Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dwrensha/acronymy-assistant</title>
-    <updated>2023-09-04T01:26:23Z</updated>
-    <id>tag:github.com,2023-09-04:/dwrensha/acronymy-assistant</id>
-    <link href="https://github.com/dwrensha/acronymy-assistant" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;interactive backronym composition tool&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

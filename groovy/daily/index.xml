@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-04T01:32:10Z</updated>
+  <updated>2023-09-05T01:28:38Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>passy/build-time-tracker-plugin</title>
+    <updated>2023-09-05T01:28:38Z</updated>
+    <id>tag:github.com,2023-09-05:/passy/build-time-tracker-plugin</id>
+    <link href="https://github.com/passy/build-time-tracker-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin to continuously track and report your build times&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

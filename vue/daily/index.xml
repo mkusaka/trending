@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-04T01:42:53Z</updated>
+  <updated>2023-09-05T01:40:27Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>congzhen/cm_file_collectors</title>
+    <updated>2023-09-05T01:40:27Z</updated>
+    <id>tag:github.com,2023-09-05:/congzhen/cm_file_collectors</id>
+    <link href="https://github.com/congzhen/cm_file_collectors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A program for managing local videos&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dullage/flatnotes</title>
+    <updated>2023-09-05T01:40:27Z</updated>
+    <id>tag:github.com,2023-09-05:/dullage/flatnotes</id>
+    <link href="https://github.com/dullage/flatnotes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

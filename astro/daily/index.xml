@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-04T01:26:52Z</updated>
+  <updated>2023-09-05T01:23:12Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hdadsanisidroalcazar/web-san-isidro</title>
+    <updated>2023-09-05T01:23:12Z</updated>
+    <id>tag:github.com,2023-09-05:/hdadsanisidroalcazar/web-san-isidro</id>
+    <link href="https://github.com/hdadsanisidroalcazar/web-san-isidro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

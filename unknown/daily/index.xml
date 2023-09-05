@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-04T01:26:05Z</updated>
+  <updated>2023-09-05T01:22:14Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>luban-agi/Awesome-AIGC-Tutorials</title>
-    <updated>2023-09-04T01:26:05Z</updated>
-    <id>tag:github.com,2023-09-04:/luban-agi/Awesome-AIGC-Tutorials</id>
-    <link href="https://github.com/luban-agi/Awesome-AIGC-Tutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated tutorials and resources for Large Language Models, AI Painting, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SimplifyJobs/New-Grad-Positions</title>
+    <updated>2023-09-05T01:22:14Z</updated>
+    <id>tag:github.com,2023-09-05:/SimplifyJobs/New-Grad-Positions</id>
+    <link href="https://github.com/SimplifyJobs/New-Grad-Positions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of New Grad full time roles in SWE, Quant, and PM.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>scaleracademy/scaler-open-source-september-challenge</title>
-    <updated>2023-09-04T01:26:05Z</updated>
-    <id>tag:github.com,2023-09-04:/scaleracademy/scaler-open-source-september-challenge</id>
-    <link href="https://github.com/scaleracademy/scaler-open-source-september-challenge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>louisfb01/start-machine-learning</title>
+    <updated>2023-09-05T01:22:14Z</updated>
+    <id>tag:github.com,2023-09-05:/louisfb01/start-machine-learning</id>
+    <link href="https://github.com/louisfb01/start-machine-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2023 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wukongdaily/allinonescript</title>
-    <updated>2023-09-04T01:26:05Z</updated>
-    <id>tag:github.com,2023-09-04:/wukongdaily/allinonescript</id>
-    <link href="https://github.com/wukongdaily/allinonescript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;在软路由命令行中一键安装多个插件&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ProGailCoders/JavaScript-DEXs-Triangular-Arbitrage-Bot-V4</title>
+    <updated>2023-09-05T01:22:14Z</updated>
+    <id>tag:github.com,2023-09-05:/ProGailCoders/JavaScript-DEXs-Triangular-Arbitrage-Bot-V4</id>
+    <link href="https://github.com/ProGailCoders/JavaScript-DEXs-Triangular-Arbitrage-Bot-V4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Looking to maximize your earnings? Our 100% JavaScript bot executes Triangular Arbitrage on DEX&#39;s for easy profits. Open-source and reliable, start using it today!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

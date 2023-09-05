@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-04T01:42:47Z</updated>
+  <updated>2023-09-05T01:40:21Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adwpc/xvim</title>
+    <updated>2023-09-05T01:40:21Z</updated>
+    <id>tag:github.com,2023-09-05:/adwpc/xvim</id>
+    <link href="https://github.com/adwpc/xvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Powerfull vim configuration for C/C++/GO/JS coder（好用的vim插件集成包，支持C/C++/GO/JS）&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

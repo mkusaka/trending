@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-04T01:43:27Z</updated>
+  <updated>2023-09-05T01:41:03Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>krzysztofzuraw/blog</title>
+    <updated>2023-09-05T01:41:03Z</updated>
+    <id>tag:github.com,2023-09-05:/krzysztofzuraw/blog</id>
+    <link href="https://github.com/krzysztofzuraw/blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/krzysztofzuraw/blog/main/image.jpg&#34; alt=&#34;Blog main page&#34;&gt;&lt;/p&gt; &#xA;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;h1&gt;Blog&lt;/h1&gt; &#xA;&lt;/div&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://app.netlify.com/sites/flamboyant-stallman-9dcf8d/deploys&#34;&gt;&lt;img src=&#34;https://api.netlify.com/api/v1/badges/76679400-2108-484e-b2a4-dccd71984e48/deploy-status&#34; alt=&#34;Netlify Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This repository contains code &amp;amp; blog posts for my &lt;a href=&#34;https://krzysztofzuraw.com&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;How to run&lt;/h2&gt; &#xA;&lt;p&gt;Install dependencies:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;pnpm install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Run development server:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;pnpm dev&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Run production build:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;pnpm build&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Generate an empty placeholder for the blog post&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;pnpm new:post&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Credit&lt;/h2&gt; &#xA;&lt;p&gt;This blog is generated using &lt;a href=&#34;https://astro.build/&#34;&gt;Astro Build&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

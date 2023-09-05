@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-04T01:41:31Z</updated>
+  <updated>2023-09-05T01:38:55Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LoopKit/MinimedKit</title>
-    <updated>2023-09-04T01:41:31Z</updated>
-    <id>tag:github.com,2023-09-04:/LoopKit/MinimedKit</id>
-    <link href="https://github.com/LoopKit/MinimedKit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Loop PumpManager plugin for Medtronic pumps&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MinimedKit&lt;/h1&gt; &#xA;&lt;p&gt;Medtronic PumpManager For Loop&lt;/p&gt; &#xA;&lt;h2&gt;Status&lt;/h2&gt; &#xA;&lt;p&gt;Supported, and included in Loop&lt;/p&gt; &#xA;&lt;h2&gt;For more information&lt;/h2&gt; &#xA;&lt;p&gt;Please join loop zulipchat at &lt;a href=&#34;https://loop.zulipchat.com/&#34;&gt;https://loop.zulipchat.com/&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>LoopKit/LoopKit</title>
-    <updated>2023-09-04T01:41:31Z</updated>
-    <id>tag:github.com,2023-09-04:/LoopKit/LoopKit</id>
-    <link href="https://github.com/LoopKit/LoopKit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of iOS tools for building closed-loop insulin delivery apps&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LoopKit&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/LoopKit/LoopKit&#34;&gt;&lt;img src=&#34;https://travis-ci.org/LoopKit/LoopKit.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/Carthage/Carthage&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat&#34; alt=&#34;Carthage compatible&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://loop.zulipchat.com&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/zulip-join_chat-brightgreen.svg?sanitize=true&#34; alt=&#34;project chat&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;LoopKit is a set of tools to speed up development of your own closed-loop insulin delivery app. It is agnostic to treatment decisions and input sources.&lt;/p&gt; &#xA;&lt;h2&gt;Loop&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/LoopKit/Loop&#34;&gt;Loop&lt;/a&gt; is a full-featured app built on top of LoopKit.&lt;/p&gt; &#xA;&lt;h2&gt;LoopKit provides&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Data storage and retrieval, using HealthKit and Core Data as appropriate&lt;/li&gt; &#xA; &lt;li&gt;Protocol types for representing data models in a flexible way&lt;/li&gt; &#xA; &lt;li&gt;Common calculation algorithms like Insulin On Board&lt;/li&gt; &#xA; &lt;li&gt;Boilerplate user interfaces like editing basal rate schedules and carb entry&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;LoopKit does not provide&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Treatment decisions: Your Diabetes May Vary.&lt;/li&gt; &#xA; &lt;li&gt;Device communications: Device-specific libraries are maintained separately.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;LoopKit is available under the MIT license. See the LICENSE file for more info.&lt;/p&gt; &#xA;&lt;h1&gt;Code of Conduct&lt;/h1&gt; &#xA;&lt;p&gt;Please note that this project is released with a &lt;a href=&#34;https://github.com/LoopKit/LoopKit/raw/master/CODE_OF_CONDUCT.md&#34;&gt;Contributor Code of Conduct&lt;/a&gt;. By participating in this project you agree to abide by its terms.&lt;/p&gt;</summary>
-  </entry>
 </feed>

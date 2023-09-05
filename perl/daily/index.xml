@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-04T01:37:14Z</updated>
+  <updated>2023-09-05T01:34:12Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kvishnivetsky/NetgearProSafeUtils</title>
-    <updated>2023-09-04T01:37:14Z</updated>
-    <id>tag:github.com,2023-09-04:/kvishnivetsky/NetgearProSafeUtils</id>
-    <link href="https://github.com/kvishnivetsky/NetgearProSafeUtils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Firmware update and configuration utilities for NETGEAR ProSafe switched&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NETGEAR ProSafePlus Utils&lt;/h1&gt; &#xA;&lt;p&gt;Package includes:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Firmware update utility&lt;/li&gt; &#xA; &lt;li&gt;Configuration read utility All for NETGEAR ProSafePlus switches.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Contact info:&lt;/p&gt; &#xA;&lt;p&gt;URL: &lt;a href=&#34;http://www.vishnivetsky.ru&#34;&gt;www.vishnivetsky.ru&lt;/a&gt; Moblie Phone: +7 913 77507588 SkyPE: @kvishnivetsky TG: @kvishnivetsky&lt;/p&gt;</summary>
-  </entry>
 </feed>
