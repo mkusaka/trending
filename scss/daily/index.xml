@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-05T01:37:31Z</updated>
+  <updated>2023-09-06T01:37:44Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>phpversions/phpversions.info</title>
-    <updated>2023-09-05T01:37:31Z</updated>
-    <id>tag:github.com,2023-09-05:/phpversions/phpversions.info</id>
-    <link href="https://github.com/phpversions/phpversions.info" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Which hosts support which PHP versions, and which is default&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OssamaRafique/Covid-19-Statistics-Dashboard-Angular-9</title>
-    <updated>2023-09-05T01:37:31Z</updated>
-    <id>tag:github.com,2023-09-05:/OssamaRafique/Covid-19-Statistics-Dashboard-Angular-9</id>
-    <link href="https://github.com/OssamaRafique/Covid-19-Statistics-Dashboard-Angular-9" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦠Corona Virus / Covid 19 Tracker Dashboard With Awesome UI + PWA + NodeJS Scraper&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nodejs/nodejs-zh-CN</title>
+    <updated>2023-09-06T01:37:44Z</updated>
+    <id>tag:github.com,2023-09-06:/nodejs/nodejs-zh-CN</id>
+    <link href="https://github.com/nodejs/nodejs-zh-CN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;node.js 中文化 &amp; 中文社区&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-05T01:38:24Z</updated>
+  <updated>2023-09-06T01:38:29Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OffchainLabs/stylus-contracts</title>
-    <updated>2023-09-05T01:38:24Z</updated>
-    <id>tag:github.com,2023-09-05:/OffchainLabs/stylus-contracts</id>
-    <link href="https://github.com/OffchainLabs/stylus-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devtooligan/solpretty</title>
+    <updated>2023-09-06T01:38:29Z</updated>
+    <id>tag:github.com,2023-09-06:/devtooligan/solpretty</id>
+    <link href="https://github.com/devtooligan/solpretty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library for pretty printing numbers in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bokkypoobah/BokkyPooBahsDateTimeLibrary</title>
-    <updated>2023-09-05T01:38:24Z</updated>
-    <id>tag:github.com,2023-09-05:/bokkypoobah/BokkyPooBahsDateTimeLibrary</id>
-    <link href="https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gas-Efficient Solidity DateTime Library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>scroll-tech/scroll</title>
+    <updated>2023-09-06T01:38:29Z</updated>
+    <id>tag:github.com,2023-09-06:/scroll-tech/scroll</id>
+    <link href="https://github.com/scroll-tech/scroll" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scroll&#39;s Monorepo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>0xraion/capture-the-ether-solutions-foundry</title>
+    <updated>2023-09-06T01:38:29Z</updated>
+    <id>tag:github.com,2023-09-06:/0xraion/capture-the-ether-solutions-foundry</id>
+    <link href="https://github.com/0xraion/capture-the-ether-solutions-foundry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solutions to the Capture The Ether CTF challenges using Foundry ⛳️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

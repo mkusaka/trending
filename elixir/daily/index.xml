@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-05T01:26:39Z</updated>
+  <updated>2023-09-06T01:27:42Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>groxio-learning/components_ec</title>
+    <updated>2023-09-06T01:27:42Z</updated>
+    <id>tag:github.com,2023-09-06:/groxio-learning/components_ec</id>
+    <link href="https://github.com/groxio-learning/components_ec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Breakdown: Components for ElixirConf&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>membraneframework/membrane_http_adaptive_stream_plugin</title>
+    <updated>2023-09-06T01:27:42Z</updated>
+    <id>tag:github.com,2023-09-06:/membraneframework/membrane_http_adaptive_stream_plugin</id>
+    <link href="https://github.com/membraneframework/membrane_http_adaptive_stream_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Plugin generating manifests for HLS (DASH support planned)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

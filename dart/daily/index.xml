@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-05T01:25:44Z</updated>
+  <updated>2023-09-06T01:26:34Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>igz0/skyclad</title>
-    <updated>2023-09-05T01:25:44Z</updated>
-    <id>tag:github.com,2023-09-05:/igz0/skyclad</id>
-    <link href="https://github.com/igz0/skyclad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An experimental ATP/Bluesky client app for iOS and Android by Flutter.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Skyclad&lt;/h1&gt; &#xA;&lt;p&gt;Skyclad is an experimental ATP/Bluesky client app for iOS and Android by Flutter.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;iOS: &lt;a href=&#34;https://testflight.apple.com/join/TUCMYXnq&#34;&gt;TestFlight&lt;/a&gt;&lt;br&gt; Android: &lt;a href=&#34;https://drive.google.com/file/d/1UIjftb8LLRvLcTHzcukOga1iSlylIvD8/view?usp=share_link&#34;&gt;Download APK&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Screenshots&lt;/h2&gt; &#xA;&lt;p&gt;English is also supported!!&lt;br&gt; &lt;img src=&#34;https://github.com/igz0/skyclad/assets/37741728/5f2424fe-d441-4fb7-8aed-0208706ad0b1&#34; width=&#34;25%&#34;&gt; &lt;img src=&#34;https://github.com/igz0/skyclad/assets/37741728/3868ec18-76c4-4178-87d3-19031e880f74&#34; width=&#34;25%&#34;&gt;&lt;br&gt; &lt;img src=&#34;https://github.com/igz0/skyclad/assets/37741728/da8c91e3-56b7-4d68-a97e-b87b523b3d7e&#34; width=&#34;25%&#34;&gt; &lt;img src=&#34;https://github.com/igz0/skyclad/assets/37741728/f033bd09-3494-4095-a51a-fc7a65e44125&#34; width=&#34;25%&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;p&gt;✅ Login&lt;br&gt; ✅ Home feed (Timeline)&lt;br&gt; ✅ Notifications feed&lt;br&gt; ✅ Author feed (Profile viewer)&lt;br&gt; ✅ Like / Repost&lt;br&gt; ✅ Send Post / Reply&lt;br&gt; ✅ Upload an image&lt;br&gt; ✅ Image preview&lt;br&gt; ✅ Follow / Unfollow user&lt;br&gt; ✅ i18n support (en-US / ja-JP)&lt;br&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;For help getting started with Flutter, view the official &lt;a href=&#34;https://flutter.io/&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-zsh&#34;&gt;$ git clone git@github.com:igz0/skyclad.git&#xA;$ cd skyclad&#xA;$ flutter run&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Notes&lt;/h2&gt; &#xA;&lt;p&gt;I&#39;m developing this app in my free time, so I appreciate feedback and welcome PRs!&lt;/p&gt;</summary>
-  </entry>
 </feed>

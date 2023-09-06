@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-05T01:24:49Z</updated>
+  <updated>2023-09-06T01:25:33Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>seancorfield/deps-new</title>
-    <updated>2023-09-05T01:24:49Z</updated>
-    <id>tag:github.com,2023-09-05:/seancorfield/deps-new</id>
-    <link href="https://github.com/seancorfield/deps-new" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A new, simpler alternative to clj-new&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dcolish/DataBlock</title>
+    <updated>2023-09-06T01:25:33Z</updated>
+    <id>tag:github.com,2023-09-06:/dcolish/DataBlock</id>
+    <link href="https://github.com/dcolish/DataBlock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Datacube clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
