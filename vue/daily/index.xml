@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-06T01:40:28Z</updated>
+  <updated>2023-09-07T01:40:55Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vuejs-translations/docs-bn</title>
-    <updated>2023-09-06T01:40:28Z</updated>
-    <id>tag:github.com,2023-09-06:/vuejs-translations/docs-bn</id>
-    <link href="https://github.com/vuejs-translations/docs-bn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📄 Documentation for Vue 3 Bengali Official&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nutui-uniapp/nutui-uniapp</title>
-    <updated>2023-09-06T01:40:28Z</updated>
-    <id>tag:github.com,2023-09-06:/nutui-uniapp/nutui-uniapp</id>
-    <link href="https://github.com/nutui-uniapp/nutui-uniapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;京东风格的轻量级移动端组件库，基于 uniapp与Vue3，支持移动端 H5 和 小程序开发&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

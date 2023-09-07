@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-06T01:23:59Z</updated>
+  <updated>2023-09-07T01:24:10Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pengzhile/cocopilot</title>
+    <updated>2023-09-07T01:24:10Z</updated>
+    <id>tag:github.com,2023-09-07:/pengzhile/cocopilot</id>
+    <link href="https://github.com/pengzhile/cocopilot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;你可以把它称为：联合副驾驶。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>conda-forge/rasam-feedstock</title>
+    <updated>2023-09-07T01:24:10Z</updated>
+    <id>tag:github.com,2023-09-07:/conda-forge/rasam-feedstock</id>
+    <link href="https://github.com/conda-forge/rasam-feedstock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conda-smithy repository for rasam.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

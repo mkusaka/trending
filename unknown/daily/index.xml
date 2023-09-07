@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-06T01:22:54Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-09-07T01:23:01Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nodesource/distributions</title>
-    <updated>2023-09-06T01:22:54Z</updated>
-    <id>tag:github.com,2023-09-06:/nodesource/distributions</id>
-    <link href="https://github.com/nodesource/distributions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NodeSource Node.js Binary Distributions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LetsDefend/awesome-soc-analyst</title>
+    <updated>2023-09-07T01:23:01Z</updated>
+    <id>tag:github.com,2023-09-07:/LetsDefend/awesome-soc-analyst</id>
+    <link href="https://github.com/LetsDefend/awesome-soc-analyst" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Useful resources for SOC Analyst and SOC Analyst candidates.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MV-Dream/MVDream</title>
-    <updated>2023-09-06T01:22:54Z</updated>
-    <id>tag:github.com,2023-09-06:/MV-Dream/MVDream</id>
-    <link href="https://github.com/MV-Dream/MVDream" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;code page placeholder&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>codicate/underclassmen-internships</title>
+    <updated>2023-09-07T01:23:01Z</updated>
+    <id>tag:github.com,2023-09-07:/codicate/underclassmen-internships</id>
+    <link href="https://github.com/codicate/underclassmen-internships" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of internships/externships/fellowships exclusive for CS freshman and sophomore (2024)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MSzturc/the100</title>
+    <updated>2023-09-07T01:23:01Z</updated>
+    <id>tag:github.com,2023-09-07:/MSzturc/the100</id>
+    <link href="https://github.com/MSzturc/the100" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;THE 100 - The worlds fastest 3D Printer based on a printed frame&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

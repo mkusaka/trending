@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-06T01:30:37Z</updated>
+  <updated>2023-09-07T01:30:55Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kousiknath/LowLevelDesign</title>
-    <updated>2023-09-06T01:30:37Z</updated>
-    <id>tag:github.com,2023-09-06:/kousiknath/LowLevelDesign</id>
-    <link href="https://github.com/kousiknath/LowLevelDesign" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Various Low Level Object Oriented System Design problems are discussed in this space&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LowLevelDesign&lt;/h1&gt; &#xA;&lt;p&gt;Various Low Level Object-Oriented System Design problems are discussed in this space.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Message broker like Kafka&lt;/li&gt; &#xA; &lt;li&gt;Google Calendar&lt;/li&gt; &#xA; &lt;li&gt;BookMyShow&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
 </feed>

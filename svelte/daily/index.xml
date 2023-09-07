@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-06T01:38:50Z</updated>
+  <updated>2023-09-07T01:39:20Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>huntabyte/formsnap</title>
-    <updated>2023-09-06T01:38:50Z</updated>
-    <id>tag:github.com,2023-09-06:/huntabyte/formsnap</id>
-    <link href="https://github.com/huntabyte/formsnap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Functional, accessible, and powerful form components for Svelte. 🫰&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>manhhungpc/ubuntu2204-svelte</title>
+    <updated>2023-09-07T01:39:20Z</updated>
+    <id>tag:github.com,2023-09-07:/manhhungpc/ubuntu2204-svelte</id>
+    <link href="https://github.com/manhhungpc/ubuntu2204-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Recreating Ubuntu 22.04 with Svelte&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

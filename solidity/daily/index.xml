@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-06T01:38:29Z</updated>
+  <updated>2023-09-07T01:38:57Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>devtooligan/solpretty</title>
-    <updated>2023-09-06T01:38:29Z</updated>
-    <id>tag:github.com,2023-09-06:/devtooligan/solpretty</id>
-    <link href="https://github.com/devtooligan/solpretty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library for pretty printing numbers in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bambu-bootcamp/proyecto-final</title>
+    <updated>2023-09-07T01:38:57Z</updated>
+    <id>tag:github.com,2023-09-07:/bambu-bootcamp/proyecto-final</id>
+    <link href="https://github.com/bambu-bootcamp/proyecto-final" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>scroll-tech/scroll</title>
-    <updated>2023-09-06T01:38:29Z</updated>
-    <id>tag:github.com,2023-09-06:/scroll-tech/scroll</id>
-    <link href="https://github.com/scroll-tech/scroll" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scroll&#39;s Monorepo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>0xraion/capture-the-ether-solutions-foundry</title>
-    <updated>2023-09-06T01:38:29Z</updated>
-    <id>tag:github.com,2023-09-06:/0xraion/capture-the-ether-solutions-foundry</id>
-    <link href="https://github.com/0xraion/capture-the-ether-solutions-foundry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solutions to the Capture The Ether CTF challenges using Foundry ⛳️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AmazingAng/Clone0</title>
+    <updated>2023-09-07T01:38:57Z</updated>
+    <id>tag:github.com,2023-09-07:/AmazingAng/Clone0</id>
+    <link href="https://github.com/AmazingAng/Clone0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clone0 optimize the previous Minimal Proxy Contract (eip-3855) with `PUSH0` opcodes, saving 200 gas at deployment and 5 gas at runtime.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

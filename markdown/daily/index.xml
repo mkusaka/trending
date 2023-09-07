@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-06T01:32:28Z</updated>
+  <updated>2023-09-07T01:32:41Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DELWP-DTV/santa</title>
-    <updated>2023-09-06T01:32:28Z</updated>
-    <id>tag:github.com,2023-09-06:/DELWP-DTV/santa</id>
-    <link href="https://github.com/DELWP-DTV/santa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for alex-vic-geo, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>targed/Awesome-Plugins</title>
-    <updated>2023-09-06T01:32:28Z</updated>
-    <id>tag:github.com,2023-09-06:/targed/Awesome-Plugins</id>
-    <link href="https://github.com/targed/Awesome-Plugins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

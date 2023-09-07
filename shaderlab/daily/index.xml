@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-06T01:37:47Z</updated>
+  <updated>2023-09-07T01:38:15Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Rykmentti/GE2-Group-Project-Repo</title>
-    <updated>2023-09-06T01:37:47Z</updated>
-    <id>tag:github.com,2023-09-06:/Rykmentti/GE2-Group-Project-Repo</id>
-    <link href="https://github.com/Rykmentti/GE2-Group-Project-Repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vittorio-corbo/Equinox</title>
+    <updated>2023-09-07T01:38:15Z</updated>
+    <id>tag:github.com,2023-09-07:/vittorio-corbo/Equinox</id>
+    <link href="https://github.com/vittorio-corbo/Equinox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VGDev game&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>anthonyromrell/CSharpEssentials</title>
+    <updated>2023-09-07T01:38:15Z</updated>
+    <id>tag:github.com,2023-09-07:/anthonyromrell/CSharpEssentials</id>
+    <link href="https://github.com/anthonyromrell/CSharpEssentials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C# Essentials, Course Materials.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
