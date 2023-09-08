@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-07T01:31:42Z</updated>
+  <updated>2023-09-08T01:31:14Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>touchlab/SKIE</title>
+    <updated>2023-09-08T01:31:14Z</updated>
+    <id>tag:github.com,2023-09-08:/touchlab/SKIE</id>
+    <link href="https://github.com/touchlab/SKIE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SKIE - Swift Kotlin Interface Enhancer&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;SKIE&lt;/h1&gt; &#xA;&lt;p&gt;SKIE - Swift Kotlin Interface Enhancer&lt;/p&gt; &#xA;&lt;p&gt;SKIE is a tool for Kotlin Multiplatform development that enhances the Swift API published from Kotlin.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://skie.touchlab.co/intro&#34;&gt;the documentation website&lt;/a&gt; for more info.&lt;/p&gt; &#xA;&lt;h2&gt;Open Source Announcement&lt;/h2&gt; &#xA;&lt;p&gt;Read our &lt;a href=&#34;https://touchlab.co/skie-is-open-source&#34;&gt;open source announcement&lt;/a&gt;!&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-07T01:35:15Z</updated>
+  <updated>2023-09-08T01:34:28Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LaravelCollective/html</title>
+    <updated>2023-09-08T01:34:28Z</updated>
+    <id>tag:github.com,2023-09-08:/LaravelCollective/html</id>
+    <link href="https://github.com/LaravelCollective/html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTML and Form Builders for the Laravel Framework&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/LaravelCollective/html/6.x/LaravelCollectiveHTML-banner.png&#34; alt=&#34;LaravelCollective HTML&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/LaravelCollective/html&#34;&gt;&lt;img src=&#34;https://travis-ci.org/LaravelCollective/html.svg?sanitize=true&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://packagist.org/packages/laravelcollective/html&#34;&gt;&lt;img src=&#34;https://poser.pugx.org/LaravelCollective/html/downloads&#34; alt=&#34;Total Downloads&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://packagist.org/packages/laravelcollective/html&#34;&gt;&lt;img src=&#34;https://poser.pugx.org/LaravelCollective/html/v/stable.svg?sanitize=true&#34; alt=&#34;Latest Stable Version&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://packagist.org/packages/laravelcollective/html&#34;&gt;&lt;img src=&#34;https://poser.pugx.org/LaravelCollective/html/v/unstable.svg?sanitize=true&#34; alt=&#34;Latest Unstable Version&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://packagist.org/packages/laravelcollective/html&#34;&gt;&lt;img src=&#34;https://poser.pugx.org/LaravelCollective/html/license.svg?sanitize=true&#34; alt=&#34;License&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Official documentation for Forms &amp;amp; Html for The Laravel Framework can be found at the &lt;a href=&#34;https://laravelcollective.com/docs&#34;&gt;LaravelCollective&lt;/a&gt; website.&lt;/p&gt; &#xA;&lt;h2&gt;Replacement&lt;/h2&gt; &#xA;&lt;p&gt;If you&#39;re looking to replace this package due to it&#39;s retirement we recommend using &lt;a href=&#34;https://laravelshift.com/convert-laravelcollective-html-to-spatie-laravel-html&#34;&gt;Shift&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

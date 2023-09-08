@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-07T01:23:01Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-09-08T01:22:50Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LetsDefend/awesome-soc-analyst</title>
-    <updated>2023-09-07T01:23:01Z</updated>
-    <id>tag:github.com,2023-09-07:/LetsDefend/awesome-soc-analyst</id>
-    <link href="https://github.com/LetsDefend/awesome-soc-analyst" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Useful resources for SOC Analyst and SOC Analyst candidates.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>farhanashrafdev/90DaysOfCyberSecurity</title>
+    <updated>2023-09-08T01:22:50Z</updated>
+    <id>tag:github.com,2023-09-08:/farhanashrafdev/90DaysOfCyberSecurity</id>
+    <link href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>codicate/underclassmen-internships</title>
-    <updated>2023-09-07T01:23:01Z</updated>
-    <id>tag:github.com,2023-09-07:/codicate/underclassmen-internships</id>
-    <link href="https://github.com/codicate/underclassmen-internships" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated list of internships/externships/fellowships exclusive for CS freshman and sophomore (2024)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>runningcheese/MirrorSite</title>
+    <updated>2023-09-08T01:22:50Z</updated>
+    <id>tag:github.com,2023-09-08:/runningcheese/MirrorSite</id>
+    <link href="https://github.com/runningcheese/MirrorSite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;镜像网站合集&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MSzturc/the100</title>
-    <updated>2023-09-07T01:23:01Z</updated>
-    <id>tag:github.com,2023-09-07:/MSzturc/the100</id>
-    <link href="https://github.com/MSzturc/the100" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;THE 100 - The worlds fastest 3D Printer based on a printed frame&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>esbatmop/MNBVC</title>
+    <updated>2023-09-08T01:22:50Z</updated>
+    <id>tag:github.com,2023-09-08:/esbatmop/MNBVC</id>
+    <link href="https://github.com/esbatmop/MNBVC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

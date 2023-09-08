@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-07T01:37:56Z</updated>
+  <updated>2023-09-08T01:37:10Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yabuchin/base64url</title>
-    <updated>2023-09-07T01:37:56Z</updated>
-    <id>tag:github.com,2023-09-07:/yabuchin/base64url</id>
-    <link href="https://github.com/yabuchin/base64url" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;base64url&lt;/h1&gt;</summary>
-  </entry>
 </feed>

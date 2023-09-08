@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-07T01:39:42Z</updated>
+  <updated>2023-09-08T01:38:45Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>julik/tickly</title>
-    <updated>2023-09-07T01:39:42Z</updated>
-    <id>tag:github.com,2023-09-07:/julik/tickly</id>
-    <link href="https://github.com/julik/tickly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parses the subset of TCL needed for Nuke scripts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

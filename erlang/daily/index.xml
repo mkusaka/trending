@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-07T01:28:13Z</updated>
+  <updated>2023-09-08T01:27:31Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>crmaxx/erlang_experiments</title>
-    <updated>2023-09-07T01:28:13Z</updated>
-    <id>tag:github.com,2023-09-07:/crmaxx/erlang_experiments</id>
-    <link href="https://github.com/crmaxx/erlang_experiments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My ERLANG experiments.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DBarney/zq_pool</title>
-    <updated>2023-09-07T01:28:13Z</updated>
-    <id>tag:github.com,2023-09-07:/DBarney/zq_pool</id>
-    <link href="https://github.com/DBarney/zq_pool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Worker pool implemented in erlang, using zmq_pull sockets.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chaos-ad/dreambook</title>
+    <updated>2023-09-08T01:27:31Z</updated>
+    <id>tag:github.com,2023-09-08:/chaos-ad/dreambook</id>
+    <link href="https://github.com/chaos-ad/dreambook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;dreambook app&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

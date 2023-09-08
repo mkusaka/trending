@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-07T01:35:26Z</updated>
+  <updated>2023-09-08T01:34:36Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>letMarchezi/isf-pibd</title>
-    <updated>2023-09-07T01:35:26Z</updated>
-    <id>tag:github.com,2023-09-07:/letMarchezi/isf-pibd</id>
-    <link href="https://github.com/letMarchezi/isf-pibd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yugabyte/yb-voyager</title>
-    <updated>2023-09-07T01:35:26Z</updated>
-    <id>tag:github.com,2023-09-07:/yugabyte/yb-voyager</id>
-    <link href="https://github.com/yugabyte/yb-voyager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data migration tool for YugabyteDB database&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

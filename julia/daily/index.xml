@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-07T01:31:22Z</updated>
+  <updated>2023-09-08T01:30:53Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaLinearAlgebra/LinearMaps.jl</title>
-    <updated>2023-09-07T01:31:22Z</updated>
-    <id>tag:github.com,2023-09-07:/JuliaLinearAlgebra/LinearMaps.jl</id>
-    <link href="https://github.com/JuliaLinearAlgebra/LinearMaps.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaOcean/OceanStateEstimation.jl</title>
+    <updated>2023-09-08T01:30:53Z</updated>
+    <id>tag:github.com,2023-09-08:/JuliaOcean/OceanStateEstimation.jl</id>
+    <link href="https://github.com/JuliaOcean/OceanStateEstimation.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ocean State Estimation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pitsianis/AdaptiveHierarchicalRegularBinning.jl</title>
+    <updated>2023-09-08T01:30:53Z</updated>
+    <id>tag:github.com,2023-09-08:/pitsianis/AdaptiveHierarchicalRegularBinning.jl</id>
+    <link href="https://github.com/pitsianis/AdaptiveHierarchicalRegularBinning.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

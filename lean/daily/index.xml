@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-07T01:31:56Z</updated>
+  <updated>2023-09-08T01:31:28Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>joneugster/InftyCat</title>
-    <updated>2023-09-07T01:31:56Z</updated>
-    <id>tag:github.com,2023-09-07:/joneugster/InftyCat</id>
-    <link href="https://github.com/joneugster/InftyCat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>meoowers/rinha</title>
+    <updated>2023-09-08T01:31:28Z</updated>
+    <id>tag:github.com,2023-09-08:/meoowers/rinha</id>
+    <link href="https://github.com/meoowers/rinha" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧪 | Rinha de Backend Lean4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>algebraic-sofia/soda</title>
+    <updated>2023-09-08T01:31:28Z</updated>
+    <id>tag:github.com,2023-09-08:/algebraic-sofia/soda</id>
+    <link href="https://github.com/algebraic-sofia/soda" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🥤 | Toy parser combinator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>meoowers/melp</title>
+    <updated>2023-09-08T01:31:28Z</updated>
+    <id>tag:github.com,2023-09-08:/meoowers/melp</id>
+    <link href="https://github.com/meoowers/melp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🕸️ | Incomplete HTTP/1.1 Server in Lean4 for Rinha de backends&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

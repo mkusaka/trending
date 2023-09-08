@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-07T01:38:57Z</updated>
+  <updated>2023-09-08T01:38:03Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bambu-bootcamp/proyecto-final</title>
-    <updated>2023-09-07T01:38:57Z</updated>
-    <id>tag:github.com,2023-09-07:/bambu-bootcamp/proyecto-final</id>
-    <link href="https://github.com/bambu-bootcamp/proyecto-final" rel="alternate"></link>
+    <title>code-423n4/2023-09-delegate</title>
+    <updated>2023-09-08T01:38:03Z</updated>
+    <id>tag:github.com,2023-09-08:/code-423n4/2023-09-delegate</id>
+    <link href="https://github.com/code-423n4/2023-09-delegate" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AmazingAng/Clone0</title>
-    <updated>2023-09-07T01:38:57Z</updated>
-    <id>tag:github.com,2023-09-07:/AmazingAng/Clone0</id>
-    <link href="https://github.com/AmazingAng/Clone0" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clone0 optimize the previous Minimal Proxy Contract (eip-3855) with `PUSH0` opcodes, saving 200 gas at deployment and 5 gas at runtime.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
