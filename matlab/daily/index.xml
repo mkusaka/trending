@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-08T01:32:17Z</updated>
+  <updated>2023-09-09T01:31:13Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ME435/MATLAB-Plate-Loader-Start</title>
+    <updated>2023-09-09T01:31:13Z</updated>
+    <id>tag:github.com,2023-09-09:/ME435/MATLAB-Plate-Loader-Start</id>
+    <link href="https://github.com/ME435/MATLAB-Plate-Loader-Start" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Starting code and images that are given for the MATLAB Plate Loader GUI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stevenmanton/msfn</title>
+    <updated>2023-09-09T01:31:13Z</updated>
+    <id>tag:github.com,2023-09-09:/stevenmanton/msfn</id>
+    <link href="https://github.com/stevenmanton/msfn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Matlab programs to calculate mean square flux noise (MSFN) of superconducting SQUID or qubit loop.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IsraelCohenLab/MultichannelAcousticEchoCancellation</title>
+    <updated>2023-09-09T01:31:13Z</updated>
+    <id>tag:github.com,2023-09-09:/IsraelCohenLab/MultichannelAcousticEchoCancellation</id>
+    <link href="https://github.com/IsraelCohenLab/MultichannelAcousticEchoCancellation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-08T01:30:53Z</updated>
+  <updated>2023-09-09T01:29:45Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaOcean/OceanStateEstimation.jl</title>
-    <updated>2023-09-08T01:30:53Z</updated>
-    <id>tag:github.com,2023-09-08:/JuliaOcean/OceanStateEstimation.jl</id>
-    <link href="https://github.com/JuliaOcean/OceanStateEstimation.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ocean State Estimation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pitsianis/AdaptiveHierarchicalRegularBinning.jl</title>
-    <updated>2023-09-08T01:30:53Z</updated>
-    <id>tag:github.com,2023-09-08:/pitsianis/AdaptiveHierarchicalRegularBinning.jl</id>
-    <link href="https://github.com/pitsianis/AdaptiveHierarchicalRegularBinning.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>evetion/SpaceLiDAR.jl</title>
+    <updated>2023-09-09T01:29:45Z</updated>
+    <id>tag:github.com,2023-09-09:/evetion/SpaceLiDAR.jl</id>
+    <link href="https://github.com/evetion/SpaceLiDAR.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia package for working with ICESat-2 &amp; GEDI data as part of my PhD research&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

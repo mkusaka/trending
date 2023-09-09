@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-08T01:25:26Z</updated>
+  <updated>2023-09-09T01:23:58Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>linuxdeepin/dtk</title>
-    <updated>2023-09-08T01:25:26Z</updated>
-    <id>tag:github.com,2023-09-08:/linuxdeepin/dtk</id>
-    <link href="https://github.com/linuxdeepin/dtk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Portal of DTK documentations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>UNR-RoboticsResearchLab/hri_projects_2023</title>
+    <updated>2023-09-09T01:23:58Z</updated>
+    <id>tag:github.com,2023-09-09:/UNR-RoboticsResearchLab/hri_projects_2023</id>
+    <link href="https://github.com/UNR-RoboticsResearchLab/hri_projects_2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course content for UNR CS4/691 - Human-Robot Interaction&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

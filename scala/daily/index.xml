@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-08T01:37:10Z</updated>
+  <updated>2023-09-09T01:36:17Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>magott/fooz</title>
+    <updated>2023-09-09T01:36:17Z</updated>
+    <id>tag:github.com,2023-09-09:/magott/fooz</id>
+    <link href="https://github.com/magott/fooz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Short-lived, showing some strange casbah/scala 2.10 behavior&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cardel/talleres-funcional-template</title>
+    <updated>2023-09-09T01:36:17Z</updated>
+    <id>tag:github.com,2023-09-09:/cardel/talleres-funcional-template</id>
+    <link href="https://github.com/cardel/talleres-funcional-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Plantilla talleres programación funcional&lt;/h1&gt; &#xA;&lt;p&gt;Esta plantilla tiene la configuración para generar los talleres:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Pruebas unitarias&lt;/li&gt; &#xA; &lt;li&gt;Revisión de estilo de programación funcional con Scalastyle&lt;/li&gt; &#xA; &lt;li&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Uso&lt;/h2&gt; &#xA;&lt;p&gt;Ejecutar en Linux&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;./gradlew check&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Ejecutar en Windows&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;gradlew check&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>ScalaOtus/SCR-2023-09</title>
+    <updated>2023-09-09T01:36:17Z</updated>
+    <id>tag:github.com,2023-09-09:/ScalaOtus/SCR-2023-09</id>
+    <link href="https://github.com/ScalaOtus/SCR-2023-09" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

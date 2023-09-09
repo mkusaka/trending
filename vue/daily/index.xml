@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-08T01:39:53Z</updated>
+  <updated>2023-09-09T01:39:14Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nuxt/ui</title>
-    <updated>2023-09-08T01:39:53Z</updated>
-    <id>tag:github.com,2023-09-08:/nuxt/ui</id>
-    <link href="https://github.com/nuxt/ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fully styled and customizable components for Nuxt.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>giacomohuang/colorpicker</title>
+    <updated>2023-09-09T01:39:14Z</updated>
+    <id>tag:github.com,2023-09-09:/giacomohuang/colorpicker</id>
+    <link href="https://github.com/giacomohuang/colorpicker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a Vue3.0 based colorpicker component&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

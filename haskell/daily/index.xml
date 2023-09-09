@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-08T01:29:00Z</updated>
+  <updated>2023-09-09T01:27:47Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vipo/fp-2023</title>
-    <updated>2023-09-08T01:29:00Z</updated>
-    <id>tag:github.com,2023-09-08:/vipo/fp-2023</id>
-    <link href="https://github.com/vipo/fp-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;fp-2023&lt;/h1&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Fork this repository, checkout the fork. This project uses GitHub Actions haskell workflow, please preserve its configuration.&lt;/li&gt; &#xA; &lt;li&gt;Now you have two options&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Use GitHub Codespaces (Code -&amp;gt; Codespaces) to develop directly in browser. This is paid GitHub feature, but: you get a few compute hours for free and you can get even more if you register as student.&lt;/li&gt; &#xA; &lt;li&gt;Use your computer: &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Install &lt;a href=&#34;https://www.haskell.org/ghcup/&#34;&gt;ghcup&lt;/a&gt;, please note you might need to install additional packages, as descriped &lt;a href=&#34;https://www.haskell.org/ghcup/install/&#34;&gt;here&lt;/a&gt;. Just agree with all defaults during the installation. &lt;code&gt;ghcup&lt;/code&gt; binary should appear in your &lt;code&gt;PATH&lt;/code&gt; (you might need to restart your computer).&lt;/li&gt; &#xA;   &lt;li&gt;Install (if not already installed) VSCode. When done, add Haskell (&#34;Haskell language support&#34;) extension.&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ol start=&#34;3&#34;&gt; &#xA; &lt;li&gt;Open any .hs file in the checked out (step 1) repository. Haskell extension should pick up &lt;a href=&#34;https://raw.githubusercontent.com/vipo/fp-2023/master/.vscode/settings.json&#34;&gt;project settings&lt;/a&gt; and install all dependencies. This might take some time. If the magic does not happen, please install ghcup components manually:&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;ghcup install stack --set 2.9.3&#xA;ghcup install hls --set 2.0.0.1&#xA;ghcup install cabal --set 3.6.2.0&#xA;ghcup install ghc --set 9.4.5&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Task 1&lt;/h1&gt; &#xA;&lt;p&gt;Please edit &lt;a href=&#34;https://raw.githubusercontent.com/vipo/fp-2023/master/src/Lib1.hs&#34;&gt;Lib1&lt;/a&gt; module (only!).&lt;/p&gt; &#xA;&lt;p&gt;Run your application: &lt;code&gt;stack run fp2023-select-all&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Run tests: &lt;code&gt;stack test&lt;/code&gt;&lt;/p&gt;</summary>
+    <title>kajgo/befunge-haskell</title>
+    <updated>2023-09-09T01:27:47Z</updated>
+    <id>tag:github.com,2023-09-09:/kajgo/befunge-haskell</id>
+    <link href="https://github.com/kajgo/befunge-haskell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Haskell implementation of the Befunge esoteric programming language.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

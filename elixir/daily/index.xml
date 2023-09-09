@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-08T01:27:08Z</updated>
+  <updated>2023-09-09T01:25:50Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>curiosum-dev/kanta</title>
-    <updated>2023-09-08T01:27:08Z</updated>
-    <id>tag:github.com,2023-09-08:/curiosum-dev/kanta</id>
-    <link href="https://github.com/curiosum-dev/kanta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;User-friendly translations manager for Elixir/Phoenix projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>losvedir/ephemeral2</title>
+    <updated>2023-09-09T01:25:50Z</updated>
+    <id>tag:github.com,2023-09-09:/losvedir/ephemeral2</id>
+    <link href="https://github.com/losvedir/ephemeral2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ephemeral P2P over websockets, Phoenix/Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rrrene/html_sanitize_ex</title>
-    <updated>2023-09-08T01:27:08Z</updated>
-    <id>tag:github.com,2023-09-08:/rrrene/html_sanitize_ex</id>
-    <link href="https://github.com/rrrene/html_sanitize_ex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTML sanitizer for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>launchscout/live_elements</title>
+    <updated>2023-09-09T01:25:50Z</updated>
+    <id>tag:github.com,2023-09-09:/launchscout/live_elements</id>
+    <link href="https://github.com/launchscout/live_elements" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library to make custom elements and LiveView so happy together&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
