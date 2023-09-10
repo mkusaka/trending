@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Jsonnet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-10T01:57:05Z</updated>
+  <subtitle>Weekly Trending of Jsonnet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eclipse-kanto/.eclipsefdn</title>
+    <updated>2023-09-10T01:57:05Z</updated>
+    <id>tag:github.com,2023-09-10:/eclipse-kanto/.eclipsefdn</id>
+    <link href="https://github.com/eclipse-kanto/.eclipsefdn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository to host configurations related to the Eclipse Foundation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

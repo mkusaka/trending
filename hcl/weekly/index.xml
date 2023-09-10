@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-10T01:55:04Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>iam-veeramalla/terraform-zero-to-hero</title>
+    <updated>2023-09-10T01:55:04Z</updated>
+    <id>tag:github.com,2023-09-10:/iam-veeramalla/terraform-zero-to-hero</id>
+    <link href="https://github.com/iam-veeramalla/terraform-zero-to-hero" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Master Terraform in 7 days using this Zero to Hero course.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ministryofjustice/cloud-platform-environments</title>
+    <updated>2023-09-10T01:55:04Z</updated>
+    <id>tag:github.com,2023-09-10:/ministryofjustice/cloud-platform-environments</id>
+    <link href="https://github.com/ministryofjustice/cloud-platform-environments" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Environment configuration for the Cloud Platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LandmakTechnology/terraform-master-class-series</title>
+    <updated>2023-09-10T01:55:04Z</updated>
+    <id>tag:github.com,2023-09-10:/LandmakTechnology/terraform-master-class-series</id>
+    <link href="https://github.com/LandmakTechnology/terraform-master-class-series" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for terraform-master-class-series&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

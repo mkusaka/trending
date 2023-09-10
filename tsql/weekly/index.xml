@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-10T02:07:18Z</updated>
+  <subtitle>Weekly Trending of TSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LinkedInLearning/top-5-things-to-know-in-advanced-sql-4403486</title>
+    <updated>2023-09-10T02:07:18Z</updated>
+    <id>tag:github.com,2023-09-10:/LinkedInLearning/top-5-things-to-know-in-advanced-sql-4403486</id>
+    <link href="https://github.com/LinkedInLearning/top-5-things-to-know-in-advanced-sql-4403486" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a code repository for the LinkedIn Learning course Top 5 Things to Know in Advanced SQL.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Thinkgamer/Machine-Learning-With-Python</title>
+    <updated>2023-09-10T02:07:18Z</updated>
+    <id>tag:github.com,2023-09-10:/Thinkgamer/Machine-Learning-With-Python</id>
+    <link href="https://github.com/Thinkgamer/Machine-Learning-With-Python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;此项目是我在学习《机器学习实战》这本书时的代码记录情况，用python实现，当然也会包括一些其他的机器学习算法，使用Python实现&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

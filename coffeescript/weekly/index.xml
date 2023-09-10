@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-10T01:50:30Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fonse/pokemon-battle</title>
+    <updated>2023-09-10T01:50:30Z</updated>
+    <id>tag:github.com,2023-09-10:/fonse/pokemon-battle</id>
+    <link href="https://github.com/fonse/pokemon-battle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pokemon battle simulator for nodejs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>techpines/asset-rack</title>
+    <updated>2023-09-10T01:50:30Z</updated>
+    <id>tag:github.com,2023-09-10:/techpines/asset-rack</id>
+    <link href="https://github.com/techpines/asset-rack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Static Web Framework for Nodejs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>twilson63/express-coffee</title>
+    <updated>2023-09-10T01:50:30Z</updated>
+    <id>tag:github.com,2023-09-10:/twilson63/express-coffee</id>
+    <link href="https://github.com/twilson63/express-coffee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Template for NodeJs Application using Express, CoffeeScript, Jade, Stylus, Nib&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

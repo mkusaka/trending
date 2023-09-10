@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-10T01:53:48Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>godotessentials/2d-essentials</title>
+    <updated>2023-09-10T01:53:48Z</updated>
+    <id>tag:github.com,2023-09-10:/godotessentials/2d-essentials</id>
+    <link href="https://github.com/godotessentials/2d-essentials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot 2D essentials is a collection of production ready components to speed up the development of your 2d games. This components handles basic behaviours without affecting the particular logic of your game.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>clear-code-projects/UltimateGodotIntro2D</title>
+    <updated>2023-09-10T01:53:48Z</updated>
+    <id>tag:github.com,2023-09-10:/clear-code-projects/UltimateGodotIntro2D</id>
+    <link href="https://github.com/clear-code-projects/UltimateGodotIntro2D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources for the ultimate introduction to Godot 4 [2D]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-09T01:37:34Z</updated>
+  <updated>2023-09-10T01:44:47Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rossrobino/drab</title>
-    <updated>2023-09-09T01:37:34Z</updated>
-    <id>tag:github.com,2023-09-09:/rossrobino/drab</id>
-    <link href="https://github.com/rossrobino/drab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unstyled Svelte component library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>berrysauce/ingredients</title>
+    <updated>2023-09-10T01:44:47Z</updated>
+    <id>tag:github.com,2023-09-10:/berrysauce/ingredients</id>
+    <link href="https://github.com/berrysauce/ingredients" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧪 Determine the &#34;ingredients&#34; (or technologies) behind a website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>salvia-kit/svelte-dashboards</title>
-    <updated>2023-09-09T01:37:34Z</updated>
-    <id>tag:github.com,2023-09-09:/salvia-kit/svelte-dashboards</id>
-    <link href="https://github.com/salvia-kit/svelte-dashboards" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Salvia-kit Svelte dashboards templates&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tokitou-san/CoreProject-Frontend</title>
+    <updated>2023-09-10T01:44:47Z</updated>
+    <id>tag:github.com,2023-09-10:/tokitou-san/CoreProject-Frontend</id>
+    <link href="https://github.com/tokitou-san/CoreProject-Frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bridging the gap between streaming and torrenting sites with a modern and clean interface. Anime streaming with an ad-free, premium experience, setting a new standard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RiadhAdrani/slick-portfolio-svelte</title>
+    <updated>2023-09-10T01:44:47Z</updated>
+    <id>tag:github.com,2023-09-10:/RiadhAdrani/slick-portfolio-svelte</id>
+    <link href="https://github.com/RiadhAdrani/slick-portfolio-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vercel-like style portfolio template for developers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

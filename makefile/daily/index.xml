@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-09T01:31:01Z</updated>
+  <updated>2023-09-10T01:37:31Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>apui-avignon-university/warren-tdbp</title>
+    <updated>2023-09-10T01:37:31Z</updated>
+    <id>tag:github.com,2023-09-10:/apui-avignon-university/warren-tdbp</id>
+    <link href="https://github.com/apui-avignon-university/warren-tdbp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A warren plugin for moodle learning analytics dashboard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

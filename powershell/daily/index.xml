@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-09T01:33:57Z</updated>
+  <updated>2023-09-10T01:40:56Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>admindroid-community/powershell-scripts</title>
-    <updated>2023-09-09T01:33:57Z</updated>
-    <id>tag:github.com,2023-09-09:/admindroid-community/powershell-scripts</id>
-    <link href="https://github.com/admindroid-community/powershell-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Office 365 Reporting PowerShell Scripts&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PowerShell-Scripts&lt;/h1&gt; &#xA;&lt;p&gt;Following are the available Office 365 PowerShell Scripts&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;-Office 365 Users&#39; Detailed License Report&#xA;&#xA;-Office 365 Users&#39; Last Logon Time Report&#xA;&#xA;-Office 365 Mailbox Permission Report&#xA;&#xA;-Office 365 Dynamic Distribution Groups&#39; Members Report&#xA;&#xA;-Office 365 Users&#39; MFA Status Reporting&#xA;&#xA;-Office 365 Users&#39; Last Activity Time Report&#xA;&#xA;-Office 365 Distribution Group Members Reporting&#xA;&#xA;-Connect to Exchange Online PowerShell Script(Works for MFA too)&#xA;&#xA;-Connect to all Office 365 Services PowerShell Script (Supports MFA)&#xA;&#xA;-Install all Office 365 PowerShell modules&#xA;&#xA;-Office 365 Users Logon History Report&#xA;&#xA;-Office 365 Shared Mailbox Permission Report&#xA;&#xA;-Office 365 Non-Owner Mailbox Access Report&#xA;&#xA;-Office 365 Password Expiry Report&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

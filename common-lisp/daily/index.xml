@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-09T01:24:08Z</updated>
+  <updated>2023-09-10T01:29:00Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cognalog/AI</title>
+    <updated>2023-09-10T01:29:00Z</updated>
+    <id>tag:github.com,2023-09-10:/cognalog/AI</id>
+    <link href="https://github.com/cognalog/AI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI homework assignments&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;AI&lt;/h1&gt; &#xA;&lt;p&gt;AI homework:&lt;/p&gt; &#xA;&lt;p&gt;1-ass: Assignment 1 -- Pattern Matcher&lt;/p&gt; &#xA;&lt;p&gt;problem spec: &lt;a href=&#34;http://www.cs.columbia.edu/~sal/notes/assign1-pm_files/assignment1.txt&#34;&gt;http://www.cs.columbia.edu/~sal/notes/assign1-pm_files/assignment1.txt&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;2-ass: Assignment 2 -- Search Algorithm comparison for a 15-puzzle&lt;/p&gt; &#xA;&lt;p&gt;problem spec: &lt;a href=&#34;http://www.cs.columbia.edu/~sal/notes/assign2-compare-15puz.txt&#34;&gt;http://www.cs.columbia.edu/~sal/notes/assign2-compare-15puz.txt&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;3-ass: Assignment 3 -- Isolation game playing using Adversarial Search (under construction)&lt;/p&gt; &#xA;&lt;p&gt;problem spec: &lt;a href=&#34;http://www.cs.columbia.edu/~sal/notes/assign3-isolation-game.htm&#34;&gt;http://www.cs.columbia.edu/~sal/notes/assign3-isolation-game.htm&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;4-ass: Assignment 4 -- Decision Tree Learning Algorithm that accepts a list of records, each listing conditions (where the last &#34;condition&#34; is the outcome), and outputs a program that will infer the outcome from the conditions&lt;/p&gt; &#xA;&lt;p&gt;problem spec: &lt;a href=&#34;http://www.cs.columbia.edu/~sal/notes/assign4-decision-tree.html&#34;&gt;http://www.cs.columbia.edu/~sal/notes/assign4-decision-tree.html&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

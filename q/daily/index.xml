@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub q Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-09T01:34:26Z</updated>
+  <updated>2023-09-10T01:41:25Z</updated>
   <subtitle>Daily Trending of q in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DataIntellectTech/TorQ</title>
-    <updated>2023-09-09T01:34:26Z</updated>
-    <id>tag:github.com,2023-09-09:/DataIntellectTech/TorQ</id>
-    <link href="https://github.com/DataIntellectTech/TorQ" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;kdb+ production framework. Read the doc: https://dataintellecttech.github.io/TorQ/. Join the group!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

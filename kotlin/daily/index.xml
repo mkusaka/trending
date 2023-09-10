@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-09T01:30:08Z</updated>
+  <updated>2023-09-10T01:36:24Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>android/snippets</title>
+    <updated>2023-09-10T01:36:24Z</updated>
+    <id>tag:github.com,2023-09-10:/android/snippets</id>
+    <link href="https://github.com/android/snippets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Main repository for snippets surfaced on developer.android.com.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Android Snippets&lt;/h1&gt; &#xA;&lt;p&gt;This repository holds code snippets used in Android documentation on &lt;a href=&#34;https://developer.android.com/guide&#34;&gt;developer.android.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The idea is that by having a small sample project that contains the code snippets from documentation, developers will gain more context on how to implement a specific API.&lt;/p&gt; &#xA;&lt;p&gt;In addition, by having CI running on this repo, we can ensure that the code snippets on developer.android.com is in a working condition.&lt;/p&gt; &#xA;&lt;p&gt;It is a work in progress, as many snippets are still embedded as static HTML.&lt;/p&gt; &#xA;&lt;h1&gt;Contributing&lt;/h1&gt; &#xA;&lt;p&gt;We love contributions! See &lt;a href=&#34;https://raw.githubusercontent.com/android/snippets/main/CONTRIBUTING.md&#34;&gt;CONTRIBUTING.md&lt;/a&gt; for guidelines.&lt;/p&gt;</summary>
+  </entry>
 </feed>

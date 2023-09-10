@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-10T02:05:43Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>npci/falcon</title>
+    <updated>2023-09-10T02:05:43Z</updated>
+    <id>tag:github.com,2023-09-10:/npci/falcon</id>
+    <link href="https://github.com/npci/falcon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Falcon: The Hyperledger Fabric Deployment Helper for Kubernetes is an open-source project designed to streamline the deployment and management of Hyperledger Fabric based blockchain networks on K8.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>apache/skywalking-helm</title>
+    <updated>2023-09-10T02:05:43Z</updated>
+    <id>tag:github.com,2023-09-10:/apache/skywalking-helm</id>
+    <link href="https://github.com/apache/skywalking-helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache SkyWalking Kubernetes Deployment Helm Chart&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rh-telco-tigers/rhacm-gitops-workshop</title>
+    <updated>2023-09-10T02:05:43Z</updated>
+    <id>tag:github.com,2023-09-10:/rh-telco-tigers/rhacm-gitops-workshop</id>
+    <link href="https://github.com/rh-telco-tigers/rhacm-gitops-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

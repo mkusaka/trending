@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub DTrace Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-10T01:52:26Z</updated>
+  <subtitle>Weekly Trending of DTrace in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Gibberlings3/TyrisFlare</title>
+    <updated>2023-09-10T01:52:26Z</updated>
+    <id>tag:github.com,2023-09-10:/Gibberlings3/TyrisFlare</id>
+    <link href="https://github.com/Gibberlings3/TyrisFlare" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Meet Tyris Flare, a red-haired amazon who can kick ass and hurl fire! Sound familiar? That&#39;s because I decided to have a nostalgia trip and recreate a character from ye olde Golden Axe computer games that were released on the Sega Mega Drive (or Genesis in America) and arcade machines in the 90s.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-09T01:22:16Z</updated>
+  <updated>2023-09-10T01:26:42Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JessicaSachs/nice-maintainer</title>
-    <updated>2023-09-09T01:22:16Z</updated>
-    <id>tag:github.com,2023-09-09:/JessicaSachs/nice-maintainer</id>
-    <link href="https://github.com/JessicaSachs/nice-maintainer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of tools to help you be a nicer maintainer, even when things get tough.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stefangrage/koebenhavnerbilleder.dk</title>
+    <updated>2023-09-10T01:26:42Z</updated>
+    <id>tag:github.com,2023-09-10:/stefangrage/koebenhavnerbilleder.dk</id>
+    <link href="https://github.com/stefangrage/koebenhavnerbilleder.dk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

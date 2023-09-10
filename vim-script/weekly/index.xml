@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-10T02:08:02Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kristijanhusak/vim-dadbod-ui</title>
+    <updated>2023-09-10T02:08:02Z</updated>
+    <id>tag:github.com,2023-09-10:/kristijanhusak/vim-dadbod-ui</id>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple UI for https://github.com/tpope/vim-dadbod&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Shougo/dpp.vim</title>
+    <updated>2023-09-10T02:08:02Z</updated>
+    <id>tag:github.com,2023-09-10:/Shougo/dpp.vim</id>
+    <link href="https://github.com/Shougo/dpp.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dark powered plugin manager for Vim/neovim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>python-mode/python-mode</title>
+    <updated>2023-09-10T02:08:02Z</updated>
+    <id>tag:github.com,2023-09-10:/python-mode/python-mode</id>
+    <link href="https://github.com/python-mode/python-mode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
