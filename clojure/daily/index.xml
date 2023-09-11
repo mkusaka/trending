@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-10T01:28:41Z</updated>
+  <updated>2023-09-11T01:28:03Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Fireman42/Guesser</title>
-    <updated>2023-09-10T01:28:41Z</updated>
-    <id>tag:github.com,2023-09-10:/Fireman42/Guesser</id>
-    <link href="https://github.com/Fireman42/Guesser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;playing with clojure (guesses anything from 1-1000 if you don&#39;t lie to it) :D&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>athos/sweet-array</title>
-    <updated>2023-09-10T01:28:41Z</updated>
-    <id>tag:github.com,2023-09-10:/athos/sweet-array</id>
-    <link href="https://github.com/athos/sweet-array" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Array manipulation library for Clojure with &#34;sweet&#34; array type notation and more safety by static types&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

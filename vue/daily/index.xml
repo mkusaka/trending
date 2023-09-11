@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-10T01:46:33Z</updated>
+  <updated>2023-09-11T01:44:09Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dulaiduwang003/TIME-SEA-chatgpt</title>
-    <updated>2023-09-10T01:46:33Z</updated>
-    <id>tag:github.com,2023-09-10:/dulaiduwang003/TIME-SEA-chatgpt</id>
-    <link href="https://github.com/dulaiduwang003/TIME-SEA-chatgpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于SpringBoot3开发的Ai平台 含双端 网页以及小程序 包含chatgpt newbing claude , 双端数据同步 支持自定义预设词,功能板块定义,各类绘图 web兼容手机展示&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>frappe/builder</title>
+    <updated>2023-09-11T01:44:09Z</updated>
+    <id>tag:github.com,2023-09-11:/frappe/builder</id>
+    <link href="https://github.com/frappe/builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern website builder for modern web pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>radix-vue/shadcn-vue</title>
-    <updated>2023-09-10T01:46:33Z</updated>
-    <id>tag:github.com,2023-09-10:/radix-vue/shadcn-vue</id>
-    <link href="https://github.com/radix-vue/shadcn-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue port of shadcn-ui&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Nekogram/files</title>
+    <updated>2023-09-11T01:44:09Z</updated>
+    <id>tag:github.com,2023-09-11:/Nekogram/files</id>
+    <link href="https://github.com/Nekogram/files" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Websites for Nekogram.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

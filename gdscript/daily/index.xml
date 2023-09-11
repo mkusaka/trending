@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-10T01:32:40Z</updated>
+  <updated>2023-09-11T01:31:01Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Zennyth/EnhancedStat</title>
+    <updated>2023-09-11T01:31:01Z</updated>
+    <id>tag:github.com,2023-09-11:/Zennyth/EnhancedStat</id>
+    <link href="https://github.com/Zennyth/EnhancedStat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enhanced Stat is an addon for Godot 4.1, designed to provide an intuitive and powerful way to manage stats in games such as Health, Mana, Speed, and Attack Damage.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

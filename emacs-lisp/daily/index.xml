@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-10T01:31:37Z</updated>
+  <updated>2023-09-11T01:30:17Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vinayurala/emacs_init</title>
-    <updated>2023-09-10T01:31:37Z</updated>
-    <id>tag:github.com,2023-09-10:/vinayurala/emacs_init</id>
-    <link href="https://github.com/vinayurala/emacs_init" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Emacs Init file backup&lt;/p&gt;&lt;hr&gt;&lt;p&gt;My emacs init file; contains emacs customizations.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>leahneukirchen/gitsum</title>
-    <updated>2023-09-10T01:31:37Z</updated>
-    <id>tag:github.com,2023-09-10:/leahneukirchen/gitsum</id>
-    <link href="https://github.com/leahneukirchen/gitsum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;basic darcsum feelalike for Git&lt;/p&gt;&lt;hr&gt;&lt;p&gt;= gitsum.el --- basic darcsum feelalike for Git&lt;/p&gt; &#xA;&lt;p&gt;Copyright (C) 2008 Christian Neukirchen &amp;lt;purl.org/net/chneukirchen&amp;gt; Licensed under the same terms as Emacs.&lt;/p&gt; &#xA;&lt;p&gt;Gitsum provides a mode to do interactive partial commits with Emacs. Run &lt;code&gt;M-x gitsum&#39; inside a Git repository and kill everything you don&#39;t want to commit with &lt;/code&gt;k&#39;. You can navigate easily between hunks with &lt;code&gt;n&#39; and &lt;/code&gt;p&#39; and between files with &lt;code&gt;N&#39; and &lt;/code&gt;P&#39;. A whole file can be killed with &lt;code&gt;K&#39;. If you want to refine the patch, you can split it with &lt;/code&gt;C-c C-s&#39;. If you toggle read-only with `C-x C-q&#39;, you can edit everything freely (be careful!).&lt;/p&gt; &#xA;&lt;p&gt;If you are ready, commit the patch with &lt;code&gt;C-c C-c&#39; or just &lt;/code&gt;c&#39;. Enter the message and press `C-c C-c&#39; again.&lt;/p&gt; &#xA;&lt;p&gt;N.B: If you want to add files in the commit, use &lt;code&gt;M-x git-status&#39; from git.el, add the files with &lt;/code&gt;a&#39;, then switch to gitsum with `s&#39;. You can only add files as a whole. You need git.el from the git repository then.&lt;/p&gt; &#xA;&lt;p&gt;Repository: &lt;a href=&#34;http://github.com/chneukirchen/gitsum&#34;&gt;http://github.com/chneukirchen/gitsum&lt;/a&gt; git://github.com/chneukirchen/gitsum.git Patches to: &lt;a href=&#34;mailto:chneukirchen@gmail.com&#34;&gt;chneukirchen@gmail.com&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

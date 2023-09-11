@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-10T01:43:04Z</updated>
+  <updated>2023-09-11T01:40:45Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cloudflare/pingora</title>
-    <updated>2023-09-10T01:43:04Z</updated>
-    <id>tag:github.com,2023-09-10:/cloudflare/pingora</id>
-    <link href="https://github.com/cloudflare/pingora" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library for building fast, reliable and evolvable network services.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Pingora&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://opensource.org/licenses/Apache-2.0&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/License-Apache_2.0-blue.svg?sanitize=true&#34; alt=&#34;License&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;A library for building fast, reliable and evolvable network services.&lt;/p&gt;</summary>
-  </entry>
 </feed>

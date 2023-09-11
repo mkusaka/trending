@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-10T01:28:48Z</updated>
+  <updated>2023-09-11T01:28:09Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kyubotics/coolq-cpp-sdk</title>
-    <updated>2023-09-10T01:28:48Z</updated>
-    <id>tag:github.com,2023-09-10:/kyubotics/coolq-cpp-sdk</id>
-    <link href="https://github.com/kyubotics/coolq-cpp-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CoolQ C++ SDK&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sudara/cmake-includes</title>
-    <updated>2023-09-10T01:28:48Z</updated>
-    <id>tag:github.com,2023-09-10:/sudara/cmake-includes</id>
-    <link href="https://github.com/sudara/cmake-includes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CMake include files used by Pamplejuce, the JUCE CMake template&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

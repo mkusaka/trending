@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-10T01:43:33Z</updated>
+  <updated>2023-09-11T01:41:17Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>seata/seata.github.io</title>
+    <updated>2023-09-11T01:41:17Z</updated>
+    <id>tag:github.com,2023-09-11:/seata/seata.github.io</id>
+    <link href="https://github.com/seata/seata.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Seata website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
