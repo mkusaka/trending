@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-11T01:31:56Z</updated>
+  <updated>2023-09-12T01:28:35Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>negative7/home-cluster</title>
-    <updated>2023-09-11T01:31:56Z</updated>
-    <id>tag:github.com,2023-09-11:/negative7/home-cluster</id>
-    <link href="https://github.com/negative7/home-cluster" rel="alternate"></link>
+    <title>DevOpsAirflow/devsecops-class-vpc-3-modules</title>
+    <updated>2023-09-12T01:28:35Z</updated>
+    <id>tag:github.com,2023-09-12:/DevOpsAirflow/devsecops-class-vpc-3-modules</id>
+    <link href="https://github.com/DevOpsAirflow/devsecops-class-vpc-3-modules" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ministryofjustice/data-platform</title>
-    <updated>2023-09-11T01:31:56Z</updated>
-    <id>tag:github.com,2023-09-11:/ministryofjustice/data-platform</id>
-    <link href="https://github.com/ministryofjustice/data-platform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core Repo for Data Platform • This repository is defined and managed in Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DevOpsAirflow/devsecops-class-vpc-2</title>
+    <updated>2023-09-12T01:28:35Z</updated>
+    <id>tag:github.com,2023-09-12:/DevOpsAirflow/devsecops-class-vpc-2</id>
+    <link href="https://github.com/DevOpsAirflow/devsecops-class-vpc-2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LinkedInLearning/terraform-managing-network-infrastructure-4373320</title>
+    <updated>2023-09-12T01:28:35Z</updated>
+    <id>tag:github.com,2023-09-12:/LinkedInLearning/terraform-managing-network-infrastructure-4373320</id>
+    <link href="https://github.com/LinkedInLearning/terraform-managing-network-infrastructure-4373320" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo is for the Linkedin Learning course: Terraform: Managing Network Infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-11T01:35:47Z</updated>
+  <updated>2023-09-12T01:31:36Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>eecs281staff/lab-01-music-sorting</title>
-    <updated>2023-09-11T01:35:47Z</updated>
-    <id>tag:github.com,2023-09-11:/eecs281staff/lab-01-music-sorting</id>
-    <link href="https://github.com/eecs281staff/lab-01-music-sorting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HanshengGUO/DistriPerfMonitor</title>
-    <updated>2023-09-11T01:35:47Z</updated>
-    <id>tag:github.com,2023-09-11:/HanshengGUO/DistriPerfMonitor</id>
-    <link href="https://github.com/HanshengGUO/DistriPerfMonitor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DistriPerfMonitor is a robust and scalable C++ based performance monitoring solution specifically designed for distributed Linux environments. It aims to provide real-time insights and analytics into system performance, resource utilization, and potential bottlenecks across multiple nodes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tim-rose/abckit</title>
+    <updated>2023-09-12T01:31:36Z</updated>
+    <id>tag:github.com,2023-09-12:/tim-rose/abckit</id>
+    <link href="https://github.com/tim-rose/abckit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for manipulating &#34;abc&#34; format music files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

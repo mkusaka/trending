@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-11T01:44:09Z</updated>
+  <updated>2023-09-12T01:39:22Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>frappe/builder</title>
-    <updated>2023-09-11T01:44:09Z</updated>
-    <id>tag:github.com,2023-09-11:/frappe/builder</id>
-    <link href="https://github.com/frappe/builder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern website builder for modern web pages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lei00764/DBP</title>
+    <updated>2023-09-12T01:39:22Z</updated>
+    <id>tag:github.com,2023-09-12:/Lei00764/DBP</id>
+    <link href="https://github.com/Lei00764/DBP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Nekogram/files</title>
-    <updated>2023-09-11T01:44:09Z</updated>
-    <id>tag:github.com,2023-09-11:/Nekogram/files</id>
-    <link href="https://github.com/Nekogram/files" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Websites for Nekogram.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mastodon-DE/joinmastodon</title>
+    <updated>2023-09-12T01:39:22Z</updated>
+    <id>tag:github.com,2023-09-12:/Mastodon-DE/joinmastodon</id>
+    <link href="https://github.com/Mastodon-DE/joinmastodon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Landing page for the greatest Mastodon server of them all&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

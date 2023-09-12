@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-11T01:37:22Z</updated>
+  <updated>2023-09-12T01:33:09Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>robur-coop/miou</title>
+    <updated>2023-09-12T01:33:09Z</updated>
+    <id>tag:github.com,2023-09-12:/robur-coop/miou</id>
+    <link href="https://github.com/robur-coop/miou" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple scheduler for OCaml 5&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>andreypopp/react_of_ocaml</title>
+    <updated>2023-09-12T01:33:09Z</updated>
+    <id>tag:github.com,2023-09-12:/andreypopp/react_of_ocaml</id>
+    <link href="https://github.com/andreypopp/react_of_ocaml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;React Server Components (RSC) for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

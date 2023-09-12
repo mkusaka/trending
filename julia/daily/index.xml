@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-11T01:34:21Z</updated>
+  <updated>2023-09-12T01:30:22Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yoninazarathy/2504_2023_project1</title>
-    <updated>2023-09-11T01:34:21Z</updated>
-    <id>tag:github.com,2023-09-11:/yoninazarathy/2504_2023_project1</id>
-    <link href="https://github.com/yoninazarathy/2504_2023_project1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template for project 1 in the 2023 MATH2504 course&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jbisits/RasterHistograms.jl</title>
-    <updated>2023-09-11T01:34:21Z</updated>
-    <id>tag:github.com,2023-09-11:/jbisits/RasterHistograms.jl</id>
-    <link href="https://github.com/jbisits/RasterHistograms.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Empirical distribution fitting for Rasters.jl.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RelationalAI/SolverAPI.jl</title>
+    <updated>2023-09-12T01:30:22Z</updated>
+    <id>tag:github.com,2023-09-12:/RelationalAI/SolverAPI.jl</id>
+    <link href="https://github.com/RelationalAI/SolverAPI.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for solving serialized Rel SolverAPI library models with external solvers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
