@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-12T01:28:52Z</updated>
+  <updated>2023-09-13T01:30:47Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jess-hammer/2d-pixel-water-shader</title>
-    <updated>2023-09-12T01:28:52Z</updated>
-    <id>tag:github.com,2023-09-12:/jess-hammer/2d-pixel-water-shader</id>
-    <link href="https://github.com/jess-hammer/2d-pixel-water-shader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

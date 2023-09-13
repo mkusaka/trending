@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-12T01:33:43Z</updated>
+  <updated>2023-09-13T01:36:03Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>harmattan/reset-root-password</title>
-    <updated>2023-09-12T01:33:43Z</updated>
-    <id>tag:github.com,2023-09-12:/harmattan/reset-root-password</id>
-    <link href="https://github.com/harmattan/reset-root-password" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Package that resets the root password in postinst (useful to recover a forgotten password)&lt;/p&gt;&lt;hr&gt;&lt;pre&gt;&lt;code&gt;                          reset-root-password&#xA;          Reset a forgotten root password on MeeGo Harmattan&#xA;          ==================================================&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;To use, copy &#34;reset-root-password_1.0.0_all.deb&#34; to the MyDocs partition:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;scp reset-root-password_1.0.0_all.deb user@n9:MyDocs/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Alternatively, copy the file to the device using USB Mass Storage mode.&lt;/p&gt; &#xA;&lt;p&gt;Then, open a shell as &#34;user&#34; and install the package via:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;xdg-open /home/user/MyDocs/reset-root-password_1.0.0_all.deb&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;If you don&#39;t have access to the &#34;user&#34;&#39;s shell for some reason, simply wait a bit after disconnecting USB Mass Storage, and the .deb package should appear in the &#34;Search&#34; utility when you search for it. Install it from there.&lt;/p&gt; &#xA;&lt;p&gt;After installation, use &#34;devel-su&#34; to get root, and then use &#34;passwd&#34; to change the password. Use &#34;dpkg --remove reset-root-password&#34; to remove this package after your root password is reset.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Website: http://thp.io/2012/maemo/&#xA;2012-05-14 Thomas Perl &amp;lt;m@thp.io&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>neilb/HTTP-Lite</title>
+    <updated>2023-09-13T01:36:03Z</updated>
+    <id>tag:github.com,2023-09-13:/neilb/HTTP-Lite</id>
+    <link href="https://github.com/neilb/HTTP-Lite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Perl CPAN module HTTP::Lite&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>W4118/f23-tester-hmwk1</title>
-    <updated>2023-09-12T01:33:43Z</updated>
-    <id>tag:github.com,2023-09-12:/W4118/f23-tester-hmwk1</id>
-    <link href="https://github.com/W4118/f23-tester-hmwk1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Don&#39;t touch tester.py.&lt;/p&gt; &#xA;&lt;p&gt;Add your tests to homework_tests.py.&lt;/p&gt; &#xA;&lt;p&gt;Copy your w4118_sh file to this directory.&lt;/p&gt; &#xA;&lt;p&gt;Then run:&lt;/p&gt; &#xA;&lt;p&gt;python tester.py&lt;/p&gt; &#xA;&lt;p&gt;This testing script does not guarantee you will get a 100% on the homework 1. This script is intended to help you achieve a 100%.&lt;/p&gt; &#xA;&lt;p&gt;To run checkpatch: cd checkpatch ./run_checkpatch.sh /path/to/your/homework/repo&lt;/p&gt; &#xA;&lt;p&gt;Make sure there&#39;s no erros and warnings.&lt;/p&gt;</summary>
+    <title>nichtich/App-Run</title>
+    <updated>2023-09-13T01:36:03Z</updated>
+    <id>tag:github.com,2023-09-13:/nichtich/App-Run</id>
+    <link href="https://github.com/nichtich/App-Run" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Boilerplate for Applications&lt;/p&gt;&lt;hr&gt;&lt;p&gt;The Perl module App::Run provides a boilerplate for applications that can be executed both from command line and as backend. The package provides a convenient wrapper for initialization and configuration.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;This module is not maintaned anymore, please just &lt;a href=&#34;http://neilb.org/2013/07/24/adopt-a-module.html&#34;&gt;adopt it&lt;/a&gt; as you like or have a look at &lt;a href=&#34;https://metacpan.org/release/App-Cmd&#34;&gt;App::Cmd&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

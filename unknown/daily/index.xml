@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-12T01:21:47Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-09-13T01:23:41Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Kyuu-Ji/Awesome-Azure-Pentest</title>
-    <updated>2023-09-12T01:21:47Z</updated>
-    <id>tag:github.com,2023-09-12:/Kyuu-Ji/Awesome-Azure-Pentest</id>
-    <link href="https://github.com/Kyuu-Ji/Awesome-Azure-Pentest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rf-peixoto/phishing_pot</title>
-    <updated>2023-09-12T01:21:47Z</updated>
-    <id>tag:github.com,2023-09-12:/rf-peixoto/phishing_pot</id>
-    <link href="https://github.com/rf-peixoto/phishing_pot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of phishing samples for researchers and detection developers.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Visualize-ML/Book1_Python-For-Beginners</title>
-    <updated>2023-09-12T01:21:47Z</updated>
-    <id>tag:github.com,2023-09-12:/Visualize-ML/Book1_Python-For-Beginners</id>
-    <link href="https://github.com/Visualize-ML/Book1_Python-For-Beginners" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Book_1_《编程不难》 | 鸢尾花书：从加减乘除到机器学习；已文件还会经过至少两轮修改，改动会很大，大家注意下载最新版本。请多提意见，谢谢&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oven-sh/awesome-bun</title>
+    <updated>2023-09-13T01:23:41Z</updated>
+    <id>tag:github.com,2023-09-13:/oven-sh/awesome-bun</id>
+    <link href="https://github.com/oven-sh/awesome-bun" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡️ A curated list of awesome things related to Bun&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

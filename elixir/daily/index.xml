@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-12T01:26:36Z</updated>
+  <updated>2023-09-13T01:28:39Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>valuechainfactory/vc_utils</title>
-    <updated>2023-09-12T01:26:36Z</updated>
-    <id>tag:github.com,2023-09-12:/valuechainfactory/vc_utils</id>
-    <link href="https://github.com/valuechainfactory/vc_utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tools and helpers we constantly find repeated in most of our projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>carsdotcom/car_req</title>
+    <updated>2023-09-13T01:28:39Z</updated>
+    <id>tag:github.com,2023-09-13:/carsdotcom/car_req</id>
+    <link href="https://github.com/carsdotcom/car_req" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

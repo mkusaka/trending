@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-12T01:39:16Z</updated>
+  <updated>2023-09-13T01:41:56Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fuh/vimrc</title>
-    <updated>2023-09-12T01:39:16Z</updated>
-    <id>tag:github.com,2023-09-12:/fuh/vimrc</id>
-    <link href="https://github.com/fuh/vimrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;minimal .vimrc for c/c++ developers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bdloser404/Fluttermux</title>
+    <updated>2023-09-13T01:41:56Z</updated>
+    <id>tag:github.com,2023-09-13:/bdloser404/Fluttermux</id>
+    <link href="https://github.com/bdloser404/Fluttermux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run Flutter on Termux Natively.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gmitrev/dotfiles</title>
+    <updated>2023-09-13T01:41:56Z</updated>
+    <id>tag:github.com,2023-09-13:/gmitrev/dotfiles</id>
+    <link href="https://github.com/gmitrev/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim, zsh, tmux and other config files.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

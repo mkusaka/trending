@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JSON Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-12T01:30:13Z</updated>
+  <updated>2023-09-13T01:32:15Z</updated>
   <subtitle>Daily Trending of JSON in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sagarkrp/Prometheus-and-Grafana</title>
+    <updated>2023-09-13T01:32:15Z</updated>
+    <id>tag:github.com,2023-09-13:/sagarkrp/Prometheus-and-Grafana</id>
+    <link href="https://github.com/sagarkrp/Prometheus-and-Grafana" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Monitoring Linux Server with Prometheus and Grafana. Node and Blackbox exporter. Alert Manager.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-12T01:28:57Z</updated>
+  <updated>2023-09-13T01:30:54Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xiaorouji/openwrt-passwall</title>
-    <updated>2023-09-12T01:28:57Z</updated>
-    <id>tag:github.com,2023-09-12:/xiaorouji/openwrt-passwall</id>
-    <link href="https://github.com/xiaorouji/openwrt-passwall" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A commonly used proxy toolchain for Openwrt LuCI Application.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>teivah/100-go-mistakes</title>
+    <updated>2023-09-13T01:30:54Z</updated>
+    <id>tag:github.com,2023-09-13:/teivah/100-go-mistakes</id>
+    <link href="https://github.com/teivah/100-go-mistakes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📖 100 Go Mistakes and How to Avoid Them&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;100 Go Mistakes and How to Avoid Them&lt;/h1&gt; &#xA;&lt;p&gt;Source code and community space of 📖 &lt;em&gt;100 Go Mistakes and How to Avoid Them&lt;/em&gt;, published by Manning in August 2022.&lt;/p&gt; &#xA;&lt;p&gt;Read online: &lt;a href=&#34;https://100go.co&#34;&gt;100go.co&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>mavroudisv/plain-academic</title>
+    <updated>2023-09-13T01:30:54Z</updated>
+    <id>tag:github.com,2023-09-13:/mavroudisv/plain-academic</id>
+    <link href="https://github.com/mavroudisv/plain-academic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A truly simple website template for academics&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Plain-Academic Template&lt;/h1&gt; &#xA;&lt;p&gt;A truly simple website template for academics. It was developed with simplicity in mind (both in terms of style and in code complexity).&lt;/p&gt; &#xA;&lt;p&gt;Just download the two files (index.html and photo.gif) and start editing straightaway.&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/mavroudisv/plain-academic/master/img/frontpage.png&#34; width=&#34;60%&#34; height=&#34;60%&#34;&gt; &#xA;&lt;p&gt;If you have suggestions for improvements feel free to make a pull request or open an issue.&lt;/p&gt; &#xA;&lt;p&gt;If you are using it, I&#39;d be happy to hear from you! You can drop me a line at (&lt;a href=&#34;https://mavroud.is&#34;&gt;link&lt;/a&gt;)!&lt;/p&gt; &#xA;&lt;p&gt;You can get more ideas from other nice people using this template:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://jbootle.github.io/&#34;&gt;Jonathan Bootle&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.cs.ucf.edu/~rezaei&#34;&gt;Hossein Rezaei&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://www.gustavocevolani.it/&#34;&gt;Gustavo Cevolani&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://nlp.stanford.edu/~isabelvp/&#34;&gt;Isabel Papadimitriou&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.cs.umd.edu/~dsaha/&#34;&gt;Debjani Saha&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://dongchen-coder.github.io/&#34;&gt;Dong Chen&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://statweb.stanford.edu/~souravc/index.html&#34;&gt;Sourav Chatterjee&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.seas.upenn.edu/~cffjiang/&#34;&gt;Chenfanfu Jiang&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://masumhasan.net/&#34;&gt;Masum Hasan&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://tapjdey.github.io/&#34;&gt;Tapajit Dey&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://jakobbrounstein.github.io/&#34;&gt;Jakob Brounstein&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Please do not remove the attibution link of the template, so that other people can find it too.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>HuXn-WebDev/React-With-10-Projects</title>
+    <updated>2023-09-13T01:30:54Z</updated>
+    <id>tag:github.com,2023-09-13:/HuXn-WebDev/React-With-10-Projects</id>
+    <link href="https://github.com/HuXn-WebDev/React-With-10-Projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Master ReactJS By Building 10 Amazing Projects 💙&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;React-With-10-Projects 👇&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=XrwsMN2IWnE&#34;&gt;Master ReactJS in 7 Hours with 10 Real-World Projects 2023&lt;/a&gt; 🤘🥂.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/HuXn-WebDev/React-With-10-Projects/main/thumb.png&#34; alt=&#34;Course Thumnail&#34;&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

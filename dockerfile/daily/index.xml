@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-12T01:25:33Z</updated>
+  <updated>2023-09-13T01:27:40Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>karaage0703/open-interpreter-docker</title>
+    <updated>2023-09-13T01:27:40Z</updated>
+    <id>tag:github.com,2023-09-13:/karaage0703/open-interpreter-docker</id>
+    <link href="https://github.com/karaage0703/open-interpreter-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;open-interpreter docker environment&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;open-interpreter-docker&lt;/h1&gt; &#xA;&lt;p&gt;open-interpreter docker environment&lt;/p&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;p&gt;Git clone&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ cd &amp;amp;&amp;amp; git clone https://github.com/karaage0703/open-interpreter-docker&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Docker&lt;/h3&gt; &#xA;&lt;h4&gt;Docker build&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ cd ~/open-interpreter-docker&#xA;$ docker build -t ubuntu:open-interpreter-docker .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Run docker&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ cd ~/open-interpreter-docker&#xA;$ docker run -it --rm -v $(pwd):/root ubuntu:open-interpreter-docker&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Run app&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;root@hostname:~# interpreter&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;References&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://note.com/masia02/n/n630d091c4a02&#34;&gt;https://note.com/masia02/n/n630d091c4a02&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-12T01:39:57Z</updated>
+  <updated>2023-09-13T01:42:39Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ianw/bottomupcs</title>
+    <updated>2023-09-13T01:42:39Z</updated>
+    <id>tag:github.com,2023-09-13:/ianw/bottomupcs</id>
+    <link href="https://github.com/ianw/bottomupcs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bottom Up Computer Science&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Computer Science from the Bottom Up&lt;/h2&gt; &#xA;&lt;p&gt;You should be able to make the course materials by typing&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;make &amp;lt;html|pdf|epub&amp;gt;&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Output is in &lt;code&gt;html.output&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Dependencies are roughly:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;java&lt;/li&gt; &#xA; &lt;li&gt;libxml2-utils&lt;/li&gt; &#xA; &lt;li&gt;transfig (for fig2dev)&lt;/li&gt; &#xA; &lt;li&gt;pdf : prince - &lt;a href=&#34;https://www.princexml.com/&#34;&gt;https://www.princexml.com/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;epub : calibre&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;I am always interested in contribution and feedback so please feel free to email&lt;/p&gt; &#xA;&lt;p&gt;Ian Wienand &lt;a href=&#34;mailto:ian@wienand.org&#34;&gt;ian@wienand.org&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
