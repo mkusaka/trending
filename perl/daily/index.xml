@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-13T01:36:03Z</updated>
+  <updated>2023-09-14T01:34:37Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>neilb/HTTP-Lite</title>
-    <updated>2023-09-13T01:36:03Z</updated>
-    <id>tag:github.com,2023-09-13:/neilb/HTTP-Lite</id>
-    <link href="https://github.com/neilb/HTTP-Lite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Perl CPAN module HTTP::Lite&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>renatocron/Pendant</title>
+    <updated>2023-09-14T01:34:37Z</updated>
+    <id>tag:github.com,2023-09-14:/renatocron/Pendant</id>
+    <link href="https://github.com/renatocron/Pendant" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A git based wiki&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;Synopsis Pendant is a git/plack-based wiki&lt;/li&gt; &#xA; &lt;li&gt;Running&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;#+begin_src sh dzil authordeps | cpanm dzil listdeps | cpanm plackup -Ilib #+end_src&lt;/p&gt; &#xA;&lt;p&gt;Visit &lt;a href=&#34;http://localhost:5000/README&#34;&gt;http://localhost:5000/README&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>nichtich/App-Run</title>
-    <updated>2023-09-13T01:36:03Z</updated>
-    <id>tag:github.com,2023-09-13:/nichtich/App-Run</id>
-    <link href="https://github.com/nichtich/App-Run" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Boilerplate for Applications&lt;/p&gt;&lt;hr&gt;&lt;p&gt;The Perl module App::Run provides a boilerplate for applications that can be executed both from command line and as backend. The package provides a convenient wrapper for initialization and configuration.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;This module is not maintaned anymore, please just &lt;a href=&#34;http://neilb.org/2013/07/24/adopt-a-module.html&#34;&gt;adopt it&lt;/a&gt; as you like or have a look at &lt;a href=&#34;https://metacpan.org/release/App-Cmd&#34;&gt;App::Cmd&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;</summary>
+    <title>mauke/Acme-Lvalue</title>
+    <updated>2023-09-14T01:34:37Z</updated>
+    <id>tag:github.com,2023-09-14:/mauke/Acme-Lvalue</id>
+    <link href="https://github.com/mauke/Acme-Lvalue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Acme-Lvalue&lt;/p&gt; &#xA;&lt;p&gt;Generalized lvalue subroutines.&lt;/p&gt; &#xA;&lt;p&gt;INSTALLATION&lt;/p&gt; &#xA;&lt;p&gt;To install this module, run the following commands:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;perl Makefile.PL&#xA;make&#xA;make test&#xA;make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;SUPPORT AND DOCUMENTATION&lt;/p&gt; &#xA;&lt;p&gt;After installing, you can find documentation for this module with the perldoc command.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;perldoc Acme::Lvalue&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You can also look for information at:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;RT, CPAN&#39;s request tracker (report bugs here)&#xA;    http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-Lvalue&#xA;&#xA;AnnoCPAN, Annotated CPAN documentation&#xA;    http://annocpan.org/dist/Acme-Lvalue&#xA;&#xA;CPAN Ratings&#xA;    http://cpanratings.perl.org/d/Acme-Lvalue&#xA;&#xA;Search CPAN&#xA;    http://search.cpan.org/dist/Acme-Lvalue/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;LICENSE AND COPYRIGHT&lt;/p&gt; &#xA;&lt;p&gt;Copyright (C) 2011-2012 Lukas Mai&lt;/p&gt; &#xA;&lt;p&gt;This program is free software; you can redistribute it and/or modify it under the terms of either: the GNU General Public License as published by the Free Software Foundation; or the Artistic License.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;http://dev.perl.org/licenses/&#34;&gt;http://dev.perl.org/licenses/&lt;/a&gt; for more information.&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-13T01:42:01Z</updated>
+  <updated>2023-09-14T01:40:35Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>YangMr/mt-project</title>
-    <updated>2023-09-13T01:42:01Z</updated>
-    <id>tag:github.com,2023-09-13:/YangMr/mt-project</id>
-    <link href="https://github.com/YangMr/mt-project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;医疗项目&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>imsyy/DailyHot</title>
-    <updated>2023-09-13T01:42:01Z</updated>
-    <id>tag:github.com,2023-09-13:/imsyy/DailyHot</id>
-    <link href="https://github.com/imsyy/DailyHot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elysiajs/documentation</title>
-    <updated>2023-09-13T01:42:01Z</updated>
-    <id>tag:github.com,2023-09-13:/elysiajs/documentation</id>
-    <link href="https://github.com/elysiajs/documentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation for Elysia.js&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tencent/tdesign</title>
+    <updated>2023-09-14T01:40:35Z</updated>
+    <id>tag:github.com,2023-09-14:/Tencent/tdesign</id>
+    <link href="https://github.com/Tencent/tdesign" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enterprise Design System&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

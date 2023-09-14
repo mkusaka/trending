@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-13T01:39:21Z</updated>
+  <updated>2023-09-14T01:37:47Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ptechgithub/ReverseTlsTunnel</title>
+    <updated>2023-09-14T01:37:47Z</updated>
+    <id>tag:github.com,2023-09-14:/Ptechgithub/ReverseTlsTunnel</id>
+    <link href="https://github.com/Ptechgithub/ReverseTlsTunnel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ReverseTlsTunnel&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ReverseTlsTunnel&lt;/h1&gt; &#xA;&lt;h2&gt;تانل معکوس&lt;/h2&gt; &#xA;&lt;p&gt;تونل معکوس: فرقش با تونل عادی اینه که کانکشن را سرور خارج آغاز میکنه مثل یک بازدید کننده خارجی از یه سایت ایرانی که سرور شما باشه و بعد از اتصال ؛ دیتا مثل تونل عادی رد و بدل میشه ؛ این روش از تونل های عادی که سرور ایران به خارج کانکشن رو شروع میکنه از نظر دیتکت شدن؛ میشه گفت بهتره چون عموما یه سرور کانکشن به جایی شروع نمی کنه (برای مدت طولانی و تعداد کانکشن همزمان بالا!) .&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://youtube.com/watch?v=1mj1fhA2X6s&#34;&gt;آموزش در کانال @IR_TECH&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;در حالت مولتی پورت و به صورت سرویس اجرا میشود.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;از پورت 23 تا 65535 میتوانید استفاده کنید.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;پورت 1 تا 22 قابل استفاده نیستند.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;از SNI و پسورد یکسان روی هر دو سرور جهت اتصال به یکدیگر استفاده کنید.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;h2&gt;برای اپدیت یک بار لغو نصب و مجدد نصب کنید.&lt;/h2&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Install&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;bash &amp;lt;(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/ReverseTlsTunnel/main/RtTunnel.sh)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Ptechgithub/configs/main/media/1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;با تشکر از &lt;a href=&#34;https://github.com/radkesvat/ReverseTlsTunnel/tree/master&#34;&gt;radkesvat&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>fscarmen2/Choreo2</title>
+    <updated>2023-09-14T01:37:47Z</updated>
+    <id>tag:github.com,2023-09-14:/fscarmen2/Choreo2</id>
+    <link href="https://github.com/fscarmen2/Choreo2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;2023/09/14 00:52:58&lt;/p&gt;</summary>
+  </entry>
 </feed>

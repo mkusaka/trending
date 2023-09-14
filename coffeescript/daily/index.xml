@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-13T01:26:25Z</updated>
+  <updated>2023-09-14T01:25:42Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>celtra/reform</title>
-    <updated>2023-09-13T01:26:25Z</updated>
-    <id>tag:github.com,2023-09-13:/celtra/reform</id>
-    <link href="https://github.com/celtra/reform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTML forms the way you want them&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gyulalaszlo/mustard2</title>
+    <updated>2023-09-14T01:25:42Z</updated>
+    <id>tag:github.com,2023-09-14:/gyulalaszlo/mustard2</id>
+    <link href="https://github.com/gyulalaszlo/mustard2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Structured, data-driven templating for JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

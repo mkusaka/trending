@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-13T01:39:15Z</updated>
+  <updated>2023-09-14T01:37:41Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PrincessMaggy/hertechtrail_cohort7_project</title>
-    <updated>2023-09-13T01:39:15Z</updated>
-    <id>tag:github.com,2023-09-13:/PrincessMaggy/hertechtrail_cohort7_project</id>
-    <link href="https://github.com/PrincessMaggy/hertechtrail_cohort7_project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

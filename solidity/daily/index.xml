@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-13T01:40:02Z</updated>
+  <updated>2023-09-14T01:38:21Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>okx/OKTC-VRF</title>
-    <updated>2023-09-13T01:40:02Z</updated>
-    <id>tag:github.com,2023-09-13:/okx/OKTC-VRF</id>
-    <link href="https://github.com/okx/OKTC-VRF" rel="alternate"></link>
+    <title>Galxe/galxe-contracts</title>
+    <updated>2023-09-14T01:38:21Z</updated>
+    <id>tag:github.com,2023-09-14:/Galxe/galxe-contracts</id>
+    <link href="https://github.com/Galxe/galxe-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Galxe smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>coolprojectmanager/sheep_game</title>
+    <updated>2023-09-14T01:38:21Z</updated>
+    <id>tag:github.com,2023-09-14:/coolprojectmanager/sheep_game</id>
+    <link href="https://github.com/coolprojectmanager/sheep_game" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>okx/vmbridge-examples</title>
-    <updated>2023-09-13T01:40:02Z</updated>
-    <id>tag:github.com,2023-09-13:/okx/vmbridge-examples</id>
-    <link href="https://github.com/okx/vmbridge-examples" rel="alternate"></link>
+    <title>centrifuge/lp-xcm-relayer</title>
+    <updated>2023-09-14T01:38:21Z</updated>
+    <id>tag:github.com,2023-09-14:/centrifuge/lp-xcm-relayer</id>
+    <link href="https://github.com/centrifuge/lp-xcm-relayer" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Panaroma-Finance/Panaroma-Token-Smart-Contract</title>
-    <updated>2023-09-13T01:40:02Z</updated>
-    <id>tag:github.com,2023-09-13:/Panaroma-Finance/Panaroma-Token-Smart-Contract</id>
-    <link href="https://github.com/Panaroma-Finance/Panaroma-Token-Smart-Contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Single File Smart Contract for Panaroma Token.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

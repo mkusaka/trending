@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-13T01:37:51Z</updated>
+  <updated>2023-09-14T01:36:08Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>aufrank/R-hacks</title>
-    <updated>2023-09-13T01:37:51Z</updated>
-    <id>tag:github.com,2023-09-13:/aufrank/R-hacks</id>
-    <link href="https://github.com/aufrank/R-hacks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;useful bits of code for programming and analysis in R&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#+TITLE: README.org #+AUTHOR: Austin F. Frank #+EMAIL: &lt;a href=&#34;mailto:austin.frank@gmail.com&#34;&gt;austin.frank@gmail.com&lt;/a&gt; #+DATE: 2011-02-24 Thu #+OPTIONS: H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t &amp;lt;:t #+OPTIONS: TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc&lt;/p&gt; &#xA;&lt;p&gt;When I find I&#39;m using the same functions on more than one project, I factor them out and keep them here.&lt;/p&gt;</summary>
-  </entry>
 </feed>
