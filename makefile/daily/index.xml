@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-14T01:32:28Z</updated>
+  <updated>2023-09-15T01:34:35Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oauth-wg/oauth-sd-jwt-vc</title>
+    <updated>2023-09-15T01:34:35Z</updated>
+    <id>tag:github.com,2023-09-15:/oauth-wg/oauth-sd-jwt-vc</id>
+    <link href="https://github.com/oauth-wg/oauth-sd-jwt-vc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;draft-terbu-sd-jwt-vc&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Open-CMSIS-Pack/generator-bridge</title>
+    <updated>2023-09-15T01:34:35Z</updated>
+    <id>tag:github.com,2023-09-15:/Open-CMSIS-Pack/generator-bridge</id>
+    <link href="https://github.com/Open-CMSIS-Pack/generator-bridge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reference examples of a generator bridge. E.g. STCubeMX_Bridge&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

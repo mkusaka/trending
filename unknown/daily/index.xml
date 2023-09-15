@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-14T01:22:37Z</updated>
+  <updated>2023-09-15T01:24:00Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hackxpeng/hackp5g9</title>
-    <updated>2023-09-14T01:22:37Z</updated>
-    <id>tag:github.com,2023-09-14:/hackxpeng/hackp5g9</id>
-    <link href="https://github.com/hackxpeng/hackp5g9" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;本项目可以帮助小鹏P5和小鹏G9开启adb和网络adb&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>transmissions11/solcurity</title>
-    <updated>2023-09-14T01:22:37Z</updated>
-    <id>tag:github.com,2023-09-14:/transmissions11/solcurity</id>
-    <link href="https://github.com/transmissions11/solcurity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Opinionated security and code quality standard for Solidity smart contracts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Galxe/protocol-whitepaper</title>
-    <updated>2023-09-14T01:22:37Z</updated>
-    <id>tag:github.com,2023-09-14:/Galxe/protocol-whitepaper</id>
-    <link href="https://github.com/Galxe/protocol-whitepaper" rel="alternate"></link>
+    <title>carlcastanas/IT-curriculum-guide</title>
+    <updated>2023-09-15T01:24:00Z</updated>
+    <id>tag:github.com,2023-09-15:/carlcastanas/IT-curriculum-guide</id>
+    <link href="https://github.com/carlcastanas/IT-curriculum-guide" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>godotengine/awesome-godot</title>
+    <updated>2023-09-15T01:24:00Z</updated>
+    <id>tag:github.com,2023-09-15:/godotengine/awesome-godot</id>
+    <link href="https://github.com/godotengine/awesome-godot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of free/libre plugins, scripts and add-ons for Godot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

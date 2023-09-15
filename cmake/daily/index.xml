@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-14T01:25:36Z</updated>
+  <updated>2023-09-15T01:26:30Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gottyduke/SF_PluginTemplate</title>
-    <updated>2023-09-14T01:25:36Z</updated>
-    <id>tag:github.com,2023-09-14:/gottyduke/SF_PluginTemplate</id>
-    <link href="https://github.com/gottyduke/SF_PluginTemplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plugin template for SFSE plugins. click &#34;Use this template&#34; to generate your project.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eosnetworkfoundation/eos-evm-node</title>
-    <updated>2023-09-14T01:25:36Z</updated>
-    <id>tag:github.com,2023-09-14:/eosnetworkfoundation/eos-evm-node</id>
-    <link href="https://github.com/eosnetworkfoundation/eos-evm-node" rel="alternate"></link>
+    <title>klepsydra-technologies/kpsr-build</title>
+    <updated>2023-09-15T01:26:30Z</updated>
+    <id>tag:github.com,2023-09-15:/klepsydra-technologies/kpsr-build</id>
+    <link href="https://github.com/klepsydra-technologies/kpsr-build" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

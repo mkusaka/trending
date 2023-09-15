@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-14T01:41:01Z</updated>
+  <updated>2023-09-15T01:43:32Z</updated>
   <subtitle>Daily Trending of XML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>YordanPetrov/xhtml-information-retrieval</title>
+    <updated>2023-09-15T01:43:32Z</updated>
+    <id>tag:github.com,2023-09-15:/YordanPetrov/xhtml-information-retrieval</id>
+    <link href="https://github.com/YordanPetrov/xhtml-information-retrieval" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playing with XSLT and OXPath as part of an university project&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Querying and storing XML&lt;/h1&gt; &#xA;&lt;h2&gt;Project 18: Information extraction from (X)HTML pages.&lt;/h2&gt; &#xA;&lt;p&gt;Playing with XSLT and OXPath as part of an university project&lt;/p&gt; &#xA;&lt;h3&gt;Authors&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://github.com/YordanPetrov&#34;&gt;Yordan Petrov&lt;/a&gt; &lt;a href=&#34;http://github.com/adamof&#34;&gt;Stefan Adamov&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
