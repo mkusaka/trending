@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-15T01:39:19Z</updated>
+  <updated>2023-09-16T01:35:31Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alumni-codex/alumni-codex.github.io</title>
-    <updated>2023-09-15T01:39:19Z</updated>
-    <id>tag:github.com,2023-09-15:/alumni-codex/alumni-codex.github.io</id>
-    <link href="https://github.com/alumni-codex/alumni-codex.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Links, docs, info that Pivotal (Labs) Alumni want to keep close&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The Pivotal Alumni Codex&lt;/h1&gt; &#xA;&lt;p&gt;A place for the links to the things we wish we&#39;d taken with us. Hosted at GitHub at &lt;a href=&#34;https://alumni-codex.github.io/&#34;&gt;https://alumni-codex.github.io/&lt;/a&gt; and as a redirect from &lt;a href=&#34;https://pivotal.fun/codex&#34;&gt;https://pivotal.fun/codex&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Given that the &lt;a href=&#34;https://pivotal.fun/&#34;&gt;Pivotal Alumni Slack&lt;/a&gt; is free, and free Slacks have only 90-day retention, we use this site to bookmark web stuff that we find helpful &lt;em&gt;after&lt;/em&gt; Pivotal.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;The &lt;code&gt;main&lt;/code&gt; branch of this repo the source code for this site&lt;/li&gt; &#xA; &lt;li&gt;When changes are made to the &lt;code&gt;main&lt;/code&gt; brach, GitHub Actions builds and deploys HTML&lt;/li&gt; &#xA; &lt;li&gt;The HTML and CSS are generated with &lt;a href=&#34;https://www.mkdocs.org/&#34;&gt;MkDocs&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;This site is hosted via GitHub Pages&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;All changes should come via Pull Request.&lt;/li&gt; &#xA; &lt;li&gt;Please see &lt;a href=&#34;https://raw.githubusercontent.com/alumni-codex/alumni-codex.github.io/main/CONTRIBUTING.md&#34;&gt;CONTRIBUTING.md&lt;/a&gt; for details on how to add and update files.&lt;/li&gt; &#xA; &lt;li&gt;Be Kind&lt;/li&gt; &#xA; &lt;li&gt;Reach out to Davis - @infews - if you want to help with admin of this site&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

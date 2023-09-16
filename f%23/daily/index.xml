@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-15T01:29:30Z</updated>
+  <updated>2023-09-16T01:26:05Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>santialbo/IRCbot</title>
-    <updated>2023-09-15T01:29:30Z</updated>
-    <id>tag:github.com,2023-09-15:/santialbo/IRCbot</id>
-    <link href="https://github.com/santialbo/IRCbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An IRC bot library written in F#&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;IRCbot&lt;/h1&gt; &#xA;&lt;p&gt;IRCbot is a small IRC bot implementation which handles all the TCP stuff. You just have to define a message handler function which will be called uupon each message received by the TCP client. See the usage example for clarification.&lt;/p&gt; &#xA;&lt;h2&gt;Usage:&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-FSharp&#34;&gt;open IRCbot.Bot&#xA;open IRCbot.Util&#xA;&#xA;let server = &#34;irc.quakenet.org&#34;&#xA;let port = 6667&#xA;let nick = &#34;Botijo&#34;&#xA;let channels = [&#34;#testchannel&#34;]&#xA;&#xA;let msgHandler (line: string) (write: string -&amp;gt; unit) =&#xA;&#xA;    let say channel text = write (sprintf &#34;PRIVMSG %s :%s&#34; channel text)&#xA;    &#xA;    match line with&#xA;    | Message (JOIN(user, channel)) when user = nick -&amp;gt; say channel &#34;Hello world!&#34;&#xA;    | _ -&amp;gt; ()&#xA;    &#xA;let bot = new SimpleBot(server, port, nick, channels, msgHandler)&#xA;bot.Start()&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

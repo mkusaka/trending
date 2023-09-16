@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-15T01:26:33Z</updated>
+  <updated>2023-09-16T01:23:46Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kaaveland/clj-euler</title>
-    <updated>2023-09-15T01:26:33Z</updated>
-    <id>tag:github.com,2023-09-15:/kaaveland/clj-euler</id>
-    <link href="https://github.com/kaaveland/clj-euler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solving some project euler problems to learn clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>techascent/tmducken</title>
+    <updated>2023-09-16T01:23:46Z</updated>
+    <id>tag:github.com,2023-09-16:/techascent/tmducken</id>
+    <link href="https://github.com/techascent/tmducken" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;tech.ml.dataset integration with duckdb&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>philandstuff/coremidi-clj</title>
+    <updated>2023-09-16T01:23:46Z</updated>
+    <id>tag:github.com,2023-09-16:/philandstuff/coremidi-clj</id>
+    <link href="https://github.com/philandstuff/coremidi-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure interface to OS X CoreMIDI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jamesreprise/mfc</title>
+    <updated>2023-09-16T01:23:46Z</updated>
+    <id>tag:github.com,2023-09-16:/jamesreprise/mfc</id>
+    <link href="https://github.com/jamesreprise/mfc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

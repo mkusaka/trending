@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-15T01:39:01Z</updated>
+  <updated>2023-09-16T01:35:09Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Unity-Technologies/AnthroNet</title>
-    <updated>2023-09-15T01:39:01Z</updated>
-    <id>tag:github.com,2023-09-15:/Unity-Technologies/AnthroNet</id>
-    <link href="https://github.com/Unity-Technologies/AnthroNet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unity&#39;s Privacy-Preserving Novel Human Body Model Trained Solely on Synthetic Data and Corresponding Dense Anthropometric Measurements&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>KGU-C-Lab/C-Lab_23-2_AndroidStudy</title>
-    <updated>2023-09-15T01:39:01Z</updated>
-    <id>tag:github.com,2023-09-15:/KGU-C-Lab/C-Lab_23-2_AndroidStudy</id>
-    <link href="https://github.com/KGU-C-Lab/C-Lab_23-2_AndroidStudy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2023-2 Android Study&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

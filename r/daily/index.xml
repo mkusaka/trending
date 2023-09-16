@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-15T01:38:26Z</updated>
+  <updated>2023-09-16T01:34:39Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>stk222lehigh/BUAN44_Practice</title>
-    <updated>2023-09-15T01:38:26Z</updated>
-    <id>tag:github.com,2023-09-15:/stk222lehigh/BUAN44_Practice</id>
-    <link href="https://github.com/stk222lehigh/BUAN44_Practice" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GitKraken Workflow Practice&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BUAN44_Practice&lt;/h1&gt; &#xA;&lt;p&gt;GitKraken Workflow Practice&lt;/p&gt;</summary>
+    <title>knbknb/htmltable_2_R</title>
+    <updated>2023-09-16T01:34:39Z</updated>
+    <id>tag:github.com,2023-09-16:/knbknb/htmltable_2_R</id>
+    <link href="https://github.com/knbknb/htmltable_2_R" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Screenscrape from web into R, create plot. Uses environmental data from https://pangaea.de;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;htmltable_2_R&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;This simple R script is from 2013, when I was learning to get web-data into R, and to create plots. Quite an experience for me, back when I just started using R.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;There is just one R script. It imports environmental science-data (~ 1kB) directly from the internet, via screen-scraping, then generates a simple X-Y-scatterplot using the &lt;code&gt;qplot()&lt;/code&gt; function of the popular &lt;em&gt;ggplot2&lt;/em&gt; library. &lt;em&gt;(Update 2017: I would do this differently now, using &lt;code&gt;tidyverse&lt;/code&gt; packages)&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;Geological data are fetched from the science-data repository &lt;a href=&#34;https://pangaea.de&#34;&gt;https://pangaea.de&lt;/a&gt;, using &lt;em&gt;Rcurl&lt;/em&gt;. The R code selects the HTML table on the page with an xpath expression, creates a data frame, generates the simple X-Y plot. At this time, only a single column is plotted.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;a href=&#34;https://doi.pangaea.de/10.1594/PANGAEA.772960?format=html&#34;&gt;sample dataset&lt;/a&gt; - ages of sediment layers from Lake Rehwiese in the Berlin/Brandenburg area- is simple+small. This geochronology data is easy to understand, and has some relevance to my work.&lt;/p&gt; &#xA;&lt;p&gt;For other data sets from pangaea.de, or to select other columns: - Must change the source code, or use &lt;a href=&#34;https://ropensci.github.io/pangaear/&#34;&gt;ROpenSci&#39;s &lt;code&gt;pangaear&lt;/code&gt; package&lt;/a&gt;. See &lt;a href=&#34;https://raw.githubusercontent.com/knbknb/htmltable_2_R/master/get_with_pangaear.R&#34;&gt;get_with_pangaear.R&lt;/a&gt; for a rewrite of the &lt;code&gt;get_from_pangaea.R&lt;/code&gt; script.&lt;/p&gt; &#xA;&lt;p&gt;Two sample &lt;a href=&#34;https://raw.githubusercontent.com/knbknb/htmltable_2_R/master/rehwiese.jpg&#34;&gt;outfiles (in JPG Format), from 2013 and 2018&lt;/a&gt; are shown below.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/knbknb/htmltable_2_R/master/rehwiese.jpg&#34; alt=&#34;Plots&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/knbknb/htmltable_2_R/master/rehwiese_coordflipped.jpg&#34; alt=&#34;Current output (from 2018)&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Again, I was not involved in creating this dataset, I just selected it because of its small size and simple structure. I&#39;m not interpreting the data here.&lt;/p&gt; &#xA;&lt;p&gt;Todo: make the xpath-expression, and the selection of columns in the plot, a command line option. &lt;del&gt;Flip the coordinate axes&lt;/del&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>BarathkumarJK/programming-languages</title>
+    <updated>2023-09-16T01:34:39Z</updated>
+    <id>tag:github.com,2023-09-16:/BarathkumarJK/programming-languages</id>
+    <link href="https://github.com/BarathkumarJK/programming-languages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Programming-languages&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ismaila91/CANSSI_project</title>
+    <updated>2023-09-16T01:34:39Z</updated>
+    <id>tag:github.com,2023-09-16:/Ismaila91/CANSSI_project</id>
+    <link href="https://github.com/Ismaila91/CANSSI_project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;These are the files associated to my CANSSI project.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;README&lt;/h2&gt; &#xA;&lt;p&gt;Repository related to the files of my CANSSI project.&lt;/p&gt;</summary>
   </entry>
 </feed>

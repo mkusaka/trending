@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-15T01:33:12Z</updated>
+  <updated>2023-09-16T01:29:43Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>beacon-biosignals/Ray.jl</title>
-    <updated>2023-09-15T01:33:12Z</updated>
-    <id>tag:github.com,2023-09-15:/beacon-biosignals/Ray.jl</id>
-    <link href="https://github.com/beacon-biosignals/Ray.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia API for Ray&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaPhysics/ABCDMatrixOptics.jl</title>
-    <updated>2023-09-15T01:33:12Z</updated>
-    <id>tag:github.com,2023-09-15:/JuliaPhysics/ABCDMatrixOptics.jl</id>
-    <link href="https://github.com/JuliaPhysics/ABCDMatrixOptics.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaPy/PythonCall.jl</title>
+    <updated>2023-09-16T01:29:43Z</updated>
+    <id>tag:github.com,2023-09-16:/JuliaPy/PythonCall.jl</id>
+    <link href="https://github.com/JuliaPy/PythonCall.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python and Julia in harmony.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

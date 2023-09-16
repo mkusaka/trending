@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-15T01:24:00Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-09-16T01:21:29Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>carlcastanas/IT-curriculum-guide</title>
-    <updated>2023-09-15T01:24:00Z</updated>
-    <id>tag:github.com,2023-09-15:/carlcastanas/IT-curriculum-guide</id>
-    <link href="https://github.com/carlcastanas/IT-curriculum-guide" rel="alternate"></link>
+    <title>TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite</title>
+    <updated>2023-09-16T01:21:29Z</updated>
+    <id>tag:github.com,2023-09-16:/TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite</id>
+    <link href="https://github.com/TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;perfect programming language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JaredC01/Galileo2</title>
+    <updated>2023-09-16T01:21:29Z</updated>
+    <id>tag:github.com,2023-09-16:/JaredC01/Galileo2</id>
+    <link href="https://github.com/JaredC01/Galileo2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>godotengine/awesome-godot</title>
-    <updated>2023-09-15T01:24:00Z</updated>
-    <id>tag:github.com,2023-09-15:/godotengine/awesome-godot</id>
-    <link href="https://github.com/godotengine/awesome-godot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of free/libre plugins, scripts and add-ons for Godot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gnobitab/InstaFlow</title>
+    <updated>2023-09-16T01:21:29Z</updated>
+    <id>tag:github.com,2023-09-16:/gnobitab/InstaFlow</id>
+    <link href="https://github.com/gnobitab/InstaFlow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡ InstaFlow! One-Step Stable Diffusion with Rectified Flow&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

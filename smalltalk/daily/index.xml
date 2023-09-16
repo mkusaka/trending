@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-15T01:40:43Z</updated>
+  <updated>2023-09-16T01:36:35Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pharo-newcomers/summerschool-code</title>
-    <updated>2023-09-15T01:40:43Z</updated>
-    <id>tag:github.com,2023-09-15:/pharo-newcomers/summerschool-code</id>
-    <link href="https://github.com/pharo-newcomers/summerschool-code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pharo-contributions/Artefact</title>
+    <updated>2023-09-16T01:36:35Z</updated>
+    <id>tag:github.com,2023-09-16:/pharo-contributions/Artefact</id>
+    <link href="https://github.com/pharo-contributions/Artefact" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Artefact is a framework to generate PDF documents in Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-15T01:37:04Z</updated>
+  <updated>2023-09-16T01:33:19Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BaptisteVasseur/ApiPlatform</title>
+    <updated>2023-09-16T01:33:19Z</updated>
+    <id>tag:github.com,2023-09-16:/BaptisteVasseur/ApiPlatform</id>
+    <link href="https://github.com/BaptisteVasseur/ApiPlatform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Install project :&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Show all commands&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;make # or&#xA;make help&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Useful commands :&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;&amp;gt; make stop # Stop all docker images&#xA;&amp;gt; make start # Start all docker images&#xA;&amp;gt; make restart # Restart all docker images&#xA;&amp;gt; make migration # Create migration with changes&#xA;&amp;gt; make migrate # Apply new migration &#xA;&amp;gt; make composer # Composer install in docker container&#xA;&#xA;&amp;gt; make docker-disable # Disable docker for php container &#xA;&amp;gt; make docker-enable # Enable docker for php container&#xA;...&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;If you disable docker for php container, you should create a .env.local file with&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-dotenv&#34;&gt;MAILER_DSN=smtp://localhost:1025&#xA;DATABASE_URL=&#34;postgresql://symfony:password@localhost:5432/postgres?serverVersion=15&amp;amp;charset=utf8&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;If make is not enabled :&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;# Si make n&#39;est pas installé &#xA;&amp;gt; docker compose build&#xA;&amp;gt; docker compose up -d&#xA;&amp;gt; docker compose exec -it php sh&#xA;&#xA;# Le terminal du container s&#39;ouvre :&#xA;&amp;gt; composer install&#xA;&amp;gt; bin/console lexik:jwt:generate-keypair -n --overwrite&#xA;&amp;gt; bin/console doctrine:database:create --if-not-exists&#xA;&amp;gt; bin/console doctrine:migrations:migrate -n&#xA;&amp;gt; bin/console hautelook:fixture:load -n&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>
