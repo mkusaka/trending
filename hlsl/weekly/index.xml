@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HLSL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-17T01:50:41Z</updated>
+  <subtitle>Weekly Trending of HLSL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kaze-mio/NahidaRenderProject</title>
+    <updated>2023-09-17T01:50:41Z</updated>
+    <id>tag:github.com,2023-09-17:/kaze-mio/NahidaRenderProject</id>
+    <link href="https://github.com/kaze-mio/NahidaRenderProject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Unity sample project, for rendering Genshin characters like Nahida.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kaze-mio/UnityGenshinToonShader</title>
+    <updated>2023-09-17T01:50:41Z</updated>
+    <id>tag:github.com,2023-09-17:/kaze-mio/UnityGenshinToonShader</id>
+    <link href="https://github.com/kaze-mio/UnityGenshinToonShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A custom genshin-like toon shader, based on URP.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-17T01:50:24Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fairylands/lernplaner</title>
+    <updated>2023-09-17T01:50:24Z</updated>
+    <id>tag:github.com,2023-09-17:/fairylands/lernplaner</id>
+    <link href="https://github.com/fairylands/lernplaner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

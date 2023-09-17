@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub R Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-17T01:57:41Z</updated>
+  <subtitle>Weekly Trending of R in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DS-ifupnyk/praktikum2020</title>
+    <updated>2023-09-17T01:57:41Z</updated>
+    <id>tag:github.com,2023-09-17:/DS-ifupnyk/praktikum2020</id>
+    <link href="https://github.com/DS-ifupnyk/praktikum2020" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Praktikum Data Science Prodi Informatika (Th. 2019/2020)&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>CreRecombinase/MatrixeQTLGLM</title>
+    <updated>2023-09-17T01:57:41Z</updated>
+    <id>tag:github.com,2023-09-17:/CreRecombinase/MatrixeQTLGLM</id>
+    <link href="https://github.com/CreRecombinase/MatrixeQTLGLM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MatrixEQTL with GLM&lt;/p&gt;&lt;hr&gt;&lt;p&gt;High level overview of functions for MatrixeQTL/glmnet Prioritize correctness,modularity,and readability (in that order)&lt;/p&gt; &#xA;&lt;p&gt;Processing samples Matrix eQTL needs to be run on subsampled SNP and expression matrices. This is complicated due to the sampling with replacement, as MatrixEQTL returns an error when a matrix has duplicated columns. Possible solutions are to sample without replacement, or to create new names for the columns, and then rework which samples are which Instead, we&#39;re simply going to sample without replacement.&lt;/p&gt; &#xA;&lt;p&gt;To perform k-fold cross validation, we must first split the samples up into k groups. This should be done by subprocesses to reduce memory load.&lt;/p&gt; &#xA;&lt;p&gt;MEQTL Child processes will be passed the entire dataset, along with criteria for removing test data, and the rest of the parameters for that run of MatrixEQTL&lt;/p&gt;</summary>
+  </entry>
+</feed>

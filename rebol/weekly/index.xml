@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rebol Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-17T01:57:59Z</updated>
+  <subtitle>Weekly Trending of Rebol in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BrianHawley/r2-forward</title>
+    <updated>2023-09-17T01:57:59Z</updated>
+    <id>tag:github.com,2023-09-17:/BrianHawley/r2-forward</id>
+    <link href="https://github.com/BrianHawley/r2-forward" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The R2/Forward Project: Backporting Rebol 3 to Rebol 2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

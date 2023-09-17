@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-16T01:34:20Z</updated>
+  <updated>2023-09-17T01:38:42Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>input-output-hk/marlowe-runner</title>
+    <updated>2023-09-17T01:38:42Z</updated>
+    <id>tag:github.com,2023-09-17:/input-output-hk/marlowe-runner</id>
+    <link href="https://github.com/input-output-hk/marlowe-runner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple app which allows you to deploy and progress through Marlowe contract on Cardano.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

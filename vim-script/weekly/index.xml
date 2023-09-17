@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-17T02:01:46Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>42Paris/42header</title>
+    <updated>2023-09-17T02:01:46Z</updated>
+    <id>tag:github.com,2023-09-17:/42Paris/42header</id>
+    <link href="https://github.com/42Paris/42header" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;42 header&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rhysd/git-messenger.vim</title>
+    <updated>2023-09-17T02:01:46Z</updated>
+    <id>tag:github.com,2023-09-17:/rhysd/git-messenger.vim</id>
+    <link href="https://github.com/rhysd/git-messenger.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim and Neovim plugin to reveal the commit messages under the cursor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MTDL9/vim-log-highlighting</title>
+    <updated>2023-09-17T02:01:46Z</updated>
+    <id>tag:github.com,2023-09-17:/MTDL9/vim-log-highlighting</id>
+    <link href="https://github.com/MTDL9/vim-log-highlighting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Syntax highlighting for generic log files in VIM&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

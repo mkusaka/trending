@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-17T01:45:32Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kellwinr/galaxybook_mask</title>
+    <updated>2023-09-17T01:45:32Z</updated>
+    <id>tag:github.com,2023-09-17:/kellwinr/galaxybook_mask</id>
+    <link href="https://github.com/kellwinr/galaxybook_mask" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This script will allow you to mimic your windows pc as a Galaxy Book laptop, this is usually used to bypass Samsung&#39;s restriction&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VirtualHotBar/HotPEToolBox</title>
+    <updated>2023-09-17T01:45:32Z</updated>
+    <id>tag:github.com,2023-09-17:/VirtualHotBar/HotPEToolBox</id>
+    <link href="https://github.com/VirtualHotBar/HotPEToolBox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个纯净、强大、优雅的WinPE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

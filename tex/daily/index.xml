@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-16T01:37:49Z</updated>
+  <updated>2023-09-17T01:42:24Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HSR-Stud/ELT1</title>
-    <updated>2023-09-16T01:37:49Z</updated>
-    <id>tag:github.com,2023-09-16:/HSR-Stud/ELT1</id>
-    <link href="https://github.com/HSR-Stud/ELT1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elektrotechnik 1&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Omegapoint/kompetensdag-yubikey-2020</title>
-    <updated>2023-09-16T01:37:49Z</updated>
-    <id>tag:github.com,2023-09-16:/Omegapoint/kompetensdag-yubikey-2020</id>
-    <link href="https://github.com/Omegapoint/kompetensdag-yubikey-2020" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Säkrare SSH med Yubikey, kompetensdag Stockholm 2020-02-07&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Säkrare SSH med Yubikey, kompetensdag Stockholm 2020-02-07&lt;/h1&gt; &#xA;&lt;p&gt;Detta repo innehåller bland annat en presentation och en instruktion för hur man sätter upp Yubikeys för SSH/signera git commits.&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;Fyll gärna på med fler guider/instruktioner/lärdomar om hur man kan använda Yubikeyn efter labbande.&lt;/em&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

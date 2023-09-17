@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-16T01:36:09Z</updated>
+  <updated>2023-09-17T01:40:42Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>YakovlevIlyaGamedev/ShopExample</title>
-    <updated>2023-09-16T01:36:09Z</updated>
-    <id>tag:github.com,2023-09-16:/YakovlevIlyaGamedev/ShopExample</id>
-    <link href="https://github.com/YakovlevIlyaGamedev/ShopExample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Это проект из видео по созданию магазина на Unity, все ресурсы из этого репозитория можно использовать в своих проектах&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

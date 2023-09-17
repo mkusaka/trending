@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-16T01:31:12Z</updated>
+  <updated>2023-09-17T01:35:26Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering</title>
+    <updated>2023-09-17T01:35:26Z</updated>
+    <id>tag:github.com,2023-09-17:/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering</id>
+    <link href="https://github.com/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interactive courseware module that addresses the theory behind multiple clustering methods and how to apply them to real data sets.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

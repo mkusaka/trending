@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-17T01:52:40Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yoninazarathy/2504_2023_project1</title>
+    <updated>2023-09-17T01:52:40Z</updated>
+    <id>tag:github.com,2023-09-17:/yoninazarathy/2504_2023_project1</id>
+    <link href="https://github.com/yoninazarathy/2504_2023_project1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template for project 1 in the 2023 MATH2504 course&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/SciMLSensitivity.jl</title>
+    <updated>2023-09-17T01:52:40Z</updated>
+    <id>tag:github.com,2023-09-17:/SciML/SciMLSensitivity.jl</id>
+    <link href="https://github.com/SciML/SciMLSensitivity.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, adjoint methods, and more for ODEs, SDEs, DDEs, DAEs, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

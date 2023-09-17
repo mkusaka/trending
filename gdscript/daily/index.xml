@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-16T01:26:37Z</updated>
+  <updated>2023-09-17T01:30:38Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Holly9001/JUMP-BARD-9000</title>
-    <updated>2023-09-16T01:26:37Z</updated>
-    <id>tag:github.com,2023-09-16:/Holly9001/JUMP-BARD-9000</id>
-    <link href="https://github.com/Holly9001/JUMP-BARD-9000" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GAME FOR THA GAME DEV TEEM!!!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>miskatonicstudio/goat</title>
+    <updated>2023-09-17T01:30:38Z</updated>
+    <id>tag:github.com,2023-09-17:/miskatonicstudio/goat</id>
+    <link href="https://github.com/miskatonicstudio/goat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot Open Adventure Template (GOAT) is a tool for making 3D adventure games.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-17T01:54:08Z</updated>
+  <subtitle>Weekly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nasa/PrognosticsAlgorithmLibrary</title>
+    <updated>2023-09-17T01:54:08Z</updated>
+    <id>tag:github.com,2023-09-17:/nasa/PrognosticsAlgorithmLibrary</id>
+    <link href="https://github.com/nasa/PrognosticsAlgorithmLibrary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mathworks/MATLAB-Simulink-Challenge-Project-Hub</title>
+    <updated>2023-09-17T01:54:08Z</updated>
+    <id>tag:github.com,2023-09-17:/mathworks/MATLAB-Simulink-Challenge-Project-Hub</id>
+    <link href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ktekeli/audio-steganography-algorithms</title>
+    <updated>2023-09-17T01:54:08Z</updated>
+    <id>tag:github.com,2023-09-17:/ktekeli/audio-steganography-algorithms</id>
+    <link href="https://github.com/ktekeli/audio-steganography-algorithms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Library of Audio Steganography &amp; Watermarking Algorithms&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

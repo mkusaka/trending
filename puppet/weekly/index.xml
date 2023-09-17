@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-17T01:57:09Z</updated>
+  <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oscarrenalias/puppet</title>
+    <updated>2023-09-17T01:57:09Z</updated>
+    <id>tag:github.com,2023-09-17:/oscarrenalias/puppet</id>
+    <link href="https://github.com/oscarrenalias/puppet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My own puppet stuff&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bmonjoie/puppet-php</title>
+    <updated>2023-09-17T01:57:09Z</updated>
+    <id>tag:github.com,2023-09-17:/bmonjoie/puppet-php</id>
+    <link href="https://github.com/bmonjoie/puppet-php" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My PHP5 puppet module for Vagrant&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sid3windr/puppet-powerdns</title>
+    <updated>2023-09-17T01:57:09Z</updated>
+    <id>tag:github.com,2023-09-17:/sid3windr/puppet-powerdns</id>
+    <link href="https://github.com/sid3windr/puppet-powerdns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
