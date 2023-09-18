@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-17T01:35:26Z</updated>
+  <updated>2023-09-18T01:34:07Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering</title>
-    <updated>2023-09-17T01:35:26Z</updated>
-    <id>tag:github.com,2023-09-17:/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering</id>
-    <link href="https://github.com/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interactive courseware module that addresses the theory behind multiple clustering methods and how to apply them to real data sets.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nrokh/ScientificFigures</title>
+    <updated>2023-09-18T01:34:07Z</updated>
+    <id>tag:github.com,2023-09-18:/nrokh/ScientificFigures</id>
+    <link href="https://github.com/nrokh/ScientificFigures" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A comprehensive guide on how to create beautiful scientific figures for technical publications, presentations, and posters&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Patrick9313/Digital-Image-Processing</title>
+    <updated>2023-09-18T01:34:07Z</updated>
+    <id>tag:github.com,2023-09-18:/Patrick9313/Digital-Image-Processing</id>
+    <link href="https://github.com/Patrick9313/Digital-Image-Processing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于MATLAB的图像加解密及传输仿真&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

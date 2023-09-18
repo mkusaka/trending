@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-17T01:26:21Z</updated>
+  <updated>2023-09-18T01:24:25Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ownnih/Rdp-Free</title>
-    <updated>2023-09-17T01:26:21Z</updated>
-    <id>tag:github.com,2023-09-17:/ownnih/Rdp-Free</id>
-    <link href="https://github.com/ownnih/Rdp-Free" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>semazurek/ET-Optimizer</title>
+    <updated>2023-09-18T01:24:25Z</updated>
+    <id>tag:github.com,2023-09-18:/semazurek/ET-Optimizer</id>
+    <link href="https://github.com/semazurek/ET-Optimizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ET is a Batch/PowerShell GUI script to improve performance, debloat, optimize and enhance privacy for Windows 10/11.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

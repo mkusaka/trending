@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-17T01:42:04Z</updated>
+  <updated>2023-09-18T01:40:56Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>codepath/ios101-lab1-mariokart-starter</title>
+    <updated>2023-09-18T01:40:56Z</updated>
+    <id>tag:github.com,2023-09-18:/codepath/ios101-lab1-mariokart-starter</id>
+    <link href="https://github.com/codepath/ios101-lab1-mariokart-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Lab 1: Mariokart Starter Project&lt;/h2&gt; &#xA;&lt;h3&gt;Overview&lt;/h3&gt; &#xA;&lt;p&gt;This is the starter project for iOS 101 Lab 1 Mario Kart&lt;/p&gt;</summary>
+  </entry>
 </feed>

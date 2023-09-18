@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AGS Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-17T01:25:40Z</updated>
+  <updated>2023-09-18T01:23:41Z</updated>
   <subtitle>Daily Trending of AGS Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>loathers/autoscend</title>
+    <updated>2023-09-18T01:23:41Z</updated>
+    <id>tag:github.com,2023-09-18:/loathers/autoscend</id>
+    <link href="https://github.com/loathers/autoscend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An ascension script for KoLMafia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

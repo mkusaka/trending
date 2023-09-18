@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-17T01:40:02Z</updated>
+  <updated>2023-09-18T01:39:04Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tobymao/18xx</title>
+    <updated>2023-09-18T01:39:04Z</updated>
+    <id>tag:github.com,2023-09-18:/tobymao/18xx</id>
+    <link href="https://github.com/tobymao/18xx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A platform for playing 18xx games online!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;18xx.games&lt;/h1&gt; &#xA;&lt;h2&gt;About&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://18xx.games&#34;&gt;18xx.games&lt;/a&gt; is a free, open-source website for playing &lt;a href=&#34;https://boardgamegeek.com/boardgamefamily/19/series-18xx&#34;&gt;18xx&lt;/a&gt; games. All titles are published on 18xx.Games with permission from their respective designers and/or publishers. If you intend to use any title for your own use or on a different website, please contact the applicable designer and/or publisher for any necessary permissions.&lt;/p&gt; &#xA;&lt;h2&gt;Contributors&lt;/h2&gt; &#xA;&lt;p&gt;Special thanks to all the &lt;a href=&#34;https://github.com/tobymao/18xx/graphs/contributors&#34;&gt;contributors&lt;/a&gt; who help make this project what it is!&lt;/p&gt; &#xA;&lt;h2&gt;Development&lt;/h2&gt; &#xA;&lt;p&gt;Please submit &lt;a href=&#34;https://github.com/tobymao/18xx/issues&#34;&gt;issues&lt;/a&gt; and &lt;a href=&#34;https://github.com/tobymao/18xx/pulls&#34;&gt;pull requests&lt;/a&gt;. Most discussion about development happens on the &lt;a href=&#34;https://join.slack.com/t/18xxgames/shared_invite/zt-8ksy028m-CSZC~G5QtiFv60_jdqqulQ&#34;&gt;18xx Slack&lt;/a&gt; in the #18xxgames and #18xxgamesdev channels. If you would like to add your game to the site, please contact us on Slack. For more information, see &lt;a href=&#34;https://raw.githubusercontent.com/tobymao/18xx/master/DEVELOPMENT.md&#34;&gt;&lt;code&gt;DEVELOPMENT.md&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>emanueles/datavis</title>
+    <updated>2023-09-18T01:39:04Z</updated>
+    <id>tag:github.com,2023-09-18:/emanueles/datavis</id>
+    <link href="https://github.com/emanueles/datavis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository that uses Jekyll for Github Pages&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;datavis&lt;/h1&gt; &#xA;&lt;p&gt;A repository that uses Jekyll for Github Pages&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>messense/homebrew-macos-cross-toolchains</title>
+    <updated>2023-09-18T01:39:04Z</updated>
+    <id>tag:github.com,2023-09-18:/messense/homebrew-macos-cross-toolchains</id>
+    <link href="https://github.com/messense/homebrew-macos-cross-toolchains" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;macOS cross compiler toolchains&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;macos-cross-toolchains&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;🚀 Help me to become a full-time open-source developer by &lt;a href=&#34;https://github.com/sponsors/messense&#34;&gt;sponsoring me on GitHub&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;macOS cross compiler toolchains, supports both Apple Silicon &amp;amp; Intel Macs.&lt;/p&gt; &#xA;&lt;p&gt;Download precompiled toolchains from &lt;a href=&#34;https://github.com/messense/homebrew-macos-cross-toolchains/releases&#34;&gt;GitHub Release&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Or install using Homebrew:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;brew tap messense/macos-cross-toolchains&#xA;# install x86_64-unknown-linux-gnu toolchain&#xA;brew install x86_64-unknown-linux-gnu&#xA;# install aarch64-unknown-linux-gnu toolchain&#xA;brew install aarch64-unknown-linux-gnu&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Use with Rust&lt;/h2&gt; &#xA;&lt;p&gt;Suppose you have installed &lt;code&gt;x86_64-unknown-linux-gnu&lt;/code&gt; toolchain and have it on &lt;code&gt;PATH&lt;/code&gt;, setup the environment variables as below to use it with Cargo.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;export CARGO_TARGET_X86_64_UNKNOWN_LINUX_GNU_LINKER=x86_64-linux-gnu-gcc&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Usually only &lt;code&gt;CARGO_TARGET_*_LINKER&lt;/code&gt; is required, in case it somehow fails to compile, you can also set some extra environment variables:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;export CC_x86_64_unknown_linux_gnu=x86_64-linux-gnu-gcc&#xA;export CXX_x86_64_unknown_linux_gnu=x86_64-linux-gnu-g++&#xA;export AR_x86_64_unknown_linux_gnu=x86_64-linux-gnu-ar&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

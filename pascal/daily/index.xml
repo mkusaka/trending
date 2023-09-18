@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-17T01:37:21Z</updated>
+  <updated>2023-09-18T01:36:09Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Mikanoshi/SciDeJS</title>
-    <updated>2023-09-17T01:37:21Z</updated>
-    <id>tag:github.com,2023-09-17:/Mikanoshi/SciDeJS</id>
-    <link href="https://github.com/Mikanoshi/SciDeJS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sciter bindings for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

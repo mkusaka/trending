@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-17T01:39:36Z</updated>
+  <updated>2023-09-18T01:38:41Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>YehyeokBang/git_pr_test</title>
-    <updated>2023-09-17T01:39:36Z</updated>
-    <id>tag:github.com,2023-09-17:/YehyeokBang/git_pr_test</id>
-    <link href="https://github.com/YehyeokBang/git_pr_test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
