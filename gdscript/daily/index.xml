@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-18T01:28:58Z</updated>
+  <updated>2023-09-19T01:29:38Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KenneyNL/Starter-Kit-3D-Platformer</title>
-    <updated>2023-09-18T01:28:58Z</updated>
-    <id>tag:github.com,2023-09-18:/KenneyNL/Starter-Kit-3D-Platformer</id>
-    <link href="https://github.com/KenneyNL/Starter-Kit-3D-Platformer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Yogoda/ZoneLoadingSystem</title>
+    <updated>2023-09-19T01:29:38Z</updated>
+    <id>tag:github.com,2023-09-19:/Yogoda/ZoneLoadingSystem</id>
+    <link href="https://github.com/Yogoda/ZoneLoadingSystem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dynamic zone loading system for Godot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>godotengine/godot-3d-dodge-the-creeps</title>
-    <updated>2023-09-18T01:28:58Z</updated>
-    <id>tag:github.com,2023-09-18:/godotengine/godot-3d-dodge-the-creeps</id>
-    <link href="https://github.com/godotengine/godot-3d-dodge-the-creeps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;3D remake of the 2D Dodge the Creeps in the official docs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AlexeyBond/godot-constraint-solving</title>
-    <updated>2023-09-18T01:28:58Z</updated>
-    <id>tag:github.com,2023-09-18:/AlexeyBond/godot-constraint-solving</id>
-    <link href="https://github.com/AlexeyBond/godot-constraint-solving" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WFC (Wave Function Collapse) and generic constraint-solving implementation for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>V-Sekai/godot-vrm</title>
+    <updated>2023-09-19T01:29:38Z</updated>
+    <id>tag:github.com,2023-09-19:/V-Sekai/godot-vrm</id>
+    <link href="https://github.com/V-Sekai/godot-vrm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Importer/Exporter for VRM avatars and MToon shader. Available in the Godot Asset Library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

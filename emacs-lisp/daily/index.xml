@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-18T01:27:58Z</updated>
+  <updated>2023-09-19T01:28:43Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pprevos/emacs-writing-studio</title>
+    <updated>2023-09-19T01:28:43Z</updated>
+    <id>tag:github.com,2023-09-19:/pprevos/emacs-writing-studio</id>
+    <link href="https://github.com/pprevos/emacs-writing-studio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Emacs configuration for authors&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#+TITLE: Emacs Writing Studio #+AUTHOR: Peter Prevos&lt;/p&gt; &#xA;&lt;p&gt;/Emacs Writing Studio/ is a [[https://lucidmanager.org/tags/emacs/][series of articles]] on how authors can use Emacs to publish articles, books, scripts and websites.&lt;/p&gt; &#xA;&lt;p&gt;[[file:images/emacs-writing-studio.png]]&lt;/p&gt; &#xA;&lt;p&gt;This Emacs configuration stays as close as humanly bearable to Vanilla Emacs.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Relies on Emacs 29.1&lt;/li&gt; &#xA; &lt;li&gt;Standard keyboard shortcuts&lt;/li&gt; &#xA; &lt;li&gt;No configuration for developing software&lt;/li&gt; &#xA; &lt;li&gt;Centred around Org mode&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;To try the /Emacs Writing Studio/, download the &lt;del&gt;init.el&lt;/del&gt; file and run Emacs with the &lt;del&gt;--init-directory&lt;/del&gt; option:&lt;/p&gt; &#xA;&lt;p&gt;&lt;del&gt;emacs --init-directory emacs-writing-studio/init.el&lt;/del&gt;&lt;/p&gt; &#xA;&lt;p&gt;This website will eventually be published in an (e)book with an extended version of the website. The website and the book are written and published with the /Emacs Writing Studio/ Configuration.&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-18T01:42:02Z</updated>
+  <updated>2023-09-19T01:41:35Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AngeloJacobo/DDR3_Controller</title>
-    <updated>2023-09-18T01:42:02Z</updated>
-    <id>tag:github.com,2023-09-18:/AngeloJacobo/DDR3_Controller</id>
-    <link href="https://github.com/AngeloJacobo/DDR3_Controller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>WangXuan95/FPGA-JPEG-LS-encoder</title>
-    <updated>2023-09-18T01:42:02Z</updated>
-    <id>tag:github.com,2023-09-18:/WangXuan95/FPGA-JPEG-LS-encoder</id>
-    <link href="https://github.com/WangXuan95/FPGA-JPEG-LS-encoder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An FPGA-based JPEG-LS encoder, which provides lossless and near-lossless image compression with high compression ratios. 基于FPGA的JPEG-LS编码器，可实现高压缩率的无损/近无损图像压缩。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

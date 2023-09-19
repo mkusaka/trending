@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-18T01:39:20Z</updated>
+  <updated>2023-09-19T01:38:55Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IntelLabs/riscv-vector</title>
+    <updated>2023-09-19T01:38:55Z</updated>
+    <id>tag:github.com,2023-09-19:/IntelLabs/riscv-vector</id>
+    <link href="https://github.com/IntelLabs/riscv-vector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vector Acceleration IP core for RISC-V*&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;riscv-vector&lt;/h1&gt; &#xA;&lt;p&gt;Vector Acceleration IP core for RISC-V*.&lt;/p&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;Vector Acceleration IP core for RISC-V* is a flexible RISC-V Vector unit that aims to support RISC-V Vector extension. The interface is based on OVI (Open Vector Interface) in order to integrate with different scalar cores. The code is written with Chisel.&lt;/p&gt; &#xA;&lt;h2&gt;Status&lt;/h2&gt; &#xA;&lt;p&gt;Under test&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Only the OVI(Open Vector Interface) is under Solderpad Hardware License v2.1 and others follow the Mulan PSL v2.&lt;/p&gt;</summary>
+  </entry>
 </feed>
