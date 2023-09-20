@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-19T01:34:00Z</updated>
+  <updated>2023-09-20T01:35:13Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Patrick9313/Voice-Eliminator</title>
-    <updated>2023-09-19T01:34:00Z</updated>
-    <id>tag:github.com,2023-09-19:/Patrick9313/Voice-Eliminator</id>
-    <link href="https://github.com/Patrick9313/Voice-Eliminator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于带阻滤波器消除一首歌曲中歌手的声音&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>henghuiding/SVC</title>
+    <updated>2023-09-20T01:35:13Z</updated>
+    <id>tag:github.com,2023-09-20:/henghuiding/SVC</id>
+    <link href="https://github.com/henghuiding/SVC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>paulopreto/IBmBiomec</title>
-    <updated>2023-09-19T01:34:00Z</updated>
-    <id>tag:github.com,2023-09-19:/paulopreto/IBmBiomec</id>
-    <link href="https://github.com/paulopreto/IBmBiomec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Disciplina USP de Biomecanica para Informatica Biomedica&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pnnl/ExaGO</title>
+    <updated>2023-09-20T01:35:13Z</updated>
+    <id>tag:github.com,2023-09-20:/pnnl/ExaGO</id>
+    <link href="https://github.com/pnnl/ExaGO" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub G-code Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-19T01:29:31Z</updated>
+  <updated>2023-09-20T01:30:08Z</updated>
   <subtitle>Daily Trending of G-code in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Staacks/wooden-game-boy-cartridge</title>
-    <updated>2023-09-19T01:29:31Z</updated>
-    <id>tag:github.com,2023-09-19:/Staacks/wooden-game-boy-cartridge</id>
-    <link href="https://github.com/Staacks/wooden-game-boy-cartridge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A CNC-machined Game Boy cartridge shell&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

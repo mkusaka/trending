@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-19T01:28:36Z</updated>
+  <updated>2023-09-20T01:29:19Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>crbelaus/elixir_bun</title>
-    <updated>2023-09-19T01:28:36Z</updated>
-    <id>tag:github.com,2023-09-19:/crbelaus/elixir_bun</id>
-    <link href="https://github.com/crbelaus/elixir_bun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An installer for bun&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>emilpriver/go-rust-bun-node</title>
-    <updated>2023-09-19T01:28:36Z</updated>
-    <id>tag:github.com,2023-09-19:/emilpriver/go-rust-bun-node</id>
-    <link href="https://github.com/emilpriver/go-rust-bun-node" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GO vs Rust vs Bun benchmark&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dwyl/fields-demo</title>
+    <updated>2023-09-20T01:29:19Z</updated>
+    <id>tag:github.com,2023-09-20:/dwyl/fields-demo</id>
+    <link href="https://github.com/dwyl/fields-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quick demo of the fields package.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

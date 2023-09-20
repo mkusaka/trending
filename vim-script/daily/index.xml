@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-19T01:41:42Z</updated>
+  <updated>2023-09-20T01:43:19Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>derekhe/msfs2020-map-enhancement</title>
-    <updated>2023-09-19T01:41:42Z</updated>
-    <id>tag:github.com,2023-09-19:/derekhe/msfs2020-map-enhancement</id>
-    <link href="https://github.com/derekhe/msfs2020-map-enhancement" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MSFS2020 Map Enhancement&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>angn/conf</title>
+    <updated>2023-09-20T01:43:19Z</updated>
+    <id>tag:github.com,2023-09-20:/angn/conf</id>
+    <link href="https://github.com/angn/conf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pfista/.vim</title>
+    <updated>2023-09-20T01:43:19Z</updated>
+    <id>tag:github.com,2023-09-20:/pfista/.vim</id>
+    <link href="https://github.com/pfista/.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My .vim plugins and configs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

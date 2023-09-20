@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-19T01:24:00Z</updated>
+  <updated>2023-09-20T01:23:26Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WooooDyy/LLM-Agent-Paper-List</title>
-    <updated>2023-09-19T01:24:00Z</updated>
-    <id>tag:github.com,2023-09-19:/WooooDyy/LLM-Agent-Paper-List</id>
-    <link href="https://github.com/WooooDyy/LLM-Agent-Paper-List" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The paper list of the 86-page paper &#34;The Rise and Potential of Large Language Model Based Agents: A Survey&#34; by Zhiheng Xi et al.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CloudHustlers/Google_Cloud_Computing_Foundations</title>
+    <updated>2023-09-20T01:23:26Z</updated>
+    <id>tag:github.com,2023-09-20:/CloudHustlers/Google_Cloud_Computing_Foundations</id>
+    <link href="https://github.com/CloudHustlers/Google_Cloud_Computing_Foundations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Google Cloud Study Jam Solution of Path Google Cloud Computing Foundations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>daveshap/ACE_Framework</title>
-    <updated>2023-09-19T01:24:00Z</updated>
-    <id>tag:github.com,2023-09-19:/daveshap/ACE_Framework</id>
-    <link href="https://github.com/daveshap/ACE_Framework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xiaomabenten/system_architect</title>
+    <updated>2023-09-20T01:23:26Z</updated>
+    <id>tag:github.com,2023-09-20:/xiaomabenten/system_architect</id>
+    <link href="https://github.com/xiaomabenten/system_architect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💯目前全网最全面的2023年系统架构设计师（软考高级）备考资源库。仅供个人学习，请勿用于商业&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>David-Summers/Azure-Design</title>
-    <updated>2023-09-19T01:24:00Z</updated>
-    <id>tag:github.com,2023-09-19:/David-Summers/Azure-Design</id>
-    <link href="https://github.com/David-Summers/Azure-Design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Azure stencil collection for Visio. Highly functional and always up to date.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0voice/expert_readed_books</title>
+    <updated>2023-09-20T01:23:26Z</updated>
+    <id>tag:github.com,2023-09-20:/0voice/expert_readed_books</id>
+    <link href="https://github.com/0voice/expert_readed_books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
