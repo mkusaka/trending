@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-20T01:41:26Z</updated>
+  <updated>2023-09-21T01:37:50Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wireshape/real-digital-smart-contracts</title>
-    <updated>2023-09-20T01:41:26Z</updated>
-    <id>tag:github.com,2023-09-20:/wireshape/real-digital-smart-contracts</id>
-    <link href="https://github.com/wireshape/real-digital-smart-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contratos Inteligentes baseados na documentação do Piloto do Real Digital fornecidos pelo Bacen em 03-07-2023&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>seamless-protocol/token</title>
-    <updated>2023-09-20T01:41:26Z</updated>
-    <id>tag:github.com,2023-09-20:/seamless-protocol/token</id>
-    <link href="https://github.com/seamless-protocol/token" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chromaxyz/reflex</title>
+    <updated>2023-09-21T01:37:50Z</updated>
+    <id>tag:github.com,2023-09-21:/chromaxyz/reflex</id>
+    <link href="https://github.com/chromaxyz/reflex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Solidity framework for upgradeable modularized applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

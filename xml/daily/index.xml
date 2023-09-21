@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-20T01:43:56Z</updated>
+  <updated>2023-09-21T01:40:07Z</updated>
   <subtitle>Daily Trending of XML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>johnfelipe/juegoplantilla1</title>
-    <updated>2023-09-20T01:43:56Z</updated>
-    <id>tag:github.com,2023-09-20:/johnfelipe/juegoplantilla1</id>
-    <link href="https://github.com/johnfelipe/juegoplantilla1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PhoneGap Build App Template&lt;/h1&gt; &#xA;&lt;p&gt;&lt;em&gt;Copyright (c) 2012 Daniele Veneroni. Released under MIT License.&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;PhoneGap Build App Template is a template (a ready-to-use project) to create web app and it&#39;s formatted to be easly wrapped on a stand-alone application using PhoneGap Build to build app for iOS, Android, Windows Phone, BlackBerry, WebOS and Symbian.&lt;/p&gt; &#xA;&lt;p&gt;You can easly replace or modify the resources of the project to create your own app.&lt;/p&gt; &#xA;&lt;h2&gt;Project Structure:&lt;/h2&gt; &#xA;&lt;h3&gt;index.html&lt;/h3&gt; &#xA;&lt;p&gt;Your main page, that&#39;s the first page that the app will show when loaded.&lt;/p&gt; &#xA;&lt;h3&gt;manifest.webapp&lt;/h3&gt; &#xA;&lt;p&gt;Open Web App manifest, useful if you wish to create a web app for Firefox or Firefox OS.&lt;/p&gt; &#xA;&lt;h3&gt;manifest.appcache&lt;/h3&gt; &#xA;&lt;p&gt;App cache manifest, useful to declare what resources can be cached and what resources must always reload. It can be used to create an offline web app, or a web Firefox OS app.&lt;/p&gt; &#xA;&lt;h3&gt;config.xml&lt;/h3&gt; &#xA;&lt;p&gt;The configurations file. See &lt;a href=&#34;https://build.phonegap.com/docs/config-xml&#34;&gt;Using config.xml&lt;/a&gt; to learn how to personalize yours. It&#39;s already formatted with the most common settings.&lt;/p&gt; &#xA;&lt;h3&gt;icon.png, splash.png&lt;/h3&gt; &#xA;&lt;p&gt;The essential icon and splash screen. These are used only if the the app runs on a device that don&#39;t support any of the provided icons or splash screens.&lt;/p&gt; &#xA;&lt;h3&gt;icons folder&lt;/h3&gt; &#xA;&lt;p&gt;Contains all formats of icons required for the various operative systems.&lt;/p&gt; &#xA;&lt;h3&gt;splash folder&lt;/h3&gt; &#xA;&lt;p&gt;Contains all formats of splash screens required for the various operative systems.&lt;/p&gt; &#xA;&lt;h3&gt;lib folder&lt;/h3&gt; &#xA;&lt;p&gt;Contains all the libraries, frameworks, CSS and images needed to the app. Provided frameworks:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;add2home&lt;/strong&gt; - it makes appear a message to allow the user to create a web app container on iOS from the browser version&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-20T01:37:20Z</updated>
+  <updated>2023-09-21T01:34:22Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>abhaykamat/LearningPerl</title>
-    <updated>2023-09-20T01:37:20Z</updated>
-    <id>tag:github.com,2023-09-20:/abhaykamat/LearningPerl</id>
-    <link href="https://github.com/abhaykamat/LearningPerl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;learn to program in perl by Learning Perl=6th, Intermediate Perl=2nd, Programming Perl=4th&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Learning Perl, Six Edition&lt;/p&gt; &#xA;&lt;p&gt;book samples and exercises ch02 Scalar Data ch03 Lists and Arrays&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>JJ/IV-</title>
-    <updated>2023-09-20T01:37:20Z</updated>
-    <id>tag:github.com,2023-09-20:/JJ/IV-</id>
-    <link href="https://github.com/JJ/IV-" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositorio anual de IV&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Repositorio de clase de Infraestructura Virtual de la &lt;a href=&#34;https://etsiit.ugr.es&#34;&gt;ETSIIT&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Este repositorio está añadido al &lt;a href=&#34;https://hacktoberfest.com&#34;&gt;Hacktoberfest&lt;/a&gt;. Puedes ayudar mirando los diferentes documentos, sobre todo sobre sesiones semanales, y ayudar con errores de enlaces o aportando de cualquier otra forma. También se agradecen cambios a los workflows de CI que se usan.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;Repositorio para el material específico de cada clase, planificación y ejercicios.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Debes consultar &lt;a href=&#34;http://jj.github.io/IV&#34;&gt;los apuntes de la materia&lt;/a&gt; antes de pasar a ejecutar las diferentes fases del proyecto.&lt;/li&gt; &#xA; &lt;li&gt;Comprueba la &lt;a href=&#34;https://raw.githubusercontent.com/JJ/IV-/master/Metodolog%C3%ADa_y_criterios_de_evaluaci%C3%B3n.md&#34;&gt;metodología y criterios de evaluación&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Comienza con &lt;a href=&#34;https://raw.githubusercontent.com/JJ/IV-/master/sesiones/README.md&#34;&gt;la programación y objetivos de las diferentes sesiones de la asignatura&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Las entregas de los diferentes objetivos se hacen mediante pull requests a ficheros en &lt;a href=&#34;https://raw.githubusercontent.com/JJ/IV-/master/proyectos&#34;&gt;este directorio&lt;/a&gt;. Lee &lt;a href=&#34;https://raw.githubusercontent.com/JJ/IV-/master/proyectos/README.md&#34;&gt;las instrucciones&lt;/a&gt; para hacerlo correctamente, y resolver los conflictos que puedan surgir.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>perl-catalyst/Catalyst-Model-DBIC-Schema</title>
-    <updated>2023-09-20T01:37:20Z</updated>
-    <id>tag:github.com,2023-09-20:/perl-catalyst/Catalyst-Model-DBIC-Schema</id>
-    <link href="https://github.com/perl-catalyst/Catalyst-Model-DBIC-Schema" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

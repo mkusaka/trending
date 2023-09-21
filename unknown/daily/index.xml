@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-20T01:23:26Z</updated>
+  <updated>2023-09-21T01:22:47Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CloudHustlers/Google_Cloud_Computing_Foundations</title>
-    <updated>2023-09-20T01:23:26Z</updated>
-    <id>tag:github.com,2023-09-20:/CloudHustlers/Google_Cloud_Computing_Foundations</id>
-    <link href="https://github.com/CloudHustlers/Google_Cloud_Computing_Foundations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Google Cloud Study Jam Solution of Path Google Cloud Computing Foundations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yanirs/established-remote</title>
+    <updated>2023-09-21T01:22:47Z</updated>
+    <id>tag:github.com,2023-09-21:/yanirs/established-remote</id>
+    <link href="https://github.com/yanirs/established-remote" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of established remote companies&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xiaomabenten/system_architect</title>
-    <updated>2023-09-20T01:23:26Z</updated>
-    <id>tag:github.com,2023-09-20:/xiaomabenten/system_architect</id>
-    <link href="https://github.com/xiaomabenten/system_architect" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💯目前全网最全面的2023年系统架构设计师（软考高级）备考资源库。仅供个人学习，请勿用于商业&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>madibabaiasl/modern-robotics-I-course</title>
+    <updated>2023-09-21T01:22:47Z</updated>
+    <id>tag:github.com,2023-09-21:/madibabaiasl/modern-robotics-I-course</id>
+    <link href="https://github.com/madibabaiasl/modern-robotics-I-course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is all the lessons for Modern Robotics I.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>0voice/expert_readed_books</title>
-    <updated>2023-09-20T01:23:26Z</updated>
-    <id>tag:github.com,2023-09-20:/0voice/expert_readed_books</id>
-    <link href="https://github.com/0voice/expert_readed_books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yiyins2/cs320-lab2-datasets</title>
+    <updated>2023-09-21T01:22:47Z</updated>
+    <id>tag:github.com,2023-09-21:/yiyins2/cs320-lab2-datasets</id>
+    <link href="https://github.com/yiyins2/cs320-lab2-datasets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

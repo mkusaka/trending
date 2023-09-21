@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-20T01:40:46Z</updated>
+  <updated>2023-09-21T01:37:15Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>swahilipothub-dev/pwani-innovation-week</title>
-    <updated>2023-09-20T01:40:46Z</updated>
-    <id>tag:github.com,2023-09-20:/swahilipothub-dev/pwani-innovation-week</id>
-    <link href="https://github.com/swahilipothub-dev/pwani-innovation-week" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aaronjamesyoung/ajy-digitalgarden</title>
-    <updated>2023-09-20T01:40:46Z</updated>
-    <id>tag:github.com,2023-09-20:/aaronjamesyoung/ajy-digitalgarden</id>
-    <link href="https://github.com/aaronjamesyoung/ajy-digitalgarden" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>leonardo1710/WebEngineeringSDE</title>
+    <updated>2023-09-21T01:37:15Z</updated>
+    <id>tag:github.com,2023-09-21:/leonardo1710/WebEngineeringSDE</id>
+    <link href="https://github.com/leonardo1710/WebEngineeringSDE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for course material and projects of Web Engineering lecture at FH Campus - Software Design and Engineering&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

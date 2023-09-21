@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-20T01:35:13Z</updated>
+  <updated>2023-09-21T01:32:25Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>henghuiding/SVC</title>
-    <updated>2023-09-20T01:35:13Z</updated>
-    <id>tag:github.com,2023-09-20:/henghuiding/SVC</id>
-    <link href="https://github.com/henghuiding/SVC" rel="alternate"></link>
+    <title>mathworks-robotics/Offroad-Navigation-for-Autonomous-Haul-Trucks</title>
+    <updated>2023-09-21T01:32:25Z</updated>
+    <id>tag:github.com,2023-09-21:/mathworks-robotics/Offroad-Navigation-for-Autonomous-Haul-Trucks</id>
+    <link href="https://github.com/mathworks-robotics/Offroad-Navigation-for-Autonomous-Haul-Trucks" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pnnl/ExaGO</title>
-    <updated>2023-09-20T01:35:13Z</updated>
-    <id>tag:github.com,2023-09-20:/pnnl/ExaGO</id>
-    <link href="https://github.com/pnnl/ExaGO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fratzola/cvsp.kinect</title>
+    <updated>2023-09-21T01:32:25Z</updated>
+    <id>tag:github.com,2023-09-21:/fratzola/cvsp.kinect</id>
+    <link href="https://github.com/fratzola/cvsp.kinect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kinect handshape classification&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

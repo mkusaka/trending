@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-20T01:41:53Z</updated>
+  <updated>2023-09-21T01:38:15Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mskocik/svelty-picker</title>
-    <updated>2023-09-20T01:41:53Z</updated>
-    <id>tag:github.com,2023-09-20:/mskocik/svelty-picker</id>
-    <link href="https://github.com/mskocik/svelty-picker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple date &amp; time picker in svelte&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>csunibo/dynamik</title>
-    <updated>2023-09-20T01:41:53Z</updated>
-    <id>tag:github.com,2023-09-20:/csunibo/dynamik</id>
-    <link href="https://github.com/csunibo/dynamik" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Frontend per accedere alle risorse di csunibo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-20T01:30:17Z</updated>
+  <updated>2023-09-21T01:28:13Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>duongvituan/godot-awesome-splash</title>
-    <updated>2023-09-20T01:30:17Z</updated>
-    <id>tag:github.com,2023-09-20:/duongvituan/godot-awesome-splash</id>
-    <link href="https://github.com/duongvituan/godot-awesome-splash" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of splash screens in Godot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AppLovin/AppLovin-MAX-Godot</title>
-    <updated>2023-09-20T01:30:17Z</updated>
-    <id>tag:github.com,2023-09-20:/AppLovin/AppLovin-MAX-Godot</id>
-    <link href="https://github.com/AppLovin/AppLovin-MAX-Godot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jitspoe/godot-console</title>
-    <updated>2023-09-20T01:30:17Z</updated>
-    <id>tag:github.com,2023-09-20:/jitspoe/godot-console</id>
-    <link href="https://github.com/jitspoe/godot-console" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dev console addon for Godot engine.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
