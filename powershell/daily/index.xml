@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:34:57Z</updated>
+  <updated>2023-09-22T01:36:54Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>FlorianSLZ/scloud</title>
-    <updated>2023-09-21T01:34:57Z</updated>
-    <id>tag:github.com,2023-09-21:/FlorianSLZ/scloud</id>
-    <link href="https://github.com/FlorianSLZ/scloud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code Snippets mentioned at my Blog: scloud.work&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/FlorianSLZ/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;amp;logo=twitter&amp;amp;logoColor=white&#34; alt=&#34;Twitter Follow&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/in/fsalzmann/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;amp;logo=linkedin&amp;amp;logoColor=white&#34; alt=&#34;LinkedIn&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://scloud.work/en/about&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/website-000000?style=for-the-badge&amp;amp;logo=About.me&amp;amp;logoColor=white&#34; alt=&#34;Website&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Repo for my Blog - scloud.work&lt;/h1&gt; &#xA;&lt;p&gt;The content in this repository is associated with my blog &lt;a href=&#34;https://scloud.work/&#34;&gt;https://scloud.work/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://scloud.work/&#34;&gt;&lt;img src=&#34;https://scloud.work/wp-content/uploads/2021/12/scloud-homepage.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

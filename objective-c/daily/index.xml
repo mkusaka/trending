@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:33:37Z</updated>
+  <updated>2023-09-22T01:35:24Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Sependa/google-api-objectivec-client</title>
+    <updated>2023-09-22T01:35:24Z</updated>
+    <id>tag:github.com,2023-09-22:/Sependa/google-api-objectivec-client</id>
+    <link href="https://github.com/Sependa/google-api-objectivec-client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fork of Google&#39;s SVN Repo&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is a fork of Google&#39;s public SVN repository from &lt;a href=&#34;http://code.google.com/p/google-api-objectivec-client/&#34;&gt;http://code.google.com/p/google-api-objectivec-client/&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

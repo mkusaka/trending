@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:28:32Z</updated>
+  <updated>2023-09-22T01:29:43Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hiulit/Godot-3-2D-CRT-Shader</title>
+    <updated>2023-09-22T01:29:43Z</updated>
+    <id>tag:github.com,2023-09-22:/hiulit/Godot-3-2D-CRT-Shader</id>
+    <link href="https://github.com/hiulit/Godot-3-2D-CRT-Shader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A 2D shader for Godot 3 simulating a CRT&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:32:25Z</updated>
+  <updated>2023-09-22T01:34:05Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mathworks-robotics/Offroad-Navigation-for-Autonomous-Haul-Trucks</title>
-    <updated>2023-09-21T01:32:25Z</updated>
-    <id>tag:github.com,2023-09-21:/mathworks-robotics/Offroad-Navigation-for-Autonomous-Haul-Trucks</id>
-    <link href="https://github.com/mathworks-robotics/Offroad-Navigation-for-Autonomous-Haul-Trucks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>noriegaa/DA42_Simulator</title>
+    <updated>2023-09-22T01:34:05Z</updated>
+    <id>tag:github.com,2023-09-22:/noriegaa/DA42_Simulator</id>
+    <link href="https://github.com/noriegaa/DA42_Simulator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Preliminary DA42 Simulator for test automation prototyping.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fratzola/cvsp.kinect</title>
-    <updated>2023-09-21T01:32:25Z</updated>
-    <id>tag:github.com,2023-09-21:/fratzola/cvsp.kinect</id>
-    <link href="https://github.com/fratzola/cvsp.kinect" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kinect handshape classification&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>henghuiding/CCL</title>
+    <updated>2023-09-22T01:34:05Z</updated>
+    <id>tag:github.com,2023-09-22:/henghuiding/CCL</id>
+    <link href="https://github.com/henghuiding/CCL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[CVPR-2018] Context Contrasted Feature and Gated Multi-Scale Aggregation for Scene Segmentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stephenberry/beve</title>
+    <updated>2023-09-22T01:34:05Z</updated>
+    <id>tag:github.com,2023-09-22:/stephenberry/beve</id>
+    <link href="https://github.com/stephenberry/beve" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High performance, tagged binary data specification&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

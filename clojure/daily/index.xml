@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:25:30Z</updated>
+  <updated>2023-09-22T01:26:17Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nubank/nodely</title>
-    <updated>2023-09-21T01:25:30Z</updated>
-    <id>tag:github.com,2023-09-21:/nubank/nodely</id>
-    <link href="https://github.com/nubank/nodely" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pallet/lein-pallet-crate</title>
-    <updated>2023-09-21T01:25:30Z</updated>
-    <id>tag:github.com,2023-09-21:/pallet/lein-pallet-crate</id>
-    <link href="https://github.com/pallet/lein-pallet-crate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A leiningen plugin to help document pallet crates&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Swirrl/drafter</title>
+    <updated>2023-09-22T01:26:17Z</updated>
+    <id>tag:github.com,2023-09-22:/Swirrl/drafter</id>
+    <link href="https://github.com/Swirrl/drafter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A clojure service and a client to it for exposing data management operations to PMD&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

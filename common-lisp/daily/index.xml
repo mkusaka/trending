@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:25:38Z</updated>
+  <updated>2023-09-22T01:26:28Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Shinmera/fuzzy-dates</title>
-    <updated>2023-09-21T01:25:38Z</updated>
-    <id>tag:github.com,2023-09-21:/Shinmera/fuzzy-dates</id>
-    <link href="https://github.com/Shinmera/fuzzy-dates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library to fuzzily parse date and time strings&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;About Fuzzy-Dates&lt;/h1&gt; &#xA;&lt;p&gt;This is a small library to very fuzzily parse time and date strings into a universal-time timestamp. Among the fuzzily supported formats are:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Forwards and backwards relative stamps&lt;/li&gt; &#xA; &lt;li&gt;Clocks&lt;/li&gt; &#xA; &lt;li&gt;RFC1123&lt;/li&gt; &#xA; &lt;li&gt;RFC3339&lt;/li&gt; &#xA; &lt;li&gt;ISO8661&lt;/li&gt; &#xA; &lt;li&gt;Weekdays and months&lt;/li&gt; &#xA; &lt;li&gt;UNIX timestamps&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;In short, it should parse a lot of what you throw at it and give you a reasonable timestamp for it. Note that while this does make this parsing rather suitable for parsing human input, there&#39;s still ambiguities that cannot be resolved, such as whether the user thinks dates are YMD, DMY, or MDY, and the human mind&#39;s ingenuity in coming up with new ways to write dates and times can&#39;t all be accounted for, so there are definitely timestamps that we can understand, which this library won&#39;t be able to parse or will parse different to how we understand it.&lt;/p&gt;</summary>
-  </entry>
 </feed>

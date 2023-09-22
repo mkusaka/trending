@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:40:15Z</updated>
+  <updated>2023-09-22T01:42:53Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hatlabs/SH-RPi-hardware</title>
-    <updated>2023-09-21T01:40:15Z</updated>
-    <id>tag:github.com,2023-09-21:/hatlabs/SH-RPi-hardware</id>
-    <link href="https://github.com/hatlabs/SH-RPi-hardware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sailor Hat for Raspberry Pi hardware design files&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Sailor Hat for Raspberry Pi (SH-RPi)&lt;/h1&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;The Sailor Hat for Raspberry Pi (SH-RPi) is a versatile power management board designed for the Raspberry Pi and similar single-board computers. With the SH-RPi connected, you can create deeply integrated servers that shut down safely when power is turned off and wake up automatically when power is restored.&lt;/p&gt; &#xA;&lt;p&gt;SH-RPi supports all Raspberry Pi models with a 40-pin GPIO header (every model since the Pi 1 Model B+). Additionally, it is compatible with Raspberry Pi Compute Module 4 boards and other single-board computers that have a 40-pin Raspberry Pi-compatible GPIO header or an external I2C interface with a 5V power input.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;a href=&#34;https://docs.hatlabs.fi/sh-rpi/&#34;&gt;documentation site&lt;/a&gt; has details on the hardware and software features of the board.&lt;/p&gt; &#xA;&lt;p&gt;This repository contains the KiCad hardware design files for Sailor Hat. There are two other related repositories: &lt;a href=&#34;https://github.com/hatlabs/SH-RPi-firmware&#34;&gt;firmware&lt;/a&gt; and &lt;a href=&#34;https://github.com/hatlabs/SH-RPi-daemon&#34;&gt;daemon&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The documentation site is at &lt;a href=&#34;https://docs.hatlabs.fi/&#34;&gt;docs.hatlabs.fi/sh-rpi&lt;/a&gt;. The devices are available for purchase at &lt;a href=&#34;https://shop.hatlabs.fi&#34;&gt;shop.hatlabs.fi&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hatlabs/SH-RPi-hardware/main/images/SH-RPi_v2.0.0_top_render.jpg&#34; alt=&#34;SH-RPi v2.0.0&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

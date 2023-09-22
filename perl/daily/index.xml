@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:34:22Z</updated>
+  <updated>2023-09-22T01:36:15Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>carlcasbolt/bin-tools</title>
+    <updated>2023-09-22T01:36:15Z</updated>
+    <id>tag:github.com,2023-09-22:/carlcasbolt/bin-tools</id>
+    <link href="https://github.com/carlcasbolt/bin-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;useful tools from my bin directory&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;my-bin-tools&lt;/h1&gt; &#xA;&lt;p&gt;Useful tools from my bin directory&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>daotoad/Log-Work</title>
+    <updated>2023-09-22T01:36:15Z</updated>
+    <id>tag:github.com,2023-09-22:/daotoad/Log-Work</id>
+    <link href="https://github.com/daotoad/Log-Work" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Identify and track units of work by generating unique ids and parsable logs.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This project uses Dist::Zilla to manage releases.&lt;/p&gt; &#xA;&lt;p&gt;For best results install the Dist::Zilla and Dist::Zilla::App::Command::cover Perl modules using cpan-minus. There are many dependencies and standard CPAN.pm installs are tedious.&lt;/p&gt; &#xA;&lt;p&gt;Once you have all the dependencies...&lt;/p&gt; &#xA;&lt;p&gt;Release Instructions:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Be sure that all changes for the release are committed and pushed in the master branch.&lt;/li&gt; &#xA; &lt;li&gt;Edit the dist.ini file. a. Update the version number. The line looks like: &#34;version = X.Y.Z&#34;&lt;/li&gt; &#xA; &lt;li&gt;Commit the changed dist.ini file.&lt;/li&gt; &#xA; &lt;li&gt;Run command: dzil release&lt;/li&gt; &#xA; &lt;li&gt;Push branch master to github.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Note:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;If you run into conflicts with the releases branch, I have been able to resolve them by deleting the local &#39;releases&#39; branch.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Version Numbering:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Version numbers are in 3 place Major/Minor/Incremental style.&lt;/li&gt; &#xA; &lt;li&gt;1.0.0 happens when we have a feature complete distro with a good test suite and docs.&lt;/li&gt; &#xA; &lt;li&gt;Numbers in any place may have any positive integer value, ie 1.0.99 is a legal version number.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;API Promises:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Before we reach 1.0.0, we will do our best not to break public APIs without good reason, but no promises are made.&lt;/li&gt; &#xA; &lt;li&gt;Post 1.0.0, policies are under development. Proposed rules: &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Incremental releases are for bug fixes and optimizations only. Public APIs will not change.&lt;/li&gt; &#xA;   &lt;li&gt;Minor releases may see added functionality or new public APIs.&lt;/li&gt; &#xA;   &lt;li&gt;Major releases may add or remove major functionality. &amp;lt;How to handle deprecation?&amp;gt;&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Resources:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;CPAN Minus - &lt;a href=&#34;http://search.cpan.org/perldoc?App::cpanminus&#34;&gt;http://search.cpan.org/perldoc?App::cpanminus&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Dist::Zilla - &lt;a href=&#34;http://search.cpan.org/perldoc?Dist::Zilla&#34;&gt;http://search.cpan.org/perldoc?Dist::Zilla&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Dist::Zilla cover - &lt;a href=&#34;http://search.cpan.org/perldoc?Dist::Zilla::App::Command::cover&#34;&gt;http://search.cpan.org/perldoc?Dist::Zilla::App::Command::cover&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

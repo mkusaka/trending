@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:22:47Z</updated>
+  <updated>2023-09-22T01:23:24Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yanirs/established-remote</title>
-    <updated>2023-09-21T01:22:47Z</updated>
-    <id>tag:github.com,2023-09-21:/yanirs/established-remote</id>
-    <link href="https://github.com/yanirs/established-remote" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of established remote companies&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hamutama/LifeReloaded</title>
+    <updated>2023-09-22T01:23:24Z</updated>
+    <id>tag:github.com,2023-09-22:/hamutama/LifeReloaded</id>
+    <link href="https://github.com/hamutama/LifeReloaded" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;由GPT4的Advanced Data Analysis功能驱动的人生重来模拟器，给您人生第二春。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>madibabaiasl/modern-robotics-I-course</title>
-    <updated>2023-09-21T01:22:47Z</updated>
-    <id>tag:github.com,2023-09-21:/madibabaiasl/modern-robotics-I-course</id>
-    <link href="https://github.com/madibabaiasl/modern-robotics-I-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is all the lessons for Modern Robotics I.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Audiotronix/Positron_LT</title>
+    <updated>2023-09-22T01:23:24Z</updated>
+    <id>tag:github.com,2023-09-22:/Audiotronix/Positron_LT</id>
+    <link href="https://github.com/Audiotronix/Positron_LT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RepRap Version of the Positron V3 3D-Printer, improved design, no machined parts, integrated PSU&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yiyins2/cs320-lab2-datasets</title>
-    <updated>2023-09-21T01:22:47Z</updated>
-    <id>tag:github.com,2023-09-21:/yiyins2/cs320-lab2-datasets</id>
-    <link href="https://github.com/yiyins2/cs320-lab2-datasets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>itaymigdal/awesome-injection</title>
+    <updated>2023-09-22T01:23:24Z</updated>
+    <id>tag:github.com,2023-09-22:/itaymigdal/awesome-injection</id>
+    <link href="https://github.com/itaymigdal/awesome-injection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Centralized resource for listing and organizing known injection techniques and POCs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

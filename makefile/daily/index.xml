@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:32:17Z</updated>
+  <updated>2023-09-22T01:33:56Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>open-telemetry/opamp-spec</title>
-    <updated>2023-09-21T01:32:17Z</updated>
-    <id>tag:github.com,2023-09-21:/open-telemetry/opamp-spec</id>
-    <link href="https://github.com/open-telemetry/opamp-spec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpAMP Specification&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>foomo/redirects</title>
+    <updated>2023-09-22T01:33:56Z</updated>
+    <id>tag:github.com,2023-09-22:/foomo/redirects</id>
+    <link href="https://github.com/foomo/redirects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

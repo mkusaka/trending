@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:29:07Z</updated>
+  <updated>2023-09-22T01:30:23Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>michaelrice/helloWorld</title>
-    <updated>2023-09-21T01:29:07Z</updated>
-    <id>tag:github.com,2023-09-21:/michaelrice/helloWorld</id>
-    <link href="https://github.com/michaelrice/helloWorld" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Grails hello world app&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lazy-coders/test-angular.js</title>
-    <updated>2023-09-21T01:29:07Z</updated>
-    <id>tag:github.com,2023-09-21:/lazy-coders/test-angular.js</id>
-    <link href="https://github.com/lazy-coders/test-angular.js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Test project to try angular.js&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>apache/incubator-kie-kogito-pipelines</title>
-    <updated>2023-09-21T01:29:07Z</updated>
-    <id>tag:github.com,2023-09-21:/apache/incubator-kie-kogito-pipelines</id>
-    <link href="https://github.com/apache/incubator-kie-kogito-pipelines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CI/CD pipelines for Kogito&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

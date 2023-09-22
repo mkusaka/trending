@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:39:33Z</updated>
+  <updated>2023-09-22T01:42:04Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pesblog/vim-caniuse</title>
-    <updated>2023-09-21T01:39:33Z</updated>
-    <id>tag:github.com,2023-09-21:/pesblog/vim-caniuse</id>
-    <link href="https://github.com/pesblog/vim-caniuse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Is a plugin for vim for checking css support. Only mac support.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lin134340/vim-plugins</title>
+    <updated>2023-09-22T01:42:04Z</updated>
+    <id>tag:github.com,2023-09-22:/lin134340/vim-plugins</id>
+    <link href="https://github.com/lin134340/vim-plugins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A personal vim-plugins repository. Having used pathogen to manager.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>russellholt/dot</title>
+    <updated>2023-09-22T01:42:04Z</updated>
+    <id>tag:github.com,2023-09-22:/russellholt/dot</id>
+    <link href="https://github.com/russellholt/dot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;my unix dot files and vim configuration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>notalex/potion.vim</title>
+    <updated>2023-09-22T01:42:04Z</updated>
+    <id>tag:github.com,2023-09-22:/notalex/potion.vim</id>
+    <link href="https://github.com/notalex/potion.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;learning vimscript the hard way&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

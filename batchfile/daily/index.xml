@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:23:58Z</updated>
+  <updated>2023-09-22T01:24:45Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>abdelilah2020/RDP-AZURE</title>
-    <updated>2023-09-21T01:23:58Z</updated>
-    <id>tag:github.com,2023-09-21:/abdelilah2020/RDP-AZURE</id>
-    <link href="https://github.com/abdelilah2020/RDP-AZURE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Alex313031/Thorium-Win-AVX2</title>
-    <updated>2023-09-21T01:23:58Z</updated>
-    <id>tag:github.com,2023-09-21:/Alex313031/Thorium-Win-AVX2</id>
-    <link href="https://github.com/Alex313031/Thorium-Win-AVX2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo to serve AVX2 Windows builds of Thorium. https://github.com/Alex313031/Thorium/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Arlausea/2324_Projet2A_Robourt</title>
+    <updated>2023-09-22T01:24:45Z</updated>
+    <id>tag:github.com,2023-09-22:/Arlausea/2324_Projet2A_Robourt</id>
+    <link href="https://github.com/Arlausea/2324_Projet2A_Robourt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Amélioration d&#39;un bras robot pour aider les personnes handicapées dans la vie quotidienne&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

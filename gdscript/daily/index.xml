@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:28:13Z</updated>
+  <updated>2023-09-22T01:29:21Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>detomon/wigglebone</title>
+    <updated>2023-09-22T01:29:21Z</updated>
+    <id>tag:github.com,2023-09-22:/detomon/wigglebone</id>
+    <link href="https://github.com/detomon/wigglebone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adds jiggle physics to bones of a Skeleton&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Jamsers/Bistro-Demo-Tweaked</title>
+    <updated>2023-09-22T01:29:21Z</updated>
+    <id>tag:github.com,2023-09-22:/Jamsers/Bistro-Demo-Tweaked</id>
+    <link href="https://github.com/Jamsers/Bistro-Demo-Tweaked" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lumberyard Bistro demo for Godot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lukky-nl/Lukky-Godot-Dev-Rooms</title>
+    <updated>2023-09-22T01:29:21Z</updated>
+    <id>tag:github.com,2023-09-22:/lukky-nl/Lukky-Godot-Dev-Rooms</id>
+    <link href="https://github.com/lukky-nl/Lukky-Godot-Dev-Rooms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;3 Basic development rooms for the godot game engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

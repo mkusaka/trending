@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:25:27Z</updated>
+  <updated>2023-09-22T01:26:13Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>myhhub/cmake-project</title>
-    <updated>2023-09-21T01:25:27Z</updated>
-    <id>tag:github.com,2023-09-21:/myhhub/cmake-project</id>
-    <link href="https://github.com/myhhub/cmake-project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CMake完整使用教程。CMake教程包括一系列循序渐进的任务，介绍CMake信息，展示如何实现目标。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

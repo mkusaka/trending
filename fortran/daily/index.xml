@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-21T01:27:59Z</updated>
+  <updated>2023-09-22T01:29:06Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eeroe/GAMASpectra</title>
-    <updated>2023-09-21T01:27:59Z</updated>
-    <id>tag:github.com,2023-09-21:/eeroe/GAMASpectra</id>
-    <link href="https://github.com/eeroe/GAMASpectra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mdolab/adflow</title>
-    <updated>2023-09-21T01:27:59Z</updated>
-    <id>tag:github.com,2023-09-21:/mdolab/adflow</id>
-    <link href="https://github.com/mdolab/adflow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ADflow is a finite volume RANS solver tailored for gradient-based aerodynamic design optimization.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
