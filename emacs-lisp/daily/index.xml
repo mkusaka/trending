@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-22T01:28:36Z</updated>
+  <updated>2023-09-23T01:26:50Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>orivej/nxmless</title>
-    <updated>2023-09-22T01:28:36Z</updated>
-    <id>tag:github.com,2023-09-22:/orivej/nxmless</id>
-    <link href="https://github.com/orivej/nxmless" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emacs nXML extension to pretty-print xml and hide noise characters&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Extensions&lt;/h1&gt; &#xA;&lt;p&gt;&lt;code&gt;nxmless-hide-tags&lt;/code&gt; makes &lt;code&gt;&amp;lt;tag&amp;gt;content&amp;lt;/tag&amp;gt;&lt;/code&gt; look like &lt;code&gt;tag content &lt;/code&gt; (with types distinguishable by colors) in nXML buffers.&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;nxmless-tidy&lt;/code&gt; pretty prints XML in two different ways (canonical and lispy).&lt;/p&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;p&gt;In order to install using el-get, save &lt;code&gt;https://raw.github.com/orivej/nxmless/master/nxmless.rcp&lt;/code&gt; in &lt;code&gt;~/.emacs.d/el-get/el-get/recipes/&lt;/code&gt; and do &lt;code&gt;M-x el-get-install RET nxmless RET&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Put &lt;code&gt;(add-hook &#39;nxml-mode-hook &#39;nxmless-hide-tags)&lt;/code&gt; in the Emacs init file and evaluate it to activate &lt;code&gt;nxmless-hide-tags&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;(require &#39;nxmless-tidy)&lt;/code&gt; and bind &lt;code&gt;nxmless-sexp-tidy&lt;/code&gt; and &lt;code&gt;nxmless-normal-tidy&lt;/code&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

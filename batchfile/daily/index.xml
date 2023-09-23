@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-22T01:24:45Z</updated>
+  <updated>2023-09-23T01:23:13Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Arlausea/2324_Projet2A_Robourt</title>
-    <updated>2023-09-22T01:24:45Z</updated>
-    <id>tag:github.com,2023-09-22:/Arlausea/2324_Projet2A_Robourt</id>
-    <link href="https://github.com/Arlausea/2324_Projet2A_Robourt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Amélioration d&#39;un bras robot pour aider les personnes handicapées dans la vie quotidienne&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

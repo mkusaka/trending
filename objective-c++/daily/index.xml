@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-22T01:35:21Z</updated>
+  <updated>2023-09-23T01:33:18Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AppLovin/AppLovin-MAX-Godot</title>
-    <updated>2023-09-22T01:35:21Z</updated>
-    <id>tag:github.com,2023-09-22:/AppLovin/AppLovin-MAX-Godot</id>
-    <link href="https://github.com/AppLovin/AppLovin-MAX-Godot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>okwasniewski/react-native-menubar-extra</title>
-    <updated>2023-09-22T01:35:21Z</updated>
-    <id>tag:github.com,2023-09-22:/okwasniewski/react-native-menubar-extra</id>
-    <link href="https://github.com/okwasniewski/react-native-menubar-extra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Add MenuBar to your React Native MacOS Application&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
