@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-24T01:46:19Z</updated>
+  <subtitle>Weekly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>learnwithjason/astro-frontend-masters</title>
+    <updated>2023-09-24T01:46:19Z</updated>
+    <id>tag:github.com,2023-09-24:/learnwithjason/astro-frontend-masters</id>
+    <link href="https://github.com/learnwithjason/astro-frontend-masters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Astro workshop demo for Frontend Masters&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hackclub/harvest</title>
+    <updated>2023-09-24T01:46:19Z</updated>
+    <id>tag:github.com,2023-09-24:/hackclub/harvest</id>
+    <link href="https://github.com/hackclub/harvest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All-female coding event in Vermont w/ Girl Scouts of the Green and White Mountains!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

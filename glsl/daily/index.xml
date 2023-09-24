@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-23T01:27:55Z</updated>
+  <updated>2023-09-24T01:31:19Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lanl/Fierro</title>
+    <updated>2023-09-24T01:31:19Z</updated>
+    <id>tag:github.com,2023-09-24:/lanl/Fierro</id>
+    <link href="https://github.com/lanl/Fierro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fierro is a C++ code designed to aid the research and development of numerical methods and testing of user-specified models related to quasi-static solid mechanics and compressible material dynamics using low- and high-order meshes.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

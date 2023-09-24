@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haxe Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-24T01:52:01Z</updated>
+  <subtitle>Weekly Trending of Haxe in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>waneck/hx-javastd</title>
+    <updated>2023-09-24T01:52:01Z</updated>
+    <id>tag:github.com,2023-09-24:/waneck/hx-javastd</id>
+    <link href="https://github.com/waneck/hx-javastd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Haxe/Java standard library&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hx-javastd&lt;/h1&gt; &#xA;&lt;p&gt;Haxe externs for JDK 7.0 and less. The missing Haxe standard library implementations for the sys.* package will be implemented into this library&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub BitBake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-24T01:46:43Z</updated>
+  <subtitle>Weekly Trending of BitBake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OE4T/meta-tegra-community</title>
+    <updated>2023-09-24T01:46:43Z</updated>
+    <id>tag:github.com,2023-09-24:/OE4T/meta-tegra-community</id>
+    <link href="https://github.com/OE4T/meta-tegra-community" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for community-maintained recipes for additional packages for NVIDIA Jetson platforms&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

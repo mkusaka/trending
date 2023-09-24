@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-24T01:55:47Z</updated>
+  <subtitle>Weekly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Patrick9313/Digital-Image-Processing</title>
+    <updated>2023-09-24T01:55:47Z</updated>
+    <id>tag:github.com,2023-09-24:/Patrick9313/Digital-Image-Processing</id>
+    <link href="https://github.com/Patrick9313/Digital-Image-Processing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于MATLAB的图像加解密及传输仿真&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ME435/MATLAB-Robot-Arm-GUI-Start</title>
+    <updated>2023-09-24T01:55:47Z</updated>
+    <id>tag:github.com,2023-09-24:/ME435/MATLAB-Robot-Arm-GUI-Start</id>
+    <link href="https://github.com/ME435/MATLAB-Robot-Arm-GUI-Start" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Starting code for the MATLAB Robot Arm GUI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Hannah-Zhou/Optimization_Algorithm</title>
+    <updated>2023-09-24T01:55:47Z</updated>
+    <id>tag:github.com,2023-09-24:/Hannah-Zhou/Optimization_Algorithm</id>
+    <link href="https://github.com/Hannah-Zhou/Optimization_Algorithm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;非线性优化主要算法的Matlab程序，有精确线搜索的0.618法和抛物线法, 非精确线搜索的Armijo准则, 最速下降法, 牛顿法, 共轭梯度法, BFGS 算法, DFP 算法, Broyden 族方法, 信赖域方法, 求解非线性最小二乘问题的L-M算法, 解约束优化问题的乘子法, 求解二次规划的有效集法, SQP 子问题的光滑牛顿法以及求解约束优化问题的SQP方法等. 程序基本通用.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

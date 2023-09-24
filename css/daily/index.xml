@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-23T01:25:07Z</updated>
+  <updated>2023-09-24T01:28:41Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>leonjza/frida-boot</title>
+    <updated>2023-09-24T01:28:41Z</updated>
+    <id>tag:github.com,2023-09-24:/leonjza/frida-boot</id>
+    <link href="https://github.com/leonjza/frida-boot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Frida Boot 👢- A binary instrumentation workshop, with Frida, for beginners!&lt;/p&gt;&lt;hr&gt;&lt;h1 align=&#34;center&#34;&gt; &lt;br&gt; &lt;br&gt; frida-boot 👢 &lt;br&gt; &lt;/h1&gt; &#xA;&lt;h4 align=&#34;center&#34;&gt; A binary instrumentation workshop, using &lt;a href=&#34;https://frida.re&#34; target=&#34;_blank&#34;&gt;Frida&lt;/a&gt;, for beginners! &lt;br&gt; &lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://twitter.com/leonjza&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/twitter-%40leonjza-blue.svg?sanitize=true&#34; alt=&#34;@leonjza&#34; height=&#34;18&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://hub.docker.com/r/leonjza/frida-boot&#34;&gt;&lt;img alt=&#34;Docker Cloud Build Status&#34; src=&#34;https://img.shields.io/docker/cloud/build/leonjza/frida-boot&#34;&gt;&lt;/a&gt; &lt;/p&gt; &lt;/h4&gt; &#xA;&lt;h2&gt;quickstart&lt;/h2&gt; &#xA;&lt;img align=&#34;right&#34; src=&#34;https://raw.githubusercontent.com/leonjza/frida-boot/master/images/frida-boot-web.png&#34; height=&#34;320&#34; alt=&#34;frida-boot&#34;&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;git clone https://github.com/leonjza/frida-boot&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;cd frida-boot&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;./docker.sh pull&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;./docker.sh run&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;After running the container, all of the offline workshop content will be available at &lt;a href=&#34;http://localhost:9999&#34;&gt;http://localhost:9999&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;slides &amp;amp; stream&lt;/h2&gt; &#xA;&lt;p&gt;This workshop was streamed on YouTube &lt;a href=&#34;https://www.youtube.com/watch?v=CLpW1tZCblo&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The slides for the workshop can be found on Google Slides &lt;a href=&#34;https://docs.google.com/presentation/d/1BK4CsGChSKI8BCVsg9Rlv0lY5AfsrbanhIRWnKaP0TI/edit?usp=sharing&#34;&gt;here&lt;/a&gt;, with a PDF copy available in the &lt;code&gt;slides/&lt;/code&gt; directory of this repository.&lt;/p&gt; &#xA;&lt;h2&gt;manually building&lt;/h2&gt; &#xA;&lt;p&gt;The &lt;code&gt;Dockerfile&lt;/code&gt; in this repository can be used to manually build the container. Feel free to edit it to suit your needs.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;docker build -t frida-boot:local .&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>EBAS-ID/lpkarum_software_developer</title>
+    <updated>2023-09-24T01:28:41Z</updated>
+    <id>tag:github.com,2023-09-24:/EBAS-ID/lpkarum_software_developer</id>
+    <link href="https://github.com/EBAS-ID/lpkarum_software_developer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modul pelatihan untuk lpk arum software developer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Sommerwiesel/invidious</title>
+    <updated>2023-09-24T01:28:41Z</updated>
+    <id>tag:github.com,2023-09-24:/Sommerwiesel/invidious</id>
+    <link href="https://github.com/Sommerwiesel/invidious" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Invidious fork with customizations for invidious.nerdvpn.de&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;invidious&lt;/h1&gt; &#xA;&lt;p&gt;Invidious fork with customizations for invidious.nerdvpn.de&lt;/p&gt; &#xA;&lt;p&gt;Modifications differing from the original repo are only in one file: assets/css/default.css&lt;/p&gt; &#xA;&lt;p&gt;Original repo at: &lt;a href=&#34;https://github.com/iv-org/invidious&#34;&gt;https://github.com/iv-org/invidious&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

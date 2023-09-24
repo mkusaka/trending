@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Logos Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-24T01:55:12Z</updated>
+  <subtitle>Weekly Trending of Logos in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>1094401996/CareerCup</title>
+    <updated>2023-09-24T01:55:12Z</updated>
+    <id>tag:github.com,2023-09-24:/1094401996/CareerCup</id>
+    <link href="https://github.com/1094401996/CareerCup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The first step to realize my dream&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-24T01:57:42Z</updated>
+  <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HashLoad/handle-exception</title>
+    <updated>2023-09-24T01:57:42Z</updated>
+    <id>tag:github.com,2023-09-24:/HashLoad/handle-exception</id>
+    <link href="https://github.com/HashLoad/handle-exception" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Middleware for handle exception in HORSE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

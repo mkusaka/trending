@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-24T01:50:06Z</updated>
+  <subtitle>Weekly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>erlang-ls/rebar3_bsp</title>
+    <updated>2023-09-24T01:50:06Z</updated>
+    <id>tag:github.com,2023-09-24:/erlang-ls/rebar3_bsp</id>
+    <link href="https://github.com/erlang-ls/rebar3_bsp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Support for the Build Server Protocol (aka BSP) for rebar3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

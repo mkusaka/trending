@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GLSL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-24T01:50:56Z</updated>
+  <subtitle>Weekly Trending of GLSL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jsulpis/realtime-planet-shader</title>
+    <updated>2023-09-24T01:50:56Z</updated>
+    <id>tag:github.com,2023-09-24:/jsulpis/realtime-planet-shader</id>
+    <link href="https://github.com/jsulpis/realtime-planet-shader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Realtime procedural planet shader in WebGL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

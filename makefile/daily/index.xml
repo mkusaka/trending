@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-23T01:31:50Z</updated>
+  <updated>2023-09-24T01:35:38Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eecs281staff/Makefile</title>
+    <updated>2023-09-24T01:35:38Z</updated>
+    <id>tag:github.com,2023-09-24:/eecs281staff/Makefile</id>
+    <link href="https://github.com/eecs281staff/Makefile" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>92bondstreet/javascript-empire</title>
+    <updated>2023-09-24T01:35:38Z</updated>
+    <id>tag:github.com,2023-09-24:/92bondstreet/javascript-empire</id>
+    <link href="https://github.com/92bondstreet/javascript-empire" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🛣️ 2023 ESILV courses on Web Application Architecture(s)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

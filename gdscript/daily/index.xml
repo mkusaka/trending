@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-23T01:27:35Z</updated>
+  <updated>2023-09-24T01:31:00Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tomeyro/godot-sfxr</title>
-    <updated>2023-09-23T01:27:35Z</updated>
-    <id>tag:github.com,2023-09-23:/tomeyro/godot-sfxr</id>
-    <link href="https://github.com/tomeyro/godot-sfxr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot plugin that adds the SfxrStreamPlayer node to generate sound effects inside the editor.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CSCI-5619-Fall-2023/Lecture-5</title>
+    <updated>2023-09-24T01:31:00Z</updated>
+    <id>tag:github.com,2023-09-24:/CSCI-5619-Fall-2023/Lecture-5</id>
+    <link href="https://github.com/CSCI-5619-Fall-2023/Lecture-5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Khaligufzel/CataX</title>
+    <updated>2023-09-24T01:31:00Z</updated>
+    <id>tag:github.com,2023-09-24:/Khaligufzel/CataX</id>
+    <link href="https://github.com/Khaligufzel/CataX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-09-24T02:03:36Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fladson/vim-kitty</title>
+    <updated>2023-09-24T02:03:36Z</updated>
+    <id>tag:github.com,2023-09-24:/fladson/vim-kitty</id>
+    <link href="https://github.com/fladson/vim-kitty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim syntax highlighting for Kitty terminal config files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>luochen1990/rainbow</title>
+    <updated>2023-09-24T02:03:36Z</updated>
+    <id>tag:github.com,2023-09-24:/luochen1990/rainbow</id>
+    <link href="https://github.com/luochen1990/rainbow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>airblade/vim-rooter</title>
+    <updated>2023-09-24T02:03:36Z</updated>
+    <id>tag:github.com,2023-09-24:/airblade/vim-rooter</id>
+    <link href="https://github.com/airblade/vim-rooter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Changes Vim working directory to project root.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
