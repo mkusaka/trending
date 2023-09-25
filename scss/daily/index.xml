@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-24T01:41:24Z</updated>
+  <updated>2023-09-25T01:40:30Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zivhub/monophase</title>
-    <updated>2023-09-24T01:41:24Z</updated>
-    <id>tag:github.com,2023-09-24:/zivhub/monophase</id>
-    <link href="https://github.com/zivhub/monophase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A one-column minimal responsive Jekyll blog theme&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

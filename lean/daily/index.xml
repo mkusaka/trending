@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-24T01:34:59Z</updated>
+  <updated>2023-09-25T01:34:09Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>leanprover/lean4-cli</title>
-    <updated>2023-09-24T01:34:59Z</updated>
-    <id>tag:github.com,2023-09-24:/leanprover/lean4-cli</id>
-    <link href="https://github.com/leanprover/lean4-cli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>blanchette/logical_verification_2023</title>
-    <updated>2023-09-24T01:34:59Z</updated>
-    <id>tag:github.com,2023-09-24:/blanchette/logical_verification_2023</id>
-    <link href="https://github.com/blanchette/logical_verification_2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hitchhiker&#39;s Guide to Logical Verification (2023 Edition)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-24T01:32:14Z</updated>
+  <updated>2023-09-25T01:31:15Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>snyk-workshops/DSOF-Patch-IaC-App</title>
-    <updated>2023-09-24T01:32:14Z</updated>
-    <id>tag:github.com,2023-09-24:/snyk-workshops/DSOF-Patch-IaC-App</id>
-    <link href="https://github.com/snyk-workshops/DSOF-Patch-IaC-App" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Questra-Digital/ts-micro-app</title>
+    <updated>2023-09-25T01:31:15Z</updated>
+    <id>tag:github.com,2023-09-25:/Questra-Digital/ts-micro-app</id>
+    <link href="https://github.com/Questra-Digital/ts-micro-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In Sha Allah, this repository will have a production scale boilerplate code for a micro app written in Typescript based frameworks. Currently, it is using Mongo, Node, Express, Next, React, Redux, MaterialUI, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AndrewGuenther/fck-nat</title>
+    <updated>2023-09-25T01:31:15Z</updated>
+    <id>tag:github.com,2023-09-25:/AndrewGuenther/fck-nat</id>
+    <link href="https://github.com/AndrewGuenther/fck-nat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Feasible cost konfigurable NAT: An AWS NAT Instance AMI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-google-modules/terraform-google-composer</title>
+    <updated>2023-09-25T01:31:15Z</updated>
+    <id>tag:github.com,2023-09-25:/terraform-google-modules/terraform-google-composer</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-composer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manages Cloud Composer v1 and v2 along with option to manage networking&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

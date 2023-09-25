@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-24T01:25:56Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-09-25T01:23:55Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Xwin-LM/Xwin-LM</title>
-    <updated>2023-09-24T01:25:56Z</updated>
-    <id>tag:github.com,2023-09-24:/Xwin-LM/Xwin-LM</id>
-    <link href="https://github.com/Xwin-LM/Xwin-LM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Xwin-LM: Powerful, Stable, and Reproducible LLM Alignment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Unity-Technologies/TermsOfService</title>
+    <updated>2023-09-25T01:23:55Z</updated>
+    <id>tag:github.com,2023-09-25:/Unity-Technologies/TermsOfService</id>
+    <link href="https://github.com/Unity-Technologies/TermsOfService" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Current and prior versions of the terms that apply to your use of the Unity Editor software.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ChenyangSi/FreeU</title>
-    <updated>2023-09-24T01:25:56Z</updated>
-    <id>tag:github.com,2023-09-24:/ChenyangSi/FreeU</id>
-    <link href="https://github.com/ChenyangSi/FreeU" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FreeU: Free Lunch in Diffusion U-Net&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dark-kingA/cloudTools</title>
-    <updated>2023-09-24T01:25:56Z</updated>
-    <id>tag:github.com,2023-09-24:/dark-kingA/cloudTools</id>
-    <link href="https://github.com/dark-kingA/cloudTools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务器工具， 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 云服务器工具主要是针对ecs服务器的管理，查看、执行命令等等&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fabacab/awesome-cybersecurity-blueteam</title>
+    <updated>2023-09-25T01:23:55Z</updated>
+    <id>tag:github.com,2023-09-25:/fabacab/awesome-cybersecurity-blueteam</id>
+    <link href="https://github.com/fabacab/awesome-cybersecurity-blueteam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-24T01:42:34Z</updated>
+  <updated>2023-09-25T01:41:38Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>penpenpng/markostr</title>
-    <updated>2023-09-24T01:42:34Z</updated>
-    <id>tag:github.com,2023-09-24:/penpenpng/markostr</id>
-    <link href="https://github.com/penpenpng/markostr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mithril-security/blind_chat</title>
+    <updated>2023-09-25T01:41:38Z</updated>
+    <id>tag:github.com,2023-09-25:/mithril-security/blind_chat</id>
+    <link href="https://github.com/mithril-security/blind_chat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fully in-browser privacy solution to make Conversational AI privacy-friendly&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>daedalus-developers/daedalus.codes</title>
+    <updated>2023-09-25T01:41:38Z</updated>
+    <id>tag:github.com,2023-09-25:/daedalus-developers/daedalus.codes</id>
+    <link href="https://github.com/daedalus-developers/daedalus.codes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Home Page&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>roseto/platforma-ciorogarla</title>
+    <updated>2023-09-25T01:41:38Z</updated>
+    <id>tag:github.com,2023-09-25:/roseto/platforma-ciorogarla</id>
+    <link href="https://github.com/roseto/platforma-ciorogarla" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aplicatia cross-platform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-24T01:34:44Z</updated>
+  <updated>2023-09-25T01:33:57Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>polina4096/voices</title>
-    <updated>2023-09-24T01:34:44Z</updated>
-    <id>tag:github.com,2023-09-24:/polina4096/voices</id>
-    <link href="https://github.com/polina4096/voices" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;record and listen to voice messages in your favorite IDE by JetBrains&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Voices &lt;a href=&#34;https://github.com/polina4096/voices/raw/mistress/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/polina4096/voices&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;Record and listen to voice messages in your favorite IDE by JetBrains: &lt;a href=&#34;https://plugins.jetbrains.com/plugin/22766-voices&#34;&gt;https://plugins.jetbrains.com/plugin/22766-voices&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/polina4096/voices/assets/33405371/b9c2ba99-c255-45f8-b6a3-7a5b624d82a8&#34;&gt;https://github.com/polina4096/voices/assets/33405371/b9c2ba99-c255-45f8-b6a3-7a5b624d82a8&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;To record a voice message comment run &#34;Record Voice Message&#34;, or go to &#34;Edit&#34; &amp;gt; &#34;Record Voice Message&#34;&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Distributed under the GPLv3 license.&lt;/p&gt;</summary>
-  </entry>
 </feed>

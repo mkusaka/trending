@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-24T01:34:16Z</updated>
+  <updated>2023-09-25T01:33:05Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PeaceFounder/PeaceFounder.jl</title>
-    <updated>2023-09-24T01:34:16Z</updated>
-    <id>tag:github.com,2023-09-24:/PeaceFounder/PeaceFounder.jl</id>
-    <link href="https://github.com/PeaceFounder/PeaceFounder.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Evoting system for democracy through pseudonym braiding and full public auditability without secrets&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

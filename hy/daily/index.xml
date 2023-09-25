@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-24T01:32:45Z</updated>
+  <updated>2023-09-25T01:31:49Z</updated>
   <subtitle>Daily Trending of Hy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>atisharma/chasm_engine</title>
-    <updated>2023-09-24T01:32:45Z</updated>
-    <id>tag:github.com,2023-09-24:/atisharma/chasm_engine</id>
-    <link href="https://github.com/atisharma/chasm_engine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CHAracter State Management - a generative text adventure engine&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
