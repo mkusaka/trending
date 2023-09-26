@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-25T01:41:09Z</updated>
+  <updated>2023-09-26T01:42:46Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>essential-contributions/ERC-7521</title>
-    <updated>2023-09-25T01:41:09Z</updated>
-    <id>tag:github.com,2023-09-25:/essential-contributions/ERC-7521</id>
-    <link href="https://github.com/essential-contributions/ERC-7521" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>code-423n4/2023-09-maia</title>
-    <updated>2023-09-25T01:41:09Z</updated>
-    <id>tag:github.com,2023-09-25:/code-423n4/2023-09-maia</id>
-    <link href="https://github.com/code-423n4/2023-09-maia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>0xfuturistic/emily</title>
-    <updated>2023-09-25T01:41:09Z</updated>
-    <id>tag:github.com,2023-09-25:/0xfuturistic/emily</id>
-    <link href="https://github.com/0xfuturistic/emily" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🪄 Emily: A Protocol for Credible Commitments on Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

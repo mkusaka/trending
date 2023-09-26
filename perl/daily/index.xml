@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-25T01:37:13Z</updated>
+  <updated>2023-09-26T01:38:38Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ztomasze/QueensHeart</title>
-    <updated>2023-09-25T01:37:13Z</updated>
-    <id>tag:github.com,2023-09-25:/ztomasze/QueensHeart</id>
-    <link href="https://github.com/ztomasze/QueensHeart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An IF game about a goblin that lives down a well.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cbuckley/NetDeviceTracker</title>
-    <updated>2023-09-25T01:37:13Z</updated>
-    <id>tag:github.com,2023-09-25:/cbuckley/NetDeviceTracker</id>
-    <link href="https://github.com/cbuckley/NetDeviceTracker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A perl script that can connect to dd wrt via telnet and report device changes.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NetDeviceTracker&lt;/h1&gt; &#xA;&lt;p&gt;A perl script that can connect to dd wrt via telnet and report device changes.&lt;/p&gt;</summary>
-  </entry>
 </feed>

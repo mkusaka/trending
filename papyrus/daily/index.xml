@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Papyrus Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-25T01:36:54Z</updated>
+  <updated>2023-09-26T01:38:25Z</updated>
   <subtitle>Daily Trending of Papyrus in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rpinedaec83/Pacha02.2023-09</title>
-    <updated>2023-09-25T01:36:54Z</updated>
-    <id>tag:github.com,2023-09-25:/rpinedaec83/Pacha02.2023-09</id>
-    <link href="https://github.com/rpinedaec83/Pacha02.2023-09" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pacha02.2023-07&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

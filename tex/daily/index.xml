@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-25T01:42:14Z</updated>
+  <updated>2023-09-26T01:43:53Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>StanfordASL/PoRA-I-Sections</title>
-    <updated>2023-09-25T01:42:14Z</updated>
-    <id>tag:github.com,2023-09-25:/StanfordASL/PoRA-I-Sections</id>
-    <link href="https://github.com/StanfordASL/PoRA-I-Sections" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Sections for Principle of Robot Autonomy I&lt;/h1&gt;</summary>
-  </entry>
-  <entry>
-    <title>scpd-proed/XCS224N-Handouts</title>
-    <updated>2023-09-25T01:42:14Z</updated>
-    <id>tag:github.com,2023-09-25:/scpd-proed/XCS224N-Handouts</id>
-    <link href="https://github.com/scpd-proed/XCS224N-Handouts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contains Lecture Notes and Suggested Readings for XCS224N&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;XCS224N-Handouts&lt;/h1&gt; &#xA;&lt;p&gt;Contains Lecture Notes and Suggested Readings for XCS224N&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>davimang/REACH</title>
-    <updated>2023-09-25T01:42:14Z</updated>
-    <id>tag:github.com,2023-09-25:/davimang/REACH</id>
-    <link href="https://github.com/davimang/REACH" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A web application used to improve patients&#39; access to clinical trials and practitioners&#39; access to potential participants.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;REACH&lt;/h1&gt; &#xA;&lt;p&gt;Developer Names: David Moroniti, Deep Raj, Alan Scott, Anika Peer, Aamina Hussain&lt;/p&gt; &#xA;&lt;p&gt;Date of project start: 11/18/2023&lt;/p&gt; &#xA;&lt;p&gt;This project is a full-stack web application used to improve patients&#39; access to clinical trials and practitioners&#39; access to potential participants.&lt;/p&gt; &#xA;&lt;p&gt;The folders and files for this project are as follows:&lt;/p&gt; &#xA;&lt;p&gt;docs - Documentation for the project refs - Reference material used for the project, including papers src - Source code test - Test cases etc.&lt;/p&gt;</summary>
+    <title>wei2learn/polynomialMatrixInverse</title>
+    <updated>2023-09-26T01:43:53Z</updated>
+    <id>tag:github.com,2023-09-26:/wei2learn/polynomialMatrixInverse</id>
+    <link href="https://github.com/wei2learn/polynomialMatrixInverse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

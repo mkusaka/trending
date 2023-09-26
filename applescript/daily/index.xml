@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AppleScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-25T01:24:52Z</updated>
+  <updated>2023-09-26T01:26:24Z</updated>
   <subtitle>Daily Trending of AppleScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>djl/astro</title>
-    <updated>2023-09-25T01:24:52Z</updated>
-    <id>tag:github.com,2023-09-25:/djl/astro</id>
-    <link href="https://github.com/djl/astro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Applescripts that resize windows&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;astro&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;pple&lt;strong&gt;s&lt;/strong&gt;cripts &lt;strong&gt;T&lt;/strong&gt;hat &lt;strong&gt;R&lt;/strong&gt;esize wind&lt;strong&gt;o&lt;/strong&gt;ws.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-25T01:23:55Z</updated>
+  <updated>2023-09-26T01:25:26Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Unity-Technologies/TermsOfService</title>
-    <updated>2023-09-25T01:23:55Z</updated>
-    <id>tag:github.com,2023-09-25:/Unity-Technologies/TermsOfService</id>
-    <link href="https://github.com/Unity-Technologies/TermsOfService" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Current and prior versions of the terms that apply to your use of the Unity Editor software.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fabacab/awesome-cybersecurity-blueteam</title>
-    <updated>2023-09-25T01:23:55Z</updated>
-    <id>tag:github.com,2023-09-25:/fabacab/awesome-cybersecurity-blueteam</id>
-    <link href="https://github.com/fabacab/awesome-cybersecurity-blueteam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

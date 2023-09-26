@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-25T01:37:32Z</updated>
+  <updated>2023-09-26T01:39:01Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tripal/tripal</title>
-    <updated>2023-09-25T01:37:32Z</updated>
-    <id>tag:github.com,2023-09-25:/tripal/tripal</id>
-    <link href="https://github.com/tripal/tripal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Tripal package is a suite of Drupal modules for creating biological (genomic, genetic, breeding) websites. Visit the Tripal homepage at http://tripal.info for documentation, support, and other information. The Drupal project page is at http://drupal.org/project/tripal.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

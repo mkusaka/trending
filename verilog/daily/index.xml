@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-25T01:43:04Z</updated>
+  <updated>2023-09-26T01:44:47Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cornell-c2s2/c2s2_ip</title>
-    <updated>2023-09-25T01:43:04Z</updated>
-    <id>tag:github.com,2023-09-25:/cornell-c2s2/c2s2_ip</id>
-    <link href="https://github.com/cornell-c2s2/c2s2_ip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A general repository for all of C2S2&#39;s IP, including testing&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>odin2985/FPGA-CNN-accelerator-based-on-systolic-array</title>
-    <updated>2023-09-25T01:43:04Z</updated>
-    <id>tag:github.com,2023-09-25:/odin2985/FPGA-CNN-accelerator-based-on-systolic-array</id>
-    <link href="https://github.com/odin2985/FPGA-CNN-accelerator-based-on-systolic-array" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2023集创赛国二，紫光同创杯。基于脉动阵列写的一个简单的卷积层加速器，支持yolov3-tiny的第一层卷积层计算，可根据FPGA端DSP资源灵活调整脉动阵列的结构以实现不同的计算效率。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

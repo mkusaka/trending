@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-25T01:25:44Z</updated>
+  <updated>2023-09-26T01:27:25Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Maldev-Academy/MaldevAcademyLdr.1</title>
-    <updated>2023-09-25T01:25:44Z</updated>
-    <id>tag:github.com,2023-09-25:/Maldev-Academy/MaldevAcademyLdr.1</id>
-    <link href="https://github.com/Maldev-Academy/MaldevAcademyLdr.1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MaldevAcademyLdr.1&lt;/h1&gt; &#xA;&lt;h2&gt;Quick Links&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Maldev Academy Home - &lt;a href=&#34;https://maldevacademy.com&#34;&gt;https://maldevacademy.com&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Maldev Academy Syllabus - &lt;a href=&#34;https://maldevacademy.com/syllabus&#34;&gt;https://maldevacademy.com/syllabus&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Maldev Academy Pricing - &lt;a href=&#34;https://maldevacademy.com/pricing&#34;&gt;https://maldevacademy.com/pricing&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;EXE Loader&lt;/h2&gt; &#xA;&lt;p&gt;Maldev Academy&#39;s October update saw several interesting modules being released to our users. One of them was our DLL loader that was successfully tested against several EDRs including MDE and Crowdstrike.&lt;/p&gt; &#xA;&lt;p&gt;We promised to release an EXE version of the loader on GitHub.&lt;/p&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://github.com/Maldev-Academy/MaldevAcademyLdr.1/raw/main/tweet.png&#34; alt=&#34;tweet&#34;&gt;&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td align=&#34;center&#34;&gt;&lt;em&gt;&lt;a href=&#34;https://twitter.com/MalDevAcademy/status/1701981413938012462&#34;&gt;https://twitter.com/MalDevAcademy/status/1701981413938012462&lt;/a&gt;&lt;/em&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Indirect-Syscalls using an improved HellsHall implementation.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Dll Unhooking via the \KnownDlls\ directory&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Payload injection by chunking&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Using custom AES encryption library.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Executing payload via Thread Pool APIs.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Obfuscating IAT using API hashing and API camouflage.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;CRT library independent.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Demo&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Maldev-Academy/MaldevAcademyLdr.1/raw/main/demo.mp4&#34;&gt;&lt;img src=&#34;https://github.com/Maldev-Academy/MaldevAcademyLdr.1/raw/main/demo-cover.png&#34; alt=&#34;Demo&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>mistymntncop/CVE-2023-4863</title>
-    <updated>2023-09-25T01:25:44Z</updated>
-    <id>tag:github.com,2023-09-25:/mistymntncop/CVE-2023-4863</id>
-    <link href="https://github.com/mistymntncop/CVE-2023-4863" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CVE-2023-4863/CVE-2023-41064&lt;/h1&gt; &#xA;&lt;p&gt;A POC for CVE-2023-4863. NOT an exploit Shout to @benhawkes who discovered the right set of code_lengths to trigger this vulnerability! Please consult Ben&#39;s blog post for more information! &lt;a href=&#34;https://blog.isosceles.com/the-webp-0day/&#34;&gt;https://blog.isosceles.com/the-webp-0day/&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>
