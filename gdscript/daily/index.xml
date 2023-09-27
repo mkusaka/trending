@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-26T01:31:23Z</updated>
+  <updated>2023-09-27T01:31:10Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>brombres/Godot-GameGUI</title>
+    <updated>2023-09-27T01:31:10Z</updated>
+    <id>tag:github.com,2023-09-27:/brombres/Godot-GameGUI</id>
+    <link href="https://github.com/brombres/Godot-GameGUI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Godot 4.x plug-in that implements a rich and robust dynamic layout and sizing system for building user interfaces.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>marcelb/GodotSSRWater</title>
+    <updated>2023-09-27T01:31:10Z</updated>
+    <id>tag:github.com,2023-09-27:/marcelb/GodotSSRWater</id>
+    <link href="https://github.com/marcelb/GodotSSRWater" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gdquest-demos/godot-open-rpg</title>
+    <updated>2023-09-27T01:31:10Z</updated>
+    <id>tag:github.com,2023-09-27:/gdquest-demos/godot-open-rpg</id>
+    <link href="https://github.com/gdquest-demos/godot-open-rpg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn to create turn-based combat with this Open Source RPG demo ⚔&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

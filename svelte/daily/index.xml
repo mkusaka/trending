@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-26T01:43:17Z</updated>
+  <updated>2023-09-27T01:42:48Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dfinity/oisy-wallet</title>
-    <updated>2023-09-26T01:43:17Z</updated>
-    <id>tag:github.com,2023-09-26:/dfinity/oisy-wallet</id>
-    <link href="https://github.com/dfinity/oisy-wallet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A novel Ethereum wallet hosted on the Internet Computer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hannansatopay/devstar</title>
+    <updated>2023-09-27T01:42:48Z</updated>
+    <id>tag:github.com,2023-09-27:/hannansatopay/devstar</id>
+    <link href="https://github.com/hannansatopay/devstar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Maximize efficiency and productivity with our free online developer toolkit. Streamline workflows and unlock your full potential with our user-friendly platform.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Edge-coordinates/Waterfall_picture_viewer</title>
+    <updated>2023-09-27T01:42:48Z</updated>
+    <id>tag:github.com,2023-09-27:/Edge-coordinates/Waterfall_picture_viewer</id>
+    <link href="https://github.com/Edge-coordinates/Waterfall_picture_viewer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;瀑布流图片查看器&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>npmhub/npmhub</title>
+    <updated>2023-09-27T01:42:48Z</updated>
+    <id>tag:github.com,2023-09-27:/npmhub/npmhub</id>
+    <link href="https://github.com/npmhub/npmhub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔎 A browser extension to explore npm dependencies on GitHub repos&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

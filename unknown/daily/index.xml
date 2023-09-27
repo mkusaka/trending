@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-26T01:25:26Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-09-27T01:25:10Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ranlo/osintsummit-2023-resources</title>
+    <updated>2023-09-27T01:25:10Z</updated>
+    <id>tag:github.com,2023-09-27:/ranlo/osintsummit-2023-resources</id>
+    <link href="https://github.com/ranlo/osintsummit-2023-resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A categorized list of resources presented during the 2023 Sans OSINTSummit&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nodejs/performance</title>
+    <updated>2023-09-27T01:25:10Z</updated>
+    <id>tag:github.com,2023-09-27:/nodejs/performance</id>
+    <link href="https://github.com/nodejs/performance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Node.js team focusing on performance&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RunpeiDong/DreamLLM</title>
+    <updated>2023-09-27T01:25:10Z</updated>
+    <id>tag:github.com,2023-09-27:/RunpeiDong/DreamLLM</id>
+    <link href="https://github.com/RunpeiDong/DreamLLM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DreamLLM: Synergistic Multimodal Comprehension and Creation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

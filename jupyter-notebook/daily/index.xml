@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-26T01:34:44Z</updated>
+  <updated>2023-09-27T01:34:30Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fastai/lm-hackers</title>
+    <updated>2023-09-27T01:34:30Z</updated>
+    <id>tag:github.com,2023-09-27:/fastai/lm-hackers</id>
+    <link href="https://github.com/fastai/lm-hackers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hackers&#39; Guide to Language Models&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;A Hackers&#39; Guide to Language Models&lt;/h1&gt; &#xA;&lt;p&gt;The notebook from the video is &lt;a href=&#34;https://raw.githubusercontent.com/fastai/lm-hackers/main/lm-hackers.ipynb&#34;&gt;lm-hackers.ipynb&lt;/a&gt;. The other files are for axolotl fine-tuning.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>anthropics/anthropic-cookbook</title>
+    <updated>2023-09-27T01:34:30Z</updated>
+    <id>tag:github.com,2023-09-27:/anthropics/anthropic-cookbook</id>
+    <link href="https://github.com/anthropics/anthropic-cookbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Anthropic Cookbook&lt;/h1&gt; &#xA;&lt;p&gt;This cookbook contains recipes in the form of Jupyter notebooks for using &lt;a href=&#34;https://claude.ai&#34;&gt;Claude&lt;/a&gt; in neat and effective ways. You&#39;ll need an Anthropic API key, which you can apply for &lt;a href=&#34;https://www.anthropic.com/earlyaccess&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Recipes&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/anthropics/anthropic-cookbook/raw/main/long_context/mc_qa.ipynb&#34;&gt;Long Context: Q&amp;amp;A&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/anthropics/anthropic-cookbook/raw/main/long_context/wikipedia-search-cookbook.ipynb&#34;&gt;Long Context: Wikipedia Search&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/anthropics/anthropic-cookbook/raw/main/long_context/pdf_upload_summarization.ipynb&#34;&gt;Long Context: PDF &#34;Upload&#34; and Summarization&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-26T01:45:06Z</updated>
+  <updated>2023-09-27T01:44:51Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>codefest-iit-bhu/codefest-app</title>
+    <updated>2023-09-27T01:44:51Z</updated>
+    <id>tag:github.com,2023-09-27:/codefest-iit-bhu/codefest-app</id>
+    <link href="https://github.com/codefest-iit-bhu/codefest-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code for the CodeFest site.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PatrikFehrenbach/BugBountyBlueprint</title>
+    <updated>2023-09-27T01:44:51Z</updated>
+    <id>tag:github.com,2023-09-27:/PatrikFehrenbach/BugBountyBlueprint</id>
+    <link href="https://github.com/PatrikFehrenbach/BugBountyBlueprint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tool offering templates for streamlined bug bounty reporting&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>My-bin/vue2-visualization-LargeScreen</title>
+    <updated>2023-09-27T01:44:51Z</updated>
+    <id>tag:github.com,2023-09-27:/My-bin/vue2-visualization-LargeScreen</id>
+    <link href="https://github.com/My-bin/vue2-visualization-LargeScreen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于vue2+vuex+router+echarts的数据可视化大屏，使用缩放进行了屏幕的适配&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
