@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-27T01:30:15Z</updated>
+  <updated>2023-09-28T01:28:29Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cpursley/walex</title>
+    <updated>2023-09-28T01:28:29Z</updated>
+    <id>tag:github.com,2023-09-28:/cpursley/walex</id>
+    <link href="https://github.com/cpursley/walex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Listen to Postgres change events and do stuff with the data directly in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>omt-tech/growth</title>
+    <updated>2023-09-28T01:28:29Z</updated>
+    <id>tag:github.com,2023-09-28:/omt-tech/growth</id>
+    <link href="https://github.com/omt-tech/growth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

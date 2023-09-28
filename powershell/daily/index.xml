@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-27T01:38:50Z</updated>
+  <updated>2023-09-28T01:36:55Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tomwechsler/Microsoft_Graph</title>
-    <updated>2023-09-27T01:38:50Z</updated>
-    <id>tag:github.com,2023-09-27:/tomwechsler/Microsoft_Graph</id>
-    <link href="https://github.com/tomwechsler/Microsoft_Graph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manage Azure and Microsoft 365 with the Microsoft Graph PowerShell SDK!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Microsoft Graph PowerShell SDK&lt;/h1&gt; &#xA;&lt;p&gt;Manage Azure and Microsoft 365 with the Microsoft Graph PowerShell SDK!&lt;/p&gt;</summary>
-  </entry>
 </feed>

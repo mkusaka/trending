@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-27T01:35:57Z</updated>
+  <updated>2023-09-28T01:34:00Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Patrick9313/Knapsack-problem</title>
+    <updated>2023-09-28T01:34:00Z</updated>
+    <id>tag:github.com,2023-09-28:/Patrick9313/Knapsack-problem</id>
+    <link href="https://github.com/Patrick9313/Knapsack-problem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于遗传算法解决具体的组合优化背包问题&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FubuFabian/CheckCalibrationErrorMatlab</title>
+    <updated>2023-09-28T01:34:00Z</updated>
+    <id>tag:github.com,2023-09-28:/FubuFabian/CheckCalibrationErrorMatlab</id>
+    <link href="https://github.com/FubuFabian/CheckCalibrationErrorMatlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>duvenaud/harlemcmc-shake</title>
+    <updated>2023-09-28T01:34:00Z</updated>
+    <id>tag:github.com,2023-09-28:/duvenaud/harlemcmc-shake</id>
+    <link href="https://github.com/duvenaud/harlemcmc-shake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code to produce demos of Metroplis-Hastings and Hamiltonian Monte Carlo samplers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

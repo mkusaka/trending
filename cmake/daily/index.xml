@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-27T01:28:09Z</updated>
+  <updated>2023-09-28T01:26:42Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LinHuangnan/Tutorial_2023</title>
+    <updated>2023-09-28T01:26:42Z</updated>
+    <id>tag:github.com,2023-09-28:/LinHuangnan/Tutorial_2023</id>
+    <link href="https://github.com/LinHuangnan/Tutorial_2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&#34;嗨，你为什么那么努力?&#34; &#34;因为我想去的地方很远，想买的东西很贵，喜欢的人很优秀!&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NordicPlayground/ncs-nrf5340-xip-app</title>
+    <updated>2023-09-28T01:26:42Z</updated>
+    <id>tag:github.com,2023-09-28:/NordicPlayground/ncs-nrf5340-xip-app</id>
+    <link href="https://github.com/NordicPlayground/ncs-nrf5340-xip-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example app that is able to receive mulitple images over SMP (with part of the app in XIP) and flash them on a nRF5340&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

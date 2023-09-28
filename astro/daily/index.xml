@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-27T01:26:25Z</updated>
+  <updated>2023-09-28T01:24:58Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EshaanAgg/LFXMM-Frontend</title>
+    <updated>2023-09-28T01:24:58Z</updated>
+    <id>tag:github.com,2023-09-28:/EshaanAgg/LFXMM-Frontend</id>
+    <link href="https://github.com/EshaanAgg/LFXMM-Frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The frontend website for LFX Mentorship Metrics. Leverages static site generation while client components in React with Astro.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NOXITB/nox-blogs</title>
+    <updated>2023-09-28T01:24:58Z</updated>
+    <id>tag:github.com,2023-09-28:/NOXITB/nox-blogs</id>
+    <link href="https://github.com/NOXITB/nox-blogs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

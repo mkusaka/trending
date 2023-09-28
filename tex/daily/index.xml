@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-27T01:43:38Z</updated>
+  <updated>2023-09-28T01:41:27Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>miculan/thud</title>
+    <updated>2023-09-28T01:41:27Z</updated>
+    <id>tag:github.com,2023-09-28:/miculan/thud</id>
+    <link href="https://github.com/miculan/thud" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A LaTeX package for writing a THesis at the University of Udine&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;THUD: THesis at UniUD&lt;/h1&gt; &#xA;&lt;p&gt;THUD è un formato LaTeX per le tesi di laurea in Informatica ed affini presso il Dipartimento di Scienze Matematiche, Informatiche e Fisiche dell&#39;Università degli Studi di Udine.&lt;/p&gt; &#xA;&lt;p&gt;Si assume che sappiate scrivere in LaTeX; altrimenti, &lt;a href=&#34;https://www.learnlatex.org/en/&#34;&gt;sappiatelo&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Procedura per laurearsi&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Clonare o forkare questo repository.&lt;/li&gt; &#xA; &lt;li&gt;Rinominare thesis.tex in thesis_&lt;em&gt;cognome&lt;/em&gt;.tex (con il vostro cognome), che sarà il file principale della tesi.&lt;/li&gt; &#xA; &lt;li&gt;Editare il file thesis_&lt;em&gt;cognome&lt;/em&gt;.tex. È sufficiente riempire i campi necessari e aggiungere tutto il materiale che serve. Il codice dovrebbe essere auto-esplicativo.&lt;/li&gt; &#xA; &lt;li&gt;Compilare thesis_&lt;em&gt;cognome&lt;/em&gt;.tex con pdflatex.&lt;/li&gt; &#xA; &lt;li&gt;Se si usa bibtex (fortemente consigliato!): riempire il file thud.bib, passare bibtex, poi pdflatex e pdflatex.&lt;/li&gt; &#xA; &lt;li&gt;Caricare thesis_&lt;em&gt;cognome&lt;/em&gt;.pdf su Esse3 entro la scadenza.&lt;/li&gt; &#xA; &lt;li&gt;Preparare le slide, eventualmente con il formato ufficiale del dipartimento.&lt;/li&gt; &#xA; &lt;li&gt;Esporre slide.pptx.&lt;/li&gt; &#xA; &lt;li&gt;Ubriacarsi con amici e parenti.&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
+  <entry>
+    <title>Instanssi/DiplomaGenerator</title>
+    <updated>2023-09-28T01:41:27Z</updated>
+    <id>tag:github.com,2023-09-28:/Instanssi/DiplomaGenerator</id>
+    <link href="https://github.com/Instanssi/DiplomaGenerator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generates diplomas for winners.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DiplomaGenerator&lt;/h1&gt; &#xA;&lt;p&gt;Generates diplomas for Instanssi winners.&lt;/p&gt; &#xA;&lt;p&gt;Requires: LaTex, XeTeX, correct fonts: Courier New, Exo (&lt;a href=&#34;http://www.fontsquirrel.com/fonts/exo&#34;&gt;http://www.fontsquirrel.com/fonts/exo&lt;/a&gt;)&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Must have: frame.pdf (an A4 sized PDF background for the diplomas), results.csv (database of the results)&lt;/p&gt; &#xA;&lt;p&gt;Run: make&lt;/p&gt; &#xA;&lt;p&gt;Output: PDF diplomas&lt;/p&gt; &#xA;&lt;h2&gt;Results database format&lt;/h2&gt; &#xA;&lt;p&gt;Ordinary CSV with commas (,) as separators and double quotes (&#34;) as field text quote characters. Some special characters should be escaped beforahand because of LaTeX. Such characters include &amp;amp; (which should be replaced by &amp;amp;).&lt;/p&gt; &#xA;&lt;p&gt;The following fields should be present, the first line containing the field names themselves:&lt;/p&gt; &#xA;&lt;p&gt;Entry - text giving the name of the entry.&lt;/p&gt; &#xA;&lt;p&gt;Author - text field, author&#39;s name.&lt;/p&gt; &#xA;&lt;p&gt;HasMultipleAuthors - &#34;true&#34; or &#34;false&#34; depending on if the author name is plural or singular.&lt;/p&gt; &#xA;&lt;p&gt;HasEntry - &#34;true&#34; or &#34;false&#34;. False should be used for, e.g., gaming competitions.&lt;/p&gt; &#xA;&lt;p&gt;Placement - text field, usually marked with Roman numerals &#34;I&#34;, &#34;II&#34;, &#34;III&#34;.&lt;/p&gt; &#xA;&lt;p&gt;Compo - text field, name of the competition.&lt;/p&gt;</summary>
+  </entry>
 </feed>

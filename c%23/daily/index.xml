@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-27T01:27:07Z</updated>
+  <updated>2023-09-28T01:25:51Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>flytkgl/PDFQFZ</title>
+    <updated>2023-09-28T01:25:51Z</updated>
+    <id>tag:github.com,2023-09-28:/flytkgl/PDFQFZ</id>
+    <link href="https://github.com/flytkgl/PDFQFZ" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PDF加盖骑缝章的小工具&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PDFQFZ&lt;/h1&gt; &#xA;&lt;p&gt;PDF加盖骑缝章的小工具&lt;/p&gt; &#xA;&lt;p&gt;选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/flytkgl/PDFQFZ/master/pdfqfz.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
