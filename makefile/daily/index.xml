@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-28T01:33:55Z</updated>
+  <updated>2023-09-29T01:30:47Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>blackjetrock/pico-sp0256</title>
-    <updated>2023-09-28T01:33:55Z</updated>
-    <id>tag:github.com,2023-09-28:/blackjetrock/pico-sp0256</id>
-    <link href="https://github.com/blackjetrock/pico-sp0256" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rp Pico emulator of the SP0256 speech synthesiser chip&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>igorgue/firedis</title>
+    <updated>2023-09-29T01:30:47Z</updated>
+    <id>tag:github.com,2023-09-29:/igorgue/firedis</id>
+    <link href="https://github.com/igorgue/firedis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An implementation of Redis in the Mojo programming language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

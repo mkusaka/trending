@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-28T01:32:32Z</updated>
+  <updated>2023-09-29T01:29:40Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>heyx3/B-plus</title>
-    <updated>2023-09-28T01:32:32Z</updated>
-    <id>tag:github.com,2023-09-28:/heyx3/B-plus</id>
-    <link href="https://github.com/heyx3/B-plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern OpenGL 4.6 rendering framework, written in Julia.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaDocs/DocumentationGeneratorRegistry</title>
-    <updated>2023-09-28T01:32:32Z</updated>
-    <id>tag:github.com,2023-09-28:/JuliaDocs/DocumentationGeneratorRegistry</id>
-    <link href="https://github.com/JuliaDocs/DocumentationGeneratorRegistry" rel="alternate"></link>
+    <title>JuliaPackaging/BinaryBuilderBase.jl</title>
+    <updated>2023-09-29T01:29:40Z</updated>
+    <id>tag:github.com,2023-09-29:/JuliaPackaging/BinaryBuilderBase.jl</id>
+    <link href="https://github.com/JuliaPackaging/BinaryBuilderBase.jl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kose-y/SparseKmeansFeatureRanking.jl</title>
-    <updated>2023-09-28T01:32:32Z</updated>
-    <id>tag:github.com,2023-09-28:/kose-y/SparseKmeansFeatureRanking.jl</id>
-    <link href="https://github.com/kose-y/SparseKmeansFeatureRanking.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eliasdabbas/seo-audit-and-analysis</title>
+    <updated>2023-09-29T01:29:40Z</updated>
+    <id>tag:github.com,2023-09-29:/eliasdabbas/seo-audit-and-analysis</id>
+    <link href="https://github.com/eliasdabbas/seo-audit-and-analysis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SEO audit and analysis template with Python and advertools&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

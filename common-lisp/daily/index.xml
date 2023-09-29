@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-28T01:26:51Z</updated>
+  <updated>2023-09-29T01:25:05Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kaiserprogrammer/lights-out</title>
-    <updated>2023-09-28T01:26:51Z</updated>
-    <id>tag:github.com,2023-09-28:/kaiserprogrammer/lights-out</id>
-    <link href="https://github.com/kaiserprogrammer/lights-out" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Lights Out Game now in Common Lisp&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Classic Lights Out Game&lt;/h1&gt; &#xA;&lt;h2&gt;Play in REPL&lt;/h2&gt; &#xA;&lt;p&gt;Compile the corresponding file and start the game with the corresponding function. There is a SDL, QT and Terminal version.&lt;/p&gt;</summary>
-  </entry>
 </feed>

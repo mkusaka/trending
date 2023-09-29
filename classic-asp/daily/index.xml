@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-28T01:26:32Z</updated>
+  <updated>2023-09-29T01:24:49Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ParTech/Embedded-Page-Editor</title>
-    <updated>2023-09-28T01:26:32Z</updated>
-    <id>tag:github.com,2023-09-28:/ParTech/Embedded-Page-Editor</id>
-    <link href="https://github.com/ParTech/Embedded-Page-Editor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This script provides a solution for embedding the Sitecore Page Editor in the Content Editor as an editor tab&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rubensdepaulajr/snw</title>
-    <updated>2023-09-28T01:26:32Z</updated>
-    <id>tag:github.com,2023-09-28:/rubensdepaulajr/snw</id>
-    <link href="https://github.com/rubensdepaulajr/snw" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sistema de gestão de plano de saúde no padrão TISS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

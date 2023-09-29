@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-28T01:42:27Z</updated>
+  <updated>2023-09-29T01:37:06Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>guumaster/vimrc</title>
-    <updated>2023-09-28T01:42:27Z</updated>
-    <id>tag:github.com,2023-09-28:/guumaster/vimrc</id>
-    <link href="https://github.com/guumaster/vimrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My fabulous VIM configuration. Includes vundle and several plugins.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fmi/vim-projects</title>
-    <updated>2023-09-28T01:42:27Z</updated>
-    <id>tag:github.com,2023-09-28:/fmi/vim-projects</id>
-    <link href="https://github.com/fmi/vim-projects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Projects created for the Vim course at FMI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

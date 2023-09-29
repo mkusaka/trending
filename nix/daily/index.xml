@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-28T01:34:59Z</updated>
+  <updated>2023-09-29T01:31:42Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jakehamilton/neovim</title>
-    <updated>2023-09-28T01:34:59Z</updated>
-    <id>tag:github.com,2023-09-28:/jakehamilton/neovim</id>
-    <link href="https://github.com/jakehamilton/neovim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My customized version of Neovim, built with Nix.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rustshop/flakebox</title>
-    <updated>2023-09-28T01:34:59Z</updated>
-    <id>tag:github.com,2023-09-28:/rustshop/flakebox</id>
-    <link href="https://github.com/rustshop/flakebox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flakebox is to your Rust project dev environment, what NixOS is to your OS, or home-manager to your home directory.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

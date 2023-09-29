@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-28T01:29:19Z</updated>
+  <updated>2023-09-29T01:27:15Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tomankirilov/VPainter</title>
-    <updated>2023-09-28T01:29:19Z</updated>
-    <id>tag:github.com,2023-09-28:/tomankirilov/VPainter</id>
-    <link href="https://github.com/tomankirilov/VPainter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A vertex painting addon for the Godot game engine.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KenneyNL/Starter-Kit-City-Builder</title>
+    <updated>2023-09-29T01:27:15Z</updated>
+    <id>tag:github.com,2023-09-29:/KenneyNL/Starter-Kit-City-Builder</id>
+    <link href="https://github.com/KenneyNL/Starter-Kit-City-Builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nathanhoad/godot_sound_manager</title>
-    <updated>2023-09-28T01:29:19Z</updated>
-    <id>tag:github.com,2023-09-28:/nathanhoad/godot_sound_manager</id>
-    <link href="https://github.com/nathanhoad/godot_sound_manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple music and sound effect player for the Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>heygleeson/godot-ldtk-importer</title>
+    <updated>2023-09-29T01:27:15Z</updated>
+    <id>tag:github.com,2023-09-29:/heygleeson/godot-ldtk-importer</id>
+    <link href="https://github.com/heygleeson/godot-ldtk-importer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LDTK Importer for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>don-tnowe/godot-auto-layout</title>
-    <updated>2023-09-28T01:29:19Z</updated>
-    <id>tag:github.com,2023-09-28:/don-tnowe/godot-auto-layout</id>
-    <link href="https://github.com/don-tnowe/godot-auto-layout" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Press Shift+A to add a container for your green fellows.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BL-MSCH-C220/Exercise-3-1-Colors-and-Particles</title>
+    <updated>2023-09-29T01:27:15Z</updated>
+    <id>tag:github.com,2023-09-29:/BL-MSCH-C220/Exercise-3-1-Colors-and-Particles</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-3-1-Colors-and-Particles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

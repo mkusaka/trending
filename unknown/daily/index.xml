@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-28T01:23:53Z</updated>
+  <updated>2023-09-29T01:22:56Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>saisathvik1/OSCP-Cheatsheet</title>
-    <updated>2023-09-28T01:23:53Z</updated>
-    <id>tag:github.com,2023-09-28:/saisathvik1/OSCP-Cheatsheet</id>
-    <link href="https://github.com/saisathvik1/OSCP-Cheatsheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OSCP Cheatsheet by Sai Sathvik&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>datalens-tech/datalens</title>
+    <updated>2023-09-29T01:22:56Z</updated>
+    <id>tag:github.com,2023-09-29:/datalens-tech/datalens</id>
+    <link href="https://github.com/datalens-tech/datalens" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern, scalable analytics system&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iuricode/vagas-frontend</title>
-    <updated>2023-09-28T01:23:53Z</updated>
-    <id>tag:github.com,2023-09-28:/iuricode/vagas-frontend</id>
-    <link href="https://github.com/iuricode/vagas-frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vagas de desenvolvimento frontend&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bgp/autopeer</title>
-    <updated>2023-09-28T01:23:53Z</updated>
-    <id>tag:github.com,2023-09-28:/bgp/autopeer</id>
-    <link href="https://github.com/bgp/autopeer" rel="alternate"></link>
+    <title>LetsDefend/incident-response-playbooks</title>
+    <updated>2023-09-29T01:22:56Z</updated>
+    <id>tag:github.com,2023-09-29:/LetsDefend/incident-response-playbooks</id>
+    <link href="https://github.com/LetsDefend/incident-response-playbooks" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>public-api-lists/public-api-lists</title>
+    <updated>2023-09-29T01:22:56Z</updated>
+    <id>tag:github.com,2023-09-29:/public-api-lists/public-api-lists</id>
+    <link href="https://github.com/public-api-lists/public-api-lists" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
