@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-29T01:26:49Z</updated>
+  <updated>2023-09-30T01:28:01Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fsharplang-ru/vahter-bot</title>
-    <updated>2023-09-29T01:26:49Z</updated>
-    <id>tag:github.com,2023-09-29:/fsharplang-ru/vahter-bot</id>
-    <link href="https://github.com/fsharplang-ru/vahter-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Бот для комьюнити, который умеет банить!&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Database setup&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-postgresql&#34;&gt;CREATE ROLE vahter_bot_ban_service WITH LOGIN PASSWORD &#39;vahter_bot_ban_service&#39;;&#xA;GRANT vahter_bot_ban_service TO postgres;&#xA;CREATE DATABASE vahter_bot_ban OWNER vahter_bot_ban_service ENCODING &#39;UTF8&#39;;&#xA;GRANT ALL ON DATABASE vahter_bot_ban TO vahter_bot_ban_service;&#xA;GRANT USAGE, CREATE ON SCHEMA public TO vahter_bot_ban_service;&#xA;CREATE EXTENSION IF NOT EXISTS &#34;uuid-ossp&#34;;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Run migrations&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;flyway -configFiles=flyway.local.conf migrate&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-29T01:33:55Z</updated>
+  <updated>2023-09-30T01:37:03Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>carpentries-incubator/intro-to-modern-fortran</title>
-    <updated>2023-09-29T01:33:55Z</updated>
-    <id>tag:github.com,2023-09-29:/carpentries-incubator/intro-to-modern-fortran</id>
-    <link href="https://github.com/carpentries-incubator/intro-to-modern-fortran" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Introduction to Modern Fortran&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Introduction to Modern Fortran&lt;/h1&gt; &#xA;&lt;p&gt;This is the lesson repository for Introduction to Modern Fortran.&lt;/p&gt; &#xA;&lt;p&gt;[Notes from RSECon23][https://pad.archer2.ac.uk/p/rsecon23-fortran]&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>evolgeniusteam/R-for-bioinformatics</title>
-    <updated>2023-09-29T01:33:55Z</updated>
-    <id>tag:github.com,2023-09-29:/evolgeniusteam/R-for-bioinformatics</id>
-    <link href="https://github.com/evolgeniusteam/R-for-bioinformatics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;R course for bioinformatics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cjbarrie/blueskyr</title>
+    <updated>2023-09-30T01:37:03Z</updated>
+    <id>tag:github.com,2023-09-30:/cjbarrie/blueskyr</id>
+    <link href="https://github.com/cjbarrie/blueskyr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;blueskyr &lt;img src=&#34;https://raw.githubusercontent.com/cjbarrie/blueskyr/main/images/hex-blueskyr.png&#34; width=&#34;160px&#34; align=&#34;right&#34;&gt;&lt;/h1&gt; &#xA;&lt;p&gt;This is a working repository for adding functions to the &lt;code&gt;blueskyr&lt;/code&gt; package as the API develops. At present, the only functions is a posting function &lt;code&gt;post_bsky()&lt;/code&gt; that posts to the BlueSky platform.&lt;/p&gt; &#xA;&lt;h2&gt;Authentication&lt;/h2&gt; &#xA;&lt;p&gt;In order to set up your environment variables, follow this workflow:&lt;/p&gt; &#xA;&lt;p&gt;First, on the BlueSky platform, go to &#34;Settings&#34; and create and App Password. Make a note of this as you will not be able to copy it again.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/cjbarrie/blueskyr/main/images/bsky_app_passwords.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Then open your Renviron with:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-{r}&#34;&gt;usethis::edit_r_environ()&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;After you&#39;ve done this, input your details in as below:&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/cjbarrie/blueskyr/main/images/bsky_environ.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Then, &lt;strong&gt;make sure to restart your R Session&lt;/strong&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Once you&#39;ve done this, you should be ready to use the package with:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-{r}&#34;&gt;devtools::install_github(&#34;cjbarrie/blueskyr&#34;)&#xA;library(blueskyr)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;And you can make your first post with:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-{r}&#34;&gt;post_bsky(&#34;This is my first post&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

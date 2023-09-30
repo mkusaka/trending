@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-29T01:35:08Z</updated>
+  <updated>2023-09-30T01:38:36Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Asfak00/sass-learning</title>
+    <updated>2023-09-30T01:38:36Z</updated>
+    <id>tag:github.com,2023-09-30:/Asfak00/sass-learning</id>
+    <link href="https://github.com/Asfak00/sass-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository I have opened for my Sass practice and also I have a complete discussion of Sass in the readme file which I understood while learning Sass. I feel this documentation can be useful to someone so shared it with everyone.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>flank-investing/flank-interview</title>
+    <updated>2023-09-30T01:38:36Z</updated>
+    <id>tag:github.com,2023-09-30:/flank-investing/flank-interview</id>
+    <link href="https://github.com/flank-investing/flank-interview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>almenscorner/intunecd-monitor</title>
+    <updated>2023-09-30T01:38:36Z</updated>
+    <id>tag:github.com,2023-09-30:/almenscorner/intunecd-monitor</id>
+    <link href="https://github.com/almenscorner/intunecd-monitor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IntuneCD front end, monitor configurations and changes in Intune&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

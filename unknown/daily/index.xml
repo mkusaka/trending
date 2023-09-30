@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-29T01:22:56Z</updated>
+  <updated>2023-09-30T01:22:43Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>datalens-tech/datalens</title>
-    <updated>2023-09-29T01:22:56Z</updated>
-    <id>tag:github.com,2023-09-29:/datalens-tech/datalens</id>
-    <link href="https://github.com/datalens-tech/datalens" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern, scalable analytics system&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chromium/chromium</title>
+    <updated>2023-09-30T01:22:43Z</updated>
+    <id>tag:github.com,2023-09-30:/chromium/chromium</id>
+    <link href="https://github.com/chromium/chromium" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official GitHub mirror of the Chromium source&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LetsDefend/incident-response-playbooks</title>
-    <updated>2023-09-29T01:22:56Z</updated>
-    <id>tag:github.com,2023-09-29:/LetsDefend/incident-response-playbooks</id>
-    <link href="https://github.com/LetsDefend/incident-response-playbooks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aws-samples/aws-customer-playbook-framework</title>
+    <updated>2023-09-30T01:22:43Z</updated>
+    <id>tag:github.com,2023-09-30:/aws-samples/aws-customer-playbook-framework</id>
+    <link href="https://github.com/aws-samples/aws-customer-playbook-framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository provides sample templates for security playbooks against various scenarios when using Amazon Web Services.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>public-api-lists/public-api-lists</title>
-    <updated>2023-09-29T01:22:56Z</updated>
-    <id>tag:github.com,2023-09-29:/public-api-lists/public-api-lists</id>
-    <link href="https://github.com/public-api-lists/public-api-lists" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AakashKumarNain/annotated_research_papers</title>
+    <updated>2023-09-30T01:22:43Z</updated>
+    <id>tag:github.com,2023-09-30:/AakashKumarNain/annotated_research_papers</id>
+    <link href="https://github.com/AakashKumarNain/annotated_research_papers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo contains annotated research papers that I found really good and useful&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

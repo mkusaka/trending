@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-29T01:31:38Z</updated>
+  <updated>2023-09-30T01:34:00Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>crashappsec/chalk</title>
-    <updated>2023-09-29T01:31:38Z</updated>
-    <id>tag:github.com,2023-09-29:/crashappsec/chalk</id>
-    <link href="https://github.com/crashappsec/chalk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Total visibility of your software engineering lifecycle&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dinau/nim_implot</title>
+    <updated>2023-09-30T01:34:00Z</updated>
+    <id>tag:github.com,2023-09-30:/dinau/nim_implot</id>
+    <link href="https://github.com/dinau/nim_implot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nim binding for ImPlot / CImPlot with ImGui / CImGui&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

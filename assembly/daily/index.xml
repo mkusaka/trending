@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-29T01:23:39Z</updated>
+  <updated>2023-09-30T01:23:49Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KellanClark/armfuck</title>
-    <updated>2023-09-29T01:23:39Z</updated>
-    <id>tag:github.com,2023-09-29:/KellanClark/armfuck</id>
-    <link href="https://github.com/KellanClark/armfuck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Turing completeness from two RISC instructions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mirleims/MATA49_23.2</title>
+    <updated>2023-09-30T01:23:49Z</updated>
+    <id>tag:github.com,2023-09-30:/mirleims/MATA49_23.2</id>
+    <link href="https://github.com/mirleims/MATA49_23.2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>H4K3R13/The-Hello-World-Project</title>
+    <updated>2023-09-30T01:23:49Z</updated>
+    <id>tag:github.com,2023-09-30:/H4K3R13/The-Hello-World-Project</id>
+    <link href="https://github.com/H4K3R13/The-Hello-World-Project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository hosts programs that output &#39;Hello World&#39; in various programming languages. 🌍✨&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

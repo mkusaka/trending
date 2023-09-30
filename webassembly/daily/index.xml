@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-29T01:37:18Z</updated>
+  <updated>2023-09-30T01:41:14Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>in-tech-gration/WDX-180</title>
-    <updated>2023-09-29T01:37:18Z</updated>
-    <id>tag:github.com,2023-09-29:/in-tech-gration/WDX-180</id>
-    <link href="https://github.com/in-tech-gration/WDX-180" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web Development X&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

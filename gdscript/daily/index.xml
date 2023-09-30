@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-29T01:27:15Z</updated>
+  <updated>2023-09-30T01:28:32Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KenneyNL/Starter-Kit-City-Builder</title>
-    <updated>2023-09-29T01:27:15Z</updated>
-    <id>tag:github.com,2023-09-29:/KenneyNL/Starter-Kit-City-Builder</id>
-    <link href="https://github.com/KenneyNL/Starter-Kit-City-Builder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BL-MSCH-C220/Juicy-Brick-Breaker</title>
+    <updated>2023-09-30T01:28:32Z</updated>
+    <id>tag:github.com,2023-09-30:/BL-MSCH-C220/Juicy-Brick-Breaker</id>
+    <link href="https://github.com/BL-MSCH-C220/Juicy-Brick-Breaker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The starting place for Project 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>heygleeson/godot-ldtk-importer</title>
-    <updated>2023-09-29T01:27:15Z</updated>
-    <id>tag:github.com,2023-09-29:/heygleeson/godot-ldtk-importer</id>
-    <link href="https://github.com/heygleeson/godot-ldtk-importer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LDTK Importer for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BL-MSCH-C220/Exercise-3-1-Colors-and-Particles</title>
-    <updated>2023-09-29T01:27:15Z</updated>
-    <id>tag:github.com,2023-09-29:/BL-MSCH-C220/Exercise-3-1-Colors-and-Particles</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-3-1-Colors-and-Particles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>P1X-in/Tanks-of-Freedom-3-D</title>
+    <updated>2023-09-30T01:28:32Z</updated>
+    <id>tag:github.com,2023-09-30:/P1X-in/Tanks-of-Freedom-3-D</id>
+    <link href="https://github.com/P1X-in/Tanks-of-Freedom-3-D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Indie Turn Based Strategy in Isometric Voxel Art http://tof.p1x.in&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

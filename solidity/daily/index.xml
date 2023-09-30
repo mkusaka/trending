@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-29T01:35:37Z</updated>
+  <updated>2023-09-30T01:39:13Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Certora/tutorials-code</title>
+    <updated>2023-09-30T01:39:13Z</updated>
+    <id>tag:github.com,2023-09-30:/Certora/tutorials-code</id>
+    <link href="https://github.com/Certora/tutorials-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Certora tutorials&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>horsefacts/philosophers-stone</title>
+    <updated>2023-09-30T01:39:13Z</updated>
+    <id>tag:github.com,2023-09-30:/horsefacts/philosophers-stone</id>
+    <link href="https://github.com/horsefacts/philosophers-stone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
