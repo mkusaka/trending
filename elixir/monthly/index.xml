@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:12:21Z</updated>
+  <subtitle>Monthly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>electric-sql/electric</title>
+    <updated>2023-10-01T02:12:21Z</updated>
+    <id>tag:github.com,2023-10-01:/electric-sql/electric</id>
+    <link href="https://github.com/electric-sql/electric" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>carsdotcom/car_req</title>
+    <updated>2023-10-01T02:12:21Z</updated>
+    <id>tag:github.com,2023-10-01:/carsdotcom/car_req</id>
+    <link href="https://github.com/carsdotcom/car_req" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>getsentry/sentry-elixir</title>
+    <updated>2023-10-01T02:12:21Z</updated>
+    <id>tag:github.com,2023-10-01:/getsentry/sentry-elixir</id>
+    <link href="https://github.com/getsentry/sentry-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official Elixir SDK for Sentry (sentry.io)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

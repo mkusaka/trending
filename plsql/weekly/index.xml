@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PLSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:01:20Z</updated>
+  <subtitle>Weekly Trending of PLSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oracle-samples/oracle-db-examples</title>
+    <updated>2023-10-01T02:01:20Z</updated>
+    <id>tag:github.com,2023-10-01:/oracle-samples/oracle-db-examples</id>
+    <link href="https://github.com/oracle-samples/oracle-db-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Examples of applications and tool usage for Oracle Database&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub QMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:02:40Z</updated>
+  <subtitle>Weekly Trending of QMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tresinformal/basketball</title>
+    <updated>2023-10-01T02:02:40Z</updated>
+    <id>tag:github.com,2023-10-01:/tresinformal/basketball</id>
+    <link href="https://github.com/tresinformal/basketball" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Trêsinformal&#39;s 2023 team basketball game&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

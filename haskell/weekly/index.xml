@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T01:54:56Z</updated>
+  <subtitle>Weekly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SemenMartynov/SPbAU_FunProg</title>
+    <updated>2023-10-01T01:54:56Z</updated>
+    <id>tag:github.com,2023-10-01:/SemenMartynov/SPbAU_FunProg</id>
+    <link href="https://github.com/SemenMartynov/SPbAU_FunProg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Saint Petersburg Academic University: Functional programming course (2013-2014)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;SPbAU_FunProg&lt;/h1&gt; &#xA;&lt;p&gt;My tasks for Functional programming course.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>kevwil/gityup-haskell</title>
+    <updated>2023-10-01T01:54:56Z</updated>
+    <id>tag:github.com,2023-10-01:/kevwil/gityup-haskell</id>
+    <link href="https://github.com/kevwil/gityup-haskell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;just like svnup-haskell but for git ;-)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;gityup-haskell&lt;/h1&gt; &#xA;&lt;p&gt;just like svnup-haskell but for git ;-)&lt;/p&gt;</summary>
+  </entry>
+</feed>

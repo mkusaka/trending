@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-30T01:36:15Z</updated>
+  <updated>2023-10-01T01:41:55Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SoM-Boards/SoM-motherboard_1</title>
-    <updated>2023-09-30T01:36:15Z</updated>
-    <id>tag:github.com,2023-09-30:/SoM-Boards/SoM-motherboard_1</id>
-    <link href="https://github.com/SoM-Boards/SoM-motherboard_1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SoM prototype motherboard with SO-DIMM 200 pin connector&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:12:43Z</updated>
+  <subtitle>Monthly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Feuerlabs/exoiodev</title>
+    <updated>2023-10-01T02:12:43Z</updated>
+    <id>tag:github.com,2023-10-01:/Feuerlabs/exoiodev</id>
+    <link href="https://github.com/Feuerlabs/exoiodev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IO device sample application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ninenines/ranch</title>
+    <updated>2023-10-01T02:12:43Z</updated>
+    <id>tag:github.com,2023-10-01:/ninenines/ranch</id>
+    <link href="https://github.com/ninenines/ranch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Socket acceptor pool for TCP protocols.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>okeuday/quickrand</title>
+    <updated>2023-10-01T02:12:43Z</updated>
+    <id>tag:github.com,2023-10-01:/okeuday/quickrand</id>
+    <link href="https://github.com/okeuday/quickrand" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quick Erlang Random Number Generation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

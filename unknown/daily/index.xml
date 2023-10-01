@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-30T01:22:43Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-10-01T01:28:51Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chromium/chromium</title>
-    <updated>2023-09-30T01:22:43Z</updated>
-    <id>tag:github.com,2023-09-30:/chromium/chromium</id>
-    <link href="https://github.com/chromium/chromium" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official GitHub mirror of the Chromium source&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/prompts-for-edu</title>
+    <updated>2023-10-01T01:28:51Z</updated>
+    <id>tag:github.com,2023-10-01:/microsoft/prompts-for-edu</id>
+    <link href="https://github.com/microsoft/prompts-for-edu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aws-samples/aws-customer-playbook-framework</title>
-    <updated>2023-09-30T01:22:43Z</updated>
-    <id>tag:github.com,2023-09-30:/aws-samples/aws-customer-playbook-framework</id>
-    <link href="https://github.com/aws-samples/aws-customer-playbook-framework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository provides sample templates for security playbooks against various scenarios when using Amazon Web Services.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AakashKumarNain/annotated_research_papers</title>
-    <updated>2023-09-30T01:22:43Z</updated>
-    <id>tag:github.com,2023-09-30:/AakashKumarNain/annotated_research_papers</id>
-    <link href="https://github.com/AakashKumarNain/annotated_research_papers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo contains annotated research papers that I found really good and useful&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Floorp-Projects/Floorp</title>
+    <updated>2023-10-01T01:28:51Z</updated>
+    <id>tag:github.com,2023-10-01:/Floorp-Projects/Floorp</id>
+    <link href="https://github.com/Floorp-Projects/Floorp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

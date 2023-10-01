@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub WebAssembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:26:12Z</updated>
+  <subtitle>Monthly Trending of WebAssembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>korlibs/korge</title>
+    <updated>2023-10-01T02:26:12Z</updated>
+    <id>tag:github.com,2023-10-01:/korlibs/korge</id>
+    <link href="https://github.com/korlibs/korge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KorGE Game Engine. Multiplatform Kotlin Game Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-30T01:41:10Z</updated>
+  <updated>2023-10-01T01:47:11Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alguadam/ie-bank-fe</title>
-    <updated>2023-09-30T01:41:10Z</updated>
-    <id>tag:github.com,2023-09-30:/alguadam/ie-bank-fe</id>
-    <link href="https://github.com/alguadam/ie-bank-fe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Frontend for IE bank web app&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vuesion/vuesion</title>
+    <updated>2023-10-01T01:47:11Z</updated>
+    <id>tag:github.com,2023-10-01:/vuesion/vuesion</id>
+    <link href="https://github.com/vuesion/vuesion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering &amp; design.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gcpaas/DataRoom</title>
-    <updated>2023-09-30T01:41:10Z</updated>
-    <id>tag:github.com,2023-09-30:/gcpaas/DataRoom</id>
-    <link href="https://github.com/gcpaas/DataRoom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥基于SpringBoot、MyBatisPlus、ElementUI、G2Plot、Echarts等技术栈的大屏设计器，具备目录管理、DashBoard设计、预览能力，支持MySQL、Oracle、PostgreSQL、JSON等数据集接入，对于复杂数据处理还可以使用Groovy脚本数据集，使用简单，完全免费，代码开源。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Pwntus/change-hairstyle-ai</title>
+    <updated>2023-10-01T01:47:11Z</updated>
+    <id>tag:github.com,2023-10-01:/Pwntus/change-hairstyle-ai</id>
+    <link href="https://github.com/Pwntus/change-hairstyle-ai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Get a new hairstyle in seconds.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xpf0000/PhpWebStudy</title>
+    <updated>2023-10-01T01:47:11Z</updated>
+    <id>tag:github.com,2023-10-01:/xpf0000/PhpWebStudy</id>
+    <link href="https://github.com/xpf0000/PhpWebStudy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Php and Web development environment manage tool for MacOS system, the better way to manage your local web server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

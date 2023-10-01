@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T01:52:54Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mgwidmann/scrivener_html</title>
+    <updated>2023-10-01T01:52:54Z</updated>
+    <id>tag:github.com,2023-10-01:/mgwidmann/scrivener_html</id>
+    <link href="https://github.com/mgwidmann/scrivener_html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTML view helpers for Scrivener&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>liveview-native/live_view_native</title>
+    <updated>2023-10-01T01:52:54Z</updated>
+    <id>tag:github.com,2023-10-01:/liveview-native/live_view_native</id>
+    <link href="https://github.com/liveview-native/live_view_native" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A platform for building native applications with Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>smartrent/credo_binary_patterns</title>
+    <updated>2023-10-01T01:52:54Z</updated>
+    <id>tag:github.com,2023-10-01:/smartrent/credo_binary_patterns</id>
+    <link href="https://github.com/smartrent/credo_binary_patterns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Credo binary pattern checks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Gherkin Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T01:53:57Z</updated>
+  <subtitle>Weekly Trending of Gherkin in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>htmlacademy/js2-big-trip-e2e</title>
+    <updated>2023-10-01T01:53:57Z</updated>
+    <id>tag:github.com,2023-10-01:/htmlacademy/js2-big-trip-e2e</id>
+    <link href="https://github.com/htmlacademy/js2-big-trip-e2e" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Автоматические e2e тесты для проекта «Большое путешествие»&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>casper-network/sdk-std-test-resources</title>
+    <updated>2023-10-01T01:53:57Z</updated>
+    <id>tag:github.com,2023-10-01:/casper-network/sdk-std-test-resources</id>
+    <link href="https://github.com/casper-network/sdk-std-test-resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources needed for standardized testing of Casper SDKs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

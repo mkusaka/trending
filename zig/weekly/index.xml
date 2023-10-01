@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:07:41Z</updated>
+  <subtitle>Weekly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>buzz-language/buzz</title>
+    <updated>2023-10-01T02:07:41Z</updated>
+    <id>tag:github.com,2023-10-01:/buzz-language/buzz</id>
+    <link href="https://github.com/buzz-language/buzz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👨‍🚀 buzz, A small/lightweight statically typed scripting language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hexops/mach-core</title>
+    <updated>2023-10-01T02:07:41Z</updated>
+    <id>tag:github.com,2023-10-01:/hexops/mach-core</id>
+    <link href="https://github.com/hexops/mach-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;window+input+GPU, truly cross-platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

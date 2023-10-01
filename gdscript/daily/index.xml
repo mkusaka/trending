@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-30T01:28:32Z</updated>
+  <updated>2023-10-01T01:34:21Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220/Juicy-Brick-Breaker</title>
-    <updated>2023-09-30T01:28:32Z</updated>
-    <id>tag:github.com,2023-09-30:/BL-MSCH-C220/Juicy-Brick-Breaker</id>
-    <link href="https://github.com/BL-MSCH-C220/Juicy-Brick-Breaker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The starting place for Project 3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KoBeWi/Metroidvania-System</title>
+    <updated>2023-10-01T01:34:21Z</updated>
+    <id>tag:github.com,2023-10-01:/KoBeWi/Metroidvania-System</id>
+    <link href="https://github.com/KoBeWi/Metroidvania-System" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;General-purpose framework for creating metroidvania games in Godot.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>P1X-in/Tanks-of-Freedom-3-D</title>
-    <updated>2023-09-30T01:28:32Z</updated>
-    <id>tag:github.com,2023-09-30:/P1X-in/Tanks-of-Freedom-3-D</id>
-    <link href="https://github.com/P1X-in/Tanks-of-Freedom-3-D" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Indie Turn Based Strategy in Isometric Voxel Art http://tof.p1x.in&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rakugoteam/Rakugo-Dialogue-System</title>
+    <updated>2023-10-01T01:34:21Z</updated>
+    <id>tag:github.com,2023-10-01:/rakugoteam/Rakugo-Dialogue-System</id>
+    <link href="https://github.com/rakugoteam/Rakugo-Dialogue-System" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Inspired by Ren&#39;Py, Rakugo is a project aiming to provide a way to make narrative-based games on Godot easily. Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gdquest-demos/godot-4-3D-Characters</title>
+    <updated>2023-10-01T01:34:21Z</updated>
+    <id>tag:github.com,2023-10-01:/gdquest-demos/godot-4-3D-Characters</id>
+    <link href="https://github.com/gdquest-demos/godot-4-3D-Characters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Beautiful 3D animated game characters for the Godot game engine, ready to drag and drop into your projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

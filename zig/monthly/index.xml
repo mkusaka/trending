@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:26:55Z</updated>
+  <subtitle>Monthly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Not-Nik/raylib-zig</title>
+    <updated>2023-10-01T02:26:55Z</updated>
+    <id>tag:github.com,2023-10-01:/Not-Nik/raylib-zig</id>
+    <link href="https://github.com/Not-Nik/raylib-zig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hexops/mach-glfw</title>
+    <updated>2023-10-01T02:26:55Z</updated>
+    <id>tag:github.com,2023-10-01:/hexops/mach-glfw</id>
+    <link href="https://github.com/hexops/mach-glfw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

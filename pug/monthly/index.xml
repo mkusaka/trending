@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pug Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:21:06Z</updated>
+  <subtitle>Monthly Trending of Pug in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>effortlessdevsec/ninjasworkout</title>
+    <updated>2023-10-01T02:21:06Z</updated>
+    <id>tag:github.com,2023-10-01:/effortlessdevsec/ninjasworkout</id>
+    <link href="https://github.com/effortlessdevsec/ninjasworkout" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vulnerable NodeJS Web Application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/project-nodejs-express-webapp</title>
+    <updated>2023-10-01T02:21:06Z</updated>
+    <id>tag:github.com,2023-10-01:/microsoft/project-nodejs-express-webapp</id>
+    <link href="https://github.com/microsoft/project-nodejs-express-webapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample Nodejs Express application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phonegap/phonegap-docs</title>
+    <updated>2023-10-01T02:21:06Z</updated>
+    <id>tag:github.com,2023-10-01:/phonegap/phonegap-docs</id>
+    <link href="https://github.com/phonegap/phonegap-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PhoneGap Documentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

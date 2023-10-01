@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:21:11Z</updated>
+  <subtitle>Monthly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>purescript/purescript-refs</title>
+    <updated>2023-10-01T02:21:11Z</updated>
+    <id>tag:github.com,2023-10-01:/purescript/purescript-refs</id>
+    <link href="https://github.com/purescript/purescript-refs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mutable value references&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-foreign</title>
+    <updated>2023-10-01T02:21:11Z</updated>
+    <id>tag:github.com,2023-10-01:/purescript/purescript-foreign</id>
+    <link href="https://github.com/purescript/purescript-foreign" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for dealing with foreign data (JavaScript objects) in PureScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-either</title>
+    <updated>2023-10-01T02:21:11Z</updated>
+    <id>tag:github.com,2023-10-01:/purescript/purescript-either</id>
+    <link href="https://github.com/purescript/purescript-either" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Values with two possibilities&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

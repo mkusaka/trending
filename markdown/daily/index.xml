@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-30T01:33:00Z</updated>
+  <updated>2023-10-01T01:38:34Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rzk-lang/sHoTT</title>
-    <updated>2023-09-30T01:33:00Z</updated>
-    <id>tag:github.com,2023-09-30:/rzk-lang/sHoTT</id>
-    <link href="https://github.com/rzk-lang/sHoTT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Formalisations for simplicial HoTT and synthetic ∞-categories.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

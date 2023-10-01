@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T01:49:06Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tsoding/todo.asm</title>
+    <updated>2023-10-01T01:49:06Z</updated>
+    <id>tag:github.com,2023-10-01:/tsoding/todo.asm</id>
+    <link href="https://github.com/tsoding/todo.asm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Todo Web Application in flat assembler&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tgrysztar/fasm</title>
+    <updated>2023-10-01T01:49:06Z</updated>
+    <id>tag:github.com,2023-10-01:/tgrysztar/fasm</id>
+    <link href="https://github.com/tgrysztar/fasm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;flat assembler 1 - reconstructed source history&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>H4K3R13/The-Hello-World-Project</title>
+    <updated>2023-10-01T01:49:06Z</updated>
+    <id>tag:github.com,2023-10-01:/H4K3R13/The-Hello-World-Project</id>
+    <link href="https://github.com/H4K3R13/The-Hello-World-Project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository hosts programs that output &#39;Hello World&#39; in various programming languages. 🌍✨&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

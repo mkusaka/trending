@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nim Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:18:53Z</updated>
+  <subtitle>Monthly Trending of Nim in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>status-im/nim-chronos</title>
+    <updated>2023-10-01T02:18:53Z</updated>
+    <id>tag:github.com,2023-10-01:/status-im/nim-chronos</id>
+    <link href="https://github.com/status-im/nim-chronos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Chronos - An efficient library for asynchronous programming&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nim-lang/atlas</title>
+    <updated>2023-10-01T02:18:53Z</updated>
+    <id>tag:github.com,2023-10-01:/nim-lang/atlas</id>
+    <link href="https://github.com/nim-lang/atlas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Atlas Package cloner. It manages an isolated workspace that contains projects and dependencies.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

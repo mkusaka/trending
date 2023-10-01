@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub RobotFramework Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-30T01:37:39Z</updated>
+  <updated>2023-10-01T01:43:24Z</updated>
   <subtitle>Daily Trending of RobotFramework in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Dasharo/open-source-firmware-validation</title>
-    <updated>2023-09-30T01:37:39Z</updated>
-    <id>tag:github.com,2023-09-30:/Dasharo/open-source-firmware-validation</id>
-    <link href="https://github.com/Dasharo/open-source-firmware-validation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OSFV infrastructure with automated tests and scripts for managing test results&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:13:13Z</updated>
+  <subtitle>Monthly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>clear-code-projects/UltimateGodotIntro2D</title>
+    <updated>2023-10-01T02:13:13Z</updated>
+    <id>tag:github.com,2023-10-01:/clear-code-projects/UltimateGodotIntro2D</id>
+    <link href="https://github.com/clear-code-projects/UltimateGodotIntro2D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources for the ultimate introduction to Godot 4 [2D]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lampe-games/godot-open-rts</title>
+    <updated>2023-10-01T02:13:13Z</updated>
+    <id>tag:github.com,2023-10-01:/lampe-games/godot-open-rts</id>
+    <link href="https://github.com/lampe-games/godot-open-rts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source RTS game made in Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bitbrain/pandora</title>
+    <updated>2023-10-01T02:13:13Z</updated>
+    <id>tag:github.com,2023-10-01:/bitbrain/pandora</id>
+    <link href="https://github.com/bitbrain/pandora" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot 4 addon for RPG data management such items, inventories, spells, mobs, quests and NPCs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

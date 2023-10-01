@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T01:50:47Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shadowsocks/shadowsocks-nodejs</title>
+    <updated>2023-10-01T01:50:47Z</updated>
+    <id>tag:github.com,2023-10-01:/shadowsocks/shadowsocks-nodejs</id>
+    <link href="https://github.com/shadowsocks/shadowsocks-nodejs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>js2coffee/js2coffee</title>
+    <updated>2023-10-01T01:50:47Z</updated>
+    <id>tag:github.com,2023-10-01:/js2coffee/js2coffee</id>
+    <link href="https://github.com/js2coffee/js2coffee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compile JavaScript to CoffeeScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alexkalderimis/membrane</title>
+    <updated>2023-10-01T01:50:47Z</updated>
+    <id>tag:github.com,2023-10-01:/alexkalderimis/membrane</id>
+    <link href="https://github.com/alexkalderimis/membrane" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A module builder with an emphasis on encapsulation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

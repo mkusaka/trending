@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:19:00Z</updated>
+  <subtitle>Monthly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nix-community/nix-on-droid</title>
+    <updated>2023-10-01T02:19:00Z</updated>
+    <id>tag:github.com,2023-10-01:/nix-community/nix-on-droid</id>
+    <link href="https://github.com/nix-community/nix-on-droid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>the-nix-way/dev-templates</title>
+    <updated>2023-10-01T02:19:00Z</updated>
+    <id>tag:github.com,2023-10-01:/the-nix-way/dev-templates</id>
+    <link href="https://github.com/the-nix-way/dev-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mikeroyal/NixOS-Guide</title>
+    <updated>2023-10-01T02:19:00Z</updated>
+    <id>tag:github.com,2023-10-01:/mikeroyal/NixOS-Guide</id>
+    <link href="https://github.com/mikeroyal/NixOS-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-09-30T01:27:47Z</updated>
+  <updated>2023-10-01T01:33:24Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lambdaclass/stark_compass_explorer</title>
-    <updated>2023-09-30T01:27:47Z</updated>
-    <id>tag:github.com,2023-09-30:/lambdaclass/stark_compass_explorer</id>
-    <link href="https://github.com/lambdaclass/stark_compass_explorer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stark Compass: the only open source explorer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KosyanMedia/konvex</title>
+    <updated>2023-10-01T01:33:24Z</updated>
+    <id>tag:github.com,2023-10-01:/KosyanMedia/konvex</id>
+    <link href="https://github.com/KosyanMedia/konvex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library to abstract KV-storage in a modular way along with implementations for popular backends&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

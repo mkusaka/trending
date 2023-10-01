@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Classic ASP Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T01:50:32Z</updated>
+  <subtitle>Weekly Trending of Classic ASP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TanerTEMEL/repOKULSistem</title>
+    <updated>2023-10-01T01:50:32Z</updated>
+    <id>tag:github.com,2023-10-01:/TanerTEMEL/repOKULSistem</id>
+    <link href="https://github.com/TanerTEMEL/repOKULSistem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Taner-Muşli&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rubensdepaulajr/snw</title>
+    <updated>2023-10-01T01:50:32Z</updated>
+    <id>tag:github.com,2023-10-01:/rubensdepaulajr/snw</id>
+    <link href="https://github.com/rubensdepaulajr/snw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sistema de gestão de plano de saúde no padrão TISS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

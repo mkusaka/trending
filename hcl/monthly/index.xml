@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:14:29Z</updated>
+  <subtitle>Monthly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/terraform-azurerm-network</title>
+    <updated>2023-10-01T02:14:29Z</updated>
+    <id>tag:github.com,2023-10-01:/Azure/terraform-azurerm-network</id>
+    <link href="https://github.com/Azure/terraform-azurerm-network" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Azure RM Module for Network&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ned1313/Getting-Started-Terraform</title>
+    <updated>2023-10-01T02:14:29Z</updated>
+    <id>tag:github.com,2023-10-01:/ned1313/Getting-Started-Terraform</id>
+    <link href="https://github.com/ned1313/Getting-Started-Terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise files for my Pluralsight course&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aws-ia/terraform-aws-control_tower_account_factory</title>
+    <updated>2023-10-01T02:14:29Z</updated>
+    <id>tag:github.com,2023-10-01:/aws-ia/terraform-aws-control_tower_account_factory</id>
+    <link href="https://github.com/aws-ia/terraform-aws-control_tower_account_factory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS Control Tower Account Factory&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

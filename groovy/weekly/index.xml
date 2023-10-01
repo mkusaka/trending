@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T01:54:45Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alxndrsn/grails-flush-slowdown-demo</title>
+    <updated>2023-10-01T01:54:45Z</updated>
+    <id>tag:github.com,2023-10-01:/alxndrsn/grails-flush-slowdown-demo</id>
+    <link href="https://github.com/alxndrsn/grails-flush-slowdown-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demonstration that database flushes get slower in grails with H2 in-memory database in integration/functional tests&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>griffon-legacy/griffon-zonelayout-plugin</title>
+    <updated>2023-10-01T01:54:45Z</updated>
+    <id>tag:github.com,2023-10-01:/griffon-legacy/griffon-zonelayout-plugin</id>
+    <link href="https://github.com/griffon-legacy/griffon-zonelayout-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ZoneLayout for Griffon&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kordamp/markdown-gradle-plugin</title>
+    <updated>2023-10-01T01:54:45Z</updated>
+    <id>tag:github.com,2023-10-01:/kordamp/markdown-gradle-plugin</id>
+    <link href="https://github.com/kordamp/markdown-gradle-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Markdown/HTML plugin for gradle&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:01:51Z</updated>
+  <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>digital-wonderland/puppet-logstash</title>
+    <updated>2023-10-01T02:01:51Z</updated>
+    <id>tag:github.com,2023-10-01:/digital-wonderland/puppet-logstash</id>
+    <link href="https://github.com/digital-wonderland/puppet-logstash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>puppetlabs/puppetlabs-apache</title>
+    <updated>2023-10-01T02:01:51Z</updated>
+    <id>tag:github.com,2023-10-01:/puppetlabs/puppetlabs-apache</id>
+    <link href="https://github.com/puppetlabs/puppetlabs-apache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module for the Apache httpd server, maintained by Puppet, Inc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thias/puppet-git</title>
+    <updated>2023-10-01T02:01:51Z</updated>
+    <id>tag:github.com,2023-10-01:/thias/puppet-git</id>
+    <link href="https://github.com/thias/puppet-git" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module to manage Git&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

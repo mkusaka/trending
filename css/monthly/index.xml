@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CSS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:10:48Z</updated>
+  <subtitle>Monthly Trending of CSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>digitalinnovationone/js-developer-pokedex</title>
+    <updated>2023-10-01T02:10:48Z</updated>
+    <id>tag:github.com,2023-10-01:/digitalinnovationone/js-developer-pokedex</id>
+    <link href="https://github.com/digitalinnovationone/js-developer-pokedex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Trilha JS Developer - Pokedex&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>CodeCrafter11/css-projects</title>
+    <updated>2023-10-01T02:10:48Z</updated>
+    <id>tag:github.com,2023-10-01:/CodeCrafter11/css-projects</id>
+    <link href="https://github.com/CodeCrafter11/css-projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;You can find all source codes for all css projects here&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;css-projects&lt;/h1&gt; &#xA;&lt;p&gt;You can find all source codes for all css projects here&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>patrickloeber/chatbot-deployment</title>
+    <updated>2023-10-01T02:10:48Z</updated>
+    <id>tag:github.com,2023-10-01:/patrickloeber/chatbot-deployment</id>
+    <link href="https://github.com/patrickloeber/chatbot-deployment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deployment of PyTorch chatbot with Flask&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Chatbot Deployment with Flask and JavaScript&lt;/h1&gt; &#xA;&lt;p&gt;In this tutorial we deploy the chatbot I created in &lt;a href=&#34;https://github.com/python-engineer/pytorch-chatbot&#34;&gt;this&lt;/a&gt; tutorial with Flask and JavaScript.&lt;/p&gt; &#xA;&lt;p&gt;This gives 2 deployment options:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Deploy within Flask app with jinja2 template&lt;/li&gt; &#xA; &lt;li&gt;Serve only the Flask prediction API. The used html and javascript files can be included in any Frontend application (with only a slight modification) and can run completely separate from the Flask App then.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Initial Setup:&lt;/h2&gt; &#xA;&lt;p&gt;This repo currently contains the starter files.&lt;/p&gt; &#xA;&lt;p&gt;Clone repo and create a virtual environment&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ git clone https://github.com/python-engineer/chatbot-deployment.git&#xA;$ cd chatbot-deployment&#xA;$ python3 -m venv venv&#xA;$ . venv/bin/activate&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Install dependencies&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ (venv) pip install Flask torch torchvision nltk&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Install nltk package&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ (venv) python&#xA;&amp;gt;&amp;gt;&amp;gt; import nltk&#xA;&amp;gt;&amp;gt;&amp;gt; nltk.download(&#39;punkt&#39;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Modify &lt;code&gt;intents.json&lt;/code&gt; with different intents and responses for your Chatbot&lt;/p&gt; &#xA;&lt;p&gt;Run&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ (venv) python train.py&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This will dump data.pth file. And then run the following command to test it in the console.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ (venv) python chat.py&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Now for deployment follow my tutorial to implement &lt;code&gt;app.py&lt;/code&gt; and &lt;code&gt;app.js&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Watch the Tutorial&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/a37BL0stIuM&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/a37BL0stIuM/hqdefault.jpg&#34; alt=&#34;Alt text&#34;&gt;&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://youtu.be/a37BL0stIuM&#34;&gt;https://youtu.be/a37BL0stIuM&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Note&lt;/h2&gt; &#xA;&lt;p&gt;In the video we implement the first approach using jinja2 templates within our Flask app. Only slight modifications are needed to run the frontend separately. I put the final frontend code for a standalone frontend application in the &lt;a href=&#34;https://raw.githubusercontent.com/patrickloeber/chatbot-deployment/main/standalone-frontend&#34;&gt;standalone-frontend&lt;/a&gt; folder.&lt;/p&gt; &#xA;&lt;h2&gt;Credits:&lt;/h2&gt; &#xA;&lt;p&gt;This repo was used for the frontend code: &lt;a href=&#34;https://github.com/hitchcliff/front-end-chatjs&#34;&gt;https://github.com/hitchcliff/front-end-chatjs&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

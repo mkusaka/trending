@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub DIGITAL Command Language Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-01T02:11:27Z</updated>
+  <subtitle>Monthly Trending of DIGITAL Command Language in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>github/dmca</title>
+    <updated>2023-10-01T02:11:27Z</updated>
+    <id>tag:github.com,2023-10-01:/github/dmca</id>
+    <link href="https://github.com/github/dmca" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
