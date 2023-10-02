@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-01T01:29:16Z</updated>
+  <updated>2023-10-02T01:24:12Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>analgesicproductions/Anodyne-1-Repo</title>
-    <updated>2023-10-01T01:29:16Z</updated>
-    <id>tag:github.com,2023-10-01:/analgesicproductions/Anodyne-1-Repo</id>
-    <link href="https://github.com/analgesicproductions/Anodyne-1-Repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Anodyne 1 Source Code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-01T01:45:25Z</updated>
+  <updated>2023-10-02T01:40:53Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fuz-dev/fuz_template</title>
+    <updated>2023-10-02T01:40:53Z</updated>
+    <id>tag:github.com,2023-10-02:/fuz-dev/fuz_template</id>
+    <link href="https://github.com/fuz-dev/fuz_template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a static web app and Node library template for SvelteKit with TypeScript, Svelte, Vite, esbuild, Fuz, and Gro&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

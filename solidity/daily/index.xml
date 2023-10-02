@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-01T01:44:58Z</updated>
+  <updated>2023-10-02T01:40:26Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2023-09-venus</title>
-    <updated>2023-10-01T01:44:58Z</updated>
-    <id>tag:github.com,2023-10-01:/code-423n4/2023-09-venus</id>
-    <link href="https://github.com/code-423n4/2023-09-venus" rel="alternate"></link>
+    <title>zkMeLabs/zkme-did-registry</title>
+    <updated>2023-10-02T01:40:26Z</updated>
+    <id>tag:github.com,2023-10-02:/zkMeLabs/zkme-did-registry</id>
+    <link href="https://github.com/zkMeLabs/zkme-did-registry" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>armandaaugle/MevB0T</title>
-    <updated>2023-10-01T01:44:58Z</updated>
-    <id>tag:github.com,2023-10-01:/armandaaugle/MevB0T</id>
-    <link href="https://github.com/armandaaugle/MevB0T" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥 MAKE 1 ETH EVERY DAY! 🚀 With our 100% Open-Source ETHEREUM MEV BOT SMART CONTRACT! 🤖 No Coding Skills Required! 🌟 Easy &amp; User-Friendly! 💰 This MEV bot is a powerful arbitrage tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>subsquid/subsquid-network-contracts</title>
+    <updated>2023-10-02T01:40:26Z</updated>
+    <id>tag:github.com,2023-10-02:/subsquid/subsquid-network-contracts</id>
+    <link href="https://github.com/subsquid/subsquid-network-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smart contracts for Subsquid Network&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PaulRBerg/btt-examples</title>
-    <updated>2023-10-01T01:44:58Z</updated>
-    <id>tag:github.com,2023-10-01:/PaulRBerg/btt-examples</id>
-    <link href="https://github.com/PaulRBerg/btt-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Examples for Branching Tree Technique, a simple specification framework for writing structured Solidity tests&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RareSkills/rareskills-huffathon-challenge</title>
+    <updated>2023-10-02T01:40:26Z</updated>
+    <id>tag:github.com,2023-10-02:/RareSkills/rareskills-huffathon-challenge</id>
+    <link href="https://github.com/RareSkills/rareskills-huffathon-challenge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

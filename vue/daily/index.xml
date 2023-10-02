@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-01T01:47:11Z</updated>
+  <updated>2023-10-02T01:42:29Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vuesion/vuesion</title>
-    <updated>2023-10-01T01:47:11Z</updated>
-    <id>tag:github.com,2023-10-01:/vuesion/vuesion</id>
-    <link href="https://github.com/vuesion/vuesion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering &amp; design.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antfu/eslint-flat-config-viewer</title>
+    <updated>2023-10-02T01:42:29Z</updated>
+    <id>tag:github.com,2023-10-02:/antfu/eslint-flat-config-viewer</id>
+    <link href="https://github.com/antfu/eslint-flat-config-viewer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A visual tool to help you view and understand your ESLint Flat config.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Pwntus/change-hairstyle-ai</title>
-    <updated>2023-10-01T01:47:11Z</updated>
-    <id>tag:github.com,2023-10-01:/Pwntus/change-hairstyle-ai</id>
-    <link href="https://github.com/Pwntus/change-hairstyle-ai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Get a new hairstyle in seconds.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>beercss/beercss</title>
+    <updated>2023-10-02T01:42:29Z</updated>
+    <id>tag:github.com,2023-10-02:/beercss/beercss</id>
+    <link href="https://github.com/beercss/beercss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build material design interfaces in record time... without stress for devs... 🍺💛&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xpf0000/PhpWebStudy</title>
-    <updated>2023-10-01T01:47:11Z</updated>
-    <id>tag:github.com,2023-10-01:/xpf0000/PhpWebStudy</id>
-    <link href="https://github.com/xpf0000/PhpWebStudy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Php and Web development environment manage tool for MacOS system, the better way to manage your local web server&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MayVT/idegram</title>
+    <updated>2023-10-02T01:42:29Z</updated>
+    <id>tag:github.com,2023-10-02:/MayVT/idegram</id>
+    <link href="https://github.com/MayVT/idegram" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Diseño e implementación de web simulando instagram, con la posibilidad de subir imágenes e interactuar a partir de la opción de &#39;Like&#39;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

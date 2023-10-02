@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-01T01:45:33Z</updated>
+  <updated>2023-10-02T01:41:01Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>codepath/ios101-lab3-cloudcast-starter</title>
+    <updated>2023-10-02T01:41:01Z</updated>
+    <id>tag:github.com,2023-10-02:/codepath/ios101-lab3-cloudcast-starter</id>
+    <link href="https://github.com/codepath/ios101-lab3-cloudcast-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;iOS101 Lab 3 - CloudCast&lt;/h1&gt; &#xA;&lt;p&gt;Starter project for iOS 101 Lab 3&lt;/p&gt;</summary>
+  </entry>
 </feed>

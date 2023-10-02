@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-01T01:30:09Z</updated>
+  <updated>2023-10-02T01:25:05Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nicolgit/hub-and-spoke-playground</title>
-    <updated>2023-10-01T01:30:09Z</updated>
-    <id>tag:github.com,2023-10-01:/nicolgit/hub-and-spoke-playground</id>
-    <link href="https://github.com/nicolgit/hub-and-spoke-playground" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of BICEP/ARM templates that deploys on Azure a hub &amp; spoke net topology aligned with Microsoft Enterprise scale landing zone ref architecture to use as playground for test and study. As bonus many scenarios with step-by-step solutions for studying and learning are also available&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joelverhagen/data-az-spot-vms</title>
+    <updated>2023-10-02T01:25:05Z</updated>
+    <id>tag:github.com,2023-10-02:/joelverhagen/data-az-spot-vms</id>
+    <link href="https://github.com/joelverhagen/data-az-spot-vms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

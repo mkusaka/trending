@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-01T01:32:34Z</updated>
+  <updated>2023-10-02T01:27:43Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rgerganov/shanocast</title>
-    <updated>2023-10-01T01:32:34Z</updated>
-    <id>tag:github.com,2023-10-01:/rgerganov/shanocast</id>
-    <link href="https://github.com/rgerganov/shanocast" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Google Chromecast Reciever&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Shanocast is a Google Chromecast receiver which works with the Google Chrome browser. Demo:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/rgerganov/shanocast/assets/271616/51886018-d6be-4d56-beb7-de1c6ad7e284&#34;&gt;https://github.com/rgerganov/shanocast/assets/271616/51886018-d6be-4d56-beb7-de1c6ad7e284&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;Shanocast runs on Linux and is available as docker image:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ docker pull rgerganov/shanocast&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;As Shanocast runs in a container, you need to enable access to your X11 server (use with caution, this has security implications):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ xhost +&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The container can be started like this, the last parameter specifies the network interface where the server runs:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ docker run --network host --device /dev/snd --device /dev/dri -it -e DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix shanocast lo&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Finally, start Google Chrome and Shanocast should be listed as available for casting.&lt;/p&gt; &#xA;&lt;h1&gt;Building&lt;/h1&gt; &#xA;&lt;p&gt;Build &lt;a href=&#34;https://chromium.googlesource.com/openscreen/&#34;&gt;Openscreen&lt;/a&gt; with this &lt;a href=&#34;https://raw.githubusercontent.com/rgerganov/shanocast/master/shanocast.patch&#34;&gt;patch&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;How it works&lt;/h1&gt; &#xA;&lt;p&gt;Shanocast is based on &lt;a href=&#34;https://chromium.googlesource.com/openscreen/&#34;&gt;Openscreen&lt;/a&gt; which is an open-source implementation of the Google Cast protocol. The device authentication is performed with precomputed signatures taken from AirReceiver. You can find more information in this &lt;a href=&#34;https://xakcop.com/post/shanocast/&#34;&gt;blog post&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;What does &#34;shano&#34; mean?&lt;/h1&gt; &#xA;&lt;p&gt;Shano (шано) is a Bulgarian slang word meaning shady or illegal.&lt;/p&gt;</summary>
-  </entry>
 </feed>
