@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-02T01:39:47Z</updated>
+  <updated>2023-10-03T01:39:59Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cryptic-io/blog</title>
-    <updated>2023-10-02T01:39:47Z</updated>
-    <id>tag:github.com,2023-10-02:/cryptic-io/blog</id>
-    <link href="https://github.com/cryptic-io/blog" rel="alternate"></link>
+    <title>gtech-mulearn/learn-github-pages</title>
+    <updated>2023-10-03T01:39:59Z</updated>
+    <id>tag:github.com,2023-10-03:/gtech-mulearn/learn-github-pages</id>
+    <link href="https://github.com/gtech-mulearn/learn-github-pages" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wowchemy/starter-hugo-online-course</title>
-    <updated>2023-10-02T01:39:47Z</updated>
-    <id>tag:github.com,2023-10-02:/wowchemy/starter-hugo-online-course</id>
-    <link href="https://github.com/wowchemy/starter-hugo-online-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👩🏼‍🏫 Create an online course or coaching business with Wowchemy Website Builder for Hugo. 创建在线课程&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>syncfusion/ej2-javascript-ui-controls</title>
+    <updated>2023-10-03T01:39:59Z</updated>
+    <id>tag:github.com,2023-10-03:/syncfusion/ej2-javascript-ui-controls</id>
+    <link href="https://github.com/syncfusion/ej2-javascript-ui-controls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Syncfusion JavaScript UI controls library offer more than 50+ cross-browser, responsive, and lightweight HTML5 UI controls for building modern web applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

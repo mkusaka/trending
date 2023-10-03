@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-02T01:27:43Z</updated>
+  <updated>2023-10-03T01:28:00Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gptlink/gptlink-deploy</title>
+    <updated>2023-10-03T01:28:00Z</updated>
+    <id>tag:github.com,2023-10-03:/gptlink/gptlink-deploy</id>
+    <link href="https://github.com/gptlink/gptlink-deploy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GPTLink 部署工具&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;h1 align=&#34;center&#34;&gt;GPTLink 部署&lt;/h1&gt; &#xA; &lt;p&gt;&lt;a href=&#34;https://github.com/gptlink/gptlink-deploy/issues&#34;&gt;反馈&lt;/a&gt; · &lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/docs/images/qrcode.png&#34;&gt;微信加群&lt;/a&gt; · &lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/docs/images/qrcode.png&#34;&gt;商务合作&lt;/a&gt;&lt;/p&gt; &#xA; &lt;img src=&#34;https://github.com/gptlink/gptlink/assets/1472352/98a5012b-3111-4c50-bd36-c8eabf17f6e7&#34;&gt; &#xA;&lt;/div&gt; &#xA;&lt;h2&gt;说明&lt;/h2&gt; &#xA;&lt;p&gt;本项目为 &lt;a href=&#34;https://github.com/gptlink/gptlink&#34;&gt;gptlink&lt;/a&gt; 部署文档，原 &lt;a href=&#34;https://github.com/gptlink/gptlink&#34;&gt;gptlink&lt;/a&gt; 项目中部署部分配置将暂停维护与更新，后续版本中将移除，如部署方式不满足您的使用，欢迎补充参与贡献。&lt;/p&gt; &#xA;&lt;h2&gt;部署方式&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Docker Compose 部署 （推荐）&lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/docker-compose/README.md&#34;&gt;查看文档&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Docker 部署 &lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/docker/README.md&#34;&gt;查看文档&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;PHP 环境部署 &lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/php/README.md&#34;&gt;查看文档&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;PHP 本地环境开发 mac版本 &lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/php-local-mac/README.md&#34;&gt;查看文档&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;欢迎贡献&lt;/h2&gt; &#xA;&lt;p&gt;目前提供的部署方式有限，欢迎加入我们一起完善！&lt;span&gt;❤️&lt;/span&gt; 请参阅 &lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/CONTRIBUTING.md&#34;&gt;贡献指南&lt;/a&gt;&lt;/p&gt; &#xA;&lt;a href=&#34;https://github.com/gptlink/gptlink-deploy/graphs/contributors&#34;&gt; &lt;img src=&#34;https://contrib.rocks/image?repo=gptlink/gptlink-deploy&#34;&gt; &lt;/a&gt; &#xA;&lt;h2&gt;微信交流群&lt;/h2&gt; &#xA;&lt;img src=&#34;https://github.com/gptlink/gptlink/assets/1472352/904f0b13-b4d7-4fba-867b-c9ad170336cc&#34; width=&#34;300&#34;&gt; &#xA;&lt;h2&gt;开源协议&lt;/h2&gt; &#xA;&lt;p&gt;Apache License Version 2.0 see &lt;a href=&#34;http://www.apache.org/licenses/LICENSE-2.0.html&#34;&gt;http://www.apache.org/licenses/LICENSE-2.0.html&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>rivalcoba/dwpcII-2023b</title>
+    <updated>2023-10-03T01:28:00Z</updated>
+    <id>tag:github.com,2023-10-03:/rivalcoba/dwpcII-2023b</id>
+    <link href="https://github.com/rivalcoba/dwpcII-2023b" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proyecyo para DWPCII&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;delete-dwpcII&lt;/h1&gt; &#xA;&lt;p&gt;Proyecyo para DWPCII&lt;/p&gt;</summary>
+  </entry>
 </feed>

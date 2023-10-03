@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-02T01:23:56Z</updated>
+  <updated>2023-10-03T01:24:11Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Furkan-Gulsen/AWS-Certified-Cloud-Practitioner-Certification-My-Notes</title>
-    <updated>2023-10-02T01:23:56Z</updated>
-    <id>tag:github.com,2023-10-02:/Furkan-Gulsen/AWS-Certified-Cloud-Practitioner-Certification-My-Notes</id>
-    <link href="https://github.com/Furkan-Gulsen/AWS-Certified-Cloud-Practitioner-Certification-My-Notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;In the process of obtaining the AWS Certified Cloud Practitioner certificate, I took notes of the topics I encountered from more than 10 sources and more than 2000+ questions and I share them in this repo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>incidrthreat/iceriver_oc</title>
+    <updated>2023-10-03T01:24:11Z</updated>
+    <id>tag:github.com,2023-10-03:/incidrthreat/iceriver_oc</id>
+    <link href="https://github.com/incidrthreat/iceriver_oc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zero-to-mastery/Hacktoberfest-2023</title>
-    <updated>2023-10-02T01:23:56Z</updated>
-    <id>tag:github.com,2023-10-02:/zero-to-mastery/Hacktoberfest-2023</id>
-    <link href="https://github.com/zero-to-mastery/Hacktoberfest-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Get started with Hacktoberfest 2023 with 3 awesome ZTM projects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kdeldycke/awesome-engineering-team-management</title>
+    <updated>2023-10-03T01:24:11Z</updated>
+    <id>tag:github.com,2023-10-03:/kdeldycke/awesome-engineering-team-management</id>
+    <link href="https://github.com/kdeldycke/awesome-engineering-team-management" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👔 How to transition from software development to engineering management&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MustardChef/WSABuilds</title>
-    <updated>2023-10-02T01:23:56Z</updated>
-    <id>tag:github.com,2023-10-02:/MustardChef/WSABuilds</id>
-    <link href="https://github.com/MustardChef/WSABuilds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>serhii-londar/open-source-mac-os-apps</title>
+    <updated>2023-10-03T01:24:11Z</updated>
+    <id>tag:github.com,2023-10-03:/serhii-londar/open-source-mac-os-apps</id>
+    <link href="https://github.com/serhii-londar/open-source-mac-os-apps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

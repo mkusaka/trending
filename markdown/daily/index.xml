@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-02T01:33:58Z</updated>
+  <updated>2023-10-03T01:34:28Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>khadanja/upptime</title>
-    <updated>2023-10-02T01:33:58Z</updated>
-    <id>tag:github.com,2023-10-02:/khadanja/upptime</id>
-    <link href="https://github.com/khadanja/upptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Monitor-website-uptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

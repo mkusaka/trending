@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-02T01:29:25Z</updated>
+  <updated>2023-10-03T01:29:43Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Federico-Ciuffardi/GodotTouchInputManager</title>
-    <updated>2023-10-02T01:29:25Z</updated>
-    <id>tag:github.com,2023-10-02:/Federico-Ciuffardi/GodotTouchInputManager</id>
-    <link href="https://github.com/Federico-Ciuffardi/GodotTouchInputManager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Asset that improves touch input support (includes new gestures) in the Godot game engine. It also translates mouse input to touch input.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BL-MSCH-C220/Exercise-3-2-Tweening-and-Screen-Shake</title>
+    <updated>2023-10-03T01:29:43Z</updated>
+    <id>tag:github.com,2023-10-03:/BL-MSCH-C220/Exercise-3-2-Tweening-and-Screen-Shake</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-3-2-Tweening-and-Screen-Shake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

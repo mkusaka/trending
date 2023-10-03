@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-02T01:34:02Z</updated>
+  <updated>2023-10-03T01:34:32Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Estomihi100103/visual-programing-practicum-02</title>
+    <updated>2023-10-03T01:34:32Z</updated>
+    <id>tag:github.com,2023-10-03:/Estomihi100103/visual-programing-practicum-02</id>
+    <link href="https://github.com/Estomihi100103/visual-programing-practicum-02" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>olezhek28/microservices_course_boilerplate</title>
+    <updated>2023-10-03T01:34:32Z</updated>
+    <id>tag:github.com,2023-10-03:/olezhek28/microservices_course_boilerplate</id>
+    <link href="https://github.com/olezhek28/microservices_course_boilerplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Данный репозиторий содержит boilerplate для выполнения домашних заданий по курсу &#34;Микросервисы как в BigTech-компаниях&#34; от платформы Balun.Courses. Автор курса: Олег Козырев&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>instill-ai/base</title>
+    <updated>2023-10-03T01:34:32Z</updated>
+    <id>tag:github.com,2023-10-03:/instill-ai/base</id>
+    <link href="https://github.com/instill-ai/base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 Instill Base contains components for supporting Instill VDP and Instill Model&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

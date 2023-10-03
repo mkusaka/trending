@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-02T01:29:10Z</updated>
+  <updated>2023-10-03T01:29:29Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NOAA-EMC/NCEPLIBS-w3emc</title>
+    <updated>2023-10-03T01:29:29Z</updated>
+    <id>tag:github.com,2023-10-03:/NOAA-EMC/NCEPLIBS-w3emc</id>
+    <link href="https://github.com/NOAA-EMC/NCEPLIBS-w3emc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This library contains Fortran 77 decoder/encoder routines for GRIB edition 1.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

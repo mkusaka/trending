@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-02T01:40:26Z</updated>
+  <updated>2023-10-03T01:40:43Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zkMeLabs/zkme-did-registry</title>
-    <updated>2023-10-02T01:40:26Z</updated>
-    <id>tag:github.com,2023-10-02:/zkMeLabs/zkme-did-registry</id>
-    <link href="https://github.com/zkMeLabs/zkme-did-registry" rel="alternate"></link>
+    <title>base-org/contract-deployments</title>
+    <updated>2023-10-03T01:40:43Z</updated>
+    <id>tag:github.com,2023-10-03:/base-org/contract-deployments</id>
+    <link href="https://github.com/base-org/contract-deployments" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>subsquid/subsquid-network-contracts</title>
-    <updated>2023-10-02T01:40:26Z</updated>
-    <id>tag:github.com,2023-10-02:/subsquid/subsquid-network-contracts</id>
-    <link href="https://github.com/subsquid/subsquid-network-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contracts for Subsquid Network&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RareSkills/rareskills-huffathon-challenge</title>
-    <updated>2023-10-02T01:40:26Z</updated>
-    <id>tag:github.com,2023-10-02:/RareSkills/rareskills-huffathon-challenge</id>
-    <link href="https://github.com/RareSkills/rareskills-huffathon-challenge" rel="alternate"></link>
+    <title>hrkrshnn/tstore-template</title>
+    <updated>2023-10-03T01:40:43Z</updated>
+    <id>tag:github.com,2023-10-03:/hrkrshnn/tstore-template</id>
+    <link href="https://github.com/hrkrshnn/tstore-template" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
