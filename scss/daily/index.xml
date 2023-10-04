@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-03T01:39:59Z</updated>
+  <updated>2023-10-04T01:40:40Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gtech-mulearn/learn-github-pages</title>
-    <updated>2023-10-03T01:39:59Z</updated>
-    <id>tag:github.com,2023-10-03:/gtech-mulearn/learn-github-pages</id>
-    <link href="https://github.com/gtech-mulearn/learn-github-pages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>syncfusion/ej2-javascript-ui-controls</title>
-    <updated>2023-10-03T01:39:59Z</updated>
-    <id>tag:github.com,2023-10-03:/syncfusion/ej2-javascript-ui-controls</id>
-    <link href="https://github.com/syncfusion/ej2-javascript-ui-controls" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Syncfusion JavaScript UI controls library offer more than 50+ cross-browser, responsive, and lightweight HTML5 UI controls for building modern web applications.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

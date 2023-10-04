@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-03T01:28:45Z</updated>
+  <updated>2023-10-04T01:29:07Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>licyk/licyk.github.io</title>
-    <updated>2023-10-03T01:28:45Z</updated>
-    <id>tag:github.com,2023-10-03:/licyk/licyk.github.io</id>
-    <link href="https://github.com/licyk/licyk.github.io" rel="alternate"></link>
+    <title>Slongod/Slongod.github.io</title>
+    <updated>2023-10-04T01:29:07Z</updated>
+    <id>tag:github.com,2023-10-04:/Slongod/Slongod.github.io</id>
+    <link href="https://github.com/Slongod/Slongod.github.io" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>shobhit-pathak/cs2-rcon-panel</title>
-    <updated>2023-10-03T01:28:45Z</updated>
-    <id>tag:github.com,2023-10-03:/shobhit-pathak/cs2-rcon-panel</id>
-    <link href="https://github.com/shobhit-pathak/cs2-rcon-panel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple web panel to control CS2 servers using RCON&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-03T01:29:43Z</updated>
+  <updated>2023-10-04T01:30:05Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220/Exercise-3-2-Tweening-and-Screen-Shake</title>
-    <updated>2023-10-03T01:29:43Z</updated>
-    <id>tag:github.com,2023-10-03:/BL-MSCH-C220/Exercise-3-2-Tweening-and-Screen-Shake</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-3-2-Tweening-and-Screen-Shake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>crystal-bit/input-overlay</title>
+    <updated>2023-10-04T01:30:05Z</updated>
+    <id>tag:github.com,2023-10-04:/crystal-bit/input-overlay</id>
+    <link href="https://github.com/crystal-bit/input-overlay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Addon useful for tutorial makers. Shows an input overlay inside the editor screens&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

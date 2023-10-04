@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-03T01:40:43Z</updated>
+  <updated>2023-10-04T01:41:19Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>base-org/contract-deployments</title>
-    <updated>2023-10-03T01:40:43Z</updated>
-    <id>tag:github.com,2023-10-03:/base-org/contract-deployments</id>
-    <link href="https://github.com/base-org/contract-deployments" rel="alternate"></link>
+    <title>code-423n4/2023-10-zksync</title>
+    <updated>2023-10-04T01:41:19Z</updated>
+    <id>tag:github.com,2023-10-04:/code-423n4/2023-10-zksync</id>
+    <link href="https://github.com/code-423n4/2023-10-zksync" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hrkrshnn/tstore-template</title>
-    <updated>2023-10-03T01:40:43Z</updated>
-    <id>tag:github.com,2023-10-03:/hrkrshnn/tstore-template</id>
-    <link href="https://github.com/hrkrshnn/tstore-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>serial-coder/solidity-security-by-example</title>
+    <updated>2023-10-04T01:41:19Z</updated>
+    <id>tag:github.com,2023-10-04:/serial-coder/solidity-security-by-example</id>
+    <link href="https://github.com/serial-coder/solidity-security-by-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn Solidity Smart Contract Security By Examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KumaCrypto/MetaTrustCTFSolutions</title>
+    <updated>2023-10-04T01:41:19Z</updated>
+    <id>tag:github.com,2023-10-04:/KumaCrypto/MetaTrustCTFSolutions</id>
+    <link href="https://github.com/KumaCrypto/MetaTrustCTFSolutions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solutions for Solidity challenges in MetaTrust CTF September 2023.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

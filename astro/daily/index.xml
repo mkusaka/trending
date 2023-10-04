@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-03T01:25:03Z</updated>
+  <updated>2023-10-04T01:25:31Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Charca/astro-3d-view-transitions</title>
-    <updated>2023-10-03T01:25:03Z</updated>
-    <id>tag:github.com,2023-10-03:/Charca/astro-3d-view-transitions</id>
-    <link href="https://github.com/Charca/astro-3d-view-transitions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Astro + View Transitions + React Three Fiber Demo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lissy93/git-into-open-source</title>
+    <updated>2023-10-04T01:25:31Z</updated>
+    <id>tag:github.com,2023-10-04:/Lissy93/git-into-open-source</id>
+    <link href="https://github.com/Lissy93/git-into-open-source" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🫶 Everything you need to get started with open source. 🎃 Hacktoberfest contributions accepted here!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

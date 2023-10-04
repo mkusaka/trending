@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-03T01:28:00Z</updated>
+  <updated>2023-10-04T01:28:29Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gptlink/gptlink-deploy</title>
-    <updated>2023-10-03T01:28:00Z</updated>
-    <id>tag:github.com,2023-10-03:/gptlink/gptlink-deploy</id>
-    <link href="https://github.com/gptlink/gptlink-deploy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GPTLink 部署工具&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;h1 align=&#34;center&#34;&gt;GPTLink 部署&lt;/h1&gt; &#xA; &lt;p&gt;&lt;a href=&#34;https://github.com/gptlink/gptlink-deploy/issues&#34;&gt;反馈&lt;/a&gt; · &lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/docs/images/qrcode.png&#34;&gt;微信加群&lt;/a&gt; · &lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/docs/images/qrcode.png&#34;&gt;商务合作&lt;/a&gt;&lt;/p&gt; &#xA; &lt;img src=&#34;https://github.com/gptlink/gptlink/assets/1472352/98a5012b-3111-4c50-bd36-c8eabf17f6e7&#34;&gt; &#xA;&lt;/div&gt; &#xA;&lt;h2&gt;说明&lt;/h2&gt; &#xA;&lt;p&gt;本项目为 &lt;a href=&#34;https://github.com/gptlink/gptlink&#34;&gt;gptlink&lt;/a&gt; 部署文档，原 &lt;a href=&#34;https://github.com/gptlink/gptlink&#34;&gt;gptlink&lt;/a&gt; 项目中部署部分配置将暂停维护与更新，后续版本中将移除，如部署方式不满足您的使用，欢迎补充参与贡献。&lt;/p&gt; &#xA;&lt;h2&gt;部署方式&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Docker Compose 部署 （推荐）&lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/docker-compose/README.md&#34;&gt;查看文档&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Docker 部署 &lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/docker/README.md&#34;&gt;查看文档&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;PHP 环境部署 &lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/php/README.md&#34;&gt;查看文档&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;PHP 本地环境开发 mac版本 &lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/php-local-mac/README.md&#34;&gt;查看文档&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;欢迎贡献&lt;/h2&gt; &#xA;&lt;p&gt;目前提供的部署方式有限，欢迎加入我们一起完善！&lt;span&gt;❤️&lt;/span&gt; 请参阅 &lt;a href=&#34;https://raw.githubusercontent.com/gptlink/gptlink-deploy/master/CONTRIBUTING.md&#34;&gt;贡献指南&lt;/a&gt;&lt;/p&gt; &#xA;&lt;a href=&#34;https://github.com/gptlink/gptlink-deploy/graphs/contributors&#34;&gt; &lt;img src=&#34;https://contrib.rocks/image?repo=gptlink/gptlink-deploy&#34;&gt; &lt;/a&gt; &#xA;&lt;h2&gt;微信交流群&lt;/h2&gt; &#xA;&lt;img src=&#34;https://github.com/gptlink/gptlink/assets/1472352/904f0b13-b4d7-4fba-867b-c9ad170336cc&#34; width=&#34;300&#34;&gt; &#xA;&lt;h2&gt;开源协议&lt;/h2&gt; &#xA;&lt;p&gt;Apache License Version 2.0 see &lt;a href=&#34;http://www.apache.org/licenses/LICENSE-2.0.html&#34;&gt;http://www.apache.org/licenses/LICENSE-2.0.html&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>paschalcs/pardus</title>
+    <updated>2023-10-04T01:28:29Z</updated>
+    <id>tag:github.com,2023-10-04:/paschalcs/pardus</id>
+    <link href="https://github.com/paschalcs/pardus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;alpine based devcontainer image&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rivalcoba/dwpcII-2023b</title>
-    <updated>2023-10-03T01:28:00Z</updated>
-    <id>tag:github.com,2023-10-03:/rivalcoba/dwpcII-2023b</id>
-    <link href="https://github.com/rivalcoba/dwpcII-2023b" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Proyecyo para DWPCII&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;delete-dwpcII&lt;/h1&gt; &#xA;&lt;p&gt;Proyecyo para DWPCII&lt;/p&gt;</summary>
+    <title>duckietown/book-opmanual-duckiebot</title>
+    <updated>2023-10-04T01:28:29Z</updated>
+    <id>tag:github.com,2023-10-04:/duckietown/book-opmanual-duckiebot</id>
+    <link href="https://github.com/duckietown/book-opmanual-duckiebot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Duckiebot operation manual&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Template: template-book&lt;/h1&gt; &#xA;&lt;p&gt;This template provides a boilerplate repository for books in Duckietown.&lt;/p&gt; &#xA;&lt;h2&gt;What to change&lt;/h2&gt; &#xA;&lt;p&gt;These are the fields you &lt;strong&gt;must&lt;/strong&gt; update to create your book.&lt;/p&gt; &#xA;&lt;h3&gt;Placeholders in &lt;code&gt;src/_config.yml&lt;/code&gt;&lt;/h3&gt; &#xA;&lt;p&gt;This file configures the build of the book. Replace the placeholder string &lt;code&gt;BOOK_NAME_HERE&lt;/code&gt; (there should be two separate instances of it) with the name of the repository hosting your book (e.g., &lt;code&gt;book-devmanual-docs&lt;/code&gt;).&lt;/p&gt; &#xA;&lt;h3&gt;Structure in &lt;code&gt;src/_toc.yml&lt;/code&gt;&lt;/h3&gt; &#xA;&lt;p&gt;Use the instructions &lt;a href=&#34;https://jupyterbook.org/en/stable/structure/toc.html#structure-of-a-book&#34;&gt;here&lt;/a&gt; to learn how to structure your book using the Table of Contents file &lt;code&gt;_toc.yml&lt;/code&gt;. A simple example is already provided by this template. Adapt it to your needs.&lt;/p&gt; &#xA;&lt;h3&gt;Logo in &lt;code&gt;src/logo.png&lt;/code&gt;&lt;/h3&gt; &#xA;&lt;p&gt;There is a default logo in &lt;code&gt;src/logo.png&lt;/code&gt;. This is the book&#39;s logo, change it with something that reflects the scope of your book. Transparent PNGs are recommended.&lt;/p&gt; &#xA;&lt;h2&gt;Build&lt;/h2&gt; &#xA;&lt;p&gt;You can build this book by running the command,&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;dts docs build&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

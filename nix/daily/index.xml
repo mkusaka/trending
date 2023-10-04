@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-03T01:35:38Z</updated>
+  <updated>2023-10-04T01:35:39Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>freckle/fourmolu</title>
-    <updated>2023-10-03T01:35:38Z</updated>
-    <id>tag:github.com,2023-10-03:/freckle/fourmolu</id>
-    <link href="https://github.com/freckle/fourmolu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix flake for fourmolu&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LGUG2Z/nixos-wsl-starter</title>
+    <updated>2023-10-04T01:35:39Z</updated>
+    <id>tag:github.com,2023-10-04:/LGUG2Z/nixos-wsl-starter</id>
+    <link href="https://github.com/LGUG2Z/nixos-wsl-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A sane, batteries-included starter template for running NixOS on WSL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
