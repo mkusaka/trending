@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-04T01:28:29Z</updated>
+  <updated>2023-10-05T01:28:10Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>paschalcs/pardus</title>
-    <updated>2023-10-04T01:28:29Z</updated>
-    <id>tag:github.com,2023-10-04:/paschalcs/pardus</id>
-    <link href="https://github.com/paschalcs/pardus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;alpine based devcontainer image&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>duckietown/book-opmanual-duckiebot</title>
-    <updated>2023-10-04T01:28:29Z</updated>
-    <id>tag:github.com,2023-10-04:/duckietown/book-opmanual-duckiebot</id>
-    <link href="https://github.com/duckietown/book-opmanual-duckiebot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Duckiebot operation manual&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Template: template-book&lt;/h1&gt; &#xA;&lt;p&gt;This template provides a boilerplate repository for books in Duckietown.&lt;/p&gt; &#xA;&lt;h2&gt;What to change&lt;/h2&gt; &#xA;&lt;p&gt;These are the fields you &lt;strong&gt;must&lt;/strong&gt; update to create your book.&lt;/p&gt; &#xA;&lt;h3&gt;Placeholders in &lt;code&gt;src/_config.yml&lt;/code&gt;&lt;/h3&gt; &#xA;&lt;p&gt;This file configures the build of the book. Replace the placeholder string &lt;code&gt;BOOK_NAME_HERE&lt;/code&gt; (there should be two separate instances of it) with the name of the repository hosting your book (e.g., &lt;code&gt;book-devmanual-docs&lt;/code&gt;).&lt;/p&gt; &#xA;&lt;h3&gt;Structure in &lt;code&gt;src/_toc.yml&lt;/code&gt;&lt;/h3&gt; &#xA;&lt;p&gt;Use the instructions &lt;a href=&#34;https://jupyterbook.org/en/stable/structure/toc.html#structure-of-a-book&#34;&gt;here&lt;/a&gt; to learn how to structure your book using the Table of Contents file &lt;code&gt;_toc.yml&lt;/code&gt;. A simple example is already provided by this template. Adapt it to your needs.&lt;/p&gt; &#xA;&lt;h3&gt;Logo in &lt;code&gt;src/logo.png&lt;/code&gt;&lt;/h3&gt; &#xA;&lt;p&gt;There is a default logo in &lt;code&gt;src/logo.png&lt;/code&gt;. This is the book&#39;s logo, change it with something that reflects the scope of your book. Transparent PNGs are recommended.&lt;/p&gt; &#xA;&lt;h2&gt;Build&lt;/h2&gt; &#xA;&lt;p&gt;You can build this book by running the command,&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;dts docs build&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

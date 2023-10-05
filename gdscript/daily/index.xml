@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-04T01:30:05Z</updated>
+  <updated>2023-10-05T01:29:40Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>crystal-bit/input-overlay</title>
-    <updated>2023-10-04T01:30:05Z</updated>
-    <id>tag:github.com,2023-10-04:/crystal-bit/input-overlay</id>
-    <link href="https://github.com/crystal-bit/input-overlay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Addon useful for tutorial makers. Shows an input overlay inside the editor screens&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KenneyNL/Starter-Kit-FPS</title>
+    <updated>2023-10-05T01:29:40Z</updated>
+    <id>tag:github.com,2023-10-05:/KenneyNL/Starter-Kit-FPS</id>
+    <link href="https://github.com/KenneyNL/Starter-Kit-FPS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Maran23/script-ide</title>
+    <updated>2023-10-05T01:29:40Z</updated>
+    <id>tag:github.com,2023-10-05:/Maran23/script-ide</id>
+    <link href="https://github.com/Maran23/script-ide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>newjoker6/Horizontal-Filesystem-Like-Unity</title>
+    <updated>2023-10-05T01:29:40Z</updated>
+    <id>tag:github.com,2023-10-05:/newjoker6/Horizontal-Filesystem-Like-Unity</id>
+    <link href="https://github.com/newjoker6/Horizontal-Filesystem-Like-Unity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Converts the vertical file system to a horizontal one that Unity users are used to.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

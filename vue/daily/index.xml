@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-04T01:43:20Z</updated>
+  <updated>2023-10-05T01:42:32Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CoverGo/HiringFullstackTemplate</title>
-    <updated>2023-10-04T01:43:20Z</updated>
-    <id>tag:github.com,2023-10-04:/CoverGo/HiringFullstackTemplate</id>
-    <link href="https://github.com/CoverGo/HiringFullstackTemplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MrWeilian/iceWebGL</title>
+    <updated>2023-10-05T01:42:32Z</updated>
+    <id>tag:github.com,2023-10-05:/MrWeilian/iceWebGL</id>
+    <link href="https://github.com/MrWeilian/iceWebGL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧊 WebGL上车指南，带你从零开始体系化学习 WebGL。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hakadao/BewlyBewly</title>
-    <updated>2023-10-04T01:43:20Z</updated>
-    <id>tag:github.com,2023-10-04:/hakadao/BewlyBewly</id>
-    <link href="https://github.com/hakadao/BewlyBewly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>realstoman/vuejs-tailwindcss-portfolio</title>
-    <updated>2023-10-04T01:43:20Z</updated>
-    <id>tag:github.com,2023-10-04:/realstoman/vuejs-tailwindcss-portfolio</id>
-    <link href="https://github.com/realstoman/vuejs-tailwindcss-portfolio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple multipage and responsive Vue.js &amp; Tailwind CSS portfolio theme with dark mode.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure-Samples/aks-store-demo</title>
+    <updated>2023-10-05T01:42:32Z</updated>
+    <id>tag:github.com,2023-10-05:/Azure-Samples/aks-store-demo</id>
+    <link href="https://github.com/Azure-Samples/aks-store-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample microservices app for AKS demos, tutorials, and experiments&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

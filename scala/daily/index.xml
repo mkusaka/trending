@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-04T01:40:28Z</updated>
+  <updated>2023-10-05T01:39:15Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pathikrit/scalgos</title>
-    <updated>2023-10-04T01:40:28Z</updated>
-    <id>tag:github.com,2023-10-04:/pathikrit/scalgos</id>
-    <link href="https://github.com/pathikrit/scalgos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;algorithms in scala&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://circleci.com/gh/pathikrit/scalgos&#34;&gt;&lt;img src=&#34;https://img.shields.io/circleci/project/pathikrit/scalgos/master.svg?sanitize=true&#34; alt=&#34;CircleCI&#34;&gt;&lt;/a&gt; &lt;a href=&#34;http://codecov.io/github/pathikrit/scalgos?branch=master&#34;&gt;&lt;img src=&#34;https://img.shields.io/codecov/c/github/pathikrit/scalgos/master.svg?sanitize=true&#34; alt=&#34;codecov&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.codacy.com/app/pathikritscalgos/dashboard&#34;&gt;&lt;img src=&#34;https://img.shields.io/codacy/7628da9b32734c1c96b55b5650aa96be.svg?sanitize=true&#34; alt=&#34;Codacy&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Goals&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/tags/scala/info&#34;&gt;Learn Scala&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Text book &lt;a href=&#34;https://raw.githubusercontent.com/pathikrit/scalgos/master/src/main/scala/com/github/pathikrit/scalgos&#34;&gt;implementations&lt;/a&gt; of common algorithms in idiomatic functional Scala&lt;/li&gt; &#xA; &lt;li&gt;No external &lt;a href=&#34;https://raw.githubusercontent.com/pathikrit/scalgos/master/build.sbt&#34;&gt;dependencies&lt;/a&gt; (except &lt;a href=&#34;http://etorreborre.github.io/specs2/&#34;&gt;specs2&lt;/a&gt; for tests)&lt;/li&gt; &#xA; &lt;li&gt;Good &lt;a href=&#34;https://raw.githubusercontent.com/pathikrit/scalgos/master/src/test/scala/com/github/pathikrit/scalgos&#34;&gt;tests&lt;/a&gt; and documentation&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Building&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Install git, scala and sbt: &lt;code&gt;brew install git scala sbt&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Clone project: &lt;code&gt;git clone https://github.com/pathikrit/scalgos.git; cd scalgos&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Build and run tests: &lt;code&gt;sbt test&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>hmrc/ctc-presentation-notification-frontend</title>
-    <updated>2023-10-04T01:40:28Z</updated>
-    <id>tag:github.com,2023-10-04:/hmrc/ctc-presentation-notification-frontend</id>
-    <link href="https://github.com/hmrc/ctc-presentation-notification-frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ctc-presentation-notification-frontend&lt;/h1&gt; &#xA;&lt;p&gt;This is a placeholder README.md for a new repository&lt;/p&gt; &#xA;&lt;h3&gt;License&lt;/h3&gt; &#xA;&lt;p&gt;This code is open source software licensed under the &lt;a href=&#34;https://raw.githubusercontent.com/hmrc/ctc-presentation-notification-frontend/main/%22http://www.apache.org/licenses/LICENSE-2.0.html%22&#34;&gt;Apache 2.0 License&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

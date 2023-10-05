@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-04T01:24:45Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-10-05T01:23:58Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>systemdesignfightclub/SDFC</title>
-    <updated>2023-10-04T01:24:45Z</updated>
-    <id>tag:github.com,2023-10-04:/systemdesignfightclub/SDFC</id>
-    <link href="https://github.com/systemdesignfightclub/SDFC" rel="alternate"></link>
+    <title>Universidade-Livre/Learn4Elixir</title>
+    <updated>2023-10-05T01:23:58Z</updated>
+    <id>tag:github.com,2023-10-05:/Universidade-Livre/Learn4Elixir</id>
+    <link href="https://github.com/Universidade-Livre/Learn4Elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aprenda Elixir em 4 Pull Requests!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>neohaskell/NeoHaskell</title>
+    <updated>2023-10-05T01:23:58Z</updated>
+    <id>tag:github.com,2023-10-05:/neohaskell/NeoHaskell</id>
+    <link href="https://github.com/neohaskell/NeoHaskell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nasa/spaceapps</title>
+    <updated>2023-10-05T01:23:58Z</updated>
+    <id>tag:github.com,2023-10-05:/nasa/spaceapps</id>
+    <link href="https://github.com/nasa/spaceapps" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OtacilioN/awesome-hacktoberfest</title>
-    <updated>2023-10-04T01:24:45Z</updated>
-    <id>tag:github.com,2023-10-04:/OtacilioN/awesome-hacktoberfest</id>
-    <link href="https://github.com/OtacilioN/awesome-hacktoberfest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome Hacktoberfest 2023 repositories, guides and resources&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>free-educa/free-livros</title>
-    <updated>2023-10-04T01:24:45Z</updated>
-    <id>tag:github.com,2023-10-04:/free-educa/free-livros</id>
-    <link href="https://github.com/free-educa/free-livros" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Educação é um direito de todos&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-04T01:30:55Z</updated>
+  <updated>2023-10-05T01:30:28Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>allegro/handlebars-spring-boot-starter</title>
-    <updated>2023-10-04T01:30:55Z</updated>
-    <id>tag:github.com,2023-10-04:/allegro/handlebars-spring-boot-starter</id>
-    <link href="https://github.com/allegro/handlebars-spring-boot-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Spring Boot auto-configuration for Handlebars&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gvamos/demos</title>
+    <updated>2023-10-05T01:30:28Z</updated>
+    <id>tag:github.com,2023-10-05:/gvamos/demos</id>
+    <link href="https://github.com/gvamos/demos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DEMOS demonstration project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jonolo6/Addressbook</title>
+    <updated>2023-10-05T01:30:28Z</updated>
+    <id>tag:github.com,2023-10-05:/jonolo6/Addressbook</id>
+    <link href="https://github.com/jonolo6/Addressbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Griffon Tutorial Project.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

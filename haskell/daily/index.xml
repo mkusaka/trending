@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-04T01:31:05Z</updated>
+  <updated>2023-10-05T01:30:38Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>byorgey/BlogLiterately</title>
+    <updated>2023-10-05T01:30:38Z</updated>
+    <id>tag:github.com,2023-10-05:/byorgey/BlogLiterately</id>
+    <link href="https://github.com/byorgey/BlogLiterately" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Command-line tool for formatting and publishing blog posts.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/byorgey/BlogLiterately&#34;&gt;&lt;img src=&#34;https://travis-ci.org/byorgey/BlogLiterately.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Write blog posts in Markdown format, then use BlogLiterately to do syntax highlighting, format ghci sessions, and upload to any blog supporting the &lt;a href=&#34;http://codex.wordpress.org/XML-RPC_MetaWeblog_API&#34;&gt;metaWeblog API (such as Wordpress)&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;To get started, use the provided executable &lt;code&gt;BlogLiterately&lt;/code&gt;; see &lt;a href=&#34;http://byorgey.wordpress.com/blogliterately/&#34;&gt;http://byorgey.wordpress.com/blogliterately/&lt;/a&gt; for complete documentation.&lt;/p&gt; &#xA;&lt;p&gt;To make further customization possible, the internals of the executable are made available as a library. In particular, it is easy to create your own executable which adds extra custom transformations; see &lt;a href=&#34;http://hackage.haskell.org/packages/archive/BlogLiterately/latest/doc/html/Text-BlogLiterately-Run.html&#34;&gt;&lt;code&gt;Text.BlogLiterately.Run&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Mac installation instructions&lt;/h2&gt; &#xA;&lt;p&gt;The following instructions for installing BlogLiterately on a new Mac (with apple silicon M2 processor and Ventura) were kindly provided by Chris Reade.&lt;/p&gt; &#xA;&lt;p&gt;After installing ghc and cabal using &lt;code&gt;ghcup&lt;/code&gt;, there are two more things needed: &lt;code&gt;pkg-config&lt;/code&gt; and &lt;code&gt;openssl&lt;/code&gt;. Install both of these using homebrew, and set the paths as instructed.&lt;/p&gt; &#xA;&lt;p&gt;Finally, edit &lt;code&gt;~/.cabal/config&lt;/code&gt; so that it provides locations for the openssl lib and include files. For example:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;extra-include-dirs: /opt/homebrew/opt/openssl@3/include&#xA;extra-lib-dirs: /opt/homebrew/opt/openssl@3/lib&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Finally, &lt;code&gt;cabal install BlogLiterately&lt;/code&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

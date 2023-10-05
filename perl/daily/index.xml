@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-04T01:37:22Z</updated>
+  <updated>2023-10-05T01:36:24Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>trentleslie/bioinfo_class</title>
-    <updated>2023-10-04T01:37:22Z</updated>
-    <id>tag:github.com,2023-10-04:/trentleslie/bioinfo_class</id>
-    <link href="https://github.com/trentleslie/bioinfo_class" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gnustavo/bag</title>
+    <updated>2023-10-05T01:36:24Z</updated>
+    <id>tag:github.com,2023-10-05:/gnustavo/bag</id>
+    <link href="https://github.com/gnustavo/bag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bag of semi-useful things&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;bag&lt;/h1&gt; &#xA;&lt;p&gt;Bag of semi-useful things&lt;/p&gt;</summary>
   </entry>
 </feed>
