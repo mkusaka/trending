@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:42:32Z</updated>
+  <updated>2023-10-06T01:42:02Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MrWeilian/iceWebGL</title>
-    <updated>2023-10-05T01:42:32Z</updated>
-    <id>tag:github.com,2023-10-05:/MrWeilian/iceWebGL</id>
-    <link href="https://github.com/MrWeilian/iceWebGL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧊 WebGL上车指南，带你从零开始体系化学习 WebGL。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure-Samples/aks-store-demo</title>
-    <updated>2023-10-05T01:42:32Z</updated>
-    <id>tag:github.com,2023-10-05:/Azure-Samples/aks-store-demo</id>
-    <link href="https://github.com/Azure-Samples/aks-store-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample microservices app for AKS demos, tutorials, and experiments&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

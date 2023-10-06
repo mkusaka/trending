@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:39:38Z</updated>
+  <updated>2023-10-06T01:39:16Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JamesTurland/JimsGarage</title>
+    <updated>2023-10-06T01:39:16Z</updated>
+    <id>tag:github.com,2023-10-06:/JamesTurland/JimsGarage</id>
+    <link href="https://github.com/JamesTurland/JimsGarage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Homelab Goodies&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://discord.gg/qW5vEBekz5&#34;&gt;Discord&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://twitter.com/jimsgarage_&#34;&gt;Twitter&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://www.reddit.com/user/Jims-Garage&#34;&gt;Reddit&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/JamesTurland/JimsGarage/raw/main/Logo/Jim&#39;sGarage-1(2).png?raw=true&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Jim&#39;s Garage&lt;/h1&gt; &#xA;&lt;p&gt;Here&#39;s a collection of Docker Compose and config files for use in my videos. Simply tweak to your environment and deploy!&lt;/p&gt;</summary>
+  </entry>
 </feed>

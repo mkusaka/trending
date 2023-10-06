@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Squirrel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:40:15Z</updated>
+  <updated>2023-10-06T01:39:52Z</updated>
   <subtitle>Daily Trending of Squirrel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Purple-CSGO/CSGO-Config-Presets</title>
-    <updated>2023-10-05T01:40:15Z</updated>
-    <id>tag:github.com,2023-10-05:/Purple-CSGO/CSGO-Config-Presets</id>
-    <link href="https://github.com/Purple-CSGO/CSGO-Config-Presets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎉​ Presets of Config files for many scenarios in CS:GO and CS2 (Limited Test)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

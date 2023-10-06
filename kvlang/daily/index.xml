@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub kvlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:33:05Z</updated>
+  <updated>2023-10-06T01:32:41Z</updated>
   <subtitle>Daily Trending of kvlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Afterdie/octops</title>
-    <updated>2023-10-05T01:33:05Z</updated>
-    <id>tag:github.com,2023-10-05:/Afterdie/octops</id>
-    <link href="https://github.com/Afterdie/octops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Octops: An open-source Python/Kivy-based point-and-click puzzle game inspired by CS 1.6. Features four screens: Site A (3x3 button grid), Site B (hint-based), Doors (numeric puzzle), and Spawn (sliders). Solve puzzles to defuse the bomb. Join our open-source community to enhance gameplay, UI, and storytelling.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

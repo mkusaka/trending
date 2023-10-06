@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:23:58Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-10-06T01:23:40Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Universidade-Livre/Learn4Elixir</title>
-    <updated>2023-10-05T01:23:58Z</updated>
-    <id>tag:github.com,2023-10-05:/Universidade-Livre/Learn4Elixir</id>
-    <link href="https://github.com/Universidade-Livre/Learn4Elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Aprenda Elixir em 4 Pull Requests!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mouredev/python-web</title>
+    <updated>2023-10-06T01:23:40Z</updated>
+    <id>tag:github.com,2023-10-06:/mouredev/python-web</id>
+    <link href="https://github.com/mouredev/python-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curso para aprender desarrollo frontend Web con Python puro desde cero. Elaborado durante las emisiones en directo desde Twitch de MoureDev.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>neohaskell/NeoHaskell</title>
-    <updated>2023-10-05T01:23:58Z</updated>
-    <id>tag:github.com,2023-10-05:/neohaskell/NeoHaskell</id>
-    <link href="https://github.com/neohaskell/NeoHaskell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>daveshap/ChatGPT_Custom_Instructions</title>
+    <updated>2023-10-06T01:23:40Z</updated>
+    <id>tag:github.com,2023-10-06:/daveshap/ChatGPT_Custom_Instructions</id>
+    <link href="https://github.com/daveshap/ChatGPT_Custom_Instructions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo of custom instructions that you can use for ChatGPT&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nasa/spaceapps</title>
-    <updated>2023-10-05T01:23:58Z</updated>
-    <id>tag:github.com,2023-10-05:/nasa/spaceapps</id>
-    <link href="https://github.com/nasa/spaceapps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Coder-World04/Complete-System-Design</title>
+    <updated>2023-10-06T01:23:40Z</updated>
+    <id>tag:github.com,2023-10-06:/Coder-World04/Complete-System-Design</id>
+    <link href="https://github.com/Coder-World04/Complete-System-Design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains everything you need to become proficient in System Design&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

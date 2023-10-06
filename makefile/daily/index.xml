@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:33:54Z</updated>
+  <updated>2023-10-06T01:33:31Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lukas-reineke/ci-template.nvim</title>
-    <updated>2023-10-05T01:33:54Z</updated>
-    <id>tag:github.com,2023-10-05:/lukas-reineke/ci-template.nvim</id>
-    <link href="https://github.com/lukas-reineke/ci-template.nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template for Neovim plugin CI with GitHub actions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IMC-UAS-Krems/OS3ILV-WS23-24-Assignment</title>
+    <updated>2023-10-06T01:33:31Z</updated>
+    <id>tag:github.com,2023-10-06:/IMC-UAS-Krems/OS3ILV-WS23-24-Assignment</id>
+    <link href="https://github.com/IMC-UAS-Krems/OS3ILV-WS23-24-Assignment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public Repository Hosting the Assignment for OS3ILV WS23/24&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

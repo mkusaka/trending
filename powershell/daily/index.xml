@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:36:57Z</updated>
+  <updated>2023-10-06T01:36:37Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vajrang-b/RPA-Developer-in-30-Days</title>
+    <updated>2023-10-06T01:36:37Z</updated>
+    <id>tag:github.com,2023-10-06:/vajrang-b/RPA-Developer-in-30-Days</id>
+    <link href="https://github.com/vajrang-b/RPA-Developer-in-30-Days" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;We will use this repo to understand and develop uipath code,&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;readme file update in progress&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/github/issues/vajrang-b/RPA-Developer-in-30-Days&#34; alt=&#34;Github Issues&#34;&gt; &lt;img src=&#34;https://img.shields.io/github/forks/vajrang-b/RPA-Developer-in-30-Days&#34; alt=&#34;GitHub forks&#34;&gt; &lt;img src=&#34;https://img.shields.io/github/stars/vajrang-b/RPA-Developer-in-30-Days&#34; alt=&#34;GitHub stars&#34;&gt; &lt;img src=&#34;https://img.shields.io/github/license/vajrang-b/RPA-Developer-in-30-Days&#34; alt=&#34;GitHub license&#34;&gt; &lt;img src=&#34;https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fvajrang-b%2FRPA-Developer-in-30-Days&#34; alt=&#34;Twitter&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

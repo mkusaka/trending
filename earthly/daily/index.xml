@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Earthly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:28:31Z</updated>
+  <updated>2023-10-06T01:27:53Z</updated>
   <subtitle>Daily Trending of Earthly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>earthly/lib</title>
-    <updated>2023-10-05T01:28:31Z</updated>
-    <id>tag:github.com,2023-10-05:/earthly/lib</id>
-    <link href="https://github.com/earthly/lib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

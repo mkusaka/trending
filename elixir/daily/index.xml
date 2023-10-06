@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:28:46Z</updated>
+  <updated>2023-10-06T01:28:08Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>xward/phoenix_ddos</title>
-    <updated>2023-10-05T01:28:46Z</updated>
-    <id>tag:github.com,2023-10-05:/xward/phoenix_ddos</id>
-    <link href="https://github.com/xward/phoenix_ddos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ddos protection for elixir phoenix project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

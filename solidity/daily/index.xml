@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:40:10Z</updated>
+  <updated>2023-10-06T01:39:46Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AmadiMichael/Zyclone</title>
-    <updated>2023-10-05T01:40:10Z</updated>
-    <id>tag:github.com,2023-10-05:/AmadiMichael/Zyclone</id>
-    <link href="https://github.com/AmadiMichael/Zyclone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Optimized token mixer for Ethereum utilizing zkSNARKs. 500% cheaper than Tornado cash&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Prabhat1308/Huffathon_23</title>
+    <updated>2023-10-06T01:39:46Z</updated>
+    <id>tag:github.com,2023-10-06:/Prabhat1308/Huffathon_23</id>
+    <link href="https://github.com/Prabhat1308/Huffathon_23" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Complex Math Lib &amp; FFT implementation in Huff&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AxieMeta/Paradise</title>
-    <updated>2023-10-05T01:40:10Z</updated>
-    <id>tag:github.com,2023-10-05:/AxieMeta/Paradise</id>
-    <link href="https://github.com/AxieMeta/Paradise" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Philogy/meth-weth</title>
-    <updated>2023-10-05T01:40:10Z</updated>
-    <id>tag:github.com,2023-10-05:/Philogy/meth-weth</id>
-    <link href="https://github.com/Philogy/meth-weth" rel="alternate"></link>
+    <title>Dejan-Teofilovic/green-planet-eco-token</title>
+    <updated>2023-10-06T01:39:46Z</updated>
+    <id>tag:github.com,2023-10-06:/Dejan-Teofilovic/green-planet-eco-token</id>
+    <link href="https://github.com/Dejan-Teofilovic/green-planet-eco-token" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

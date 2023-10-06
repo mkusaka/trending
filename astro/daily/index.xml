@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:24:58Z</updated>
+  <updated>2023-10-06T01:24:30Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Folks-Finance/folks-router</title>
-    <updated>2023-10-05T01:24:58Z</updated>
-    <id>tag:github.com,2023-10-05:/Folks-Finance/folks-router</id>
-    <link href="https://github.com/Folks-Finance/folks-router" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Enable the most efficient swaps on Algorand&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>deltahacks/landing-10</title>
+    <updated>2023-10-06T01:24:30Z</updated>
+    <id>tag:github.com,2023-10-06:/deltahacks/landing-10</id>
+    <link href="https://github.com/deltahacks/landing-10" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

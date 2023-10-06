@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:28:53Z</updated>
+  <updated>2023-10-06T01:28:14Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>casouri/expreg</title>
-    <updated>2023-10-05T01:28:53Z</updated>
-    <id>tag:github.com,2023-10-05:/casouri/expreg</id>
-    <link href="https://github.com/casouri/expreg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Your friendly neighborhood expand-region clone&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Expreg is now available on ELPA.&lt;/p&gt; &#xA;&lt;p&gt;This is just like expand-region, but (1) we generate all regions at once, and (2) should be easier to debug, and (3) we out-source language-specific expansions to tree-sitter. Bind ‘expreg-expand’ and ‘expreg-contract’ and start using it.&lt;/p&gt; &#xA;&lt;p&gt;Note that if point is in between two possible regions, we only keep the region after point. In the example below, only region B is kept (“|” represents point):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(region A)|(region B)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Expreg also recognizes subwords if ‘subword-mode’ is on.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>auramo/emacs-osx-finnish-keyboard-fix</title>
-    <updated>2023-10-05T01:28:53Z</updated>
-    <id>tag:github.com,2023-10-05:/auramo/emacs-osx-finnish-keyboard-fix</id>
-    <link href="https://github.com/auramo/emacs-osx-finnish-keyboard-fix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Instructions and borrowed elisp-code to use left alt (option) as meta key without major issues&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Finnish keyboard relief for OSX Emacs&lt;/h1&gt; &#xA;&lt;p&gt;If you want to use alt (option) key as meta and also use Finnish keyboard layout, it can get quite frustrating. Same problem exists in many other european keyboard layouts as well.&lt;/p&gt; &#xA;&lt;p&gt;You can get a bigger picture of the issue by reading this StackOverflow question and answers:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://stackoverflow.com/questions/500602/os-x-terminal-meta-key-alt-functionality-at-t&#34;&gt;http://stackoverflow.com/questions/500602/os-x-terminal-meta-key-alt-functionality-at-t&lt;/a&gt; he-same-time&lt;/p&gt; &#xA;&lt;p&gt;The solution which I find bearable is borrowing few files from Aquamacs and making a few tweaks in your emacs init file.&lt;/p&gt; &#xA;&lt;p&gt;Here&#39;s what I&#39;ve done:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(defun aq-binding (any) nil)&#xA;(load  &#34;~/.emacs.d/aquamacs-tools.el&#34;)    &#xA;(load  &#34;~/.emacs.d/emulate-mac-keyboard-mode.el&#34;)&#xA;(setq emulate-mac-finnish-keyboard-mode t)&#xA;(setq mac-right-option-modifier nil)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Not sure what the first line is doing, second and third are self-explanatory and the last line makes your right alt to behave as a normal alt in case your fancy new meta/alt key fails to produce characters in some corner cases.&lt;/p&gt; &#xA;&lt;p&gt;The files emulate-mac-keyboard-mode.el and aquamacs-tools.el are borrowed into this repository from the Aquamacs repository (&lt;a href=&#34;https://github.com/davidswelt/aquamacs-emacs&#34;&gt;https://github.com/davidswelt/aquamacs-emacs&lt;/a&gt;).&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>djfiander/elisp</title>
-    <updated>2023-10-05T01:28:53Z</updated>
-    <id>tag:github.com,2023-10-05:/djfiander/elisp</id>
-    <link href="https://github.com/djfiander/elisp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bits of emacs lisp&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;elisp&lt;/h1&gt; &#xA;&lt;p&gt;Bits of emacs lisp&lt;/p&gt;</summary>
-  </entry>
 </feed>

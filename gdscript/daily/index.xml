@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-05T01:29:40Z</updated>
+  <updated>2023-10-06T01:29:03Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KenneyNL/Starter-Kit-FPS</title>
-    <updated>2023-10-05T01:29:40Z</updated>
-    <id>tag:github.com,2023-10-05:/KenneyNL/Starter-Kit-FPS</id>
-    <link href="https://github.com/KenneyNL/Starter-Kit-FPS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BL-MSCH-C220/Exercise-3-3-Music-and-Sound</title>
+    <updated>2023-10-06T01:29:03Z</updated>
+    <id>tag:github.com,2023-10-06:/BL-MSCH-C220/Exercise-3-3-Music-and-Sound</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-3-3-Music-and-Sound" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Maran23/script-ide</title>
-    <updated>2023-10-05T01:29:40Z</updated>
-    <id>tag:github.com,2023-10-05:/Maran23/script-ide</id>
-    <link href="https://github.com/Maran23/script-ide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gdquest-demos/godot-procedural-generation</title>
+    <updated>2023-10-06T01:29:03Z</updated>
+    <id>tag:github.com,2023-10-06:/gdquest-demos/godot-procedural-generation</id>
+    <link href="https://github.com/gdquest-demos/godot-procedural-generation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Procedural generation algorithms and demos for the Godot game engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>newjoker6/Horizontal-Filesystem-Like-Unity</title>
-    <updated>2023-10-05T01:29:40Z</updated>
-    <id>tag:github.com,2023-10-05:/newjoker6/Horizontal-Filesystem-Like-Unity</id>
-    <link href="https://github.com/newjoker6/Horizontal-Filesystem-Like-Unity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Converts the vertical file system to a horizontal one that Unity users are used to.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>appsinacup/godot-softbody2d</title>
+    <updated>2023-10-06T01:29:03Z</updated>
+    <id>tag:github.com,2023-10-06:/appsinacup/godot-softbody2d</id>
+    <link href="https://github.com/appsinacup/godot-softbody2d" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot SoftBody2D - Plugin that adds deformable 2D soft body.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
