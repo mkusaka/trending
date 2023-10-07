@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-06T01:23:40Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-10-07T01:23:15Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mouredev/python-web</title>
-    <updated>2023-10-06T01:23:40Z</updated>
-    <id>tag:github.com,2023-10-06:/mouredev/python-web</id>
-    <link href="https://github.com/mouredev/python-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curso para aprender desarrollo frontend Web con Python puro desde cero. Elaborado durante las emisiones en directo desde Twitch de MoureDev.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kavaan/clean-architecture-solution-template</title>
+    <updated>2023-10-07T01:23:15Z</updated>
+    <id>tag:github.com,2023-10-07:/kavaan/clean-architecture-solution-template</id>
+    <link href="https://github.com/kavaan/clean-architecture-solution-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;You don&#39;t always need to start over; consider utilizing the existing infrastructure!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>daveshap/ChatGPT_Custom_Instructions</title>
-    <updated>2023-10-06T01:23:40Z</updated>
-    <id>tag:github.com,2023-10-06:/daveshap/ChatGPT_Custom_Instructions</id>
-    <link href="https://github.com/daveshap/ChatGPT_Custom_Instructions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo of custom instructions that you can use for ChatGPT&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>s2underground/GhostNet</title>
+    <updated>2023-10-07T01:23:15Z</updated>
+    <id>tag:github.com,2023-10-07:/s2underground/GhostNet</id>
+    <link href="https://github.com/s2underground/GhostNet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GhostNet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Coder-World04/Complete-System-Design</title>
-    <updated>2023-10-06T01:23:40Z</updated>
-    <id>tag:github.com,2023-10-06:/Coder-World04/Complete-System-Design</id>
-    <link href="https://github.com/Coder-World04/Complete-System-Design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains everything you need to become proficient in System Design&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nerdyrodent/AVeryComfyNerd</title>
+    <updated>2023-10-07T01:23:15Z</updated>
+    <id>tag:github.com,2023-10-07:/nerdyrodent/AVeryComfyNerd</id>
+    <link href="https://github.com/nerdyrodent/AVeryComfyNerd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ComfyUI related stuff and things&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

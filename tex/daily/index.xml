@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-06T01:40:52Z</updated>
+  <updated>2023-10-07T01:41:12Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>premAI-io/state-of-open-source-ai</title>
-    <updated>2023-10-06T01:40:52Z</updated>
-    <id>tag:github.com,2023-10-06:/premAI-io/state-of-open-source-ai</id>
-    <link href="https://github.com/premAI-io/state-of-open-source-ai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clarity in the current fast-paced mess of Open Source innovation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;📘 The State of Open Source AI (2023 Edition)&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://book.premai.io/state-of-open-source-ai&#34;&gt;&lt;img src=&#34;https://static.premai.io/book/marketing/github--book.jpg&#34; alt=&#34;banner&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;Clarity in the current fast-paced mess of Open Source innovation.&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;This is the source repository for &lt;a href=&#34;https://book.premai.io/state-of-open-source-ai&#34;&gt;The State of Open Source AI&lt;/a&gt; ebook, a comprehensive guide exploring everything from model evaluations to deployment.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;You can help keep the book up-to-date! Contributions, issues, and comments are welcome! See the &lt;a href=&#34;https://book.premai.io/state-of-open-source-ai/#contributing&#34;&gt;Contributing Guide&lt;/a&gt; for more information on how.&lt;/p&gt; &#xA;&lt;h2&gt;Licence&lt;/h2&gt; &#xA;&lt;p&gt;This book is released under &lt;a href=&#34;https://raw.githubusercontent.com/premAI-io/state-of-open-source-ai/main/LICENCE&#34;&gt;CC-BY-4.0 (text) and Apache-2.0 (code)&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Citation: &lt;a href=&#34;https://raw.githubusercontent.com/premAI-io/state-of-open-source-ai/main/references.bib#L1&#34;&gt;BibTeX&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Community&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://discord.com/invite/kpKk6vYVAn&#34;&gt;Join the Open Source AI Discord&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://twitter.com/premai_io&#34;&gt;Follow us on Twitter&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>mjbella/My_OLD_Resume</title>
+    <updated>2023-10-07T01:41:12Z</updated>
+    <id>tag:github.com,2023-10-07:/mjbella/My_OLD_Resume</id>
+    <link href="https://github.com/mjbella/My_OLD_Resume" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My name is Michael, and I am an electrical engineer with a strong interest in embedded work. I have experience in analog circuit design, low power embedded systems (using C), RF, and many other areas. I made this repo to store the LaTeX source of my resume so that I can get editing help/advice from friends and family.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;My_Resume&lt;/h1&gt; &#xA;&lt;p&gt;I am using this repo to store the LaTeX source of my resume. I started with one of the wonderful templates from &lt;a href=&#34;http://www.latextemplates.com/&#34;&gt;http://www.latextemplates.com/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;I have been trying out different structures for the lists used in the Work Experience sections. My main goal is to keep each idea clear on the page while maximizing the number of details I can fit on the page.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>kashyap7/resume</title>
-    <updated>2023-10-06T01:40:52Z</updated>
-    <id>tag:github.com,2023-10-06:/kashyap7/resume</id>
-    <link href="https://github.com/kashyap7/resume" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;resume&lt;/h1&gt;</summary>
+    <title>dxiai/daten-organisation</title>
+    <updated>2023-10-07T01:41:12Z</updated>
+    <id>tag:github.com,2023-10-07:/dxiai/daten-organisation</id>
+    <link href="https://github.com/dxiai/daten-organisation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Prinzipien der Datenorganisation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;daten-organisation&lt;/h1&gt; &#xA;&lt;p&gt;Prinzipien der Datenorganisation&lt;/p&gt;</summary>
   </entry>
 </feed>

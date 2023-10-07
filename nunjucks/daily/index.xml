@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nunjucks Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-06T01:34:46Z</updated>
+  <updated>2023-10-07T01:35:00Z</updated>
   <subtitle>Daily Trending of Nunjucks in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ministryofjustice/data-platform-user-guidance</title>
-    <updated>2023-10-06T01:34:46Z</updated>
-    <id>tag:github.com,2023-10-06:/ministryofjustice/data-platform-user-guidance</id>
-    <link href="https://github.com/ministryofjustice/data-platform-user-guidance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core Repository for Data Platform User Guidance • This repository is defined and managed in Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>matuzo/HTMHell</title>
+    <updated>2023-10-07T01:35:00Z</updated>
+    <id>tag:github.com,2023-10-07:/matuzo/HTMHell</id>
+    <link href="https://github.com/matuzo/HTMHell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of bad practices in HTML found on real websites.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

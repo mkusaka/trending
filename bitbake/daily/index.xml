@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-06T01:24:55Z</updated>
+  <updated>2023-10-07T01:24:42Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nxp-auto-linux/meta-alb</title>
-    <updated>2023-10-06T01:24:55Z</updated>
-    <id>tag:github.com,2023-10-06:/nxp-auto-linux/meta-alb</id>
-    <link href="https://github.com/nxp-auto-linux/meta-alb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automotive Linux BSP Yocto Layer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

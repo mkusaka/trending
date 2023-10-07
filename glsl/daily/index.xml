@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-06T01:29:23Z</updated>
+  <updated>2023-10-07T01:29:21Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dhis2/dhis2-fhir-ig</title>
-    <updated>2023-10-06T01:29:23Z</updated>
-    <id>tag:github.com,2023-10-06:/dhis2/dhis2-fhir-ig</id>
-    <link href="https://github.com/dhis2/dhis2-fhir-ig" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DHIS2 FHIR Implementation Guide (draft)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

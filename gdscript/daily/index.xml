@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-06T01:29:03Z</updated>
+  <updated>2023-10-07T01:29:02Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220/Exercise-3-3-Music-and-Sound</title>
-    <updated>2023-10-06T01:29:03Z</updated>
-    <id>tag:github.com,2023-10-06:/BL-MSCH-C220/Exercise-3-3-Music-and-Sound</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-3-3-Music-and-Sound" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Norodix/GodotMirror</title>
+    <updated>2023-10-07T01:29:02Z</updated>
+    <id>tag:github.com,2023-10-07:/Norodix/GodotMirror</id>
+    <link href="https://github.com/Norodix/GodotMirror" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A versatile mirror for the godot game engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gdquest-demos/godot-procedural-generation</title>
-    <updated>2023-10-06T01:29:03Z</updated>
-    <id>tag:github.com,2023-10-06:/gdquest-demos/godot-procedural-generation</id>
-    <link href="https://github.com/gdquest-demos/godot-procedural-generation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Procedural generation algorithms and demos for the Godot game engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gdquest-demos/godot-3-demos</title>
+    <updated>2023-10-07T01:29:02Z</updated>
+    <id>tag:github.com,2023-10-07:/gdquest-demos/godot-3-demos</id>
+    <link href="https://github.com/gdquest-demos/godot-3-demos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dozens of free and open source demos for the Godot game engine, version 3. Head to the link below for newer demos for Godot 4+&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>appsinacup/godot-softbody2d</title>
-    <updated>2023-10-06T01:29:03Z</updated>
-    <id>tag:github.com,2023-10-06:/appsinacup/godot-softbody2d</id>
-    <link href="https://github.com/appsinacup/godot-softbody2d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot SoftBody2D - Plugin that adds deformable 2D soft body.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PrimaryStrawberry/FionnaManagerDecomp</title>
+    <updated>2023-10-07T01:29:02Z</updated>
+    <id>tag:github.com,2023-10-07:/PrimaryStrawberry/FionnaManagerDecomp</id>
+    <link href="https://github.com/PrimaryStrawberry/FionnaManagerDecomp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[NSFW WARNING!!!] A Decompiled Version of Fionna Manager ORIGINAL CREATOR IS @bulumblebee ON TWITTER/X!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

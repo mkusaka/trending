@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-06T01:32:05Z</updated>
+  <updated>2023-10-07T01:32:25Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jakobnissen/hardware_introduction</title>
-    <updated>2023-10-06T01:32:05Z</updated>
-    <id>tag:github.com,2023-10-06:/jakobnissen/hardware_introduction</id>
-    <link href="https://github.com/jakobnissen/hardware_introduction" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;What scientific programmers must know about CPUs and RAM to write fast code.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaDynamics/Attractors.jl</title>
+    <updated>2023-10-07T01:32:25Z</updated>
+    <id>tag:github.com,2023-10-07:/JuliaDynamics/Attractors.jl</id>
+    <link href="https://github.com/JuliaDynamics/Attractors.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Find attractors of dynamical systems, their basins, and continue them across parameters. Also tipping points for analytic systems.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>asinghvi17/GeometryOps.jl</title>
-    <updated>2023-10-06T01:32:05Z</updated>
-    <id>tag:github.com,2023-10-06:/asinghvi17/GeometryOps.jl</id>
-    <link href="https://github.com/asinghvi17/GeometryOps.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GeoInterface-based geometry operations&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Jutho/TensorOperations.jl</title>
-    <updated>2023-10-06T01:32:05Z</updated>
-    <id>tag:github.com,2023-10-06:/Jutho/TensorOperations.jl</id>
-    <link href="https://github.com/Jutho/TensorOperations.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia package for tensor contractions and related operations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaSmoothOptimizers/RegularizedOptimization.jl</title>
+    <updated>2023-10-07T01:32:25Z</updated>
+    <id>tag:github.com,2023-10-07:/JuliaSmoothOptimizers/RegularizedOptimization.jl</id>
+    <link href="https://github.com/JuliaSmoothOptimizers/RegularizedOptimization.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Algorithms for regularized optimization&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

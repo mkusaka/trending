@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-06T01:39:46Z</updated>
+  <updated>2023-10-07T01:40:05Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Prabhat1308/Huffathon_23</title>
-    <updated>2023-10-06T01:39:46Z</updated>
-    <id>tag:github.com,2023-10-06:/Prabhat1308/Huffathon_23</id>
-    <link href="https://github.com/Prabhat1308/Huffathon_23" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Complex Math Lib &amp; FFT implementation in Huff&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Dejan-Teofilovic/green-planet-eco-token</title>
-    <updated>2023-10-06T01:39:46Z</updated>
-    <id>tag:github.com,2023-10-06:/Dejan-Teofilovic/green-planet-eco-token</id>
-    <link href="https://github.com/Dejan-Teofilovic/green-planet-eco-token" rel="alternate"></link>
+    <title>NazaWEb/ultimate-solidity-course-for-complete-beginners</title>
+    <updated>2023-10-07T01:40:05Z</updated>
+    <id>tag:github.com,2023-10-07:/NazaWEb/ultimate-solidity-course-for-complete-beginners</id>
+    <link href="https://github.com/NazaWEb/ultimate-solidity-course-for-complete-beginners" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

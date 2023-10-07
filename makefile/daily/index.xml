@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-06T01:33:31Z</updated>
+  <updated>2023-10-07T01:33:46Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>IMC-UAS-Krems/OS3ILV-WS23-24-Assignment</title>
-    <updated>2023-10-06T01:33:31Z</updated>
-    <id>tag:github.com,2023-10-06:/IMC-UAS-Krems/OS3ILV-WS23-24-Assignment</id>
-    <link href="https://github.com/IMC-UAS-Krems/OS3ILV-WS23-24-Assignment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public Repository Hosting the Assignment for OS3ILV WS23/24&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JAMO-TYPEFACE/Orbit</title>
+    <updated>2023-10-07T01:33:46Z</updated>
+    <id>tag:github.com,2023-10-07:/JAMO-TYPEFACE/Orbit</id>
+    <link href="https://github.com/JAMO-TYPEFACE/Orbit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Orbit 2022 by JAMO&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

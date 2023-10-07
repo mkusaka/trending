@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-06T01:24:30Z</updated>
+  <updated>2023-10-07T01:24:19Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>deltahacks/landing-10</title>
-    <updated>2023-10-06T01:24:30Z</updated>
-    <id>tag:github.com,2023-10-06:/deltahacks/landing-10</id>
-    <link href="https://github.com/deltahacks/landing-10" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>midudev/spotify-twitch-clone</title>
+    <updated>2023-10-07T01:24:19Z</updated>
+    <id>tag:github.com,2023-10-07:/midudev/spotify-twitch-clone</id>
+    <link href="https://github.com/midudev/spotify-twitch-clone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creando un clon de Spotify desde cero y que le vuele la cabeza a la gente&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codrops/astro-shop-view-transitions</title>
+    <updated>2023-10-07T01:24:19Z</updated>
+    <id>tag:github.com,2023-10-07:/codrops/astro-shop-view-transitions</id>
+    <link href="https://github.com/codrops/astro-shop-view-transitions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimalist Shop with Browser View Transitions API and Astro for a smoother navigation experience.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ladvace/Grid-astro-portfolio</title>
+    <updated>2023-10-07T01:24:19Z</updated>
+    <id>tag:github.com,2023-10-07:/Ladvace/Grid-astro-portfolio</id>
+    <link href="https://github.com/Ladvace/Grid-astro-portfolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple one page portfolio website made in Astro&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

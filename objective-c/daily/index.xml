@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-06T01:35:01Z</updated>
+  <updated>2023-10-07T01:35:15Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>echuvyrov/hw3-CS193P-Stanford</title>
-    <updated>2023-10-06T01:35:01Z</updated>
-    <id>tag:github.com,2023-10-06:/echuvyrov/hw3-CS193P-Stanford</id>
-    <link href="https://github.com/echuvyrov/hw3-CS193P-Stanford" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Homework 3 of iOS Development Course at Stanford : Matchismo, Set card games, Bezier curves&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
