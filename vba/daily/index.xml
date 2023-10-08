@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:41:56Z</updated>
+  <updated>2023-10-08T01:44:24Z</updated>
   <subtitle>Daily Trending of VBA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>iappyx/Instrumenta</title>
-    <updated>2023-10-07T01:41:56Z</updated>
-    <id>tag:github.com,2023-10-07:/iappyx/Instrumenta</id>
-    <link href="https://github.com/iappyx/Instrumenta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free and open source consulting-style Powerpoint toolbar&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

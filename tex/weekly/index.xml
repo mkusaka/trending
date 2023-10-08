@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TeX Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-08T02:03:33Z</updated>
+  <subtitle>Weekly Trending of TeX in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EzoeRyou/cpp-intro</title>
+    <updated>2023-10-08T02:03:33Z</updated>
+    <id>tag:github.com,2023-10-08:/EzoeRyou/cpp-intro</id>
+    <link href="https://github.com/EzoeRyou/cpp-intro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Beginner&#39;s guide for C++&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;江添亮の入門C++&lt;/h1&gt; &#xA;&lt;p&gt;まだ書きかけ。&lt;/p&gt; &#xA;&lt;p&gt;モチベーション維持のために公開&lt;/p&gt; &#xA;&lt;p&gt;GitHub Pagesでの閲覧&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://ezoeryou.github.io/cpp-intro/&#34;&gt;https://ezoeryou.github.io/cpp-intro/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;ライセンス&lt;/h1&gt; &#xA;&lt;p&gt;GPLv3&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>kashyap7/resume</title>
+    <updated>2023-10-08T02:03:33Z</updated>
+    <id>tag:github.com,2023-10-08:/kashyap7/resume</id>
+    <link href="https://github.com/kashyap7/resume" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;resume&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>algorhythms/Algo-Quicksheet</title>
+    <updated>2023-10-08T02:03:33Z</updated>
+    <id>tag:github.com,2023-10-08:/algorhythms/Algo-Quicksheet</id>
+    <link href="https://github.com/algorhythms/Algo-Quicksheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quicksheet for Algorithms&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Algo-Quicksheet &lt;img src=&#34;https://img.shields.io/badge/license-BSD--3-red.svg?sanitize=true&#34; alt=&#34;License&#34;&gt;&lt;/h1&gt; &#xA;&lt;p&gt;Quicksheet for Algorithms&lt;/p&gt; &#xA;&lt;h2&gt;Sample Page&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/algorhythms/Algo-Quicksheet/master/samples/sample.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;PDF Download&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/algorhythms/Algo-Quicksheet/releases&#34;&gt;algo-quicksheet.pdf&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

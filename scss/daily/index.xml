@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:39:17Z</updated>
+  <updated>2023-10-08T01:41:49Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ArcadyRob/polar-dash</title>
-    <updated>2023-10-07T01:39:17Z</updated>
-    <id>tag:github.com,2023-10-07:/ArcadyRob/polar-dash</id>
-    <link href="https://github.com/ArcadyRob/polar-dash" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Het gezelschapsspel voor Arcadians, door Arcadians.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vinceliuice/Magnetic-gtk-theme</title>
+    <updated>2023-10-08T01:41:49Z</updated>
+    <id>tag:github.com,2023-10-08:/vinceliuice/Magnetic-gtk-theme</id>
+    <link href="https://github.com/vinceliuice/Magnetic-gtk-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>leonidk/leonidk.github.io</title>
+    <updated>2023-10-08T01:41:49Z</updated>
+    <id>tag:github.com,2023-10-08:/leonidk/leonidk.github.io</id>
+    <link href="https://github.com/leonidk/leonidk.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a fork of https://jonbarron.info/ for use in jekyll builds with markdown page updates&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

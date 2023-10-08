@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-08T02:04:37Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KoujiSano/Nuxt3Bootstrap5AppDemo</title>
+    <updated>2023-10-08T02:04:37Z</updated>
+    <id>tag:github.com,2023-10-08:/KoujiSano/Nuxt3Bootstrap5AppDemo</id>
+    <link href="https://github.com/KoujiSano/Nuxt3Bootstrap5AppDemo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>antfu/eslint-flat-config-viewer</title>
+    <updated>2023-10-08T02:04:37Z</updated>
+    <id>tag:github.com,2023-10-08:/antfu/eslint-flat-config-viewer</id>
+    <link href="https://github.com/antfu/eslint-flat-config-viewer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A visual tool to help you view and understand your ESLint Flat config.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Pwntus/change-hairstyle-ai</title>
+    <updated>2023-10-08T02:04:37Z</updated>
+    <id>tag:github.com,2023-10-08:/Pwntus/change-hairstyle-ai</id>
+    <link href="https://github.com/Pwntus/change-hairstyle-ai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Get a new hairstyle in seconds.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

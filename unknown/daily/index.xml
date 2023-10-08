@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:23:15Z</updated>
+  <updated>2023-10-08T01:26:30Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kavaan/clean-architecture-solution-template</title>
-    <updated>2023-10-07T01:23:15Z</updated>
-    <id>tag:github.com,2023-10-07:/kavaan/clean-architecture-solution-template</id>
-    <link href="https://github.com/kavaan/clean-architecture-solution-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;You don&#39;t always need to start over; consider utilizing the existing infrastructure!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mouredev/mouredev</title>
+    <updated>2023-10-08T01:26:30Z</updated>
+    <id>tag:github.com,2023-10-08:/mouredev/mouredev</id>
+    <link href="https://github.com/mouredev/mouredev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hola 👋 Soy Brais Moure 💻 Freelance full-stack dev 📲 iOS &amp; Android engineer ♥️ Swift &amp; Kotlin 📖 YouTube, Twitch, Discord &amp; Elgato partner 👥 Microsoft MVP &amp; GDG 👾 Geek &amp; Friki&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>s2underground/GhostNet</title>
-    <updated>2023-10-07T01:23:15Z</updated>
-    <id>tag:github.com,2023-10-07:/s2underground/GhostNet</id>
-    <link href="https://github.com/s2underground/GhostNet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GhostNet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nerdyrodent/AVeryComfyNerd</title>
-    <updated>2023-10-07T01:23:15Z</updated>
-    <id>tag:github.com,2023-10-07:/nerdyrodent/AVeryComfyNerd</id>
-    <link href="https://github.com/nerdyrodent/AVeryComfyNerd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ComfyUI related stuff and things&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LineageOS/android</title>
+    <updated>2023-10-08T01:26:30Z</updated>
+    <id>tag:github.com,2023-10-08:/LineageOS/android</id>
+    <link href="https://github.com/LineageOS/android" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

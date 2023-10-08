@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-08T02:04:28Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dimapilis/dotvim</title>
+    <updated>2023-10-08T02:04:28Z</updated>
+    <id>tag:github.com,2023-10-08:/dimapilis/dotvim</id>
+    <link href="https://github.com/dimapilis/dotvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim configuration.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tpope/vim-abolish</title>
+    <updated>2023-10-08T02:04:28Z</updated>
+    <id>tag:github.com,2023-10-08:/tpope/vim-abolish</id>
+    <link href="https://github.com/tpope/vim-abolish" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;abolish.vim: Work with several variants of a word at once&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>scheakur/vim-demitas</title>
+    <updated>2023-10-08T02:04:28Z</updated>
+    <id>tag:github.com,2023-10-08:/scheakur/vim-demitas</id>
+    <link href="https://github.com/scheakur/vim-demitas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Post to tumblr.com from Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

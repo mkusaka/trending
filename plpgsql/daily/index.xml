@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:36:35Z</updated>
+  <updated>2023-10-08T01:39:06Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>darshilparmar/data-warehouse-snowflake-for-data-engineering</title>
-    <updated>2023-10-07T01:36:35Z</updated>
-    <id>tag:github.com,2023-10-07:/darshilparmar/data-warehouse-snowflake-for-data-engineering</id>
-    <link href="https://github.com/darshilparmar/data-warehouse-snowflake-for-data-engineering" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;data-warehouse-snowflake-for-data-engineering&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Sapiens-Solutions/ProPlum</title>
-    <updated>2023-10-07T01:36:35Z</updated>
-    <id>tag:github.com,2023-10-07:/Sapiens-Solutions/ProPlum</id>
-    <link href="https://github.com/Sapiens-Solutions/ProPlum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

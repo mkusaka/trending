@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:41:12Z</updated>
+  <updated>2023-10-08T01:43:38Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mjbella/My_OLD_Resume</title>
-    <updated>2023-10-07T01:41:12Z</updated>
-    <id>tag:github.com,2023-10-07:/mjbella/My_OLD_Resume</id>
-    <link href="https://github.com/mjbella/My_OLD_Resume" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My name is Michael, and I am an electrical engineer with a strong interest in embedded work. I have experience in analog circuit design, low power embedded systems (using C), RF, and many other areas. I made this repo to store the LaTeX source of my resume so that I can get editing help/advice from friends and family.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;My_Resume&lt;/h1&gt; &#xA;&lt;p&gt;I am using this repo to store the LaTeX source of my resume. I started with one of the wonderful templates from &lt;a href=&#34;http://www.latextemplates.com/&#34;&gt;http://www.latextemplates.com/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;I have been trying out different structures for the lists used in the Work Experience sections. My main goal is to keep each idea clear on the page while maximizing the number of details I can fit on the page.&lt;/p&gt;</summary>
+    <title>leomao/tex-template</title>
+    <updated>2023-10-08T01:43:38Z</updated>
+    <id>tag:github.com,2023-10-08:/leomao/tex-template</id>
+    <link href="https://github.com/leomao/tex-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My LaTeX template files&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;tex-template&lt;/h1&gt; &#xA;&lt;p&gt;My LaTeX template files&lt;/p&gt; &#xA;&lt;p&gt;recommened Chinese Font: &lt;a href=&#34;https://www.google.com/get/noto/help/cjk/&#34;&gt;https://www.google.com/get/noto/help/cjk/&lt;/a&gt; &lt;a href=&#34;https://github.com/adobe-fonts/source-han-sans&#34;&gt;https://github.com/adobe-fonts/source-han-sans&lt;/a&gt; &lt;a href=&#34;https://github.com/adobe-fonts/source-han-serif&#34;&gt;https://github.com/adobe-fonts/source-han-serif&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Slides template&lt;/h2&gt; &#xA;&lt;p&gt;Use beamer theme: &lt;a href=&#34;https://github.com/matze/mtheme&#34;&gt;https://github.com/matze/mtheme&lt;/a&gt; (will be included in TexLive 2016)&lt;/p&gt; &#xA;&lt;p&gt;Using fira fonts is recommended.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>dxiai/daten-organisation</title>
-    <updated>2023-10-07T01:41:12Z</updated>
-    <id>tag:github.com,2023-10-07:/dxiai/daten-organisation</id>
-    <link href="https://github.com/dxiai/daten-organisation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Prinzipien der Datenorganisation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;daten-organisation&lt;/h1&gt; &#xA;&lt;p&gt;Prinzipien der Datenorganisation&lt;/p&gt;</summary>
+    <title>herbermqh/latexylecturenote</title>
+    <updated>2023-10-08T01:43:38Z</updated>
+    <id>tag:github.com,2023-10-08:/herbermqh/latexylecturenote</id>
+    <link href="https://github.com/herbermqh/latexylecturenote" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;latexylecturenote&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/hebermqh&#34;&gt;https://www.facebook.com/hebermqh&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://hebermq.kpages.online/info&#34;&gt;https://hebermq.kpages.online/info&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Link para comprar el libro: &lt;a href=&#34;https://pay.hotmart.com/L77490587I&#34;&gt;https://pay.hotmart.com/L77490587I&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>gadepall/gate-probability</title>
+    <updated>2023-10-08T01:43:38Z</updated>
+    <id>tag:github.com,2023-10-08:/gadepall/gate-probability</id>
+    <link href="https://github.com/gadepall/gate-probability" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solved problems from GATE exam&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;digital-communication&lt;/h1&gt; &#xA;&lt;p&gt;A simulation based approach&lt;/p&gt;</summary>
   </entry>
 </feed>

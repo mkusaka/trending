@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:26:01Z</updated>
+  <updated>2023-10-08T01:29:10Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fs/services-clojure</title>
-    <updated>2023-10-07T01:26:01Z</updated>
-    <id>tag:github.com,2023-10-07:/fs/services-clojure</id>
-    <link href="https://github.com/fs/services-clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CmdrDats/fortalot</title>
+    <updated>2023-10-08T01:29:10Z</updated>
+    <id>tag:github.com,2023-10-08:/CmdrDats/fortalot</id>
+    <link href="https://github.com/CmdrDats/fortalot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Multiplayer dwarf-fortress + pitboss (civ4) experience.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eerohele/pp</title>
+    <updated>2023-10-08T01:29:10Z</updated>
+    <id>tag:github.com,2023-10-08:/eerohele/pp</id>
+    <link href="https://github.com/eerohele/pp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pretty-print Clojure data structures, fast.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:27:18Z</updated>
+  <updated>2023-10-08T01:30:26Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yasminjeelani/newcicd</title>
-    <updated>2023-10-07T01:27:18Z</updated>
-    <id>tag:github.com,2023-10-07:/yasminjeelani/newcicd</id>
-    <link href="https://github.com/yasminjeelani/newcicd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CI-CD-Jenkins&lt;/h1&gt;</summary>
-  </entry>
-  <entry>
-    <title>heroku/go-getting-started</title>
-    <updated>2023-10-07T01:27:18Z</updated>
-    <id>tag:github.com,2023-10-07:/heroku/go-getting-started</id>
-    <link href="https://github.com/heroku/go-getting-started" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Getting Started with Go on Heroku https://devcenter.heroku.com/articles/getting-started-with-go&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;go-getting-started&lt;/h1&gt; &#xA;&lt;p&gt;A barebones Go app, which can easily be deployed to Heroku.&lt;/p&gt; &#xA;&lt;p&gt;This application supports the &lt;a href=&#34;https://devcenter.heroku.com/articles/getting-started-with-go&#34;&gt;Getting Started with Go on Heroku&lt;/a&gt; article - check it out.&lt;/p&gt; &#xA;&lt;h2&gt;Running Locally&lt;/h2&gt; &#xA;&lt;p&gt;Make sure you have &lt;a href=&#34;http://golang.org/doc/install&#34;&gt;Go&lt;/a&gt; version 1.17 or newer and the &lt;a href=&#34;https://devcenter.heroku.com/articles/heroku-cli&#34;&gt;Heroku CLI&lt;/a&gt; installed.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ git clone https://github.com/heroku/go-getting-started.git&#xA;$ cd go-getting-started&#xA;$ go build -o bin/go-getting-started -v . # or `go build -o bin/go-getting-started.exe -v .` in git bash&#xA;github.com/mattn/go-colorable&#xA;gopkg.in/bluesuncorp/validator.v5&#xA;golang.org/x/net/context&#xA;github.com/heroku/x/hmetrics&#xA;github.com/gin-gonic/gin/render&#xA;github.com/manucorporat/sse&#xA;github.com/heroku/x/hmetrics/onload&#xA;github.com/gin-gonic/gin/binding&#xA;github.com/gin-gonic/gin&#xA;github.com/heroku/go-getting-started&#xA;$ heroku local&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Your app should now be running on &lt;a href=&#34;http://localhost:5000/&#34;&gt;localhost:5000&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Deploying to Heroku&lt;/h2&gt; &#xA;&lt;p&gt;Using resources for this example app counts towards your usage. &lt;a href=&#34;https://devcenter.heroku.com/articles/heroku-cli-commands#heroku-apps-destroy&#34;&gt;Delete your app&lt;/a&gt; and &lt;a href=&#34;https://devcenter.heroku.com/articles/heroku-postgresql#removing-the-add-on&#34;&gt;database&lt;/a&gt; as soon as you are done experimenting to control costs.&lt;/p&gt; &#xA;&lt;p&gt;By default, apps use Eco dynos if you are subscribed to Eco. Otherwise, it defaults to Basic dynos. The Eco dynos plan is shared across all Eco dynos in your account and is recommended if you plan on deploying many small apps to Heroku. Learn more about our low-cost plans &lt;a href=&#34;https://blog.heroku.com/new-low-cost-plans&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Eligible students can apply for platform credits through our new &lt;a href=&#34;https://blog.heroku.com/github-student-developer-program&#34;&gt;Heroku for GitHub Students program&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ heroku create&#xA;$ git push heroku main&#xA;$ heroku open&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;or&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://heroku.com/deploy&#34;&gt;&lt;img src=&#34;https://www.herokucdn.com/deploy/button.png&#34; alt=&#34;Deploy&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;For more information about using Go on Heroku, see these Dev Center articles:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://devcenter.heroku.com/categories/go&#34;&gt;Go on Heroku&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

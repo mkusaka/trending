@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Isabelle Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-08T01:53:44Z</updated>
+  <subtitle>Weekly Trending of Isabelle in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>input-output-hk/marlowe</title>
+    <updated>2023-10-08T01:53:44Z</updated>
+    <id>tag:github.com,2023-10-08:/input-output-hk/marlowe</id>
+    <link href="https://github.com/input-output-hk/marlowe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Prototype implementation of domain-specific language for the design of smart-contracts over cryptocurrencies&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

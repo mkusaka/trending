@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:28:48Z</updated>
+  <updated>2023-10-08T01:31:57Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>coecms/auscom</title>
-    <updated>2023-10-07T01:28:48Z</updated>
-    <id>tag:github.com,2023-10-07:/coecms/auscom</id>
-    <link href="https://github.com/coecms/auscom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ACCESS-O (aka AusCOM) is the ocean-ice implementation of the ACCESS climate model&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

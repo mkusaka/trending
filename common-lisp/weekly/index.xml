@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-08T01:48:33Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kaiserprogrammer/lights-out</title>
+    <updated>2023-10-08T01:48:33Z</updated>
+    <id>tag:github.com,2023-10-08:/kaiserprogrammer/lights-out</id>
+    <link href="https://github.com/kaiserprogrammer/lights-out" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Lights Out Game now in Common Lisp&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Classic Lights Out Game&lt;/h1&gt; &#xA;&lt;h2&gt;Play in REPL&lt;/h2&gt; &#xA;&lt;p&gt;Compile the corresponding file and start the game with the corresponding function. There is a SDL, QT and Terminal version.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>TreeRex/cl-marc</title>
+    <updated>2023-10-08T01:48:33Z</updated>
+    <id>tag:github.com,2023-10-08:/TreeRex/cl-marc</id>
+    <link href="https://github.com/TreeRex/cl-marc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for reading Z39.2 / MARC files&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Minimal support for reading MARC (ISO2709 / ANSI Z39.2) records.&lt;/p&gt; &#xA;&lt;p&gt;Support in progress for MARC-21, UNIMARC, CMARC, CNMARC, and KORMARC.&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:33:53Z</updated>
+  <updated>2023-10-08T01:36:22Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>erwinhenraat/TowerDefenseTemplate</title>
-    <updated>2023-10-07T01:33:53Z</updated>
-    <id>tag:github.com,2023-10-07:/erwinhenraat/TowerDefenseTemplate</id>
-    <link href="https://github.com/erwinhenraat/TowerDefenseTemplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dit is een template wat door jullie te gebruiken is voor het juist inleveren van alle producten voor de Towerdefense beroepsopdracht&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

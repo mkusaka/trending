@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:31:28Z</updated>
+  <updated>2023-10-08T01:34:16Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SourceFusionHub/program</title>
-    <updated>2023-10-07T01:31:28Z</updated>
-    <id>tag:github.com,2023-10-07:/SourceFusionHub/program</id>
-    <link href="https://github.com/SourceFusionHub/program" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;By CloudHustlers&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/1153622026288910428/1153626032692269137/2000x700headlineimg.png&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;🚨 &lt;a href=&#34;https://www.youtube.com/@cloudhustlers&#34;&gt;PLEASE SUBSCRIBE OUR CHANNEL CLOUDHUSTLER&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;🚨&lt;a href=&#34;https://chat.whatsapp.com/FilXyp4eva599SND76fNUP&#34;&gt;JOIN OUR WHATSAPP COMMUNITY&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h3&gt;IF YOU ARE FACING ANY ISSUE WATCH THIS &lt;a href=&#34;https://www.youtube.com/watch?v=h8HDIzJQpGQ&#34;&gt;YOUTUBE VIDEO&lt;/a&gt;&lt;/h3&gt;</summary>
-  </entry>
 </feed>

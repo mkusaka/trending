@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-08T01:56:23Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>92bondstreet/javascript-empire</title>
+    <updated>2023-10-08T01:56:23Z</updated>
+    <id>tag:github.com,2023-10-08:/92bondstreet/javascript-empire</id>
+    <link href="https://github.com/92bondstreet/javascript-empire" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🛣️ 2023 ESILV courses on Web Application Architecture(s)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>imandra-ai/imandra-stdlib</title>
+    <updated>2023-10-08T01:56:23Z</updated>
+    <id>tag:github.com,2023-10-08:/imandra-ai/imandra-stdlib</id>
+    <link href="https://github.com/imandra-ai/imandra-stdlib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Standard library for [Imandra](https://imandra.ai)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tinygo-org/stm32-svd</title>
+    <updated>2023-10-08T01:56:23Z</updated>
+    <id>tag:github.com,2023-10-08:/tinygo-org/stm32-svd</id>
+    <link href="https://github.com/tinygo-org/stm32-svd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

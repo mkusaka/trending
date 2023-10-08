@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:42:20Z</updated>
+  <updated>2023-10-08T01:44:48Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pratik227/quasar-qgrid</title>
-    <updated>2023-10-07T01:42:20Z</updated>
-    <id>tag:github.com,2023-10-07:/pratik227/quasar-qgrid</id>
-    <link href="https://github.com/pratik227/quasar-qgrid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;QGrid is a Quasar App Extension. It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

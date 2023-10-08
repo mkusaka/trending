@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:34:34Z</updated>
+  <updated>2023-10-08T01:37:06Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mend/renovate-ce-ee</title>
+    <updated>2023-10-08T01:37:06Z</updated>
+    <id>tag:github.com,2023-10-08:/mend/renovate-ce-ee</id>
+    <link href="https://github.com/mend/renovate-ce-ee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mend Renovate On-Premises Documentation &amp; Examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

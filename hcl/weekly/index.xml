@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-08T01:52:55Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>moabukar/tech-vault</title>
+    <updated>2023-10-08T01:52:55Z</updated>
+    <id>tag:github.com,2023-10-08:/moabukar/tech-vault</id>
+    <link href="https://github.com/moabukar/tech-vault" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of many interview questions in Tech!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chainguard-images/images</title>
+    <updated>2023-10-08T01:52:55Z</updated>
+    <id>tag:github.com,2023-10-08:/chainguard-images/images</id>
+    <link href="https://github.com/chainguard-images/images" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public Chainguard Images&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

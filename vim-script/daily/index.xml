@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:42:09Z</updated>
+  <updated>2023-10-08T01:44:37Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tetsuwo/dotfiles-lightweight</title>
-    <updated>2023-10-07T01:42:09Z</updated>
-    <id>tag:github.com,2023-10-07:/tetsuwo/dotfiles-lightweight</id>
-    <link href="https://github.com/tetsuwo/dotfiles-lightweight" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lightweight version&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>maxparker/vimconfig</title>
+    <updated>2023-10-08T01:44:37Z</updated>
+    <id>tag:github.com,2023-10-08:/maxparker/vimconfig</id>
+    <link href="https://github.com/maxparker/vimconfig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sillyotter/vimfiles</title>
+    <updated>2023-10-08T01:44:37Z</updated>
+    <id>tag:github.com,2023-10-08:/sillyotter/vimfiles</id>
+    <link href="https://github.com/sillyotter/vimfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vimfiles&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:35:28Z</updated>
+  <updated>2023-10-08T01:38:01Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tsani/comp-302-review</title>
-    <updated>2023-10-07T01:35:28Z</updated>
-    <id>tag:github.com,2023-10-07:/tsani/comp-302-review</id>
-    <link href="https://github.com/tsani/comp-302-review" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Review problems for COMP 302&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>robur-coop/httpcats</title>
+    <updated>2023-10-08T01:38:01Z</updated>
+    <id>tag:github.com,2023-10-08:/robur-coop/httpcats</id>
+    <link href="https://github.com/robur-coop/httpcats" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>geocaml/ocaml-rtree</title>
+    <updated>2023-10-08T01:38:01Z</updated>
+    <id>tag:github.com,2023-10-08:/geocaml/ocaml-rtree</id>
+    <link href="https://github.com/geocaml/ocaml-rtree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pure OCaml implementation of R-Trees&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

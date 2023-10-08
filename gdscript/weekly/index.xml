@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-08T01:51:27Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KenneyNL/Starter-Kit-City-Builder</title>
+    <updated>2023-10-08T01:51:27Z</updated>
+    <id>tag:github.com,2023-10-08:/KenneyNL/Starter-Kit-City-Builder</id>
+    <link href="https://github.com/KenneyNL/Starter-Kit-City-Builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nathanhoad/godot_input_helper</title>
+    <updated>2023-10-08T01:51:27Z</updated>
+    <id>tag:github.com,2023-10-08:/nathanhoad/godot_input_helper</id>
+    <link href="https://github.com/nathanhoad/godot_input_helper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple input helper for the Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nathanhoad/godot_sound_manager</title>
+    <updated>2023-10-08T01:51:27Z</updated>
+    <id>tag:github.com,2023-10-08:/nathanhoad/godot_sound_manager</id>
+    <link href="https://github.com/nathanhoad/godot_sound_manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple music and sound effect player for the Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

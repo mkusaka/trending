@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-07T01:40:05Z</updated>
+  <updated>2023-10-08T01:42:29Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NazaWEb/ultimate-solidity-course-for-complete-beginners</title>
-    <updated>2023-10-07T01:40:05Z</updated>
-    <id>tag:github.com,2023-10-07:/NazaWEb/ultimate-solidity-course-for-complete-beginners</id>
-    <link href="https://github.com/NazaWEb/ultimate-solidity-course-for-complete-beginners" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xfuturistic/zkUniswap</title>
+    <updated>2023-10-08T01:42:29Z</updated>
+    <id>tag:github.com,2023-10-08:/0xfuturistic/zkUniswap</id>
+    <link href="https://github.com/0xfuturistic/zkUniswap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A first-of-its-kind zkAMM 🪢&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
