@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-08T01:29:18Z</updated>
+  <updated>2023-10-09T01:26:36Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Shinmera/promptfont</title>
+    <updated>2023-10-09T01:26:36Z</updated>
+    <id>tag:github.com,2023-10-09:/Shinmera/promptfont</id>
+    <link href="https://github.com/Shinmera/promptfont" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A font with extra characters for button prompts in games&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;About PromptFont&lt;/h2&gt; &#xA;&lt;p&gt;This is a font designed for button prompts in games. It includes the base alphabet, as well as icons for modifier and control keys, and gamepad buttons.&lt;/p&gt; &#xA;&lt;p&gt;PromptFont is based on the Xolonium font by Severin Meyer.&lt;/p&gt; &#xA;&lt;h2&gt;Special Glyphs&lt;/h2&gt; &#xA;&lt;p&gt;Please see the included &lt;code&gt;glyphs.json&lt;/code&gt; file for all the relevant glyphs in the font.&lt;/p&gt; &#xA;&lt;h2&gt;Engine Specifics&lt;/h2&gt; &#xA;&lt;p&gt;For specifics on how to use this font in your engine of choice, please consult their documentation on importing custom fonts and custom glyph ranges, and how to write text with specific unicode codepoints.&lt;/p&gt; &#xA;&lt;p&gt;This repository is not the right place to get support for trouble with your engine, and we cannot help you.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing Glyphs&lt;/h2&gt; &#xA;&lt;p&gt;For a brief guide on what to watch out for if you&#39;d like to contribute to this font, please see the &lt;a href=&#34;https://raw.githubusercontent.com/Shinmera/promptfont/master/CONTRIBUTING.md&#34;&gt;CONTRIBUTING.md&lt;/a&gt; file.&lt;/p&gt; &#xA;&lt;h2&gt;Support&lt;/h2&gt; &#xA;&lt;p&gt;If you&#39;d like to support the continued development of PromptFont, please consider becoming a backer on Patreon:&lt;/p&gt; &#xA;&lt;a href=&#34;https://patreon.com/shinmera&#34;&gt; &lt;img alt=&#34;Patreon&#34; src=&#34;https://filebox.tymoon.eu//file/TWpjeU9RPT0=&#34;&gt; &lt;/a&gt;</summary>
+  </entry>
 </feed>

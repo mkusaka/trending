@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-08T01:35:02Z</updated>
+  <updated>2023-10-09T01:32:37Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaAI/StatisticalMeasures.jl</title>
-    <updated>2023-10-08T01:35:02Z</updated>
-    <id>tag:github.com,2023-10-08:/JuliaAI/StatisticalMeasures.jl</id>
-    <link href="https://github.com/JuliaAI/StatisticalMeasures.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Measures (metrics) for statistics and machine learning&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JaimeRZP/LimberJack.jl</title>
+    <updated>2023-10-09T01:32:37Z</updated>
+    <id>tag:github.com,2023-10-09:/JaimeRZP/LimberJack.jl</id>
+    <link href="https://github.com/JaimeRZP/LimberJack.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Auto-differentiable methods for Cosmology&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SciML/NonlinearSolve.jl</title>
-    <updated>2023-10-08T01:35:02Z</updated>
-    <id>tag:github.com,2023-10-08:/SciML/NonlinearSolve.jl</id>
-    <link href="https://github.com/SciML/NonlinearSolve.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High-performance and differentiation-enabled nonlinear solvers (Newton methods), bracketed rootfinding (bisection, Falsi), with sparsity and Newton-Krylov support.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gdalle/JuliaOptimizationDays2023</title>
-    <updated>2023-10-08T01:35:02Z</updated>
-    <id>tag:github.com,2023-10-08:/gdalle/JuliaOptimizationDays2023</id>
-    <link href="https://github.com/gdalle/JuliaOptimizationDays2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My talks for the Julia and Optimization Days 2023 in Paris&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tshort/WebAssemblyCompiler.jl</title>
+    <updated>2023-10-09T01:32:37Z</updated>
+    <id>tag:github.com,2023-10-09:/tshort/WebAssemblyCompiler.jl</id>
+    <link href="https://github.com/tshort/WebAssemblyCompiler.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create WebAssembly with Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

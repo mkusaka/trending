@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-08T01:35:36Z</updated>
+  <updated>2023-10-09T01:33:25Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lean-ja/tactic-cheetsheet</title>
-    <updated>2023-10-08T01:35:36Z</updated>
-    <id>tag:github.com,2023-10-08:/lean-ja/tactic-cheetsheet</id>
-    <link href="https://github.com/lean-ja/tactic-cheetsheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lean4 の逆引きタクティクリスト&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
