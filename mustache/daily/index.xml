@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-09T01:34:53Z</updated>
+  <updated>2023-10-10T01:35:07Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CartoDB/carto-selfhosted-helm</title>
-    <updated>2023-10-09T01:34:53Z</updated>
-    <id>tag:github.com,2023-10-09:/CartoDB/carto-selfhosted-helm</id>
-    <link href="https://github.com/CartoDB/carto-selfhosted-helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm charts for CARTO Self-Hosted&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

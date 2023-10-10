@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-09T01:39:30Z</updated>
+  <updated>2023-10-10T01:39:53Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>prayag17/JellySkin</title>
+    <updated>2023-10-10T01:39:53Z</updated>
+    <id>tag:github.com,2023-10-10:/prayag17/JellySkin</id>
+    <link href="https://github.com/prayag17/JellySkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web 🎞️, can be used by just one line.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-09T01:34:56Z</updated>
+  <updated>2023-10-10T01:35:09Z</updated>
   <subtitle>Daily Trending of NASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LineageOS/android_bootable_tianocore_edk2-nvidia-non-osi</title>
-    <updated>2023-10-09T01:34:56Z</updated>
-    <id>tag:github.com,2023-10-09:/LineageOS/android_bootable_tianocore_edk2-nvidia-non-osi</id>
-    <link href="https://github.com/LineageOS/android_bootable_tianocore_edk2-nvidia-non-osi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

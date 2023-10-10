@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-09T01:23:41Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-10-10T01:23:49Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>brcyrr/OSCP</title>
-    <updated>2023-10-09T01:23:41Z</updated>
-    <id>tag:github.com,2023-10-09:/brcyrr/OSCP</id>
-    <link href="https://github.com/brcyrr/OSCP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;#cheat sheet for OSCP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>github/how-engineering-communicates</title>
+    <updated>2023-10-10T01:23:49Z</updated>
+    <id>tag:github.com,2023-10-10:/github/how-engineering-communicates</id>
+    <link href="https://github.com/github/how-engineering-communicates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A community version of the &#34;common API&#34; for how the GitHub Engineering organization communicates&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xxxxxxxx666/WeChatDevTools</title>
-    <updated>2023-10-09T01:23:41Z</updated>
-    <id>tag:github.com,2023-10-09:/xxxxxxxx666/WeChatDevTools</id>
-    <link href="https://github.com/xxxxxxxx666/WeChatDevTools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;只需放置一个dll 简单方便的hook微信强制打开小程序 devtool&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>andyzoujm/representation-engineering</title>
-    <updated>2023-10-09T01:23:41Z</updated>
-    <id>tag:github.com,2023-10-09:/andyzoujm/representation-engineering</id>
-    <link href="https://github.com/andyzoujm/representation-engineering" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Representation Engineering: A Top-Down Approach to AI Transparency&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>grananqvist/Awesome-Quant-Machine-Learning-Trading</title>
+    <updated>2023-10-10T01:23:49Z</updated>
+    <id>tag:github.com,2023-10-10:/grananqvist/Awesome-Quant-Machine-Learning-Trading</id>
+    <link href="https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quant/Algorithm trading resources with an emphasis on Machine Learning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

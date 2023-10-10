@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-09T01:24:42Z</updated>
+  <updated>2023-10-10T01:24:45Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>markmoxon/nes-elite-beebasm</title>
-    <updated>2023-10-09T01:24:42Z</updated>
-    <id>tag:github.com,2023-10-09:/markmoxon/nes-elite-beebasm</id>
-    <link href="https://github.com/markmoxon/nes-elite-beebasm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fully documented and annotated source code for Elite on the Nintendo Entertainment System (NES)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>newridho/Halo-Dunia23</title>
-    <updated>2023-10-09T01:24:42Z</updated>
-    <id>tag:github.com,2023-10-09:/newridho/Halo-Dunia23</id>
-    <link href="https://github.com/newridho/Halo-Dunia23" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hello World in multiple languages | Hacktoberfest 2023 repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

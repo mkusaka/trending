@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-09T01:24:39Z</updated>
+  <updated>2023-10-10T01:24:47Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kevinzunigacuellar/astro-supabase</title>
-    <updated>2023-10-09T01:24:39Z</updated>
-    <id>tag:github.com,2023-10-09:/kevinzunigacuellar/astro-supabase</id>
-    <link href="https://github.com/kevinzunigacuellar/astro-supabase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Astro and Supabase auth starter template&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sugarcane-ai/sugarcane-ai.github.io</title>
-    <updated>2023-10-09T01:24:39Z</updated>
-    <id>tag:github.com,2023-10-09:/sugarcane-ai/sugarcane-ai.github.io</id>
-    <link href="https://github.com/sugarcane-ai/sugarcane-ai.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>deaaprizal/unofficial-trust</title>
+    <updated>2023-10-10T01:24:47Z</updated>
+    <id>tag:github.com,2023-10-10:/deaaprizal/unofficial-trust</id>
+    <link href="https://github.com/deaaprizal/unofficial-trust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;video: https://youtu.be/_pFe43G_jV4&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

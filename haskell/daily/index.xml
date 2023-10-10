@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-09T01:30:47Z</updated>
+  <updated>2023-10-10T01:30:44Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alphaHeavy/riemann-ceph</title>
-    <updated>2023-10-09T01:30:47Z</updated>
-    <id>tag:github.com,2023-10-09:/alphaHeavy/riemann-ceph</id>
-    <link href="https://github.com/alphaHeavy/riemann-ceph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Riemann client for Ceph&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href=&#34;http://riemann.io/&#34;&gt;Riemann&lt;/a&gt; &amp;lt;3 &lt;a href=&#34;http://ceph.com/&#34;&gt;Ceph&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;Have you ever tried to monitor your Ceph cluster? Have you ever tried it... with &lt;em&gt;Riemann&lt;/em&gt;?&lt;/p&gt; &#xA;&lt;p&gt;If your curious, go ahead and build it. We won&#39;t tell anyone. Running it is simple. Boot up a Riemann instance and run this from an account and machine with the &lt;code&gt;ceph&lt;/code&gt; client available:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;./ceph-riemann --delay 10&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This will run &lt;code&gt;ceph report&lt;/code&gt;, parse the results and ram them into Riemann with great speed. And it will do this every 10 seconds. Forever. Providing it&#39;s listening on &lt;code&gt;127.0.0.1:5555&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Is your glorious &lt;em&gt;Riemann&lt;/em&gt; instance running on another server or port? No problem. Toss in the optional &lt;code&gt;--server&lt;/code&gt; argument and behold: your metrics will flow to the whatever host you please.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;./ceph-riemann --delay 10 --server 74.125.239.18:5555&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;That&#39;s it. There are no other options, flags or any other bullsh*t. Enjoy.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-09T01:41:31Z</updated>
+  <updated>2023-10-10T01:42:05Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>web-auth/symfony-webauthn-demo</title>
+    <updated>2023-10-10T01:42:05Z</updated>
+    <id>tag:github.com,2023-10-10:/web-auth/symfony-webauthn-demo</id>
+    <link href="https://github.com/web-auth/symfony-webauthn-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

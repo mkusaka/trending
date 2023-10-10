@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-09T01:26:23Z</updated>
+  <updated>2023-10-10T01:26:33Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cesarokada/dojos</title>
-    <updated>2023-10-09T01:26:23Z</updated>
-    <id>tag:github.com,2023-10-09:/cesarokada/dojos</id>
-    <link href="https://github.com/cesarokada/dojos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OneKeePass/mobile</title>
-    <updated>2023-10-09T01:26:23Z</updated>
-    <id>tag:github.com,2023-10-09:/OneKeePass/mobile</id>
-    <link href="https://github.com/OneKeePass/mobile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A secure password manager for iOS and Android platforms&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

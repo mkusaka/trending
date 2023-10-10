@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-09T01:34:07Z</updated>
+  <updated>2023-10-10T01:34:23Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PixelExperience-Devices/device_qcom_common</title>
-    <updated>2023-10-09T01:34:07Z</updated>
-    <id>tag:github.com,2023-10-09:/PixelExperience-Devices/device_qcom_common</id>
-    <link href="https://github.com/PixelExperience-Devices/device_qcom_common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dependency of Nubia Mini 5G (TP1803), Xiaomi Mi A2 (jasmine_sprout), Xiaomi POCO X3 (surya), Xiaomi Redmi 10 / 10C / 10 Power (fog), Xiaomi Redmi Note 11 (spes)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>riscv/riscv-zabha</title>
-    <updated>2023-10-09T01:34:07Z</updated>
-    <id>tag:github.com,2023-10-09:/riscv/riscv-zabha</id>
-    <link href="https://github.com/riscv/riscv-zabha" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Zabha extension provides support for byte and halfword atomic memory operations.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

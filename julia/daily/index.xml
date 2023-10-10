@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-09T01:32:37Z</updated>
+  <updated>2023-10-10T01:32:44Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JaimeRZP/LimberJack.jl</title>
-    <updated>2023-10-09T01:32:37Z</updated>
-    <id>tag:github.com,2023-10-09:/JaimeRZP/LimberJack.jl</id>
-    <link href="https://github.com/JaimeRZP/LimberJack.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Auto-differentiable methods for Cosmology&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/StructuralIdentifiability.jl</title>
+    <updated>2023-10-10T01:32:44Z</updated>
+    <id>tag:github.com,2023-10-10:/SciML/StructuralIdentifiability.jl</id>
+    <link href="https://github.com/SciML/StructuralIdentifiability.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast and automatic structural identifiability software for ODE systems&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tshort/WebAssemblyCompiler.jl</title>
-    <updated>2023-10-09T01:32:37Z</updated>
-    <id>tag:github.com,2023-10-09:/tshort/WebAssemblyCompiler.jl</id>
-    <link href="https://github.com/tshort/WebAssemblyCompiler.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create WebAssembly with Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>m-dadej/MarSwitching.jl</title>
+    <updated>2023-10-10T01:32:44Z</updated>
+    <id>tag:github.com,2023-10-10:/m-dadej/MarSwitching.jl</id>
+    <link href="https://github.com/m-dadej/MarSwitching.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MarSwitching.jl: Julia package for Markov Switching dynamic models&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

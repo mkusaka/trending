@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-09T01:36:25Z</updated>
+  <updated>2023-10-10T01:36:48Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>krajcovic/perltutorial</title>
-    <updated>2023-10-09T01:36:25Z</updated>
-    <id>tag:github.com,2023-10-09:/krajcovic/perltutorial</id>
-    <link href="https://github.com/krajcovic/perltutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;http://www.youtube.com/watch?v=-KMIglf83o0&amp;list=PLE7511681ABEA8635&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
