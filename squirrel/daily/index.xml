@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Squirrel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-10T01:40:42Z</updated>
+  <updated>2023-10-11T01:40:38Z</updated>
   <subtitle>Daily Trending of Squirrel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>matkoniecz/AIAI</title>
+    <updated>2023-10-11T01:40:38Z</updated>
+    <id>tag:github.com,2023-10-11:/matkoniecz/AIAI</id>
+    <link href="https://github.com/matkoniecz/AIAI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenTTD AI. Official topic at TTforums - http://www.tt-forums.net/viewtopic.php?f=65&amp;t=47298&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

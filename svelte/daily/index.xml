@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-10T01:41:03Z</updated>
+  <updated>2023-10-11T01:41:00Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WardPearce/Purplix.io</title>
-    <updated>2023-10-10T01:41:03Z</updated>
-    <id>tag:github.com,2023-10-10:/WardPearce/Purplix.io</id>
-    <link href="https://github.com/WardPearce/Purplix.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Purplix is an open-source collection of tools dedicated to user privacy and creating trust with your audience.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SOH69/mm_radio</title>
+    <updated>2023-10-11T01:41:00Z</updated>
+    <id>tag:github.com,2023-10-11:/SOH69/mm_radio</id>
+    <link href="https://github.com/SOH69/mm_radio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Radio Script for Fivem Server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Mitcheljager/svelte-tiny-slider</title>
-    <updated>2023-10-10T01:41:03Z</updated>
-    <id>tag:github.com,2023-10-10:/Mitcheljager/svelte-tiny-slider</id>
-    <link href="https://github.com/Mitcheljager/svelte-tiny-slider" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo and Docs: https://mitcheljager.github.io/svelte-tiny-slider/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yizhe-ang/matrix-explorable</title>
+    <updated>2023-10-11T01:41:00Z</updated>
+    <id>tag:github.com,2023-10-11:/yizhe-ang/matrix-explorable</id>
+    <link href="https://github.com/yizhe-ang/matrix-explorable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Explorable Explanation of Matrices and Linear Transformations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jamezmca/hughjass</title>
-    <updated>2023-10-10T01:41:03Z</updated>
-    <id>tag:github.com,2023-10-10:/jamezmca/hughjass</id>
-    <link href="https://github.com/jamezmca/hughjass" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SvelteKit &amp; TailwindCSS web portfolio&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wevisdemo/parliament-watch</title>
+    <updated>2023-10-11T01:41:00Z</updated>
+    <id>tag:github.com,2023-10-11:/wevisdemo/parliament-watch</id>
+    <link href="https://github.com/wevisdemo/parliament-watch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Citizens are watching 👀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

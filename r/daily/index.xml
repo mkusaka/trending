@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-10T01:38:17Z</updated>
+  <updated>2023-10-11T01:38:13Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fhdsl/AnVIL_Collection</title>
-    <updated>2023-10-10T01:38:17Z</updated>
-    <id>tag:github.com,2023-10-10:/fhdsl/AnVIL_Collection</id>
-    <link href="https://github.com/fhdsl/AnVIL_Collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 An auto-generating collection of all materials related to the AnVIL and GDSCN projects&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;📚 AnVIL &amp;amp; GDSCN Collection&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/fhdsl/AnVIL_Collection/actions/workflows/render-all.yml&#34;&gt;&lt;img src=&#34;https://github.com/fhdsl/AnVIL_Collection/actions/workflows/render-all.yml/badge.svg?sanitize=true&#34; alt=&#34;Render Collection&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This site was created from &lt;a href=&#34;https://github.com/jhudsl/AnVIL_bookdown_style&#34;&gt;the AnVIL Template&lt;/a&gt;, which is based on &lt;a href=&#34;https://github.com/jhudsl/OTTR_Template&#34;&gt;the OTTR Template&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;What is the AnVIL Collection?&lt;/h3&gt; &#xA;&lt;p&gt;AnVIL Collection uses the Github API to gather jhudsl and fhdsl organization repositories that we have worked on. It renders the table in a markdown-readable format on the &lt;a href=&#34;https://hutchdatascience.org/DaSL_Collection&#34;&gt;website&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;What repositories are included?&lt;/h3&gt; &#xA;&lt;p&gt;The Collection only includes repositories that meet the following criteria:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Are public&lt;/li&gt; &#xA; &lt;li&gt;Have a homepage listed&lt;/li&gt; &#xA; &lt;li&gt;Have a description listed&lt;/li&gt; &#xA; &lt;li&gt;Have &#34;anvil&#34; and/or &#34;gdscn&#34; as tags&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;How often is the Collection updated?&lt;/h3&gt; &#xA;&lt;p&gt;The collection is rendered nightly at 3am EST.&lt;/p&gt; &#xA;&lt;h3&gt;How can I add my new course/content to the AnVIL Collection?&lt;/h3&gt; &#xA;&lt;p&gt;Your repository must be created under the jhudsl or fhdsl organizations and meet the above criteria. For more information see the &lt;a href=&#34;https://hutchdatascience.org/AnVIL_Collection/contribute.html&#34;&gt;Contribute&lt;/a&gt; section.&lt;/p&gt; &#xA;&lt;p&gt;For repositories under other organizations, you can fork the repository into the jhudsl or fhdsl organizations. &lt;a href=&#34;https://github.com/fhdsl/Data-Wrangling&#34;&gt;Example&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;I want to use the raw Collection data!&lt;/h3&gt; &#xA;&lt;p&gt;You can use the following link:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/fhdsl/AnVIL_Collection/main/resources/collection.tsv&#34;&gt;https://raw.githubusercontent.com/fhdsl/AnVIL_Collection/main/resources/collection.tsv&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Encountering problems?&lt;/h3&gt; &#xA;&lt;p&gt;If you are encountering any problems with this course, please file a GitHub issue.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34;&gt;&lt;/a&gt;&lt;br&gt;All materials in this course are licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt; unless noted otherwise.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>GaelleMG/starflock_firexaq</title>
-    <updated>2023-10-10T01:38:17Z</updated>
-    <id>tag:github.com,2023-10-10:/GaelleMG/starflock_firexaq</id>
-    <link href="https://github.com/GaelleMG/starflock_firexaq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2022 NASA International Space Apps Challenge&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;starflock_firexaq&lt;/h1&gt; &#xA;&lt;p&gt;2022 NASA International Space Apps Challenge&lt;/p&gt;</summary>
-  </entry>
 </feed>

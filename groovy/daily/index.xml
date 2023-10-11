@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-10T01:30:34Z</updated>
+  <updated>2023-10-11T01:30:37Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>geb/geb-seconf-2012-slides</title>
-    <updated>2023-10-10T01:30:34Z</updated>
-    <id>tag:github.com,2023-10-10:/geb/geb-seconf-2012-slides</id>
-    <link href="https://github.com/geb/geb-seconf-2012-slides" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>d3scomp/NPRG014</title>
-    <updated>2023-10-10T01:30:34Z</updated>
-    <id>tag:github.com,2023-10-10:/d3scomp/NPRG014</id>
-    <link href="https://github.com/d3scomp/NPRG014" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Supplementary materials for the course of &#34;Concepts of Modern Programming Languages&#34; (NPRG014) taught at Charles University, Prague, Czech Republic.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

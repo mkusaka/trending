@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-10T01:26:36Z</updated>
+  <updated>2023-10-11T01:26:11Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sush2023/URC</title>
-    <updated>2023-10-10T01:26:36Z</updated>
-    <id>tag:github.com,2023-10-10:/sush2023/URC</id>
-    <link href="https://github.com/sush2023/URC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Software for URC Rover&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ISC-Project-Phoenix/obj_detector</title>
+    <updated>2023-10-11T01:26:11Z</updated>
+    <id>tag:github.com,2023-10-11:/ISC-Project-Phoenix/obj_detector</id>
+    <link href="https://github.com/ISC-Project-Phoenix/obj_detector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project Pheonix Object detector node&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ISC-Project-Phoenix/obj_tracker</title>
+    <updated>2023-10-11T01:26:11Z</updated>
+    <id>tag:github.com,2023-10-11:/ISC-Project-Phoenix/obj_tracker</id>
+    <link href="https://github.com/ISC-Project-Phoenix/obj_tracker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project Phoenix Object Tracking Node&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

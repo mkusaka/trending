@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-10T01:23:49Z</updated>
+  <updated>2023-10-11T01:23:29Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>github/how-engineering-communicates</title>
-    <updated>2023-10-10T01:23:49Z</updated>
-    <id>tag:github.com,2023-10-10:/github/how-engineering-communicates</id>
-    <link href="https://github.com/github/how-engineering-communicates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A community version of the &#34;common API&#34; for how the GitHub Engineering organization communicates&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jackaduma/awesome_LLMs_interview_notes</title>
+    <updated>2023-10-11T01:23:29Z</updated>
+    <id>tag:github.com,2023-10-11:/jackaduma/awesome_LLMs_interview_notes</id>
+    <link href="https://github.com/jackaduma/awesome_LLMs_interview_notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LLMs interview notes and answers:该仓库主要记录大模型（LLMs）算法工程师相关的面试题和参考答案&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>grananqvist/Awesome-Quant-Machine-Learning-Trading</title>
-    <updated>2023-10-10T01:23:49Z</updated>
-    <id>tag:github.com,2023-10-10:/grananqvist/Awesome-Quant-Machine-Learning-Trading</id>
-    <link href="https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Quant/Algorithm trading resources with an emphasis on Machine Learning&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CyberSecurityUP/Guide-CEH-Practical-Master</title>
+    <updated>2023-10-11T01:23:29Z</updated>
+    <id>tag:github.com,2023-10-11:/CyberSecurityUP/Guide-CEH-Practical-Master</id>
+    <link href="https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chao325/MaoTai_GUIT</title>
+    <updated>2023-10-11T01:23:29Z</updated>
+    <id>tag:github.com,2023-10-11:/chao325/MaoTai_GUIT</id>
+    <link href="https://github.com/chao325/MaoTai_GUIT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JD京东抢购、京东抢茅台Windows端、开箱即用无需配置环境。开发在即（开源协议采用Apache License）抢茅台外挂，茅台脚本&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

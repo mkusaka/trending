@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-10T01:29:46Z</updated>
+  <updated>2023-10-11T01:29:45Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>raffomania/spooky-shady-skeletons</title>
-    <updated>2023-10-10T01:29:46Z</updated>
-    <id>tag:github.com,2023-10-10:/raffomania/spooky-shady-skeletons</id>
-    <link href="https://github.com/raffomania/spooky-shady-skeletons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>doofmars/ssp-online</title>
+    <updated>2023-10-11T01:29:45Z</updated>
+    <id>tag:github.com,2023-10-11:/doofmars/ssp-online</id>
+    <link href="https://github.com/doofmars/ssp-online" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple rps-online clone in godot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dandeliondino/terrain-autotiler</title>
+    <updated>2023-10-11T01:29:45Z</updated>
+    <id>tag:github.com,2023-10-11:/dandeliondino/terrain-autotiler</id>
+    <link href="https://github.com/dandeliondino/terrain-autotiler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An advanced terrain tile matching algorithm for Godot 4.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

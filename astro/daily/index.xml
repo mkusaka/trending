@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-10T01:24:47Z</updated>
+  <updated>2023-10-11T01:24:30Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>deaaprizal/unofficial-trust</title>
-    <updated>2023-10-10T01:24:47Z</updated>
-    <id>tag:github.com,2023-10-10:/deaaprizal/unofficial-trust</id>
-    <link href="https://github.com/deaaprizal/unofficial-trust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;video: https://youtu.be/_pFe43G_jV4&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Playform/AstroStarterTemplate</title>
+    <updated>2023-10-11T01:24:30Z</updated>
+    <id>tag:github.com,2023-10-11:/Playform/AstroStarterTemplate</id>
+    <link href="https://github.com/Playform/AstroStarterTemplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📄 Starter template for AstroJS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
