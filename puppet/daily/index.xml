@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-11T01:37:37Z</updated>
+  <updated>2023-10-12T01:35:33Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>muresan/learning-puppet</title>
-    <updated>2023-10-11T01:37:37Z</updated>
-    <id>tag:github.com,2023-10-11:/muresan/learning-puppet</id>
-    <link href="https://github.com/muresan/learning-puppet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;learning puppet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jfryman/puppet-puppet</title>
-    <updated>2023-10-11T01:37:37Z</updated>
-    <id>tag:github.com,2023-10-11:/jfryman/puppet-puppet</id>
-    <link href="https://github.com/jfryman/puppet-puppet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module to manage Puppet (meta!)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>icebourg/puppet-users</title>
-    <updated>2023-10-11T01:37:37Z</updated>
-    <id>tag:github.com,2023-10-11:/icebourg/puppet-users</id>
-    <link href="https://github.com/icebourg/puppet-users" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A puppet repo for distributed user management.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

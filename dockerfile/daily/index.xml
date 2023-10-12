@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-11T01:27:48Z</updated>
+  <updated>2023-10-12T01:26:21Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>smyliy/choreo-ws</title>
-    <updated>2023-10-11T01:27:48Z</updated>
-    <id>tag:github.com,2023-10-11:/smyliy/choreo-ws</id>
-    <link href="https://github.com/smyliy/choreo-ws" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;2023/10/11 00:40:57&lt;/p&gt;</summary>
-  </entry>
 </feed>

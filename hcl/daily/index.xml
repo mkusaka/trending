@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-11T01:31:08Z</updated>
+  <updated>2023-10-12T01:29:07Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lacework/terraform-aws-agentless-scanning</title>
-    <updated>2023-10-11T01:31:08Z</updated>
-    <id>tag:github.com,2023-10-11:/lacework/terraform-aws-agentless-scanning</id>
-    <link href="https://github.com/lacework/terraform-aws-agentless-scanning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module for configuring an integration with Lacework and AWS for agentless scanning&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nsbno/terraform-aws-alarm-setup</title>
-    <updated>2023-10-11T01:31:08Z</updated>
-    <id>tag:github.com,2023-10-11:/nsbno/terraform-aws-alarm-setup</id>
-    <link href="https://github.com/nsbno/terraform-aws-alarm-setup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Setup your alarms to redirect to the right places&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

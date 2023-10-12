@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-11T01:41:00Z</updated>
+  <updated>2023-10-12T01:38:52Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SOH69/mm_radio</title>
-    <updated>2023-10-11T01:41:00Z</updated>
-    <id>tag:github.com,2023-10-11:/SOH69/mm_radio</id>
-    <link href="https://github.com/SOH69/mm_radio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Radio Script for Fivem Server&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jill64/svelte-inline-modal</title>
+    <updated>2023-10-12T01:38:52Z</updated>
+    <id>tag:github.com,2023-10-12:/jill64/svelte-inline-modal</id>
+    <link href="https://github.com/jill64/svelte-inline-modal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple modal component that can be defined on the fly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yizhe-ang/matrix-explorable</title>
-    <updated>2023-10-11T01:41:00Z</updated>
-    <id>tag:github.com,2023-10-11:/yizhe-ang/matrix-explorable</id>
-    <link href="https://github.com/yizhe-ang/matrix-explorable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Explorable Explanation of Matrices and Linear Transformations&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wevisdemo/parliament-watch</title>
-    <updated>2023-10-11T01:41:00Z</updated>
-    <id>tag:github.com,2023-10-11:/wevisdemo/parliament-watch</id>
-    <link href="https://github.com/wevisdemo/parliament-watch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Citizens are watching 👀&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>muhammad-zakir/muhammad-zakir.github.io</title>
+    <updated>2023-10-12T01:38:52Z</updated>
+    <id>tag:github.com,2023-10-12:/muhammad-zakir/muhammad-zakir.github.io</id>
+    <link href="https://github.com/muhammad-zakir/muhammad-zakir.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal site&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

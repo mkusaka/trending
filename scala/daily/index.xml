@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-11T01:39:33Z</updated>
+  <updated>2023-10-12T01:37:33Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jcdelmas/regular-crossword-resolver</title>
-    <updated>2023-10-11T01:39:33Z</updated>
-    <id>tag:github.com,2023-10-11:/jcdelmas/regular-crossword-resolver</id>
-    <link href="https://github.com/jcdelmas/regular-crossword-resolver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Regular crossword resolver&lt;/h1&gt; &#xA;&lt;p&gt;Resolver for the following regular crossword: &lt;a href=&#34;http://www.mit.edu/~puzzle/2013/coinheist.com/rubik/a_regular_crossword/grid.pdf&#34;&gt;http://www.mit.edu/~puzzle/2013/coinheist.com/rubik/a_regular_crossword/grid.pdf&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Install&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone git@github.com:jcdelmas/regular-crossword-resolver.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Run&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;sbt run&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>guizmaii/zio-http-htmx</title>
+    <updated>2023-10-12T01:37:33Z</updated>
+    <id>tag:github.com,2023-10-12:/guizmaii/zio-http-htmx</id>
+    <link href="https://github.com/guizmaii/zio-http-htmx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;POC zio-http + htmx&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;zio-http-htmx&lt;/h1&gt; &#xA;&lt;p&gt;POC zio-http + htmx&lt;/p&gt; &#xA;&lt;h2&gt;How to run&lt;/h2&gt; &#xA;&lt;p&gt;In an sbt console, run&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;rst&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;and go to &lt;a href=&#34;http://localhost:8080&#34;&gt;http://localhost:8080&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

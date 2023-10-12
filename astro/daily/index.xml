@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-11T01:24:30Z</updated>
+  <updated>2023-10-12T01:23:10Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Playform/AstroStarterTemplate</title>
-    <updated>2023-10-11T01:24:30Z</updated>
-    <id>tag:github.com,2023-10-11:/Playform/AstroStarterTemplate</id>
-    <link href="https://github.com/Playform/AstroStarterTemplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📄 Starter template for AstroJS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>creatorsgarten/open.source.in.th</title>
+    <updated>2023-10-12T01:23:10Z</updated>
+    <id>tag:github.com,2023-10-12:/creatorsgarten/open.source.in.th</id>
+    <link href="https://github.com/creatorsgarten/open.source.in.th" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bangkok Open Source Festival &#39;23&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vim-jp/ekiden</title>
+    <updated>2023-10-12T01:23:10Z</updated>
+    <id>tag:github.com,2023-10-12:/vim-jp/ekiden</id>
+    <link href="https://github.com/vim-jp/ekiden" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim-jp記事執筆企画「駅伝」の管理リポジトリ&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
