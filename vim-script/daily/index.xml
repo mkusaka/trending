@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-12T01:40:29Z</updated>
+  <updated>2023-10-13T01:42:14Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>markb139/vim</title>
-    <updated>2023-10-12T01:40:29Z</updated>
-    <id>tag:github.com,2023-10-12:/markb139/vim</id>
-    <link href="https://github.com/markb139/vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my vim config&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chucklien/chuckvim</title>
-    <updated>2023-10-12T01:40:29Z</updated>
-    <id>tag:github.com,2023-10-12:/chucklien/chuckvim</id>
-    <link href="https://github.com/chucklien/chuckvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

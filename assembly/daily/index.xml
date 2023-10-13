@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-12T01:23:13Z</updated>
+  <updated>2023-10-13T01:25:50Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>STM32-base/STM32-base</title>
-    <updated>2023-10-12T01:23:13Z</updated>
-    <id>tag:github.com,2023-10-12:/STM32-base/STM32-base</id>
-    <link href="https://github.com/STM32-base/STM32-base" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple start for any STM32 based project.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

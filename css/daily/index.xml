@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-12T01:25:30Z</updated>
+  <updated>2023-10-13T01:28:02Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>EarningScripter/FieWin-Fast-Parity-Hack-By-ES</title>
-    <updated>2023-10-12T01:25:30Z</updated>
-    <id>tag:github.com,2023-10-12:/EarningScripter/FieWin-Fast-Parity-Hack-By-ES</id>
-    <link href="https://github.com/EarningScripter/FieWin-Fast-Parity-Hack-By-ES" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MichaelBarney/LinkFree</title>
-    <updated>2023-10-12T01:25:30Z</updated>
-    <id>tag:github.com,2023-10-12:/MichaelBarney/LinkFree</id>
-    <link href="https://github.com/MichaelBarney/LinkFree" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A free and open source alternative to LinkTree&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LinkFree&lt;/h1&gt; &#xA;&lt;p&gt;A free and open source alternative to LinkTree!&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://michaelbarney.github.io/LinkFree&#34;&gt;Website&lt;/a&gt;&lt;/p&gt; &#xA;&lt;img src=&#34;https://i.imgur.com/B4LX0kY.png&#34; alt=&#34;alt text&#34; width=&#34;250px&#34;&gt; &#xA;&lt;h2&gt;What is LinkFree?&lt;/h2&gt; &#xA;&lt;p&gt;Ever wanted to add more links to your Instagram bio? LinkFree does just that! It gathers all of your links into one page that is easy to navigate.&lt;/p&gt; &#xA;&lt;h2&gt;What are the benefits?&lt;/h2&gt; &#xA;&lt;p&gt;Compared to other solutions, LinkFree is fully customizable and open source!&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;No more pesky third party logos&lt;/li&gt; &#xA; &lt;li&gt;Add your custom colors, images and fonts&lt;/li&gt; &#xA; &lt;li&gt;Use full custom analytics and metrics platforms&lt;/li&gt; &#xA; &lt;li&gt;Create your own template or use one made by the community!&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;How to use?&lt;/h2&gt; &#xA;&lt;p&gt;To start off, you can choose a template for your LinkFree in the &#34;Templates&#34; directory. Then you can clone or fork this repository to adapt it with your information.&lt;/p&gt; &#xA;&lt;p&gt;You can fork this repository to your own account and from there, configure your personal page using GitHub Pages. This will let you make edits much faster.&lt;/p&gt; &#xA;&lt;h2&gt;How to see statistics?&lt;/h2&gt; &#xA;&lt;p&gt;You can use any statistics platform of your choosing that is based on client JavaScript. We recommend the following:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://amplitude.com/homepage&#34;&gt;Amplitude&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.hotjar.com/&#34;&gt;Hotjar&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;You can use any of the functions for load and click defined by the LinkFree template&#39;s JavaScript file, or you can add code snippets to the Head or Body of the HTML file.&lt;/p&gt; &#xA;&lt;h2&gt;How to contribute?&lt;/h2&gt; &#xA;&lt;p&gt;There are three ways you can contribute. You can make changes to the core LinkFree project, create new LinkFree templates or just share your LinkFree.&lt;/p&gt; &#xA;&lt;h3&gt;Creating Templates&lt;/h3&gt; &#xA;&lt;p&gt;A new template is a general LinkFree that has a distinctive structure or style when compared to previous templates.&lt;/p&gt; &#xA;&lt;p&gt;To submit one, you just have to make a pull request with your addition in the &#34;Templates&#34; directory.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>CareerDevelopmentHub/Beginner_WeatherAPP</title>
-    <updated>2023-10-12T01:25:30Z</updated>
-    <id>tag:github.com,2023-10-12:/CareerDevelopmentHub/Beginner_WeatherAPP</id>
-    <link href="https://github.com/CareerDevelopmentHub/Beginner_WeatherAPP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Weather App: A simple, user-friendly application built with HTML, CSS, and JavaScript that fetches and displays weather data for any city from the OpenWeatherMap API. Features include temperature, humidity, and wind speed.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Weather App&lt;/h1&gt; &#xA;&lt;p&gt;This is a simple weather app built with HTML, CSS, and JavaScript. It uses the OpenWeatherMap API to get weather data.&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Get weather data for any city&lt;/li&gt; &#xA; &lt;li&gt;Shows temperature, humidity, and wind speed&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;How to Use&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Open &lt;code&gt;index.html&lt;/code&gt; in your browser.&lt;/li&gt; &#xA; &lt;li&gt;Enter a city name in the input field.&lt;/li&gt; &#xA; &lt;li&gt;Click the &#34;Get Weather&#34; button.&lt;/li&gt; &#xA; &lt;li&gt;The app will display the temperature, humidity, and wind speed for the entered city.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;API Key&lt;/h2&gt; &#xA;&lt;p&gt;You need to replace &lt;code&gt;&#39;your_api_key&#39;&lt;/code&gt; with your actual OpenWeatherMap API key in the JavaScript code. You can get it by signing up on the OpenWeatherMap website.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;MIT&lt;/p&gt;</summary>
-  </entry>
 </feed>

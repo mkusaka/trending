@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-12T01:27:39Z</updated>
+  <updated>2023-10-13T01:30:00Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LLNL/UMT</title>
-    <updated>2023-10-12T01:27:39Z</updated>
-    <id>tag:github.com,2023-10-12:/LLNL/UMT</id>
-    <link href="https://github.com/LLNL/UMT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;UMT (Unstructured Mesh Transport) is an LLNL ASC proxy application (mini-app) that solves a thermal radiative transport equation using discrete ordinates (Sn). It utilizes an upstream corner balance method to compute the solution to the Boltzmann transport equation on unstructured spatial grids.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

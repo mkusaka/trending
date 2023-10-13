@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-12T01:37:33Z</updated>
+  <updated>2023-10-13T01:39:25Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>guizmaii/zio-http-htmx</title>
-    <updated>2023-10-12T01:37:33Z</updated>
-    <id>tag:github.com,2023-10-12:/guizmaii/zio-http-htmx</id>
-    <link href="https://github.com/guizmaii/zio-http-htmx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;POC zio-http + htmx&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;zio-http-htmx&lt;/h1&gt; &#xA;&lt;p&gt;POC zio-http + htmx&lt;/p&gt; &#xA;&lt;h2&gt;How to run&lt;/h2&gt; &#xA;&lt;p&gt;In an sbt console, run&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;rst&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;and go to &lt;a href=&#34;http://localhost:8080&#34;&gt;http://localhost:8080&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

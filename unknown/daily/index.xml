@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-12T01:22:19Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-10-13T01:24:58Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cjbt/Free-Algorithm-Books</title>
-    <updated>2023-10-12T01:22:19Z</updated>
-    <id>tag:github.com,2023-10-12:/cjbt/Free-Algorithm-Books</id>
-    <link href="https://github.com/cjbt/Free-Algorithm-Books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>abc123info/BlueTeamTools</title>
-    <updated>2023-10-12T01:22:19Z</updated>
-    <id>tag:github.com,2023-10-12:/abc123info/BlueTeamTools</id>
-    <link href="https://github.com/abc123info/BlueTeamTools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;蓝队分析研判工具箱，自带的反编译工具对红队也有帮助，有建议欢迎给我留言&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>liferay/liferay-portal</title>
-    <updated>2023-10-12T01:22:19Z</updated>
-    <id>tag:github.com,2023-10-12:/liferay/liferay-portal</id>
-    <link href="https://github.com/liferay/liferay-portal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

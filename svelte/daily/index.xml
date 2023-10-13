@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-12T01:38:52Z</updated>
+  <updated>2023-10-13T01:40:41Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jill64/svelte-inline-modal</title>
-    <updated>2023-10-12T01:38:52Z</updated>
-    <id>tag:github.com,2023-10-12:/jill64/svelte-inline-modal</id>
-    <link href="https://github.com/jill64/svelte-inline-modal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple modal component that can be defined on the fly&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>muhammad-zakir/muhammad-zakir.github.io</title>
-    <updated>2023-10-12T01:38:52Z</updated>
-    <id>tag:github.com,2023-10-12:/muhammad-zakir/muhammad-zakir.github.io</id>
-    <link href="https://github.com/muhammad-zakir/muhammad-zakir.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Personal site&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
