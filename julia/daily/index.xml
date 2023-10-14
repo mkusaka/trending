@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-13T01:33:02Z</updated>
+  <updated>2023-10-14T01:32:31Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MineralsCloud/MillerIndices.jl</title>
+    <updated>2023-10-14T01:32:31Z</updated>
+    <id>tag:github.com,2023-10-14:/MineralsCloud/MillerIndices.jl</id>
+    <link href="https://github.com/MineralsCloud/MillerIndices.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A notation system in crystallography for lattice planes in crystal (Bravais) lattices&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mschauer/CausalInference.jl</title>
+    <updated>2023-10-14T01:32:31Z</updated>
+    <id>tag:github.com,2023-10-14:/mschauer/CausalInference.jl</id>
+    <link href="https://github.com/mschauer/CausalInference.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Causal inference, graphical models and structure learning with the PC algorithm.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dcjones/Zlib.jl</title>
+    <updated>2023-10-14T01:32:31Z</updated>
+    <id>tag:github.com,2023-10-14:/dcjones/Zlib.jl</id>
+    <link href="https://github.com/dcjones/Zlib.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;zlib bindings for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

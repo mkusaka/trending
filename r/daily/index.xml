@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-13T01:38:05Z</updated>
+  <updated>2023-10-14T01:38:15Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>traceybit/rladies-sb-targets</title>
+    <updated>2023-10-14T01:38:15Z</updated>
+    <id>tag:github.com,2023-10-14:/traceybit/rladies-sb-targets</id>
+    <link href="https://github.com/traceybit/rladies-sb-targets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for the R-Ladies Santa Barbara event on the targets package for R&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;rladies-sb-targets&lt;/h1&gt; &#xA;&lt;p&gt;Code for the R-Ladies Santa Barbara event on the targets package for R&lt;/p&gt;</summary>
+  </entry>
 </feed>

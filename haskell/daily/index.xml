@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-13T01:31:07Z</updated>
+  <updated>2023-10-14T01:30:10Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hanshoglund/imitator</title>
+    <updated>2023-10-14T01:30:10Z</updated>
+    <id>tag:github.com,2023-10-14:/hanshoglund/imitator</id>
+    <link href="https://github.com/hanshoglund/imitator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;3D loop engine with music-suite and scsynth&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;music-imitator&lt;/h1&gt; &#xA;&lt;p&gt;Spacial loop playback based on hsc3.&lt;/p&gt; &#xA;&lt;p&gt;(c) Hans Höglund 2013.&lt;/p&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://www.haskell.org/platform&#34;&gt;Haskell Platform&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;cabal configure&#xA;cabal install&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

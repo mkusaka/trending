@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-13T01:36:33Z</updated>
+  <updated>2023-10-14T01:36:15Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>deStrO/eBot-CSGO</title>
+    <updated>2023-10-14T01:36:15Z</updated>
+    <id>tag:github.com,2023-10-14:/deStrO/eBot-CSGO</id>
+    <link href="https://github.com/deStrO/eBot-CSGO" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The eBot is a full managed server-bot written in PHP and nodeJS. eBot features easy match creation and tons of player and matchstats. Once it&#39;s setup, using the eBot is simple and fast.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Before going further&lt;/h2&gt; &#xA;&lt;p&gt;If you want some help about eBot, you can join our Discord : &lt;a href=&#34;https://discord.gg/mcEwFhpWpD&#34;&gt;https://discord.gg/mcEwFhpWpD&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;eBot-CS2&lt;/h1&gt; &#xA;&lt;p&gt;The eBot is a full managed server-bot written in PHP and nodeJS. eBot features easy match creation and tons of player and matchstats. Once it&#39;s setup, using the eBot is simple and fast.&lt;/p&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Linux, Windows&lt;/li&gt; &#xA; &lt;li&gt;PHP 7.4 or newer&lt;/li&gt; &#xA; &lt;li&gt;NodeJS (LTS min)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;The following extensions are required:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;MySQL&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;Redis&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;JSON&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;See installation guide for a step-by-step install instruction.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;The code is under Creative Commons license. You can find all details here: &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;You can copy, distribute, modify the source code, but you have to keep the license terms.&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Julien &#39;deStrO&#39; Pardons (&lt;a href=&#34;mailto:destro@esport-tools.net&#34;&gt;destro@esport-tools.net&lt;/a&gt;)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Thanks&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Loic Peron (RegnaM)&lt;/li&gt; &#xA; &lt;li&gt;Ph3nol&lt;/li&gt; &#xA; &lt;li&gt;Fabian &#39;Basert&#39; Gruber&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;See also&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://www.esport-tools.net/&#34;&gt;eSport-tools.net website&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-13T01:26:35Z</updated>
+  <updated>2023-10-14T01:24:00Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802</title>
+    <updated>2023-10-14T01:24:00Z</updated>
+    <id>tag:github.com,2023-10-14:/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802</id>
+    <link href="https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LPE exploit for CVE-2023-36802&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CVE-2023-36802 Local Privilege Escalation POC&lt;/h1&gt; &#xA;&lt;p&gt;authors: &lt;a href=&#34;https://twitter.com/chompie1337&#34;&gt;chompie&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;For demonstration purposes only. Complete exploit works on vulnerable Windows 11 22H2 systems. Adapting the exploit to all vulnerable systems is left as an exercise to the reader. Git gud, etc.&lt;/p&gt; &#xA;&lt;p&gt;Usage:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Windows_MSKSSRV_LPE_CVE-2023-6802.exe &amp;lt;pid&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;where &lt;code&gt;&amp;lt;pid&amp;gt;&lt;/code&gt; is the process ID (in decimal) of the process to elevate.&lt;/p&gt; &#xA;&lt;p&gt;Should result in the target process being elevated to SYSTEM&lt;/p&gt; &#xA;&lt;p&gt;The I/O Ring LPE primitive code is based on the I/ORing R/W &lt;a href=&#34;https://github.com/yardenshafir/IoRingReadWritePrimitive&#34;&gt;PoC&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/yarden_shafir&#34;&gt;Yarden Shafir&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Blog post &lt;a href=&#34;https://securityintelligence.com/posts/critically-close-to-zero-day-exploiting-microsoft-kernel-streaming-service/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

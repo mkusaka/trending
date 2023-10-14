@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-13T01:42:24Z</updated>
+  <updated>2023-10-14T01:43:08Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>scalar/scalar</title>
+    <updated>2023-10-14T01:43:08Z</updated>
+    <id>tag:github.com,2023-10-14:/scalar/scalar</id>
+    <link href="https://github.com/scalar/scalar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Beautiful API references from Swagger/OpenAPI files ✨&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ChartsCSS/ChartsCSS.org</title>
+    <updated>2023-10-14T01:43:08Z</updated>
+    <id>tag:github.com,2023-10-14:/ChartsCSS/ChartsCSS.org</id>
+    <link href="https://github.com/ChartsCSS/ChartsCSS.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation website for charts.css&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>climblee/uv-ui</title>
+    <updated>2023-10-14T01:43:08Z</updated>
+    <id>tag:github.com,2023-10-14:/climblee/uv-ui</id>
+    <link href="https://github.com/climblee/uv-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;uv-ui 破釜沉舟之兼容vue3+2、app、h5、小程序等多端基于uni-app和uView2.x的生态框架，支持单独导入，开箱即用，利剑出击。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

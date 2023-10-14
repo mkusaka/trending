@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-13T01:34:28Z</updated>
+  <updated>2023-10-14T01:34:03Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>matlab-deep-learning/llms-with-matlab</title>
+    <updated>2023-10-14T01:34:03Z</updated>
+    <id>tag:github.com,2023-10-14:/matlab-deep-learning/llms-with-matlab</id>
+    <link href="https://github.com/matlab-deep-learning/llms-with-matlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Connect MATLAB to the OpenAI Chat Completions API (which powers ChatGPT)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

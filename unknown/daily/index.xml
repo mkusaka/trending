@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-13T01:24:58Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-10-14T01:22:20Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jamiehannaford/what-happens-when-k8s</title>
+    <updated>2023-10-14T01:22:20Z</updated>
+    <id>tag:github.com,2023-10-14:/jamiehannaford/what-happens-when-k8s</id>
+    <link href="https://github.com/jamiehannaford/what-happens-when-k8s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤔 What happens when I type kubectl run?&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RuoJi6/Deskbypass</title>
+    <updated>2023-10-14T01:22:20Z</updated>
+    <id>tag:github.com,2023-10-14:/RuoJi6/Deskbypass</id>
+    <link href="https://github.com/RuoJi6/Deskbypass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JonathonLuiten/Dynamic3DGaussians</title>
+    <updated>2023-10-14T01:22:20Z</updated>
+    <id>tag:github.com,2023-10-14:/JonathonLuiten/Dynamic3DGaussians</id>
+    <link href="https://github.com/JonathonLuiten/Dynamic3DGaussians" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
