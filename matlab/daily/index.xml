@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-14T01:34:03Z</updated>
+  <updated>2023-10-15T01:33:54Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>matlab-deep-learning/llms-with-matlab</title>
-    <updated>2023-10-14T01:34:03Z</updated>
-    <id>tag:github.com,2023-10-14:/matlab-deep-learning/llms-with-matlab</id>
-    <link href="https://github.com/matlab-deep-learning/llms-with-matlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Connect MATLAB to the OpenAI Chat Completions API (which powers ChatGPT)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>euroargodev/sensor_metadata_json</title>
+    <updated>2023-10-15T01:33:54Z</updated>
+    <id>tag:github.com,2023-10-15:/euroargodev/sensor_metadata_json</id>
+    <link href="https://github.com/euroargodev/sensor_metadata_json" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools, schemas and example files for metadata for ocean platforms and sensors&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aglatz/mineral-deposit-segmentation-pipeline</title>
+    <updated>2023-10-15T01:33:54Z</updated>
+    <id>tag:github.com,2023-10-15:/aglatz/mineral-deposit-segmentation-pipeline</id>
+    <link href="https://github.com/aglatz/mineral-deposit-segmentation-pipeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pipeline for segmenting mineral deposits on clinical magnet resonance imaging (MRI) volumes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

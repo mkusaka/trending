@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-15T01:44:55Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ueberauth/ueberauth_google</title>
+    <updated>2023-10-15T01:44:55Z</updated>
+    <id>tag:github.com,2023-10-15:/ueberauth/ueberauth_google</id>
+    <link href="https://github.com/ueberauth/ueberauth_google" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Google OAuth2 Strategy for Überauth.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

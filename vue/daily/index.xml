@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-14T01:43:08Z</updated>
+  <updated>2023-10-15T01:40:31Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>scalar/scalar</title>
-    <updated>2023-10-14T01:43:08Z</updated>
-    <id>tag:github.com,2023-10-14:/scalar/scalar</id>
-    <link href="https://github.com/scalar/scalar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Beautiful API references from Swagger/OpenAPI files ✨&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xiaoli1999/custom-avatar</title>
+    <updated>2023-10-15T01:40:31Z</updated>
+    <id>tag:github.com,2023-10-15:/xiaoli1999/custom-avatar</id>
+    <link href="https://github.com/xiaoli1999/custom-avatar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;快速定制中国传统节日头像，国庆国旗头像。customize avatars for traditional Chinese festivals such as National Day, Mid-Autumn Festival, and Spring Festival.&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ChartsCSS/ChartsCSS.org</title>
-    <updated>2023-10-14T01:43:08Z</updated>
-    <id>tag:github.com,2023-10-14:/ChartsCSS/ChartsCSS.org</id>
-    <link href="https://github.com/ChartsCSS/ChartsCSS.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation website for charts.css&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hangjob/vue-bag-admin</title>
+    <updated>2023-10-15T01:40:31Z</updated>
+    <id>tag:github.com,2023-10-15:/hangjob/vue-bag-admin</id>
+    <link href="https://github.com/hangjob/vue-bag-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉vue-bag-admin，采用Vite4、Vue3、TypeScript、JavaScript构建，支持多种写法和调用，完整的框架体系，响应式中后台管理系统&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>climblee/uv-ui</title>
-    <updated>2023-10-14T01:43:08Z</updated>
-    <id>tag:github.com,2023-10-14:/climblee/uv-ui</id>
-    <link href="https://github.com/climblee/uv-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;uv-ui 破釜沉舟之兼容vue3+2、app、h5、小程序等多端基于uni-app和uView2.x的生态框架，支持单独导入，开箱即用，利剑出击。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>techreagan/vue-nodejs-youtube-clone</title>
+    <updated>2023-10-15T01:40:31Z</updated>
+    <id>tag:github.com,2023-10-15:/techreagan/vue-nodejs-youtube-clone</id>
+    <link href="https://github.com/techreagan/vue-nodejs-youtube-clone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the frontend (VueJS) of the Youtube clone called VueTube.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

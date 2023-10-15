@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-14T01:41:09Z</updated>
+  <updated>2023-10-15T01:39:02Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GaloyMoney/galoy</title>
-    <updated>2023-10-14T01:41:09Z</updated>
-    <id>tag:github.com,2023-10-14:/GaloyMoney/galoy</id>
-    <link href="https://github.com/GaloyMoney/galoy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;bitcoin banking infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>envoyproxy/envoy-website</title>
+    <updated>2023-10-15T01:39:02Z</updated>
+    <id>tag:github.com,2023-10-15:/envoyproxy/envoy-website</id>
+    <link href="https://github.com/envoyproxy/envoy-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Envoy Proxy website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

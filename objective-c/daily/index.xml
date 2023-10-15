@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-14T01:35:25Z</updated>
+  <updated>2023-10-15T01:34:57Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PhorionTech/Kronos</title>
+    <updated>2023-10-15T01:34:57Z</updated>
+    <id>tag:github.com,2023-10-15:/PhorionTech/Kronos</id>
+    <link href="https://github.com/PhorionTech/Kronos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/PhorionTech/tcc-kronos/assets/27683329/68ee065d-d6b5-4f38-90ea-1a5514f87e02&#34; alt=&#34;Phorion_Logo_Blue&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Release&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;This tool will be released during day one of OBTS V6.0! 🌴&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Phorion Kronos&lt;/h2&gt; &#xA;&lt;p&gt;Phorion Kronos is a macOS security tool designed to enhance Apple&#39;s Transparency Consent and Control (TCC) security and privacy mechanism. By monitoring Apple log data, Kronos aims to increase transparency into TCC prompt requests, as well as TCC resource usage. Kronos also provides users with the ability to revoke TCC permissions after a given time period.&lt;/p&gt; &#xA;&lt;h2&gt;Vision&lt;/h2&gt; &#xA;&lt;p&gt;This tool is designed to enhance, not replace the TCC mechanism. We hope to continue developing the tool and it&#39;s feature set, if you have ideas make sure to open up a PR or an issue!&lt;/p&gt;</summary>
+  </entry>
 </feed>

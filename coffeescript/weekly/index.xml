@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-15T01:43:22Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>limenet/hexaflip-clock</title>
+    <updated>2023-10-15T01:43:22Z</updated>
+    <id>tag:github.com,2023-10-15:/limenet/hexaflip-clock</id>
+    <link href="https://github.com/limenet/hexaflip-clock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Making a live clock with the hexaflip plugin by Codrops&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>credport/credport-hubot</title>
+    <updated>2023-10-15T01:43:22Z</updated>
+    <id>tag:github.com,2023-10-15:/credport/credport-hubot</id>
+    <link href="https://github.com/credport/credport-hubot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Credports Hubot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>atom/language-javascript</title>
+    <updated>2023-10-15T01:43:22Z</updated>
+    <id>tag:github.com,2023-10-15:/atom/language-javascript</id>
+    <link href="https://github.com/atom/language-javascript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JavaScript language package for Atom&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

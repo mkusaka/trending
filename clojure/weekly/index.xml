@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-15T01:43:17Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elastic/eui-cljs</title>
+    <updated>2023-10-15T01:43:17Z</updated>
+    <id>tag:github.com,2023-10-15:/elastic/eui-cljs</id>
+    <link href="https://github.com/elastic/eui-cljs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojurescript wrapper around the venerable Elastic UI Component library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>philandstuff/coremidi-clj</title>
+    <updated>2023-10-15T01:43:17Z</updated>
+    <id>tag:github.com,2023-10-15:/philandstuff/coremidi-clj</id>
+    <link href="https://github.com/philandstuff/coremidi-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure interface to OS X CoreMIDI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

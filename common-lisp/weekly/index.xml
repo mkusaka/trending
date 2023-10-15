@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-15T01:43:26Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LuckyBanana/Compilateur-LISP</title>
+    <updated>2023-10-15T01:43:26Z</updated>
+    <id>tag:github.com,2023-10-15:/LuckyBanana/Compilateur-LISP</id>
+    <link href="https://github.com/LuckyBanana/Compilateur-LISP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LISP Compiler&lt;/p&gt;&lt;hr&gt;&lt;p&gt;LISP Compiler - GMIN 108 semester project (UM2) - 2012&lt;/p&gt; &#xA;&lt;p&gt;(load &#34;run.lisp&#34;) charge les fichiers lisp2li, evalli, litovm, makevm la vm est creee par defaut avec le nom &#39;vm&lt;/p&gt; &#xA;&lt;p&gt;expr est le code en lisp a traiter&lt;/p&gt; &#xA;&lt;p&gt;lisp2li : (lisp2li expr ()) evalli : (meval expr) litoasm : (comp expr) vmeval: (vmeval &#39;vm expr)&lt;/p&gt; &#xA;&lt;p&gt;(lisp2li &#39;(defun fibo (n) (if (&amp;lt;= n 0) 1 (+ (fibo (- n 1)) (fibo (- n 2))))) ())&lt;/p&gt; &#xA;&lt;p&gt;(meval &#39;(defun fibo (n) (if (&amp;lt;= n 0) 1 (+ (fibo (- n 1)) (fibo (- n 2)))))) (meval &#39;(fibo 10))&lt;/p&gt; &#xA;&lt;p&gt;(comp &#39;(defun fibo (n) (if (&amp;lt;= n 0) 1 (+ (fibo (- n 1)) (fibo (- n 2))))))&lt;/p&gt; &#xA;&lt;p&gt;(vmeval &#39;vm &#39;(defun fibo (n) (if (&amp;lt;= n 0) 1 (+ (fibo (- n 1)) (fibo (- n 2)))))) (vmeval &#39;vm &#39;(fibo 10))&lt;/p&gt;</summary>
+  </entry>
+</feed>

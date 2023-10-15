@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-15T01:51:58Z</updated>
+  <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>icebourg/puppet-users</title>
+    <updated>2023-10-15T01:51:58Z</updated>
+    <id>tag:github.com,2023-10-15:/icebourg/puppet-users</id>
+    <link href="https://github.com/icebourg/puppet-users" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A puppet repo for distributed user management.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ofsole/try_git</title>
+    <updated>2023-10-15T01:51:58Z</updated>
+    <id>tag:github.com,2023-10-15:/ofsole/try_git</id>
+    <link href="https://github.com/ofsole/try_git" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-14T01:38:11Z</updated>
+  <updated>2023-10-15T01:36:50Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zhuzichu520/PySide6-FluentUI-QML</title>
-    <updated>2023-10-14T01:38:11Z</updated>
-    <id>tag:github.com,2023-10-14:/zhuzichu520/PySide6-FluentUI-QML</id>
-    <link href="https://github.com/zhuzichu520/PySide6-FluentUI-QML" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FluentUI for PySide6 and QML&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-14T01:39:56Z</updated>
+  <updated>2023-10-15T01:38:14Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fastbootstrap/atlassian-design-for-bootstrap</title>
+    <updated>2023-10-15T01:38:14Z</updated>
+    <id>tag:github.com,2023-10-15:/fastbootstrap/atlassian-design-for-bootstrap</id>
+    <link href="https://github.com/fastbootstrap/atlassian-design-for-bootstrap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Atlassian Design for Bootstrap 5. Beautifully crafted Bootstrap components ready for your next project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>leuffen/themejs-sys</title>
+    <updated>2023-10-15T01:38:14Z</updated>
+    <id>tag:github.com,2023-10-15:/leuffen/themejs-sys</id>
+    <link href="https://github.com/leuffen/themejs-sys" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
