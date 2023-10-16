@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-15T01:31:05Z</updated>
+  <updated>2023-10-16T01:29:16Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kawu/crf-chain1-constrained</title>
-    <updated>2023-10-15T01:31:05Z</updated>
-    <id>tag:github.com,2023-10-15:/kawu/crf-chain1-constrained</id>
-    <link href="https://github.com/kawu/crf-chain1-constrained" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;First-order, linear-chain conditional random fields with position-wise constraints over label values&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;crf-chain1-constrained&lt;/h1&gt; &#xA;&lt;p&gt;The library implements first-order, linear-chain conditional random fields with position-wise constraints over label values.&lt;/p&gt;</summary>
-  </entry>
 </feed>

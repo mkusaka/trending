@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-15T01:28:05Z</updated>
+  <updated>2023-10-16T01:26:09Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vortext/esther</title>
+    <updated>2023-10-16T01:26:09Z</updated>
+    <id>tag:github.com,2023-10-16:/vortext/esther</id>
+    <link href="https://github.com/vortext/esther" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dear Esther, you&#39;re about to become an idea for a diary app that embeds an LLM.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>marianoguerra/pipe.clj</title>
+    <updated>2023-10-16T01:26:09Z</updated>
+    <id>tag:github.com,2023-10-16:/marianoguerra/pipe.clj</id>
+    <link href="https://github.com/marianoguerra/pipe.clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;library to build abstraction by composing small functions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cyverse-archive/morbixon</title>
+    <updated>2023-10-16T01:26:09Z</updated>
+    <id>tag:github.com,2023-10-16:/cyverse-archive/morbixon</id>
+    <link href="https://github.com/cyverse-archive/morbixon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Logging service and provenance facade for the iPlant Discovery Environment.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

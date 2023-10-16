@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-15T01:38:46Z</updated>
+  <updated>2023-10-16T01:36:23Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>code-423n4/2023-10-brahma</title>
+    <updated>2023-10-16T01:36:23Z</updated>
+    <id>tag:github.com,2023-10-16:/code-423n4/2023-10-brahma</id>
+    <link href="https://github.com/code-423n4/2023-10-brahma" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>daimo-eth/p256-verifier</title>
+    <updated>2023-10-16T01:36:23Z</updated>
+    <id>tag:github.com,2023-10-16:/daimo-eth/p256-verifier</id>
+    <link href="https://github.com/daimo-eth/p256-verifier" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;P256 signature verification solidity contract: Fallback contract from EIP-7212 precompile&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ajna-finance/ajna-core</title>
+    <updated>2023-10-16T01:36:23Z</updated>
+    <id>tag:github.com,2023-10-16:/ajna-finance/ajna-core</id>
+    <link href="https://github.com/ajna-finance/ajna-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ajna Protocol core contracts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-15T01:29:37Z</updated>
+  <updated>2023-10-16T01:27:49Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SDPyle/groove</title>
-    <updated>2023-10-15T01:29:37Z</updated>
-    <id>tag:github.com,2023-10-15:/SDPyle/groove</id>
-    <link href="https://github.com/SDPyle/groove" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A groovy open source scrum application utilizing the STAPLE stack (Surface, Tailwind, Ash, Phoenix, LiveView, Elixir)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

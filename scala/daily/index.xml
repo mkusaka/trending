@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-15T01:38:04Z</updated>
+  <updated>2023-10-16T01:35:45Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ScalaOtus/scala-dev-mooc-2023-09</title>
-    <updated>2023-10-15T01:38:04Z</updated>
-    <id>tag:github.com,2023-10-15:/ScalaOtus/scala-dev-mooc-2023-09</id>
-    <link href="https://github.com/ScalaOtus/scala-dev-mooc-2023-09" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ptrdom/scalajs-esbuild</title>
+    <updated>2023-10-16T01:35:45Z</updated>
+    <id>tag:github.com,2023-10-16:/ptrdom/scalajs-esbuild</id>
+    <link href="https://github.com/ptrdom/scalajs-esbuild" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bundles Scala.js projects and their npm dependencies with esbuild&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;scalajs-esbuild&lt;/h1&gt; &#xA;&lt;p&gt;Bundles Scala.js projects and their npm dependencies with esbuild&lt;/p&gt;</summary>
   </entry>
 </feed>

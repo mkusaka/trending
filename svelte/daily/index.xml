@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-15T01:39:11Z</updated>
+  <updated>2023-10-16T01:36:44Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ollama-webui/ollama-webui</title>
-    <updated>2023-10-15T01:39:11Z</updated>
-    <id>tag:github.com,2023-10-15:/ollama-webui/ollama-webui</id>
-    <link href="https://github.com/ollama-webui/ollama-webui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatGPT-Style Responsive Web UI Client (GUI) for Ollama 🦙&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>acmpesuecc/Hacknight5.0_Leaderboard</title>
+    <updated>2023-10-16T01:36:44Z</updated>
+    <id>tag:github.com,2023-10-16:/acmpesuecc/Hacknight5.0_Leaderboard</id>
+    <link href="https://github.com/acmpesuecc/Hacknight5.0_Leaderboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leaderboard For Hacknight 5.0 Written With Sveltekit&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Boom123bam/ResPawn</title>
+    <updated>2023-10-16T01:36:44Z</updated>
+    <id>tag:github.com,2023-10-16:/Boom123bam/ResPawn</id>
+    <link href="https://github.com/Boom123bam/ResPawn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>acmpesuecc/MUNSocWebsite</title>
+    <updated>2023-10-16T01:36:44Z</updated>
+    <id>tag:github.com,2023-10-16:/acmpesuecc/MUNSocWebsite</id>
+    <link href="https://github.com/acmpesuecc/MUNSocWebsite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clone Of The MUNSoc Website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
