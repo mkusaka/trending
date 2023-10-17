@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-16T01:33:19Z</updated>
+  <updated>2023-10-17T01:36:03Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>danieleteti/delphi-dmvcframework-htmx-todo</title>
+    <updated>2023-10-17T01:36:03Z</updated>
+    <id>tag:github.com,2023-10-17:/danieleteti/delphi-dmvcframework-htmx-todo</id>
+    <link href="https://github.com/danieleteti/delphi-dmvcframework-htmx-todo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DelphiMVCFramework Todo Sample, using HTMX&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dalijap/nx-chronos</title>
+    <updated>2023-10-17T01:36:03Z</updated>
+    <id>tag:github.com,2023-10-17:/dalijap/nx-chronos</id>
+    <link href="https://github.com/dalijap/nx-chronos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NX Chronos - Chronometer for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

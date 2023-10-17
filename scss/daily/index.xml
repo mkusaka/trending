@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-16T01:35:54Z</updated>
+  <updated>2023-10-17T01:39:24Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>department-of-veterans-affairs/github-handbook</title>
-    <updated>2023-10-16T01:35:54Z</updated>
-    <id>tag:github.com,2023-10-16:/department-of-veterans-affairs/github-handbook</id>
-    <link href="https://github.com/department-of-veterans-affairs/github-handbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A handbook of how the VA uses GitHub&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

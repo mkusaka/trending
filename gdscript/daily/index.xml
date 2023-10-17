@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-16T01:28:32Z</updated>
+  <updated>2023-10-17T01:29:52Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DPM2/GWJ62</title>
-    <updated>2023-10-16T01:28:32Z</updated>
-    <id>tag:github.com,2023-10-16:/DPM2/GWJ62</id>
-    <link href="https://github.com/DPM2/GWJ62" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot Wild Jam #62 1st place winner game&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

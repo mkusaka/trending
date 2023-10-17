@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-16T01:24:51Z</updated>
+  <updated>2023-10-17T01:25:09Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lcfd/trak</title>
-    <updated>2023-10-16T01:24:51Z</updated>
-    <id>tag:github.com,2023-10-16:/lcfd/trak</id>
-    <link href="https://github.com/lcfd/trak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Keep a record of the time you dedicate to your projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eth-hangzhou/ETHHangzhou</title>
+    <updated>2023-10-17T01:25:09Z</updated>
+    <id>tag:github.com,2023-10-17:/eth-hangzhou/ETHHangzhou</id>
+    <link href="https://github.com/eth-hangzhou/ETHHangzhou" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codiume/orbit</title>
+    <updated>2023-10-17T01:25:09Z</updated>
+    <id>tag:github.com,2023-10-17:/codiume/orbit</id>
+    <link href="https://github.com/codiume/orbit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of useful integrations &amp; components for the Astro ecosystem. ⭐️ Star to support our work!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AREA44/astro-shadcn-ui-template</title>
+    <updated>2023-10-17T01:25:09Z</updated>
+    <id>tag:github.com,2023-10-17:/AREA44/astro-shadcn-ui-template</id>
+    <link href="https://github.com/AREA44/astro-shadcn-ui-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This template helps you build apps with Astro, Tailwind CSS, and shadcn/ui.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fluent Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-16T01:28:16Z</updated>
+  <updated>2023-10-17T01:29:30Z</updated>
   <subtitle>Daily Trending of Fluent in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Dymerz/StarCitizen-Localization</title>
-    <updated>2023-10-16T01:28:16Z</updated>
-    <id>tag:github.com,2023-10-16:/Dymerz/StarCitizen-Localization</id>
-    <link href="https://github.com/Dymerz/StarCitizen-Localization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Language File Installation Guide&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MLIR Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-16T01:32:01Z</updated>
+  <updated>2023-10-17T01:34:19Z</updated>
   <subtitle>Daily Trending of MLIR in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cruise-automation/mlir-tcp</title>
-    <updated>2023-10-16T01:32:01Z</updated>
-    <id>tag:github.com,2023-10-16:/cruise-automation/mlir-tcp</id>
-    <link href="https://github.com/cruise-automation/mlir-tcp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tensor Compute Primitives (Mid-level Intermediate Representation for Machine Learning Programs)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

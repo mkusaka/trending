@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-16T01:37:55Z</updated>
+  <updated>2023-10-17T01:41:33Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>daidr/douLog</title>
-    <updated>2023-10-16T01:37:55Z</updated>
-    <id>tag:github.com,2023-10-16:/daidr/douLog</id>
-    <link href="https://github.com/daidr/douLog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;戴兜的博客（施工中）&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>viarotel-org/escrcpy</title>
-    <updated>2023-10-16T01:37:55Z</updated>
-    <id>tag:github.com,2023-10-16:/viarotel-org/escrcpy</id>
-    <link href="https://github.com/viarotel-org/escrcpy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📱 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>plantree/ocr-pwa</title>
-    <updated>2023-10-16T01:37:55Z</updated>
-    <id>tag:github.com,2023-10-16:/plantree/ocr-pwa</id>
-    <link href="https://github.com/plantree/ocr-pwa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple PWA for OCR, based on Tesseract.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

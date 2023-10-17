@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-16T01:29:24Z</updated>
+  <updated>2023-10-17T01:31:07Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>megayuchi/VH_SDK</title>
+    <updated>2023-10-17T01:31:07Z</updated>
+    <id>tag:github.com,2023-10-17:/megayuchi/VH_SDK</id>
+    <link href="https://github.com/megayuchi/VH_SDK" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

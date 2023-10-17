@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YARA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-16T01:38:27Z</updated>
+  <updated>2023-10-17T01:42:06Z</updated>
   <subtitle>Daily Trending of YARA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nsacyber/Mitigating-Web-Shells</title>
+    <updated>2023-10-17T01:42:06Z</updated>
+    <id>tag:github.com,2023-10-17:/nsacyber/Mitigating-Web-Shells</id>
+    <link href="https://github.com/nsacyber/Mitigating-Web-Shells" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Guidance for mitigation web shells. #nsacyber&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-16T01:30:36Z</updated>
+  <updated>2023-10-17T01:32:42Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OpenMendel/OpenADMIXTURE.jl</title>
-    <updated>2023-10-16T01:30:36Z</updated>
-    <id>tag:github.com,2023-10-16:/OpenMendel/OpenADMIXTURE.jl</id>
-    <link href="https://github.com/OpenMendel/OpenADMIXTURE.jl" rel="alternate"></link>
+    <title>dchang10/JacobiElliptic.jl</title>
+    <updated>2023-10-17T01:32:42Z</updated>
+    <id>tag:github.com,2023-10-17:/dchang10/JacobiElliptic.jl</id>
+    <link href="https://github.com/dchang10/JacobiElliptic.jl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>probcomp/Gen.jl</title>
+    <updated>2023-10-17T01:32:42Z</updated>
+    <id>tag:github.com,2023-10-17:/probcomp/Gen.jl</id>
+    <link href="https://github.com/probcomp/Gen.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A general-purpose probabilistic programming system with programmable inference&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

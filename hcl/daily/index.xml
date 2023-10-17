@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-16T01:29:26Z</updated>
+  <updated>2023-10-17T01:31:05Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aws-samples/karpenter-blueprints</title>
-    <updated>2023-10-16T01:29:26Z</updated>
-    <id>tag:github.com,2023-10-16:/aws-samples/karpenter-blueprints</id>
-    <link href="https://github.com/aws-samples/karpenter-blueprints" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Karpenter Blueprints is a list of common workload scenarios following best practices. You&#39;ll find here details of why configuring the Karpenter and Kubernetes objects in such a way is important when using Karpenter on EKS.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sd031/three-tier-eks-iac</title>
-    <updated>2023-10-16T01:29:26Z</updated>
-    <id>tag:github.com,2023-10-16:/sd031/three-tier-eks-iac</id>
-    <link href="https://github.com/sd031/three-tier-eks-iac" rel="alternate"></link>
+    <title>heydevopsorg/terrform_threetierarch</title>
+    <updated>2023-10-17T01:31:05Z</updated>
+    <id>tag:github.com,2023-10-17:/heydevopsorg/terrform_threetierarch</id>
+    <link href="https://github.com/heydevopsorg/terrform_threetierarch" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>riteshbehal/Assignments</title>
-    <updated>2023-10-16T01:29:26Z</updated>
-    <id>tag:github.com,2023-10-16:/riteshbehal/Assignments</id>
-    <link href="https://github.com/riteshbehal/Assignments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AWS Assignments&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
