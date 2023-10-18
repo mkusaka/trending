@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-17T01:39:59Z</updated>
+  <updated>2023-10-18T01:40:34Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SoulWallet/soul-wallet-contract</title>
-    <updated>2023-10-17T01:39:59Z</updated>
-    <id>tag:github.com,2023-10-17:/SoulWallet/soul-wallet-contract</id>
-    <link href="https://github.com/SoulWallet/soul-wallet-contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;core contract of eip 4337 implementation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>statechannels/SCBridge-Wallet</title>
+    <updated>2023-10-18T01:40:34Z</updated>
+    <id>tag:github.com,2023-10-18:/statechannels/SCBridge-Wallet</id>
+    <link href="https://github.com/statechannels/SCBridge-Wallet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>celestiaorg/blobstream-contracts</title>
+    <updated>2023-10-18T01:40:34Z</updated>
+    <id>tag:github.com,2023-10-18:/celestiaorg/blobstream-contracts</id>
+    <link href="https://github.com/celestiaorg/blobstream-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Celestia -&gt; EVM bridge&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

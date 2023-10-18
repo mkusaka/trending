@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-17T01:35:33Z</updated>
+  <updated>2023-10-18T01:35:55Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ocaml-multicore/picos</title>
+    <updated>2023-10-18T01:35:55Z</updated>
+    <id>tag:github.com,2023-10-18:/ocaml-multicore/picos</id>
+    <link href="https://github.com/ocaml-multicore/picos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interoperable effects based concurrency&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>krohrer/aisss06</title>
+    <updated>2023-10-18T01:35:55Z</updated>
+    <id>tag:github.com,2023-10-18:/krohrer/aisss06</id>
+    <link href="https://github.com/krohrer/aisss06" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Small project for Advanced Image Synthesis Course at ETH Zurich, 2006&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>answer-42/mlImage</title>
+    <updated>2023-10-18T01:35:55Z</updated>
+    <id>tag:github.com,2023-10-18:/answer-42/mlImage</id>
+    <link href="https://github.com/answer-42/mlImage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A working image viewer written in Ocaml.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

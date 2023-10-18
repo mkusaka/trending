@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-17T01:24:11Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-10-18T01:24:32Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iamcryptoki/snowden-archive</title>
-    <updated>2023-10-17T01:24:11Z</updated>
-    <id>tag:github.com,2023-10-17:/iamcryptoki/snowden-archive</id>
-    <link href="https://github.com/iamcryptoki/snowden-archive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>itrewub/jh-notes</title>
+    <updated>2023-10-18T01:24:32Z</updated>
+    <id>tag:github.com,2023-10-18:/itrewub/jh-notes</id>
+    <link href="https://github.com/itrewub/jh-notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xPaw/CS2</title>
-    <updated>2023-10-17T01:24:11Z</updated>
-    <id>tag:github.com,2023-10-17:/xPaw/CS2</id>
-    <link href="https://github.com/xPaw/CS2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏃‍♂️ Counter-Strike 2 stuff&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>facert/awesome-spider</title>
+    <updated>2023-10-18T01:24:32Z</updated>
+    <id>tag:github.com,2023-10-18:/facert/awesome-spider</id>
+    <link href="https://github.com/facert/awesome-spider" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;爬虫集合&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudogu/gitops-patterns</title>
-    <updated>2023-10-17T01:24:11Z</updated>
-    <id>tag:github.com,2023-10-17:/cloudogu/gitops-patterns</id>
-    <link href="https://github.com/cloudogu/gitops-patterns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of patterns, examples and resources for GitOps process design, GitOps repository structures, etc&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joeycastillo/The-Open-Book</title>
+    <updated>2023-10-18T01:24:32Z</updated>
+    <id>tag:github.com,2023-10-18:/joeycastillo/The-Open-Book</id>
+    <link href="https://github.com/joeycastillo/The-Open-Book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

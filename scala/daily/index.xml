@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-17T01:39:15Z</updated>
+  <updated>2023-10-18T01:39:34Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>siddhartha-gadgil/trepplein4</title>
-    <updated>2023-10-17T01:39:15Z</updated>
-    <id>tag:github.com,2023-10-17:/siddhartha-gadgil/trepplein4</id>
-    <link href="https://github.com/siddhartha-gadgil/trepplein4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;lean 4 typechecker in scala (based on Gabriel Ebner&#39;s trepplein)&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;trepplein: a Lean type-checker&lt;/h2&gt; &#xA;&lt;p&gt;Lean is an interactive theorem prover based on dependent type theory. For additional trust, Lean can &lt;a href=&#34;https://github.com/leanprover/lean/raw/master/doc/export_format.md&#34;&gt;export the generated proofs&lt;/a&gt; so that they can be independently verified. Trepplein is a tool that can check these exported proofs.&lt;/p&gt; &#xA;&lt;p&gt;Trepplein is written in Scala, and requires &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt; to build.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sbt stage&#xA;./target/universal/stage/bin/trepplein .../export.out&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Other checkers&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/dselsam/tc&#34;&gt;tc&lt;/a&gt;, a type-checker written in Haskell.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/leanprover/lean/tree/master/src/checker&#34;&gt;leanchecker&lt;/a&gt;, a bare-bones version of the Lean kernel.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>AndrewConway/scalatest</title>
+    <updated>2023-10-18T01:39:34Z</updated>
+    <id>tag:github.com,2023-10-18:/AndrewConway/scalatest</id>
+    <link href="https://github.com/AndrewConway/scalatest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some test code to help me understand scala better. It consists of a variety of small tests of individual features&lt;/p&gt;&lt;hr&gt;&lt;p&gt;A set of simple testing programs used by myself to understand better some aspects of Scala&lt;/p&gt;</summary>
   </entry>
 </feed>

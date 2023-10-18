@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-17T01:39:55Z</updated>
+  <updated>2023-10-18T01:40:28Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>seandenigris/The-Project-Project</title>
-    <updated>2023-10-17T01:39:55Z</updated>
-    <id>tag:github.com,2023-10-17:/seandenigris/The-Project-Project</id>
-    <link href="https://github.com/seandenigris/The-Project-Project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project Management unleashed from an &#34;application&#34; stovepipe, running on GToolkit (Smalltalk)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>seandenigris/Objective-Lepiter</title>
-    <updated>2023-10-17T01:39:55Z</updated>
-    <id>tag:github.com,2023-10-17:/seandenigris/Objective-Lepiter</id>
-    <link href="https://github.com/seandenigris/Objective-Lepiter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>powerlang/powerlang</title>
-    <updated>2023-10-17T01:39:55Z</updated>
-    <id>tag:github.com,2023-10-17:/powerlang/powerlang</id>
-    <link href="https://github.com/powerlang/powerlang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Powerlang Bootstrapper&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

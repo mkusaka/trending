@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-17T01:40:22Z</updated>
+  <updated>2023-10-18T01:41:02Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Orbitale/SvelteAdmin</title>
-    <updated>2023-10-17T01:40:22Z</updated>
-    <id>tag:github.com,2023-10-17:/Orbitale/SvelteAdmin</id>
-    <link href="https://github.com/Orbitale/SvelteAdmin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(prototype) Crud pages system for Svelte projects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>navorite/sessionic</title>
+    <updated>2023-10-18T01:41:02Z</updated>
+    <id>tag:github.com,2023-10-18:/navorite/sessionic</id>
+    <link href="https://github.com/navorite/sessionic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A browser extension to save, manage and restore sessions and tabs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KATO-Hiro/AtCoderNovisteps</title>
+    <updated>2023-10-18T01:41:02Z</updated>
+    <id>tag:github.com,2023-10-18:/KATO-Hiro/AtCoderNovisteps</id>
+    <link href="https://github.com/KATO-Hiro/AtCoderNovisteps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;【非公式】主にAtCoder Beginner Contest (通称、ABC) の A〜C 問題の難易度を細分化し、各段階で必要な知識を段階的を習得できるようにサポートします&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
