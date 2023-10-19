@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-18T01:30:09Z</updated>
+  <updated>2023-10-19T01:27:54Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Asadayot/ASAP</title>
-    <updated>2023-10-18T01:30:09Z</updated>
-    <id>tag:github.com,2023-10-18:/Asadayot/ASAP</id>
-    <link href="https://github.com/Asadayot/ASAP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ASAP 설치를 위한 인스톨 서포터 및 설명서&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ansforge/IG-fhir-gestion-agendas-partages</title>
+    <updated>2023-10-19T01:27:54Z</updated>
+    <id>tag:github.com,2023-10-19:/ansforge/IG-fhir-gestion-agendas-partages</id>
+    <link href="https://github.com/ansforge/IG-fhir-gestion-agendas-partages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[En concertation] Guide d&#39;implémentation du volet CI-SIS Gestion d&#39;agendas partagés (GAP)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

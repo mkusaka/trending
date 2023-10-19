@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-18T01:25:16Z</updated>
+  <updated>2023-10-19T01:24:10Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Maakaf/maakaf-temp</title>
-    <updated>2023-10-18T01:25:16Z</updated>
-    <id>tag:github.com,2023-10-18:/Maakaf/maakaf-temp</id>
-    <link href="https://github.com/Maakaf/maakaf-temp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;אתר זמני לקהילת מעקף.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SakagawaKyohei/Taxi-appp</title>
-    <updated>2023-10-18T01:25:16Z</updated>
-    <id>tag:github.com,2023-10-18:/SakagawaKyohei/Taxi-appp</id>
-    <link href="https://github.com/SakagawaKyohei/Taxi-appp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

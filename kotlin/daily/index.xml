@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-18T01:33:21Z</updated>
+  <updated>2023-10-19T01:30:16Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BryanGIG/PADumper</title>
+    <updated>2023-10-19T01:30:16Z</updated>
+    <id>tag:github.com,2023-10-19:/BryanGIG/PADumper</id>
+    <link href="https://github.com/BryanGIG/PADumper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Process Android Memory Dumper&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PADumper (Process Android Dumper)&lt;/h1&gt; &#xA;&lt;p&gt;This dumper is made for dumping libil2cpp.so but you can use it to dump any ELF from an Android Process&lt;/p&gt; &#xA;&lt;h2&gt;Feature&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Support detect ELF arch&lt;/li&gt; &#xA; &lt;li&gt;Support Fix ELF dump&lt;/li&gt; &#xA; &lt;li&gt;Support root &amp;amp; non root with Virtual Space&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;How To Use&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Run Game&lt;/li&gt; &#xA; &lt;li&gt;Open &lt;a href=&#34;https://github.com/BryanGIG/PADumper/releases&#34;&gt;PADumper&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Put process name manually or you can click &lt;code&gt;Select Apps&lt;/code&gt; to select running apps&lt;/li&gt; &#xA; &lt;li&gt;Put the ELF Name or you can leave it with default name &lt;code&gt;libil2cpp.so&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;[&lt;strong&gt;Optional&lt;/strong&gt;] Un-check &lt;code&gt;Check flag address&lt;/code&gt; if you want to skip check address permission (&lt;strong&gt;r-xp&lt;/strong&gt;)&lt;/li&gt; &#xA; &lt;li&gt;[&lt;strong&gt;Optional&lt;/strong&gt;] Check &lt;code&gt;Fix ELF&lt;/code&gt; if you want fix the ELF&lt;/li&gt; &#xA; &lt;li&gt;[&lt;strong&gt;Optional&lt;/strong&gt;] Check &lt;code&gt;global-metadata.dat&lt;/code&gt; if you want dump unity metadata from memory&lt;/li&gt; &#xA; &lt;li&gt;Dump and wait until finish&lt;/li&gt; &#xA; &lt;li&gt;Output: &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Root Method: &lt;code&gt;/sdcard/PADumper/[Process]/[startAddress-endAddress-file]&lt;/code&gt;&lt;/li&gt; &#xA;   &lt;li&gt;Non Root Method: &lt;code&gt;{HOME}/Download/PADumper/[Process]/[startAddress-endAddress-file]&lt;/code&gt;&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/topjohnwu/libsu&#34;&gt;&lt;strong&gt;libsu&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/F8LEFT/SoFixer&#34;&gt;&lt;strong&gt;SoFixer&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

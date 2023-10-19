@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-18T01:34:25Z</updated>
+  <updated>2023-10-19T01:31:06Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>amgordon/OldNewResponseModality</title>
+    <updated>2023-10-19T01:31:06Z</updated>
+    <id>tag:github.com,2023-10-19:/amgordon/OldNewResponseModality</id>
+    <link href="https://github.com/amgordon/OldNewResponseModality" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Present a recognition memory task with saccadic and manual responses via Matlab Psychtoolbox&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

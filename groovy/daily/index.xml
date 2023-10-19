@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-18T01:30:45Z</updated>
+  <updated>2023-10-19T01:28:16Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alxndrsn/grails-sanchez-plugin</title>
-    <updated>2023-10-18T01:30:45Z</updated>
-    <id>tag:github.com,2023-10-18:/alxndrsn/grails-sanchez-plugin</id>
-    <link href="https://github.com/alxndrsn/grails-sanchez-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Grails plugin for sanchez.js templating framework.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vladvoic/tomcatGradleExample</title>
-    <updated>2023-10-18T01:30:45Z</updated>
-    <id>tag:github.com,2023-10-18:/vladvoic/tomcatGradleExample</id>
-    <link href="https://github.com/vladvoic/tomcatGradleExample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;tomcat gradle hot swap example&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>QA-Instructor/lbg-grads</title>
+    <updated>2023-10-19T01:28:16Z</updated>
+    <id>tag:github.com,2023-10-19:/QA-Instructor/lbg-grads</id>
+    <link href="https://github.com/QA-Instructor/lbg-grads" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

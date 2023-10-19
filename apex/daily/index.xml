@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-18T01:25:03Z</updated>
+  <updated>2023-10-19T01:23:58Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>google/sf-evolve-forms</title>
-    <updated>2023-10-18T01:25:03Z</updated>
-    <id>tag:github.com,2023-10-18:/google/sf-evolve-forms</id>
-    <link href="https://github.com/google/sf-evolve-forms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A forms engine for Salesforce which allows record pages to be much more dynamic than is possible with out of the box features&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hamedizadpanah/oncompletetrigg</title>
+    <updated>2023-10-19T01:23:58Z</updated>
+    <id>tag:github.com,2023-10-19:/hamedizadpanah/oncompletetrigg</id>
+    <link href="https://github.com/hamedizadpanah/oncompletetrigg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
