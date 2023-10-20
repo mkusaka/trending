@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-19T01:36:09Z</updated>
+  <updated>2023-10-20T01:44:03Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jill64/parallel-stopwatch</title>
-    <updated>2023-10-19T01:36:09Z</updated>
-    <id>tag:github.com,2023-10-19:/jill64/parallel-stopwatch</id>
-    <link href="https://github.com/jill64/parallel-stopwatch" rel="alternate"></link>
+    <title>jill64/svelte-input</title>
+    <updated>2023-10-20T01:44:03Z</updated>
+    <id>tag:github.com,2023-10-20:/jill64/svelte-input</id>
+    <link href="https://github.com/jill64/svelte-input" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Input component set for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jill64/exmarkdown-code-utility</title>
+    <updated>2023-10-20T01:44:03Z</updated>
+    <id>tag:github.com,2023-10-20:/jill64/exmarkdown-code-utility</id>
+    <link href="https://github.com/jill64/exmarkdown-code-utility" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code utility plugin for svelte-exmarkdown&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lisaviktorsson/lisaviktorsson.github.io</title>
+    <updated>2023-10-20T01:44:03Z</updated>
+    <id>tag:github.com,2023-10-20:/lisaviktorsson/lisaviktorsson.github.io</id>
+    <link href="https://github.com/lisaviktorsson/lisaviktorsson.github.io" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

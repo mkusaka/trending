@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-19T01:37:29Z</updated>
+  <updated>2023-10-20T01:45:46Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>buqiyuan/vue3-antdv-admin</title>
-    <updated>2023-10-19T01:37:29Z</updated>
-    <id>tag:github.com,2023-10-19:/buqiyuan/vue3-antdv-admin</id>
-    <link href="https://github.com/buqiyuan/vue3-antdv-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于 vite4.x/vue-cli5.x + vue3.x + ant-design-vue4.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nuxt/nuxt.com</title>
+    <updated>2023-10-20T01:45:46Z</updated>
+    <id>tag:github.com,2023-10-20:/nuxt/nuxt.com</id>
+    <link href="https://github.com/nuxt/nuxt.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Nuxt website, made with Nuxt.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xieyuheng/x-editor</title>
-    <updated>2023-10-19T01:37:29Z</updated>
-    <id>tag:github.com,2023-10-19:/xieyuheng/x-editor</id>
-    <link href="https://github.com/xieyuheng/x-editor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A text editor embedded in the browser, while still can edit your local files. | Preview Markdown | View image | Listen audio | Watch video&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dotnet9/Dotnet9</title>
-    <updated>2023-10-19T01:37:29Z</updated>
-    <id>tag:github.com,2023-10-19:/dotnet9/Dotnet9</id>
-    <link href="https://github.com/dotnet9/Dotnet9" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Under development. See https://dotnet9.com for preview effect&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hostspaceng/community-challenge</title>
+    <updated>2023-10-20T01:45:46Z</updated>
+    <id>tag:github.com,2023-10-20:/hostspaceng/community-challenge</id>
+    <link href="https://github.com/hostspaceng/community-challenge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo with code snippets and instructions for HostSpace community challenge&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

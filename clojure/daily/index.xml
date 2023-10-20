@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-19T01:25:38Z</updated>
+  <updated>2023-10-20T01:29:16Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nathell/wybory2023</title>
-    <updated>2023-10-19T01:25:38Z</updated>
-    <id>tag:github.com,2023-10-19:/nathell/wybory2023</id>
-    <link href="https://github.com/nathell/wybory2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;O, wy bory polskie, o wy piękne lasy!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>redplanetlabs/rama-clojure-starter</title>
-    <updated>2023-10-19T01:25:38Z</updated>
-    <id>tag:github.com,2023-10-19:/redplanetlabs/rama-clojure-starter</id>
-    <link href="https://github.com/redplanetlabs/rama-clojure-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An empty Clojure project configured for developing with Rama&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

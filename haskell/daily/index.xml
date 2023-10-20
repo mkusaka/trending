@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-19T01:28:24Z</updated>
+  <updated>2023-10-20T01:34:35Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Bodigrim/cabal-add</title>
-    <updated>2023-10-19T01:28:24Z</updated>
-    <id>tag:github.com,2023-10-19:/Bodigrim/cabal-add</id>
-    <link href="https://github.com/Bodigrim/cabal-add" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extend Cabal build-depends from the command line&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cabal-add&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ cabal-add --help&#xA;Usage: cabal-add (-f|--cabal-file FILE) [-c|--component ARG] DEP&#xA;&#xA;  Extend build-depends from the command line&#xA;&#xA;Available options:&#xA;  -f,--cabal-file FILE     Cabal file to edit in place.&#xA;  -c,--component ARG       Package component to update (the main library, if&#xA;                           omitted). Wildcards such as &#39;exe&#39;, &#39;test&#39; or &#39;bench&#39;&#xA;                           are supported.&#xA;  DEP                      Package(s) to add to build-depends section. Version&#xA;                           bounds can be provided as well, use quotes to escape&#xA;                           comparisons from your shell. E. g., &#39;foo &amp;lt; 0.2&#39;.&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>serialhex/Language---Up-Goer-5</title>
+    <updated>2023-10-20T01:34:35Z</updated>
+    <id>tag:github.com,2023-10-20:/serialhex/Language---Up-Goer-5</id>
+    <link href="https://github.com/serialhex/Language---Up-Goer-5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Up Goer 5 Sublime Text Word Set Add-On!!!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The Up Goer 5 Sublime Text Word Set Add-On!!!&lt;/h1&gt; &#xA;&lt;p&gt;...or really any word set&lt;/p&gt; &#xA;&lt;p&gt;this idea was taken from &lt;a href=&#34;http://splasho.com/upgoer5/&#34;&gt;The Up Goer 5 Text Editor&lt;/a&gt; (which should really be called &#34;The Up Goer 5 Word Writer&#34; or some such...) All this is, is a small word set that will show you if what you are writing is not one of the ten hundred most often used words. The only problem is that you can yourself add words to the word set by pressing the right side push thing and pick &#34;Ignore&#34;. There is no way I can stop this from happening, so be watching what you do!&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>duairc/layers</title>
-    <updated>2023-10-19T01:28:24Z</updated>
-    <id>tag:github.com,2023-10-19:/duairc/layers</id>
-    <link href="https://github.com/duairc/layers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modular type class machinery for monad transformer stacks.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mgomezch/CI4251</title>
-    <updated>2023-10-19T01:28:24Z</updated>
-    <id>tag:github.com,2023-10-19:/mgomezch/CI4251</id>
-    <link href="https://github.com/mgomezch/CI4251" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Programación funcional avanzada en la USB&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>larjo/MixView</title>
+    <updated>2023-10-20T01:34:35Z</updated>
+    <id>tag:github.com,2023-10-20:/larjo/MixView</id>
+    <link href="https://github.com/larjo/MixView" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mixmeister Playlist Viewer&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Mixmeister Playlist Viewer&lt;/h1&gt; &#xA;&lt;p&gt;This is a simple program that parses Mixmeister playlists, which is a type of RIFF-file, into a stream of tokens.&lt;/p&gt; &#xA;&lt;p&gt;There are two structures that the RIFF-file can be parsed into: A flat structure, equvalent to RiffChunks = List(Data|List)*&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haskell&#34;&gt;data Chunk = DataChunk Data&#xA;           | ListChunk List&#xA;&#xA;data RiffChunks = RiffChunks List [Chunk]&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;and a tree structure:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haskell&#34;&gt;data Tree = Leaf Data&#xA;          | Node Riff&#xA;&#xA;data Riff = Riff Format [Tree]&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

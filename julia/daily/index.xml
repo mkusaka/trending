@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-19T01:29:55Z</updated>
+  <updated>2023-10-20T01:36:14Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ScientificComputingCWI/AutumnSchool2023</title>
-    <updated>2023-10-19T01:29:55Z</updated>
-    <id>tag:github.com,2023-10-19:/ScientificComputingCWI/AutumnSchool2023</id>
-    <link href="https://github.com/ScientificComputingCWI/AutumnSchool2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Course material for the autumn school in scienfic machine learning 2023&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>QEDjl-project/QEDprocesses.jl</title>
+    <updated>2023-10-20T01:36:14Z</updated>
+    <id>tag:github.com,2023-10-20:/QEDjl-project/QEDprocesses.jl</id>
+    <link href="https://github.com/QEDjl-project/QEDprocesses.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>beacon-biosignals/EDF.jl</title>
-    <updated>2023-10-19T01:29:55Z</updated>
-    <id>tag:github.com,2023-10-19:/beacon-biosignals/EDF.jl</id>
-    <link href="https://github.com/beacon-biosignals/EDF.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Read and write EDF files in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>orlox/Jems.jl</title>
+    <updated>2023-10-20T01:36:14Z</updated>
+    <id>tag:github.com,2023-10-20:/orlox/Jems.jl</id>
+    <link href="https://github.com/orlox/Jems.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MultivariatePolynomialSystems/DecomposingPolynomialSystems.jl</title>
+    <updated>2023-10-20T01:36:14Z</updated>
+    <id>tag:github.com,2023-10-20:/MultivariatePolynomialSystems/DecomposingPolynomialSystems.jl</id>
+    <link href="https://github.com/MultivariatePolynomialSystems/DecomposingPolynomialSystems.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DecomposingPolynomialSystems.jl is a Julia package that decomposes (simplifies) a given polynomial system using tools from numerical algebraic geometry.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-19T01:35:07Z</updated>
+  <updated>2023-10-20T01:42:43Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lucastorri/jsonflow</title>
-    <updated>2023-10-19T01:35:07Z</updated>
-    <id>tag:github.com,2023-10-19:/lucastorri/jsonflow</id>
-    <link href="https://github.com/lucastorri/jsonflow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;reach json fields using Scala&#39;s Dynamic Type&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Check the tests for a better description.&lt;/p&gt;</summary>
+    <title>nikolaybotev/bootsmart</title>
+    <updated>2023-10-20T01:42:43Z</updated>
+    <id>tag:github.com,2023-10-20:/nikolaybotev/bootsmart</id>
+    <link href="https://github.com/nikolaybotev/bootsmart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generic boot-chart inspired graphing tool.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>randyunger/urlPing</title>
+    <updated>2023-10-20T01:42:43Z</updated>
+    <id>tag:github.com,2023-10-20:/randyunger/urlPing</id>
+    <link href="https://github.com/randyunger/urlPing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ping a url continuously, get feedback if it becomes unaccessible&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;urlPing&lt;/h1&gt; &#xA;&lt;p&gt;ping a url continuously&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ahjohannessen/sec</title>
+    <updated>2023-10-20T01:42:43Z</updated>
+    <id>tag:github.com,2023-10-20:/ahjohannessen/sec</id>
+    <link href="https://github.com/ahjohannessen/sec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scala Eventstore Client&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/ahjohannessen/sec/workflows/CI/badge.svg?sanitize=true&#34; alt=&#34;CI&#34;&gt; &lt;img src=&#34;https://img.shields.io/maven-central/v/io.github.ahjohannessen/sec-fs2-client_2.13?color=brightgreen&#34; alt=&#34;Maven Central&#34;&gt; &lt;img src=&#34;https://img.shields.io/nexus/s/io.github.ahjohannessen/sec-fs2-client_3?server=https%3A%2F%2Fs01.oss.sonatype.org&amp;amp;label=sonatype&#34; alt=&#34;Sonatype Nexus (Snapshots)&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/Code%20of%20Conduct-Scala-blue.svg?sanitize=true&#34; alt=&#34;Code of Consuct&#34;&gt; &lt;a href=&#34;https://scala-steward.org&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Scala_Steward-helping-blue.svg?style=flat&amp;amp;logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAAAVFBMVEUAAACHjojlOy5NWlrKzcYRKjGFjIbp293YycuLa3pYY2LSqql4f3pCUFTgSjNodYRmcXUsPD/NTTbjRS+2jomhgnzNc223cGvZS0HaSD0XLjbaSjElhIr+AAAAAXRSTlMAQObYZgAAAHlJREFUCNdNyosOwyAIhWHAQS1Vt7a77/3fcxxdmv0xwmckutAR1nkm4ggbyEcg/wWmlGLDAA3oL50xi6fk5ffZ3E2E3QfZDCcCN2YtbEWZt+Drc6u6rlqv7Uk0LdKqqr5rk2UCRXOk0vmQKGfc94nOJyQjouF9H/wCc9gECEYfONoAAAAASUVORK5CYII=&#34; alt=&#34;Scala Steward badge&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://mergify.io&#34;&gt;&lt;img src=&#34;https://img.shields.io/endpoint.svg?url=https://api.mergify.com/v1/badges/ahjohannessen/sec&amp;amp;style=flat&#34; alt=&#34;Mergify Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;sec&lt;/em&gt; is a client library for Scala + EventStoreDB - Proceed to the &lt;a href=&#34;https://ahjohannessen.github.io/sec&#34;&gt;microsite&lt;/a&gt; for more information.&lt;/p&gt; &#xA;&lt;h3&gt;Tool Sponsorship&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img width=&#34;185px&#34; height=&#34;44px&#34; align=&#34;right&#34; src=&#34;https://www.yourkit.com/images/yklogo.png&#34;&gt;Development of &lt;em&gt;sec&lt;/em&gt; is generously supported in part by &lt;a href=&#34;https://www.yourkit.com&#34;&gt;YourKit&lt;/a&gt; through the use of their excellent Java profiler.&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-19T01:28:41Z</updated>
+  <updated>2023-10-20T01:34:58Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bradtraversy/saas-landing-page</title>
-    <updated>2023-10-19T01:28:41Z</updated>
-    <id>tag:github.com,2023-10-19:/bradtraversy/saas-landing-page</id>
-    <link href="https://github.com/bradtraversy/saas-landing-page" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple landing page for a SaaS&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;SaaS Company Landing Page&lt;/h1&gt; &#xA;&lt;p&gt;This is part of my &lt;a href=&#34;https://www.youtube.com/watch?v=HXYZxVbWkjc&#34;&gt;YouTube HTML/CSS tutorial&lt;/a&gt; on building a professional website for beginners.&lt;/p&gt; &#xA;&lt;p&gt;This project is from the &lt;a href=&#34;https://icodethis.com/?ref=traversy&#34;&gt;iCodeThis&lt;/a&gt; challenge website and does not use any frameworks or libraries. It is built with pure HTML and CSS and a bit of JavaScript for the hamburger menu and the FAQ accordion.&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/bradtraversy/saas-landing-page/main/images/screen.png&#34; width=&#34;500&#34; style=&#34;display:block;margin: 40px auto&#34;&gt; &#xA;&lt;h2&gt;Steps to use Docker&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;docker build -t saas-landing-page:1 .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;docker run -d -p 80:80 saas-landing-page:1&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
-  <entry>
-    <title>c4coderandcreator/Flavour-Fusion</title>
-    <updated>2023-10-19T01:28:41Z</updated>
-    <id>tag:github.com,2023-10-19:/c4coderandcreator/Flavour-Fusion</id>
-    <link href="https://github.com/c4coderandcreator/Flavour-Fusion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&#34;Flavour Fusion : Real World Project&#34;. It has all the necessary features required for a Food website.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Flavour-Fusion : Food Website&lt;/h1&gt; &#xA;&lt;p&gt;This is a Food Website built with HTML, CSS, and JavaScript. It allows user to order food , view menu list and many more.&lt;/p&gt; &#xA;&lt;h2&gt;Tech Stack&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;HTML&lt;/li&gt; &#xA; &lt;li&gt;CSS&lt;/li&gt; &#xA; &lt;li&gt;BootStrap&lt;/li&gt; &#xA; &lt;li&gt;JavaScript&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Fork the repository to your Github:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;After Forking, clone the repo to your local machine.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Open the index.html file in your web browser to start using the application.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Go through sections&lt;/li&gt; &#xA; &lt;li&gt;Check for Features&lt;/li&gt; &#xA; &lt;li&gt;Try out those features&lt;/li&gt; &#xA; &lt;li&gt;Finally Try to improve it&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;We welcome and appreciate contributions from the open-source community to make Flavour Fusion even better. To get started with contributing, please read our &lt;a href=&#34;https://raw.githubusercontent.com/c4coderandcreator/Flavour-Fusion/main/CONTRIBUTING.md&#34;&gt;Contributing Guidelines&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Feel free to contribute to this project&lt;/p&gt; &#xA;&lt;h2&gt;Thanks to all Contributors 💪&lt;/h2&gt; &#xA;&lt;p&gt;Your contribution is the root of success of this project.&lt;/p&gt; &#xA;&lt;p&gt;Also Give it a Star 🌟, If you loved contributing to the project. Let&#39;s connect on my &lt;a href=&#34;https://github.com/c4coderandcreator&#34;&gt;Github&lt;/a&gt; for more such projects !!&lt;/p&gt; &#xA;&lt;h2&gt;Security Policy&lt;/h2&gt; &#xA;&lt;p&gt;we take the security of Flavour Fusion seriously. We appreciate your efforts to responsibly disclose your findings, and we will work to promptly address and resolve any reported security issues. Found some Security Issue ? want to report ? Please read &lt;a href=&#34;https://raw.githubusercontent.com/c4coderandcreator/Flavour-Fusion/main/SECURITY.md&#34;&gt;Security Policy&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;&lt;a href=&#34;https://github.com/c4coderandcreator/Flavour-Fusion/raw/main/LICENSE&#34;&gt;MIT Licensed&lt;/a&gt;&lt;/h2&gt;</summary>
-  </entry>
-  <entry>
-    <title>orcas-lab/hope-you-never-need-it</title>
-    <updated>2023-10-19T01:28:41Z</updated>
-    <id>tag:github.com,2023-10-19:/orcas-lab/hope-you-never-need-it</id>
-    <link href="https://github.com/orcas-lab/hope-you-never-need-it" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An emergency booklet, I hope you will never use it&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Hope-you-never-need-it&lt;/h1&gt; &#xA;&lt;h2&gt;关于&lt;/h2&gt; &#xA;&lt;p&gt;随着人类的发展，环境正在变得愈发糟糕。自然灾害频发的同时，各国之间也剑拔弩张。刚刚“过去”的“Covid-19”大流行，也许让不少人都意识到了应急求生知识的重要性。&lt;/p&gt; &#xA;&lt;p&gt;本项目旨在创建一个免费、中立的应急小册。我们希望你永远用不到这本小册上的知识，如果遇到了我希望这本小册可以帮助你脱离困难，安全回家。&lt;/p&gt; &#xA;&lt;h2&gt;加入我们&lt;/h2&gt; &#xA;&lt;p&gt;本书还有许多内容要完善，欢迎通过 &lt;a href=&#34;https://github.com/orcas-lab/hope-you-never-need-it/pulls&#34;&gt;Pull Requests&lt;/a&gt; 的方式来帮助项目更好的成长&lt;/p&gt; &#xA;&lt;p&gt;当然，您也可以通过如下的方式进行贡献&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;在评论区中指出知识点或内容错误&lt;/li&gt; &#xA; &lt;li&gt;宣传本项目&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>esphome/firmware</title>
+    <updated>2023-10-20T01:34:58Z</updated>
+    <id>tag:github.com,2023-10-20:/esphome/firmware</id>
+    <link href="https://github.com/esphome/firmware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ESPHome firmwares&lt;/h1&gt; &#xA;&lt;p&gt;This repo holds the source of various firmwares used for installing ESPHome onto devices with &lt;a href=&#34;https://github.com/esphome/esp-web-tools&#34;&gt;esphome/esp-web-tools&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-19T01:23:20Z</updated>
+  <updated>2023-10-20T01:24:35Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ByteByteGoHq/system-design-101</title>
-    <updated>2023-10-19T01:23:20Z</updated>
-    <id>tag:github.com,2023-10-19:/ByteByteGoHq/system-design-101</id>
-    <link href="https://github.com/ByteByteGoHq/system-design-101" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>davidetaibi/Microservices_Project_List</title>
+    <updated>2023-10-20T01:24:35Z</updated>
+    <id>tag:github.com,2023-10-20:/davidetaibi/Microservices_Project_List</id>
+    <link href="https://github.com/davidetaibi/Microservices_Project_List" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated List of project that migrated to microservices&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>barnamenevisi/free-resources</title>
-    <updated>2023-10-19T01:23:20Z</updated>
-    <id>tag:github.com,2023-10-19:/barnamenevisi/free-resources</id>
-    <link href="https://github.com/barnamenevisi/free-resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;، تمام منابع آموزشی معرفی شده رایگان هستن برای اینکه هیچکس به خاطر نداشتن پول از آموزش عقب نمونه&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>julianazanelatto/power_bi_analyst</title>
+    <updated>2023-10-20T01:24:35Z</updated>
+    <id>tag:github.com,2023-10-20:/julianazanelatto/power_bi_analyst</id>
+    <link href="https://github.com/julianazanelatto/power_bi_analyst" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MrNeRF/awesome-3D-gaussian-splatting</title>
-    <updated>2023-10-19T01:23:20Z</updated>
-    <id>tag:github.com,2023-10-19:/MrNeRF/awesome-3D-gaussian-splatting</id>
-    <link href="https://github.com/MrNeRF/awesome-3D-gaussian-splatting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uzh-rpg/event-based_vision_resources</title>
+    <updated>2023-10-20T01:24:35Z</updated>
+    <id>tag:github.com,2023-10-20:/uzh-rpg/event-based_vision_resources</id>
+    <link href="https://github.com/uzh-rpg/event-based_vision_resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

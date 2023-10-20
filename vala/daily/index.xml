@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-19T01:37:12Z</updated>
+  <updated>2023-10-20T01:45:22Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elementary/capnet-assist</title>
-    <updated>2023-10-19T01:37:12Z</updated>
-    <id>tag:github.com,2023-10-19:/elementary/capnet-assist</id>
-    <link href="https://github.com/elementary/capnet-assist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Captive Portal Assistant&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zylex/valabattery</title>
+    <updated>2023-10-20T01:45:22Z</updated>
+    <id>tag:github.com,2023-10-20:/zylex/valabattery</id>
+    <link href="https://github.com/zylex/valabattery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;battery monitor in system tray coded in vala&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

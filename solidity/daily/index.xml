@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-19T01:35:46Z</updated>
+  <updated>2023-10-20T01:43:32Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>code-423n4/2023-10-wildcat</title>
-    <updated>2023-10-19T01:35:46Z</updated>
-    <id>tag:github.com,2023-10-19:/code-423n4/2023-10-wildcat</id>
-    <link href="https://github.com/code-423n4/2023-10-wildcat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>techrityorg/hack-for-good</title>
-    <updated>2023-10-19T01:35:46Z</updated>
-    <id>tag:github.com,2023-10-19:/techrityorg/hack-for-good</id>
-    <link href="https://github.com/techrityorg/hack-for-good" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hack for Good aims to bring together builders, innovators and thinkers to develop and hack veritable use cases and solutions aimed at solving unique challenges within the African continent.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ensdomains/evmgateway</title>
-    <updated>2023-10-19T01:35:46Z</updated>
-    <id>tag:github.com,2023-10-19:/ensdomains/evmgateway</id>
-    <link href="https://github.com/ensdomains/evmgateway" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository implements a generic CCIP-Read gateway for fetching state proofs of data on other EVM chains. The intended use is for contracts on L1 to be able to fetch and verify data from contracts on L2 in a read context.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
