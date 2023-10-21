@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-20T01:31:32Z</updated>
+  <updated>2023-10-21T01:26:12Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lemono0/FastJsonParty</title>
-    <updated>2023-10-20T01:31:32Z</updated>
-    <id>tag:github.com,2023-10-20:/lemono0/FastJsonParty</id>
-    <link href="https://github.com/lemono0/FastJsonParty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FastJson全版本Docker漏洞环境(涵盖1.2.47/1.2.68/1.2.80等版本)，主要包括JNDI注入及高版本绕过、waf绕过、文件读写、原生反序列化、利用链探测绕过、不出网利用等。从黑盒的角度覆盖FastJson深入利用&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FastJsonParty&lt;/h1&gt; &#xA;&lt;p&gt;FastJson全版本Docker漏洞环境(涵盖1.2.47/1.2.68/1.2.80等版本)，主要包括JNDI注入、waf绕过、文件读写、原生反序列化、利用链探测绕过、不出网利用等。设定场景为黑盒利用，从黑盒的角度覆盖FastJson深入利用全过程，部分环境需要给到jar包反编译分析。&lt;/p&gt; &#xA;&lt;p&gt;Docker环境，开箱即用。&lt;/p&gt; &#xA;&lt;p&gt;环境启动：&lt;code&gt;docker compose up -d&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;若docker拉取环境缓慢，请尝试使用国内镜像&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.runoob.com/docker/docker-mirror-acceleration.html&#34;&gt;https://www.runoob.com/docker/docker-mirror-acceleration.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;环境启动后，访问对应ip的80端口：&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lemono0/FastJsonParty/main/images/1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;总结了一些关于FastJson全版本常用漏洞利用Poc,可搭配食用：&lt;a href=&#34;https://raw.githubusercontent.com/lemono0/FastJsonParty/main/Fastjson%E5%85%A8%E7%89%88%E6%9C%AC%E6%A3%80%E6%B5%8B%E5%8F%8A%E5%88%A9%E7%94%A8-Poc.md&#34;&gt;Fastjson全版本检测及利用-Poc&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;环境使用后请销毁,否则可能会冲突：&lt;code&gt;docker compose down&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;每个机器根目录下都藏有flag文件，去尝试获取吧！&lt;/p&gt; &#xA;&lt;p&gt;And have fun!&lt;/p&gt;</summary>
+    <title>Docker-Hub-frolvlad/docker-alpine-python3</title>
+    <updated>2023-10-21T01:26:12Z</updated>
+    <id>tag:github.com,2023-10-21:/Docker-Hub-frolvlad/docker-alpine-python3</id>
+    <link href="https://github.com/Docker-Hub-frolvlad/docker-alpine-python3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The smallest Docker image with Python 3.7 (~57MB)&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://hub.docker.com/r/frolvlad/alpine-python3/&#34;&gt;&lt;img src=&#34;https://img.shields.io/docker/stars/frolvlad/alpine-python3.svg?style=flat-square&#34; alt=&#34;Docker Stars&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://hub.docker.com/r/frolvlad/alpine-python3/&#34;&gt;&lt;img src=&#34;https://img.shields.io/docker/pulls/frolvlad/alpine-python3.svg?style=flat-square&#34; alt=&#34;Docker Pulls&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Python 3.9 Docker image&lt;/h1&gt; &#xA;&lt;p&gt;This image is based on Alpine Linux image, which is only a 5MB image, and contains &lt;a href=&#34;https://www.python.org/&#34;&gt;Python 3.8&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This image is only 63MB on disk.&lt;/p&gt; &#xA;&lt;h2&gt;Usage Example&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ docker run --rm frolvlad/alpine-python3 python3 -c &#39;print(&#34;Hello World&#34;)&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Once you have run this command you will get printed &#39;Hello World&#39; from Python! Or use it interactivelly:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ docker run -it --rm frolvlad/alpine-python3 python3&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;NOTE: &lt;code&gt;pip&lt;/code&gt;/&lt;code&gt;pip3&lt;/code&gt; is also available in this image.&lt;/p&gt;</summary>
   </entry>
 </feed>

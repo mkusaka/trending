@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-20T01:32:36Z</updated>
+  <updated>2023-10-21T01:26:48Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>brainlid/langchain_demo</title>
-    <updated>2023-10-20T01:32:36Z</updated>
-    <id>tag:github.com,2023-10-20:/brainlid/langchain_demo</id>
-    <link href="https://github.com/brainlid/langchain_demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo web project using the Elixir LangChain library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>happening-oss/kafka-client</title>
+    <updated>2023-10-21T01:26:48Z</updated>
+    <id>tag:github.com,2023-10-21:/happening-oss/kafka-client</id>
+    <link href="https://github.com/happening-oss/kafka-client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

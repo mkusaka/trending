@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AppleScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-20T01:25:35Z</updated>
+  <updated>2023-10-21T01:22:57Z</updated>
   <subtitle>Daily Trending of AppleScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MildC/alfred_workflows</title>
+    <updated>2023-10-21T01:22:57Z</updated>
+    <id>tag:github.com,2023-10-21:/MildC/alfred_workflows</id>
+    <link href="https://github.com/MildC/alfred_workflows" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Workflows for Alfred 2&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Alfred Workflows&lt;/h1&gt; &#xA;&lt;p&gt;All shell scirpt action using zsh as default, but Alfred seems to use bash if zsh not available, so I don&#39;t bother modifiy that.&lt;/p&gt; &#xA;&lt;p&gt;Workflows for &lt;a href=&#34;http://www.alfredapp.com/&#34;&gt;Alfred 2&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Open Folder in iTerm2&lt;/h2&gt; &#xA;&lt;p&gt;Open iTerm and then cd into a directory by using keyword &#39;cd&#39;.&lt;/p&gt; &#xA;&lt;p&gt;The default directory will be the current active window.&lt;/p&gt; &#xA;&lt;h2&gt;Touch&lt;/h2&gt; &#xA;&lt;p&gt;Creates a file in the active Finder window&lt;/p&gt; &#xA;&lt;h2&gt;Open with Sublime Text 2&lt;/h2&gt; &#xA;&lt;p&gt;Open files or a folders in Sublime by using a Keyword &#39;subl&#39;. This workflow is modified from &lt;a href=&#34;https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text-2&#34;&gt;Here&lt;/a&gt; The original one cannot open Folder with arguments or through folder actions, the modified workflow uses bash scirpt instead of AppleScript to avoid this problem. You need to have &lt;a href=&#34;http://www.sublimetext.com/docs/2/osx_command_line.html&#34;&gt;Sublime Command Line&lt;/a&gt; to make this work.&lt;/p&gt;</summary>
+  </entry>
 </feed>

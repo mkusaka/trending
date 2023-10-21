@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-20T01:40:01Z</updated>
+  <updated>2023-10-21T01:34:56Z</updated>
   <subtitle>Daily Trending of PLSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tmax-cloud/tcp-iaas-install-guide</title>
-    <updated>2023-10-20T01:40:01Z</updated>
-    <id>tag:github.com,2023-10-20:/tmax-cloud/tcp-iaas-install-guide</id>
-    <link href="https://github.com/tmax-cloud/tcp-iaas-install-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-20T01:44:03Z</updated>
+  <updated>2023-10-21T01:39:28Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jill64/svelte-input</title>
-    <updated>2023-10-20T01:44:03Z</updated>
-    <id>tag:github.com,2023-10-20:/jill64/svelte-input</id>
-    <link href="https://github.com/jill64/svelte-input" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Input component set for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jill64/exmarkdown-code-utility</title>
-    <updated>2023-10-20T01:44:03Z</updated>
-    <id>tag:github.com,2023-10-20:/jill64/exmarkdown-code-utility</id>
-    <link href="https://github.com/jill64/exmarkdown-code-utility" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code utility plugin for svelte-exmarkdown&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lisaviktorsson/lisaviktorsson.github.io</title>
-    <updated>2023-10-20T01:44:03Z</updated>
-    <id>tag:github.com,2023-10-20:/lisaviktorsson/lisaviktorsson.github.io</id>
-    <link href="https://github.com/lisaviktorsson/lisaviktorsson.github.io" rel="alternate"></link>
+    <title>iotaledger/legacy-migration-tool</title>
+    <updated>2023-10-21T01:39:28Z</updated>
+    <id>tag:github.com,2023-10-21:/iotaledger/legacy-migration-tool</id>
+    <link href="https://github.com/iotaledger/legacy-migration-tool" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rianadon/Cosmos-Keyboards</title>
+    <updated>2023-10-21T01:39:28Z</updated>
+    <id>tag:github.com,2023-10-21:/rianadon/Cosmos-Keyboards</id>
+    <link href="https://github.com/rianadon/Cosmos-Keyboards" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Taking Keyboards to the Final Frontier&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
