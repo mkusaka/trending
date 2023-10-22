@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-21T01:24:53Z</updated>
+  <updated>2023-10-22T01:29:22Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Sensing-Intelligent-System/apriltags_ros_test</title>
+    <updated>2023-10-22T01:29:22Z</updated>
+    <id>tag:github.com,2023-10-22:/Sensing-Intelligent-System/apriltags_ros_test</id>
+    <link href="https://github.com/Sensing-Intelligent-System/apriltags_ros_test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Apex Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T01:46:36Z</updated>
+  <subtitle>Weekly Trending of Apex in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>grizzleevelyn/231009_dev_clicked_template</title>
+    <updated>2023-10-22T01:46:36Z</updated>
+    <id>tag:github.com,2023-10-22:/grizzleevelyn/231009_dev_clicked_template</id>
+    <link href="https://github.com/grizzleevelyn/231009_dev_clicked_template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The template classes for the October 9th, 2023 Clicked Sprint.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

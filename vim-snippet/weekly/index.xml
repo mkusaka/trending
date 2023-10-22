@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Snippet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T02:04:07Z</updated>
+  <subtitle>Weekly Trending of Vim Snippet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dishao123/rules_script</title>
+    <updated>2023-10-22T02:04:07Z</updated>
+    <id>tag:github.com,2023-10-22:/dishao123/rules_script</id>
+    <link href="https://github.com/dishao123/rules_script" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quantumult X，Shadowrocket，Clash，Stash，Surge，Loon，Quan X，QX， 圈X，圈叉，小火箭，气球，色鸡，分流，重写，脚本，规则，插件，IOS去广告，解锁 VIP，破解会员，懒人配置，懒人规则&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

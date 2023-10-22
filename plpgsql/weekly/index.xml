@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PLpgSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T01:58:38Z</updated>
+  <subtitle>Weekly Trending of PLpgSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>1eez/103976</title>
+    <updated>2023-10-22T01:58:38Z</updated>
+    <id>tag:github.com,2023-10-22:/1eez/103976</id>
+    <link href="https://github.com/1eez/103976" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;103976个英语单词库（sql版，csv版，Excel版）包含英文单词，中文翻译，单词的词性及多种词义,执行SQL语句就可以生成表，支持SQL Server，MySQL等多种数据库&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

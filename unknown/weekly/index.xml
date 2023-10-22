@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T01:46:06Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ProfSynapse/Synapse_CoR</title>
+    <updated>2023-10-22T01:46:06Z</updated>
+    <id>tag:github.com,2023-10-22:/ProfSynapse/Synapse_CoR</id>
+    <link href="https://github.com/ProfSynapse/Synapse_CoR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nsacyber/ELITEWOLF</title>
+    <updated>2023-10-22T01:46:06Z</updated>
+    <id>tag:github.com,2023-10-22:/nsacyber/ELITEWOLF</id>
+    <link href="https://github.com/nsacyber/ELITEWOLF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OT security monitoring #nsacyber&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>e2b-dev/awesome-ai-agents</title>
+    <updated>2023-10-22T01:46:06Z</updated>
+    <id>tag:github.com,2023-10-22:/e2b-dev/awesome-ai-agents</id>
+    <link href="https://github.com/e2b-dev/awesome-ai-agents" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of AI autonomous agents&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

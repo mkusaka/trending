@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T01:48:47Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mikeumus/docpad-plugin-facebookcomments</title>
+    <updated>2023-10-22T01:48:47Z</updated>
+    <id>tag:github.com,2023-10-22:/mikeumus/docpad-plugin-facebookcomments</id>
+    <link href="https://github.com/mikeumus/docpad-plugin-facebookcomments" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚠ NEEDS UPDATE FOR NEWER VERSIONS OF DOCPAD. @getFacebookComments() for Docpad !&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>michaelvillar/dynamics.js</title>
+    <updated>2023-10-22T01:48:47Z</updated>
+    <id>tag:github.com,2023-10-22:/michaelvillar/dynamics.js</id>
+    <link href="https://github.com/michaelvillar/dynamics.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Javascript library to create physics-based animations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kynan/MindTheGapp</title>
+    <updated>2023-10-22T01:48:47Z</updated>
+    <id>tag:github.com,2023-10-22:/kynan/MindTheGapp</id>
+    <link href="https://github.com/kynan/MindTheGapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

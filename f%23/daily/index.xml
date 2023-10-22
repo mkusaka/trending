@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-21T01:27:12Z</updated>
+  <updated>2023-10-22T01:31:57Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fsprojects/Argu</title>
-    <updated>2023-10-21T01:27:12Z</updated>
-    <id>tag:github.com,2023-10-21:/fsprojects/Argu</id>
-    <link href="https://github.com/fsprojects/Argu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A declarative CLI argument parser for F#&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Argu &lt;a href=&#34;https://github.com/fsprojects/Argu/actions&#34;&gt;&lt;img src=&#34;https://github.com/fsprojects/Argu/workflows/Build%20&amp;amp;%20Tests/badge.svg?branch=master&#34; alt=&#34;Build &amp;amp; Tests&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.nuget.org/packages/Argu&#34;&gt;&lt;img src=&#34;https://buildstats.info/nuget/Argu&#34; alt=&#34;NuGet Badge&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;A declarative CLI argument/XML configuration parser for F# applications.&lt;/p&gt; &#xA;&lt;p&gt;A package of the library is available on &lt;a href=&#34;http://www.nuget.org/packages/Argu/&#34;&gt;Nuget&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;Documentation&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://fsprojects.github.io/Argu/tutorial.html&#34;&gt;Tutorial&lt;/a&gt; A short walkthrough of Argu features.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://fsprojects.github.io/Argu/reference/index.html&#34;&gt;API Reference&lt;/a&gt; Auto-generated library documentation.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;All documentation and related material can be found &lt;a href=&#34;http://fsprojects.github.io/Argu/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;Maintainers&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Eirik Tsarpalis (&lt;a href=&#34;https://twitter.com/eiriktsarpalis&#34;&gt;@eiriktsarpalis&lt;/a&gt;)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

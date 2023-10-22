@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T01:59:31Z</updated>
+  <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>muresan/learning-puppet</title>
+    <updated>2023-10-22T01:59:31Z</updated>
+    <id>tag:github.com,2023-10-22:/muresan/learning-puppet</id>
+    <link href="https://github.com/muresan/learning-puppet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;learning puppet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ankurpshah/cms-puppet</title>
+    <updated>2023-10-22T01:59:31Z</updated>
+    <id>tag:github.com,2023-10-22:/ankurpshah/cms-puppet</id>
+    <link href="https://github.com/ankurpshah/cms-puppet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet recipes for the HouseTrip CMS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>avalonmediasystem/avalon-installer</title>
+    <updated>2023-10-22T01:59:31Z</updated>
+    <id>tag:github.com,2023-10-22:/avalonmediasystem/avalon-installer</id>
+    <link href="https://github.com/avalonmediasystem/avalon-installer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vagrant/Puppet installation script for the Avalon Media System&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

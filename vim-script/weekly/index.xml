@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T02:04:10Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>killtheliterate/dotvim</title>
+    <updated>2023-10-22T02:04:10Z</updated>
+    <id>tag:github.com,2023-10-22:/killtheliterate/dotvim</id>
+    <link href="https://github.com/killtheliterate/dotvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim Configuration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kristijanhusak/vim-dadbod-completion</title>
+    <updated>2023-10-22T02:04:10Z</updated>
+    <id>tag:github.com,2023-10-22:/kristijanhusak/vim-dadbod-completion</id>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-completion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Database autocompletion powered by https://github.com/tpope/vim-dadbod&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>guumaster/vimrc</title>
+    <updated>2023-10-22T02:04:10Z</updated>
+    <id>tag:github.com,2023-10-22:/guumaster/vimrc</id>
+    <link href="https://github.com/guumaster/vimrc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My fabulous VIM configuration. Includes vundle and several plugins.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Prolog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T01:59:22Z</updated>
+  <subtitle>Weekly Trending of Prolog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jozemberi/prolog-xsb-primjeri</title>
+    <updated>2023-10-22T01:59:22Z</updated>
+    <id>tag:github.com,2023-10-22:/jozemberi/prolog-xsb-primjeri</id>
+    <link href="https://github.com/jozemberi/prolog-xsb-primjeri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Riješeni primjeri zadataka. Prolog XSB. (Solved examples).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

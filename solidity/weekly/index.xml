@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T02:02:14Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>code-423n4/2023-10-brahma</title>
+    <updated>2023-10-22T02:02:14Z</updated>
+    <id>tag:github.com,2023-10-22:/code-423n4/2023-10-brahma</id>
+    <link href="https://github.com/code-423n4/2023-10-brahma" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>daimo-eth/p256-verifier</title>
+    <updated>2023-10-22T02:02:14Z</updated>
+    <id>tag:github.com,2023-10-22:/daimo-eth/p256-verifier</id>
+    <link href="https://github.com/daimo-eth/p256-verifier" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;P256 signature verification solidity contract: Fallback contract from EIP-7212 precompile&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>matter-labs/zksync-hardhat-template</title>
+    <updated>2023-10-22T02:02:14Z</updated>
+    <id>tag:github.com,2023-10-22:/matter-labs/zksync-hardhat-template</id>
+    <link href="https://github.com/matter-labs/zksync-hardhat-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template project for zksync-hardhat&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

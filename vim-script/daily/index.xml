@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-21T01:41:07Z</updated>
+  <updated>2023-10-22T01:44:56Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>runningskull/dotfiles</title>
-    <updated>2023-10-21T01:41:07Z</updated>
-    <id>tag:github.com,2023-10-21:/runningskull/dotfiles</id>
-    <link href="https://github.com/runningskull/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;bootstrap ye ol&#39; env&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

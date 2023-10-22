@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T01:47:07Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rhwong/qsign-onekey</title>
+    <updated>2023-10-22T01:47:07Z</updated>
+    <id>tag:github.com,2023-10-22:/rhwong/qsign-onekey</id>
+    <link href="https://github.com/rhwong/qsign-onekey" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;用于一键在Windows下启动qsign的脚本&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Alex313031/Thorium-Win</title>
+    <updated>2023-10-22T01:47:07Z</updated>
+    <id>tag:github.com,2023-10-22:/Alex313031/Thorium-Win</id>
+    <link href="https://github.com/Alex313031/Thorium-Win" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Dymerz/StarCitizen-Localization</title>
+    <updated>2023-10-22T01:47:07Z</updated>
+    <id>tag:github.com,2023-10-22:/Dymerz/StarCitizen-Localization</id>
+    <link href="https://github.com/Dymerz/StarCitizen-Localization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Language File Installation Guide&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-21T01:34:59Z</updated>
+  <updated>2023-10-22T01:39:39Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eaopen/openea-eap</title>
-    <updated>2023-10-21T01:34:59Z</updated>
-    <id>tag:github.com,2023-10-21:/eaopen/openea-eap</id>
-    <link href="https://github.com/eaopen/openea-eap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;开放企业应用平台，整合各种开源项目作为企业应用快速开发的基础框架。 本次改版以芋道开源 YunaiV/ruoyi-vue-pro (MIT许可)为基础改版，整合OBPM、MSP、Jeecg等开源项目的部分模块，支持IM和基于AI的企业知识库。 OpenEAP前后端分离，采用后端Spring boot 2.x单体多模块，前端vue2+element-UI 主流路线，支持灵活升级到SpringCloud。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

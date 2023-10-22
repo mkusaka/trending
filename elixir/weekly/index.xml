@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T01:50:58Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>brainlid/langchain_demo</title>
+    <updated>2023-10-22T01:50:58Z</updated>
+    <id>tag:github.com,2023-10-22:/brainlid/langchain_demo</id>
+    <link href="https://github.com/brainlid/langchain_demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demo web project using the Elixir LangChain library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rrrene/html_sanitize_ex</title>
+    <updated>2023-10-22T01:50:58Z</updated>
+    <id>tag:github.com,2023-10-22:/rrrene/html_sanitize_ex</id>
+    <link href="https://github.com/rrrene/html_sanitize_ex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTML sanitizer for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cabol/nebulex_redis_adapter</title>
+    <updated>2023-10-22T01:50:58Z</updated>
+    <id>tag:github.com,2023-10-22:/cabol/nebulex_redis_adapter</id>
+    <link href="https://github.com/cabol/nebulex_redis_adapter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nebulex adapter for Redis&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

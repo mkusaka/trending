@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Processing Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T01:58:50Z</updated>
+  <subtitle>Weekly Trending of Processing in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>markkorput/processing</title>
+    <updated>2023-10-22T01:58:50Z</updated>
+    <id>tag:github.com,2023-10-22:/markkorput/processing</id>
+    <link href="https://github.com/markkorput/processing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experiments with the processing(.org) visual art environment&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ftgod/lab_6_part_1</title>
+    <updated>2023-10-22T01:58:50Z</updated>
+    <id>tag:github.com,2023-10-22:/ftgod/lab_6_part_1</id>
+    <link href="https://github.com/ftgod/lab_6_part_1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kgarsjo/Triang</title>
+    <updated>2023-10-22T01:58:50Z</updated>
+    <id>tag:github.com,2023-10-22:/kgarsjo/Triang</id>
+    <link href="https://github.com/kgarsjo/Triang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Processing Class to provide HUD triangulation to a set objective&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

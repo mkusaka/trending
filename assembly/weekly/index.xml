@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-22T01:46:52Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>newridho/Halo-Dunia23</title>
+    <updated>2023-10-22T01:46:52Z</updated>
+    <id>tag:github.com,2023-10-22:/newridho/Halo-Dunia23</id>
+    <link href="https://github.com/newridho/Halo-Dunia23" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hello World in multiple programming languages | Hacktoberfest 2023 repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>securifybv/BOFRyptor</title>
+    <updated>2023-10-22T01:46:52Z</updated>
+    <id>tag:github.com,2023-10-22:/securifybv/BOFRyptor</id>
+    <link href="https://github.com/securifybv/BOFRyptor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OS2World/DRV-Rodent</title>
+    <updated>2023-10-22T01:46:52Z</updated>
+    <id>tag:github.com,2023-10-22:/OS2World/DRV-Rodent</id>
+    <link href="https://github.com/OS2World/DRV-Rodent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mouse driver for OS/2 and eComStation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

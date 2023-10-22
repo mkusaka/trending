@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-21T01:31:54Z</updated>
+  <updated>2023-10-22T01:36:53Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ublue-os/bazzite</title>
-    <updated>2023-10-21T01:31:54Z</updated>
-    <id>tag:github.com,2023-10-21:/ublue-os/bazzite</id>
-    <link href="https://github.com/ublue-os/bazzite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mojoto/morrow.mojo</title>
+    <updated>2023-10-22T01:36:53Z</updated>
+    <id>tag:github.com,2023-10-22:/mojoto/morrow.mojo</id>
+    <link href="https://github.com/mojoto/morrow.mojo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Human-friendly date &amp; time for Mojo 🔥&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
