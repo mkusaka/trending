@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-22T01:33:23Z</updated>
+  <updated>2023-10-23T01:30:52Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SI4019/VB</title>
-    <updated>2023-10-22T01:33:23Z</updated>
-    <id>tag:github.com,2023-10-22:/SI4019/VB</id>
-    <link href="https://github.com/SI4019/VB" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SI-VB 2023-2024&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

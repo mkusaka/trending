@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-22T01:27:38Z</updated>
+  <updated>2023-10-23T01:24:57Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hackclub/halo</title>
+    <updated>2023-10-23T01:24:57Z</updated>
+    <id>tag:github.com,2023-10-23:/hackclub/halo</id>
+    <link href="https://github.com/hackclub/halo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Day of Service Event in LA with the Girl Scouts of Greater Los Angeles!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>danramteke/danramteke.github.com</title>
+    <updated>2023-10-23T01:24:57Z</updated>
+    <id>tag:github.com,2023-10-23:/danramteke/danramteke.github.com</id>
+    <link href="https://github.com/danramteke/danramteke.github.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My GitHub Pages.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>USKhokhar/fehrist</title>
+    <updated>2023-10-23T01:24:57Z</updated>
+    <id>tag:github.com,2023-10-23:/USKhokhar/fehrist</id>
+    <link href="https://github.com/USKhokhar/fehrist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source collection of synopses collected by book lovers, for book lovers... [ACCEPTING PRs FOR HACKTOBERFEST]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

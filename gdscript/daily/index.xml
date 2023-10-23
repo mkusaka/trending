@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-22T01:32:30Z</updated>
+  <updated>2023-10-23T01:29:57Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>don-tnowe/godot-worldmap-builder</title>
-    <updated>2023-10-22T01:32:30Z</updated>
-    <id>tag:github.com,2023-10-22:/don-tnowe/godot-worldmap-builder</id>
-    <link href="https://github.com/don-tnowe/godot-worldmap-builder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build skill trees and level selection screens in Godot 4.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SlashScreen/skelerealms</title>
-    <updated>2023-10-22T01:32:30Z</updated>
-    <id>tag:github.com,2023-10-22:/SlashScreen/skelerealms</id>
-    <link href="https://github.com/SlashScreen/skelerealms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open world RPG framework for Godot 4.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rametta/zodot</title>
+    <updated>2023-10-23T01:29:57Z</updated>
+    <id>tag:github.com,2023-10-23:/rametta/zodot</id>
+    <link href="https://github.com/rametta/zodot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🛡️ Godot Data Validation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

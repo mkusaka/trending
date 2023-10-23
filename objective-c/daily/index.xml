@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-22T01:38:20Z</updated>
+  <updated>2023-10-23T01:35:56Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sailthru/sailthru-mobile-ios-sdk</title>
+    <updated>2023-10-23T01:35:56Z</updated>
+    <id>tag:github.com,2023-10-23:/sailthru/sailthru-mobile-ios-sdk</id>
+    <link href="https://github.com/sailthru/sailthru-mobile-ios-sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Sailthru Mobile iOS SDK and example projects&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;http://img.shields.io/cocoapods/p/SailthruMobile.svg?style=flat&#34;&gt;&lt;img src=&#34;http://img.shields.io/cocoapods/p/SailthruMobile.svg?style=flat&#34; alt=&#34;CocoaPods platforms&#34;&gt;&lt;/a&gt; &lt;a href=&#34;http://img.shields.io/cocoapods/l/SailthruMobile.svg?style=flat&#34;&gt;&lt;img src=&#34;http://img.shields.io/cocoapods/l/SailthruMobile.svg?style=flat&#34; alt=&#34;CocoaPods license&#34;&gt;&lt;/a&gt; &lt;a href=&#34;http://img.shields.io/cocoapods/v/SailthruMobile.svg?style=flat&#34;&gt;&lt;img src=&#34;http://img.shields.io/cocoapods/v/SailthruMobile.svg?style=flat&#34; alt=&#34;CocoaPods pod version&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/Carthage/Carthage&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat&#34; alt=&#34;Carthage compatible&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Sailthru Mobile SDK for iOS&lt;/h1&gt; &#xA;&lt;h2&gt;Overview&lt;/h2&gt; &#xA;&lt;p&gt;The Sailthru Mobile SDK for iOS is a drop in library that allows the Sailthru Mobile Marketing platform to integrate with your iOS apps.&lt;/p&gt; &#xA;&lt;p&gt;The integration process usually only takes a few minutes.&lt;/p&gt; &#xA;&lt;p&gt;This project contains the Sailthru Mobile library, as well as an example project that you can use to quickly see some of the more advanced features of the SDK.&lt;/p&gt; &#xA;&lt;h2&gt;Integration&lt;/h2&gt; &#xA;&lt;p&gt;Detailed integration steps can be found in the official Sailthru Mobile documentation: &lt;a href=&#34;http://docs.mobile.sailthru.com/docs/ios-integration&#34;&gt;http://docs.mobile.sailthru.com/docs/ios-integration&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Required Frameworks&lt;/h2&gt; &#xA;&lt;p&gt;The Sailthru Mobile SDK requires the following libaries to be linked in your project.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;CoreLocation.framework&lt;/li&gt; &#xA; &lt;li&gt;AVFoundation.framework&lt;/li&gt; &#xA; &lt;li&gt;MediaPlayer.framework&lt;/li&gt; &#xA; &lt;li&gt;QuartzCore.framework&lt;/li&gt; &#xA; &lt;li&gt;WebKit.framework&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>NSAntoine/Artemisia</title>
+    <updated>2023-10-23T01:35:56Z</updated>
+    <id>tag:github.com,2023-10-23:/NSAntoine/Artemisia</id>
+    <link href="https://github.com/NSAntoine/Artemisia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Beautify your Volume &amp; Brightness HUD.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Artemisia&lt;/h1&gt; &#xA;&lt;h2&gt;Beautify your Volume/Brightness HUDs.&lt;/h2&gt; &#xA;&lt;p&gt;Artemisia beautifies your Volume/Brightness HUD by getting rid of the intrusive stock one and replacing it with a beautiful, non-obstructive UI.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/NSAntoine/Artemisia/assets/48022799/5f085f2d-b724-40db-831b-314f3014094a&#34;&gt;https://github.com/NSAntoine/Artemisia/assets/48022799/5f085f2d-b724-40db-831b-314f3014094a&lt;/a&gt;&lt;/p&gt; &#xA;&lt;img width=&#34;340&#34; alt=&#34;Screenshot 2023-10-17 at 7 32 47 PM&#34; src=&#34;https://github.com/NSAntoine/Artemisia/assets/48022799/69d091dc-97b4-4b0e-bfae-34b3425cf4b3&#34;&gt; &#xA;&lt;img width=&#34;340&#34; alt=&#34;Screenshot 2023-10-17 at 7 18 45 PM&#34; src=&#34;https://github.com/NSAntoine/Artemisia/assets/48022799/79fbf88d-363d-405c-8cba-976d8bf20c99&#34;&gt; &#xA;&lt;p&gt;Available for macOS 11+.&lt;/p&gt;</summary>
+  </entry>
 </feed>

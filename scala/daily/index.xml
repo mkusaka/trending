@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-22T01:42:14Z</updated>
+  <updated>2023-10-23T01:39:50Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>softwaremill/bootzooka</title>
-    <updated>2023-10-22T01:42:14Z</updated>
-    <id>tag:github.com,2023-10-22:/softwaremill/bootzooka</id>
-    <link href="https://github.com/softwaremill/bootzooka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/softwaremill/bootzooka/raw/master/banner.png&#34; alt=&#34;Bootzooka&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://softwaremill.github.io/bootzooka/&#34;&gt;See the docs&lt;/a&gt; for more information.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/softwaremill/bootzooka/actions?query=workflow%3A%22Bootzooka+CI%22&#34;&gt;&lt;img src=&#34;https://github.com/softwaremill/bootzooka/workflows/Bootzooka%20CI/badge.svg?sanitize=true&#34; alt=&#34; CI &#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Quick start&lt;/h2&gt; &#xA;&lt;h3&gt;Backend: PostgreSQL &amp;amp; API&lt;/h3&gt; &#xA;&lt;p&gt;In order to run Bootzooka, you&#39;ll need a running instance of the PostgreSQL with a &lt;code&gt;bootzooka&lt;/code&gt; database. You can spin up one easily using docker:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;# use &#34;bootzooka&#34; as a password&#xA;docker run --name bootzooka-postgres -p 5432:5432 -e POSTGRES_PASSWORD=bootzooka -e POSTGRES_DB=bootzooka -d postgres&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then, you can start the backend:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;export SQL_PASSWORD=bootzooka&#xA;./backend-start.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Frontend: Yarn &amp;amp; webapp&lt;/h3&gt; &#xA;&lt;p&gt;You will need the &lt;a href=&#34;https://yarnpkg.com&#34;&gt;yarn package manager&lt;/a&gt; to run the UI. Install it using your package manager or:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;curl -o- -L https://yarnpkg.com/install.sh | bash&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then, you can start the frontend:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;./frontend-start.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;And open &lt;code&gt;http://localhost:3000&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Commercial Support&lt;/h2&gt; &#xA;&lt;p&gt;We offer commercial support for Bootzooka and related technologies, as well as development services. &lt;a href=&#34;https://softwaremill.com&#34;&gt;Contact us&lt;/a&gt; to learn more about our offer!&lt;/p&gt; &#xA;&lt;h2&gt;Copyright&lt;/h2&gt; &#xA;&lt;p&gt;Copyright (C) 2013-2022 SoftwareMill &lt;a href=&#34;https://softwaremill.com&#34;&gt;https://softwaremill.com&lt;/a&gt;.&lt;/p&gt;</summary>
+    <title>jumpbox-academy/simple-web-api-boilerplates</title>
+    <updated>2023-10-23T01:39:50Z</updated>
+    <id>tag:github.com,2023-10-23:/jumpbox-academy/simple-web-api-boilerplates</id>
+    <link href="https://github.com/jumpbox-academy/simple-web-api-boilerplates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Simple web application with golang&lt;/h1&gt; &#xA;&lt;h2&gt;Compile to executable file&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;cargo build --release&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Executable file output to&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;target/release/&amp;lt;name&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;how to run&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;./&amp;lt;name&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

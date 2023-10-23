@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Liquid Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-22T01:36:13Z</updated>
+  <updated>2023-10-23T01:33:55Z</updated>
   <subtitle>Daily Trending of Liquid in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>netz39/n39-jekyll-webpage</title>
-    <updated>2023-10-22T01:36:13Z</updated>
-    <id>tag:github.com,2023-10-22:/netz39/n39-jekyll-webpage</id>
-    <link href="https://github.com/netz39/n39-jekyll-webpage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Webseite des Netz39 e.V.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

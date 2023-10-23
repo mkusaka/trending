@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-22T01:26:41Z</updated>
+  <updated>2023-10-23T01:24:06Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>danieldonda/Cybersecurity101</title>
-    <updated>2023-10-22T01:26:41Z</updated>
-    <id>tag:github.com,2023-10-22:/danieldonda/Cybersecurity101</id>
-    <link href="https://github.com/danieldonda/Cybersecurity101" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Um guia abrangente para iniciantes na área de cibersegurança.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alex-xu-system/bytebytego</title>
+    <updated>2023-10-23T01:24:06Z</updated>
+    <id>tag:github.com,2023-10-23:/alex-xu-system/bytebytego</id>
+    <link href="https://github.com/alex-xu-system/bytebytego" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor</title>
-    <updated>2023-10-22T01:26:41Z</updated>
-    <id>tag:github.com,2023-10-22:/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor</id>
-    <link href="https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contract audit skills roadmap for beginners, auditors, engineers, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Nikhilthadani/MERN-AI-ChatBot</title>
+    <updated>2023-10-23T01:24:06Z</updated>
+    <id>tag:github.com,2023-10-23:/Nikhilthadani/MERN-AI-ChatBot</id>
+    <link href="https://github.com/Nikhilthadani/MERN-AI-ChatBot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>milkv-duo/duo-buildroot-sdk</title>
-    <updated>2023-10-22T01:26:41Z</updated>
-    <id>tag:github.com,2023-10-22:/milkv-duo/duo-buildroot-sdk</id>
-    <link href="https://github.com/milkv-duo/duo-buildroot-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Milk-V Duo Official buildroot SDK&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joe-shenouda/awesome-cyber-skills</title>
+    <updated>2023-10-23T01:24:06Z</updated>
+    <id>tag:github.com,2023-10-23:/joe-shenouda/awesome-cyber-skills</id>
+    <link href="https://github.com/joe-shenouda/awesome-cyber-skills" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of hacking environments where you can train your cyber skills legally and safely&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

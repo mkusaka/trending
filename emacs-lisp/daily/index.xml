@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-22T01:31:42Z</updated>
+  <updated>2023-10-23T01:29:01Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hayamiz/help-me.el</title>
-    <updated>2023-10-22T01:31:42Z</updated>
-    <id>tag:github.com,2023-10-22:/hayamiz/help-me.el</id>
-    <link href="https://github.com/hayamiz/help-me.el" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I really need someone who tells me about quick usage of unfamiliar major modes.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;help-me.el&lt;/h1&gt; &#xA;&lt;p&gt;I really need someone who tells me about quick usage of unfamiliar major modes.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>krems/.emacs.d</title>
-    <updated>2023-10-22T01:31:42Z</updated>
-    <id>tag:github.com,2023-10-22:/krems/.emacs.d</id>
-    <link href="https://github.com/krems/.emacs.d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Emacs Starter Kit это пакет базовых настроек редактора Emacs, он идеален для быстрого начала работы, дополнения своими настройками и переноса между компьютерами.&lt;/p&gt; &#xA;&lt;p&gt;Это форк оригинального Emacs Starter Kit, выполненный в виде литературной программы на русском языке. Почитать о программе можно в &lt;a href=&#34;http://zahardzhan.github.com/2010/emacs-starter-kit-the-program.html&#34;&gt;блоге&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;В этой версии добавлены:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;поддержка горячих клавиш на русской раскладке&lt;/li&gt; &#xA; &lt;li&gt;backspace на C-&amp;lt;&lt;/li&gt; &#xA; &lt;li&gt;google c++ code style&lt;/li&gt; &#xA; &lt;li&gt;изменен внешний вид редактора&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Установка&lt;/h2&gt; &#xA;&lt;p&gt;Emacs Starter Kit рассчитан на работу с Emacs от 22-ой версии и выше. Вам понадобится система контроля версий &lt;em&gt;git&lt;/em&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Установка Emacs Starter Kit элементарна: клонируйте git-репозиторий с гитхаба в директорию &lt;code&gt;.emacs.d&lt;/code&gt;; но перед этим сохраните старые настройки и удалите директорию &lt;code&gt;.emacs.d&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;rm -Rv ~/.emacs.d&#xA;git clone http://github.com/krems/.emacs.d.git ~/.emacs.d&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Переименуйте папку krems в имя пользователя, кому пренадлежит .emacs.d. Например, если ваш .emacs.d находится в /home/user, то переименуйте папку krems в user. Затем установите &lt;a href=&#34;http://www.kernel.org/pub/software/scm/git/docs/user-manual.html#submodules&#34;&gt;git-сабмодули&lt;/a&gt; сторонних пакетов&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cd ~/.emacs.d/&#xA;git submodule init&#xA;git submodule update&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;и соберите последнюю версию Org-mode&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cd ~/.emacs.d/src/org/&#xA;make&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Запустите Emacs.&lt;/p&gt; &#xA;&lt;p&gt;После того как закончите установку вам, возможно, потребуется перезапустить Emacs несколько раз&amp;nbsp;— во время загрузки пакетов из архива пакетов Emacs Lisp &lt;a href=&#34;http://tromey.com/elpa/&#34;&gt;ELPA&lt;/a&gt; происходят ошибки разбора HTML&amp;nbsp;— просто проигнорируйте их.&lt;/p&gt; &#xA;&lt;p&gt;Если после очередного обновления вы потеряете некоторые автозагрузчики, что даст знать о себе сообщениями об ошибках типа &lt;code&gt;void function: foobar&lt;/code&gt;, попробуйте использовать команду &lt;em&gt;M-x regen-autoloads&lt;/em&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Последнюю версию Emacs Starter Kit можно найти на гитхабе: &lt;a href=&#34;https://github.com/zahardzhan/emacs-starter-kit&#34;&gt;https://github.com/zahardzhan/emacs-starter-kit&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Оригинальная версия: &lt;a href=&#34;https://github.com/technomancy/emacs-starter-kit&#34;&gt;https://github.com/technomancy/emacs-starter-kit&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

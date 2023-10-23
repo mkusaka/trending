@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-22T01:29:51Z</updated>
+  <updated>2023-10-23T01:27:14Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>david-haerer/chatapi</title>
-    <updated>2023-10-22T01:29:51Z</updated>
-    <id>tag:github.com,2023-10-22:/david-haerer/chatapi</id>
-    <link href="https://github.com/david-haerer/chatapi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatGPT by API&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;💭 ChatAPI&lt;/h1&gt; &#xA;&lt;p&gt;&lt;em&gt;ChatGPT by API.&lt;/em&gt;&lt;/p&gt; &#xA;&lt;h2&gt;About&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;This is a pure-frontend PWA using the &lt;a href=&#34;https://platform.openai.com/docs/introduction&#34;&gt;OpenAI API&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;The API key is stored in the browser local storage.&lt;/li&gt; &#xA; &lt;li&gt;The app uses &lt;a href=&#34;https://alpinejs.dev/&#34;&gt;Alpine.js&lt;/a&gt; and &lt;a href=&#34;https://open-props.style/&#34;&gt;Open Props&lt;/a&gt;. &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Code styling is done by &lt;a href=&#34;https://prettier.io/&#34;&gt;Prettier&lt;/a&gt;.&lt;/li&gt; &#xA;   &lt;li&gt;There is no build step, Alpine.js and Open Props are loaded via CDN.&lt;/li&gt; &#xA;   &lt;li&gt;This is done due to a shortage of developer time 🙃&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;Kudos to &lt;a href=&#34;https://stackoverflow.com/a/75751803/11386095&#34;&gt;@hdsuperman&lt;/a&gt; for the typing effect!&lt;/li&gt; &#xA; &lt;li&gt;Inspired by &lt;a href=&#34;https://github.com/Niek/chatgpt-web&#34;&gt;Niek/chatgpt-web&lt;/a&gt;.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>vcwild/priya-portfolio</title>
+    <updated>2023-10-23T01:27:14Z</updated>
+    <id>tag:github.com,2023-10-23:/vcwild/priya-portfolio</id>
+    <link href="https://github.com/vcwild/priya-portfolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Portfolio for Priya Nobre&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Portfolio&lt;/h1&gt; &#xA;&lt;p&gt;This is the proxy-go/priya portfolio&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>vcwild/tcc-proxy</title>
+    <updated>2023-10-23T01:27:14Z</updated>
+    <id>tag:github.com,2023-10-23:/vcwild/tcc-proxy</id>
+    <link href="https://github.com/vcwild/tcc-proxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An interactive e-book story.&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;img src=&#34;https://raw.githubusercontent.com/vcwild/tcc-proxy/main/.github/assets/badge.png&#34; width=&#34;230px&#34;&gt; &#xA;&lt;/div&gt; &#xA;&lt;br&gt; &#xA;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;img src=&#34;https://img.shields.io/github/languages/count/vcwild/tcc-proxy?color=%23ff3cbe&amp;amp;style=flat-square&#34; alt=&#34;languages&#34;&gt; &#xA; &lt;img src=&#34;https://img.shields.io/github/license/vcwild/tcc-proxy?color=%23ff3cbe&amp;amp;style=flat-square&#34; alt=&#34;license&#34;&gt; &#xA; &lt;img src=&#34;https://img.shields.io/github/repo-size/vcwild/tcc-proxy?color=%23ff3cbe&amp;amp;style=flat-square&#34; alt=&#34;repo size&#34;&gt; &#xA; &lt;img src=&#34;https://img.shields.io/github/actions/workflow/status/vcwild/tcc-proxy/build.yml?branch=main&amp;amp;style=flat-square&amp;amp;color=%23ff3cbe&#34; alt=&#34;build&#34;&gt; &#xA;&lt;/div&gt; &#xA;&lt;h1&gt;tcc-proxy&lt;/h1&gt; &#xA;&lt;p&gt;This Proxy Go&#39;s final project. It is an interactive e-book history.&lt;/p&gt; &#xA;&lt;h2&gt;References&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.mentalcanvas.com/&#34;&gt;Mental canvas&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;This project is licensed with an All Rights Reserved license - see the &lt;a href=&#34;https://raw.githubusercontent.com/vcwild/tcc-proxy/main/LICENSE&#34;&gt;LICENSE&lt;/a&gt; file for details.&lt;/p&gt;</summary>
   </entry>
 </feed>
