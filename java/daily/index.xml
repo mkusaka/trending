@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-23T01:32:21Z</updated>
+  <updated>2023-10-24T01:30:33Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>falvojr/santander-dev-week-2023</title>
-    <updated>2023-10-23T01:32:21Z</updated>
-    <id>tag:github.com,2023-10-23:/falvojr/santander-dev-week-2023</id>
-    <link href="https://github.com/falvojr/santander-dev-week-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Java RESTful API criada para a Santander Dev Week&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Santander Dev Week 2023&lt;/h1&gt; &#xA;&lt;p&gt;Java RESTful API criada para a Santander Dev Week.&lt;/p&gt; &#xA;&lt;h2&gt;Principais Tecnologias&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;Java 17&lt;/strong&gt;: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Spring Boot 3&lt;/strong&gt;: Trabalharemos com a mais nova versão do Spring Boot, que maximiza a produtividade do desenvolvedor por meio de sua poderosa premissa de autoconfiguração;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Spring Data JPA&lt;/strong&gt;: Exploraremos como essa ferramenta pode simplificar nossa camada de acesso aos dados, facilitando a integração com bancos de dados SQL;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;OpenAPI (Swagger)&lt;/strong&gt;: Vamos criar uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger), perfeitamente alinhada com a alta produtividade que o Spring Boot oferece;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Railway&lt;/strong&gt;: facilita o deploy e monitoramento de nossas soluções na nuvem, além de oferecer diversos bancos de dados como serviço e pipelines de CI/CD.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;&lt;a href=&#34;https://www.figma.com/file/0ZsjwjsYlYd3timxqMWlbj/SANTANDER---Projeto-Web%2FMobile?type=design&amp;amp;node-id=1421%3A432&amp;amp;mode=design&amp;amp;t=6dPQuerScEQH0zAn-1&#34;&gt;Link do Figma&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;p&gt;O Figma foi utilizado para a abstração do domínio desta API, sendo útil na análise e projeto da solução.&lt;/p&gt; &#xA;&lt;h2&gt;Diagrama de Classes (Domínio da API)&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;classDiagram&#xA;  class User {&#xA;    -String name&#xA;    -Account account&#xA;    -Feature[] features&#xA;    -Card card&#xA;    -News[] news&#xA;  }&#xA;&#xA;  class Account {&#xA;    -String number&#xA;    -String agency&#xA;    -Number balance&#xA;    -Number limit&#xA;  }&#xA;&#xA;  class Feature {&#xA;    -String icon&#xA;    -String description&#xA;  }&#xA;&#xA;  class Card {&#xA;    -String number&#xA;    -Number limit&#xA;  }&#xA;&#xA;  class News {&#xA;    -String icon&#xA;    -String description&#xA;  }&#xA;&#xA;  User &#34;1&#34; *-- &#34;1&#34; Account&#xA;  User &#34;1&#34; *-- &#34;N&#34; Feature&#xA;  User &#34;1&#34; *-- &#34;1&#34; Card&#xA;  User &#34;1&#34; *-- &#34;N&#34; News&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;IMPORTANTE&lt;/h2&gt; &#xA;&lt;p&gt;Este projeto foi construído com um viés totalmente educacional para a DIO. Por isso, disponibilizamos uma versão mais robusta dele no repositório oficial da DIO:&lt;/p&gt; &#xA;&lt;h3&gt;&lt;a href=&#34;https://github.com/digitalinnovationone/santander-dev-week-2023-api&#34;&gt;digitalinnovationone/santander-dev-week-2023-api&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;p&gt;Lá incluímos todas os endpoints de CRUD, além de aplicar boas práticas (uso de DTOs e refinamento na documentação da OpenAPI). Sendo assim, caso queira um desafio/referência mais completa é só acessar 👊🤩&lt;/p&gt;</summary>
+    <title>willyancaetano/junit5-exemplos</title>
+    <updated>2023-10-24T01:30:33Z</updated>
+    <id>tag:github.com,2023-10-24:/willyancaetano/junit5-exemplos</id>
+    <link href="https://github.com/willyancaetano/junit5-exemplos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositório com exemplos utilizando JUnit 5&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Testes unitários com JUnit&lt;/h1&gt; &#xA;&lt;p&gt;Respositório com roteiros e exemplos de como utilizar JUnit no seu dia a dia como dev.&lt;br&gt; Foi utilizado para os exemplos a versão 5.8.2, mais atual até o momento (29/01/2022).&lt;/p&gt; &#xA;&lt;h2&gt;Roteiros&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/willyancaetano/junit5-exemplos/master/CONFIGURACAO.md&#34;&gt;Configurando JUnit&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
+  <entry>
+    <title>digitalinnovationone/lab-padroes-projeto-spring</title>
+    <updated>2023-10-24T01:30:33Z</updated>
+    <id>tag:github.com,2023-10-24:/digitalinnovationone/lab-padroes-projeto-spring</id>
+    <link href="https://github.com/digitalinnovationone/lab-padroes-projeto-spring" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exemplos de Padrões de Projeto com Spring&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Explorando Padrões de Projetos na Prática com Java&lt;/h1&gt; &#xA;&lt;p&gt;Repositório com as implementações dos padrões de projeto explorados no Lab &#34;Explorando Padrões de Projetos na Prática com Java&#34;. Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Singleton&lt;/li&gt; &#xA; &lt;li&gt;Strategy/Repository&lt;/li&gt; &#xA; &lt;li&gt;Facade&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>digitalinnovationone/lab-padroes-projeto-java</title>
+    <updated>2023-10-24T01:30:33Z</updated>
+    <id>tag:github.com,2023-10-24:/digitalinnovationone/lab-padroes-projeto-java</id>
+    <link href="https://github.com/digitalinnovationone/lab-padroes-projeto-java" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exemplos de Padrões de Projeto em Java&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Explorando Padrões de Projetos na Prática com Java&lt;/h1&gt; &#xA;&lt;p&gt;Repositório com as implementações dos padrões de projeto explorados no Lab &#34;Explorando Padrões de Projetos na Prática com Java&#34;. Especificamente, este projeto explorou alguns padrões usando Java puro:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Singleton&lt;/li&gt; &#xA; &lt;li&gt;Strategy&lt;/li&gt; &#xA; &lt;li&gt;Facade&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

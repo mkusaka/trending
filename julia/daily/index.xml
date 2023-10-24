@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-23T01:33:02Z</updated>
+  <updated>2023-10-24T01:31:19Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>QEDjl-project/QEDbase.jl</title>
-    <updated>2023-10-23T01:33:02Z</updated>
-    <id>tag:github.com,2023-10-23:/QEDjl-project/QEDbase.jl</id>
-    <link href="https://github.com/QEDjl-project/QEDbase.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jverzani/SymPyCore.jl</title>
+    <updated>2023-10-24T01:31:19Z</updated>
+    <id>tag:github.com,2023-10-24:/jverzani/SymPyCore.jl</id>
+    <link href="https://github.com/jverzani/SymPyCore.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Package to help connect Julia with the SymPy library of Python&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaSmoothOptimizers/LimitedLDLFactorizations.jl</title>
-    <updated>2023-10-23T01:33:02Z</updated>
-    <id>tag:github.com,2023-10-23:/JuliaSmoothOptimizers/LimitedLDLFactorizations.jl</id>
-    <link href="https://github.com/JuliaSmoothOptimizers/LimitedLDLFactorizations.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Limited-Memory Factorization of Symmetric Matrices&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mossr/REPLMaze.jl</title>
-    <updated>2023-10-23T01:33:02Z</updated>
-    <id>tag:github.com,2023-10-23:/mossr/REPLMaze.jl</id>
-    <link href="https://github.com/mossr/REPLMaze.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A maze game in the Julia REPL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>psrenergy/QUBO.jl</title>
+    <updated>2023-10-24T01:31:19Z</updated>
+    <id>tag:github.com,2023-10-24:/psrenergy/QUBO.jl</id>
+    <link href="https://github.com/psrenergy/QUBO.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia Ecosystem for Quadratic Unconstrained Binary Optimization&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

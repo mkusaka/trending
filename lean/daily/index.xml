@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-23T01:33:47Z</updated>
+  <updated>2023-10-24T01:31:53Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dwrensha/compfiles</title>
-    <updated>2023-10-23T01:33:47Z</updated>
-    <id>tag:github.com,2023-10-23:/dwrensha/compfiles</id>
-    <link href="https://github.com/dwrensha/compfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Catalog Of Math Problems Formalized In Lean&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>leanprover-community/aesop</title>
+    <updated>2023-10-24T01:31:53Z</updated>
+    <id>tag:github.com,2023-10-24:/leanprover-community/aesop</id>
+    <link href="https://github.com/leanprover-community/aesop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;White-box automation for Lean 4&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

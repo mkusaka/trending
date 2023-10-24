@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-23T01:39:50Z</updated>
+  <updated>2023-10-24T01:36:25Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jumpbox-academy/simple-web-api-boilerplates</title>
-    <updated>2023-10-23T01:39:50Z</updated>
-    <id>tag:github.com,2023-10-23:/jumpbox-academy/simple-web-api-boilerplates</id>
-    <link href="https://github.com/jumpbox-academy/simple-web-api-boilerplates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Simple web application with golang&lt;/h1&gt; &#xA;&lt;h2&gt;Compile to executable file&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;cargo build --release&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Executable file output to&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;target/release/&amp;lt;name&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;how to run&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;./&amp;lt;name&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

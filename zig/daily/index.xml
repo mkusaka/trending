@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-23T01:44:02Z</updated>
+  <updated>2023-10-24T01:39:30Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>andrewrk/tetris</title>
-    <updated>2023-10-23T01:44:02Z</updated>
-    <id>tag:github.com,2023-10-23:/andrewrk/tetris</id>
-    <link href="https://github.com/andrewrk/tetris" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple tetris clone written in zig programming language.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>00JCIV00/cova</title>
-    <updated>2023-10-23T01:44:02Z</updated>
-    <id>tag:github.com,2023-10-23:/00JCIV00/cova</id>
-    <link href="https://github.com/00JCIV00/cova" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library for Zig.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eatonphil/io_uring-basics-writing-file</title>
+    <updated>2023-10-24T01:39:30Z</updated>
+    <id>tag:github.com,2023-10-24:/eatonphil/io_uring-basics-writing-file</id>
+    <link href="https://github.com/eatonphil/io_uring-basics-writing-file" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

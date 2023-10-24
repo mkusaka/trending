@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-23T01:36:08Z</updated>
+  <updated>2023-10-24T01:33:45Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cognitive-engineering-lab/doclang-benchmark</title>
-    <updated>2023-10-23T01:36:08Z</updated>
-    <id>tag:github.com,2023-10-23:/cognitive-engineering-lab/doclang-benchmark</id>
-    <link href="https://github.com/cognitive-engineering-lab/doclang-benchmark" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>herd/herdtools7</title>
-    <updated>2023-10-23T01:36:08Z</updated>
-    <id>tag:github.com,2023-10-23:/herd/herdtools7</id>
-    <link href="https://github.com/herd/herdtools7" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Herd toolsuite to deal with .cat memory models (version 7.xx)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CharlesAverill/zenith</title>
+    <updated>2023-10-24T01:33:45Z</updated>
+    <id>tag:github.com,2023-10-24:/CharlesAverill/zenith</id>
+    <link href="https://github.com/CharlesAverill/zenith" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A wireframe renderer written in OCaml&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

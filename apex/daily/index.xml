@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-23T01:24:40Z</updated>
+  <updated>2023-10-24T01:23:37Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>navikt/crm-arbeidsgiver-kontakt-oss</title>
-    <updated>2023-10-23T01:24:40Z</updated>
-    <id>tag:github.com,2023-10-23:/navikt/crm-arbeidsgiver-kontakt-oss</id>
-    <link href="https://github.com/navikt/crm-arbeidsgiver-kontakt-oss" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Skjema der arbeidsgivere kan gi beskjed til NAV at de ønsker kontakt.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

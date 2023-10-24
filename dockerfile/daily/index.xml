@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-23T01:27:59Z</updated>
+  <updated>2023-10-24T01:26:18Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nogibjj/candle-cookbook</title>
-    <updated>2023-10-23T01:27:59Z</updated>
-    <id>tag:github.com,2023-10-23:/nogibjj/candle-cookbook</id>
-    <link href="https://github.com/nogibjj/candle-cookbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cookbook to build Rust Candle models&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Candle Cookbook&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/nogibjj/candle-cookbook/actions/workflows/deploy.yml/badge.svg?sanitize=true&#34; alt=&#34;GH Pages Deploy&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Cooking live @ &lt;a href=&#34;https://nogibjj.github.io/candle-cookbook/&#34;&gt;https://nogibjj.github.io/candle-cookbook/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;🚀 Our Mission:&lt;/h2&gt; &#xA;&lt;p&gt;Democratize access to state of the art AI models.&lt;/p&gt; &#xA;&lt;h2&gt;⭐ Our Principles:&lt;/h2&gt; &#xA;&lt;p&gt;🫱🏾‍🫲🏼 &lt;strong&gt;Trust&lt;/strong&gt; ~ ethically sourced data and end-to-end transparency.&lt;/p&gt; &#xA;&lt;p&gt;🔒 &lt;strong&gt;Privacy&lt;/strong&gt; ~ secure, on-device inference without data sharing.&lt;/p&gt; &#xA;&lt;p&gt;🌏 &lt;strong&gt;Sustainability&lt;/strong&gt; ~ optimize efficiency to minimize our carbon footprint.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;🛣️Roadmap&lt;/h2&gt; &#xA;&lt;p&gt;Our goal is to document each stage of a fully transparent LLM development cycle&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Publish MVP Candle Cookbook&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Ethically source and construct an openly available LLM dataset&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Build a Candle-based LLM from scratch&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Customize LLM with finetuning&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; CI/CD deployment of LLM&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;🌱 Contributing&lt;/h2&gt; &#xA;&lt;p&gt;We welcome contributions from anyone who aligns with Our Mission and Our Principles.&lt;/p&gt; &#xA;&lt;p&gt;Get started by reading our &lt;a href=&#34;https://raw.githubusercontent.com/nogibjj/candle-cookbook/main/CODE_OF_CONDUCT.md&#34;&gt;Code of Conduct&lt;/a&gt; then check out the &lt;a href=&#34;https://raw.githubusercontent.com/nogibjj/candle-cookbook/main/CONTRIBUTING.md&#34;&gt;Contributor Guidelines&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;🕯️Official Candle Docs&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/huggingface/candle&#34;&gt;Huggingface Candle repo&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://huggingface.github.io/candle/guide/installation.html&#34;&gt;Candle User Guide&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;🧑‍🍳 Our Team:&lt;/h2&gt; &#xA;&lt;p&gt;Get to know our &lt;a href=&#34;https://raw.githubusercontent.com/nogibjj/candle-cookbook/main/TEAM.md&#34;&gt;Community Leaders&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>LondheShubham153/simple-java-docker</title>
-    <updated>2023-10-23T01:27:59Z</updated>
-    <id>tag:github.com,2023-10-23:/LondheShubham153/simple-java-docker</id>
-    <link href="https://github.com/LondheShubham153/simple-java-docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple java app that runs on docker&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;simple-java-docker&lt;/h1&gt; &#xA;&lt;p&gt;A simple java app that runs on docker&lt;/p&gt;</summary>
-  </entry>
 </feed>

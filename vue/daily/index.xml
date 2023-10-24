@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-23T01:43:09Z</updated>
+  <updated>2023-10-24T01:38:51Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ParisNeo/lollms-webui</title>
-    <updated>2023-10-23T01:43:09Z</updated>
-    <id>tag:github.com,2023-10-23:/ParisNeo/lollms-webui</id>
-    <link href="https://github.com/ParisNeo/lollms-webui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lord of Large Language Models Web User Interface&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>caijinyc/vue-music-webapp</title>
+    <updated>2023-10-24T01:38:51Z</updated>
+    <id>tag:github.com,2023-10-24:/caijinyc/vue-music-webapp</id>
+    <link href="https://github.com/caijinyc/vue-music-webapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Music WebApp based on the Vue.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WanyueKJ/Food-delivery-uniapp</title>
-    <updated>2023-10-23T01:43:09Z</updated>
-    <id>tag:github.com,2023-10-23:/WanyueKJ/Food-delivery-uniapp</id>
-    <link href="https://github.com/WanyueKJ/Food-delivery-uniapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;万岳同城外卖(food delivery) 系统开源版，前端uniapp+后台php搭建，系统包含商家端、配送端、用户端以及总管理后台、城市配送后台&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>molgenis/molgenis-emx2</title>
+    <updated>2023-10-24T01:38:51Z</updated>
+    <id>tag:github.com,2023-10-24:/molgenis/molgenis-emx2</id>
+    <link href="https://github.com/molgenis/molgenis-emx2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MOLGENIS EMX2, the latest version of the MOLGENIS data platform.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>schouffy/gamedev-portfolio</title>
-    <updated>2023-10-23T01:43:09Z</updated>
-    <id>tag:github.com,2023-10-23:/schouffy/gamedev-portfolio</id>
-    <link href="https://github.com/schouffy/gamedev-portfolio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A gamedev portfolio template&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sircharlo/meeting-media-manager</title>
+    <updated>2023-10-24T01:38:51Z</updated>
+    <id>tag:github.com,2023-10-24:/sircharlo/meeting-media-manager</id>
+    <link href="https://github.com/sircharlo/meeting-media-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross platform app to download and present media (pictures and videos) for congregation meetings of Jehovah’s Witnesses in any language. Features include recurring and custom media management, congregation sync, and media presentation tools for hybrid, in-person or fully remote Zoom meetings.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

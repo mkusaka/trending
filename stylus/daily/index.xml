@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stylus Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-23T01:41:10Z</updated>
+  <updated>2023-10-24T01:37:23Z</updated>
   <subtitle>Daily Trending of Stylus in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>congjiye/congjiye.github.io</title>
+    <updated>2023-10-24T01:37:23Z</updated>
+    <id>tag:github.com,2023-10-24:/congjiye/congjiye.github.io</id>
+    <link href="https://github.com/congjiye/congjiye.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;丛继晔的个人博客&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

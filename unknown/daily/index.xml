@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-23T01:24:06Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-10-24T01:22:57Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alex-xu-system/bytebytego</title>
-    <updated>2023-10-23T01:24:06Z</updated>
-    <id>tag:github.com,2023-10-23:/alex-xu-system/bytebytego</id>
-    <link href="https://github.com/alex-xu-system/bytebytego" rel="alternate"></link>
+    <title>PanXProject/awesome-certificates</title>
+    <updated>2023-10-24T01:22:57Z</updated>
+    <id>tag:github.com,2023-10-24:/PanXProject/awesome-certificates</id>
+    <link href="https://github.com/PanXProject/awesome-certificates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of IT, computer science and business courses with free certificates &amp; badges.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>louis-xiv-drainer/web3drain</title>
+    <updated>2023-10-24T01:22:57Z</updated>
+    <id>tag:github.com,2023-10-24:/louis-xiv-drainer/web3drain</id>
+    <link href="https://github.com/louis-xiv-drainer/web3drain" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Nikhilthadani/MERN-AI-ChatBot</title>
-    <updated>2023-10-23T01:24:06Z</updated>
-    <id>tag:github.com,2023-10-23:/Nikhilthadani/MERN-AI-ChatBot</id>
-    <link href="https://github.com/Nikhilthadani/MERN-AI-ChatBot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>joe-shenouda/awesome-cyber-skills</title>
-    <updated>2023-10-23T01:24:06Z</updated>
-    <id>tag:github.com,2023-10-23:/joe-shenouda/awesome-cyber-skills</id>
-    <link href="https://github.com/joe-shenouda/awesome-cyber-skills" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of hacking environments where you can train your cyber skills legally and safely&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mojicians/awesome-mojo</title>
+    <updated>2023-10-24T01:22:57Z</updated>
+    <id>tag:github.com,2023-10-24:/mojicians/awesome-mojo</id>
+    <link href="https://github.com/mojicians/awesome-mojo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome Mojo 🔥 frameworks, libraries, software and resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

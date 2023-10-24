@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-23T01:30:59Z</updated>
+  <updated>2023-10-24T01:29:05Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Airsequel/SQLiteDAV</title>
-    <updated>2023-10-23T01:30:59Z</updated>
-    <id>tag:github.com,2023-10-23:/Airsequel/SQLiteDAV</id>
-    <link href="https://github.com/Airsequel/SQLiteDAV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WebDAV server that maps an SQLite database to directories/files&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;SQLiteDAV&lt;/h1&gt; &#xA;&lt;p&gt;WebDAV server that maps an SQLite database to directories/files.&lt;/p&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;&lt;/th&gt; &#xA;   &lt;th&gt;&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;Database Schema&lt;/td&gt; &#xA;   &lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Airsequel/SQLiteDAV/main/images/2023-10-16t1031_sql.png&#34; alt=&#34;SQL Schema Code&#34;&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;File View&lt;/td&gt; &#xA;   &lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Airsequel/SQLiteDAV/main/images/2023-10-17t2031_finder.png&#34; alt=&#34;Screenshot of macOS Finder&#34;&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Prerequisite: &lt;a href=&#34;https://docs.haskellstack.org/en/stable/#how-to-install-stack&#34;&gt;Install Stack&lt;/a&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;git clone https://github.com/Airsequel/SQLiteDAV&#xA;cd SQLiteDAV&#xA;stack install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Start WebDAV server: &lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;sqlitedav --dbpath path/to/database.sqlite&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt;Connect your WebDAV client to &lt;code&gt;http://localhost:1234&lt;/code&gt; &lt;br&gt; (E.g. with macOS Finder by executing &lt;code&gt;cmd + k&lt;/code&gt;)&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Roadmap&lt;/h2&gt; &#xA;&lt;p&gt;The next features are implemented based on popular demand. So please upvote any &lt;a href=&#34;https://github.com/Airsequel/SQLiteDAV/issues&#34;&gt;issues&lt;/a&gt; you would like to see implemented!&lt;/p&gt;</summary>
-  </entry>
 </feed>
