@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-24T01:38:51Z</updated>
+  <updated>2023-10-25T01:44:06Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>caijinyc/vue-music-webapp</title>
-    <updated>2023-10-24T01:38:51Z</updated>
-    <id>tag:github.com,2023-10-24:/caijinyc/vue-music-webapp</id>
-    <link href="https://github.com/caijinyc/vue-music-webapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Music WebApp based on the Vue.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>molgenis/molgenis-emx2</title>
-    <updated>2023-10-24T01:38:51Z</updated>
-    <id>tag:github.com,2023-10-24:/molgenis/molgenis-emx2</id>
-    <link href="https://github.com/molgenis/molgenis-emx2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MOLGENIS EMX2, the latest version of the MOLGENIS data platform.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sircharlo/meeting-media-manager</title>
-    <updated>2023-10-24T01:38:51Z</updated>
-    <id>tag:github.com,2023-10-24:/sircharlo/meeting-media-manager</id>
-    <link href="https://github.com/sircharlo/meeting-media-manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cross platform app to download and present media (pictures and videos) for congregation meetings of Jehovah’s Witnesses in any language. Features include recurring and custom media management, congregation sync, and media presentation tools for hybrid, in-person or fully remote Zoom meetings.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lmxdawn/vue-admin-html-java</title>
+    <updated>2023-10-25T01:44:06Z</updated>
+    <id>tag:github.com,2023-10-25:/lmxdawn/vue-admin-html-java</id>
+    <link href="https://github.com/lmxdawn/vue-admin-html-java" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;spring boot + mybatis + vue + element-ui 实现后台管理API接口&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

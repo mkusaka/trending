@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-24T01:32:27Z</updated>
+  <updated>2023-10-25T01:35:43Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>IB-2023-2024/P06-alternatives-iterations</title>
-    <updated>2023-10-24T01:32:27Z</updated>
-    <id>tag:github.com,2023-10-24:/IB-2023-2024/P06-alternatives-iterations</id>
-    <link href="https://github.com/IB-2023-2024/P06-alternatives-iterations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PixelExperience-Staging/device_qcom_sepolicy-legacy-um</title>
-    <updated>2023-10-24T01:32:27Z</updated>
-    <id>tag:github.com,2023-10-24:/PixelExperience-Staging/device_qcom_sepolicy-legacy-um</id>
-    <link href="https://github.com/PixelExperience-Staging/device_qcom_sepolicy-legacy-um" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PixelExperience-Staging/build</title>
-    <updated>2023-10-24T01:32:27Z</updated>
-    <id>tag:github.com,2023-10-24:/PixelExperience-Staging/build</id>
-    <link href="https://github.com/PixelExperience-Staging/build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

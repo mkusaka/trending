@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-24T01:23:52Z</updated>
+  <updated>2023-10-25T01:24:22Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PixelExperience-Staging/bionic</title>
-    <updated>2023-10-24T01:23:52Z</updated>
-    <id>tag:github.com,2023-10-24:/PixelExperience-Staging/bionic</id>
-    <link href="https://github.com/PixelExperience-Staging/bionic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

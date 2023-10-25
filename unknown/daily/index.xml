@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-24T01:22:57Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-10-25T01:23:16Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PanXProject/awesome-certificates</title>
-    <updated>2023-10-24T01:22:57Z</updated>
-    <id>tag:github.com,2023-10-24:/PanXProject/awesome-certificates</id>
-    <link href="https://github.com/PanXProject/awesome-certificates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of IT, computer science and business courses with free certificates &amp; badges.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ZachGoldberg/Startup-CTO-Handbook</title>
+    <updated>2023-10-25T01:23:16Z</updated>
+    <id>tag:github.com,2023-10-25:/ZachGoldberg/Startup-CTO-Handbook</id>
+    <link href="https://github.com/ZachGoldberg/Startup-CTO-Handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>louis-xiv-drainer/web3drain</title>
-    <updated>2023-10-24T01:22:57Z</updated>
-    <id>tag:github.com,2023-10-24:/louis-xiv-drainer/web3drain</id>
-    <link href="https://github.com/louis-xiv-drainer/web3drain" rel="alternate"></link>
+    <title>daveshap/SparsePrimingRepresentations</title>
+    <updated>2023-10-25T01:23:16Z</updated>
+    <id>tag:github.com,2023-10-25:/daveshap/SparsePrimingRepresentations</id>
+    <link href="https://github.com/daveshap/SparsePrimingRepresentations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public repo to document some SPR stuff&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Chuny1/3DGPT</title>
+    <updated>2023-10-25T01:23:16Z</updated>
+    <id>tag:github.com,2023-10-25:/Chuny1/3DGPT</id>
+    <link href="https://github.com/Chuny1/3DGPT" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mojicians/awesome-mojo</title>
-    <updated>2023-10-24T01:22:57Z</updated>
-    <id>tag:github.com,2023-10-24:/mojicians/awesome-mojo</id>
-    <link href="https://github.com/mojicians/awesome-mojo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome Mojo 🔥 frameworks, libraries, software and resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

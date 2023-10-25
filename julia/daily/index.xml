@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-24T01:31:19Z</updated>
+  <updated>2023-10-25T01:33:55Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jverzani/SymPyCore.jl</title>
-    <updated>2023-10-24T01:31:19Z</updated>
-    <id>tag:github.com,2023-10-24:/jverzani/SymPyCore.jl</id>
-    <link href="https://github.com/jverzani/SymPyCore.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Package to help connect Julia with the SymPy library of Python&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>psrenergy/QUBO.jl</title>
-    <updated>2023-10-24T01:31:19Z</updated>
-    <id>tag:github.com,2023-10-24:/psrenergy/QUBO.jl</id>
-    <link href="https://github.com/psrenergy/QUBO.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia Ecosystem for Quadratic Unconstrained Binary Optimization&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pablosanjose/Quantica.jl</title>
+    <updated>2023-10-25T01:33:55Z</updated>
+    <id>tag:github.com,2023-10-25:/pablosanjose/Quantica.jl</id>
+    <link href="https://github.com/pablosanjose/Quantica.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simulation of quantum systems on a lattice&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

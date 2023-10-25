@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-24T01:29:32Z</updated>
+  <updated>2023-10-25T01:32:04Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>surajsharma14/Web-Dev-Project-for-Hacktoberfest2023</title>
+    <updated>2023-10-25T01:32:04Z</updated>
+    <id>tag:github.com,2023-10-25:/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023</id>
+    <link href="https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HacktoberFest 2023 &lt;code&gt;GOOD FIRST&lt;/code&gt; Pull Request - &lt;code&gt;Digital Rewards&lt;/code&gt;🎉&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023/main/.github/logo.png&#34; alt=&#34;HacktoberFest 2023&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Contributors to Hacktoberfest 2023&lt;/h1&gt; &#xA;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;a href=&#34;https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023/graphs/contributors&#34;&gt; &lt;img src=&#34;https://contrib.rocks/image?repo=surajsharma14/Web-Dev-Project-for-Hacktoberfest2023&#34;&gt; &lt;/a&gt; &#xA;&lt;/div&gt; &#xA;&lt;h1&gt;The Open Source Adventure Awaits! 🗺️&lt;/h1&gt; &#xA;&lt;p&gt;🌐 HacktoberFest is your gateway to the vibrant world of open source. This year marks the 10th anniversary of Hacktoberfest, and we’re calling on your support! Join us on this epic journey and earn yourself an exclusive digital reward kit from DigitalOcean and our sponsors and partners..&lt;/p&gt; &#xA;&lt;p&gt;📢 Sign up for Hacktoberfest 2023, and contribute four pull requests (PRs) between October 1st-31st to claim your stash of cool SWAGS 🔥.&lt;/p&gt; &#xA;&lt;h1&gt;[Visit this repository to contribute to a new project for Hacktoberfest 2023]&lt;/h1&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-24T01:23:49Z</updated>
+  <updated>2023-10-25T01:24:20Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>inuad/movie-night</title>
+    <updated>2023-10-25T01:24:20Z</updated>
+    <id>tag:github.com,2023-10-25:/inuad/movie-night</id>
+    <link href="https://github.com/inuad/movie-night" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is made for hacktoberfest 2023. Share an all-time favorite movie.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

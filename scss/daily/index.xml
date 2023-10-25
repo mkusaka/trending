@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-24T01:36:37Z</updated>
+  <updated>2023-10-25T01:41:22Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bookmana/bookmana.github.io</title>
-    <updated>2023-10-24T01:36:37Z</updated>
-    <id>tag:github.com,2023-10-24:/bookmana/bookmana.github.io</id>
-    <link href="https://github.com/bookmana/bookmana.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hovgaardgames/website-hovgaard-theme</title>
+    <updated>2023-10-25T01:41:22Z</updated>
+    <id>tag:github.com,2023-10-25:/hovgaardgames/website-hovgaard-theme</id>
+    <link href="https://github.com/hovgaardgames/website-hovgaard-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vitepress theme for Hovgaard Games&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-24T01:27:52Z</updated>
+  <updated>2023-10-25T01:30:22Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DigvijaysinhGohil/Godot-Shader-Lib</title>
-    <updated>2023-10-24T01:27:52Z</updated>
-    <id>tag:github.com,2023-10-24:/DigvijaysinhGohil/Godot-Shader-Lib</id>
-    <link href="https://github.com/DigvijaysinhGohil/Godot-Shader-Lib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Visual shader node library for Godot engine.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BL-MSCH-C220/Exercise-4-3-Levels</title>
+    <updated>2023-10-25T01:30:22Z</updated>
+    <id>tag:github.com,2023-10-25:/BL-MSCH-C220/Exercise-4-3-Levels</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-4-3-Levels" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ivoyager/planetarium</title>
+    <updated>2023-10-25T01:30:22Z</updated>
+    <id>tag:github.com,2023-10-25:/ivoyager/planetarium</id>
+    <link href="https://github.com/ivoyager/planetarium" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Our Planetarium project!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

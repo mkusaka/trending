@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-24T01:30:33Z</updated>
+  <updated>2023-10-25T01:32:54Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>willyancaetano/junit5-exemplos</title>
-    <updated>2023-10-24T01:30:33Z</updated>
-    <id>tag:github.com,2023-10-24:/willyancaetano/junit5-exemplos</id>
-    <link href="https://github.com/willyancaetano/junit5-exemplos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositório com exemplos utilizando JUnit 5&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Testes unitários com JUnit&lt;/h1&gt; &#xA;&lt;p&gt;Respositório com roteiros e exemplos de como utilizar JUnit no seu dia a dia como dev.&lt;br&gt; Foi utilizado para os exemplos a versão 5.8.2, mais atual até o momento (29/01/2022).&lt;/p&gt; &#xA;&lt;h2&gt;Roteiros&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/willyancaetano/junit5-exemplos/master/CONFIGURACAO.md&#34;&gt;Configurando JUnit&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
-  <entry>
-    <title>digitalinnovationone/lab-padroes-projeto-spring</title>
-    <updated>2023-10-24T01:30:33Z</updated>
-    <id>tag:github.com,2023-10-24:/digitalinnovationone/lab-padroes-projeto-spring</id>
-    <link href="https://github.com/digitalinnovationone/lab-padroes-projeto-spring" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exemplos de Padrões de Projeto com Spring&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Explorando Padrões de Projetos na Prática com Java&lt;/h1&gt; &#xA;&lt;p&gt;Repositório com as implementações dos padrões de projeto explorados no Lab &#34;Explorando Padrões de Projetos na Prática com Java&#34;. Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Singleton&lt;/li&gt; &#xA; &lt;li&gt;Strategy/Repository&lt;/li&gt; &#xA; &lt;li&gt;Facade&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>digitalinnovationone/lab-padroes-projeto-java</title>
-    <updated>2023-10-24T01:30:33Z</updated>
-    <id>tag:github.com,2023-10-24:/digitalinnovationone/lab-padroes-projeto-java</id>
-    <link href="https://github.com/digitalinnovationone/lab-padroes-projeto-java" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exemplos de Padrões de Projeto em Java&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Explorando Padrões de Projetos na Prática com Java&lt;/h1&gt; &#xA;&lt;p&gt;Repositório com as implementações dos padrões de projeto explorados no Lab &#34;Explorando Padrões de Projetos na Prática com Java&#34;. Especificamente, este projeto explorou alguns padrões usando Java puro:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Singleton&lt;/li&gt; &#xA; &lt;li&gt;Strategy&lt;/li&gt; &#xA; &lt;li&gt;Facade&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
