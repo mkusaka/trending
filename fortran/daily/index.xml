@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-25T01:30:08Z</updated>
+  <updated>2023-10-26T01:27:14Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vmagnin/forcolormap</title>
+    <updated>2023-10-26T01:27:14Z</updated>
+    <id>tag:github.com,2023-10-26:/vmagnin/forcolormap</id>
+    <link href="https://github.com/vmagnin/forcolormap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A small Fortran fpm library for colormaps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

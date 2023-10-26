@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-25T01:33:55Z</updated>
+  <updated>2023-10-26T01:30:45Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pablosanjose/Quantica.jl</title>
-    <updated>2023-10-25T01:33:55Z</updated>
-    <id>tag:github.com,2023-10-25:/pablosanjose/Quantica.jl</id>
-    <link href="https://github.com/pablosanjose/Quantica.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simulation of quantum systems on a lattice&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mossr/PacMan.jl</title>
+    <updated>2023-10-26T01:30:45Z</updated>
+    <id>tag:github.com,2023-10-26:/mossr/PacMan.jl</id>
+    <link href="https://github.com/mossr/PacMan.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PacMan in the Julia REPL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaTrustworthyAI/ConformalPrediction.jl</title>
+    <updated>2023-10-26T01:30:45Z</updated>
+    <id>tag:github.com,2023-10-26:/JuliaTrustworthyAI/ConformalPrediction.jl</id>
+    <link href="https://github.com/JuliaTrustworthyAI/ConformalPrediction.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Predictive Uncertainty Quantification through Conformal Prediction for Machine Learning models trained in MLJ.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

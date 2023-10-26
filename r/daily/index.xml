@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-25T01:39:46Z</updated>
+  <updated>2023-10-26T01:35:06Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>editpa/Colas</title>
-    <updated>2023-10-25T01:39:46Z</updated>
-    <id>tag:github.com,2023-10-25:/editpa/Colas</id>
-    <link href="https://github.com/editpa/Colas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Colas en R&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Colas&lt;/h1&gt; &#xA;&lt;p&gt;Colas en R&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>haneuljangkr/bayaka-subsistence-networks</title>
-    <updated>2023-10-25T01:39:46Z</updated>
-    <id>tag:github.com,2023-10-25:/haneuljangkr/bayaka-subsistence-networks</id>
-    <link href="https://github.com/haneuljangkr/bayaka-subsistence-networks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Women’s subsistence networks scaffold cultural transmission among BaYaka foragers in the Congo Basin&lt;/h1&gt; &#xA;&lt;h2&gt;&lt;a href=&#34;https://github.com/danielRedhead/bayaka-subsistence-networks#requirements-for-analyses&#34;&gt;Requirements for analyses:&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;R: &lt;a href=&#34;https://cran.r-project.org/&#34;&gt;https://cran.r-project.org&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;STRAND: &lt;a href=&#34;https://github.com/ctross/STRAND&#34;&gt;https://github.com/ctross/STRAND&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;cmdstanr: &lt;a href=&#34;https://mc-stan.org/cmdstanr/&#34;&gt;https://mc-stan.org/cmdstanr/&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;&lt;a href=&#34;https://github.com/danielRedhead/bayaka-subsistence-networks#packages-used-for-data-processing-and-visualisation&#34;&gt;Packages used for data processing and visualisation:&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Rethinking: &lt;a href=&#34;https://xcelab.net/rm/statistical-rethinking/&#34;&gt;https://xcelab.net/rm/statistical-rethinking/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;tidyverse: &lt;a href=&#34;https://www.tidyverse.org/&#34;&gt;https://www.tidyverse.org&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;&lt;a href=&#34;https://github.com/danielRedhead/bayaka-subsistence-networks#details&#34;&gt;Details&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;p&gt;To reproduce the results presented in the manuscript, please first go into the &#39;code/&#39; folder of the repository. It would probably be best to review the many different scripts for data processing, analysis and visualisation. Then, if you would like to reproduce the results reported in the publication, call the run all file that can be found in the repository:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;source(&#34;./run_all.R&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Alternatively, you can go into each processing/analysis/visualisation script and run them separately.&lt;/p&gt; &#xA;&lt;h2&gt;&lt;a href=&#34;https://github.com/danielRedhead/bayaka-subsistence-networks#details&#34;&gt;Data file&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;p&gt;The strand object data (PublicVersion.RData) contains all data used to run models, including dayID, focalID, ind1, ind2, observed together (1: observed being together in a focal woman&#39;s foraging group at the day of day ID, 0: not observed in a focal woman&#39;s foraging group), camp_together (1: being at camp together at the day of dayID (cohabitants), 0: not being at camp together), gender difference (female-female, different gender, male-male), co-residence (0: not living together in the same household or 1: co-residing in the same household) and relatedness of each dyad.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-25T01:44:06Z</updated>
+  <updated>2023-10-26T01:38:26Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lmxdawn/vue-admin-html-java</title>
-    <updated>2023-10-25T01:44:06Z</updated>
-    <id>tag:github.com,2023-10-25:/lmxdawn/vue-admin-html-java</id>
-    <link href="https://github.com/lmxdawn/vue-admin-html-java" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;spring boot + mybatis + vue + element-ui 实现后台管理API接口&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tpe-doit/Taipei-City-Dashboard-FE</title>
+    <updated>2023-10-26T01:38:26Z</updated>
+    <id>tag:github.com,2023-10-26:/tpe-doit/Taipei-City-Dashboard-FE</id>
+    <link href="https://github.com/tpe-doit/Taipei-City-Dashboard-FE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The open source version of Taipei City Dashboard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dromara/mayfly-go</title>
+    <updated>2023-10-26T01:38:26Z</updated>
+    <id>tag:github.com,2023-10-26:/dromara/mayfly-go</id>
+    <link href="https://github.com/dromara/mayfly-go" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql)、redis(单机 哨兵 集群)、mongo统一管理操作平台。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

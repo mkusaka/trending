@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-25T01:26:15Z</updated>
+  <updated>2023-10-26T01:24:02Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dojoengine/dojo-starter</title>
-    <updated>2023-10-25T01:26:15Z</updated>
-    <id>tag:github.com,2023-10-25:/dojoengine/dojo-starter</id>
-    <link href="https://github.com/dojoengine/dojo-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A starting template for your Dojo world&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

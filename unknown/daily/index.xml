@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-25T01:23:16Z</updated>
+  <updated>2023-10-26T01:22:11Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ZachGoldberg/Startup-CTO-Handbook</title>
-    <updated>2023-10-25T01:23:16Z</updated>
-    <id>tag:github.com,2023-10-25:/ZachGoldberg/Startup-CTO-Handbook</id>
-    <link href="https://github.com/ZachGoldberg/Startup-CTO-Handbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mouredev/hello-sql</title>
+    <updated>2023-10-26T01:22:11Z</updated>
+    <id>tag:github.com,2023-10-26:/mouredev/hello-sql</id>
+    <link href="https://github.com/mouredev/hello-sql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curso para aprender los fundamentos del lenguaje SQL y bases de datos relacionales desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>daveshap/SparsePrimingRepresentations</title>
-    <updated>2023-10-25T01:23:16Z</updated>
-    <id>tag:github.com,2023-10-25:/daveshap/SparsePrimingRepresentations</id>
-    <link href="https://github.com/daveshap/SparsePrimingRepresentations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public repo to document some SPR stuff&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Chuny1/3DGPT</title>
-    <updated>2023-10-25T01:23:16Z</updated>
-    <id>tag:github.com,2023-10-25:/Chuny1/3DGPT</id>
-    <link href="https://github.com/Chuny1/3DGPT" rel="alternate"></link>
+    <title>GoogleChrome/ip-protection</title>
+    <updated>2023-10-26T01:22:11Z</updated>
+    <id>tag:github.com,2023-10-26:/GoogleChrome/ip-protection</id>
+    <link href="https://github.com/GoogleChrome/ip-protection" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cerealwithmilk/Fluster</title>
+    <updated>2023-10-26T01:22:11Z</updated>
+    <id>tag:github.com,2023-10-26:/cerealwithmilk/Fluster</id>
+    <link href="https://github.com/cerealwithmilk/Fluster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An custom Roblox UWP Client that is customizable and user friendly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

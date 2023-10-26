@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-25T01:30:22Z</updated>
+  <updated>2023-10-26T01:27:32Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220/Exercise-4-3-Levels</title>
-    <updated>2023-10-25T01:30:22Z</updated>
-    <id>tag:github.com,2023-10-25:/BL-MSCH-C220/Exercise-4-3-Levels</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-4-3-Levels" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ivoyager/planetarium</title>
-    <updated>2023-10-25T01:30:22Z</updated>
-    <id>tag:github.com,2023-10-25:/ivoyager/planetarium</id>
-    <link href="https://github.com/ivoyager/planetarium" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Our Planetarium project!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mickeon/team-fortress-jumper</title>
+    <updated>2023-10-26T01:27:32Z</updated>
+    <id>tag:github.com,2023-10-26:/Mickeon/team-fortress-jumper</id>
+    <link href="https://github.com/Mickeon/team-fortress-jumper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TF2&#39;s Rocket Jumping demo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

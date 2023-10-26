@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-25T01:29:16Z</updated>
+  <updated>2023-10-26T01:26:35Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bmuller/telemetry_metrics_cloudwatch</title>
+    <updated>2023-10-26T01:26:35Z</updated>
+    <id>tag:github.com,2023-10-26:/bmuller/telemetry_metrics_cloudwatch</id>
+    <link href="https://github.com/bmuller/telemetry_metrics_cloudwatch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Provides an AWS CloudFront reporter for Elixir Telemetry.Metrics definitions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
