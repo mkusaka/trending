@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-26T01:37:10Z</updated>
+  <updated>2023-10-27T01:41:11Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>syntaxfm/website</title>
-    <updated>2023-10-26T01:37:10Z</updated>
-    <id>tag:github.com,2023-10-26:/syntaxfm/website</id>
-    <link href="https://github.com/syntaxfm/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Syntax Podcast Website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>osc-vitap/OpenSource101</title>
-    <updated>2023-10-26T01:37:10Z</updated>
-    <id>tag:github.com,2023-10-26:/osc-vitap/OpenSource101</id>
-    <link href="https://github.com/osc-vitap/OpenSource101" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a starter repository made specifically so we can help you get your first pull request and learn the basics of Git and GitHub.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>excalichart/excalichart</title>
+    <updated>2023-10-27T01:41:11Z</updated>
+    <id>tag:github.com,2023-10-27:/excalichart/excalichart</id>
+    <link href="https://github.com/excalichart/excalichart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Excalichart is an open source BI tool for finding insights in your data.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

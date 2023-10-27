@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-26T01:26:41Z</updated>
+  <updated>2023-10-27T01:30:14Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tanaka51/dot.emacs.d</title>
-    <updated>2023-10-26T01:26:41Z</updated>
-    <id>tag:github.com,2023-10-26:/tanaka51/dot.emacs.d</id>
-    <link href="https://github.com/tanaka51/dot.emacs.d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;emacs.d&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;emacs.d&lt;/h1&gt; &#xA;&lt;p&gt;My .emacs.d&lt;/p&gt; &#xA;&lt;h1&gt;Environment&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;GNU Emacs 24.2&lt;/li&gt; &#xA; &lt;li&gt;Macbook Air 13&#39;&lt;/li&gt; &#xA; &lt;li&gt;cmigemo&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Target&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;Ruby on Rails&lt;/code&gt; with &lt;code&gt;CoffeeScript&lt;/code&gt; and &lt;code&gt;Sass&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;Markdown&lt;/code&gt; for my blog using Octopress ( &lt;a href=&#34;http://blog.tanaka51.jp&#34;&gt;http://blog.tanaka51.jp&lt;/a&gt; )&lt;/li&gt; &#xA; &lt;li&gt;under &lt;code&gt;Git&lt;/code&gt; project&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;TODO&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Extract files from init.el for paths and window size&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>mswift42/.emacs.d</title>
+    <updated>2023-10-27T01:30:14Z</updated>
+    <id>tag:github.com,2023-10-27:/mswift42/.emacs.d</id>
+    <link href="https://github.com/mswift42/.emacs.d" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My Emacs config&lt;/p&gt;&lt;hr&gt;&lt;p&gt;my emacs setup.&lt;/p&gt;</summary>
   </entry>
 </feed>

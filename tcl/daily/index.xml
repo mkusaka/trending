@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-26T01:37:26Z</updated>
+  <updated>2023-10-27T01:41:30Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lukstafi/curious-ocaml</title>
-    <updated>2023-10-26T01:37:26Z</updated>
-    <id>tag:github.com,2023-10-26:/lukstafi/curious-ocaml</id>
-    <link href="https://github.com/lukstafi/curious-ocaml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curious book about OCaml: logic (types), algebra (values), computation (rewrite semantics), functions (lambda calculus), constraints, monads, expression.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

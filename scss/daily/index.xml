@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-26T01:36:16Z</updated>
+  <updated>2023-10-27T01:40:12Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jerry1100/messenger-dark-theme</title>
+    <updated>2023-10-27T01:40:12Z</updated>
+    <id>tag:github.com,2023-10-27:/jerry1100/messenger-dark-theme</id>
+    <link href="https://github.com/jerry1100/messenger-dark-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dark theme for Facebook Messenger&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bojieyang/bojieyang.github.io</title>
+    <updated>2023-10-27T01:40:12Z</updated>
+    <id>tag:github.com,2023-10-27:/bojieyang/bojieyang.github.io</id>
+    <link href="https://github.com/bojieyang/bojieyang.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My personal blog&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

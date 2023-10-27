@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-26T01:30:45Z</updated>
+  <updated>2023-10-27T01:34:49Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mossr/PacMan.jl</title>
-    <updated>2023-10-26T01:30:45Z</updated>
-    <id>tag:github.com,2023-10-26:/mossr/PacMan.jl</id>
-    <link href="https://github.com/mossr/PacMan.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PacMan in the Julia REPL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaSmoothOptimizers/BenchmarkProfiles.jl</title>
+    <updated>2023-10-27T01:34:49Z</updated>
+    <id>tag:github.com,2023-10-27:/JuliaSmoothOptimizers/BenchmarkProfiles.jl</id>
+    <link href="https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Performance and data profiles&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaTrustworthyAI/ConformalPrediction.jl</title>
-    <updated>2023-10-26T01:30:45Z</updated>
-    <id>tag:github.com,2023-10-26:/JuliaTrustworthyAI/ConformalPrediction.jl</id>
-    <link href="https://github.com/JuliaTrustworthyAI/ConformalPrediction.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Predictive Uncertainty Quantification through Conformal Prediction for Machine Learning models trained in MLJ.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ericphanson/AllocArrays.jl</title>
+    <updated>2023-10-27T01:34:49Z</updated>
+    <id>tag:github.com,2023-10-27:/ericphanson/AllocArrays.jl</id>
+    <link href="https://github.com/ericphanson/AllocArrays.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Arrays that use a dynamically-scoped allocator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

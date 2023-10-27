@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-26T01:22:11Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-10-27T01:24:58Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mouredev/hello-sql</title>
-    <updated>2023-10-26T01:22:11Z</updated>
-    <id>tag:github.com,2023-10-26:/mouredev/hello-sql</id>
-    <link href="https://github.com/mouredev/hello-sql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curso para aprender los fundamentos del lenguaje SQL y bases de datos relacionales desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GoogleChrome/ip-protection</title>
-    <updated>2023-10-26T01:22:11Z</updated>
-    <id>tag:github.com,2023-10-26:/GoogleChrome/ip-protection</id>
-    <link href="https://github.com/GoogleChrome/ip-protection" rel="alternate"></link>
+    <title>aluismoya/EbookFoundation-free-programming-books</title>
+    <updated>2023-10-27T01:24:58Z</updated>
+    <id>tag:github.com,2023-10-27:/aluismoya/EbookFoundation-free-programming-books</id>
+    <link href="https://github.com/aluismoya/EbookFoundation-free-programming-books" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cerealwithmilk/Fluster</title>
-    <updated>2023-10-26T01:22:11Z</updated>
-    <id>tag:github.com,2023-10-26:/cerealwithmilk/Fluster</id>
-    <link href="https://github.com/cerealwithmilk/Fluster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An custom Roblox UWP Client that is customizable and user friendly&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OneCodeMonkey/music-sources</title>
+    <updated>2023-10-27T01:24:58Z</updated>
+    <id>tag:github.com,2023-10-27:/OneCodeMonkey/music-sources</id>
+    <link href="https://github.com/OneCodeMonkey/music-sources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;音乐播放可用源&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>karan/Projects</title>
+    <updated>2023-10-27T01:24:58Z</updated>
+    <id>tag:github.com,2023-10-27:/karan/Projects</id>
+    <link href="https://github.com/karan/Projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📃 A list of practical projects that anyone can solve in any programming language.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
