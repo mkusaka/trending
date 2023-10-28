@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-27T01:26:23Z</updated>
+  <updated>2023-10-28T01:22:13Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rosesxrd/free-ngrok-rdp-3</title>
+    <updated>2023-10-28T01:22:13Z</updated>
+    <id>tag:github.com,2023-10-28:/rosesxrd/free-ngrok-rdp-3</id>
+    <link href="https://github.com/rosesxrd/free-ngrok-rdp-3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;For free rdp ( virtual machine ) ngrok method 2023 working 6 hour free :)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nguyentumine/AIO-Boot</title>
+    <updated>2023-10-28T01:22:13Z</updated>
+    <id>tag:github.com,2023-10-28:/nguyentumine/AIO-Boot</id>
+    <link href="https://github.com/nguyentumine/AIO-Boot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AIO Boot is an All-in-One bootable software for USB and HDD. Is one of the best Multiboot USB Creator for Windows.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

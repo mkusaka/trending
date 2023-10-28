@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-27T01:39:32Z</updated>
+  <updated>2023-10-28T01:33:39Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xapi-project/xcp-idl</title>
-    <updated>2023-10-27T01:39:32Z</updated>
-    <id>tag:github.com,2023-10-27:/xapi-project/xcp-idl</id>
-    <link href="https://github.com/xapi-project/xcp-idl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interface descriptions for services running on an XCP host.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>resurgencelabs/ikigai_backend</title>
+    <updated>2023-10-28T01:33:39Z</updated>
+    <id>tag:github.com,2023-10-28:/resurgencelabs/ikigai_backend</id>
+    <link href="https://github.com/resurgencelabs/ikigai_backend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simplified open-sourced backend for the Ikigai dapp&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

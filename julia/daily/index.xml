@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-27T01:34:49Z</updated>
+  <updated>2023-10-28T01:27:42Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaSmoothOptimizers/BenchmarkProfiles.jl</title>
-    <updated>2023-10-27T01:34:49Z</updated>
-    <id>tag:github.com,2023-10-27:/JuliaSmoothOptimizers/BenchmarkProfiles.jl</id>
-    <link href="https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Performance and data profiles&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ericphanson/AllocArrays.jl</title>
-    <updated>2023-10-27T01:34:49Z</updated>
-    <id>tag:github.com,2023-10-27:/ericphanson/AllocArrays.jl</id>
-    <link href="https://github.com/ericphanson/AllocArrays.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Arrays that use a dynamically-scoped allocator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaRegistries/RegistryCI.jl</title>
+    <updated>2023-10-28T01:27:42Z</updated>
+    <id>tag:github.com,2023-10-28:/JuliaRegistries/RegistryCI.jl</id>
+    <link href="https://github.com/JuliaRegistries/RegistryCI.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Continuous integration (CI) tools for Julia package registries, including registry consistency testing, automatic merging (automerge) of pull requests, and automatic TagBot triggers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
