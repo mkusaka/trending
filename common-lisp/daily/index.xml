@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-28T01:23:25Z</updated>
+  <updated>2023-10-29T01:29:18Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>varjagg/deptree</title>
+    <updated>2023-10-29T01:29:18Z</updated>
+    <id>tag:github.com,2023-10-29:/varjagg/deptree</id>
+    <link href="https://github.com/varjagg/deptree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;System dependency listing and archiving tool for Common Lisp&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#+startup: showall #+TITLE: Deptree: ASDF system dependency listing and archiving #+PROPERTY: header-args :results output #+OPTIONS: toc:nil #+INFOJS_OPT: view:showall toc:nil #+LATEX_CLASS: article #+LATEX_CLASS_OPTIONS: [a4paper, 11pt] #+LaTeX_HEADER: \usepackage{minted} #+LaTeX_HEADER: \usemintedstyle{common-lisp, fontsize=\scriptsize} #+LaTeX_HEADER: \usepackage[left=0.6in, right=0.6in]{geometry} #+LATEX_HEADER: \usepackage{fancyhdr} #+LATEX_HEADER: \pagestyle{fancyplain} #+LATEX_HEADER: \lhead{} #+LATEX_HEADER: \rhead{} #+LATEX_HEADER: \lfoot{} #+LATEX_HEADER: \rfoot{} #+HTML_HEAD: &#xA; &lt;link rel=&#34;stylesheet&#34; href=&#34;https://sandyuraz.com/styles/org.min.css&#34;&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Enumerating system&#39;s dependencies&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;(deptree /system-name/)&lt;/p&gt; &#xA;&lt;p&gt;Example: &lt;del&gt;(deptree &#34;hunchentoot&#34;)&lt;/del&gt;&lt;/p&gt; &#xA;&lt;p&gt;The resulting list of system names is deduplicated and pruned of dependencies within same system directories.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Listing dependencies&#39; pathnames&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;(systems-paths /dependencies/)&lt;/p&gt; &#xA;&lt;p&gt;Example: &lt;del&gt;(systems-paths (deptree &#34;hunchentoot&#34;))&lt;/del&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Archiving system&#39;s dependencies&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;(systems-archive /dependencies/ /tarball-pathname/ &amp;amp;key (/sanitize-p t/) (/path-prefix/ &#34;&#34;))&lt;/p&gt; &#xA;&lt;p&gt;Example: &lt;del&gt;(systems-archive (deptree &#34;hunchentoot&#34;) #p&#34;/tmp/hunchentoot-deps.tgz&#34;)&lt;/del&gt;&lt;/p&gt; &#xA;&lt;p&gt;Before archiving, make sure the dependencies are in fact present on your host. If you are using Quicklisp it&#39;s as easy as quickload-ing the system.&lt;/p&gt; &#xA;&lt;p&gt;All systems directories are stored flat (with prepeneded &lt;del&gt;:PATH-PREFIX&lt;/del&gt;) regardless their original absolute pathnames. Since feature-conditional dependencies are honored, please ensure you&#39;re archiving from the relevant platform.&lt;/p&gt; &#xA;&lt;p&gt;Unless &lt;del&gt;:SANITIZE-P&lt;/del&gt; is NIL, the function will clean up git and Mercurial DVCS data from the archives.&lt;/p&gt;</summary>
+  </entry>
 </feed>

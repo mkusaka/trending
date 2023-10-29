@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-29T01:52:34Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BL-MSCH-C220/Exercise-4-2-State-Machine</title>
+    <updated>2023-10-29T01:52:34Z</updated>
+    <id>tag:github.com,2023-10-29:/BL-MSCH-C220/Exercise-4-2-State-Machine</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-4-2-State-Machine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BenjaTK/Gaea</title>
+    <updated>2023-10-29T01:52:34Z</updated>
+    <id>tag:github.com,2023-10-29:/BenjaTK/Gaea</id>
+    <link href="https://github.com/BenjaTK/Gaea" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Procedural generation add-on for Godot 4.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Rhythia/Rhythia</title>
+    <updated>2023-10-29T01:52:34Z</updated>
+    <id>tag:github.com,2023-10-29:/Rhythia/Rhythia</id>
+    <link href="https://github.com/Rhythia/Rhythia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rhythia is an aim-based rhythm game&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

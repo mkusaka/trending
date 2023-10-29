@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-28T01:36:14Z</updated>
+  <updated>2023-10-29T01:43:35Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>huntabyte/cmdk-sv</title>
-    <updated>2023-10-28T01:36:14Z</updated>
-    <id>tag:github.com,2023-10-28:/huntabyte/cmdk-sv</id>
-    <link href="https://github.com/huntabyte/cmdk-sv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;cmdk, but for Svelte ✨&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sebastiandedeyne/sveltebyexample.com</title>
+    <updated>2023-10-29T01:43:35Z</updated>
+    <id>tag:github.com,2023-10-29:/sebastiandedeyne/sveltebyexample.com</id>
+    <link href="https://github.com/sebastiandedeyne/sveltebyexample.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Svelte by Example is a succinct, gentle introduction to Svelte &amp; SvelteKit to peak your curiosity.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>matfantinel/sveltekit-static-blog-template</title>
+    <updated>2023-10-29T01:43:35Z</updated>
+    <id>tag:github.com,2023-10-29:/matfantinel/sveltekit-static-blog-template</id>
+    <link href="https://github.com/matfantinel/sveltekit-static-blog-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight and customizable template for blogs and portfolio websites, built with SvelteKit.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

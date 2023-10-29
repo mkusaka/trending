@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-28T01:21:36Z</updated>
+  <updated>2023-10-29T01:26:51Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>h3nr7/tapestry</title>
-    <updated>2023-10-28T01:21:36Z</updated>
-    <id>tag:github.com,2023-10-28:/h3nr7/tapestry</id>
-    <link href="https://github.com/h3nr7/tapestry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pipers Tapestry Media table&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

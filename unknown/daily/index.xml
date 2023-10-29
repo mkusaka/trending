@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-28T01:21:11Z</updated>
+  <updated>2023-10-29T01:26:22Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ashishps1/awesome-leetcode-resources</title>
-    <updated>2023-10-28T01:21:11Z</updated>
-    <id>tag:github.com,2023-10-28:/ashishps1/awesome-leetcode-resources</id>
-    <link href="https://github.com/ashishps1/awesome-leetcode-resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains LeetCode articles which are very useful during the interview preparation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>deepseek-ai/DreamCraft3D</title>
+    <updated>2023-10-29T01:26:22Z</updated>
+    <id>tag:github.com,2023-10-29:/deepseek-ai/DreamCraft3D</id>
+    <link href="https://github.com/deepseek-ai/DreamCraft3D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ashishps1/awesome-system-design-resources</title>
-    <updated>2023-10-28T01:21:11Z</updated>
-    <id>tag:github.com,2023-10-28:/ashishps1/awesome-system-design-resources</id>
-    <link href="https://github.com/ashishps1/awesome-system-design-resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains System Design articles which are useful during the interview preparation and while learning Distributed Systems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gtech-mulearn/Top-100-Coders</title>
+    <updated>2023-10-29T01:26:22Z</updated>
+    <id>tag:github.com,2023-10-29:/gtech-mulearn/Top-100-Coders</id>
+    <link href="https://github.com/gtech-mulearn/Top-100-Coders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kerala Top 100 Coders - Huddle Global 2023. Join our coding challenge and showcase your skills. Connect with startups and industries in Kerala&#39;s vibrant tech ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>charonlight/NacosExploitGUI</title>
-    <updated>2023-10-28T01:21:11Z</updated>
-    <id>tag:github.com,2023-10-28:/charonlight/NacosExploitGUI</id>
-    <link href="https://github.com/charonlight/NacosExploitGUI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nacos综合漏洞利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>P3N-101/ResourceKit</title>
+    <updated>2023-10-29T01:26:22Z</updated>
+    <id>tag:github.com,2023-10-29:/P3N-101/ResourceKit</id>
+    <link href="https://github.com/P3N-101/ResourceKit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

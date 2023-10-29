@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub VBScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-29T02:04:22Z</updated>
+  <subtitle>Weekly Trending of VBScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>onx/ILOVEYOU</title>
+    <updated>2023-10-29T02:04:22Z</updated>
+    <id>tag:github.com,2023-10-29:/onx/ILOVEYOU</id>
+    <link href="https://github.com/onx/ILOVEYOU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Formatted and commented source code of ILOVEYOU/Love Letter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

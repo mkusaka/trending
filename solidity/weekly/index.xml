@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-29T02:02:40Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yunusdefi/contract</title>
+    <updated>2023-10-29T02:02:40Z</updated>
+    <id>tag:github.com,2023-10-29:/yunusdefi/contract</id>
+    <link href="https://github.com/yunusdefi/contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>scroll-tech/scroll</title>
+    <updated>2023-10-29T02:02:40Z</updated>
+    <id>tag:github.com,2023-10-29:/scroll-tech/scroll</id>
+    <link href="https://github.com/scroll-tech/scroll" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scroll&#39;s Monorepo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>morpho-org/metamorpho</title>
+    <updated>2023-10-29T02:02:40Z</updated>
+    <id>tag:github.com,2023-10-29:/morpho-org/metamorpho</id>
+    <link href="https://github.com/morpho-org/metamorpho" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MetaMorpho&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

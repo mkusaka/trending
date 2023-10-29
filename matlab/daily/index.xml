@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-28T01:29:15Z</updated>
+  <updated>2023-10-29T01:36:34Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>UoMResearchIT/matlab_autotest</title>
-    <updated>2023-10-28T01:29:15Z</updated>
-    <id>tag:github.com,2023-10-28:/UoMResearchIT/matlab_autotest</id>
-    <link href="https://github.com/UoMResearchIT/matlab_autotest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tool to add automatic checkpoints to messy code (that can later be turned into unit tests)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xkm79/digitalImageProcessing-lmh-ver</title>
-    <updated>2023-10-28T01:29:15Z</updated>
-    <id>tag:github.com,2023-10-28:/xkm79/digitalImageProcessing-lmh-ver</id>
-    <link href="https://github.com/xkm79/digitalImageProcessing-lmh-ver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;数字图像处理实验 MATLAB&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

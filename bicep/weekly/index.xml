@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-29T01:47:41Z</updated>
+  <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>radius-project/docs</title>
+    <updated>2023-10-29T01:47:41Z</updated>
+    <id>tag:github.com,2023-10-29:/radius-project/docs</id>
+    <link href="https://github.com/radius-project/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation for Radius&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/GPT-RAG</title>
+    <updated>2023-10-29T01:47:41Z</updated>
+    <id>tag:github.com,2023-10-29:/Azure/GPT-RAG</id>
+    <link href="https://github.com/Azure/GPT-RAG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&amp;A experiences.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

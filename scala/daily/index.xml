@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-28T01:34:41Z</updated>
+  <updated>2023-10-29T01:42:12Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jdevelop/ljguests</title>
-    <updated>2023-10-28T01:34:41Z</updated>
-    <id>tag:github.com,2023-10-28:/jdevelop/ljguests</id>
-    <link href="https://github.com/jdevelop/ljguests" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Livejournal Guests tracker and history aggregator&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ljguests &lt;a href=&#34;http://travis-ci.org/jdevelop/ljguests&#34;&gt;&lt;img src=&#34;https://secure.travis-ci.org/jdevelop/ljguests.png&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;Livejournal Guests tracker and history aggregator&lt;/p&gt; &#xA;&lt;h1&gt;Configuration&lt;/h1&gt; &#xA;&lt;p&gt;Configuration file &lt;strong&gt;must&lt;/strong&gt; reside in &lt;strong&gt;user home directory&lt;/strong&gt;, for example:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;/home/user/.ljguests&lt;/li&gt; &#xA; &lt;li&gt;C:\User\Username\ .ljguests&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;it&#39;s content is formatted as JSON:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;{&#xA;  &#34;username&#34; : &#34;username&#34;,&#xA;  &#34;password&#34; : &#34;password&#34;,&#xA;  &#34;lastDate&#34; : &#34;03-03-2013&#34;,&#xA;  &#34;timezone&#34; : &#34;EST&#34;&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;strong&gt;lastDate&lt;/strong&gt; and &lt;strong&gt;timezone&lt;/strong&gt; are optional elements.&lt;/p&gt; &#xA;&lt;h1&gt;Running&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Build assembly with &lt;code&gt;mvn clean assembly:assembly&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Create configuration file as above&lt;/li&gt; &#xA; &lt;li&gt;Run as &lt;code&gt;java -jar ljguests-0.1.jar&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;RSS feed will be dumped to stdout, feel free to redirect it to a file or RSS reader or whatever.&lt;/li&gt; &#xA; &lt;li&gt;Enjoy&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

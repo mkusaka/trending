@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-10-29T01:49:06Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gyulalaszlo/mustard2</title>
+    <updated>2023-10-29T01:49:06Z</updated>
+    <id>tag:github.com,2023-10-29:/gyulalaszlo/mustard2</id>
+    <link href="https://github.com/gyulalaszlo/mustard2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Structured, data-driven templating for JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>blzkz/html5engine</title>
+    <updated>2023-10-29T01:49:06Z</updated>
+    <id>tag:github.com,2023-10-29:/blzkz/html5engine</id>
+    <link href="https://github.com/blzkz/html5engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;html5 engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

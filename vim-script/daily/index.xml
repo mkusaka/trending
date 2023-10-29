@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-28T01:37:37Z</updated>
+  <updated>2023-10-29T01:45:08Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jtickle/.vim</title>
+    <updated>2023-10-29T01:45:08Z</updated>
+    <id>tag:github.com,2023-10-29:/jtickle/.vim</id>
+    <link href="https://github.com/jtickle/.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My Vim Configuration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>psi/dotfiles</title>
+    <updated>2023-10-29T01:45:08Z</updated>
+    <id>tag:github.com,2023-10-29:/psi/dotfiles</id>
+    <link href="https://github.com/psi/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tommcdo/vim-lion</title>
+    <updated>2023-10-29T01:45:08Z</updated>
+    <id>tag:github.com,2023-10-29:/tommcdo/vim-lion</id>
+    <link href="https://github.com/tommcdo/vim-lion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple alignment operator for Vim text editor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
