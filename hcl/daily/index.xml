@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-29T01:33:11Z</updated>
+  <updated>2023-10-30T01:29:13Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>astroicers/outline-terraform-aws</title>
+    <updated>2023-10-30T01:29:13Z</updated>
+    <id>tag:github.com,2023-10-30:/astroicers/outline-terraform-aws</id>
+    <link href="https://github.com/astroicers/outline-terraform-aws" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This project aims to deploy the Outline Wiki on AWS using Terraform and Ansible.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>goodard/code9</title>
+    <updated>2023-10-30T01:29:13Z</updated>
+    <id>tag:github.com,2023-10-30:/goodard/code9</id>
+    <link href="https://github.com/goodard/code9" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Levi9 code9 project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/alz-terraform-accelerator</title>
+    <updated>2023-10-30T01:29:13Z</updated>
+    <id>tag:github.com,2023-10-30:/Azure/alz-terraform-accelerator</id>
+    <link href="https://github.com/Azure/alz-terraform-accelerator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Landing Zones Terraform Accelerator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

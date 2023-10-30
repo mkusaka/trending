@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-29T01:45:18Z</updated>
+  <updated>2023-10-30T01:38:01Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Deeptrain-Community/fystart</title>
-    <updated>2023-10-29T01:45:18Z</updated>
-    <id>tag:github.com,2023-10-29:/Deeptrain-Community/fystart</id>
-    <link href="https://github.com/Deeptrain-Community/fystart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🍏 极目起始页，一个简洁的起始页，实现一言，工具箱，实用卡片，国际化，设置，ChatGPT搜索建议，翻译功能，自定义设置，搜索引擎建议，离线访问等功能 🍏 An intuitive start page implementing quotes, toolbox, utility cards, settings, ChatGPT search suggestions, internationalization, custom settings, search engine suggestions, translation, offline access, etc.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pevaristo/example-deploy</title>
-    <updated>2023-10-29T01:45:18Z</updated>
-    <id>tag:github.com,2023-10-29:/pevaristo/example-deploy</id>
-    <link href="https://github.com/pevaristo/example-deploy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example Deploy&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SMU-AWSCloudClub/wad2_workshop</title>
-    <updated>2023-10-29T01:45:18Z</updated>
-    <id>tag:github.com,2023-10-29:/SMU-AWSCloudClub/wad2_workshop</id>
-    <link href="https://github.com/SMU-AWSCloudClub/wad2_workshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

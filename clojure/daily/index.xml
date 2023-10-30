@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-29T01:29:07Z</updated>
+  <updated>2023-10-30T01:25:55Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>flow-storm/flow-storm-debugger</title>
-    <updated>2023-10-29T01:29:07Z</updated>
-    <id>tag:github.com,2023-10-29:/flow-storm/flow-storm-debugger</id>
-    <link href="https://github.com/flow-storm/flow-storm-debugger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A debugger for Clojure and ClojureScript with some unique features.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jshou/primes</title>
-    <updated>2023-10-29T01:29:07Z</updated>
-    <id>tag:github.com,2023-10-29:/jshou/primes</id>
-    <link href="https://github.com/jshou/primes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;clojure tool for finding the first n prime numbers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-29T01:35:08Z</updated>
+  <updated>2023-10-30T01:30:31Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>triscale-innov/DataViewer.jl</title>
-    <updated>2023-10-29T01:35:08Z</updated>
-    <id>tag:github.com,2023-10-29:/triscale-innov/DataViewer.jl</id>
-    <link href="https://github.com/triscale-innov/DataViewer.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Visualization GUI for (julia-related) data files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MIT-LAE/IdealGases.jl</title>
+    <updated>2023-10-30T01:30:31Z</updated>
+    <id>tag:github.com,2023-10-30:/MIT-LAE/IdealGases.jl</id>
+    <link href="https://github.com/MIT-LAE/IdealGases.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia package to model thermodynamics of ideal gas mixtures.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>trixi-framework/libtrixi</title>
-    <updated>2023-10-29T01:35:08Z</updated>
-    <id>tag:github.com,2023-10-29:/trixi-framework/libtrixi</id>
-    <link href="https://github.com/trixi-framework/libtrixi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interface library for using Trixi.jl from C/C++/Fortran&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaLang/StyledStrings.jl</title>
+    <updated>2023-10-30T01:30:31Z</updated>
+    <id>tag:github.com,2023-10-30:/JuliaLang/StyledStrings.jl</id>
+    <link href="https://github.com/JuliaLang/StyledStrings.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaGeometry/Quaternions.jl</title>
+    <updated>2023-10-30T01:30:31Z</updated>
+    <id>tag:github.com,2023-10-30:/JuliaGeometry/Quaternions.jl</id>
+    <link href="https://github.com/JuliaGeometry/Quaternions.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia implementation of quaternions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

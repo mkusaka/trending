@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-29T01:31:59Z</updated>
+  <updated>2023-10-30T01:28:13Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220/Exercise-4-4-Enemies</title>
-    <updated>2023-10-29T01:31:59Z</updated>
-    <id>tag:github.com,2023-10-29:/BL-MSCH-C220/Exercise-4-4-Enemies</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-4-4-Enemies" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Jamsers/Godot-Human-For-Scale</title>
+    <updated>2023-10-30T01:28:13Z</updated>
+    <id>tag:github.com,2023-10-30:/Jamsers/Godot-Human-For-Scale</id>
+    <link href="https://github.com/Jamsers/Godot-Human-For-Scale" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple controllable character that you can use to run around in your Godot level.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ephread/inkgd</title>
-    <updated>2023-10-29T01:31:59Z</updated>
-    <id>tag:github.com,2023-10-29:/ephread/inkgd</id>
-    <link href="https://github.com/ephread/inkgd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of inkle&#39;s Ink in pure GDScript for Godot, with editor support.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>don-tnowe/godot-dictionary-inspector</title>
+    <updated>2023-10-30T01:28:13Z</updated>
+    <id>tag:github.com,2023-10-30:/don-tnowe/godot-dictionary-inspector</id>
+    <link href="https://github.com/don-tnowe/godot-dictionary-inspector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An inspector editor for Dictionaries. But better than the built-in one.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

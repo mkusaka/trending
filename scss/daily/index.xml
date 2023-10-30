@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-29T01:42:25Z</updated>
+  <updated>2023-10-30T01:35:53Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>leantechlabs/captaV2</title>
-    <updated>2023-10-29T01:42:25Z</updated>
-    <id>tag:github.com,2023-10-29:/leantechlabs/captaV2</id>
-    <link href="https://github.com/leantechlabs/captaV2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;capta : co-ignite&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Ivysauro/CNRT</title>
-    <updated>2023-10-29T01:42:25Z</updated>
-    <id>tag:github.com,2023-10-29:/Ivysauro/CNRT</id>
-    <link href="https://github.com/Ivysauro/CNRT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;中国轨道交通数据库（非技术类） - 另一角度看地铁/ Data base of China Rail Transit (Non-tech) - Another view of Rail Transit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DinoBarton/AgileWeb-Innovations.com</title>
+    <updated>2023-10-30T01:35:53Z</updated>
+    <id>tag:github.com,2023-10-30:/DinoBarton/AgileWeb-Innovations.com</id>
+    <link href="https://github.com/DinoBarton/AgileWeb-Innovations.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

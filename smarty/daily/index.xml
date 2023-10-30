@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-29T01:43:02Z</updated>
+  <updated>2023-10-30T01:36:15Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>iterative/helm-charts</title>
+    <updated>2023-10-30T01:36:15Z</updated>
+    <id>tag:github.com,2023-10-30:/iterative/helm-charts</id>
+    <link href="https://github.com/iterative/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📦 Iterative Helm charts 🐳&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>equinixmetal-helm/krakend</title>
+    <updated>2023-10-30T01:36:15Z</updated>
+    <id>tag:github.com,2023-10-30:/equinixmetal-helm/krakend</id>
+    <link href="https://github.com/equinixmetal-helm/krakend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A helm chart to deploy krakend using the assumptions from the infratographer project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
