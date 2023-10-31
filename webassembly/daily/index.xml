@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-30T01:38:05Z</updated>
+  <updated>2023-10-31T01:39:12Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>remko/uxn.wasm</title>
+    <updated>2023-10-31T01:39:12Z</updated>
+    <id>tag:github.com,2023-10-31:/remko/uxn.wasm</id>
+    <link href="https://github.com/remko/uxn.wasm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WebAssembly implementation of the Uxn virtual machine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

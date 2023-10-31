@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-30T01:38:01Z</updated>
+  <updated>2023-10-31T01:39:10Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ElemeFE/mint-ui</title>
+    <updated>2023-10-31T01:39:10Z</updated>
+    <id>tag:github.com,2023-10-31:/ElemeFE/mint-ui</id>
+    <link href="https://github.com/ElemeFE/mint-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mobile UI elements for Vue.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nsnail/NetAdmin</title>
+    <updated>2023-10-31T01:39:10Z</updated>
+    <id>tag:github.com,2023-10-31:/nsnail/NetAdmin</id>
+    <link href="https://github.com/nsnail/NetAdmin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A universal RBAC (Role-Based Access Control) management system built on newest technologies like C#12/.NET8, Vue3/Vite, Element Plus, with exceptionally elegant coding standards. 基于C#12/.NET8、Vue3/Vite、Element Plus等前沿技术构建的、具有非常优雅的编码规范的通用RBAC权限管理框架。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-30T01:23:42Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-10-31T01:23:56Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vercel/geist-font</title>
-    <updated>2023-10-30T01:23:42Z</updated>
-    <id>tag:github.com,2023-10-30:/vercel/geist-font</id>
-    <link href="https://github.com/vercel/geist-font" rel="alternate"></link>
+    <title>IAmStoxe/wirehole</title>
+    <updated>2023-10-31T01:23:56Z</updated>
+    <id>tag:github.com,2023-10-31:/IAmStoxe/wirehole</id>
+    <link href="https://github.com/IAmStoxe/wirehole" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ErickWendel/javascript-expert-developer-roadmap</title>
+    <updated>2023-10-31T01:23:56Z</updated>
+    <id>tag:github.com,2023-10-31:/ErickWendel/javascript-expert-developer-roadmap</id>
+    <link href="https://github.com/ErickWendel/javascript-expert-developer-roadmap" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>brootware/awesome-cyber-security-university</title>
-    <updated>2023-10-30T01:23:42Z</updated>
-    <id>tag:github.com,2023-10-30:/brootware/awesome-cyber-security-university</id>
-    <link href="https://github.com/brootware/awesome-cyber-security-university" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎓 Because Education should be free. Contributions welcome! 🕵️&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>21Z/Microsoft-Office-2021</title>
-    <updated>2023-10-30T01:23:42Z</updated>
-    <id>tag:github.com,2023-10-30:/21Z/Microsoft-Office-2021</id>
-    <link href="https://github.com/21Z/Microsoft-Office-2021" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Download and Activate Microsoft Office 2021 (Latest) for free. (Legal)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VoronDesign/Voron-2</title>
+    <updated>2023-10-31T01:23:56Z</updated>
+    <id>tag:github.com,2023-10-31:/VoronDesign/Voron-2</id>
+    <link href="https://github.com/VoronDesign/Voron-2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Voron 2 CoreXY 3D Printer design&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-30T01:26:59Z</updated>
+  <updated>2023-10-31T01:27:14Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ekefddfjoeroe/Railway-RDP</title>
-    <updated>2023-10-30T01:26:59Z</updated>
-    <id>tag:github.com,2023-10-30:/ekefddfjoeroe/Railway-RDP</id>
-    <link href="https://github.com/ekefddfjoeroe/Railway-RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FREE RDP LIFETIME!!!&lt;/h1&gt; &#xA;&lt;h3&gt;Specification&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;7 GB of RAM 💽&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;1.2 TB Storage 💾&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Up to 100Gbps of speed 🚀&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;69 Core CPU 🚥&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Google Cloud Technology 🌐&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h1&gt;Deploy in Heroku&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://heroku.com/deploy?template=https://github.com/IQOOZ75G/xfce4-noVNC&#34;&gt;&lt;img src=&#34;https://www.herokucdn.com/deploy/button.svg?sanitize=true&#34; alt=&#34;Deploy&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Deploy in Railway&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://railway.app/template/hIYfl_?referralCode=Hp0ex6&#34;&gt;&lt;img src=&#34;https://railway.app/button.svg?sanitize=true&#34; alt=&#34;Deploy&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;ENV&lt;/h1&gt; &#xA;&lt;p&gt;NGROK_APIKEY&lt;/p&gt; &#xA;&lt;h1&gt;Screenshot&lt;/h1&gt; &#xA;&lt;p&gt;Ngrok&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/ekefddfjoeroe/Railway-RDP/master/image/1.png&#34;&gt; &#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt; &#xA;&lt;p&gt;VNC VIEWER&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/ekefddfjoeroe/Railway-RDP/master/image/2.png&#34;&gt; &#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt; &#xA;&lt;p&gt;DESKTOP&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/ekefddfjoeroe/Railway-RDP/master/image/3.png&#34;&gt;</summary>
+    <title>home-assistant/wheels-custom-integrations</title>
+    <updated>2023-10-31T01:27:14Z</updated>
+    <id>tag:github.com,2023-10-31:/home-assistant/wheels-custom-integrations</id>
+    <link href="https://github.com/home-assistant/wheels-custom-integrations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Custom integration wheels hosted by Home Assistant&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Custom Integration Wheels&lt;/h1&gt; &#xA;&lt;p&gt;Home Assistant uses musllinux wheels for the integration. For your custom component library, you need to provide any wheels, or if they include binaries, musllinux wheels. You can upload this as well with the release to PyPI.&lt;/p&gt; &#xA;&lt;p&gt;Sometimes you need 3-party library they don&#39;t want provide musllinux or any wheels. In that case you can request to add this library into &lt;code&gt;requirements.txt&lt;/code&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>
