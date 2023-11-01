@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T02:07:38Z</updated>
+  <subtitle>Monthly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>purescript/purescript-strings</title>
+    <updated>2023-11-01T02:07:38Z</updated>
+    <id>tag:github.com,2023-11-01:/purescript/purescript-strings</id>
+    <link href="https://github.com/purescript/purescript-strings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;String utility functions, Char type, regular expressions.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-integers</title>
+    <updated>2023-11-01T02:07:38Z</updated>
+    <id>tag:github.com,2023-11-01:/purescript/purescript-integers</id>
+    <link href="https://github.com/purescript/purescript-integers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functions and bitwise operators for the Int numeric type&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-tailrec</title>
+    <updated>2023-11-01T02:07:38Z</updated>
+    <id>tag:github.com,2023-11-01:/purescript/purescript-tailrec</id>
+    <link href="https://github.com/purescript/purescript-tailrec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A type class which captures stack-safe monadic tail recursion&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-31T01:33:11Z</updated>
+  <updated>2023-11-01T01:36:10Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nix-community/pyproject.nix</title>
-    <updated>2023-10-31T01:33:11Z</updated>
-    <id>tag:github.com,2023-10-31:/nix-community/pyproject.nix</id>
-    <link href="https://github.com/nix-community/pyproject.nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nix-community/nixGL</title>
-    <updated>2023-10-31T01:33:11Z</updated>
-    <id>tag:github.com,2023-10-31:/nix-community/nixGL</id>
-    <link href="https://github.com/nix-community/nixGL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A wrapper tool for nix OpenGL application [maintainer=@guibou]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ananthakumaran/paisa</title>
-    <updated>2023-10-31T01:33:11Z</updated>
-    <id>tag:github.com,2023-10-31:/ananthakumaran/paisa</id>
-    <link href="https://github.com/ananthakumaran/paisa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

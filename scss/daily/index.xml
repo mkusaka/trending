@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-31T01:36:59Z</updated>
+  <updated>2023-11-01T01:39:43Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>naveen-kumawat/Flower</title>
-    <updated>2023-10-31T01:36:59Z</updated>
-    <id>tag:github.com,2023-10-31:/naveen-kumawat/Flower</id>
-    <link href="https://github.com/naveen-kumawat/Flower" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LineageOS/www</title>
-    <updated>2023-10-31T01:36:59Z</updated>
-    <id>tag:github.com,2023-10-31:/LineageOS/www</id>
-    <link href="https://github.com/LineageOS/www" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dsacl3-2023/dsacl3-2023.github.io</title>
+    <updated>2023-11-01T01:39:43Z</updated>
+    <id>tag:github.com,2023-11-01:/dsacl3-2023/dsacl3-2023.github.io</id>
+    <link href="https://github.com/dsacl3-2023/dsacl3-2023.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course web page&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T02:07:30Z</updated>
+  <subtitle>Monthly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cgdangelo/vagrant-puppet-lamp</title>
+    <updated>2023-11-01T02:07:30Z</updated>
+    <id>tag:github.com,2023-11-01:/cgdangelo/vagrant-puppet-lamp</id>
+    <link href="https://github.com/cgdangelo/vagrant-puppet-lamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vagrantfile + Puppet for provisioning simple LAMP development VM&#39;s&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>oscarrenalias/puppet</title>
+    <updated>2023-11-01T02:07:30Z</updated>
+    <id>tag:github.com,2023-11-01:/oscarrenalias/puppet</id>
+    <link href="https://github.com/oscarrenalias/puppet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My own puppet stuff&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>leondutoit/data-analysis-env</title>
+    <updated>2023-11-01T02:07:30Z</updated>
+    <id>tag:github.com,2023-11-01:/leondutoit/data-analysis-env</id>
+    <link href="https://github.com/leondutoit/data-analysis-env" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python and R data analysis environment on an Ubuntu VM&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

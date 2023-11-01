@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-31T01:37:24Z</updated>
+  <updated>2023-11-01T01:40:08Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>melkyades/tuqui-pharo</title>
-    <updated>2023-10-31T01:37:24Z</updated>
-    <id>tag:github.com,2023-10-31:/melkyades/tuqui-pharo</id>
-    <link href="https://github.com/melkyades/tuqui-pharo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A VM for tuqui that runs on top of pharo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

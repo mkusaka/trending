@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T02:06:34Z</updated>
+  <subtitle>Monthly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>digao-dalpiaz/DzHTMLText</title>
+    <updated>2023-11-01T02:06:34Z</updated>
+    <id>tag:github.com,2023-11-01:/digao-dalpiaz/DzHTMLText</id>
+    <link href="https://github.com/digao-dalpiaz/DzHTMLText" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delphi and Lazarus HTML Label component&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>oov/aviutl_rampreview</title>
+    <updated>2023-11-01T02:06:34Z</updated>
+    <id>tag:github.com,2023-11-01:/oov/aviutl_rampreview</id>
+    <link href="https://github.com/oov/aviutl_rampreview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AviUtl用プラグイン「拡張編集RAMプレビュー」&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

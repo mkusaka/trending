@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-31T01:27:14Z</updated>
+  <updated>2023-11-01T01:30:17Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>home-assistant/wheels-custom-integrations</title>
-    <updated>2023-10-31T01:27:14Z</updated>
-    <id>tag:github.com,2023-10-31:/home-assistant/wheels-custom-integrations</id>
-    <link href="https://github.com/home-assistant/wheels-custom-integrations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Custom integration wheels hosted by Home Assistant&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Custom Integration Wheels&lt;/h1&gt; &#xA;&lt;p&gt;Home Assistant uses musllinux wheels for the integration. For your custom component library, you need to provide any wheels, or if they include binaries, musllinux wheels. You can upload this as well with the release to PyPI.&lt;/p&gt; &#xA;&lt;p&gt;Sometimes you need 3-party library they don&#39;t want provide musllinux or any wheels. In that case you can request to add this library into &lt;code&gt;requirements.txt&lt;/code&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

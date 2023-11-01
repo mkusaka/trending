@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub D Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T01:59:57Z</updated>
+  <subtitle>Monthly Trending of D in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thinkpad20/f-C-</title>
+    <updated>2023-11-01T01:59:57Z</updated>
+    <id>tag:github.com,2023-11-01:/thinkpad20/f-C-</id>
+    <link href="https://github.com/thinkpad20/f-C-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A functional extension to C&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

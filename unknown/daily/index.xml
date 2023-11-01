@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-31T01:23:56Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-11-01T01:26:11Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>IAmStoxe/wirehole</title>
-    <updated>2023-10-31T01:23:56Z</updated>
-    <id>tag:github.com,2023-10-31:/IAmStoxe/wirehole</id>
-    <link href="https://github.com/IAmStoxe/wirehole" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ErickWendel/javascript-expert-developer-roadmap</title>
-    <updated>2023-10-31T01:23:56Z</updated>
-    <id>tag:github.com,2023-10-31:/ErickWendel/javascript-expert-developer-roadmap</id>
-    <link href="https://github.com/ErickWendel/javascript-expert-developer-roadmap" rel="alternate"></link>
+    <title>Ftindy/IPTV-URL</title>
+    <updated>2023-11-01T01:26:11Z</updated>
+    <id>tag:github.com,2023-11-01:/Ftindy/IPTV-URL</id>
+    <link href="https://github.com/Ftindy/IPTV-URL" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>VoronDesign/Voron-2</title>
-    <updated>2023-10-31T01:23:56Z</updated>
-    <id>tag:github.com,2023-10-31:/VoronDesign/Voron-2</id>
-    <link href="https://github.com/VoronDesign/Voron-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Voron 2 CoreXY 3D Printer design&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>georgezouq/awesome-ai-in-finance</title>
+    <updated>2023-11-01T01:26:11Z</updated>
+    <id>tag:github.com,2023-11-01:/georgezouq/awesome-ai-in-finance</id>
+    <link href="https://github.com/georgezouq/awesome-ai-in-finance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔬 A curated list of awesome LLMs &amp; deep learning strategies &amp; tools in financial market.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KAYOKG/BibliotecaDev</title>
+    <updated>2023-11-01T01:26:11Z</updated>
+    <id>tag:github.com,2023-11-01:/KAYOKG/BibliotecaDev</id>
+    <link href="https://github.com/KAYOKG/BibliotecaDev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Biblioteca de livros essenciais da área da programação.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

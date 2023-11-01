@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T02:05:00Z</updated>
+  <subtitle>Monthly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>FubuFabian/CheckCalibrationErrorMatlab</title>
+    <updated>2023-11-01T02:05:00Z</updated>
+    <id>tag:github.com,2023-11-01:/FubuFabian/CheckCalibrationErrorMatlab</id>
+    <link href="https://github.com/FubuFabian/CheckCalibrationErrorMatlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Linfeng-Tang/Image-Fusion</title>
+    <updated>2023-11-01T02:05:00Z</updated>
+    <id>tag:github.com,2023-11-01:/Linfeng-Tang/Image-Fusion</id>
+    <link href="https://github.com/Linfeng-Tang/Image-Fusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deep Learning-based Image Fusion: A Survey&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mathworks/MATLAB-Simulink-Challenge-Project-Hub</title>
+    <updated>2023-11-01T02:05:00Z</updated>
+    <id>tag:github.com,2023-11-01:/mathworks/MATLAB-Simulink-Challenge-Project-Hub</id>
+    <link href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

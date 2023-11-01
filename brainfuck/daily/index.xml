@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Brainfuck Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-31T01:25:14Z</updated>
+  <updated>2023-11-01T01:27:58Z</updated>
   <subtitle>Daily Trending of Brainfuck in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>EvanZhouDev/TheDonutProject</title>
-    <updated>2023-10-31T01:25:14Z</updated>
-    <id>tag:github.com,2023-10-31:/EvanZhouDev/TheDonutProject</id>
-    <link href="https://github.com/EvanZhouDev/TheDonutProject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Making donut.c in every language.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

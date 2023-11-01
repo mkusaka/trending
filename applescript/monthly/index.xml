@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub AppleScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T01:57:58Z</updated>
+  <subtitle>Monthly Trending of AppleScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zilet/finder-open-in-path</title>
+    <updated>2023-11-01T01:57:58Z</updated>
+    <id>tag:github.com,2023-11-01:/zilet/finder-open-in-path</id>
+    <link href="https://github.com/zilet/finder-open-in-path" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Toolbar shortcuts to open terminal, sublime or vim from path&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;OS X Finder open in path shortcuts for various Apps (ITerm2, Sublime Text 2, Vim)&lt;/h2&gt; &#xA;&lt;p&gt;While using Finder app a lot of times I need to open a terminal in the current path. Yes you can get info of the folder you are in, select path and then launch terminal and past the path... (sloooooow) :(&lt;/p&gt; &#xA;&lt;p&gt;Luckily I found a neat useful app to open &lt;a href=&#34;http://code.google.com/p/cdto/&#34;&gt;Terminal app&lt;/a&gt; in finders path. Since I am &lt;a href=&#34;http://www.iterm2.com/&#34;&gt;ITerm&lt;/a&gt; fan I tried to dig out more and found a script that can launch &lt;a href=&#34;https://gist.github.com/905546&#34;&gt;ITerm in path&lt;/a&gt; as well.&lt;/p&gt; &#xA;&lt;p&gt;In order to make the use of this you will need to create application with the help of Automator. Just paste it to automator, click save and voila or download the apps I already bundled.&lt;/p&gt; &#xA;&lt;p&gt;There are couple of more apps that I like using it this way so I created few more scripts and bundled apps for it:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;ITerm 2&lt;/li&gt; &#xA; &lt;li&gt;Sublime Text 2 &amp;amp; 3&lt;/li&gt; &#xA; &lt;li&gt;MacVim&lt;/li&gt; &#xA; &lt;li&gt;Vim&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;And here is how to install these sweeties:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Get the zips from dist folder&lt;/li&gt; &#xA; &lt;li&gt;Unpack and select apps you want and move application files to your Applications folder (e.g. /Applications)&lt;/li&gt; &#xA; &lt;li&gt;Then pick up the application icon and drag it to finders toolbar&lt;/li&gt; &#xA; &lt;li&gt;There you go.. all set up.. enjoy!&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Go ahead fork me up and add apps that you like using as well.&lt;/p&gt; &#xA;&lt;p&gt;This guide with pictures is available &lt;a href=&#34;http://miloszikic.com/finder/osx/mac/2012/03/03/os-x-finder-open-in-path-shortcuts-for/&#34;&gt;on my blog&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+</feed>

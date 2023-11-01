@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T01:57:21Z</updated>
+  <subtitle>Monthly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GitHubDaily/GitHubDaily</title>
+    <updated>2023-11-01T01:57:21Z</updated>
+    <id>tag:github.com,2023-11-01:/GitHubDaily/GitHubDaily</id>
+    <link href="https://github.com/GitHubDaily/GitHubDaily" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fastfire/deepdarkCTI</title>
+    <updated>2023-11-01T01:57:21Z</updated>
+    <id>tag:github.com,2023-11-01:/fastfire/deepdarkCTI</id>
+    <link href="https://github.com/fastfire/deepdarkCTI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of Cyber Threat Intelligence sources from the deep and dark web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zbezj/HEU_KMS_Activator</title>
+    <updated>2023-11-01T01:57:21Z</updated>
+    <id>tag:github.com,2023-11-01:/zbezj/HEU_KMS_Activator</id>
+    <link href="https://github.com/zbezj/HEU_KMS_Activator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

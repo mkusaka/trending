@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T02:09:09Z</updated>
+  <subtitle>Monthly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>selectize/selectize.js</title>
+    <updated>2023-11-01T02:09:09Z</updated>
+    <id>tag:github.com,2023-11-01:/selectize/selectize.js</id>
+    <link href="https://github.com/selectize/selectize.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Selectize is the hybrid of a textbox and &lt;select&gt; box. It&#39;s jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mentorchita/my_yourname_site</title>
+    <updated>2023-11-01T02:09:09Z</updated>
+    <id>tag:github.com,2023-11-01:/mentorchita/my_yourname_site</id>
+    <link href="https://github.com/mentorchita/my_yourname_site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gtech-mulearn/learn-github-pages</title>
+    <updated>2023-11-01T02:09:09Z</updated>
+    <id>tag:github.com,2023-11-01:/gtech-mulearn/learn-github-pages</id>
+    <link href="https://github.com/gtech-mulearn/learn-github-pages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T02:04:54Z</updated>
+  <subtitle>Monthly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>typoes/harry-potter-gen-z</title>
+    <updated>2023-11-01T02:04:54Z</updated>
+    <id>tag:github.com,2023-11-01:/typoes/harry-potter-gen-z</id>
+    <link href="https://github.com/typoes/harry-potter-gen-z" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Harry Potter: The Gen Z Edition&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aristanetworks/ci-workshops-avd</title>
+    <updated>2023-11-01T02:04:54Z</updated>
+    <id>tag:github.com,2023-11-01:/aristanetworks/ci-workshops-avd</id>
+    <link href="https://github.com/aristanetworks/ci-workshops-avd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AVD workshop repository to deliver workshop content specific to AVD.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>puncsky/system-design-and-architecture</title>
+    <updated>2023-11-01T02:04:54Z</updated>
+    <id>tag:github.com,2023-11-01:/puncsky/system-design-and-architecture</id>
+    <link href="https://github.com/puncsky/system-design-and-architecture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn how to design large-scale systems. Prep for the system design interview.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

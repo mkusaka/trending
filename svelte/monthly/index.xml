@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T02:10:00Z</updated>
+  <subtitle>Monthly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ThaUnknown/miru</title>
+    <updated>2023-11-01T02:10:00Z</updated>
+    <id>tag:github.com,2023-11-01:/ThaUnknown/miru</id>
+    <link href="https://github.com/ThaUnknown/miru" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>appwrite/website</title>
+    <updated>2023-11-01T02:10:00Z</updated>
+    <id>tag:github.com,2023-11-01:/appwrite/website</id>
+    <link href="https://github.com/appwrite/website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Appwrite website, docs and blog 🏠&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mithril-security/blind_chat</title>
+    <updated>2023-11-01T02:10:00Z</updated>
+    <id>tag:github.com,2023-11-01:/mithril-security/blind_chat</id>
+    <link href="https://github.com/mithril-security/blind_chat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fully in-browser privacy solution to make Conversational AI privacy-friendly&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

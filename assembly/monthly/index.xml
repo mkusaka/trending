@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T01:58:07Z</updated>
+  <subtitle>Monthly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ROCmSoftwarePlatform/MIOpen</title>
+    <updated>2023-11-01T01:58:07Z</updated>
+    <id>tag:github.com,2023-11-01:/ROCmSoftwarePlatform/MIOpen</id>
+    <link href="https://github.com/ROCmSoftwarePlatform/MIOpen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AMD&#39;s Machine Intelligence Library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aromalraj/networksecurty_assignment</title>
+    <updated>2023-11-01T01:58:07Z</updated>
+    <id>tag:github.com,2023-11-01:/aromalraj/networksecurty_assignment</id>
+    <link href="https://github.com/aromalraj/networksecurty_assignment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>netwide-assembler/nasm</title>
+    <updated>2023-11-01T01:58:07Z</updated>
+    <id>tag:github.com,2023-11-01:/netwide-assembler/nasm</id>
+    <link href="https://github.com/netwide-assembler/nasm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross-platform x86 assembler with an Intel-like syntax&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

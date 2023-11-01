@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-10-31T01:33:37Z</updated>
+  <updated>2023-11-01T01:36:37Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>janestreet/patdiff</title>
-    <updated>2023-10-31T01:33:37Z</updated>
-    <id>tag:github.com,2023-10-31:/janestreet/patdiff</id>
-    <link href="https://github.com/janestreet/patdiff" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;File Diff using the Patience Diff algorithm. https://opensource.janestreet.com/patdiff/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>formalsec/encoding</title>
+    <updated>2023-11-01T01:36:37Z</updated>
+    <id>tag:github.com,2023-11-01:/formalsec/encoding</id>
+    <link href="https://github.com/formalsec/encoding" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An OCaml abstraction layer for constraint solvers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>melange-re/melange-compiler-libs</title>
+    <updated>2023-11-01T01:36:37Z</updated>
+    <id>tag:github.com,2023-11-01:/melange-re/melange-compiler-libs</id>
+    <link href="https://github.com/melange-re/melange-compiler-libs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

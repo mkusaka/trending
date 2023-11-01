@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T02:09:39Z</updated>
+  <subtitle>Monthly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>code-423n4/2023-10-zksync</title>
+    <updated>2023-11-01T02:09:39Z</updated>
+    <id>tag:github.com,2023-11-01:/code-423n4/2023-10-zksync</id>
+    <link href="https://github.com/code-423n4/2023-10-zksync" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Uniswap/v4-core</title>
+    <updated>2023-11-01T02:09:39Z</updated>
+    <id>tag:github.com,2023-11-01:/Uniswap/v4-core</id>
+    <link href="https://github.com/Uniswap/v4-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cyberscope-io/audits</title>
+    <updated>2023-11-01T02:09:39Z</updated>
+    <id>tag:github.com,2023-11-01:/cyberscope-io/audits</id>
+    <link href="https://github.com/cyberscope-io/audits" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

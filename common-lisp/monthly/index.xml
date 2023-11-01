@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T01:59:31Z</updated>
+  <subtitle>Monthly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>slime/slime</title>
+    <updated>2023-11-01T01:59:31Z</updated>
+    <id>tag:github.com,2023-11-01:/slime/slime</id>
+    <link href="https://github.com/slime/slime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Superior Lisp Interaction Mode for Emacs&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/slime/slime/actions&#34;&gt;&lt;img src=&#34;https://github.com/slime/slime/workflows/CI/badge.svg?sanitize=true&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;http://melpa.org/#/slime&#34;&gt;&lt;img src=&#34;http://melpa.org/packages/slime-badge.svg?&#34; alt=&#34;MELPA&#34;&gt;&lt;/a&gt; &lt;a href=&#34;http://stable.melpa.org/#/slime&#34;&gt;&lt;img src=&#34;http://stable.melpa.org/packages/slime-badge.svg?&#34; alt=&#34;MELPA Stable&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Overview&lt;/h2&gt; &#xA;&lt;p&gt;SLIME is the Superior Lisp Interaction Mode for Emacs.&lt;/p&gt; &#xA;&lt;p&gt;SLIME extends Emacs with support for interactive programming in Common Lisp. The features are centered around slime-mode, an Emacs minor-mode that complements the standard lisp-mode. While lisp-mode supports editing Lisp source files, slime-mode adds support for interacting with a running Common Lisp process for compilation, debugging, documentation lookup, and so on.&lt;/p&gt; &#xA;&lt;p&gt;For much more information, consult &lt;a href=&#34;http://common-lisp.net/project/slime/doc/html/&#34;&gt;the manual&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Quick setup instructions&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;http://melpa.org/#/getting-started&#34;&gt;Set up the MELPA repository&lt;/a&gt;, if you haven&#39;t already, and install SLIME using &lt;code&gt;M-x package-install RET slime RET&lt;/code&gt;.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;In your &lt;code&gt;~/.emacs&lt;/code&gt; file, point the &lt;code&gt;inferior-lisp-program&lt;/code&gt; variable to your favourite Common Lisp implementation:&lt;/p&gt; &lt;pre&gt;&lt;code class=&#34;language-el&#34;&gt;(setq inferior-lisp-program &#34;sbcl&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Use &lt;code&gt;M-x slime&lt;/code&gt; to fire up and connect to an inferior Lisp. SLIME will now automatically be available in your Lisp source buffers.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;If you&#39;d like to contribute to SLIME, you will want to instead follow the manual&#39;s instructions on &lt;a href=&#34;http://common-lisp.net/project/slime/doc/html/Installation.html#Installing-from-Git&#34;&gt;how to install SLIME via Git&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;SLIME is free software. All files, unless explicitly stated otherwise, are public domain.&lt;/p&gt; &#xA;&lt;h2&gt;Contact&lt;/h2&gt; &#xA;&lt;p&gt;If you have problems, first have a look at the list of &lt;a href=&#34;https://github.com/slime/slime/issues?labels=workaround&amp;amp;state=closed&#34;&gt;known issues and workarounds&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Questions and comments are best directed to the mailing list at &lt;code&gt;slime-devel@common-lisp.net&lt;/code&gt;, but you have to &lt;a href=&#34;http://www.common-lisp.net/project/slime/#mailinglist&#34;&gt;subscribe&lt;/a&gt; first.&lt;/p&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://github.com/slime/slime/raw/master/CONTRIBUTING.md&#34;&gt;CONTRIBUTING.md&lt;/a&gt; file for instructions on how to contribute.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>maglob/euler</title>
+    <updated>2023-11-01T01:59:31Z</updated>
+    <id>tag:github.com,2023-11-01:/maglob/euler</id>
+    <link href="https://github.com/maglob/euler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My first steps in Lisp by solving Project Euler problems&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;euler&lt;/h1&gt; &#xA;&lt;p&gt;My first steps in Lisp by solving Project Euler problems&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>kaiserprogrammer/lights-out</title>
+    <updated>2023-11-01T01:59:31Z</updated>
+    <id>tag:github.com,2023-11-01:/kaiserprogrammer/lights-out</id>
+    <link href="https://github.com/kaiserprogrammer/lights-out" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Lights Out Game now in Common Lisp&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Classic Lights Out Game&lt;/h1&gt; &#xA;&lt;h2&gt;Play in REPL&lt;/h2&gt; &#xA;&lt;p&gt;Compile the corresponding file and start the game with the corresponding function. There is a SDL, QT and Terminal version.&lt;/p&gt;</summary>
+  </entry>
+</feed>

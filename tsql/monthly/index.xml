@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TSQL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-01T02:10:40Z</updated>
+  <subtitle>Monthly Trending of TSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Thinkgamer/Machine-Learning-With-Python</title>
+    <updated>2023-11-01T02:10:40Z</updated>
+    <id>tag:github.com,2023-11-01:/Thinkgamer/Machine-Learning-With-Python</id>
+    <link href="https://github.com/Thinkgamer/Machine-Learning-With-Python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;此项目是我在学习《机器学习实战》这本书时的代码记录情况，用python实现，当然也会包括一些其他的机器学习算法，使用Python实现&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
