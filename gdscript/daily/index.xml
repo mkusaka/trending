@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-01T01:31:33Z</updated>
+  <updated>2023-11-02T01:28:00Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Hugo-Dz/super-godot-galaxy</title>
+    <updated>2023-11-02T01:28:00Z</updated>
+    <id>tag:github.com,2023-11-02:/Hugo-Dz/super-godot-galaxy</id>
+    <link href="https://github.com/Hugo-Dz/super-godot-galaxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💫 Super Mario Galaxy concept made in Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>real-ezTheDev/GodotEzDialoguePlugin</title>
+    <updated>2023-11-02T01:28:00Z</updated>
+    <id>tag:github.com,2023-11-02:/real-ezTheDev/GodotEzDialoguePlugin</id>
+    <link href="https://github.com/real-ezTheDev/GodotEzDialoguePlugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

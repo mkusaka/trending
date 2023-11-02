@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Lua Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-02T01:31:36Z</updated>
+  <subtitle>Daily Trending of Lua in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Roblox/luau-polyfill</title>
+    <updated>2023-11-02T01:31:36Z</updated>
+    <id>tag:github.com,2023-11-02:/Roblox/luau-polyfill</id>
+    <link href="https://github.com/Roblox/luau-polyfill" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of utilities to mimic common JS polyfills needed for translating projects from JS to Lua/Luau. This is a read-only mirror&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;roblox-luau-polyfill&lt;/h1&gt; &#xA;&lt;p&gt;A set of utilities to mimic common JS polyfills needed for translating projects from JS to Lua/Luau&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Achimobil/FS22_aPalletAutoLoader_Extension_HofBergmann</title>
+    <updated>2023-11-02T01:31:36Z</updated>
+    <id>tag:github.com,2023-11-02:/Achimobil/FS22_aPalletAutoLoader_Extension_HofBergmann</id>
+    <link href="https://github.com/Achimobil/FS22_aPalletAutoLoader_Extension_HofBergmann" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FS22_aPalletAutoLoader_Extension_HofBergmann&lt;/h1&gt; &#xA;&lt;p&gt;This is an example extension for my Pallet Autoloader mod. An Extension adds new goods to be loadable when a modder or mapper has created pallet sizes which are not fitting the basegame ones. Such extensions can be stand allown mods like this one or integrated in a mod where the pallets are in. So only when a user has this mod, the additional loading size will be shown an when not he do not need to click over them all the time.&lt;/p&gt; &#xA;&lt;p&gt;First Version were created by my, then it was reworked by Maverick1305 after an Hof Bergmann update.&lt;/p&gt;</summary>
+  </entry>
+</feed>

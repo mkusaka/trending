@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-01T01:40:14Z</updated>
+  <updated>2023-11-02T01:36:44Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AmadiMichael/Tempest</title>
-    <updated>2023-11-01T01:40:14Z</updated>
-    <id>tag:github.com,2023-11-01:/AmadiMichael/Tempest</id>
-    <link href="https://github.com/AmadiMichael/Tempest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Private transactions on EVM chains, supporting dynamic deposit amounts, partial withdrawals and shielded/confidential transfer of value.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mztacat/Scroll-PresetContract</title>
-    <updated>2023-11-01T01:40:14Z</updated>
-    <id>tag:github.com,2023-11-01:/mztacat/Scroll-PresetContract</id>
-    <link href="https://github.com/mztacat/Scroll-PresetContract" rel="alternate"></link>
+    <title>code-423n4/2023-10-nextgen</title>
+    <updated>2023-11-02T01:36:44Z</updated>
+    <id>tag:github.com,2023-11-02:/code-423n4/2023-10-nextgen</id>
+    <link href="https://github.com/code-423n4/2023-10-nextgen" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PhiloCwh/Web3-Financial-Engineering-Courses</title>
-    <updated>2023-11-01T01:40:14Z</updated>
-    <id>tag:github.com,2023-11-01:/PhiloCwh/Web3-Financial-Engineering-Courses</id>
-    <link href="https://github.com/PhiloCwh/Web3-Financial-Engineering-Courses" rel="alternate"></link>
+    <title>chainlight-io/publications</title>
+    <updated>2023-11-02T01:36:44Z</updated>
+    <id>tag:github.com,2023-11-02:/chainlight-io/publications</id>
+    <link href="https://github.com/chainlight-io/publications" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>axelarnetwork/interchain-token-service</title>
+    <updated>2023-11-02T01:36:44Z</updated>
+    <id>tag:github.com,2023-11-02:/axelarnetwork/interchain-token-service</id>
+    <link href="https://github.com/axelarnetwork/interchain-token-service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A protocol implementation for cross chain token transfers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

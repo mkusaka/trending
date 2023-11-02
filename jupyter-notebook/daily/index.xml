@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-01T01:34:06Z</updated>
+  <updated>2023-11-02T01:30:42Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>run-llama/ai-engineer-workshop</title>
+    <updated>2023-11-02T01:30:42Z</updated>
+    <id>tag:github.com,2023-11-02:/run-llama/ai-engineer-workshop</id>
+    <link href="https://github.com/run-llama/ai-engineer-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Building, Evaluating, and Optimizing your RAG App for Production&lt;/h1&gt; &#xA;&lt;p&gt;Large Language Models (LLMs) are revolutionizing how users can search for, interact with, and generate new content. Some recent stacks and toolkits around Retrieval-Augmented Generation (RAG) have emerged, enabling users to build applications such as chatbots using LLMs on their private data. However, while setting up a naive RAG stack is straightforward, having it meet a production quality bar is hard. To be an AI engineer, you need to learn principled development practices for evaluation and optimization of your RAG app - from data parameters to retrieval algorithms to fine-tuning.&lt;/p&gt; &#xA;&lt;p&gt;This workshop will guide you through this development process. You&#39;ll start with the basic RAG stack, create an initial evaluation suite, and then experiment with different advanced techniques to improve RAG performance.&lt;/p&gt; &#xA;&lt;h2&gt;Environment Setup&lt;/h2&gt; &#xA;&lt;p&gt;Setup python environment&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Create and activate a python virtual environment&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;python3 -m venv rag&#xA;source rag/bin/activate&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ol start=&#34;2&#34;&gt; &#xA; &lt;li&gt;Install dependencies&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;pip install -r requirements.txt &#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Setup postgres&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Install docker: follow OS-specific instructions at &lt;a href=&#34;https://docs.docker.com/engine/install/&#34;&gt;https://docs.docker.com/engine/install/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Launch postgres with docker compose (under project directory)&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker-compose up -d&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Prepare OpenAI credentials&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Create one at &lt;a href=&#34;https://platform.openai.com/account/api-keys&#34;&gt;https://platform.openai.com/account/api-keys&lt;/a&gt; if you don&#39;t have one&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Get Started&lt;/h2&gt; &#xA;&lt;p&gt;We will be going through 3 notebooks, to follow along:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;jupyter lab&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Core Dependencies&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;llama-index&#xA;ray[data]&#xA;&#xA;# for notebooks&#xA;jupyter&#xA;&#xA;# for postgres&#xA;sqlalchemy[asyncio]&#xA;pgvector&#xA;psycopg2-binary&#xA;asyncpg&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>telmo-correa/all-of-statistics</title>
+    <updated>2023-11-02T01:30:42Z</updated>
+    <id>tag:github.com,2023-11-02:/telmo-correa/all-of-statistics</id>
+    <link href="https://github.com/telmo-correa/all-of-statistics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Self-study on Larry Wasserman&#39;s &#34;All of Statistics&#34;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;all-of-statistics&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains my personal notes and complete solutions from my self-study of Larry Wasserman&#39;s &#34;All of Statistics: A Concise Course in Statistical Inference&#34;. This follows an older edition of the book, though there is almost complete overlap with the latest edition.&lt;/p&gt; &#xA;&lt;p&gt;Main definitions, ideas, and theorems from each chapter are included in the notes, but examples are usually skipped. This repository is not intended as a replacement for the book.&lt;/p&gt; &#xA;&lt;p&gt;Each included chapter has a Jupyter notebook including notes on the chapter and exercise solutions -- notes and solutions using LaTeX in markdown and executable Python.&lt;/p&gt;</summary>
+  </entry>
 </feed>

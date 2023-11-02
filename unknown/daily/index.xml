@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-01T01:26:11Z</updated>
+  <updated>2023-11-02T01:23:24Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ftindy/IPTV-URL</title>
-    <updated>2023-11-01T01:26:11Z</updated>
-    <id>tag:github.com,2023-11-01:/Ftindy/IPTV-URL</id>
-    <link href="https://github.com/Ftindy/IPTV-URL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>artichokeee/test-assignments</title>
+    <updated>2023-11-02T01:23:24Z</updated>
+    <id>tag:github.com,2023-11-02:/artichokeee/test-assignments</id>
+    <link href="https://github.com/artichokeee/test-assignments" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Список тестовых заданий для ручных тестировщиков и автоматизаторов&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>georgezouq/awesome-ai-in-finance</title>
-    <updated>2023-11-01T01:26:11Z</updated>
-    <id>tag:github.com,2023-11-01:/georgezouq/awesome-ai-in-finance</id>
-    <link href="https://github.com/georgezouq/awesome-ai-in-finance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔬 A curated list of awesome LLMs &amp; deep learning strategies &amp; tools in financial market.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>afshinea/stanford-cs-230-deep-learning</title>
+    <updated>2023-11-02T01:23:24Z</updated>
+    <id>tag:github.com,2023-11-02:/afshinea/stanford-cs-230-deep-learning</id>
+    <link href="https://github.com/afshinea/stanford-cs-230-deep-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VIP cheatsheets for Stanford&#39;s CS 230 Deep Learning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>KAYOKG/BibliotecaDev</title>
-    <updated>2023-11-01T01:26:11Z</updated>
-    <id>tag:github.com,2023-11-01:/KAYOKG/BibliotecaDev</id>
-    <link href="https://github.com/KAYOKG/BibliotecaDev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 Biblioteca de livros essenciais da área da programação.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>agmmnn/awesome-blender</title>
+    <updated>2023-11-02T01:23:24Z</updated>
+    <id>tag:github.com,2023-11-02:/agmmnn/awesome-blender</id>
+    <link href="https://github.com/agmmnn/awesome-blender" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

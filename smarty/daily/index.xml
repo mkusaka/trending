@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-01T01:40:10Z</updated>
+  <updated>2023-11-02T01:36:38Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pileus-cloud/charts</title>
-    <updated>2023-11-01T01:40:10Z</updated>
-    <id>tag:github.com,2023-11-01:/pileus-cloud/charts</id>
-    <link href="https://github.com/pileus-cloud/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;helm charts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>livechat/gtm-openwidget-tag-template</title>
-    <updated>2023-11-01T01:40:10Z</updated>
-    <id>tag:github.com,2023-11-01:/livechat/gtm-openwidget-tag-template</id>
-    <link href="https://github.com/livechat/gtm-openwidget-tag-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>promhippie/charts</title>
+    <updated>2023-11-02T01:36:38Z</updated>
+    <id>tag:github.com,2023-11-02:/promhippie/charts</id>
+    <link href="https://github.com/promhippie/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for Promhippie projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

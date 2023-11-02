@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-01T01:29:38Z</updated>
+  <updated>2023-11-02T01:25:59Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GDSCxGMIT/Giting-LinkedIn</title>
-    <updated>2023-11-01T01:29:38Z</updated>
-    <id>tag:github.com,2023-11-01:/GDSCxGMIT/Giting-LinkedIn</id>
-    <link href="https://github.com/GDSCxGMIT/Giting-LinkedIn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Portfolio Website Template&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Giting-LinkedIn&lt;/h1&gt; &#xA;&lt;p&gt;Portfolio Website Template&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>honojs/website</title>
-    <updated>2023-11-01T01:29:38Z</updated>
-    <id>tag:github.com,2023-11-01:/honojs/website</id>
-    <link href="https://github.com/honojs/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for hono.dev&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Repository for hono.dev&lt;/h1&gt; &#xA;&lt;p&gt;This is a repository for the Hono website &#34;&lt;em&gt;&lt;a href=&#34;https://hono.dev&#34;&gt;hono.dev&lt;/a&gt;&lt;/em&gt;&#34;.&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Built with &lt;a href=&#34;https://vitepress.vuejs.org&#34;&gt;VitePress&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Deploy to Cloudflare Pages&lt;/li&gt; &#xA; &lt;li&gt;Not using Hono :)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Contribution&lt;/h2&gt; &#xA;&lt;p&gt;Contribution welcome! You can help us by adding explanations, correcting grammar, or fixing a typo.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;MIT&lt;/p&gt; &#xA;&lt;h2&gt;Author&lt;/h2&gt; &#xA;&lt;p&gt;Yusuke Wada &lt;a href=&#34;https://github.com/yusukebe&#34;&gt;https://github.com/yusukebe&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>orf/simple</title>
-    <updated>2023-11-01T01:29:38Z</updated>
-    <id>tag:github.com,2023-11-01:/orf/simple</id>
-    <link href="https://github.com/orf/simple" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple is a clone of Obtvse written in Python running on Flask.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Simple&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;No longer maintained&lt;/strong&gt; - I switched my blog to Gatsby, see &lt;a href=&#34;https://tomforb.es/goodby-simple-hello-gatsby/&#34;&gt;https://tomforb.es/goodby-simple-hello-gatsby/&lt;/a&gt; .&lt;/p&gt; &#xA;&lt;p&gt;Simple is as a Python-powered markdown blog. You can see an example running &lt;a href=&#34;http://tomforb.es/&#34;&gt;on my blog&lt;/a&gt;. The editor is an expanding textarea and you can upload images by dragging and dropping them onto the page, and ctrl+s saves the post.&lt;/p&gt; &#xA;&lt;p&gt;You can also add a header image to any post by selecting the image icon in the top right. This lets you browse through the latest Bing daily images, and in the future you will be able to upload your own.&lt;/p&gt; &#xA;&lt;h2&gt;Quickstart:&lt;/h2&gt; &#xA;&lt;p&gt;It&#39;s supposed to be easy to set up Simple. If you don&#39;t think it is then open a ticket and let me know. Simple is designed to be served via Gunicorn, behind nginx. You can optionally use supervisord to manage the gunicorn processes.&lt;/p&gt; &#xA;&lt;p&gt;You need Python 3.4, and simply follow the commands below (nginx on Ubuntu uses /sites-available/ instead of /conf.d/):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&amp;gt;&amp;gt; mkdir blog &amp;amp;&amp;amp; cd blog&#xA;&amp;gt;&amp;gt; python3.4 -m venv env&#xA;&amp;gt;&amp;gt; source env/bin/activate &amp;amp;&amp;amp; pip install simpleblogging gunicorn&#xA;&amp;gt;&amp;gt; simple create&#xA;&amp;gt;&amp;gt; nano simple_config.py&#xA;&amp;gt;&amp;gt; simple nginx_config yoursite.com --proxy_port=9009 &amp;gt; /etc/nginx/conf.d/simple.conf&#xA;&amp;gt;&amp;gt; simple supervisor_config env/ 9009 &amp;gt;&amp;gt; /etc/supervisord.conf&#xA;&amp;gt;&amp;gt; chown -R nobody:nobody ../blog&#xA;&amp;gt;&amp;gt; supervisorctl start simple &amp;amp;&amp;amp; service nginx reload&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

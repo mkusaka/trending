@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-01T01:40:36Z</updated>
+  <updated>2023-11-02T01:37:07Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>upperdo/backoffice-template</title>
+    <updated>2023-11-02T01:37:07Z</updated>
+    <id>tag:github.com,2023-11-02:/upperdo/backoffice-template</id>
+    <link href="https://github.com/upperdo/backoffice-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sveltekit appwrite template include admin area, auth, protected routes, it use ShadCN-Svelte as base component library, include authorization, designed to be easy to maintain and very scalable.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>UrbanInstitute/infrastructure-spending-states-counties</title>
+    <updated>2023-11-02T01:37:07Z</updated>
+    <id>tag:github.com,2023-11-02:/UrbanInstitute/infrastructure-spending-states-counties</id>
+    <link href="https://github.com/UrbanInstitute/infrastructure-spending-states-counties" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

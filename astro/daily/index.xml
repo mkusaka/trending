@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-01T01:27:23Z</updated>
+  <updated>2023-11-02T01:24:08Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>biko2/insights-web</title>
-    <updated>2023-11-01T01:27:23Z</updated>
-    <id>tag:github.com,2023-11-01:/biko2/insights-web</id>
-    <link href="https://github.com/biko2/insights-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web para los Biko Insights&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FusionAuth/fusionauth-astro-components</title>
+    <updated>2023-11-02T01:24:08Z</updated>
+    <id>tag:github.com,2023-11-02:/FusionAuth/fusionauth-astro-components</id>
+    <link href="https://github.com/FusionAuth/fusionauth-astro-components" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Set of Astro components to improve the developer experience when writing pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
