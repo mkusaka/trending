@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-02T01:24:24Z</updated>
+  <updated>2023-11-03T01:25:38Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Santikun/MGS1-Master-Collection-Bilinear-Patch</title>
+    <updated>2023-11-03T01:25:38Z</updated>
+    <id>tag:github.com,2023-11-03:/Santikun/MGS1-Master-Collection-Bilinear-Patch</id>
+    <link href="https://github.com/Santikun/MGS1-Master-Collection-Bilinear-Patch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Removes the bilinear filtering in MGS1: Master Collection&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>muki01/Windows-Activator</title>
+    <updated>2023-11-03T01:25:38Z</updated>
+    <id>tag:github.com,2023-11-03:/muki01/Windows-Activator</id>
+    <link href="https://github.com/muki01/Windows-Activator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is my Windows 11, 10, 8.1, 8 and 7 Activator for Free&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

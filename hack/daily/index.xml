@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-02T01:28:47Z</updated>
+  <updated>2023-11-03T01:30:49Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>facebookincubator/Glean</title>
-    <updated>2023-11-02T01:28:47Z</updated>
-    <id>tag:github.com,2023-11-02:/facebookincubator/Glean</id>
-    <link href="https://github.com/facebookincubator/Glean" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;System for collecting, deriving and working with facts about source code.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

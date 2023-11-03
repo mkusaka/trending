@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-02T01:31:17Z</updated>
+  <updated>2023-11-03T01:33:37Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ministryofjustice/ppo</title>
-    <updated>2023-11-02T01:31:17Z</updated>
-    <id>tag:github.com,2023-11-02:/ministryofjustice/ppo</id>
-    <link href="https://github.com/ministryofjustice/ppo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Prisons and Probation Ombudsman WordPress legacy theme&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tencent/weui</title>
+    <updated>2023-11-03T01:33:37Z</updated>
+    <id>tag:github.com,2023-11-03:/Tencent/weui</id>
+    <link href="https://github.com/Tencent/weui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

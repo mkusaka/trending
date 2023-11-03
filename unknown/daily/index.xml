@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-02T01:23:24Z</updated>
+  <updated>2023-11-03T01:24:07Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>artichokeee/test-assignments</title>
-    <updated>2023-11-02T01:23:24Z</updated>
-    <id>tag:github.com,2023-11-02:/artichokeee/test-assignments</id>
-    <link href="https://github.com/artichokeee/test-assignments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Список тестовых заданий для ручных тестировщиков и автоматизаторов&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>huggingface/distil-whisper</title>
+    <updated>2023-11-03T01:24:07Z</updated>
+    <id>tag:github.com,2023-11-03:/huggingface/distil-whisper</id>
+    <link href="https://github.com/huggingface/distil-whisper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>afshinea/stanford-cs-230-deep-learning</title>
-    <updated>2023-11-02T01:23:24Z</updated>
-    <id>tag:github.com,2023-11-02:/afshinea/stanford-cs-230-deep-learning</id>
-    <link href="https://github.com/afshinea/stanford-cs-230-deep-learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VIP cheatsheets for Stanford&#39;s CS 230 Deep Learning&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>agmmnn/awesome-blender</title>
-    <updated>2023-11-02T01:23:24Z</updated>
-    <id>tag:github.com,2023-11-02:/agmmnn/awesome-blender</id>
-    <link href="https://github.com/agmmnn/awesome-blender" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dymensionxyz/rollapp-registry</title>
+    <updated>2023-11-03T01:24:07Z</updated>
+    <id>tag:github.com,2023-11-03:/dymensionxyz/rollapp-registry</id>
+    <link href="https://github.com/dymensionxyz/rollapp-registry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A registry for RollApps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

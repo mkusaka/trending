@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-02T01:25:32Z</updated>
+  <updated>2023-11-03T01:27:05Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>seymores/angellist-scrapper</title>
+    <updated>2023-11-03T01:27:05Z</updated>
+    <id>tag:github.com,2023-11-03:/seymores/angellist-scrapper</id>
+    <link href="https://github.com/seymores/angellist-scrapper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;angellist-scrapper&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>migalmoreno/tubo</title>
+    <updated>2023-11-03T01:27:05Z</updated>
+    <id>tag:github.com,2023-11-03:/migalmoreno/tubo</id>
+    <link href="https://github.com/migalmoreno/tubo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A libre streaming front-end for the web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

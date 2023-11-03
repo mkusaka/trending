@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-02T01:38:17Z</updated>
+  <updated>2023-11-03T01:42:37Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>omega/vim-covered</title>
-    <updated>2023-11-02T01:38:17Z</updated>
-    <id>tag:github.com,2023-11-02:/omega/vim-covered</id>
-    <link href="https://github.com/omega/vim-covered" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A vim plugin for Devel::CoverX::Covered allowing you to selectivly rerun tests&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aaronsung/LinuxConfig</title>
-    <updated>2023-11-02T01:38:17Z</updated>
-    <id>tag:github.com,2023-11-02:/aaronsung/LinuxConfig</id>
-    <link href="https://github.com/aaronsung/LinuxConfig" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;config&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bothyhead/DealerSyntax</title>
+    <updated>2023-11-03T01:42:37Z</updated>
+    <id>tag:github.com,2023-11-03:/bothyhead/DealerSyntax</id>
+    <link href="https://github.com/bothyhead/DealerSyntax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim Syntax for Dealer script files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

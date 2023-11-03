@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-02T01:36:08Z</updated>
+  <updated>2023-11-03T01:40:03Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>layer5io/docs</title>
-    <updated>2023-11-02T01:36:08Z</updated>
-    <id>tag:github.com,2023-11-02:/layer5io/docs</id>
-    <link href="https://github.com/layer5io/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation and Developer resources for Layer5 products&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

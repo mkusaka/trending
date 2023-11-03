@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-02T01:33:49Z</updated>
+  <updated>2023-11-03T01:36:36Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>icbmike/waterGrapher</title>
-    <updated>2023-11-02T01:33:49Z</updated>
-    <id>tag:github.com,2023-11-02:/icbmike/waterGrapher</id>
-    <link href="https://github.com/icbmike/waterGrapher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A web app to chart and keep track of how much water I drink each day&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tobyink/p5-plack-middleware-auth-bitcard</title>
-    <updated>2023-11-02T01:33:49Z</updated>
-    <id>tag:github.com,2023-11-02:/tobyink/p5-plack-middleware-auth-bitcard</id>
-    <link href="https://github.com/tobyink/p5-plack-middleware-auth-bitcard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>asido/Chatters---Idlers</title>
+    <updated>2023-11-03T01:36:36Z</updated>
+    <id>tag:github.com,2023-11-03:/asido/Chatters---Idlers</id>
+    <link href="https://github.com/asido/Chatters---Idlers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Weechat script&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Weechat script which groups nicks in channel in 2 groups - chatters and idlers.&lt;/p&gt;</summary>
   </entry>
 </feed>

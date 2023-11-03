@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-02T01:37:45Z</updated>
+  <updated>2023-11-03T01:42:03Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chenxingxing6/cxx-graduation</title>
-    <updated>2023-11-02T01:37:45Z</updated>
-    <id>tag:github.com,2023-11-02:/chenxingxing6/cxx-graduation</id>
-    <link href="https://github.com/chenxingxing6/cxx-graduation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;本人2019届毕业设计作品《企业级网盘分布式系统》，被评为优秀毕业设计。本系统通过SpringBoot+Hadoop+Vue进行整合。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vamshireddy257/OracleDBA</title>
+    <updated>2023-11-03T01:42:03Z</updated>
+    <id>tag:github.com,2023-11-03:/vamshireddy257/OracleDBA</id>
+    <link href="https://github.com/vamshireddy257/OracleDBA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Oracle Handy&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
