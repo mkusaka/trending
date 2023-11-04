@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-03T01:40:06Z</updated>
+  <updated>2023-11-04T01:36:31Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>EddiePueb1/EscapeRoom</title>
-    <updated>2023-11-03T01:40:06Z</updated>
-    <id>tag:github.com,2023-11-03:/EddiePueb1/EscapeRoom</id>
-    <link href="https://github.com/EddiePueb1/EscapeRoom" rel="alternate"></link>
+    <title>Swansea-University-MSc-VR/Simple-Coding-Demo</title>
+    <updated>2023-11-04T01:36:31Z</updated>
+    <id>tag:github.com,2023-11-04:/Swansea-University-MSc-VR/Simple-Coding-Demo</id>
+    <link href="https://github.com/Swansea-University-MSc-VR/Simple-Coding-Demo" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>suxen1094/GP_HW02</title>
+    <updated>2023-11-04T01:36:31Z</updated>
+    <id>tag:github.com,2023-11-04:/suxen1094/GP_HW02</id>
+    <link href="https://github.com/suxen1094/GP_HW02" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the repository of HW 2 for Game Programming on 2023 Fall in NTHU&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

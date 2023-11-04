@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-03T01:38:17Z</updated>
+  <updated>2023-11-04T01:35:16Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rstudio/shinyapps-package-dependencies</title>
+    <updated>2023-11-04T01:35:16Z</updated>
+    <id>tag:github.com,2023-11-04:/rstudio/shinyapps-package-dependencies</id>
+    <link href="https://github.com/rstudio/shinyapps-package-dependencies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of bash scripts that install R package system dependencies&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;shinyapps-package-dependencies&lt;/h1&gt; &#xA;&lt;p&gt;Some R packages require other software and libraries to be installed on the host server in order for the R package to function. This repository is used in &lt;a href=&#34;https://www.shinyapps.io/&#34;&gt;shinyapps.io&lt;/a&gt; to install those dependencies if a user&#39;s shinyapp utilizes an R package that requires other libraries/software to be install.&lt;/p&gt; &#xA;&lt;p&gt;To contribute to this repository, read &lt;a href=&#34;https://github.com/rstudio/shinyapps-package-dependencies/raw/main/CONTRIBUTING.md&#34;&gt;CONTRIBUTING.md&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;If you&#39;d like to request the addition of support of a specific R package, &lt;a href=&#34;https://github.com/rstudio/shinyapps-package-dependencies/issues&#34;&gt;open a github issue&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/rstudio/shinyapps-package-dependencies/actions/workflows/main.yml&#34;&gt;&lt;img src=&#34;https://github.com/rstudio/shinyapps-package-dependencies/actions/workflows/main.yml/badge.svg?sanitize=true&#34; alt=&#34;Shinyapps Package Dependency Tests&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;The shinyapps-package-dependencies repository is licensed under the Apache V2 license.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Licensed under the Apache License, Version 2.0 (the &#34;License&#34;);&#xA;you may not use this file except in compliance with the License.&#xA;You may obtain a copy of the License at&#xA;&#xA;    http://www.apache.org/licenses/LICENSE-2.0&#xA;&#xA;Unless required by applicable law or agreed to in writing, software&#xA;distributed under the License is distributed on an &#34;AS IS&#34; BASIS,&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xA;See the License for the specific language governing permissions and&#xA;limitations under the License.&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>sysbio-bioinf/MOCCA</title>
+    <updated>2023-11-04T01:35:16Z</updated>
+    <id>tag:github.com,2023-11-04:/sysbio-bioinf/MOCCA</id>
+    <link href="https://github.com/sysbio-bioinf/MOCCA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multi-objective selection for collecting cluster alternatives&lt;/p&gt;&lt;hr&gt;&lt;p&gt;test installation with: R CMD INSTALL --library=Rlib src/MOCCA&lt;/p&gt; &#xA;&lt;p&gt;compile a package with: R CMD build src/MOCCA&lt;/p&gt; &#xA;&lt;p&gt;in R run: library(MOCCA,lib.loc=&#34;Rlib&#34;)&lt;/p&gt;</summary>
+  </entry>
 </feed>

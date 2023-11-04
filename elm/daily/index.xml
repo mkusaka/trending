@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elm Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-03T01:28:51Z</updated>
+  <updated>2023-11-04T01:28:04Z</updated>
   <subtitle>Daily Trending of Elm in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ccamel/playground-elm</title>
+    <updated>2023-11-04T01:28:04Z</updated>
+    <id>tag:github.com,2023-11-04:/ccamel/playground-elm</id>
+    <link href="https://github.com/ccamel/playground-elm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎈 My playground for playing with elm-lang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

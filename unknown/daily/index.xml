@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-03T01:24:07Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-11-04T01:24:14Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>huggingface/distil-whisper</title>
-    <updated>2023-11-03T01:24:07Z</updated>
-    <id>tag:github.com,2023-11-03:/huggingface/distil-whisper</id>
-    <link href="https://github.com/huggingface/distil-whisper" rel="alternate"></link>
+    <title>tjunlp-lab/Awesome-LLMs-Evaluation-Papers</title>
+    <updated>2023-11-04T01:24:14Z</updated>
+    <id>tag:github.com,2023-11-04:/tjunlp-lab/Awesome-LLMs-Evaluation-Papers</id>
+    <link href="https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xsudoxx/OSCP</title>
+    <updated>2023-11-04T01:24:14Z</updated>
+    <id>tag:github.com,2023-11-04:/xsudoxx/OSCP</id>
+    <link href="https://github.com/xsudoxx/OSCP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dymensionxyz/rollapp-registry</title>
-    <updated>2023-11-03T01:24:07Z</updated>
-    <id>tag:github.com,2023-11-03:/dymensionxyz/rollapp-registry</id>
-    <link href="https://github.com/dymensionxyz/rollapp-registry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A registry for RollApps&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alaskasquirrel/Chinese-Podcasts</title>
+    <updated>2023-11-04T01:24:14Z</updated>
+    <id>tag:github.com,2023-11-04:/alaskasquirrel/Chinese-Podcasts</id>
+    <link href="https://github.com/alaskasquirrel/Chinese-Podcasts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;播客 🎧 编程、设计、Vlog、音乐、访谈、博客...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

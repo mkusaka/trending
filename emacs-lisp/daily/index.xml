@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-03T01:29:02Z</updated>
+  <updated>2023-11-04T01:28:11Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TaylanUB/json-sexp-mode</title>
-    <updated>2023-11-03T01:29:02Z</updated>
-    <id>tag:github.com,2023-11-03:/TaylanUB/json-sexp-mode</id>
-    <link href="https://github.com/TaylanUB/json-sexp-mode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JSON-sexp mode for Emacs: Edit JSON in s-expression form.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Edit JSON as s-expressions transparently&lt;/h1&gt; &#xA;&lt;p&gt;We use quasi-alists to represent objects:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;{ &#34;k1&#34;: v1, &#34;k2&#34;: v2, ... } -&amp;gt; ((k1 v1) (k2 v2) ...)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;We use Elisp vectors for JSON arrays, Elisp strings and numbers for JSON strings and numbers, and the symbols &lt;code&gt;true&lt;/code&gt;, &lt;code&gt;false&lt;/code&gt;, and &lt;code&gt;null&lt;/code&gt; to represent the corresponding JSON values.&lt;/p&gt;</summary>
+    <title>diku-dk/smlfmt.el</title>
+    <updated>2023-11-04T01:28:11Z</updated>
+    <id>tag:github.com,2023-11-04:/diku-dk/smlfmt.el</id>
+    <link href="https://github.com/diku-dk/smlfmt.el" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Emacs minor mode for running smlfmt&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;smlfmt.el&lt;/h1&gt; &#xA;&lt;p&gt;Format SML source code using &lt;a href=&#34;https://github.com/shwestrick/smlfmt&#34;&gt;smlfmt&lt;/a&gt;. Requires &lt;code&gt;reformatter.el&lt;/code&gt;, on top of which this package is a very small number of lines of code.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;With &lt;a href=&#34;https://github.com/jwiegley/use-package/&#34;&gt;use-package&lt;/a&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;(use-package smlfmt&#xA; :hook (sml-mode . smlfmt-format-on-save-mode)&#xA; :bind&#xA; (:map sml-mode-map&#xA;   (&#34;C-c r&#34; . smlfmt-format-buffer)))&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Or just &lt;code&gt;load-file&lt;/code&gt; the &lt;code&gt;smlfmt.el&lt;/code&gt; file.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Or add its directory to your &lt;code&gt;load-path&lt;/code&gt; and &lt;code&gt;(require &#39;smlfmt)&lt;/code&gt;.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Additional configuration&lt;/h2&gt; &#xA;&lt;p&gt;The package can be configured via the usual &lt;code&gt;customize-group RET smlfmt&lt;/code&gt; mechanism.&lt;/p&gt;</summary>
   </entry>
 </feed>
