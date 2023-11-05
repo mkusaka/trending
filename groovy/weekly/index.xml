@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-05T01:52:38Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chrismld/jenkins-pipeline-tutorial</title>
+    <updated>2023-11-05T01:52:38Z</updated>
+    <id>tag:github.com,2023-11-05:/chrismld/jenkins-pipeline-tutorial</id>
+    <link href="https://github.com/chrismld/jenkins-pipeline-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jenkins Pipeline Tutorial&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JWillow/NodeSugar</title>
+    <updated>2023-11-05T01:52:38Z</updated>
+    <id>tag:github.com,2023-11-05:/JWillow/NodeSugar</id>
+    <link href="https://github.com/JWillow/NodeSugar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Syntax sugar for verteces/edges manipulation with groovy&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

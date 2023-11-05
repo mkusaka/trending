@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ActionScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-05T01:46:25Z</updated>
+  <subtitle>Weekly Trending of ActionScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lucaju/CiteLens</title>
+    <updated>2023-11-05T01:46:25Z</updated>
+    <id>tag:github.com,2023-11-05:/lucaju/CiteLens</id>
+    <link href="https://github.com/lucaju/CiteLens" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>m4yers/fhttp</title>
+    <updated>2023-11-05T01:46:25Z</updated>
+    <id>tag:github.com,2023-11-05:/m4yers/fhttp</id>
+    <link href="https://github.com/m4yers/fhttp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTTP/HTTPS client over Flash Sockets&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

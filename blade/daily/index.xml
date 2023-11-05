@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-04T01:25:14Z</updated>
+  <updated>2023-11-05T01:28:01Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rijalllhd/tim-a</title>
-    <updated>2023-11-04T01:25:14Z</updated>
-    <id>tag:github.com,2023-11-04:/rijalllhd/tim-a</id>
-    <link href="https://github.com/rijalllhd/tim-a" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

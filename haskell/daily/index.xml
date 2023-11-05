@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-04T01:29:28Z</updated>
+  <updated>2023-11-05T01:33:24Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HanStolpo/JiraStructureToDocx</title>
-    <updated>2023-11-04T01:29:28Z</updated>
-    <id>tag:github.com,2023-11-04:/HanStolpo/JiraStructureToDocx</id>
-    <link href="https://github.com/HanStolpo/JiraStructureToDocx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental utilities to generate a Docx document from Jira Structure&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Experimental utilities for generating a MS Word Docx document from a issues in a Jira Structure plug-in structure using Haskell modules http-conduit, pandoc, aeson, parsec and some more. It supports basic Jira markup in descriptions and summaries.&lt;/p&gt;</summary>
+    <title>eskaton/dotfiles</title>
+    <updated>2023-11-05T01:33:24Z</updated>
+    <id>tag:github.com,2023-11-05:/eskaton/dotfiles</id>
+    <link href="https://github.com/eskaton/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dotfiles&lt;/h1&gt;</summary>
   </entry>
 </feed>

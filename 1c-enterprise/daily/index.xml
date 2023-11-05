@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub 1C Enterprise Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-04T01:24:07Z</updated>
+  <updated>2023-11-05T01:26:42Z</updated>
   <subtitle>Daily Trending of 1C Enterprise in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Diversus23/actions</title>
-    <updated>2023-11-04T01:24:07Z</updated>
-    <id>tag:github.com,2023-11-04:/Diversus23/actions</id>
-    <link href="https://github.com/Diversus23/actions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Actions для 1C на базе oscript (CI/CD)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

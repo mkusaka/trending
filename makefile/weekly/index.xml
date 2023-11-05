@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-05T01:56:15Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LineageOS/android_device_qcom_sepolicy_vndr</title>
+    <updated>2023-11-05T01:56:15Z</updated>
+    <id>tag:github.com,2023-11-05:/LineageOS/android_device_qcom_sepolicy_vndr</id>
+    <link href="https://github.com/LineageOS/android_device_qcom_sepolicy_vndr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>frainzy1477/clash</title>
+    <updated>2023-11-05T01:56:15Z</updated>
+    <id>tag:github.com,2023-11-05:/frainzy1477/clash</id>
+    <link href="https://github.com/frainzy1477/clash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clash for openwrt [Luci-app-clash] https://github.com/frainzy1477/luci-app-clash&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LineageOS/android_external_chromium-webview_patches</title>
+    <updated>2023-11-05T01:56:15Z</updated>
+    <id>tag:github.com,2023-11-05:/LineageOS/android_external_chromium-webview_patches</id>
+    <link href="https://github.com/LineageOS/android_external_chromium-webview_patches" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

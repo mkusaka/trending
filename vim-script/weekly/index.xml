@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-05T02:04:14Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>junegunn/gv.vim</title>
+    <updated>2023-11-05T02:04:14Z</updated>
+    <id>tag:github.com,2023-11-05:/junegunn/gv.vim</id>
+    <link href="https://github.com/junegunn/gv.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A git commit browser in Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pearofducks/ansible-vim</title>
+    <updated>2023-11-05T02:04:14Z</updated>
+    <id>tag:github.com,2023-11-05:/pearofducks/ansible-vim</id>
+    <link href="https://github.com/pearofducks/ansible-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A vim plugin for syntax highlighting Ansible&#39;s common filetypes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tweekmonster/helpful.vim</title>
+    <updated>2023-11-05T02:04:14Z</updated>
+    <id>tag:github.com,2023-11-05:/tweekmonster/helpful.vim</id>
+    <link href="https://github.com/tweekmonster/helpful.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📓 Display vim version numbers in docs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

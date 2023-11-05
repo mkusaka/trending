@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-04T01:31:03Z</updated>
+  <updated>2023-11-05T01:35:11Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaManifolds/Manopt.jl</title>
-    <updated>2023-11-04T01:31:03Z</updated>
-    <id>tag:github.com,2023-11-04:/JuliaManifolds/Manopt.jl</id>
-    <link href="https://github.com/JuliaManifolds/Manopt.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏔️Manopt. jl – Optimization on Manifolds in Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaLang/Distributed.jl</title>
-    <updated>2023-11-04T01:31:03Z</updated>
-    <id>tag:github.com,2023-11-04:/JuliaLang/Distributed.jl</id>
-    <link href="https://github.com/JuliaLang/Distributed.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create and control multiple Julia processes remotely for distributed computing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Merck/CEED.jl</title>
+    <updated>2023-11-05T01:35:11Z</updated>
+    <id>tag:github.com,2023-11-05:/Merck/CEED.jl</id>
+    <link href="https://github.com/Merck/CEED.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A decision-making framework for the cost-efficient design of experiments, balancing the value of acquired experimental evidence and incurred costs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

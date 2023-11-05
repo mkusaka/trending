@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-04T01:26:19Z</updated>
+  <updated>2023-11-05T01:29:21Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>spolakh/clojure_course_task01</title>
-    <updated>2023-11-04T01:26:19Z</updated>
-    <id>tag:github.com,2023-11-04:/spolakh/clojure_course_task01</id>
-    <link href="https://github.com/spolakh/clojure_course_task01" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PawelStroinski/dockerfile-stevia</title>
+    <updated>2023-11-05T01:29:21Z</updated>
+    <id>tag:github.com,2023-11-05:/PawelStroinski/dockerfile-stevia</id>
+    <link href="https://github.com/PawelStroinski/dockerfile-stevia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Write your Dockerfiles in Clojure (or Babashka).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

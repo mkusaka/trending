@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-04T01:28:44Z</updated>
+  <updated>2023-11-05T01:32:25Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220/Exercise-5-1-FPS</title>
-    <updated>2023-11-04T01:28:44Z</updated>
-    <id>tag:github.com,2023-11-04:/BL-MSCH-C220/Exercise-5-1-FPS</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-5-1-FPS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wyvernbw/tracer.gd</title>
+    <updated>2023-11-05T01:32:25Z</updated>
+    <id>tag:github.com,2023-11-05:/wyvernbw/tracer.gd</id>
+    <link href="https://github.com/wyvernbw/tracer.gd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Structured tracing for Godot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>BL-MSCH-C220/Exercise-4-5-Tilemap-Coins</title>
-    <updated>2023-11-04T01:28:44Z</updated>
-    <id>tag:github.com,2023-11-04:/BL-MSCH-C220/Exercise-4-5-Tilemap-Coins</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-4-5-Tilemap-Coins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PiCode9560/Godot-4-Concave-Mesh-Slicer</title>
+    <updated>2023-11-05T01:32:25Z</updated>
+    <id>tag:github.com,2023-11-05:/PiCode9560/Godot-4-Concave-Mesh-Slicer</id>
+    <link href="https://github.com/PiCode9560/Godot-4-Concave-Mesh-Slicer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>poohcom1/godot-animation-player-refactor</title>
+    <updated>2023-11-05T01:32:25Z</updated>
+    <id>tag:github.com,2023-11-05:/poohcom1/godot-animation-player-refactor</id>
+    <link href="https://github.com/poohcom1/godot-animation-player-refactor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AnimationPlayer refactoring addon for Godot!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

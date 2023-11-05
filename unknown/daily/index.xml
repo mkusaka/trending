@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-04T01:24:14Z</updated>
+  <updated>2023-11-05T01:26:52Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tjunlp-lab/Awesome-LLMs-Evaluation-Papers</title>
-    <updated>2023-11-04T01:24:14Z</updated>
-    <id>tag:github.com,2023-11-04:/tjunlp-lab/Awesome-LLMs-Evaluation-Papers</id>
-    <link href="https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xsudoxx/OSCP</title>
-    <updated>2023-11-04T01:24:14Z</updated>
-    <id>tag:github.com,2023-11-04:/xsudoxx/OSCP</id>
-    <link href="https://github.com/xsudoxx/OSCP" rel="alternate"></link>
+    <title>fw876/helloworld</title>
+    <updated>2023-11-05T01:26:52Z</updated>
+    <id>tag:github.com,2023-11-05:/fw876/helloworld</id>
+    <link href="https://github.com/fw876/helloworld" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alaskasquirrel/Chinese-Podcasts</title>
-    <updated>2023-11-04T01:24:14Z</updated>
-    <id>tag:github.com,2023-11-04:/alaskasquirrel/Chinese-Podcasts</id>
-    <link href="https://github.com/alaskasquirrel/Chinese-Podcasts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;播客 🎧 编程、设计、Vlog、音乐、访谈、博客...&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Loyalsoldier/clash-rules</title>
+    <updated>2023-11-05T01:26:52Z</updated>
+    <id>tag:github.com,2023-11-05:/Loyalsoldier/clash-rules</id>
+    <link href="https://github.com/Loyalsoldier/clash-rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>githubvpn007/Clash-for-Windows</title>
+    <updated>2023-11-05T01:26:52Z</updated>
+    <id>tag:github.com,2023-11-05:/githubvpn007/Clash-for-Windows</id>
+    <link href="https://github.com/githubvpn007/Clash-for-Windows" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clash for Windows使用教程，Clash-for-Windows配置，Clash-for-Windows说明，Clash-for-Windows&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

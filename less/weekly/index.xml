@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Less Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-05T01:55:35Z</updated>
+  <subtitle>Weekly Trending of Less in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Tencent/weui</title>
+    <updated>2023-11-05T01:55:35Z</updated>
+    <id>tag:github.com,2023-11-05:/Tencent/weui</id>
+    <link href="https://github.com/Tencent/weui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dialpad/dialtone</title>
+    <updated>2023-11-05T01:55:35Z</updated>
+    <id>tag:github.com,2023-11-05:/dialpad/dialtone</id>
+    <link href="https://github.com/dialpad/dialtone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The main repository for all of Dialpad&#39;s design system resources.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

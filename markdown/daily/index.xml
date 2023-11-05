@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-04T01:32:04Z</updated>
+  <updated>2023-11-05T01:36:42Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>okp4/status</title>
-    <updated>2023-11-04T01:32:04Z</updated>
-    <id>tag:github.com,2023-11-04:/okp4/status</id>
-    <link href="https://github.com/okp4/status" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🟩 Uptime and historical data of the OKP4 services&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cardano-foundation/cf-cip1694-ballot-status</title>
+    <updated>2023-11-05T01:36:42Z</updated>
+    <id>tag:github.com,2023-11-05:/cardano-foundation/cf-cip1694-ballot-status</id>
+    <link href="https://github.com/cardano-foundation/cf-cip1694-ballot-status" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for cardano-foundation, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

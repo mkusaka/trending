@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-04T01:38:41Z</updated>
+  <updated>2023-11-05T01:44:58Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Peerless-man/vue3-blog</title>
-    <updated>2023-11-04T01:38:41Z</updated>
-    <id>tag:github.com,2023-11-04:/Peerless-man/vue3-blog</id>
-    <link href="https://github.com/Peerless-man/vue3-blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个最新vue3技术栈的个人博客系统，包含博客前台、博客后台、博客后端服务&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FhillSlinger/pulsar</title>
+    <updated>2023-11-05T01:44:58Z</updated>
+    <id>tag:github.com,2023-11-05:/FhillSlinger/pulsar</id>
+    <link href="https://github.com/FhillSlinger/pulsar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create modern documentation websites for your application using Pulsar. You will generate custom static documentation pages with Pulsar and can use them wherever you want.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ezshine/mp-dashuailaoyuan-public</title>
+    <updated>2023-11-05T01:44:58Z</updated>
+    <id>tag:github.com,2023-11-05:/ezshine/mp-dashuailaoyuan-public</id>
+    <link href="https://github.com/ezshine/mp-dashuailaoyuan-public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;大帅老猿小程序（逐渐开源中）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

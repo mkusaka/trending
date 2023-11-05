@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-05T01:46:54Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CMPT-295-SFU/RISCV-Lab-7</title>
+    <updated>2023-11-05T01:46:54Z</updated>
+    <id>tag:github.com,2023-11-05:/CMPT-295-SFU/RISCV-Lab-7</id>
+    <link href="https://github.com/CMPT-295-SFU/RISCV-Lab-7" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;exams&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Forth Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-04T01:28:31Z</updated>
+  <updated>2023-11-05T01:32:10Z</updated>
   <subtitle>Daily Trending of Forth in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TheByteAttic/CERBERUS2100</title>
-    <updated>2023-11-04T01:28:31Z</updated>
-    <id>tag:github.com,2023-11-04:/TheByteAttic/CERBERUS2100</id>
-    <link href="https://github.com/TheByteAttic/CERBERUS2100" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The amazing multi-processor 8-bit microcomputer, featuring Z80, 6502 and AVR processors. Built with CPLDs, CERBERUS 2100™ is fully programmable even with respect to its hardware, at the individual gate and flip-flop level.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

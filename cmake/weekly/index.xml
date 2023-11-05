@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-05T01:48:45Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>occ-ai/obs-backgroundremoval</title>
+    <updated>2023-11-05T01:48:45Z</updated>
+    <id>tag:github.com,2023-11-05:/occ-ai/obs-backgroundremoval</id>
+    <link href="https://github.com/occ-ai/obs-backgroundremoval" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vanya-beat/cmake-example-repo</title>
+    <updated>2023-11-05T01:48:45Z</updated>
+    <id>tag:github.com,2023-11-05:/vanya-beat/cmake-example-repo</id>
+    <link href="https://github.com/vanya-beat/cmake-example-repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

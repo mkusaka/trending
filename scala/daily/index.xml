@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-04T01:36:19Z</updated>
+  <updated>2023-11-05T01:41:46Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>avast/datadog4s</title>
+    <updated>2023-11-05T01:41:46Z</updated>
+    <id>tag:github.com,2023-11-05:/avast/datadog4s</id>
+    <link href="https://github.com/avast/datadog4s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Making great monitoring easy in functional Scala&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Datadog Scala Metrics &lt;img src=&#34;https://github.com/avast/datadog4s/workflows/Build/badge.svg?branch=master&#34; alt=&#34;Build&#34;&gt; &lt;a href=&#34;https://search.maven.org/search?q=g:com.avast.cloud%20datadog4s&#34;&gt;&lt;img src=&#34;https://img.shields.io/maven-central/v/com.avast.cloud/datadog4s-api_2.13&#34; alt=&#34;Download&#34;&gt;&lt;/a&gt; &lt;img height=&#34;40&#34; src=&#34;https://github.com/typelevel/cats/raw/main/docs/src/main/resources/microsite/img/cats-badge-tiny.png&#34; align=&#34;right&#34;&gt;&lt;/h1&gt; &#xA;&lt;p&gt;Toolkit for monitoring applications written in functional Scala using Datadog and Cats.&lt;/p&gt; &#xA;&lt;p&gt;Goal of this project is to make great monitoring as easy as possible.&lt;/p&gt; &#xA;&lt;p&gt;In addition to basic monitoring utilities, we also provide a bunch of plug-and-play modules that do monitoring for you. Currently, those are:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;JVM monitoring&lt;/li&gt; &#xA; &lt;li&gt;Http4s monitoring&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;For installation instructions, please see &lt;a href=&#34;https://avast.github.io/datadog4s/install.html&#34;&gt;install guide&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;User Guide&lt;/h2&gt; &#xA;&lt;p&gt;For user guide, please see our &lt;a href=&#34;https://avast.github.io/datadog4s/userguide.html&#34;&gt;guide&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

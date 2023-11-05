@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-04T01:36:52Z</updated>
+  <updated>2023-11-05T01:42:33Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pharo-graphics/RTree</title>
-    <updated>2023-11-04T01:36:52Z</updated>
-    <id>tag:github.com,2023-11-04:/pharo-graphics/RTree</id>
-    <link href="https://github.com/pharo-graphics/RTree" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RTree for graphic engines&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pharo-graphics/NumericScales</title>
-    <updated>2023-11-04T01:36:52Z</updated>
-    <id>tag:github.com,2023-11-04:/pharo-graphics/NumericScales</id>
-    <link href="https://github.com/pharo-graphics/NumericScales" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Numerical scales for Pharo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
