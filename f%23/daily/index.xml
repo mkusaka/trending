@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-05T01:31:55Z</updated>
+  <updated>2023-11-06T01:32:24Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Doer-org/DuckStream</title>
-    <updated>2023-11-05T01:31:55Z</updated>
-    <id>tag:github.com,2023-11-05:/Doer-org/DuckStream</id>
-    <link href="https://github.com/Doer-org/DuckStream" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;鴨川ハッカソン2023&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;img width=&#34;300&#34; src=&#34;https://github.com/Doer-org/DuckStream/assets/55625375/ccf3d8c7-ad2a-4b0c-af64-0e2485b29011&#34;&gt; &#xA;&lt;/div&gt; &#xA;&lt;h1&gt;DuckStream&lt;/h1&gt; &#xA;&lt;p&gt;鴨川ハッカソン2023&lt;/p&gt; &#xA;&lt;h1&gt;Development&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;# run&#xA;cargo make up&#xA;# clean up&#xA;cargo make clear&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

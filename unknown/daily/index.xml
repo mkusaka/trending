@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-05T01:26:52Z</updated>
+  <updated>2023-11-06T01:27:12Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fw876/helloworld</title>
-    <updated>2023-11-05T01:26:52Z</updated>
-    <id>tag:github.com,2023-11-05:/fw876/helloworld</id>
-    <link href="https://github.com/fw876/helloworld" rel="alternate"></link>
+    <title>DustinWin/clash-tools</title>
+    <updated>2023-11-06T01:27:12Z</updated>
+    <id>tag:github.com,2023-11-06:/DustinWin/clash-tools</id>
+    <link href="https://github.com/DustinWin/clash-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EAimTY/tuic</title>
+    <updated>2023-11-06T01:27:12Z</updated>
+    <id>tag:github.com,2023-11-06:/EAimTY/tuic</id>
+    <link href="https://github.com/EAimTY/tuic" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Loyalsoldier/clash-rules</title>
-    <updated>2023-11-05T01:26:52Z</updated>
-    <id>tag:github.com,2023-11-05:/Loyalsoldier/clash-rules</id>
-    <link href="https://github.com/Loyalsoldier/clash-rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>githubvpn007/Clash-for-Windows</title>
-    <updated>2023-11-05T01:26:52Z</updated>
-    <id>tag:github.com,2023-11-05:/githubvpn007/Clash-for-Windows</id>
-    <link href="https://github.com/githubvpn007/Clash-for-Windows" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clash for Windows使用教程，Clash-for-Windows配置，Clash-for-Windows说明，Clash-for-Windows&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AndrewStetsenko/tech-jobs-with-relocation</title>
+    <updated>2023-11-06T01:27:12Z</updated>
+    <id>tag:github.com,2023-11-06:/AndrewStetsenko/tech-jobs-with-relocation</id>
+    <link href="https://github.com/AndrewStetsenko/tech-jobs-with-relocation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All-in-one guide to getting a tech job abroad 🌎&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-05T01:32:25Z</updated>
+  <updated>2023-11-06T01:32:59Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wyvernbw/tracer.gd</title>
-    <updated>2023-11-05T01:32:25Z</updated>
-    <id>tag:github.com,2023-11-05:/wyvernbw/tracer.gd</id>
-    <link href="https://github.com/wyvernbw/tracer.gd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Structured tracing for Godot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PiCode9560/Godot-4-Concave-Mesh-Slicer</title>
-    <updated>2023-11-05T01:32:25Z</updated>
-    <id>tag:github.com,2023-11-05:/PiCode9560/Godot-4-Concave-Mesh-Slicer</id>
-    <link href="https://github.com/PiCode9560/Godot-4-Concave-Mesh-Slicer" rel="alternate"></link>
+    <title>philoufc/gwj53</title>
+    <updated>2023-11-06T01:32:59Z</updated>
+    <id>tag:github.com,2023-11-06:/philoufc/gwj53</id>
+    <link href="https://github.com/philoufc/gwj53" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>poohcom1/godot-animation-player-refactor</title>
-    <updated>2023-11-05T01:32:25Z</updated>
-    <id>tag:github.com,2023-11-05:/poohcom1/godot-animation-player-refactor</id>
-    <link href="https://github.com/poohcom1/godot-animation-player-refactor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AnimationPlayer refactoring addon for Godot!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>guladam/BigBlackBookOfMagic</title>
+    <updated>2023-11-06T01:32:59Z</updated>
+    <id>tag:github.com,2023-11-06:/guladam/BigBlackBookOfMagic</id>
+    <link href="https://github.com/guladam/BigBlackBookOfMagic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Made for Godot Wild Jam #57&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>daenvil/MarkdownLabel</title>
+    <updated>2023-11-06T01:32:59Z</updated>
+    <id>tag:github.com,2023-11-06:/daenvil/MarkdownLabel</id>
+    <link href="https://github.com/daenvil/MarkdownLabel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A custom Godot node that extends RichTextLabel to use Markdown instead of BBCode.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
