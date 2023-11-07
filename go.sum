@@ -145,6 +145,8 @@ github.com/motemen/go-loghttp v0.0.0-20170804080138-974ac5ceac27 h1:uAI3rnOT1OSS
 github.com/motemen/go-loghttp v0.0.0-20170804080138-974ac5ceac27/go.mod h1:6eu9CfGt5kfrMVgeu9MfB9PRUnpc47I+udLswiTszI8=
 github.com/motemen/go-loghttp v0.0.0-20231102161135-51803ca76521 h1:Mw8nttus8mU1iBnNPZWn9dIYB8lh4xg0FeK1MmiUJrs=
 github.com/motemen/go-loghttp v0.0.0-20231102161135-51803ca76521/go.mod h1:ycCmn+UAG/7pH1QlxO9xABBG1iXTaw0lyqj6SsX3N1M=
+github.com/motemen/go-loghttp v0.0.0-20231107055348-29ae44b293f4 h1:WLWwzjax2/L5NAQul9bdk1EAP0+YGnAzJBJ/LzL8Dgs=
+github.com/motemen/go-loghttp v0.0.0-20231107055348-29ae44b293f4/go.mod h1:ykaRC7b5xKciHTUFZ60bbsOojQAkCmmehBNbBWeIz1Y=
 github.com/motemen/go-nuts v0.0.0-20220604134737-2658d0104f31 h1:lQ+0Zt2gm+w5+9iaBWKdJXC/gMrWjHhNbw9ts/9rSZ4=
 github.com/motemen/go-nuts v0.0.0-20220604134737-2658d0104f31/go.mod h1:vkBO+XDNzovo+YLBpUod2SFvuWLObXlERnfj99RP3rU=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
