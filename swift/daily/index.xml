@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-06T01:42:35Z</updated>
+  <updated>2023-11-07T01:41:36Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SagerNet/sing-box-for-apple</title>
-    <updated>2023-11-06T01:42:35Z</updated>
-    <id>tag:github.com,2023-11-06:/SagerNet/sing-box-for-apple</id>
-    <link href="https://github.com/SagerNet/sing-box-for-apple" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental iOS/macOS client for sing-box&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;sing-box-for-apple&lt;/h1&gt; &#xA;&lt;p&gt;Experimental iOS/macOS/tvOS client for sing-box, the universal proxy platform.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://sing-box.sagernet.org/installation/clients/sfi/&#34;&gt;SFI&lt;/a&gt; | &lt;a href=&#34;https://sing-box.sagernet.org/installation/clients/sfm/&#34;&gt;SFM&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;Copyright (C) 2022 by nekohasekai &amp;lt;contact-sagernet@sekai.icu&amp;gt;&#xA;&#xA;This program is free software: you can redistribute it and/or modify&#xA;it under the terms of the GNU General Public License as published by&#xA;the Free Software Foundation, either version 3 of the License, or&#xA;(at your option) any later version.&#xA;&#xA;This program is distributed in the hope that it will be useful,&#xA;but WITHOUT ANY WARRANTY; without even the implied warranty of&#xA;MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the&#xA;GNU General Public License for more details.&#xA;&#xA;You should have received a copy of the GNU General Public License&#xA;along with this program. If not, see &amp;lt;http://www.gnu.org/licenses/&amp;gt;.&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>alvincrisuy/clashX</title>
+    <updated>2023-11-07T01:41:36Z</updated>
+    <id>tag:github.com,2023-11-07:/alvincrisuy/clashX</id>
+    <link href="https://github.com/alvincrisuy/clashX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A rule based shadowsocks proxy with GUI for Mac base on clash.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ClashX&lt;/h1&gt; &#xA;&lt;p&gt;A rule based proxy For Mac base on &lt;a href=&#34;https://github.com/Dreamacro/clash&#34;&gt;clash&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Features&lt;/h1&gt; &#xA;&lt;p&gt;HTTP/HTTPS and SOCKS proxy Surge like configuration GeoIP rule support&lt;/p&gt; &#xA;&lt;h1&gt;Install&lt;/h1&gt; &#xA;&lt;p&gt;You can download from &lt;a href=&#34;https://github.com/yichengchen/clashX/releases&#34;&gt;release&lt;/a&gt; page&lt;/p&gt; &#xA;&lt;h1&gt;Config&lt;/h1&gt; &#xA;&lt;p&gt;You can use config generator in Status Bar Menu &#34;Config&#34; section. Config support most of surge rules.&lt;/p&gt; &#xA;&lt;p&gt;Configuration file at $HOME/.config/clash/config.ini&lt;/p&gt; &#xA;&lt;p&gt;Below is a simple demo configuration file:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;[General]&#xA;port = 7890&#xA;socks-port = 7891&#xA;&#xA;[Proxy]&#xA;# name = ss, server, port, cipter, password&#xA;Proxy = ss, server, port, AEAD_CHACHA20_POLY1305, password&#xA;&#xA;[Rule]&#xA;DOMAIN-SUFFIX,google.com,Proxy&#xA;DOMAIN-KEYWORD,google,Proxy&#xA;DOMAIN-SUFFIX,ad.com,REJECT&#xA;GEOIP,CN,DIRECT&#xA;FINAL,,Proxy // notice there is two &#34;,&#34;&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

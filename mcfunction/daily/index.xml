@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub mcfunction Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-06T01:37:20Z</updated>
+  <updated>2023-11-07T01:34:53Z</updated>
   <subtitle>Daily Trending of mcfunction in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LoveTropics/LTDatapack</title>
-    <updated>2023-11-06T01:37:20Z</updated>
-    <id>tag:github.com,2023-11-06:/LoveTropics/LTDatapack</id>
-    <link href="https://github.com/LoveTropics/LTDatapack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Datapack for managing Love Tropics minigames and lobby&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

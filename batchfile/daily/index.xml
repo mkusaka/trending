@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-06T01:28:21Z</updated>
+  <updated>2023-11-07T01:25:37Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rosesxrd/free-ngrok-rdp-4</title>
-    <updated>2023-11-06T01:28:21Z</updated>
-    <id>tag:github.com,2023-11-06:/rosesxrd/free-ngrok-rdp-4</id>
-    <link href="https://github.com/rosesxrd/free-ngrok-rdp-4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;For free rdp ( virtual machine ) ngrok method 2023 working 6 hour free :)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SeyitGit/Rdp-Free</title>
-    <updated>2023-11-06T01:28:21Z</updated>
-    <id>tag:github.com,2023-11-06:/SeyitGit/Rdp-Free</id>
-    <link href="https://github.com/SeyitGit/Rdp-Free" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

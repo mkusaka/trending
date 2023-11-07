@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-06T01:30:18Z</updated>
+  <updated>2023-11-07T01:27:36Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ratatui-org/ratatui-book</title>
+    <updated>2023-11-07T01:27:36Z</updated>
+    <id>tag:github.com,2023-11-07:/ratatui-org/ratatui-book</id>
+    <link href="https://github.com/ratatui-org/ratatui-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ratatui Documentation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ratatui Book&lt;/h1&gt; &#xA;&lt;img align=&#34;right&#34; src=&#34;https://avatars.githubusercontent.com/u/125200832?s=128&amp;amp;v=4&#34; alt=&#34;ratatui logo&#34;&gt; &#xA;&lt;p&gt;This is the documentation project for &lt;a href=&#34;https://github.com/ratatui-org/ratatui&#34;&gt;&lt;code&gt;ratatui&lt;/code&gt;&lt;/a&gt;, a Rust library to build rich terminal user interfaces and dashboards.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/ratatui-org/ratatui-book/main/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/crates/l/ratatui?style=for-the-badge&#34; alt=&#34;License&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/ratatui-org/ratatui-book/actions/workflows/mdbook.yml&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/actions/workflow/status/ratatui-org/ratatui-book/mdbook.yml?label=Github%20Pages&amp;amp;logo=github&amp;amp;style=for-the-badge&#34; alt=&#34;GitHub Workflow Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://ratatui-org.github.io/ratatui-book/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Read-Documentation-blue?style=for-the-badge&#34; alt=&#34;Read the documentation&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://discord.gg/pMCEU9hNEj&#34;&gt;&lt;img src=&#34;https://img.shields.io/discord/1070692720437383208?label=discord&amp;amp;logo=discord&amp;amp;style=for-the-badge&#34; alt=&#34;Discord&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;To read the book online, visit:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://ratatui-org.github.io/ratatui-book/&#34;&gt;https://ratatui-org.github.io/ratatui-book/&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;To read this book locally, run the following:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;git clone -b gh-pages https://github.com/ratatui-org/ratatui-book&#xA;cd ratatui-book&#xA;python -m http.server # or your favorite way to serve local files&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

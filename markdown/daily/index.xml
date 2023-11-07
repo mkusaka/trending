@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-06T01:37:11Z</updated>
+  <updated>2023-11-07T01:34:46Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EssentialCSharp/EssentialCSharp.Status</title>
+    <updated>2023-11-07T01:34:46Z</updated>
+    <id>tag:github.com,2023-11-07:/EssentialCSharp/EssentialCSharp.Status</id>
+    <link href="https://github.com/EssentialCSharp/EssentialCSharp.Status" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for essentialcsharp.com&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

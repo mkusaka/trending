@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-06T01:39:09Z</updated>
+  <updated>2023-11-07T01:37:19Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>medcl/jubatus-classifier</title>
+    <updated>2023-11-07T01:37:19Z</updated>
+    <id>tag:github.com,2023-11-07:/medcl/jubatus-classifier</id>
+    <link href="https://github.com/medcl/jubatus-classifier" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a classifier based on jubatus&#39;s example,introduced some parameters&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;jubatus-classifier&lt;/h1&gt; &#xA;&lt;p&gt;a classifier based on jubatus&#39;s example,introduced some parameters&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://log.medcl.net/item/2013/03/post-jubatus-classifier-script/&#34;&gt;http://log.medcl.net/item/2013/03/post-jubatus-classifier-script/&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>curu/linuxplayer</title>
+    <updated>2023-11-07T01:37:19Z</updated>
+    <id>tag:github.com,2023-11-07:/curu/linuxplayer</id>
+    <link href="https://github.com/curu/linuxplayer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;linuxplayer&#39;s programming scripts, technical documents and notes&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;linuxplayer&lt;/h1&gt; &#xA;&lt;p&gt;Curu Wong&#39;s programming scripts, technical documents and notes on linux.&lt;/p&gt; &#xA;&lt;p&gt;Most of the code/doc here is referred to on my blog &lt;a href=&#34;http://linuxplayer.org&#34;&gt;http://linuxplayer.org&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-06T01:41:00Z</updated>
+  <updated>2023-11-07T01:39:55Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AlphaCQ/IC_Utils</title>
-    <updated>2023-11-06T01:41:00Z</updated>
-    <id>tag:github.com,2023-11-06:/AlphaCQ/IC_Utils</id>
-    <link href="https://github.com/AlphaCQ/IC_Utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Designed for rapid iteration in IC Canister development projects.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;IC_Utils&lt;/h1&gt; &#xA;&lt;p&gt;Designed for rapid iteration in IC Canister development projects.&lt;/p&gt; &#xA;&lt;h3&gt;IcContext&lt;/h3&gt; &#xA;&lt;p&gt;IcContext provides the context for ic canister object invocation, which is used to store the object type and facilitate the user to store and call the object data in canister.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-rust&#34;&gt;let tll = context::get_mut::&amp;lt;VecDeque&amp;lt;SwapOrder&amp;gt;&amp;gt;();&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;In this example, an empty VecDeque of type VecDeque&#xA; &lt;swaporder&gt;&#xA;   is returned if no object of type VecDeque&#xA;  &lt;swaporder&gt;&#xA;    exists in the context, or a stored object if one exists. The returned object is actually a mutable reference, and any user edits to the reference will modify the object.&#xA;  &lt;/swaporder&gt;&#xA; &lt;/swaporder&gt;&lt;/p&gt; &#xA;&lt;h3&gt;NatUtils&lt;/h3&gt; &#xA;&lt;p&gt;&lt;code&gt;nat_utils&lt;/code&gt; is used for rapidly generating Nat types as natural numbers and performing mutual conversions between different types.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-rust&#34;&gt; fstr_to_nat(&#34;3.1231313&#34;,1_000_000_000_000_000_000f64);&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;In this example, we are converting numeric characters of type &#39;str&#39; into Nat numbers with 18-digit precision.&lt;/p&gt; &#xA;&lt;h3&gt;guard&lt;/h3&gt; &#xA;&lt;p&gt;The tool supports locking operations requested to canister to prevent anomalies caused by data reentry.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-rust&#34;&gt;//Add Exclusion Lock&#xA;let guard = CallerGuard::new(id().clone());&#xA;    if guard.is_err() {&#xA;    panic!(&#34;{}&#34;,guard.err().unwrap());&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

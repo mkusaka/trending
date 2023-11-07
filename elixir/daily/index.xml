@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-06T01:31:59Z</updated>
+  <updated>2023-11-07T01:29:14Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>marcelotto/magma</title>
+    <updated>2023-11-07T01:29:14Z</updated>
+    <id>tag:github.com,2023-11-07:/marcelotto/magma</id>
+    <link href="https://github.com/marcelotto/magma" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An &#34;IDE&#34; for documentation and prompt development&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aj-foster/open-api-generator</title>
+    <updated>2023-11-07T01:29:14Z</updated>
+    <id>tag:github.com,2023-11-07:/aj-foster/open-api-generator</id>
+    <link href="https://github.com/aj-foster/open-api-generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open API code generator for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

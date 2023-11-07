@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-06T01:32:59Z</updated>
+  <updated>2023-11-07T01:30:16Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>philoufc/gwj53</title>
-    <updated>2023-11-06T01:32:59Z</updated>
-    <id>tag:github.com,2023-11-06:/philoufc/gwj53</id>
-    <link href="https://github.com/philoufc/gwj53" rel="alternate"></link>
+    <title>adamcyounis/LD54</title>
+    <updated>2023-11-07T01:30:16Z</updated>
+    <id>tag:github.com,2023-11-07:/adamcyounis/LD54</id>
+    <link href="https://github.com/adamcyounis/LD54" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>guladam/BigBlackBookOfMagic</title>
-    <updated>2023-11-06T01:32:59Z</updated>
-    <id>tag:github.com,2023-11-06:/guladam/BigBlackBookOfMagic</id>
-    <link href="https://github.com/guladam/BigBlackBookOfMagic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Made for Godot Wild Jam #57&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>daenvil/MarkdownLabel</title>
-    <updated>2023-11-06T01:32:59Z</updated>
-    <id>tag:github.com,2023-11-06:/daenvil/MarkdownLabel</id>
-    <link href="https://github.com/daenvil/MarkdownLabel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A custom Godot node that extends RichTextLabel to use Markdown instead of BBCode.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BraindeadBZH/godot_card_engine</title>
+    <updated>2023-11-07T01:30:16Z</updated>
+    <id>tag:github.com,2023-11-07:/BraindeadBZH/godot_card_engine</id>
+    <link href="https://github.com/BraindeadBZH/godot_card_engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A plugin for Godot to create card based games&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

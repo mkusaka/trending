@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-06T01:27:12Z</updated>
+  <updated>2023-11-07T01:24:38Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DustinWin/clash-tools</title>
-    <updated>2023-11-06T01:27:12Z</updated>
-    <id>tag:github.com,2023-11-06:/DustinWin/clash-tools</id>
-    <link href="https://github.com/DustinWin/clash-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>milanm/DotNet-Developer-Roadmap</title>
+    <updated>2023-11-07T01:24:38Z</updated>
+    <id>tag:github.com,2023-11-07:/milanm/DotNet-Developer-Roadmap</id>
+    <link href="https://github.com/milanm/DotNet-Developer-Roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The comprehensive .NET Developer Roadmap by seniority level.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EAimTY/tuic</title>
-    <updated>2023-11-06T01:27:12Z</updated>
-    <id>tag:github.com,2023-11-06:/EAimTY/tuic</id>
-    <link href="https://github.com/EAimTY/tuic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ritchieng/the-incredible-pytorch</title>
+    <updated>2023-11-07T01:24:38Z</updated>
+    <id>tag:github.com,2023-11-07:/ritchieng/the-incredible-pytorch</id>
+    <link href="https://github.com/ritchieng/the-incredible-pytorch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AndrewStetsenko/tech-jobs-with-relocation</title>
-    <updated>2023-11-06T01:27:12Z</updated>
-    <id>tag:github.com,2023-11-06:/AndrewStetsenko/tech-jobs-with-relocation</id>
-    <link href="https://github.com/AndrewStetsenko/tech-jobs-with-relocation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All-in-one guide to getting a tech job abroad 🌎&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0x4D31/awesome-oscp</title>
+    <updated>2023-11-07T01:24:38Z</updated>
+    <id>tag:github.com,2023-11-07:/0x4D31/awesome-oscp</id>
+    <link href="https://github.com/0x4D31/awesome-oscp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome OSCP resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

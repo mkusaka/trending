@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-06T01:38:37Z</updated>
+  <updated>2023-11-07T01:36:25Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dbuenzli/zipc</title>
-    <updated>2023-11-06T01:38:37Z</updated>
-    <id>tag:github.com,2023-11-06:/dbuenzli/zipc</id>
-    <link href="https://github.com/dbuenzli/zipc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ZIP archive and deflate codec for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Kakadu/comp23hw</title>
-    <updated>2023-11-06T01:38:37Z</updated>
-    <id>tag:github.com,2023-11-06:/Kakadu/comp23hw</id>
-    <link href="https://github.com/Kakadu/comp23hw" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
