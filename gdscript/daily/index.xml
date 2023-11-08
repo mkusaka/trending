@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-07T01:30:16Z</updated>
+  <updated>2023-11-08T01:30:53Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>adamcyounis/LD54</title>
-    <updated>2023-11-07T01:30:16Z</updated>
-    <id>tag:github.com,2023-11-07:/adamcyounis/LD54</id>
-    <link href="https://github.com/adamcyounis/LD54" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BraindeadBZH/godot_card_engine</title>
-    <updated>2023-11-07T01:30:16Z</updated>
-    <id>tag:github.com,2023-11-07:/BraindeadBZH/godot_card_engine</id>
-    <link href="https://github.com/BraindeadBZH/godot_card_engine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A plugin for Godot to create card based games&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TreacherousDev/Cellular-Procedural-Generation-with-Tilemaps</title>
+    <updated>2023-11-08T01:30:53Z</updated>
+    <id>tag:github.com,2023-11-08:/TreacherousDev/Cellular-Procedural-Generation-with-Tilemaps</id>
+    <link href="https://github.com/TreacherousDev/Cellular-Procedural-Generation-with-Tilemaps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Godot tool for creating cell-based procedurally generated maps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

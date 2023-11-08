@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-07T01:41:36Z</updated>
+  <updated>2023-11-08T01:42:33Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alvincrisuy/clashX</title>
-    <updated>2023-11-07T01:41:36Z</updated>
-    <id>tag:github.com,2023-11-07:/alvincrisuy/clashX</id>
-    <link href="https://github.com/alvincrisuy/clashX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A rule based shadowsocks proxy with GUI for Mac base on clash.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ClashX&lt;/h1&gt; &#xA;&lt;p&gt;A rule based proxy For Mac base on &lt;a href=&#34;https://github.com/Dreamacro/clash&#34;&gt;clash&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Features&lt;/h1&gt; &#xA;&lt;p&gt;HTTP/HTTPS and SOCKS proxy Surge like configuration GeoIP rule support&lt;/p&gt; &#xA;&lt;h1&gt;Install&lt;/h1&gt; &#xA;&lt;p&gt;You can download from &lt;a href=&#34;https://github.com/yichengchen/clashX/releases&#34;&gt;release&lt;/a&gt; page&lt;/p&gt; &#xA;&lt;h1&gt;Config&lt;/h1&gt; &#xA;&lt;p&gt;You can use config generator in Status Bar Menu &#34;Config&#34; section. Config support most of surge rules.&lt;/p&gt; &#xA;&lt;p&gt;Configuration file at $HOME/.config/clash/config.ini&lt;/p&gt; &#xA;&lt;p&gt;Below is a simple demo configuration file:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;[General]&#xA;port = 7890&#xA;socks-port = 7891&#xA;&#xA;[Proxy]&#xA;# name = ss, server, port, cipter, password&#xA;Proxy = ss, server, port, AEAD_CHACHA20_POLY1305, password&#xA;&#xA;[Rule]&#xA;DOMAIN-SUFFIX,google.com,Proxy&#xA;DOMAIN-KEYWORD,google,Proxy&#xA;DOMAIN-SUFFIX,ad.com,REJECT&#xA;GEOIP,CN,DIRECT&#xA;FINAL,,Proxy // notice there is two &#34;,&#34;&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

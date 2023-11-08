@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-07T01:42:46Z</updated>
+  <updated>2023-11-08T01:44:09Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kljohann/vim-gitmodeline</title>
+    <updated>2023-11-08T01:44:09Z</updated>
+    <id>tag:github.com,2023-11-08:/kljohann/vim-gitmodeline</id>
+    <link href="https://github.com/kljohann/vim-gitmodeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Loading of per-project modelines via git config (needs vim-fugitive)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

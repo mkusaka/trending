@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-07T01:27:06Z</updated>
+  <updated>2023-11-08T01:27:55Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MrJaba/autotagger</title>
+    <updated>2023-11-08T01:27:55Z</updated>
+    <id>tag:github.com,2023-11-08:/MrJaba/autotagger</id>
+    <link href="https://github.com/MrJaba/autotagger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Auto Tag Facebook posts by using the DBPedia Spotlight API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jduey/appraiser</title>
+    <updated>2023-11-08T01:27:55Z</updated>
+    <id>tag:github.com,2023-11-08:/jduey/appraiser</id>
+    <link href="https://github.com/jduey/appraiser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DSL&#39;s for web applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Clojure-Developer/Clojure-Developer-2023-10</title>
+    <updated>2023-11-08T01:27:55Z</updated>
+    <id>tag:github.com,2023-11-08:/Clojure-Developer/Clojure-Developer-2023-10</id>
+    <link href="https://github.com/Clojure-Developer/Clojure-Developer-2023-10" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
