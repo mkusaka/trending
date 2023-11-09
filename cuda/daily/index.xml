@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-08T01:28:24Z</updated>
+  <updated>2023-11-09T01:32:01Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GooFit/GooFit</title>
-    <updated>2023-11-08T01:28:24Z</updated>
-    <id>tag:github.com,2023-11-08:/GooFit/GooFit</id>
-    <link href="https://github.com/GooFit/GooFit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

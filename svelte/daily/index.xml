@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-08T01:42:26Z</updated>
+  <updated>2023-11-09T01:48:18Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>markjaquith/clerk-sveltekit</title>
-    <updated>2023-11-08T01:42:26Z</updated>
-    <id>tag:github.com,2023-11-08:/markjaquith/clerk-sveltekit</id>
-    <link href="https://github.com/markjaquith/clerk-sveltekit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clerk adapter for SvelteKit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lissy93/bug-bounties</title>
+    <updated>2023-11-09T01:48:18Z</updated>
+    <id>tag:github.com,2023-11-09:/Lissy93/bug-bounties</id>
+    <link href="https://github.com/Lissy93/bug-bounties" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚔️ A compiled list of companies who have active programs for responsible disclosure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

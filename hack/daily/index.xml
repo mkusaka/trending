@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-08T01:31:45Z</updated>
+  <updated>2023-11-09T01:35:32Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>davidchisnall/banning-e2ee-is-stupid</title>
-    <updated>2023-11-08T01:31:45Z</updated>
-    <id>tag:github.com,2023-11-08:/davidchisnall/banning-e2ee-is-stupid</id>
-    <link href="https://github.com/davidchisnall/banning-e2ee-is-stupid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Do you think banning end-to-end encryption is plausible? Think again.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ministryofjustice/sifocc</title>
+    <updated>2023-11-09T01:35:32Z</updated>
+    <id>tag:github.com,2023-11-09:/ministryofjustice/sifocc</id>
+    <link href="https://github.com/ministryofjustice/sifocc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SIFOCC Wordpress Theme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

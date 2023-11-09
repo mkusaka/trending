@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-08T01:28:49Z</updated>
+  <updated>2023-11-09T01:32:40Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>clashcross/CrossApp</title>
+    <updated>2023-11-09T01:32:40Z</updated>
+    <id>tag:github.com,2023-11-09:/clashcross/CrossApp</id>
+    <link href="https://github.com/clashcross/CrossApp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款支持多种协议管理的跨平台客户端，可以运行于windows、Android、macOS、Linux等平台&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CrossApp&lt;/h1&gt; &#xA;&lt;p&gt;一款支持多种协议管理的跨平台客户端，可以运行于windows、Android、macOS、Linux等平台&lt;/p&gt; &#xA;&lt;h1&gt;对接&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/v2board/v2board&#34;&gt;V2board&lt;/a&gt; 支持v2board1.7.4及以上版本，其他版本自行适配&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;功能&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;用户注册、登录&lt;/li&gt; &#xA; &lt;li&gt;订阅套餐购买&lt;/li&gt; &#xA; &lt;li&gt;订阅下发&lt;/li&gt; &#xA; &lt;li&gt;节点测速&lt;/li&gt; &#xA; &lt;li&gt;调用第三方客户端诸如Clashcross等&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;社区&lt;/h1&gt; &#xA;&lt;p&gt;Telegram Channel: &lt;a href=&#34;https://t.me/clashcrosschannel&#34;&gt;@classcross&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;简易教程&lt;/h1&gt; &#xA;&lt;p&gt;确保您使用的v2board版本，修改lib/http/options.dart 中websiteurl和appName，另外您可能需要了解Dart编程和Flutter跨平台框架以便进行二次开发&lt;/p&gt; &#xA;&lt;h1&gt;狂飙转发&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://mer.kuangbiaoyun.xyz/&#34;&gt;低至30CNY2TB&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Advisement&lt;/h1&gt; &#xA;&lt;p&gt;Please exercise caution in compiling this program for countries with strict internet control, such as Iran, North Korea, Belarus, Turkmenistan, Cuba, etc.&lt;/p&gt;</summary>
+  </entry>
 </feed>

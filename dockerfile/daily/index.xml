@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-08T01:29:18Z</updated>
+  <updated>2023-11-09T01:33:11Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mattermost/mattermost-docker-preview</title>
+    <updated>2023-11-09T01:33:11Z</updated>
+    <id>tag:github.com,2023-11-09:/mattermost/mattermost-docker-preview</id>
+    <link href="https://github.com/mattermost/mattermost-docker-preview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mattermost Preview Docker Image&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Mattermost Docker Preview Image&lt;/h1&gt; &#xA;&lt;p&gt;This is a Docker image to install Mattermost in &lt;em&gt;Preview Mode&lt;/em&gt; for exploring product functionality on a single machine using Docker.&lt;/p&gt; &#xA;&lt;p&gt;Note: This configuration should not be used in production, as it’s using a known password string and contains other non-production configuration settings, and it does not support upgrade. If you’re looking for a production installation with Docker, please see the &lt;a href=&#34;http://docs.mattermost.com/install/prod-docker.html&#34;&gt;Mattermost Production Docker Deployment Guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;To contribute, please see &lt;a href=&#34;https://docs.mattermost.com/developer/contribution-guide.html&#34;&gt;Contribution Guidelines&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;To file issues, &lt;a href=&#34;https://www.mattermost.org/filing-issues/&#34;&gt;search for existing bugs and file a GitHub issue if your bug is new&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Please see &lt;a href=&#34;http://docs.mattermost.com/install/docker-local-machine.html&#34;&gt;documentation for usage&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;If you have Docker already set up, you can run this image in one line:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker run --name mattermost-preview -d --publish 8065:8065 --add-host dockerhost:127.0.0.1 mattermost/mattermost-preview&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>
