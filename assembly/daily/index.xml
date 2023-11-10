@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-09T01:29:08Z</updated>
+  <updated>2023-11-10T01:25:59Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fuzzballcat/milliForth</title>
-    <updated>2023-11-09T01:29:08Z</updated>
-    <id>tag:github.com,2023-11-09:/fuzzballcat/milliForth</id>
-    <link href="https://github.com/fuzzballcat/milliForth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A FORTH in 386 bytes — the smallest real programming language ever as of yet.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openhwgroup/cva6</title>
-    <updated>2023-11-09T01:29:08Z</updated>
-    <id>tag:github.com,2023-11-09:/openhwgroup/cva6</id>
-    <link href="https://github.com/openhwgroup/cva6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

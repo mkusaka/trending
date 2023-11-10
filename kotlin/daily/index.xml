@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-09T01:38:15Z</updated>
+  <updated>2023-11-10T01:35:54Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bggRGjQaUbCoE/c001apk</title>
-    <updated>2023-11-09T01:38:15Z</updated>
-    <id>tag:github.com,2023-11-09:/bggRGjQaUbCoE/c001apk</id>
-    <link href="https://github.com/bggRGjQaUbCoE/c001apk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;fake coolapk&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;c001apk&lt;/h1&gt; &#xA;&lt;p&gt;fake coolapk&lt;/p&gt; &#xA;&lt;p&gt;Token/LoginUtil from: &lt;a href=&#34;https://github.com/WaitFme/CoolbbsYou&#34;&gt;CoolbbsYou&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;声明&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;本项目属于个人学习项目，仅用于学习和测试，严禁滥用！&lt;/li&gt; &#xA; &lt;li&gt;使用本项目中造成的不良影响及后果与本人无关。&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
 </feed>

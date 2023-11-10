@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-09T01:31:36Z</updated>
+  <updated>2023-11-10T01:28:05Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>huskycode/dojo-socketio</title>
-    <updated>2023-11-09T01:31:36Z</updated>
-    <id>tag:github.com,2023-11-09:/huskycode/dojo-socketio</id>
-    <link href="https://github.com/huskycode/dojo-socketio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dojo for Socket.IO and inter process communications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>asimpson/send-to-instapaper-fluid</title>
+    <updated>2023-11-10T01:28:05Z</updated>
+    <id>tag:github.com,2023-11-10:/asimpson/send-to-instapaper-fluid</id>
+    <link href="https://github.com/asimpson/send-to-instapaper-fluid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Userscript for Fluid.app that adds an Instapaper Read Later button to tweets containing links.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>e14n/pump2status</title>
-    <updated>2023-11-09T01:31:36Z</updated>
-    <id>tag:github.com,2023-11-09:/e14n/pump2status</id>
-    <link href="https://github.com/e14n/pump2status" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Service for finding your StatusNet friends on the pump.io network *and* posting pump.io stuff&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>njjohansen/BeautifulPi</title>
+    <updated>2023-11-10T01:28:05Z</updated>
+    <id>tag:github.com,2023-11-10:/njjohansen/BeautifulPi</id>
+    <link href="https://github.com/njjohansen/BeautifulPi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mobile web app for studying Beautiful Pi&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Batou99/backbone_template</title>
+    <updated>2023-11-10T01:28:05Z</updated>
+    <id>tag:github.com,2023-11-10:/Batou99/backbone_template</id>
+    <link href="https://github.com/Batou99/backbone_template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template with Backbone, Twitter bootstrap, underscore and handlebars&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-09T01:34:40Z</updated>
+  <updated>2023-11-10T01:31:17Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220/Exercise-5-2-Materials</title>
-    <updated>2023-11-09T01:34:40Z</updated>
-    <id>tag:github.com,2023-11-09:/BL-MSCH-C220/Exercise-5-2-Materials</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-5-2-Materials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zhangjt93/godot-imposter</title>
-    <updated>2023-11-09T01:34:40Z</updated>
-    <id>tag:github.com,2023-11-09:/zhangjt93/godot-imposter</id>
-    <link href="https://github.com/zhangjt93/godot-imposter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;imposter plugin for godot 4.x&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ThePat02/BehaviourToolkit</title>
-    <updated>2023-11-09T01:34:40Z</updated>
-    <id>tag:github.com,2023-11-09:/ThePat02/BehaviourToolkit</id>
-    <link href="https://github.com/ThePat02/BehaviourToolkit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of tools for AI Behaviour in the Godot 4 Game Engine!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GodotParadise/Motion2D</title>
+    <updated>2023-11-10T01:31:17Z</updated>
+    <id>tag:github.com,2023-11-10:/GodotParadise/Motion2D</id>
+    <link href="https://github.com/GodotParadise/Motion2D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Is a versatile and customizable module designed to streamline 2D Nodes movement in Godot Engine.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

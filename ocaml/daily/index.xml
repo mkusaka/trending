@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-09T01:42:16Z</updated>
+  <updated>2023-11-10T01:39:07Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>davesnx/html_of_jsx</title>
-    <updated>2023-11-09T01:42:16Z</updated>
-    <id>tag:github.com,2023-11-09:/davesnx/html_of_jsx</id>
-    <link href="https://github.com/davesnx/html_of_jsx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Render HTML with JSX&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ocurrent/obuilder</title>
+    <updated>2023-11-10T01:39:07Z</updated>
+    <id>tag:github.com,2023-11-10:/ocurrent/obuilder</id>
+    <link href="https://github.com/ocurrent/obuilder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experimental &#34;docker build&#34; alternative using btrfs/zfs snapshots&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>0b8fcd6282c49d37c9c1abc/hm</title>
+    <updated>2023-11-10T01:39:07Z</updated>
+    <id>tag:github.com,2023-11-10:/0b8fcd6282c49d37c9c1abc/hm</id>
+    <link href="https://github.com/0b8fcd6282c49d37c9c1abc/hm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;inference algorithm for a hindley-milner type system&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

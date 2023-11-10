@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-09T01:35:32Z</updated>
+  <updated>2023-11-10T01:32:34Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ministryofjustice/sifocc</title>
-    <updated>2023-11-09T01:35:32Z</updated>
-    <id>tag:github.com,2023-11-09:/ministryofjustice/sifocc</id>
-    <link href="https://github.com/ministryofjustice/sifocc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SIFOCC Wordpress Theme&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>project-sternbergia/cybergear_m5</title>
+    <updated>2023-11-10T01:32:34Z</updated>
+    <id>tag:github.com,2023-11-10:/project-sternbergia/cybergear_m5</id>
+    <link href="https://github.com/project-sternbergia/cybergear_m5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;M5 stack library for cybergear&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
