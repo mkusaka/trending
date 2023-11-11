@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-10T01:40:58Z</updated>
+  <updated>2023-11-11T02:39:05Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>code-for-coffee/Windows_Administrative_Tools</title>
+    <updated>2023-11-11T02:39:05Z</updated>
+    <id>tag:github.com,2023-11-11:/code-for-coffee/Windows_Administrative_Tools</id>
+    <link href="https://github.com/code-for-coffee/Windows_Administrative_Tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts for Windows 7/8 sysadmins.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;james [at] codeforcoffee [dot] org Last updated - 7/28/13&lt;/p&gt; &#xA;&lt;p&gt;Included in this repo:&lt;/p&gt; &#xA;&lt;p&gt;DisableClassicShellSettings.ps1 Disables a user from opening the classic shell settings context menu.&lt;/p&gt; &#xA;&lt;p&gt;INFO:&lt;/p&gt; &#xA;&lt;p&gt;This simple powershell script allows a system administrator to enable or disable the &#34;Settings&#34; context Menu from Classic Shell. Please note that Classic Shell (&lt;a href=&#34;http://www.classicshell.net/&#34;&gt;http://www.classicshell.net/&lt;/a&gt;) must be installed for this script to run. This script has been tested in Powershell 3.0.&lt;/p&gt; &#xA;&lt;p&gt;HOW TO RUN:&lt;/p&gt; &#xA;&lt;p&gt;To run via Powershell:&lt;/p&gt; &#xA;&lt;p&gt;./classicshellsettings.ps1 off/on ie: ./classicshellsettings.ps1 OFF&lt;/p&gt; &#xA;&lt;p&gt;FAQ:&lt;/p&gt; &#xA;&lt;p&gt;&#34;Help! I cannot run this script!&#34;&lt;/p&gt; &#xA;&lt;p&gt;If you are receiving an error such as &#34;classicshellsettings.ps1 cannot be loaded because scripts are not enabled on this system&#34; you must enabled scripts. To view your current ability to run Powershell scripts please run &#34;Get-ExecutionPolicy&#34;. For a quick way to run this script (by enabling scripts and then disabling) you could run &#34;Set-ExecutionPolicy Remotesigned&#34; followed by &#34;Set-ExecutionPolicy Restricted&#34;.&lt;/p&gt; &#xA;&lt;p&gt;&#34;I am told I cannot find path because it does not exist. Help!&#34;&lt;/p&gt; &#xA;&lt;p&gt;This is due to the fact that Classic Shell has not been installed correctly (or at all) and the registry defaults do not exist on this computer. To rectify this problem you may run the following line in Powershell to create the correct path: &#34;Md &#34;HKCU:\Software\IvoSoft\ClassicStartMenu&#34;&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;DisableJavaUpdate.Reg&lt;/p&gt; &#xA;&lt;p&gt;This is designed to disable annoying Java update prompts. It is NOT meant as a replacement for updating Java.&lt;/p&gt;</summary>
+  </entry>
 </feed>

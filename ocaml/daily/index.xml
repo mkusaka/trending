@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-10T01:39:07Z</updated>
+  <updated>2023-11-11T02:37:44Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ocurrent/obuilder</title>
-    <updated>2023-11-10T01:39:07Z</updated>
-    <id>tag:github.com,2023-11-10:/ocurrent/obuilder</id>
-    <link href="https://github.com/ocurrent/obuilder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental &#34;docker build&#34; alternative using btrfs/zfs snapshots&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>0b8fcd6282c49d37c9c1abc/hm</title>
-    <updated>2023-11-10T01:39:07Z</updated>
-    <id>tag:github.com,2023-11-10:/0b8fcd6282c49d37c9c1abc/hm</id>
-    <link href="https://github.com/0b8fcd6282c49d37c9c1abc/hm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;inference algorithm for a hindley-milner type system&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mt-caret/polars-ocaml</title>
+    <updated>2023-11-11T02:37:44Z</updated>
+    <id>tag:github.com,2023-11-11:/mt-caret/polars-ocaml</id>
+    <link href="https://github.com/mt-caret/polars-ocaml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

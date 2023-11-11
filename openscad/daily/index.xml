@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OpenSCAD Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-10T01:39:27Z</updated>
+  <updated>2023-11-11T02:37:57Z</updated>
   <subtitle>Daily Trending of OpenSCAD in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>skiselev/micro_8088_case</title>
-    <updated>2023-11-10T01:39:27Z</updated>
-    <id>tag:github.com,2023-11-10:/skiselev/micro_8088_case</id>
-    <link href="https://github.com/skiselev/micro_8088_case" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Case for Micro 8088&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joh/crkbd-trackpoint</title>
+    <updated>2023-11-11T02:37:57Z</updated>
+    <id>tag:github.com,2023-11-11:/joh/crkbd-trackpoint</id>
+    <link href="https://github.com/joh/crkbd-trackpoint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Add a trackpoint to a corne-cherry (crkbd) keyboard for ergonomic pointing bliss.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

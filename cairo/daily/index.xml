@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-10T01:27:29Z</updated>
+  <updated>2023-11-11T02:26:07Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cairo-book/cairo-book</title>
-    <updated>2023-11-10T01:27:29Z</updated>
-    <id>tag:github.com,2023-11-10:/cairo-book/cairo-book</id>
-    <link href="https://github.com/cairo-book/cairo-book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Cairo Programming Language Book, a comprehensive documentation of the Cairo 1 programming language.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-10T01:35:18Z</updated>
+  <updated>2023-11-11T02:33:34Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NQCD/NQCDynamics.jl</title>
-    <updated>2023-11-10T01:35:18Z</updated>
-    <id>tag:github.com,2023-11-10:/NQCD/NQCDynamics.jl</id>
-    <link href="https://github.com/NQCD/NQCDynamics.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast and flexible nonadiabatic molecular dynamics in Julia!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>brainandforce/NormalForms.jl</title>
-    <updated>2023-11-10T01:35:18Z</updated>
-    <id>tag:github.com,2023-11-10:/brainandforce/NormalForms.jl</id>
-    <link href="https://github.com/brainandforce/NormalForms.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Calculation of Hermite and Smith normal forms in a single package.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-10T01:43:36Z</updated>
+  <updated>2023-11-11T02:41:53Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>appsecco/dvna</title>
+    <updated>2023-11-11T02:41:53Z</updated>
+    <id>tag:github.com,2023-11-11:/appsecco/dvna</id>
+    <link href="https://github.com/appsecco/dvna" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Damn Vulnerable NodeJS Application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openeyes/nxblu</title>
+    <updated>2023-11-11T02:41:53Z</updated>
+    <id>tag:github.com,2023-11-11:/openeyes/nxblu</id>
+    <link href="https://github.com/openeyes/nxblu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stylesheets for OpenEyes - an Evolution of newblue&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

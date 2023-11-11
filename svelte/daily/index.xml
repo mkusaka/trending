@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-10T01:44:50Z</updated>
+  <updated>2023-11-11T02:43:08Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PhotoFolder/app</title>
-    <updated>2023-11-10T01:44:50Z</updated>
-    <id>tag:github.com,2023-11-10:/PhotoFolder/app</id>
-    <link href="https://github.com/PhotoFolder/app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AsterisMono/bili-fetch-svelte</title>
-    <updated>2023-11-10T01:44:50Z</updated>
-    <id>tag:github.com,2023-11-10:/AsterisMono/bili-fetch-svelte</id>
-    <link href="https://github.com/AsterisMono/bili-fetch-svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mozilla/glam</title>
-    <updated>2023-11-10T01:44:50Z</updated>
-    <id>tag:github.com,2023-11-10:/mozilla/glam</id>
-    <link href="https://github.com/mozilla/glam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mozilla&#39;s primary interactive dashboard for examining the distribution of telemetry values.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>getoslash/oslash</title>
+    <updated>2023-11-11T02:43:08Z</updated>
+    <id>tag:github.com,2023-11-11:/getoslash/oslash</id>
+    <link href="https://github.com/getoslash/oslash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OSlash is an open-source browser extension that lets you convert your URLs into simple, readable, and memorable shortcuts. Contact opensource@oslash.com for support&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

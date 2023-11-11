@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-10T01:24:34Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-11-11T02:22:53Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>VinAIResearch/PhoGPT</title>
-    <updated>2023-11-10T01:24:34Z</updated>
-    <id>tag:github.com,2023-11-10:/VinAIResearch/PhoGPT</id>
-    <link href="https://github.com/VinAIResearch/PhoGPT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PhoGPT: Generative Pre-training for Vietnamese&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>creapunk/CLN17</title>
+    <updated>2023-11-11T02:22:53Z</updated>
+    <id>tag:github.com,2023-11-11:/creapunk/CLN17</id>
+    <link href="https://github.com/creapunk/CLN17" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compact closed-loop stepper motor driver designed for NEMA17 motors&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AgentOps-AI/BestGPTs</title>
-    <updated>2023-11-10T01:24:34Z</updated>
-    <id>tag:github.com,2023-11-10:/AgentOps-AI/BestGPTs</id>
-    <link href="https://github.com/AgentOps-AI/BestGPTs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Top ranked OpenAI GPTs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mbzuai-oryx/groundingLMM</title>
+    <updated>2023-11-11T02:22:53Z</updated>
+    <id>tag:github.com,2023-11-11:/mbzuai-oryx/groundingLMM</id>
+    <link href="https://github.com/mbzuai-oryx/groundingLMM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Grounding Large Multimodal Model (GLaMM), the first-of-its-kind model capable of generating natural language responses that are seamlessly integrated with object segmentation masks.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SaraiNoQ/readingKK</title>
-    <updated>2023-11-10T01:24:34Z</updated>
-    <id>tag:github.com,2023-11-10:/SaraiNoQ/readingKK</id>
-    <link href="https://github.com/SaraiNoQ/readingKK" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;kk天涯贴的阅读感想&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chika0801/sing-box-examples</title>
+    <updated>2023-11-11T02:22:53Z</updated>
+    <id>tag:github.com,2023-11-11:/chika0801/sing-box-examples</id>
+    <link href="https://github.com/chika0801/sing-box-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;sing-box 配置示例&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

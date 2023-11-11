@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-10T01:35:22Z</updated>
+  <updated>2023-11-11T02:33:34Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ggoonnzzaallo/llm_experiments</title>
-    <updated>2023-11-10T01:35:22Z</updated>
-    <id>tag:github.com,2023-11-10:/ggoonnzzaallo/llm_experiments</id>
-    <link href="https://github.com/ggoonnzzaallo/llm_experiments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I play with my best friend GPT&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openai/web-crawl-q-and-a-example</title>
-    <updated>2023-11-10T01:35:22Z</updated>
-    <id>tag:github.com,2023-11-10:/openai/web-crawl-q-and-a-example</id>
-    <link href="https://github.com/openai/web-crawl-q-and-a-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn how to crawl your website and build a Q/A bot with the OpenAI API&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Web Q&amp;amp;A with Embeddings&lt;/h1&gt; &#xA;&lt;p&gt;Learn how to crawl your website and build a Q/A bot with the OpenAI API. You can find the full tutorial in the &lt;a href=&#34;https://platform.openai.com/docs/tutorials/web-qa-embeddings&#34;&gt;OpenAI documentation&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>
