@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scheme Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-12T01:56:02Z</updated>
+  <subtitle>Weekly Trending of Scheme in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gpkarma/PS03</title>
+    <updated>2023-11-12T01:56:02Z</updated>
+    <id>tag:github.com,2023-11-12:/gpkarma/PS03</id>
+    <link href="https://github.com/gpkarma/PS03" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CS21b PS03&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sagarjha/chess_project</title>
+    <updated>2023-11-12T01:56:02Z</updated>
+    <id>tag:github.com,2023-11-12:/sagarjha/chess_project</id>
+    <link href="https://github.com/sagarjha/chess_project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;For CS 154 project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hrafnkelle/rsa_scheme</title>
+    <updated>2023-11-12T01:56:02Z</updated>
+    <id>tag:github.com,2023-11-12:/hrafnkelle/rsa_scheme</id>
+    <link href="https://github.com/hrafnkelle/rsa_scheme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Toy implementation of the RSA public key encryption in Guile Scheme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

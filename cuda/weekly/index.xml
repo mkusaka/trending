@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cuda Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-12T01:45:58Z</updated>
+  <subtitle>Weekly Trending of Cuda in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>flashinfer-ai/flashinfer</title>
+    <updated>2023-11-12T01:45:58Z</updated>
+    <id>tag:github.com,2023-11-12:/flashinfer-ai/flashinfer</id>
+    <link href="https://github.com/flashinfer-ai/flashinfer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FlashInfer: Kernel Library for LLM Serving&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Bruce-Lee-LY/cuda_hgemm</title>
+    <updated>2023-11-12T01:45:58Z</updated>
+    <id>tag:github.com,2023-11-12:/Bruce-Lee-LY/cuda_hgemm</id>
+    <link href="https://github.com/Bruce-Lee-LY/cuda_hgemm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Several optimization methods of half-precision general matrix multiplication (HGEMM) using tensor core with WMMA API and MMA PTX instruction.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

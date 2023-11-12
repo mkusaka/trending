@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-11T02:45:17Z</updated>
+  <updated>2023-11-12T01:43:02Z</updated>
   <subtitle>Daily Trending of XML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>php/doc-pt_br</title>
+    <updated>2023-11-12T01:43:02Z</updated>
+    <id>tag:github.com,2023-11-12:/php/doc-pt_br</id>
+    <link href="https://github.com/php/doc-pt_br" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Brazilian Portuguese translation of the PHP documentation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Repositório da tradução brasileira do Manual do PHP&lt;/h1&gt; &#xA;&lt;p&gt;Veja &lt;a href=&#34;https://github.com/php/doc-pt_br/wiki/Prioridades&#34;&gt;prioridades&lt;/a&gt; e como participar &lt;a href=&#34;https://github.com/php/doc-pt_br/wiki&#34;&gt;na &lt;em&gt;wiki&lt;/em&gt;&lt;/a&gt;. Pequenas correções e sugestões podem ser feitas por &lt;em&gt;issues&lt;/em&gt; ou pelo processo convencional de &lt;em&gt;fork&lt;/em&gt; e &lt;em&gt;pull requests&lt;/em&gt; do GitHub.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/php/doc-pt_br/actions/workflows/build.yaml&#34;&gt;&lt;img src=&#34;https://github.com/php/doc-pt_br/actions/workflows/build.yaml/badge.svg?branch=master&#34; alt=&#34;Build&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://doc.php.net/revcheck.php?p=filesummary&amp;amp;lang=pt_br&#34;&gt;&lt;img src=&#34;http://doc.php.net/images/revcheck/info_revcheck_php_pt_br.png&#34; alt=&#34;Revision script&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-12T01:48:05Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KoBeWi/Metroidvania-System</title>
+    <updated>2023-11-12T01:48:05Z</updated>
+    <id>tag:github.com,2023-11-12:/KoBeWi/Metroidvania-System</id>
+    <link href="https://github.com/KoBeWi/Metroidvania-System" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;General-purpose framework for creating metroidvania games in Godot.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MrEliptik/godot_ui_components</title>
+    <updated>2023-11-12T01:48:05Z</updated>
+    <id>tag:github.com,2023-11-12:/MrEliptik/godot_ui_components</id>
+    <link href="https://github.com/MrEliptik/godot_ui_components" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of UI designs implemented in Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>arkology/ShaderV</title>
+    <updated>2023-11-12T01:48:05Z</updated>
+    <id>tag:github.com,2023-11-12:/arkology/ShaderV</id>
+    <link href="https://github.com/arkology/ShaderV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot Visual Shader Plugin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

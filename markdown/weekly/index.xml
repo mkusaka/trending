@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Markdown Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-12T01:52:00Z</updated>
+  <subtitle>Weekly Trending of Markdown in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TonyCrane/PracticalSkillsTutorial</title>
+    <updated>2023-11-12T01:52:00Z</updated>
+    <id>tag:github.com,2023-11-12:/TonyCrane/PracticalSkillsTutorial</id>
+    <link href="https://github.com/TonyCrane/PracticalSkillsTutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;浙江大学系列朋辈辅学「实用技能拾遗」课程资料仓库&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

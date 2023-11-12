@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-12T01:44:12Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ArcadeTV/neogeo-menu</title>
+    <updated>2023-11-12T01:44:12Z</updated>
+    <id>tag:github.com,2023-11-12:/ArcadeTV/neogeo-menu</id>
+    <link href="https://github.com/ArcadeTV/neogeo-menu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Alternative menu for the 161in1 v3 cart&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openhwgroup/cva6</title>
+    <updated>2023-11-12T01:44:12Z</updated>
+    <id>tag:github.com,2023-11-12:/openhwgroup/cva6</id>
+    <link href="https://github.com/openhwgroup/cva6" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

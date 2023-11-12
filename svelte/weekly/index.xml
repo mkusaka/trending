@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-12T01:57:13Z</updated>
+  <subtitle>Weekly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jill64/parallel-stopwatch</title>
+    <updated>2023-11-12T01:57:13Z</updated>
+    <id>tag:github.com,2023-11-12:/jill64/parallel-stopwatch</id>
+    <link href="https://github.com/jill64/parallel-stopwatch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🕓 Simultaneously start any number of stopwatches and record them individually&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RiadhAdrani/slick-portfolio-svelte</title>
+    <updated>2023-11-12T01:57:13Z</updated>
+    <id>tag:github.com,2023-11-12:/RiadhAdrani/slick-portfolio-svelte</id>
+    <link href="https://github.com/RiadhAdrani/slick-portfolio-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vercel-like style portfolio template for developers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jill64/svelte-input</title>
+    <updated>2023-11-12T01:57:13Z</updated>
+    <id>tag:github.com,2023-11-12:/jill64/svelte-input</id>
+    <link href="https://github.com/jill64/svelte-input" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;➡️ Input component set for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

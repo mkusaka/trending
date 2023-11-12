@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-12T01:47:22Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Bluetab/td-core</title>
+    <updated>2023-11-12T01:47:22Z</updated>
+    <id>tag:github.com,2023-11-12:/Bluetab/td-core</id>
+    <link href="https://github.com/Bluetab/td-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Truedat library for core functionality&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rum-and-code/elixir-utils</title>
+    <updated>2023-11-12T01:47:22Z</updated>
+    <id>tag:github.com,2023-11-12:/rum-and-code/elixir-utils</id>
+    <link href="https://github.com/rum-and-code/elixir-utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A bunch of utility modules to accompany elixir-blueprint&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-11T02:35:43Z</updated>
+  <updated>2023-11-12T01:35:38Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fl1ger/deleg</title>
-    <updated>2023-11-11T02:35:43Z</updated>
-    <id>tag:github.com,2023-11-11:/fl1ger/deleg</id>
-    <link href="https://github.com/fl1ger/deleg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extensible Delegation for DNS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openshift/lightspeed-service</title>
-    <updated>2023-11-11T02:35:43Z</updated>
-    <id>tag:github.com,2023-11-11:/openshift/lightspeed-service</id>
-    <link href="https://github.com/openshift/lightspeed-service" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core repository for an AI-powered OCP assistant service&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>openhue/openhue-api</title>
+    <updated>2023-11-12T01:35:38Z</updated>
+    <id>tag:github.com,2023-11-12:/openhue/openhue-api</id>
+    <link href="https://github.com/openhue/openhue-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenHue API is an open-source project that provides a comprehensive OpenAPI specification for the Philips Hue REST API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

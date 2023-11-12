@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub F# Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-12T01:47:38Z</updated>
+  <subtitle>Weekly Trending of F# in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ionide/ionide-analyzers</title>
+    <updated>2023-11-12T01:47:38Z</updated>
+    <id>tag:github.com,2023-11-12:/ionide/ionide-analyzers</id>
+    <link href="https://github.com/ionide/ionide-analyzers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ionide.Analyzers&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.nuget.org/packages/Ionide.Analyzers/absoluteLatest&#34;&gt;&lt;img src=&#34;https://img.shields.io/nuget/vpre/Ionide.Analyzers?style=flat-square&#34; alt=&#34;Nuget (with prereleases)&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;An fsharp community project containing &lt;a href=&#34;https://ionide.io/FSharp.Analyzers.SDK/&#34;&gt;analyzers&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Running these analyzers&lt;/h2&gt; &#xA;&lt;p&gt;To run these analyzers you need to download the &lt;a href=&#34;https://www.nuget.org/packages/fsharp-analyzers&#34;&gt;fsharp-analyzers tool&lt;/a&gt; and this &lt;a href=&#34;https://www.nuget.org/packages/Ionide.Analyzers/absoluteLatest&#34;&gt;NuGet package&lt;/a&gt;.&lt;br&gt; Learn more on getting started in the &lt;a href=&#34;https://ionide.io/FSharp.Analyzers.SDK/content/Getting%20Started%20Using.html&#34;&gt;SDK documentation&lt;/a&gt; or follow this &lt;a href=&#34;https://ionide.io/ionide-analyzers/#Quick-start&#34;&gt;quick start guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Getting started contributing!&lt;/h2&gt; &#xA;&lt;p&gt;Get started in no time using our &lt;a href=&#34;https://ionide.io/ionide-analyzers/content/contributions.html&#34;&gt;docs&lt;/a&gt;!&lt;/p&gt; &#xA;&lt;h2&gt;Running the documentation&lt;/h2&gt; &#xA;&lt;p&gt;Run &lt;code&gt;dotnet fsi build.fsx -p Docs&lt;/code&gt; to run the documentation locally.&lt;/p&gt;</summary>
+  </entry>
+</feed>

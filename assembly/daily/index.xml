@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-11T02:24:15Z</updated>
+  <updated>2023-11-12T01:28:24Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BrokeStudio/rainbow-net</title>
-    <updated>2023-11-11T02:24:15Z</updated>
-    <id>tag:github.com,2023-11-11:/BrokeStudio/rainbow-net</id>
-    <link href="https://github.com/BrokeStudio/rainbow-net" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rainbow Net Wi-Fi protocol for connecting old consoles to the Internet.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

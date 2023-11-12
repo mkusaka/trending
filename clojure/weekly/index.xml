@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-12T01:45:30Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MrJaba/autotagger</title>
+    <updated>2023-11-12T01:45:30Z</updated>
+    <id>tag:github.com,2023-11-12:/MrJaba/autotagger</id>
+    <link href="https://github.com/MrJaba/autotagger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Auto Tag Facebook posts by using the DBPedia Spotlight API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jshou/primes</title>
+    <updated>2023-11-12T01:45:30Z</updated>
+    <id>tag:github.com,2023-11-12:/jshou/primes</id>
+    <link href="https://github.com/jshou/primes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;clojure tool for finding the first n prime numbers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

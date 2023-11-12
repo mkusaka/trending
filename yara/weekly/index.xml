@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub YARA Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-12T01:59:07Z</updated>
+  <subtitle>Weekly Trending of YARA in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pressidium/pressidium-yara-rules</title>
+    <updated>2023-11-12T01:59:07Z</updated>
+    <id>tag:github.com,2023-11-12:/pressidium/pressidium-yara-rules</id>
+    <link href="https://github.com/pressidium/pressidium-yara-rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Welcome to the Pressidium® Yara Rules repository. This section contains a carefully curated collection of Yara rules specifically designed to detect and prevent WordPress or PHP malware and viruses, ensuring a safer online environment.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

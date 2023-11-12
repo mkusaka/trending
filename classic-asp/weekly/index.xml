@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Classic ASP Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-12T01:45:25Z</updated>
+  <subtitle>Weekly Trending of Classic ASP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cbrooker/FAQMan</title>
+    <updated>2023-11-12T01:45:25Z</updated>
+    <id>tag:github.com,2023-11-12:/cbrooker/FAQMan</id>
+    <link href="https://github.com/cbrooker/FAQMan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sean1194/mingdaoMaster</title>
+    <updated>2023-11-12T01:45:25Z</updated>
+    <id>tag:github.com,2023-11-12:/sean1194/mingdaoMaster</id>
+    <link href="https://github.com/sean1194/mingdaoMaster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

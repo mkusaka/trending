@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-11T02:36:41Z</updated>
+  <updated>2023-11-12T01:36:16Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Altinn/altinn-studio-charts</title>
+    <updated>2023-11-12T01:36:16Z</updated>
+    <id>tag:github.com,2023-11-12:/Altinn/altinn-studio-charts</id>
+    <link href="https://github.com/Altinn/altinn-studio-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for Altinn Studio apps.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>statisticsnorway/dapla-lab-helm-charts-services</title>
+    <updated>2023-11-12T01:36:16Z</updated>
+    <id>tag:github.com,2023-11-12:/statisticsnorway/dapla-lab-helm-charts-services</id>
+    <link href="https://github.com/statisticsnorway/dapla-lab-helm-charts-services" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for primarily use in Dapla Lab&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

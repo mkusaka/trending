@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ActionScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-12T01:43:45Z</updated>
+  <subtitle>Weekly Trending of ActionScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vanjan/tour-de-flex</title>
+    <updated>2023-11-12T01:43:45Z</updated>
+    <id>tag:github.com,2023-11-12:/vanjan/tour-de-flex</id>
+    <link href="https://github.com/vanjan/tour-de-flex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Krelix/FlixelTemplate</title>
+    <updated>2023-11-12T01:43:45Z</updated>
+    <id>tag:github.com,2023-11-12:/Krelix/FlixelTemplate</id>
+    <link href="https://github.com/Krelix/FlixelTemplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A basic compiling game template for flixel.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lucaju/Shaping-the-City</title>
+    <updated>2023-11-12T01:43:45Z</updated>
+    <id>tag:github.com,2023-11-12:/lucaju/Shaping-the-City</id>
+    <link href="https://github.com/lucaju/Shaping-the-City" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

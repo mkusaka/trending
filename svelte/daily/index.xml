@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-11T02:43:08Z</updated>
+  <updated>2023-11-12T01:41:09Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>getoslash/oslash</title>
-    <updated>2023-11-11T02:43:08Z</updated>
-    <id>tag:github.com,2023-11-11:/getoslash/oslash</id>
-    <link href="https://github.com/getoslash/oslash" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OSlash is an open-source browser extension that lets you convert your URLs into simple, readable, and memorable shortcuts. Contact opensource@oslash.com for support&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NationalLibraryOfNorway/trokk</title>
+    <updated>2023-11-12T01:41:09Z</updated>
+    <id>tag:github.com,2023-11-12:/NationalLibraryOfNorway/trokk</id>
+    <link href="https://github.com/NationalLibraryOfNorway/trokk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>joysofcode/motion-svg</title>
+    <updated>2023-11-12T01:41:09Z</updated>
+    <id>tag:github.com,2023-11-12:/joysofcode/motion-svg</id>
+    <link href="https://github.com/joysofcode/motion-svg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥 Svelte SVG animation library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
