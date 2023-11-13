@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-12T01:40:45Z</updated>
+  <updated>2023-11-13T01:40:15Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>coinbase/verifications</title>
-    <updated>2023-11-12T01:40:45Z</updated>
-    <id>tag:github.com,2023-11-12:/coinbase/verifications</id>
-    <link href="https://github.com/coinbase/verifications" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📜 &#34;Coinbase Verifications&#34; is a set of Coinbase-verified onchain attestations that enable access to apps and other onchain benefits.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2023-11-kelp</title>
+    <updated>2023-11-13T01:40:15Z</updated>
+    <id>tag:github.com,2023-11-13:/code-423n4/2023-11-kelp</id>
+    <link href="https://github.com/code-423n4/2023-11-kelp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Cyfrin/2023-11-Boss-Bridge</title>
-    <updated>2023-11-12T01:40:45Z</updated>
-    <id>tag:github.com,2023-11-12:/Cyfrin/2023-11-Boss-Bridge</id>
-    <link href="https://github.com/Cyfrin/2023-11-Boss-Bridge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>skalenetwork/paymaster</title>
+    <updated>2023-11-13T01:40:15Z</updated>
+    <id>tag:github.com,2023-11-13:/skalenetwork/paymaster</id>
+    <link href="https://github.com/skalenetwork/paymaster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A system that collects SKALE chain fee and distribute it across validators.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

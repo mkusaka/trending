@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-12T01:29:55Z</updated>
+  <updated>2023-11-13T01:27:24Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eval/bbangsearch</title>
+    <updated>2023-11-13T01:27:24Z</updated>
+    <id>tag:github.com,2023-11-13:/eval/bbangsearch</id>
+    <link href="https://github.com/eval/bbangsearch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DuckDuckGo&#39;s bang searches from the terminal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lanjoni/clojure4noobs</title>
+    <updated>2023-11-13T01:27:24Z</updated>
+    <id>tag:github.com,2023-11-13:/lanjoni/clojure4noobs</id>
+    <link href="https://github.com/lanjoni/clojure4noobs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tutorial para iniciantes em Clojure! ☕&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub mcfunction Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-12T01:35:47Z</updated>
+  <updated>2023-11-13T01:33:51Z</updated>
   <subtitle>Daily Trending of mcfunction in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Hirxs-MC/FD-Bedrock-development</title>
+    <updated>2023-11-13T01:33:51Z</updated>
+    <id>tag:github.com,2023-11-13:/Hirxs-MC/FD-Bedrock-development</id>
+    <link href="https://github.com/Hirxs-MC/FD-Bedrock-development" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Short Desc - Ever wanted to recreate the restaurant from FNAF 1/2/3/4 and MORE in Minecraft? Well, now you can do it with FNAF&#39;s Decorations, this addon adds a wide variety of blocks to decorate, obviously inspired by the FNAF 1/2 restaurant!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

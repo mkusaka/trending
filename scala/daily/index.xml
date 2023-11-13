@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-12T01:40:02Z</updated>
+  <updated>2023-11-13T01:39:13Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nulab/play2-auth-sample</title>
-    <updated>2023-11-12T01:40:02Z</updated>
-    <id>tag:github.com,2023-11-12:/nulab/play2-auth-sample</id>
-    <link href="https://github.com/nulab/play2-auth-sample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is sample code for authentication&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;play2-auth-sample&lt;/h1&gt; &#xA;&lt;p&gt;This repository is sample code for authentication&lt;/p&gt;</summary>
-  </entry>
 </feed>

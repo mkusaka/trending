@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-12T01:42:38Z</updated>
+  <updated>2023-11-13T01:42:03Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>toeverything/AFFiNE.pro</title>
+    <updated>2023-11-13T01:42:03Z</updated>
+    <id>tag:github.com,2023-11-13:/toeverything/AFFiNE.pro</id>
+    <link href="https://github.com/toeverything/AFFiNE.pro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AFFiNE official website, source for affine.pro&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Code-Pop/Real-World-Vue-3-New-Syntax</title>
+    <updated>2023-11-13T01:42:03Z</updated>
+    <id>tag:github.com,2023-11-13:/Code-Pop/Real-World-Vue-3-New-Syntax</id>
+    <link href="https://github.com/Code-Pop/Real-World-Vue-3-New-Syntax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hslr-s/sun-panel</title>
+    <updated>2023-11-13T01:42:03Z</updated>
+    <id>tag:github.com,2023-11-13:/hslr-s/sun-panel</id>
+    <link href="https://github.com/hslr-s/sun-panel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个NAS导航面板、Homepage、浏览器首页。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

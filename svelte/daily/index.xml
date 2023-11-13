@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-12T01:41:09Z</updated>
+  <updated>2023-11-13T01:40:41Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NationalLibraryOfNorway/trokk</title>
-    <updated>2023-11-12T01:41:09Z</updated>
-    <id>tag:github.com,2023-11-12:/NationalLibraryOfNorway/trokk</id>
-    <link href="https://github.com/NationalLibraryOfNorway/trokk" rel="alternate"></link>
+    <title>Dsek-LTH/web</title>
+    <updated>2023-11-13T01:40:41Z</updated>
+    <id>tag:github.com,2023-11-13:/Dsek-LTH/web</id>
+    <link href="https://github.com/Dsek-LTH/web" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>joysofcode/motion-svg</title>
-    <updated>2023-11-12T01:41:09Z</updated>
-    <id>tag:github.com,2023-11-12:/joysofcode/motion-svg</id>
-    <link href="https://github.com/joysofcode/motion-svg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥 Svelte SVG animation library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>techniq/layerchart</title>
+    <updated>2023-11-13T01:40:41Z</updated>
+    <id>tag:github.com,2023-11-13:/techniq/layerchart</id>
+    <link href="https://github.com/techniq/layerchart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Composable Svelte chart components to build a wide range of visualizations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>any-tdf/stdf</title>
+    <updated>2023-11-13T01:40:41Z</updated>
+    <id>tag:github.com,2023-11-13:/any-tdf/stdf</id>
+    <link href="https://github.com/any-tdf/stdf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mobile web component library based on Svelte and Tailwind&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

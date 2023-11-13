@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-12T01:40:12Z</updated>
+  <updated>2023-11-13T01:39:28Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>okp4/okp4-web</title>
-    <updated>2023-11-12T01:40:12Z</updated>
-    <id>tag:github.com,2023-11-12:/okp4/okp4-web</id>
-    <link href="https://github.com/okp4/okp4-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌐 OKP4 web site&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
