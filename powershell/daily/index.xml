@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-13T01:36:42Z</updated>
+  <updated>2023-11-14T01:37:48Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ping11700/GitHubHostScript</title>
-    <updated>2023-11-13T01:36:42Z</updated>
-    <id>tag:github.com,2023-11-13:/ping11700/GitHubHostScript</id>
-    <link href="https://github.com/ping11700/GitHubHostScript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GitHub Host automatic script by powershell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GitHubHostScript&lt;/h1&gt; &#xA;&lt;p&gt;GitHub Host automatic script by powershell&lt;/p&gt; &#xA;&lt;p&gt;自动修改localHosts, 连接GitHub.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>xamarin/android-api-docs</title>
-    <updated>2023-11-13T01:36:42Z</updated>
-    <id>tag:github.com,2023-11-13:/xamarin/android-api-docs</id>
-    <link href="https://github.com/xamarin/android-api-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Android API documentation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Xamarin.Android API Documentation&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains the &lt;a href=&#34;http://docs.go-mono.com/?link=man%3amdoc(5)&#34;&gt;&lt;strong&gt;mdoc&lt;/strong&gt;&lt;/a&gt;(5) format documentation for the assemblies bundled with Xamarin.Android.&lt;/p&gt; &#xA;&lt;h2&gt;Scripts included in the repository&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;make all&lt;/code&gt;: run &lt;code&gt;mdoc validate&lt;/code&gt; to verify the syntax of the documentation in the repository&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;make assemble&lt;/code&gt;: Create &lt;a href=&#34;http://docs.go-mono.com/?link=man%3amdoc(5)&#34;&gt;&lt;strong&gt;mdoc&lt;/strong&gt;&lt;/a&gt; documentation bundles for installation.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;make install&lt;/code&gt;: Install the documentation bundles into Mono.framework on OS X.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Visualizing the documentation with macdoc&lt;/h2&gt; &#xA;&lt;p&gt;Run macdoc by passing the absolute path to the &lt;code&gt;en&lt;/code&gt; directory (i.e. where the &lt;code&gt;index.xml&lt;/code&gt; file is) preprended with the character &lt;code&gt;+&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;/Applications/Xamarin\ Studio.app/Contents/MacOS/MonoDoc.app/Contents/MacOS/macdoc \&#xA;&#39;+/path/to/ios-api-docs/en/&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You need a recent macdoc. You can compile it yourself by cloning &lt;a href=&#34;https://github.com/mono/monomac&#34;&gt;https://github.com/mono/monomac&lt;/a&gt; and running the build process there. Macdoc is under the samples directory.&lt;/p&gt; &#xA;&lt;h2&gt;Microsoft Open Source Code of Conduct&lt;/h2&gt; &#xA;&lt;p&gt;This project has adopted the &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/&#34;&gt;Microsoft Open Source Code of Conduct&lt;/a&gt;. For more information see the &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/faq/&#34;&gt;Code of Conduct FAQ&lt;/a&gt; or contact &lt;a href=&#34;mailto:opencode@microsoft.com&#34;&gt;opencode@microsoft.com&lt;/a&gt; with any additional questions or comments.&lt;/p&gt;</summary>
+    <title>Sam0x90/CTI</title>
+    <updated>2023-11-14T01:37:48Z</updated>
+    <id>tag:github.com,2023-11-14:/Sam0x90/CTI</id>
+    <link href="https://github.com/Sam0x90/CTI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CTI&lt;/h1&gt; &#xA;&lt;p&gt;This repository centralizes my ad-hoc work on CTI. Hopefully useful to someone&lt;/p&gt; &#xA;&lt;p&gt;Twitter: @sam0x90&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-13T01:26:54Z</updated>
+  <updated>2023-11-14T01:26:55Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SecretHQ/seal-cuda</title>
-    <updated>2023-11-13T01:26:54Z</updated>
-    <id>tag:github.com,2023-11-13:/SecretHQ/seal-cuda</id>
-    <link href="https://github.com/SecretHQ/seal-cuda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A GPU implementation of BFV/BGV/CKKS scheme, based on Microsoft SEAL.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;seal-cuda&lt;/h1&gt; &#xA;&lt;p&gt;The homomorphic encryption library implemented on GPU. Seal-cuda includes BFV, BGV, and CKKS scheme. Its implementation referred to the Microsoft SEAL library.&lt;/p&gt; &#xA;&lt;h2&gt;Code structures&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;src&lt;/code&gt; includes the implementation of the library. Just include &lt;code&gt;troy_cuda.cuh&lt;/code&gt; and you are ready to go.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;test&lt;/code&gt; includes the tests.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;extern&lt;/code&gt; includes third-party libraries: googletest and pybind11.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;binder&lt;/code&gt; includes the pybind11 code to encapsulate the C/C++/CUDA interfaces for python.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;app&lt;/code&gt; includes a high-level implementation for computing matrix multiplication and 2d-convolution in HE.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;How to run&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Build the basic library &lt;pre&gt;&lt;code&gt;mkdir build&#xA;cd build&#xA;cmake ..&#xA;make&#xA;cd ..&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt;Run tests &lt;pre&gt;&lt;code&gt;cd build&#xA;ctest&#xA;./test/timetest&#xA;cd ..&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt;Make the module for python &lt;pre&gt;&lt;code&gt;bash makepackage.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
 </feed>

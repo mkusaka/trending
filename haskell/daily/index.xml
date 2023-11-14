@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-13T01:30:59Z</updated>
+  <updated>2023-11-14T01:31:54Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>theRank/chinese-holidays-calendar</title>
-    <updated>2023-11-13T01:30:59Z</updated>
-    <id>tag:github.com,2023-11-13:/theRank/chinese-holidays-calendar</id>
-    <link href="https://github.com/theRank/chinese-holidays-calendar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Calendar of Public Holidays in China &amp; Automatic Alarm Clock 中国大陆节假日日历订阅 自动节假日闹钟&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;中国大陆节假日安排 · 日历订阅&lt;br&gt;&lt;br&gt;Chinese Holidays Calendar&lt;/h1&gt; &#xA;&lt;p&gt;Subscription link of public holidays in mainland China&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Calendar data updated at 8:57 on November 11, 2023&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Demo&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/theRank/chinese-holidays-calendar/main/docs/readme/demo.png&#34; alt=&#34;demo&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;如何订阅&lt;/h2&gt; &#xA;&lt;h3&gt;iOS / iPadOS&lt;/h3&gt; &#xA;&lt;p&gt;日历 - 添加日历 - 添加订阅日历 - 输入链接&lt;br&gt; 「 &lt;a href=&#34;https://ics.github.rank.technology&#34;&gt;https://ics.github.rank.technology&lt;/a&gt; 」&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/theRank/chinese-holidays-calendar/main/docs/readme/ios.jpg&#34; alt=&#34;on iOS&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;macOS&lt;/h3&gt; &#xA;&lt;p&gt;日历 - 文件 - 新建日历订阅 - 输入链接&lt;br&gt; 「 &lt;a href=&#34;https://ics.github.rank.technology&#34;&gt;https://ics.github.rank.technology&lt;/a&gt; 」&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/theRank/chinese-holidays-calendar/main/docs/readme/macos.png&#34; alt=&#34;on macOS&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;为补班添加不同的颜色&lt;/h2&gt; &#xA;&lt;p&gt;分别订阅&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;假期：「 &lt;a href=&#34;https://ics.github.rank.technology/rest.ics&#34;&gt;https://ics.github.rank.technology/rest.ics&lt;/a&gt; 」&lt;/li&gt; &#xA; &lt;li&gt;补班：「 &lt;a href=&#34;https://ics.github.rank.technology/work.ics&#34;&gt;https://ics.github.rank.technology/work.ics&lt;/a&gt; 」&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;给他们分配不同的颜色吧～&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/theRank/chinese-holidays-calendar/main/docs/readme/overview.png&#34; alt=&#34;overview&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;iOS 自动节假日闹钟&lt;/h2&gt; &#xA;&lt;p&gt;在周一至周五、调休补班日期自动打开标签内容包含「工作日闹钟」的闹钟&lt;br&gt; 在周六、周日以及节假日假期自动关闭标签内容包含「工作日闹钟」的闹钟&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.icloud.com/shortcuts/71ddab11837b408188821c3d992e8e4c&#34;&gt;戳此&lt;/a&gt; 导入 iOS 快捷指令脚本，在「快捷指令」App 中设定一个每天凌晨运行的自动化任务吧～&lt;/p&gt; &#xA;&lt;h2&gt;维护者&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/muhac&#34;&gt;@muhac&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.buymeacoffee.com/limuhan&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png&#34; alt=&#34;Buy Me A Coffee&#34; style=&#34;height: 60px !important;width: 217px !important;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>brender/slideshow</title>
-    <updated>2023-11-13T01:30:59Z</updated>
-    <id>tag:github.com,2023-11-13:/brender/slideshow</id>
-    <link href="https://github.com/brender/slideshow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Customizable slideshow written with Elm&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

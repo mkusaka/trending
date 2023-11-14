@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-13T01:39:28Z</updated>
+  <updated>2023-11-14T01:40:12Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>discourse/discourse-category-badge-styles</title>
+    <updated>2023-11-14T01:40:12Z</updated>
+    <id>tag:github.com,2023-11-14:/discourse/discourse-category-badge-styles</id>
+    <link href="https://github.com/discourse/discourse-category-badge-styles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adds the box and bar style for Discourse categories&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>datafuselabs/databend-docs</title>
+    <updated>2023-11-14T01:40:12Z</updated>
+    <id>tag:github.com,2023-11-14:/datafuselabs/databend-docs</id>
+    <link href="https://github.com/datafuselabs/databend-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Databend Documentation: https://databend.rs/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

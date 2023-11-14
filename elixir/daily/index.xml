@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-13T01:29:15Z</updated>
+  <updated>2023-11-14T01:29:41Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>teslamate-org/teslamate</title>
-    <updated>2023-11-13T01:29:15Z</updated>
-    <id>tag:github.com,2023-11-13:/teslamate-org/teslamate</id>
-    <link href="https://github.com/teslamate-org/teslamate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A self-hosted data logger for your Tesla 🚘&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>WebDesignPastor/time_manager_all</title>
-    <updated>2023-11-13T01:29:15Z</updated>
-    <id>tag:github.com,2023-11-13:/WebDesignPastor/time_manager_all</id>
-    <link href="https://github.com/WebDesignPastor/time_manager_all" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paradox460/djot</title>
+    <updated>2023-11-14T01:29:41Z</updated>
+    <id>tag:github.com,2023-11-14:/paradox460/djot</id>
+    <link href="https://github.com/paradox460/djot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast Djot parser for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

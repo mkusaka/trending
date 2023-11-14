@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-13T01:31:11Z</updated>
+  <updated>2023-11-14T01:32:10Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jremo25/project1</title>
-    <updated>2023-11-13T01:31:11Z</updated>
-    <id>tag:github.com,2023-11-13:/jremo25/project1</id>
-    <link href="https://github.com/jremo25/project1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-yc-modules/terraform-yc-kubernetes</title>
-    <updated>2023-11-13T01:31:11Z</updated>
-    <id>tag:github.com,2023-11-13:/terraform-yc-modules/terraform-yc-kubernetes</id>
-    <link href="https://github.com/terraform-yc-modules/terraform-yc-kubernetes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kzzzr/dbt_clickhouse_lab</title>
-    <updated>2023-11-13T01:31:11Z</updated>
-    <id>tag:github.com,2023-11-13:/kzzzr/dbt_clickhouse_lab</id>
-    <link href="https://github.com/kzzzr/dbt_clickhouse_lab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DWH powered by Clickhouse and dbt&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

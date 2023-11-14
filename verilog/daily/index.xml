@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-13T01:41:47Z</updated>
+  <updated>2023-11-14T01:42:46Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TinyTapeout/tinytapeout-05</title>
-    <updated>2023-11-13T01:41:47Z</updated>
-    <id>tag:github.com,2023-11-13:/TinyTapeout/tinytapeout-05</id>
-    <link href="https://github.com/TinyTapeout/tinytapeout-05" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tiny Tapeout 05 shuttle repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>russeree/nyan-keys-ice40hx4k-bitstream</title>
+    <updated>2023-11-14T01:42:46Z</updated>
+    <id>tag:github.com,2023-11-14:/russeree/nyan-keys-ice40hx4k-bitstream</id>
+    <link href="https://github.com/russeree/nyan-keys-ice40hx4k-bitstream" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A 60% Low Latency FPGA Mech Keyboard&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

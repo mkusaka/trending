@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-13T01:36:03Z</updated>
+  <updated>2023-11-14T01:37:17Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kitt-vl/xdebug-perl-client</title>
-    <updated>2023-11-13T01:36:03Z</updated>
-    <id>tag:github.com,2023-11-13:/kitt-vl/xdebug-perl-client</id>
-    <link href="https://github.com/kitt-vl/xdebug-perl-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;console client for php (and other) debugger whith XDBG protocol. Written on Perl&lt;/p&gt;&lt;hr&gt;&lt;p&gt;PROGRAM Console client for DBGp protorol. Primary designed for debug php with xdebug extension.&lt;/p&gt; &#xA;&lt;p&gt;AUTHOR kitt &lt;a href=&#34;mailto:kitt-vl@ya.ru&#34;&gt;kitt-vl@ya.ru&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;LICENSE GNU GENERAL PUBLIC LICENSE Version 3, see file LICENSE.txt for full text.&lt;/p&gt;</summary>
-  </entry>
 </feed>

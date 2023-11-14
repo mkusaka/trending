@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-13T01:38:51Z</updated>
+  <updated>2023-11-14T01:39:30Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>appdev-projects/very-best-debug</title>
-    <updated>2023-11-13T01:38:51Z</updated>
-    <id>tag:github.com,2023-11-13:/appdev-projects/very-best-debug</id>
-    <link href="https://github.com/appdev-projects/very-best-debug" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;very-best-debug&lt;/h1&gt; &#xA;&lt;p&gt;Target: &lt;a href=&#34;https://very-best-debug.matchthetarget.com/&#34;&gt;https://very-best-debug.matchthetarget.com/&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>jesseduffield/homebrew-lazygit</title>
+    <updated>2023-11-14T01:39:30Z</updated>
+    <id>tag:github.com,2023-11-14:/jesseduffield/homebrew-lazygit</id>
+    <link href="https://github.com/jesseduffield/homebrew-lazygit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Homebrew Repo for Lazygit, a UI Terminal for git&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;homebrew-lazygit&lt;/h1&gt; &#xA;&lt;p&gt;Homebrew Repo for Lazygit, a UI Terminal for git&lt;/p&gt;</summary>
   </entry>
 </feed>
