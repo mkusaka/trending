@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-14T01:43:03Z</updated>
+  <updated>2023-11-15T01:41:56Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SandraRodgers/Ask-AI</title>
-    <updated>2023-11-14T01:43:03Z</updated>
-    <id>tag:github.com,2023-11-14:/SandraRodgers/Ask-AI</id>
-    <link href="https://github.com/SandraRodgers/Ask-AI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>liyupi/codefather</title>
-    <updated>2023-11-14T01:43:03Z</updated>
-    <id>tag:github.com,2023-11-14:/liyupi/codefather</id>
-    <link href="https://github.com/liyupi/codefather" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;程序员鱼皮的编程宝典。原创编程学习路线，包括全面的知识点、免费资源、面试题、学习建议、项目，适用于所有学习编程、求职的同学。已完成 Java、前端&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>0140454/hackbar</title>
-    <updated>2023-11-14T01:43:03Z</updated>
-    <id>tag:github.com,2023-11-14:/0140454/hackbar</id>
-    <link href="https://github.com/0140454/hackbar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A browser extension for Penetration Testing&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

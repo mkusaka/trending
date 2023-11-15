@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-14T01:41:26Z</updated>
+  <updated>2023-11-15T01:40:21Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CTNicholas/svelte-runes-realtime-drawing</title>
-    <updated>2023-11-14T01:41:26Z</updated>
-    <id>tag:github.com,2023-11-14:/CTNicholas/svelte-runes-realtime-drawing</id>
-    <link href="https://github.com/CTNicholas/svelte-runes-realtime-drawing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Real-time drawing app built with Svelte 5 runes, powered by Liveblocks.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jill64/svelte-html</title>
-    <updated>2023-11-14T01:41:26Z</updated>
-    <id>tag:github.com,2023-11-14:/jill64/svelte-html</id>
-    <link href="https://github.com/jill64/svelte-html" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏷️ Declarative attribute binding for the root html element&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feltjs/felt_website</title>
-    <updated>2023-11-14T01:41:26Z</updated>
-    <id>tag:github.com,2023-11-14:/feltjs/felt_website</id>
-    <link href="https://github.com/feltjs/felt_website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;web tools that feel good&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PhotoFolder/PhotoFolder</title>
+    <updated>2023-11-15T01:40:21Z</updated>
+    <id>tag:github.com,2023-11-15:/PhotoFolder/PhotoFolder</id>
+    <link href="https://github.com/PhotoFolder/PhotoFolder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;File explorer made for pictures - Auto detect faces and objects locally&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

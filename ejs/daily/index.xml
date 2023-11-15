@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-14T01:29:38Z</updated>
+  <updated>2023-11-15T01:29:38Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>YusufCaymazZ/ipssolidarity</title>
-    <updated>2023-11-14T01:29:38Z</updated>
-    <id>tag:github.com,2023-11-14:/YusufCaymazZ/ipssolidarity</id>
-    <link href="https://github.com/YusufCaymazZ/ipssolidarity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The working environment of the ipss project team&#39;s web team&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>17pxy/haxball-dashboard</title>
-    <updated>2023-11-14T01:29:38Z</updated>
-    <id>tag:github.com,2023-11-14:/17pxy/haxball-dashboard</id>
-    <link href="https://github.com/17pxy/haxball-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web application that will allow you to manage your haxball host using haxball-discord-script&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>johnkuefler/23WF-NodeExpress-CS300</title>
+    <updated>2023-11-15T01:29:38Z</updated>
+    <id>tag:github.com,2023-11-15:/johnkuefler/23WF-NodeExpress-CS300</id>
+    <link href="https://github.com/johnkuefler/23WF-NodeExpress-CS300" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Created with StackBlitz ⚡️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-14T01:36:02Z</updated>
+  <updated>2023-11-15T01:35:42Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Platonic-Systems/process-compose-flake</title>
-    <updated>2023-11-14T01:36:02Z</updated>
-    <id>tag:github.com,2023-11-14:/Platonic-Systems/process-compose-flake</id>
-    <link href="https://github.com/Platonic-Systems/process-compose-flake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A `flake-parts` module to spin up processes for development by leveraging `process-compose`&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>polygon/audio.nix</title>
+    <updated>2023-11-15T01:35:42Z</updated>
+    <id>tag:github.com,2023-11-15:/polygon/audio.nix</id>
+    <link href="https://github.com/polygon/audio.nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Assorted audio packages for Nix(OS)/Linux.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

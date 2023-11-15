@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-14T01:26:11Z</updated>
+  <updated>2023-11-15T01:25:56Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Keyz400/rdp_ngrok</title>
+    <updated>2023-11-15T01:25:56Z</updated>
+    <id>tag:github.com,2023-11-15:/Keyz400/rdp_ngrok</id>
+    <link href="https://github.com/Keyz400/rdp_ngrok" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>inNENU/resource</title>
+    <updated>2023-11-15T01:25:56Z</updated>
+    <id>tag:github.com,2023-11-15:/inNENU/resource</id>
+    <link href="https://github.com/inNENU/resource" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;inNENU 资源文件&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tronables/Worm-GPT</title>
+    <updated>2023-11-15T01:25:56Z</updated>
+    <id>tag:github.com,2023-11-15:/tronables/Worm-GPT</id>
+    <link href="https://github.com/tronables/Worm-GPT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WormGPT is a malicious AI tool promoted on the dark web as the adversary of ChatGPT. It automates the creation of convincing personalized fake emails, aiding in criminal activities like phishing and malware installation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-14T01:33:37Z</updated>
+  <updated>2023-11-15T01:33:35Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fredrikekre/Prometheus.jl</title>
-    <updated>2023-11-14T01:33:37Z</updated>
-    <id>tag:github.com,2023-11-14:/fredrikekre/Prometheus.jl</id>
-    <link href="https://github.com/fredrikekre/Prometheus.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Prometheus client for Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nathanaelbosch/Fenrir.jl</title>
-    <updated>2023-11-14T01:33:37Z</updated>
-    <id>tag:github.com,2023-11-14:/nathanaelbosch/Fenrir.jl</id>
-    <link href="https://github.com/nathanaelbosch/Fenrir.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Physics-Enhanced Regression for Initial Value Problems&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>svilupp/PromptingTools.jl</title>
-    <updated>2023-11-14T01:33:37Z</updated>
-    <id>tag:github.com,2023-11-14:/svilupp/PromptingTools.jl</id>
-    <link href="https://github.com/svilupp/PromptingTools.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Streamline your life using PromptingTools.jl, the Julia package that simplifies interacting with large language models.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TARGENE/TMLE.jl</title>
+    <updated>2023-11-15T01:33:35Z</updated>
+    <id>tag:github.com,2023-11-15:/TARGENE/TMLE.jl</id>
+    <link href="https://github.com/TARGENE/TMLE.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pure Julia implementation of the Targeted Minimum Loss-based Estimation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

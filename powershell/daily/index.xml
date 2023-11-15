@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-14T01:37:48Z</updated>
+  <updated>2023-11-15T01:37:13Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Sam0x90/CTI</title>
-    <updated>2023-11-14T01:37:48Z</updated>
-    <id>tag:github.com,2023-11-14:/Sam0x90/CTI</id>
-    <link href="https://github.com/Sam0x90/CTI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CTI&lt;/h1&gt; &#xA;&lt;p&gt;This repository centralizes my ad-hoc work on CTI. Hopefully useful to someone&lt;/p&gt; &#xA;&lt;p&gt;Twitter: @sam0x90&lt;/p&gt;</summary>
-  </entry>
 </feed>
