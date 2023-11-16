@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-15T01:31:41Z</updated>
+  <updated>2023-11-16T01:35:52Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>womfoo/timesheet</title>
-    <updated>2023-11-15T01:31:41Z</updated>
-    <id>tag:github.com,2023-11-15:/womfoo/timesheet</id>
-    <link href="https://github.com/womfoo/timesheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Creates a timesheet based on the earliest and latest windows event log entries for the day&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aivuk/lang-evol</title>
+    <updated>2023-11-16T01:35:52Z</updated>
+    <id>tag:github.com,2023-11-16:/aivuk/lang-evol</id>
+    <link href="https://github.com/aivuk/lang-evol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Language Evolution Model&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Walther/euler</title>
+    <updated>2023-11-16T01:35:52Z</updated>
+    <id>tag:github.com,2023-11-16:/Walther/euler</id>
+    <link href="https://github.com/Walther/euler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Walther&#39;s Project Euler repository&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;euler&lt;/h1&gt; &#xA;&lt;p&gt;Walther&#39;s Project Euler repository&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://static.projecteuler.net/&#34;&gt;Project Euler&lt;/a&gt; is a website containing hundreds of computing / programming problems centered around mathematics.&lt;/p&gt; &#xA;&lt;p&gt;This repository contains my solutions to some of those problems, written in Haskell. In many cases I&#39;ve created generic functions that can be used with other parameters as well - however, the &lt;code&gt;main&lt;/code&gt; functions always include the parameters specified in the problem.&lt;/p&gt; &#xA;&lt;p&gt;This means you can:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;execute any of the problems by running &lt;code&gt;runhaskell problem&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;open up a &lt;code&gt;ghci&lt;/code&gt;, &lt;code&gt;:load problem&lt;/code&gt;, and try the functions with different parameters,&lt;/li&gt; &#xA; &lt;li&gt;look at the implementations and potentially use the functions elsewhere&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Please remember: solving Project Euler tasks is more about learning than the score of completed exercises. Do yourself a favour and don&#39;t cheat :)&lt;/p&gt;</summary>
   </entry>
 </feed>

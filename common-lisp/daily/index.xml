@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-15T01:27:38Z</updated>
+  <updated>2023-11-16T01:30:35Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Immotian/LispRL</title>
+    <updated>2023-11-16T01:30:35Z</updated>
+    <id>tag:github.com,2023-11-16:/Immotian/LispRL</id>
+    <link href="https://github.com/Immotian/LispRL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple roguelike written in Common Lisp -- Currently nonfunctional&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Use vikeys to move NSEW Use q to quit&lt;/p&gt;</summary>
+  </entry>
 </feed>

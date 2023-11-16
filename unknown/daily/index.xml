@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-15T01:24:41Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-11-16T01:26:44Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pandora-next/deploy</title>
-    <updated>2023-11-15T01:24:41Z</updated>
-    <id>tag:github.com,2023-11-15:/pandora-next/deploy</id>
-    <link href="https://github.com/pandora-next/deploy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PandoraNext部署文档仓库。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vectara/hallucination-leaderboard</title>
+    <updated>2023-11-16T01:26:44Z</updated>
+    <id>tag:github.com,2023-11-16:/vectara/hallucination-leaderboard</id>
+    <link href="https://github.com/vectara/hallucination-leaderboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>piyushsachdeva/AzureDevOps-Zero-to-Hero</title>
-    <updated>2023-11-15T01:24:41Z</updated>
-    <id>tag:github.com,2023-11-15:/piyushsachdeva/AzureDevOps-Zero-to-Hero</id>
-    <link href="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devisasari/awesome-chatgpt-store</title>
+    <updated>2023-11-16T01:26:44Z</updated>
+    <id>tag:github.com,2023-11-16:/devisasari/awesome-chatgpt-store</id>
+    <link href="https://github.com/devisasari/awesome-chatgpt-store" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome custom GPTs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EmbraceAGI/Awesome-AI-GPTs</title>
-    <updated>2023-11-15T01:24:41Z</updated>
-    <id>tag:github.com,2023-11-15:/EmbraceAGI/Awesome-AI-GPTs</id>
-    <link href="https://github.com/EmbraceAGI/Awesome-AI-GPTs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PJLab-ADG/GPT4V-AD-Exploration</title>
+    <updated>2023-11-16T01:26:44Z</updated>
+    <id>tag:github.com,2023-11-16:/PJLab-ADG/GPT4V-AD-Exploration</id>
+    <link href="https://github.com/PJLab-ADG/GPT4V-AD-Exploration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

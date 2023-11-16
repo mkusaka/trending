@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-15T01:39:24Z</updated>
+  <updated>2023-11-16T01:44:47Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MyEtherWallet/MyEtherWallet</title>
-    <updated>2023-11-15T01:39:24Z</updated>
-    <id>tag:github.com,2023-11-15:/MyEtherWallet/MyEtherWallet</id>
-    <link href="https://github.com/MyEtherWallet/MyEtherWallet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

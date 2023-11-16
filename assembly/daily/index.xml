@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-15T01:25:41Z</updated>
+  <updated>2023-11-16T01:27:53Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pexip/os-fribidi</title>
-    <updated>2023-11-15T01:25:41Z</updated>
-    <id>tag:github.com,2023-11-15:/pexip/os-fribidi</id>
-    <link href="https://github.com/pexip/os-fribidi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Packaging for fribidi&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>azya52/BrickEmuPy</title>
+    <updated>2023-11-16T01:27:53Z</updated>
+    <id>tag:github.com,2023-11-16:/azya52/BrickEmuPy</id>
+    <link href="https://github.com/azya52/BrickEmuPy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Brick Game (aka Tetris) emulator in Python with PyQt6&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mirleims/MATA49_TRAB_FINAL</title>
-    <updated>2023-11-15T01:25:41Z</updated>
-    <id>tag:github.com,2023-11-15:/mirleims/MATA49_TRAB_FINAL</id>
-    <link href="https://github.com/mirleims/MATA49_TRAB_FINAL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NesHacker/GameBoyDev</title>
+    <updated>2023-11-16T01:27:53Z</updated>
+    <id>tag:github.com,2023-11-16:/NesHacker/GameBoyDev</id>
+    <link href="https://github.com/NesHacker/GameBoyDev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demo Game for the &#34;Game Boy Development Environment&#34; Video&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iandimayuga/subwars-mips</title>
+    <updated>2023-11-16T01:27:53Z</updated>
+    <id>tag:github.com,2023-11-16:/iandimayuga/subwars-mips</id>
+    <link href="https://github.com/iandimayuga/subwars-mips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Submarine Warfare Simulator in MIPS - EECS 314 Semester Project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

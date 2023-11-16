@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-15T01:34:47Z</updated>
+  <updated>2023-11-16T01:39:17Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ahnet-69/treble_evo</title>
-    <updated>2023-11-15T01:34:47Z</updated>
-    <id>tag:github.com,2023-11-15:/ahnet-69/treble_evo</id>
-    <link href="https://github.com/ahnet-69/treble_evo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Patches to build Evolution-X as Trebbledroid GSI.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>danbev/learning-nodejs</title>
+    <updated>2023-11-16T01:39:17Z</updated>
+    <id>tag:github.com,2023-11-16:/danbev/learning-nodejs</id>
+    <link href="https://github.com/danbev/learning-nodejs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project for learning Node.js internals&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

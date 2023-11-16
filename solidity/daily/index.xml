@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-15T01:39:57Z</updated>
+  <updated>2023-11-16T01:45:17Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0xIzanagi/Koto</title>
-    <updated>2023-11-15T01:39:57Z</updated>
-    <id>tag:github.com,2023-11-15:/0xIzanagi/Koto</id>
-    <link href="https://github.com/0xIzanagi/Koto" rel="alternate"></link>
+    <title>code-423n4/2023-11-canto</title>
+    <updated>2023-11-16T01:45:17Z</updated>
+    <id>tag:github.com,2023-11-16:/code-423n4/2023-11-canto</id>
+    <link href="https://github.com/code-423n4/2023-11-canto" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>semgrep/semgrep-rules</title>
-    <updated>2023-11-15T01:39:57Z</updated>
-    <id>tag:github.com,2023-11-15:/semgrep/semgrep-rules</id>
-    <link href="https://github.com/semgrep/semgrep-rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Semgrep rules registry&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>morpho-org/morpho-utils</title>
-    <updated>2023-11-15T01:39:57Z</updated>
-    <id>tag:github.com,2023-11-15:/morpho-org/morpho-utils</id>
-    <link href="https://github.com/morpho-org/morpho-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository gathering useful libraries and contracts.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

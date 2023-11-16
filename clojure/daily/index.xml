@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-15T01:27:26Z</updated>
+  <updated>2023-11-16T01:30:22Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mybuddymichael/lets-build-a-compiler-in-clojure</title>
+    <updated>2023-11-16T01:30:22Z</updated>
+    <id>tag:github.com,2023-11-16:/mybuddymichael/lets-build-a-compiler-in-clojure</id>
+    <link href="https://github.com/mybuddymichael/lets-build-a-compiler-in-clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercises from Let&#39;s Build A Compiler, written in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>taoensso/tempel</title>
+    <updated>2023-11-16T01:30:22Z</updated>
+    <id>tag:github.com,2023-11-16:/taoensso/tempel</id>
+    <link href="https://github.com/taoensso/tempel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data security framework for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-15T01:31:53Z</updated>
+  <updated>2023-11-16T01:36:04Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>porscheofficial/terraform-aws-ecr-watch</title>
+    <updated>2023-11-16T01:36:04Z</updated>
+    <id>tag:github.com,2023-11-16:/porscheofficial/terraform-aws-ecr-watch</id>
+    <link href="https://github.com/porscheofficial/terraform-aws-ecr-watch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Dashboard for AWS ECR usage based on CloudWatch log insight queries&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

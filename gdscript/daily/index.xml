@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-15T01:30:38Z</updated>
+  <updated>2023-11-16T01:34:07Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>QualquerRafa/Modern-Memories</title>
-    <updated>2023-11-15T01:30:38Z</updated>
-    <id>tag:github.com,2023-11-15:/QualquerRafa/Modern-Memories</id>
-    <link href="https://github.com/QualquerRafa/Modern-Memories" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern Memories Backup&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>derkork/godot-resource-groups</title>
-    <updated>2023-11-15T01:30:38Z</updated>
-    <id>tag:github.com,2023-11-15:/derkork/godot-resource-groups</id>
-    <link href="https://github.com/derkork/godot-resource-groups" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An add-on for the Godot engine that simplifies handling of resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Donitzo/godot-simple-portal-system</title>
+    <updated>2023-11-16T01:34:07Z</updated>
+    <id>tag:github.com,2023-11-16:/Donitzo/godot-simple-portal-system</id>
+    <link href="https://github.com/Donitzo/godot-simple-portal-system" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple portal system for viewport-based portals in Godot 4.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

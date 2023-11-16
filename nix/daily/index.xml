@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-15T01:35:42Z</updated>
+  <updated>2023-11-16T01:40:34Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>polygon/audio.nix</title>
-    <updated>2023-11-15T01:35:42Z</updated>
-    <id>tag:github.com,2023-11-15:/polygon/audio.nix</id>
-    <link href="https://github.com/polygon/audio.nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Assorted audio packages for Nix(OS)/Linux.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

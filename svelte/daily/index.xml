@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-15T01:40:21Z</updated>
+  <updated>2023-11-16T01:45:40Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PhotoFolder/PhotoFolder</title>
-    <updated>2023-11-15T01:40:21Z</updated>
-    <id>tag:github.com,2023-11-15:/PhotoFolder/PhotoFolder</id>
-    <link href="https://github.com/PhotoFolder/PhotoFolder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;File explorer made for pictures - Auto detect faces and objects locally&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
