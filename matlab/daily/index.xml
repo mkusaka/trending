@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-16T01:39:26Z</updated>
+  <updated>2023-11-17T01:39:17Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>paradisepilot/c-o-u-r-s-e-r-a</title>
-    <updated>2023-11-16T01:39:26Z</updated>
-    <id>tag:github.com,2023-11-16:/paradisepilot/c-o-u-r-s-e-r-a</id>
-    <link href="https://github.com/paradisepilot/c-o-u-r-s-e-r-a" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bmelinden/vbTPM</title>
+    <updated>2023-11-17T01:39:17Z</updated>
+    <id>tag:github.com,2023-11-17:/bmelinden/vbTPM</id>
+    <link href="https://github.com/bmelinden/vbTPM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Analysis of tethered particle motion data using a variational approach to hidden Markov models.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

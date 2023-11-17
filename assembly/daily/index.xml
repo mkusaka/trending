@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-16T01:27:53Z</updated>
+  <updated>2023-11-17T01:27:57Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>azya52/BrickEmuPy</title>
-    <updated>2023-11-16T01:27:53Z</updated>
-    <id>tag:github.com,2023-11-16:/azya52/BrickEmuPy</id>
-    <link href="https://github.com/azya52/BrickEmuPy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Brick Game (aka Tetris) emulator in Python with PyQt6&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NesHacker/GameBoyDev</title>
-    <updated>2023-11-16T01:27:53Z</updated>
-    <id>tag:github.com,2023-11-16:/NesHacker/GameBoyDev</id>
-    <link href="https://github.com/NesHacker/GameBoyDev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo Game for the &#34;Game Boy Development Environment&#34; Video&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>iandimayuga/subwars-mips</title>
-    <updated>2023-11-16T01:27:53Z</updated>
-    <id>tag:github.com,2023-11-16:/iandimayuga/subwars-mips</id>
-    <link href="https://github.com/iandimayuga/subwars-mips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Submarine Warfare Simulator in MIPS - EECS 314 Semester Project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>garry-iglesias/algosup-workshop</title>
+    <updated>2023-11-17T01:27:57Z</updated>
+    <id>tag:github.com,2023-11-17:/garry-iglesias/algosup-workshop</id>
+    <link href="https://github.com/garry-iglesias/algosup-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Algosup Assembly Course Workshop&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

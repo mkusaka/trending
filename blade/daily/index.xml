@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-16T01:28:32Z</updated>
+  <updated>2023-11-17T01:28:32Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>2DAW-CarlosIII/marcapersonalFP23_24</title>
+    <updated>2023-11-17T01:28:32Z</updated>
+    <id>tag:github.com,2023-11-17:/2DAW-CarlosIII/marcapersonalFP23_24</id>
+    <link href="https://github.com/2DAW-CarlosIII/marcapersonalFP23_24" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web marcapersonalFP.es desarrollada como proyecto por un grupo de estudiantes de 2DAW CarlosIII&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

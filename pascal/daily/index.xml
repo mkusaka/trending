@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-16T01:41:28Z</updated>
+  <updated>2023-11-17T01:41:58Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RamonSouza96/LibSys</title>
-    <updated>2023-11-16T01:41:28Z</updated>
-    <id>tag:github.com,2023-11-16:/RamonSouza96/LibSys</id>
-    <link href="https://github.com/RamonSouza96/LibSys" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Coldzer0/ImGui-Pascal</title>
+    <updated>2023-11-17T01:41:58Z</updated>
+    <id>tag:github.com,2023-11-17:/Coldzer0/ImGui-Pascal</id>
+    <link href="https://github.com/Coldzer0/ImGui-Pascal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FreePascal Binding for ImGui with the latest version with docking.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

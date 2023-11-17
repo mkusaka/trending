@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub 1C Enterprise Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-16T01:26:32Z</updated>
+  <updated>2023-11-17T01:26:29Z</updated>
   <subtitle>Daily Trending of 1C Enterprise in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vsilchenkov/sync_repo</title>
+    <updated>2023-11-17T01:26:29Z</updated>
+    <id>tag:github.com,2023-11-17:/vsilchenkov/sync_repo</id>
+    <link href="https://github.com/vsilchenkov/sync_repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Автоматизация обновления конфигурации 1С&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

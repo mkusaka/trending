@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-16T01:40:50Z</updated>
+  <updated>2023-11-17T01:41:03Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>google/app-check</title>
+    <updated>2023-11-17T01:41:03Z</updated>
+    <id>tag:github.com,2023-11-17:/google/app-check</id>
+    <link href="https://github.com/google/app-check" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Google-internal core components of Firebase App Check.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;App Check Core&lt;/h1&gt; &#xA;&lt;p&gt;This library is for internal Google use only. It contains core components of &lt;code&gt;FirebaseAppCheck&lt;/code&gt;, from the &lt;a href=&#34;https://github.com/firebase/firebase-ios-sdk&#34;&gt;&lt;code&gt;firebase-ios-sdk&lt;/code&gt;&lt;/a&gt; project, for use in other Google SDKs. External developers should integrate directly with the &lt;a href=&#34;https://firebase.google.com/docs/app-check&#34;&gt;Firebase App Check SDK&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://raw.githubusercontent.com/google/app-check/main/CONTRIBUTING.md&#34;&gt;Contributing&lt;/a&gt; for more information about contributing to the App Check Core SDK.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;The contents of this repository is licensed under the &lt;a href=&#34;http://www.apache.org/licenses/LICENSE-2.0&#34;&gt;Apache License, version 2.0&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

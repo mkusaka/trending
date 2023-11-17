@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smali Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-16T01:45:09Z</updated>
+  <updated>2023-11-17T01:46:05Z</updated>
   <subtitle>Daily Trending of Smali in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BitWalls-Sec/AndroidHack_BackDoor</title>
+    <updated>2023-11-17T01:46:05Z</updated>
+    <id>tag:github.com,2023-11-17:/BitWalls-Sec/AndroidHack_BackDoor</id>
+    <link href="https://github.com/BitWalls-Sec/AndroidHack_BackDoor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Android-BackDoor is a python and shell script that simplifies the process of adding a backdoor to any Android APK file. It also exploits the Android Debug Bridge to remotely access an Android device.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

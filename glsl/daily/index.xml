@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-16T01:34:37Z</updated>
+  <updated>2023-11-17T01:34:18Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Artoriuz/glsl-chroma-from-luma-prediction</title>
-    <updated>2023-11-16T01:34:37Z</updated>
-    <id>tag:github.com,2023-11-16:/Artoriuz/glsl-chroma-from-luma-prediction</id>
-    <link href="https://github.com/Artoriuz/glsl-chroma-from-luma-prediction" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CfL as a GLSL shader&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dyphire/mpv-config</title>
+    <updated>2023-11-17T01:34:18Z</updated>
+    <id>tag:github.com,2023-11-17:/dyphire/mpv-config</id>
+    <link href="https://github.com/dyphire/mpv-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

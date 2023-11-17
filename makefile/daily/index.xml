@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-16T01:39:17Z</updated>
+  <updated>2023-11-17T01:39:12Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>danbev/learning-nodejs</title>
-    <updated>2023-11-16T01:39:17Z</updated>
-    <id>tag:github.com,2023-11-16:/danbev/learning-nodejs</id>
-    <link href="https://github.com/danbev/learning-nodejs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project for learning Node.js internals&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

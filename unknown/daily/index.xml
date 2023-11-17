@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-16T01:26:44Z</updated>
+  <updated>2023-11-17T01:26:44Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vectara/hallucination-leaderboard</title>
-    <updated>2023-11-16T01:26:44Z</updated>
-    <id>tag:github.com,2023-11-16:/vectara/hallucination-leaderboard</id>
-    <link href="https://github.com/vectara/hallucination-leaderboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>linexjlin/GPTs</title>
+    <updated>2023-11-17T01:26:44Z</updated>
+    <id>tag:github.com,2023-11-17:/linexjlin/GPTs</id>
+    <link href="https://github.com/linexjlin/GPTs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;leaked prompts of GPTs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>devisasari/awesome-chatgpt-store</title>
-    <updated>2023-11-16T01:26:44Z</updated>
-    <id>tag:github.com,2023-11-16:/devisasari/awesome-chatgpt-store</id>
-    <link href="https://github.com/devisasari/awesome-chatgpt-store" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome custom GPTs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LucasPDiniz/403-Bypass</title>
+    <updated>2023-11-17T01:26:44Z</updated>
+    <id>tag:github.com,2023-11-17:/LucasPDiniz/403-Bypass</id>
+    <link href="https://github.com/LucasPDiniz/403-Bypass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bypass 403 pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PJLab-ADG/GPT4V-AD-Exploration</title>
-    <updated>2023-11-16T01:26:44Z</updated>
-    <id>tag:github.com,2023-11-16:/PJLab-ADG/GPT4V-AD-Exploration</id>
-    <link href="https://github.com/PJLab-ADG/GPT4V-AD-Exploration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals</title>
+    <updated>2023-11-17T01:26:44Z</updated>
+    <id>tag:github.com,2023-11-17:/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals</id>
+    <link href="https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🟢 2023 Deals Live - Black Friday &amp; Cyber Monday, Christmas &amp; Holidays Deals for Developers, Techies, &amp; Entrepreneurs,&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
