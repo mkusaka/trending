@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-17T01:42:16Z</updated>
+  <updated>2023-11-18T01:38:48Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>frioux/Git-Validate</title>
+    <updated>2023-11-18T01:38:48Z</updated>
+    <id>tag:github.com,2023-11-18:/frioux/Git-Validate</id>
+    <link href="https://github.com/frioux/Git-Validate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tomdee/FoscamTimelapse</title>
+    <updated>2023-11-18T01:38:48Z</updated>
+    <id>tag:github.com,2023-11-18:/tomdee/FoscamTimelapse</id>
+    <link href="https://github.com/tomdee/FoscamTimelapse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FoscamTimelapse&lt;/h1&gt;</summary>
+  </entry>
 </feed>

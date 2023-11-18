@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-17T01:30:16Z</updated>
+  <updated>2023-11-18T01:29:39Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fractl-io/fractl</title>
-    <updated>2023-11-17T01:30:16Z</updated>
-    <id>tag:github.com,2023-11-17:/fractl-io/fractl</id>
-    <link href="https://github.com/fractl-io/fractl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generative AI-powered Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kolov/xelery</title>
+    <updated>2023-11-18T01:29:39Z</updated>
+    <id>tag:github.com,2023-11-18:/kolov/xelery</id>
+    <link href="https://github.com/kolov/xelery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;XSD Reader&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

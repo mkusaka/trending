@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-17T01:28:19Z</updated>
+  <updated>2023-11-18T01:27:49Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>FlzMVP1/monotone</title>
-    <updated>2023-11-17T01:28:19Z</updated>
-    <id>tag:github.com,2023-11-17:/FlzMVP1/monotone</id>
-    <link href="https://github.com/FlzMVP1/monotone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;hwid spoofer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

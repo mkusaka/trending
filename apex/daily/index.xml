@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-17T01:27:34Z</updated>
+  <updated>2023-11-18T01:27:03Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>navikt/crm-arbeidsgiver-dialog</title>
-    <updated>2023-11-17T01:27:34Z</updated>
-    <id>tag:github.com,2023-11-17:/navikt/crm-arbeidsgiver-dialog</id>
-    <link href="https://github.com/navikt/crm-arbeidsgiver-dialog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

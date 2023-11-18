@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-17T01:29:30Z</updated>
+  <updated>2023-11-18T01:28:56Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Brendan-Kirtlan/Video-Encode</title>
-    <updated>2023-11-17T01:29:30Z</updated>
-    <id>tag:github.com,2023-11-17:/Brendan-Kirtlan/Video-Encode</id>
-    <link href="https://github.com/Brendan-Kirtlan/Video-Encode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Encodes a file into a video format to store on a cloud video hosting service&lt;/p&gt;&lt;hr&gt;&lt;p&gt;A fun project showing a proof of concept I&#39;ve thought about for a while. Since some video hosting services let you store unlimited videos, you can store infinite data if used correctly. This project uses lodepng, ffmpeg, and opencv2 to encode files into video format&lt;/p&gt; &#xA;&lt;p&gt;Video explanation: &lt;a href=&#34;https://youtu.be/_w6PCHutmb4?si=J81z_G9hhyyJ-BBY&#34;&gt;https://youtu.be/_w6PCHutmb4?si=J81z_G9hhyyJ-BBY&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>tandasat/CVE-2023-36427</title>
+    <updated>2023-11-18T01:28:56Z</updated>
+    <id>tag:github.com,2023-11-18:/tandasat/CVE-2023-36427</id>
+    <link href="https://github.com/tandasat/CVE-2023-36427" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Report and exploit of CVE-2023-36427&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CVE-2023-36427&lt;/h1&gt; &#xA;&lt;p&gt;This repo contains the report and exploit of &lt;a href=&#34;https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36427&#34;&gt;CVE-2023-36427&lt;/a&gt;, arbitrary physical memory corruption from the root partition on Windows. The details and exploit of the vulnerability are in the &lt;a href=&#34;https://raw.githubusercontent.com/tandasat/CVE-2023-36427/main/report.md&#34;&gt;report&lt;/a&gt; sent to Microsoft.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=NAhhJkA73mY&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/NAhhJkA73mY/0.jpg&#34; alt=&#34;Demo&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Timeline&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;July 2 - Sent a report to a friend of mine at Microsoft.&lt;/li&gt; &#xA; &lt;li&gt;July 11 - Received a reply from a member of the team responsible for the issue.&lt;/li&gt; &#xA; &lt;li&gt;August 8 - Received a proposal to make the disclosure date November 14.&lt;/li&gt; &#xA; &lt;li&gt;August 9 - Agreed with the proposal.&lt;/li&gt; &#xA; &lt;li&gt;November 14 - A fix released.&lt;/li&gt; &#xA; &lt;li&gt;November 15 - Disclosed the issue. Notified that the issue was eligile for a 2000 USD bounty award.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Thanks MSRC for transparent communication, the engineering team for fixing this on time, and Andrea (&lt;a href=&#34;https://twitter.com/aall86&#34;&gt;@aall86&lt;/a&gt;) for helping me share the issue and connecting with the right folks within Microsoft.&lt;/p&gt;</summary>
   </entry>
 </feed>

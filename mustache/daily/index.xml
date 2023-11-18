@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-17T01:40:00Z</updated>
+  <updated>2023-11-18T01:37:30Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>skillrepos/helm-fun-v2</title>
-    <updated>2023-11-17T01:40:00Z</updated>
-    <id>tag:github.com,2023-11-17:/skillrepos/helm-fun-v2</id>
-    <link href="https://github.com/skillrepos/helm-fun-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mmalyska/home-ops</title>
+    <updated>2023-11-18T01:37:30Z</updated>
+    <id>tag:github.com,2023-11-18:/mmalyska/home-ops</id>
+    <link href="https://github.com/mmalyska/home-ops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for home infrastructure and monorepo for kubernetes cluster&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

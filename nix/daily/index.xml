@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-17T01:40:34Z</updated>
+  <updated>2023-11-18T01:37:48Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nickdobos/PromptGrimoire</title>
-    <updated>2023-11-17T01:40:34Z</updated>
-    <id>tag:github.com,2023-11-17:/nickdobos/PromptGrimoire</id>
-    <link href="https://github.com/nickdobos/PromptGrimoire" rel="alternate"></link>
+    <title>GermanBread/declarative-flatpak</title>
+    <updated>2023-11-18T01:37:48Z</updated>
+    <id>tag:github.com,2023-11-18:/GermanBread/declarative-flatpak</id>
+    <link href="https://github.com/GermanBread/declarative-flatpak" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wireapp/ghc-flakr</title>
+    <updated>2023-11-18T01:37:48Z</updated>
+    <id>tag:github.com,2023-11-18:/wireapp/ghc-flakr</id>
+    <link href="https://github.com/wireapp/ghc-flakr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run Haskell scripts. NOW.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nesto-software/nix-templates</title>
+    <updated>2023-11-18T01:37:48Z</updated>
+    <id>tag:github.com,2023-11-18:/nesto-software/nix-templates</id>
+    <link href="https://github.com/nesto-software/nix-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public Nix templates to nixify projects faster&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
