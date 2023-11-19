@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-19T02:00:47Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Code-Pop/Real-World-Vue-3-New-Syntax</title>
+    <updated>2023-11-19T02:00:47Z</updated>
+    <id>tag:github.com,2023-11-19:/Code-Pop/Real-World-Vue-3-New-Syntax</id>
+    <link href="https://github.com/Code-Pop/Real-World-Vue-3-New-Syntax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>toeverything/AFFiNE.pro</title>
+    <updated>2023-11-19T02:00:47Z</updated>
+    <id>tag:github.com,2023-11-19:/toeverything/AFFiNE.pro</id>
+    <link href="https://github.com/toeverything/AFFiNE.pro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AFFiNE official website, source for affine.pro&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Adamant-im/adamant-wallets</title>
+    <updated>2023-11-19T02:00:47Z</updated>
+    <id>tag:github.com,2023-11-19:/Adamant-im/adamant-wallets</id>
+    <link href="https://github.com/Adamant-im/adamant-wallets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unified coin/token specification for wallets in ADAMANT apps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:36:35Z</updated>
+  <updated>2023-11-19T01:38:38Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NCIP/taverna-grid</title>
-    <updated>2023-11-18T01:36:35Z</updated>
-    <id>tag:github.com,2023-11-18:/NCIP/taverna-grid</id>
-    <link href="https://github.com/NCIP/taverna-grid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The taverna-grid repository is a Taverna Workbench plug-in to support invocation of caGrid 1.x services.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

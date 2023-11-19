@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:35:49Z</updated>
+  <updated>2023-11-19T01:37:36Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>biaslab/GraphPPL.jl</title>
-    <updated>2023-11-18T01:35:49Z</updated>
-    <id>tag:github.com,2023-11-18:/biaslab/GraphPPL.jl</id>
-    <link href="https://github.com/biaslab/GraphPPL.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DSL for probabilistic models specification and probabilistic programming.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lanl/JuliQAOA.jl</title>
+    <updated>2023-11-19T01:37:36Z</updated>
+    <id>tag:github.com,2023-11-19:/lanl/JuliQAOA.jl</id>
+    <link href="https://github.com/lanl/JuliQAOA.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast, flexible package for simulating the Quantum Alternating Operator Ansatz&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mmikhasenko/AlgebraPDF.jl</title>
-    <updated>2023-11-18T01:35:49Z</updated>
-    <id>tag:github.com,2023-11-18:/mmikhasenko/AlgebraPDF.jl</id>
-    <link href="https://github.com/mmikhasenko/AlgebraPDF.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;adding, multiplying density functions, fitting LLH&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sisl/WildfirePOMDPs.jl</title>
+    <updated>2023-11-19T01:37:36Z</updated>
+    <id>tag:github.com,2023-11-19:/sisl/WildfirePOMDPs.jl</id>
+    <link href="https://github.com/sisl/WildfirePOMDPs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wildfire resource allocation MDP and POMDP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

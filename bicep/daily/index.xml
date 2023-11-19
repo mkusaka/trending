@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:27:58Z</updated>
+  <updated>2023-11-19T01:29:54Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure-Samples/azd-deployment-environments</title>
-    <updated>2023-11-18T01:27:58Z</updated>
-    <id>tag:github.com,2023-11-18:/Azure-Samples/azd-deployment-environments</id>
-    <link href="https://github.com/Azure-Samples/azd-deployment-environments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Azd template to help bootstrap an Azure Dev Center with support for Deployment environments&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

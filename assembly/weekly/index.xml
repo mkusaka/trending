@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-19T01:47:02Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>iandimayuga/subwars-mips</title>
+    <updated>2023-11-19T01:47:02Z</updated>
+    <id>tag:github.com,2023-11-19:/iandimayuga/subwars-mips</id>
+    <link href="https://github.com/iandimayuga/subwars-mips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Submarine Warfare Simulator in MIPS - EECS 314 Semester Project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aosm/SystemStubs</title>
+    <updated>2023-11-19T01:47:02Z</updated>
+    <id>tag:github.com,2023-11-19:/aosm/SystemStubs</id>
+    <link href="https://github.com/aosm/SystemStubs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JustinRoll/Assembly_8086</title>
+    <updated>2023-11-19T01:47:02Z</updated>
+    <id>tag:github.com,2023-11-19:/JustinRoll/Assembly_8086</id>
+    <link href="https://github.com/JustinRoll/Assembly_8086" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

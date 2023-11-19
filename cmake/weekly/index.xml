@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-19T01:48:18Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PickNikRobotics/picknik_accessories</title>
+    <updated>2023-11-19T01:48:18Z</updated>
+    <id>tag:github.com,2023-11-19:/PickNikRobotics/picknik_accessories</id>
+    <link href="https://github.com/PickNikRobotics/picknik_accessories" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Various accessories used for studio configuration packages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

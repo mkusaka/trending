@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:43:46Z</updated>
+  <updated>2023-11-19T01:45:38Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>didi/xiaoju-survey</title>
-    <updated>2023-11-18T01:43:46Z</updated>
-    <id>tag:github.com,2023-11-18:/didi/xiaoju-survey</id>
-    <link href="https://github.com/didi/xiaoju-survey" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;「快速」打造「专属」问卷系统, 让调研「更轻松」&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NotFaceGUI/nikke-balabala</title>
+    <updated>2023-11-19T01:45:38Z</updated>
+    <id>tag:github.com,2023-11-19:/NotFaceGUI/nikke-balabala</id>
+    <link href="https://github.com/NotFaceGUI/nikke-balabala" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款 nikke balabala 生成器&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

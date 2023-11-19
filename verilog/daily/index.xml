@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:43:33Z</updated>
+  <updated>2023-11-19T01:45:25Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lnis-uofu/ECE_6710_5710_Project_Template</title>
-    <updated>2023-11-18T01:43:33Z</updated>
-    <id>tag:github.com,2023-11-18:/lnis-uofu/ECE_6710_5710_Project_Template</id>
-    <link href="https://github.com/lnis-uofu/ECE_6710_5710_Project_Template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lnis-uofu/ECE_5710_6710_lab6</title>
-    <updated>2023-11-18T01:43:33Z</updated>
-    <id>tag:github.com,2023-11-18:/lnis-uofu/ECE_5710_6710_lab6</id>
-    <link href="https://github.com/lnis-uofu/ECE_5710_6710_lab6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sfahmy/ce1005</title>
-    <updated>2023-11-18T01:43:33Z</updated>
-    <id>tag:github.com,2023-11-18:/sfahmy/ce1005</id>
-    <link href="https://github.com/sfahmy/ce1005" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CE1005 Lab Files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

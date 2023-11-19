@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub QML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-19T01:57:22Z</updated>
+  <subtitle>Weekly Trending of QML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jasp-stats/jaspRem</title>
+    <updated>2023-11-19T01:57:22Z</updated>
+    <id>tag:github.com,2023-11-19:/jasp-stats/jaspRem</id>
+    <link href="https://github.com/jasp-stats/jaspRem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jasp-stats/jaspBfpack</title>
+    <updated>2023-11-19T01:57:22Z</updated>
+    <id>tag:github.com,2023-11-19:/jasp-stats/jaspBfpack</id>
+    <link href="https://github.com/jasp-stats/jaspBfpack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

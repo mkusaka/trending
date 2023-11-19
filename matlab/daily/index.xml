@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:36:59Z</updated>
+  <updated>2023-11-19T01:39:12Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pulseq/ISMRM-Virtual-Meeting--November-15-17-2023</title>
-    <updated>2023-11-18T01:36:59Z</updated>
-    <id>tag:github.com,2023-11-18:/pulseq/ISMRM-Virtual-Meeting--November-15-17-2023</id>
-    <link href="https://github.com/pulseq/ISMRM-Virtual-Meeting--November-15-17-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vendor-Agnostic Pulse Sequence Programming with Pulseq: From Basics to Advanced Topics (A Three-Day ISMRM Virtual Meeting Series)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CharlieBeirnaert/crazy-coconut</title>
+    <updated>2023-11-19T01:39:12Z</updated>
+    <id>tag:github.com,2023-11-19:/CharlieBeirnaert/crazy-coconut</id>
+    <link href="https://github.com/CharlieBeirnaert/crazy-coconut" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

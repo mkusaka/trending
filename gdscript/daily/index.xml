@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:33:07Z</updated>
+  <updated>2023-11-19T01:34:34Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Bonkahe/SunshineClouds</title>
-    <updated>2023-11-18T01:33:07Z</updated>
-    <id>tag:github.com,2023-11-18:/Bonkahe/SunshineClouds</id>
-    <link href="https://github.com/Bonkahe/SunshineClouds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A procedual cloud system for Godot 4.1&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Dutchgoose/Godot-Project-Template</title>
-    <updated>2023-11-18T01:33:07Z</updated>
-    <id>tag:github.com,2023-11-18:/Dutchgoose/Godot-Project-Template</id>
-    <link href="https://github.com/Dutchgoose/Godot-Project-Template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot 4 Project Template&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>YuriSizov/godot-editor-theme-explorer</title>
+    <updated>2023-11-19T01:34:34Z</updated>
+    <id>tag:github.com,2023-11-19:/YuriSizov/godot-editor-theme-explorer</id>
+    <link href="https://github.com/YuriSizov/godot-editor-theme-explorer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot Editor plugin to browse various items of Editor Theme, such as icons, colors and fonts.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

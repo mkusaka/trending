@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:38:36Z</updated>
+  <updated>2023-11-19T01:40:53Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>geraldholdsworth/DiscImageManager</title>
-    <updated>2023-11-18T01:38:36Z</updated>
-    <id>tag:github.com,2023-11-18:/geraldholdsworth/DiscImageManager</id>
-    <link href="https://github.com/geraldholdsworth/DiscImageManager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;To manage retro floppy disc images&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Codrax/Codrut-Fluent-Design-System</title>
-    <updated>2023-11-18T01:38:36Z</updated>
-    <id>tag:github.com,2023-11-18:/Codrax/Codrut-Fluent-Design-System</id>
-    <link href="https://github.com/Codrax/Codrut-Fluent-Design-System" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Codrut Fluent Design Systen, a suite of components made to mimic the Interface of Windows 11, the Fluent Design System, This is not to be confused with CodrutsVisualLibrary, as that is ajust a suite of independent components&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub YARA Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-19T02:01:20Z</updated>
+  <subtitle>Weekly Trending of YARA in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>m-sec-org/d-eyes</title>
+    <updated>2023-11-19T02:01:20Z</updated>
+    <id>tag:github.com,2023-11-19:/m-sec-org/d-eyes</id>
+    <link href="https://github.com/m-sec-org/d-eyes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;D-Eyes为绿盟科技一款检测与响应工具&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

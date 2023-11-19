@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Mustache Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-19T01:54:53Z</updated>
+  <subtitle>Weekly Trending of Mustache in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>giantswarm/kube-downscaler-app</title>
+    <updated>2023-11-19T01:54:53Z</updated>
+    <id>tag:github.com,2023-11-19:/giantswarm/kube-downscaler-app</id>
+    <link href="https://github.com/giantswarm/kube-downscaler-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giantswarm/network-policies-app</title>
+    <updated>2023-11-19T01:54:53Z</updated>
+    <id>tag:github.com,2023-11-19:/giantswarm/network-policies-app</id>
+    <link href="https://github.com/giantswarm/network-policies-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

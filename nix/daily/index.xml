@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:37:48Z</updated>
+  <updated>2023-11-19T01:40:05Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GermanBread/declarative-flatpak</title>
-    <updated>2023-11-18T01:37:48Z</updated>
-    <id>tag:github.com,2023-11-18:/GermanBread/declarative-flatpak</id>
-    <link href="https://github.com/GermanBread/declarative-flatpak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nickel-lang/organist</title>
+    <updated>2023-11-19T01:40:05Z</updated>
+    <id>tag:github.com,2023-11-19:/nickel-lang/organist</id>
+    <link href="https://github.com/nickel-lang/organist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Control all your tooling from a single console&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wireapp/ghc-flakr</title>
-    <updated>2023-11-18T01:37:48Z</updated>
-    <id>tag:github.com,2023-11-18:/wireapp/ghc-flakr</id>
-    <link href="https://github.com/wireapp/ghc-flakr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Run Haskell scripts. NOW.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nesto-software/nix-templates</title>
-    <updated>2023-11-18T01:37:48Z</updated>
-    <id>tag:github.com,2023-11-18:/nesto-software/nix-templates</id>
-    <link href="https://github.com/nesto-software/nix-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public Nix templates to nixify projects faster&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chaotic-cx/nyx</title>
+    <updated>2023-11-19T01:40:05Z</updated>
+    <id>tag:github.com,2023-11-19:/chaotic-cx/nyx</id>
+    <link href="https://github.com/chaotic-cx/nyx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix flake for &#34;too much bleeding-edge&#34; and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:26:00Z</updated>
+  <updated>2023-11-19T01:28:40Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>microsoft/hack-together-dotnet</title>
-    <updated>2023-11-18T01:26:00Z</updated>
-    <id>tag:github.com,2023-11-18:/microsoft/hack-together-dotnet</id>
-    <link href="https://github.com/microsoft/hack-together-dotnet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HackTogether: The Microsoft .NET 8 Global Hack | Register, Hack, Win&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lawrencesystems/Draw_IO_Diagrams</title>
+    <updated>2023-11-19T01:28:40Z</updated>
+    <id>tag:github.com,2023-11-19:/lawrencesystems/Draw_IO_Diagrams</id>
+    <link href="https://github.com/lawrencesystems/Draw_IO_Diagrams" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Diagrams used in my YouTube Videos&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lxfater/Awesome-GPTs</title>
-    <updated>2023-11-18T01:26:00Z</updated>
-    <id>tag:github.com,2023-11-18:/lxfater/Awesome-GPTs</id>
-    <link href="https://github.com/lxfater/Awesome-GPTs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;1000+ GPTs and 10 categories. 80+ Leaked Prompt，Awesome，chatgpt，Ai，prompt&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>QwenLM/Qwen-Audio</title>
+    <updated>2023-11-19T01:28:40Z</updated>
+    <id>tag:github.com,2023-11-19:/QwenLM/Qwen-Audio</id>
+    <link href="https://github.com/QwenLM/Qwen-Audio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official repo of Qwen-Audio (通义千问-Audio) chat &amp; pretrained large audio language model proposed by Alibaba Cloud.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sujayadkesar/cybersecurity-resources</title>
-    <updated>2023-11-18T01:26:00Z</updated>
-    <id>tag:github.com,2023-11-18:/sujayadkesar/cybersecurity-resources</id>
-    <link href="https://github.com/sujayadkesar/cybersecurity-resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cybersecurity Resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>othneildrew/Best-README-Template</title>
+    <updated>2023-11-19T01:28:40Z</updated>
+    <id>tag:github.com,2023-11-19:/othneildrew/Best-README-Template</id>
+    <link href="https://github.com/othneildrew/Best-README-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An awesome README template to jumpstart your projects!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

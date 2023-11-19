@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Perl Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-19T01:56:07Z</updated>
+  <subtitle>Weekly Trending of Perl in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>stenwt/misc</title>
+    <updated>2023-11-19T01:56:07Z</updated>
+    <id>tag:github.com,2023-11-19:/stenwt/misc</id>
+    <link href="https://github.com/stenwt/misc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;odds and ends&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;misc&lt;/h1&gt; &#xA;&lt;p&gt;odds and ends&lt;/p&gt;</summary>
+  </entry>
+</feed>

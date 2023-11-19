@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:27:24Z</updated>
+  <updated>2023-11-19T01:29:34Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JustGoodUI/ovidius-astro-theme</title>
-    <updated>2023-11-18T01:27:24Z</updated>
-    <id>tag:github.com,2023-11-18:/JustGoodUI/ovidius-astro-theme</id>
-    <link href="https://github.com/JustGoodUI/ovidius-astro-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ovidius - a single-author blog theme for Astro.js.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gdscuic/gdsc-uic-web-frontend</title>
+    <updated>2023-11-19T01:29:34Z</updated>
+    <id>tag:github.com,2023-11-19:/gdscuic/gdsc-uic-web-frontend</id>
+    <link href="https://github.com/gdscuic/gdsc-uic-web-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fall 2023 Community Project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

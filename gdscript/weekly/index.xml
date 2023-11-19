@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-19T01:50:53Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gdquest-demos/godot-visual-effects</title>
+    <updated>2023-11-19T01:50:53Z</updated>
+    <id>tag:github.com,2023-11-19:/gdquest-demos/godot-visual-effects</id>
+    <link href="https://github.com/gdquest-demos/godot-visual-effects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open-source visual effects designed in Godot, from our VFX Secrets course.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hpi-swa-lab/babylonian-programming-godot</title>
+    <updated>2023-11-19T01:50:53Z</updated>
+    <id>tag:github.com,2023-11-19:/hpi-swa-lab/babylonian-programming-godot</id>
+    <link href="https://github.com/hpi-swa-lab/babylonian-programming-godot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

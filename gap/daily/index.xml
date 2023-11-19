@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GAP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:33:03Z</updated>
+  <updated>2023-11-19T01:34:31Z</updated>
   <subtitle>Daily Trending of GAP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>homalg-project/ToolsForCategoricalTowers</title>
+    <updated>2023-11-19T01:34:31Z</updated>
+    <id>tag:github.com,2023-11-19:/homalg-project/ToolsForCategoricalTowers</id>
+    <link href="https://github.com/homalg-project/ToolsForCategoricalTowers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[READ-ONLY-SUBSPLIT] Tools for CategoricalTowers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>homalg-project/FpCategories</title>
+    <updated>2023-11-19T01:34:31Z</updated>
+    <id>tag:github.com,2023-11-19:/homalg-project/FpCategories</id>
+    <link href="https://github.com/homalg-project/FpCategories" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[READ-ONLY-SUBSPLIT] Finitely presented categories by generating quivers and relations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:32:13Z</updated>
+  <updated>2023-11-19T01:33:43Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dekuofa1995/MyNotes</title>
-    <updated>2023-11-18T01:32:13Z</updated>
-    <id>tag:github.com,2023-11-18:/dekuofa1995/MyNotes</id>
-    <link href="https://github.com/dekuofa1995/MyNotes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal notes for learning&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#+TITLE: README #+DATE: 2023-04-30 #+DRAFT: true #+TAGS[]: #+CATEGORIES[]:&lt;/p&gt; &#xA;&lt;p&gt;Please access [[https://dekuofa1995.github.io/][My Blog]] to get a better reading experience.&lt;/p&gt; &#xA;&lt;p&gt;If you find some bug/error/typo in my blog content, please open an issue. THX!&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>parsoj/dotfiles</title>
-    <updated>2023-11-18T01:32:13Z</updated>
-    <id>tag:github.com,2023-11-18:/parsoj/dotfiles</id>
-    <link href="https://github.com/parsoj/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal laptop configurations.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#+TITLE: dotfiles My personal laptop configurations.&lt;/p&gt; &#xA;&lt;p&gt;** Bash&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;there is not much in my bash config, since I mostly live out of Emacs. the fancy biz is over there :) ** Git&lt;/li&gt; &#xA; &lt;li&gt;just global git configurations ** OSX&lt;/li&gt; &#xA; &lt;li&gt;tools and configurations for managing desktop automation and package management. (It has its own [[file:osx/README.org][README]])&lt;/li&gt; &#xA; &lt;li&gt;I tend to prefer code-only configuration tools, since they are simpler and everything can be checked into source control and easily be ported to other machines&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;** Emacs&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;A custom emacs config built around [[https://github.com/raxod502/straight.el][straight.el]] I will look into setting up a full Emacs &#34;Literate Configuration&#34; one day....&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>hendrikvanantwerpen/js-pkg.el</title>
+    <updated>2023-11-19T01:33:43Z</updated>
+    <id>tag:github.com,2023-11-19:/hendrikvanantwerpen/js-pkg.el</id>
+    <link href="https://github.com/hendrikvanantwerpen/js-pkg.el" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elisp script to deal with CommonJS/NPM packages more easily.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;js-pkg.el&lt;/h1&gt; &#xA;&lt;p&gt;Emacs CommonJS/NPM Package Library. This library provides functions to help with the discovery of CommonJS/NPM style packages.&lt;/p&gt; &#xA;&lt;p&gt;CommonJS/NPM packages use a package.json file in their root directory. The library is build around the premise that packages live on disk. It therefore automatically discovers packages in parent directories when file functions like &#39;js-pkg-file-to-res&#39; are used and tracks changes to the package files.&lt;/p&gt; &#xA;&lt;p&gt;Internally js-pkg maintains a list of discovered packages. This list is used to convert files to resource ids and vice versa. It can handle multple versions of one package but will bark when two versions of the same package are found. Package.json updates on disk are detected and the package info will be updated automatically.&lt;/p&gt; &#xA;&lt;p&gt;This library also contains a bunch of js-pkg-res-id-* to manipulate resource ids of the form &#39;package/some/file/within&#39;.&lt;/p&gt; &#xA;&lt;h2&gt;Install&lt;/h2&gt; &#xA;&lt;p&gt;Manually: put js-pkg.el file in your load-path and (require &#39;js-pkg).&lt;/p&gt; &#xA;&lt;p&gt;El-get: Evaluate the following snippet and install with el-get-install.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(setq el-get-sources&#xA; (cons &#39;(:name js-pkg&#xA;         :type github&#xA;         :pkgname &#34;hendrikvanantwerpen/js-pkg.el&#34;&#xA;         :depends (semver json s))&#xA;       el-get-sources))&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Ideas&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Change the functions that take a resource to accept optional semver predicates and use the highest package version. If predicates are provided, use the highest package version that matches a predicate.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;Copyright 2013 Hendrik van Antwerpen&#xA;&#xA;Licensed under the Apache License, Version 2.0 (the &#34;License&#34;);&#xA;you may not use this file except in compliance with the License.&#xA;You may obtain a copy of the License at&#xA;&#xA;    http://www.apache.org/licenses/LICENSE-2.0&#xA;&#xA;Unless required by applicable law or agreed to in writing, software&#xA;distributed under the License is distributed on an &#34;AS IS&#34; BASIS,&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xA;See the License for the specific language governing permissions and&#xA;limitations under the License.&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

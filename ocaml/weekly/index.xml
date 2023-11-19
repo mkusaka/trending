@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-19T01:55:37Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>direct-manipulation/profound</title>
+    <updated>2023-11-19T01:55:37Z</updated>
+    <id>tag:github.com,2023-11-19:/direct-manipulation/profound</id>
+    <link href="https://github.com/direct-manipulation/profound" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An experiment in formula linking as an interaction method&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xapi-project/xcp-networkd</title>
+    <updated>2023-11-19T01:55:37Z</updated>
+    <id>tag:github.com,2023-11-19:/xapi-project/xcp-networkd</id>
+    <link href="https://github.com/xapi-project/xcp-networkd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The XCP networking daemon&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xapi-project/netdev</title>
+    <updated>2023-11-19T01:55:37Z</updated>
+    <id>tag:github.com,2023-11-19:/xapi-project/netdev</id>
+    <link href="https://github.com/xapi-project/netdev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Network device various bindings for ocaml&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-19T01:47:19Z</updated>
+  <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/explore-iot-operations</title>
+    <updated>2023-11-19T01:47:19Z</updated>
+    <id>tag:github.com,2023-11-19:/Azure-Samples/explore-iot-operations</id>
+    <link href="https://github.com/Azure-Samples/explore-iot-operations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source tools, samples, tutorials, and scripts for Azure IoT Operations.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/azd-deployment-environments</title>
+    <updated>2023-11-19T01:47:19Z</updated>
+    <id>tag:github.com,2023-11-19:/Azure-Samples/azd-deployment-environments</id>
+    <link href="https://github.com/Azure-Samples/azd-deployment-environments" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Azd template to help bootstrap an Azure Dev Center with support for Deployment environments&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/azd-create-storage-account</title>
+    <updated>2023-11-19T01:47:19Z</updated>
+    <id>tag:github.com,2023-11-19:/Azure-Samples/azd-create-storage-account</id>
+    <link href="https://github.com/Azure-Samples/azd-create-storage-account" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A sample azd template for creating a storage account.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

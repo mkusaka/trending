@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:36:55Z</updated>
+  <updated>2023-11-19T01:39:04Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>seanpm2001/Proper-CommonMark-Standard_Docs</title>
-    <updated>2023-11-18T01:36:55Z</updated>
-    <id>tag:github.com,2023-11-18:/seanpm2001/Proper-CommonMark-Standard_Docs</id>
-    <link href="https://github.com/seanpm2001/Proper-CommonMark-Standard_Docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⬇️Ⓜ️🪧️📖️ The official documentation source repository for the Proper CommonMark standard, a fork of Markdown to fix the shortcomings of GitHub Flavored Markdown, and ensure changes don&#39;t disrupt or destroy existing works.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>seanpm2001/Internet-Explorer6-Flavored-Markdown</title>
-    <updated>2023-11-18T01:36:55Z</updated>
-    <id>tag:github.com,2023-11-18:/seanpm2001/Internet-Explorer6-Flavored-Markdown</id>
-    <link href="https://github.com/seanpm2001/Internet-Explorer6-Flavored-Markdown" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;6️⃣️⬆️🇪 The official source repository for IE6 Flavored Markdown (not part of Internet Explorer or by Microsoft) for implementing modern GitHub Flavored Markdown (GFM) and also criticizing it for its problems.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

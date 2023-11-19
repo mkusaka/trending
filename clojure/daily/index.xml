@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-18T01:29:39Z</updated>
+  <updated>2023-11-19T01:31:19Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kolov/xelery</title>
-    <updated>2023-11-18T01:29:39Z</updated>
-    <id>tag:github.com,2023-11-18:/kolov/xelery</id>
-    <link href="https://github.com/kolov/xelery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;XSD Reader&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hotcharm/for-clojure</title>
+    <updated>2023-11-19T01:31:19Z</updated>
+    <id>tag:github.com,2023-11-19:/hotcharm/for-clojure</id>
+    <link href="https://github.com/hotcharm/for-clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;solved 4clojure problems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jeans11/demo-rama-electric</title>
+    <updated>2023-11-19T01:31:19Z</updated>
+    <id>tag:github.com,2023-11-19:/jeans11/demo-rama-electric</id>
+    <link href="https://github.com/jeans11/demo-rama-electric" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demo of web application with Rama and Electric&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
