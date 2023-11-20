@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-19T01:29:34Z</updated>
+  <updated>2023-11-20T01:27:40Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gdscuic/gdsc-uic-web-frontend</title>
-    <updated>2023-11-19T01:29:34Z</updated>
-    <id>tag:github.com,2023-11-19:/gdscuic/gdsc-uic-web-frontend</id>
-    <link href="https://github.com/gdscuic/gdsc-uic-web-frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fall 2023 Community Project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>evadecker/evadecker.com</title>
+    <updated>2023-11-20T01:27:40Z</updated>
+    <id>tag:github.com,2023-11-20:/evadecker/evadecker.com</id>
+    <link href="https://github.com/evadecker/evadecker.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Eva Decker is a designer and software engineer based in Brooklyn, New York. This is her digital garden.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

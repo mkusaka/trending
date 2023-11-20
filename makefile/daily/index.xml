@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-19T01:39:07Z</updated>
+  <updated>2023-11-20T01:37:20Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AOSPA/android_device_xiaomi_sky</title>
-    <updated>2023-11-19T01:39:07Z</updated>
-    <id>tag:github.com,2023-11-19:/AOSPA/android_device_xiaomi_sky</id>
-    <link href="https://github.com/AOSPA/android_device_xiaomi_sky" rel="alternate"></link>
+    <title>GarlicOS/buildroot</title>
+    <updated>2023-11-20T01:37:20Z</updated>
+    <id>tag:github.com,2023-11-20:/GarlicOS/buildroot</id>
+    <link href="https://github.com/GarlicOS/buildroot" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>inovex/talk-static-vs-dynamic-dispatch-in-rust</title>
-    <updated>2023-11-19T01:39:07Z</updated>
-    <id>tag:github.com,2023-11-19:/inovex/talk-static-vs-dynamic-dispatch-in-rust</id>
-    <link href="https://github.com/inovex/talk-static-vs-dynamic-dispatch-in-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example code for a talk about the differences between static and dynamic dispatch in rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

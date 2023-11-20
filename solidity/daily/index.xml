@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-19T01:44:08Z</updated>
+  <updated>2023-11-20T01:43:35Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alanvito1/BabyUSDT</title>
-    <updated>2023-11-19T01:44:08Z</updated>
-    <id>tag:github.com,2023-11-19:/alanvito1/BabyUSDT</id>
-    <link href="https://github.com/alanvito1/BabyUSDT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BabyUSDT - Passive income paid in USDT with Self-Custody.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SociaPol-Development/Contracts</title>
+    <updated>2023-11-20T01:43:35Z</updated>
+    <id>tag:github.com,2023-11-20:/SociaPol-Development/Contracts</id>
+    <link href="https://github.com/SociaPol-Development/Contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sociapol is a virtual gaming and socialization platform or Metaverse that closely resembles the real world. It enables users to develop their surroundings, socialize with other users, create and monetize immersive gaming experiences, and share and earn rewards for creative content—all of this using the platform’s native utility token, SPOL.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>morpho-org/morpho-blue-irm</title>
-    <updated>2023-11-19T01:44:08Z</updated>
-    <id>tag:github.com,2023-11-19:/morpho-org/morpho-blue-irm</id>
-    <link href="https://github.com/morpho-org/morpho-blue-irm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Morpho Blue Interest Rate Models&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>morpho-org/morpho-blue-oracles</title>
-    <updated>2023-11-19T01:44:08Z</updated>
-    <id>tag:github.com,2023-11-19:/morpho-org/morpho-blue-oracles</id>
-    <link href="https://github.com/morpho-org/morpho-blue-oracles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Morpho Blue Oracles&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Nazeeh21/ethglobal-istanbul</title>
+    <updated>2023-11-20T01:43:35Z</updated>
+    <id>tag:github.com,2023-11-20:/Nazeeh21/ethglobal-istanbul</id>
+    <link href="https://github.com/Nazeeh21/ethglobal-istanbul" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

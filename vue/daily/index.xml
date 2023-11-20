@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-19T01:45:38Z</updated>
+  <updated>2023-11-20T01:45:48Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NotFaceGUI/nikke-balabala</title>
-    <updated>2023-11-19T01:45:38Z</updated>
-    <id>tag:github.com,2023-11-19:/NotFaceGUI/nikke-balabala</id>
-    <link href="https://github.com/NotFaceGUI/nikke-balabala" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一款 nikke balabala 生成器&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Yanyutin753/PandoraNext-TokensTool</title>
+    <updated>2023-11-20T01:45:48Z</updated>
+    <id>tag:github.com,2023-11-20:/Yanyutin753/PandoraNext-TokensTool</id>
+    <link href="https://github.com/Yanyutin753/PandoraNext-TokensTool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;针对于PandoraNext管理tokens.json和config.json的可视化网页，可以实现通过网页批量更改刷新Token，每隔五天自动刷新tokens重启PandoraNext,并实现一键开启暂停重启PandoraNext，支持全部PandoraNext部署方法，后续将扩展更多功能！&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mywebc/le-vue</title>
+    <updated>2023-11-20T01:45:48Z</updated>
+    <id>tag:github.com,2023-11-20:/mywebc/le-vue</id>
+    <link href="https://github.com/mywebc/le-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;le-vue-ui是一套基于Vue3和TypeScript的UI组件库。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

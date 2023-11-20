@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-19T01:45:30Z</updated>
+  <updated>2023-11-20T01:45:37Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>panurg/powertab</title>
-    <updated>2023-11-19T01:45:30Z</updated>
-    <id>tag:github.com,2023-11-19:/panurg/powertab</id>
-    <link href="https://github.com/panurg/powertab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modifies Vim tabline to look like statusline with powerline plugin.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jaapz/dotfiles</title>
-    <updated>2023-11-19T01:45:30Z</updated>
-    <id>tag:github.com,2023-11-19:/jaapz/dotfiles</id>
-    <link href="https://github.com/jaapz/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dotfiles and other configs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

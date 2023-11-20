@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-19T01:31:22Z</updated>
+  <updated>2023-11-20T01:29:15Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Open-Transactions/otcommon</title>
-    <updated>2023-11-19T01:31:22Z</updated>
-    <id>tag:github.com,2023-11-19:/Open-Transactions/otcommon</id>
-    <link href="https://github.com/Open-Transactions/otcommon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The otcommon package adds to the modules provided by CMake to perform common tasks and provide consistency by libopentxs and projects which use it&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

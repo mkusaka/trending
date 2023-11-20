@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-19T01:43:32Z</updated>
+  <updated>2023-11-20T01:42:49Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thu-media/homepage</title>
+    <updated>2023-11-20T01:42:49Z</updated>
+    <id>tag:github.com,2023-11-20:/thu-media/homepage</id>
+    <link href="https://github.com/thu-media/homepage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Homepage for Media Lab at Tsinghua University&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HugoBlox/theme-portfolio</title>
+    <updated>2023-11-20T01:42:49Z</updated>
+    <id>tag:github.com,2023-11-20:/HugoBlox/theme-portfolio</id>
+    <link href="https://github.com/HugoBlox/theme-portfolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily create your own portfolio website with Hugo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

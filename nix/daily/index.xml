@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-19T01:40:05Z</updated>
+  <updated>2023-11-20T01:38:30Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nickel-lang/organist</title>
-    <updated>2023-11-19T01:40:05Z</updated>
-    <id>tag:github.com,2023-11-19:/nickel-lang/organist</id>
-    <link href="https://github.com/nickel-lang/organist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Control all your tooling from a single console&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chaotic-cx/nyx</title>
-    <updated>2023-11-19T01:40:05Z</updated>
-    <id>tag:github.com,2023-11-19:/chaotic-cx/nyx</id>
-    <link href="https://github.com/chaotic-cx/nyx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix flake for &#34;too much bleeding-edge&#34; and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RyanGibb/fn06</title>
+    <updated>2023-11-20T01:38:30Z</updated>
+    <id>tag:github.com,2023-11-20:/RyanGibb/fn06</id>
+    <link href="https://github.com/RyanGibb/fn06" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

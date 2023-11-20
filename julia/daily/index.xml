@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-19T01:37:36Z</updated>
+  <updated>2023-11-20T01:35:42Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lanl/JuliQAOA.jl</title>
-    <updated>2023-11-19T01:37:36Z</updated>
-    <id>tag:github.com,2023-11-19:/lanl/JuliQAOA.jl</id>
-    <link href="https://github.com/lanl/JuliQAOA.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast, flexible package for simulating the Quantum Alternating Operator Ansatz&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sisl/WildfirePOMDPs.jl</title>
-    <updated>2023-11-19T01:37:36Z</updated>
-    <id>tag:github.com,2023-11-19:/sisl/WildfirePOMDPs.jl</id>
-    <link href="https://github.com/sisl/WildfirePOMDPs.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wildfire resource allocation MDP and POMDP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bcube-project/Bcube.jl</title>
+    <updated>2023-11-20T01:35:42Z</updated>
+    <id>tag:github.com,2023-11-20:/bcube-project/Bcube.jl</id>
+    <link href="https://github.com/bcube-project/Bcube.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
