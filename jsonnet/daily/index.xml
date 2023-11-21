@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-20T01:35:43Z</updated>
+  <updated>2023-11-21T01:36:13Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eclipse-opendut/.eclipsefdn</title>
-    <updated>2023-11-20T01:35:43Z</updated>
-    <id>tag:github.com,2023-11-20:/eclipse-opendut/.eclipsefdn</id>
-    <link href="https://github.com/eclipse-opendut/.eclipsefdn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository to host configurations related to the Eclipse Foundation.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-20T01:43:27Z</updated>
+  <updated>2023-11-21T01:43:47Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>stackrox/helm-charts</title>
-    <updated>2023-11-20T01:43:27Z</updated>
-    <id>tag:github.com,2023-11-20:/stackrox/helm-charts</id>
-    <link href="https://github.com/stackrox/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm charts for StackRox Kubernetes Security Platform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

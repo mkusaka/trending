@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-20T01:33:33Z</updated>
+  <updated>2023-11-21T01:34:04Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>creichert/hsgui</title>
-    <updated>2023-11-20T01:33:33Z</updated>
-    <id>tag:github.com,2023-11-20:/creichert/hsgui</id>
-    <link href="https://github.com/creichert/hsgui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Haskell GUI Project Template&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Haskell Gui Project Template&lt;/h1&gt; &#xA;&lt;h2&gt;About:&lt;/h2&gt; &#xA;&lt;p&gt;Use this code as a starting point for a gtk2hs application. Included getOpts support for handling command line arguments. Ui included uses the glade xml format.&lt;/p&gt; &#xA;&lt;p&gt;A large portion of this code was inspired by examples in &#34;Real World Haskell&#34; and other various resources found in the Haskell Platform documentation.&lt;/p&gt; &#xA;&lt;h2&gt;Building:&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ cabal configure --prefix=$HOME --user&#xA;$ cabal build&#xA;$ ./dist/build/gui/gui&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

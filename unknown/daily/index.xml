@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-20T01:26:50Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-11-21T01:27:23Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mgmetehan/Mulakat-Sorulari</title>
-    <updated>2023-11-20T01:26:50Z</updated>
-    <id>tag:github.com,2023-11-20:/mgmetehan/Mulakat-Sorulari</id>
-    <link href="https://github.com/mgmetehan/Mulakat-Sorulari" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chiteroman/PlayIntegrityFix</title>
-    <updated>2023-11-20T01:26:50Z</updated>
-    <id>tag:github.com,2023-11-20:/chiteroman/PlayIntegrityFix</id>
-    <link href="https://github.com/chiteroman/PlayIntegrityFix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fix Play Integrity (and SafetyNet) verdicts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xizhengszhang/Leetcode_company_frequency</title>
-    <updated>2023-11-20T01:26:50Z</updated>
-    <id>tag:github.com,2023-11-20:/xizhengszhang/Leetcode_company_frequency</id>
-    <link href="https://github.com/xizhengszhang/Leetcode_company_frequency" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of leetcode company tag problems. Periodically updating.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>K11MCH1/AdrenoToolsDrivers</title>
+    <updated>2023-11-21T01:27:23Z</updated>
+    <id>tag:github.com,2023-11-21:/K11MCH1/AdrenoToolsDrivers</id>
+    <link href="https://github.com/K11MCH1/AdrenoToolsDrivers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for Skyline, Vita3K and Yuzu Android compatible Adreno drivers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

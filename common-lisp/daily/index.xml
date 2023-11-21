@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-20T01:29:23Z</updated>
+  <updated>2023-11-21T01:30:00Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>html/cl-selenium</title>
-    <updated>2023-11-20T01:29:23Z</updated>
-    <id>tag:github.com,2023-11-20:/html/cl-selenium</id>
-    <link href="https://github.com/html/cl-selenium" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This work is licensed under the GNU LGPL2.1 with the Franz Lisp Preamble &lt;a href=&#34;http://opensource.franz.com/preamble.html&#34;&gt;http://opensource.franz.com/preamble.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Copyright (c) 2007 Matthew Kennedy&lt;/p&gt;</summary>
-  </entry>
 </feed>
