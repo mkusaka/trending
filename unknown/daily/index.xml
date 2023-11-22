@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-21T01:27:23Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-11-22T01:27:23Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>K11MCH1/AdrenoToolsDrivers</title>
-    <updated>2023-11-21T01:27:23Z</updated>
-    <id>tag:github.com,2023-11-21:/K11MCH1/AdrenoToolsDrivers</id>
-    <link href="https://github.com/K11MCH1/AdrenoToolsDrivers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository for Skyline, Vita3K and Yuzu Android compatible Adreno drivers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DataEngineer-io/data-engineer-handbook</title>
+    <updated>2023-11-22T01:27:23Z</updated>
+    <id>tag:github.com,2023-11-22:/DataEngineer-io/data-engineer-handbook</id>
+    <link href="https://github.com/DataEngineer-io/data-engineer-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a repo with links to everything you&#39;d ever want to learn about data engineering&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>arcataroger/awesome-engineering-games</title>
+    <updated>2023-11-22T01:27:23Z</updated>
+    <id>tag:github.com,2023-11-22:/arcataroger/awesome-engineering-games</id>
+    <link href="https://github.com/arcataroger/awesome-engineering-games" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of engineering-related video games rated Very Positive or higher on Steam&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codefuse-ai/Awesome-Code-LLM</title>
+    <updated>2023-11-22T01:27:23Z</updated>
+    <id>tag:github.com,2023-11-22:/codefuse-ai/Awesome-Code-LLM</id>
+    <link href="https://github.com/codefuse-ai/Awesome-Code-LLM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of language modeling researches and related datasets for code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-21T01:29:47Z</updated>
+  <updated>2023-11-22T01:30:33Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hhutch/hutch-web</title>
+    <updated>2023-11-22T01:30:33Z</updated>
+    <id>tag:github.com,2023-11-22:/hhutch/hutch-web</id>
+    <link href="https://github.com/hhutch/hutch-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;leiningen-newnew based plugin to generate a standard toolchain for clojure websites based on enlive, noir, and ibdknox&#39;s CLJS libraries&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

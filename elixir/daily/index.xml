@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-21T01:32:06Z</updated>
+  <updated>2023-11-22T01:32:27Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zoonk/uneebee</title>
+    <updated>2023-11-22T01:32:27Z</updated>
+    <id>tag:github.com,2023-11-22:/zoonk/uneebee</id>
+    <link href="https://github.com/zoonk/uneebee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Platform for creating interactive courses.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>primait/cloudflare_access_ex</title>
+    <updated>2023-11-22T01:32:27Z</updated>
+    <id>tag:github.com,2023-11-22:/primait/cloudflare_access_ex</id>
+    <link href="https://github.com/primait/cloudflare_access_ex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir library to handle Cloudflare Access security&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cesium/integration_bee</title>
+    <updated>2023-11-22T01:32:27Z</updated>
+    <id>tag:github.com,2023-11-22:/cesium/integration_bee</id>
+    <link href="https://github.com/cesium/integration_bee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐝 UM Annual Integration Bee web platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

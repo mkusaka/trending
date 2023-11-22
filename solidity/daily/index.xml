@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-21T01:43:57Z</updated>
+  <updated>2023-11-22T01:41:32Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>getclave/suclave-ethglobal-istanbul</title>
+    <updated>2023-11-22T01:41:32Z</updated>
+    <id>tag:github.com,2023-11-22:/getclave/suclave-ethglobal-istanbul</id>
+    <link href="https://github.com/getclave/suclave-ethglobal-istanbul" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sheepTen/StakeSheep</title>
+    <updated>2023-11-22T01:41:32Z</updated>
+    <id>tag:github.com,2023-11-22:/sheepTen/StakeSheep</id>
+    <link href="https://github.com/sheepTen/StakeSheep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vinayakkalra/klaytn-developer-bootcamp-codes</title>
+    <updated>2023-11-22T01:41:32Z</updated>
+    <id>tag:github.com,2023-11-22:/vinayakkalra/klaytn-developer-bootcamp-codes</id>
+    <link href="https://github.com/vinayakkalra/klaytn-developer-bootcamp-codes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This code is used for Klaytn Developer Bootcamp to explain simple storage&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
