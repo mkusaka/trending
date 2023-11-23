@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-22T01:27:43Z</updated>
+  <updated>2023-11-23T01:29:48Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Varnius/Alternativa3DCustomMaterials</title>
+    <updated>2023-11-23T01:29:48Z</updated>
+    <id>tag:github.com,2023-11-23:/Varnius/Alternativa3DCustomMaterials</id>
+    <link href="https://github.com/Varnius/Alternativa3DCustomMaterials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Custom materials for Alternativa3D&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Saykrd/TimeScapeEngine</title>
+    <updated>2023-11-23T01:29:48Z</updated>
+    <id>tag:github.com,2023-11-23:/Saykrd/TimeScapeEngine</id>
+    <link href="https://github.com/Saykrd/TimeScapeEngine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interactive World Creation Engine for games and interactive media made in AS3 for Flash and AIR supported devices.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

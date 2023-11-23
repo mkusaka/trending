@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-22T01:38:34Z</updated>
+  <updated>2023-11-23T01:38:49Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation</title>
+    <updated>2023-11-23T01:38:49Z</updated>
+    <id>tag:github.com,2023-11-23:/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation</id>
+    <link href="https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apt style exploitation of Chrome 0day CVE-2023-4357&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CVE-2023-4357-APT-Style-exploitation&lt;/h1&gt; &#xA;&lt;p&gt;Apt style exploitation of Chrome 0day CVE-2023-4357&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://ogulcan-unveren.medium.com/seviye-y%C3%BCkseltmek-chrome-zerodayi-xss-ile-tetiklemek-23b8498f9701&#34;&gt;https://ogulcan-unveren.medium.com/seviye-y%C3%BCkseltmek-chrome-zerodayi-xss-ile-tetiklemek-23b8498f9701&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

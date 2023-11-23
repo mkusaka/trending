@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-22T01:35:23Z</updated>
+  <updated>2023-11-23T01:36:03Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaLang/AllocCheck.jl</title>
-    <updated>2023-11-22T01:35:23Z</updated>
-    <id>tag:github.com,2023-11-22:/JuliaLang/AllocCheck.jl</id>
-    <link href="https://github.com/JuliaLang/AllocCheck.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AllocCheck&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JoshuaLampert/DispersiveShallowWater.jl</title>
-    <updated>2023-11-22T01:35:23Z</updated>
-    <id>tag:github.com,2023-11-22:/JoshuaLampert/DispersiveShallowWater.jl</id>
-    <link href="https://github.com/JoshuaLampert/DispersiveShallowWater.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Structure-preserving numerical methods for dispersive shallow water models&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FriesischScott/UncertaintyQuantification.jl</title>
-    <updated>2023-11-22T01:35:23Z</updated>
-    <id>tag:github.com,2023-11-22:/FriesischScott/UncertaintyQuantification.jl</id>
-    <link href="https://github.com/FriesischScott/UncertaintyQuantification.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Uncertainty Quantification in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaSmoothOptimizers/SolverBenchmark.jl</title>
+    <updated>2023-11-23T01:36:03Z</updated>
+    <id>tag:github.com,2023-11-23:/JuliaSmoothOptimizers/SolverBenchmark.jl</id>
+    <link href="https://github.com/JuliaSmoothOptimizers/SolverBenchmark.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Benchmark tools for solvers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

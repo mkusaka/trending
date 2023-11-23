@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-22T01:31:05Z</updated>
+  <updated>2023-11-23T01:32:02Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>adaptiOficial/ps-adapti-2023</title>
-    <updated>2023-11-22T01:31:05Z</updated>
-    <id>tag:github.com,2023-11-22:/adaptiOficial/ps-adapti-2023</id>
-    <link href="https://github.com/adaptiOficial/ps-adapti-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Para iniciar os trabalhos no projeto:&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;git clone &lt;strong&gt;linkdorepositório&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;Executar &lt;strong&gt;composer update&lt;/strong&gt; na pasta do projeto&lt;/li&gt; &#xA; &lt;li&gt;Criar schema no Banco de Dados&lt;/li&gt; &#xA; &lt;li&gt;Criar arquivo .env com base no .env.example&lt;/li&gt; &#xA; &lt;li&gt;Executar &lt;strong&gt;php artisan key:generate&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;Executar &lt;strong&gt;php artisan migrate --seed&lt;/strong&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Você precisa de fazer um fork do projeto para seu repositório. (Confira o link da documentação)&lt;/p&gt; &#xA;&lt;p&gt;Depois, no terminal na pasta do seu projeto dê o comando:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;git remote add &lt;strong&gt;seunome&lt;/strong&gt; &lt;strong&gt;linkdofork&lt;/strong&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Criar uma branch&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;git checkout -b &lt;strong&gt;nomebranch&lt;/strong&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Quando solicitado &#34;Dar pull&#34;:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;git pull origin &lt;strong&gt;nomebranch&lt;/strong&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Ao concluir uma tarefa:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;git add .&lt;/li&gt; &#xA; &lt;li&gt;git commit -m &lt;strong&gt;nomedocommit&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;git push &lt;strong&gt;seunome&lt;/strong&gt; &lt;strong&gt;nomebranch&lt;/strong&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>minghsun/simpleResponsiveSlide</title>
+    <updated>2023-11-23T01:32:02Z</updated>
+    <id>tag:github.com,2023-11-23:/minghsun/simpleResponsiveSlide</id>
+    <link href="https://github.com/minghsun/simpleResponsiveSlide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;simpleResponsiveSlide&lt;/h1&gt; &#xA;&lt;p&gt;a simple slider for responsive design&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-22T01:34:09Z</updated>
+  <updated>2023-11-23T01:34:50Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Snirozu/Funkin-Psych-Online</title>
-    <updated>2023-11-22T01:34:09Z</updated>
-    <id>tag:github.com,2023-11-22:/Snirozu/Funkin-Psych-Online</id>
-    <link href="https://github.com/Snirozu/Funkin-Psych-Online" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Psych Engine with Online Multiplayer.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Psych Engine - Online&lt;/h1&gt; &#xA;&lt;p&gt;Modified version of Psych Engine that adds multiplayer to it.&lt;/p&gt; &#xA;&lt;h6&gt;Psych Engine Commit: 5d0a66d&lt;/h6&gt;</summary>
-  </entry>
 </feed>

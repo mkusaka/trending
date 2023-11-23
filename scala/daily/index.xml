@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-22T01:40:48Z</updated>
+  <updated>2023-11-23T01:41:09Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sysprog21/ca2023-lab3</title>
-    <updated>2023-11-22T01:40:48Z</updated>
-    <id>tag:github.com,2023-11-22:/sysprog21/ca2023-lab3</id>
-    <link href="https://github.com/sysprog21/ca2023-lab3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lab3: Construct a single-cycle CPU with Chisel&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Construct a single-cycle RISC-V CPU with Chisel&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[!WARNING] Please be aware that the Scala code in this repository is not entirely complete, as the instructor has omitted certain sections for students to work on independently.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Development Objectives&lt;/h2&gt; &#xA;&lt;p&gt;Our goal is to create a RISC-V CPU that prioritizes simplicity while assuming a foundational understanding of digital circuits and the C programming language among its readers. The CPU should strike a balance between simplicity and sophistication, and we intend to maximize its functionality. This project encompasses the following key aspects, which will be prominently featured in the technical report:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Implementation in Chisel.&lt;/li&gt; &#xA; &lt;li&gt;RV32I instruction set support.&lt;/li&gt; &#xA; &lt;li&gt;Execution of programs compiled from the C programming language.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

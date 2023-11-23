@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-22T01:41:55Z</updated>
+  <updated>2023-11-23T01:42:15Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AnataAria/Fall2023SWP391_NET1703_Group1</title>
-    <updated>2023-11-22T01:41:55Z</updated>
-    <id>tag:github.com,2023-11-22:/AnataAria/Fall2023SWP391_NET1703_Group1</id>
-    <link href="https://github.com/AnataAria/Fall2023SWP391_NET1703_Group1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AbyssServices/Abyss-Old</title>
+    <updated>2023-11-23T01:42:15Z</updated>
+    <id>tag:github.com,2023-11-23:/AbyssServices/Abyss-Old</id>
+    <link href="https://github.com/AbyssServices/Abyss-Old" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Abyss is an advanced proxy service that provides modern unblocking for all users who use it.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>0LNetworkCommunity/carpe</title>
-    <updated>2023-11-22T01:41:55Z</updated>
-    <id>tag:github.com,2023-11-22:/0LNetworkCommunity/carpe</id>
-    <link href="https://github.com/0LNetworkCommunity/carpe" rel="alternate"></link>
+    <title>Unboxed-Software/solana-course</title>
+    <updated>2023-11-23T01:42:15Z</updated>
+    <id>tag:github.com,2023-11-23:/Unboxed-Software/solana-course</id>
+    <link href="https://github.com/Unboxed-Software/solana-course" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
