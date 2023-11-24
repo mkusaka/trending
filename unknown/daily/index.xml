@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-23T01:29:29Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-11-24T02:10:36Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pingcap/awesome-database-learning</title>
-    <updated>2023-11-23T01:29:29Z</updated>
-    <id>tag:github.com,2023-11-23:/pingcap/awesome-database-learning</id>
-    <link href="https://github.com/pingcap/awesome-database-learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of learning materials to understand databases internals&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Morakito/Real-Time-Rendering-4th-CN</title>
+    <updated>2023-11-24T02:10:36Z</updated>
+    <id>tag:github.com,2023-11-24:/Morakito/Real-Time-Rendering-4th-CN</id>
+    <link href="https://github.com/Morakito/Real-Time-Rendering-4th-CN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;《Real-Time Rendering 4th》 (RTR4) 中文翻译&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Mosklia/gcc-hentai</title>
-    <updated>2023-11-23T01:29:29Z</updated>
-    <id>tag:github.com,2023-11-23:/Mosklia/gcc-hentai</id>
-    <link href="https://github.com/Mosklia/gcc-hentai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;让你的 GCC 变得更可爱！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zhashkevych/awesome-backend</title>
+    <updated>2023-11-24T02:10:36Z</updated>
+    <id>tag:github.com,2023-11-24:/zhashkevych/awesome-backend</id>
+    <link href="https://github.com/zhashkevych/awesome-backend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 A curated and opinionated list of resources (English &amp; Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>davidgasquez/awesome-duckdb</title>
-    <updated>2023-11-23T01:29:29Z</updated>
-    <id>tag:github.com,2023-11-23:/davidgasquez/awesome-duckdb</id>
-    <link href="https://github.com/davidgasquez/awesome-duckdb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦆 A curated list of awesome DuckDB resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stickfigure/blog</title>
+    <updated>2023-11-24T02:10:36Z</updated>
+    <id>tag:github.com,2023-11-24:/stickfigure/blog</id>
+    <link href="https://github.com/stickfigure/blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jeff Schnitzer&#39;s Blog&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

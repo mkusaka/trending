@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-23T01:36:53Z</updated>
+  <updated>2023-11-24T02:20:34Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Renewed-Scripts/Renewed-Weathersync</title>
-    <updated>2023-11-23T01:36:53Z</updated>
-    <id>tag:github.com,2023-11-23:/Renewed-Scripts/Renewed-Weathersync</id>
-    <link href="https://github.com/Renewed-Scripts/Renewed-Weathersync" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;No more needing to worry about syncing time and weather on your FiveM server.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Renewed Weathersync&lt;/h1&gt; &#xA;&lt;h2&gt;Description&lt;/h2&gt; &#xA;&lt;p&gt;Renewed Weathersync is made so you do not need to worry about syncing time and weather inside your server!&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Custom weather sequences&lt;/li&gt; &#xA; &lt;li&gt;pre-render the entire weather queue&lt;/li&gt; &#xA; &lt;li&gt;admin can change the weather sequence while in game&lt;/li&gt; &#xA; &lt;li&gt;customizeable time scale, you can choose if u want short/long days!&lt;/li&gt; &#xA; &lt;li&gt;customizeable time scale depending on time, preconfigured to make night time longer than day time&lt;/li&gt; &#xA; &lt;li&gt;HUGE performance boost compared to other weather sync resources, such as qb-weathersync&lt;/li&gt; &#xA; &lt;li&gt;drag and drop compatability with qb-weathersync&lt;/li&gt; &#xA; &lt;li&gt;a lot of other features, feel free to test it out!&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Clone the repository: &lt;code&gt;git clone https://github.com/Renewed-Scripts/Renewed-Weathersync.git&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Copy the &lt;code&gt;Renewed-Weathersync&lt;/code&gt; folder into your server directory.&lt;/li&gt; &#xA; &lt;li&gt;Add &lt;code&gt;start Renewed-Weathersync&lt;/code&gt; to your &lt;code&gt;server.cfg&lt;/code&gt; file.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Removing compatability files&lt;/h2&gt; &#xA;&lt;p&gt;Currently we have compatability files for qb and cd easy time, qb is automatically detected but if you have never used cd_easytime before simply remove dependencies by doing the following:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Headover to your server.cfg&lt;/li&gt; &#xA; &lt;li&gt;Copy and paste &lt;code&gt;setr weather_disablecd true&lt;/code&gt; into your server.cfg&lt;/li&gt; &#xA; &lt;li&gt;and that&#39;s it you now disabled cd_easytime compatability!&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Configuration&lt;/h2&gt; &#xA;&lt;p&gt;You can configure the resource by modifying the &lt;code&gt;weather.lua&lt;/code&gt; &amp;amp; &lt;code&gt;time.lua&lt;/code&gt; files.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Once the resource is installed and configured, it will automatically sync the weather and time, the entire weather synchronization is handled upon resource start.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;I took a lot of inspiration from &lt;a href=&#34;https://github.com/JnKTechstuff/ParadoxWorldSync&#34;&gt;https://github.com/JnKTechstuff/ParadoxWorldSync&lt;/a&gt; so a big thanks to them for their work on that resource.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>F3LDS/Adhesion</title>
-    <updated>2023-11-23T01:36:53Z</updated>
-    <id>tag:github.com,2023-11-23:/F3LDS/Adhesion</id>
-    <link href="https://github.com/F3LDS/Adhesion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A game about blocks that stick to blocks while moving around activating blocks. Blocks.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Adhesion&lt;/h1&gt; &#xA;&lt;p&gt;A game about blocks that stick to blocks while moving around activating blocks. Blocks.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-23T01:30:14Z</updated>
+  <updated>2023-11-24T02:11:38Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Robotix22/Device-Binaries</title>
+    <updated>2023-11-24T02:11:38Z</updated>
+    <id>tag:github.com,2023-11-24:/Robotix22/Device-Binaries</id>
+    <link href="https://github.com/Robotix22/Device-Binaries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EFI Binaries from Devices with UEFI for Custom UEFI Port&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-23T01:38:56Z</updated>
+  <updated>2023-11-24T02:23:14Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TheCry/check_avaya_error_by_ossi</title>
+    <updated>2023-11-24T02:23:14Z</updated>
+    <id>tag:github.com,2023-11-24:/TheCry/check_avaya_error_by_ossi</id>
+    <link href="https://github.com/TheCry/check_avaya_error_by_ossi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Query the alarms of the Definity Avaya S8xxx callmanager&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;check_avaya_error_by_ossi&lt;/h1&gt; &#xA;&lt;p&gt;Query the alarms of the Definity Avaya S8xxx callmanager and check wheter the survivals are online&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Usage:&#xA;Checks AVAYA S8xx components for callmanager- or serverfailures using&#xA;OSSI protocol. You need to create a station file&#xA;(pbx_connection_auth.xml) to the folder /usr/local/nagios/etc/avaya/&#xA;&amp;lt;pbx-systems&amp;gt; &amp;lt;pbx name=&#39;n1&#39; hostname=&#39;xxx.xxx.xxx.xxx&#39; port=&#39;22&#39;&#xA;login=&#39;username&#39; password=&#39;password&#39; connection_type=&#39;ssh&#39; atdt=&#39;&#39; /&amp;gt;&#xA;&amp;lt;/pbx-systems&amp;gt;&#xA; &#xA;Options:&#xA;check_avaya_error_by_ossi.pl -H &amp;lt;hostname&amp;gt; -S &amp;lt;LISU|CML&amp;gt; -L&#xA;&amp;lt;MAJOR|MINOR|WARNING|ALL&amp;gt;&#xA; &#xA;-H (--hostname)&#xA;Hostname to query - (required)&#xA; &#xA;-S (--service)&#xA;LISU - List Survival, CML - Communicationmanagerlog&#xA; &#xA;-L (--errorlevel)&#xA;MAJOR, MINOR, WARNING, ALL (only -S = CML)&#xA; &#xA;-i (--ignore)&#xA;ignores Maintnames (only -S = CML), Array possible (Name,Name,Name)&#xA; &#xA;-a (--alarmport)&#xA;ignores Alarmports (only -S = CML), Array possible (Name,Name,Name)&#xA; &#xA;-M (--changemajor)&#xA;changes the status to major (only -S = CML), Array possible&#xA;(Name,Name,Name)&#xA; &#xA;-SL (--lspserverlist)&#xA;An integer which let us know wheter the plugin should use a&#xA;serverlist for LISU (1=TRUE, 0=FALSE) Then use the File LSPServer.pm&#xA;to add the active server in an array (only -S = LISU)&#xA; &#xA;-V (--version)&#xA;Plugin version&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;More informations&lt;/h2&gt; &#xA;&lt;p&gt;The plugin is working with the perl modul of Benjamin Roy &lt;a href=&#34;mailto:benroy@uw.edu&#34;&gt;benroy@uw.edu&lt;/a&gt; (&lt;a href=&#34;http://tools.cac.washington.edu/2010/04/avaya-pbx-admin-web-service.html&#34;&gt;http://tools.cac.washington.edu/2010/04/avaya-pbx-admin-web-service.html&lt;/a&gt;) How to use the plugin read more in the gearman forum for Icinga / Nagios =&amp;gt; &lt;a href=&#34;http://www.monitoring-portal.org/wbb/index.php?page=Thread&amp;amp;threadID=28099&#34;&gt;http://www.monitoring-portal.org/wbb/index.php?page=Thread&amp;amp;threadID=28099&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

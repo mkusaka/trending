@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Game Maker Language Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-23T01:33:45Z</updated>
+  <updated>2023-11-24T02:16:23Z</updated>
   <subtitle>Daily Trending of Game Maker Language in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KeeVeeGames/OKColor.gml</title>
+    <updated>2023-11-24T02:16:23Z</updated>
+    <id>tag:github.com,2023-11-24:/KeeVeeGames/OKColor.gml</id>
+    <link href="https://github.com/KeeVeeGames/OKColor.gml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An okay color management for GameMaker implementing OKLab/OKLCH colors. Generate, convert, gamut map and mix colors properly with visually better results. Also supports RGB, HSV, HSL, Lab, LCH, and other models.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

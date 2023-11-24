@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-23T01:41:54Z</updated>
+  <updated>2023-11-24T02:26:59Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>morpho-org/morpho-blue-bundlers</title>
-    <updated>2023-11-23T01:41:54Z</updated>
-    <id>tag:github.com,2023-11-23:/morpho-org/morpho-blue-bundlers</id>
-    <link href="https://github.com/morpho-org/morpho-blue-bundlers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Morpho Blue Bundlers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>morpho-org/erc20-permissioned</title>
+    <updated>2023-11-24T02:26:59Z</updated>
+    <id>tag:github.com,2023-11-24:/morpho-org/erc20-permissioned</id>
+    <link href="https://github.com/morpho-org/erc20-permissioned" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ERC20 Permissioned tokens&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>morpho-org/universal-rewards-distributor</title>
-    <updated>2023-11-23T01:41:54Z</updated>
-    <id>tag:github.com,2023-11-23:/morpho-org/universal-rewards-distributor</id>
-    <link href="https://github.com/morpho-org/universal-rewards-distributor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A universal rewards distributor written in Solidity.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Cyfrin/security-and-auditing-full-course-s23</title>
+    <updated>2023-11-24T02:26:59Z</updated>
+    <id>tag:github.com,2023-11-24:/Cyfrin/security-and-auditing-full-course-s23</id>
+    <link href="https://github.com/Cyfrin/security-and-auditing-full-course-s23" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

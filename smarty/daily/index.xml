@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-23T01:41:47Z</updated>
+  <updated>2023-11-24T02:26:49Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fmidev/helm-charts</title>
-    <updated>2023-11-23T01:41:47Z</updated>
-    <id>tag:github.com,2023-11-23:/fmidev/helm-charts</id>
-    <link href="https://github.com/fmidev/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FMI Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dBildungsplattform/helm-charts-registry</title>
+    <updated>2023-11-24T02:26:49Z</updated>
+    <id>tag:github.com,2023-11-24:/dBildungsplattform/helm-charts-registry</id>
+    <link href="https://github.com/dBildungsplattform/helm-charts-registry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm Chart registry for Helm Charts maintained in other repositories.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

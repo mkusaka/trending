@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-23T01:32:02Z</updated>
+  <updated>2023-11-24T02:14:08Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>minghsun/simpleResponsiveSlide</title>
-    <updated>2023-11-23T01:32:02Z</updated>
-    <id>tag:github.com,2023-11-23:/minghsun/simpleResponsiveSlide</id>
-    <link href="https://github.com/minghsun/simpleResponsiveSlide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;simpleResponsiveSlide&lt;/h1&gt; &#xA;&lt;p&gt;a simple slider for responsive design&lt;/p&gt;</summary>
+    <title>BitWalls-Sec/WhatsAppHacking</title>
+    <updated>2023-11-24T02:14:08Z</updated>
+    <id>tag:github.com,2023-11-24:/BitWalls-Sec/WhatsAppHacking</id>
+    <link href="https://github.com/BitWalls-Sec/WhatsAppHacking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Script to Crash WhatsApp With Just a Single Text And Inject a Payload In App Format to Hack and Extract All WhatsApp Media Files.&lt;/p&gt;&lt;hr&gt;&lt;h3&gt;WhatsAppHacking and WhatsAppCrashing 1.5v&lt;/h3&gt; &#xA;&lt;p&gt;A Script to Crash WhatsApp With Just a Single Text And Inject a Payload In App Format to Hack and Extract All WhatsApp Media Files.&lt;/p&gt; &#xA;&lt;h3&gt;Note Please: This Script Usage for exploiting targets without prior mutual consent is illegal.&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;   Only Use For Educational Purposes. &#xA;   Please try not to harm anyone device.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;If you have questions or need any help with full whatsapp messages black script, message me here: &lt;a href=&#34;https://t.me/BitWalls_Sec&#34;&gt;https://t.me/BitWalls_Sec&lt;/a&gt; Email Me: &lt;a href=&#34;mailto:bitwallssec@gmail.com&#34;&gt;bitwallssec@gmail.com&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;h3&gt;Installation Guide on Any Linux Distribution:&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;# sudo apt-get update&#xA;# sudo apt-get upgrade&#xA;# sudo apt-get install gradle&#xA;&#xA;Install Java:&#xA;sudo apt install default-jdk&#xA;sudo nano /etc/environment&#xA;&#xA;Add following lines to file to set Java environment variables&#xA;JAVA_HOME=/usr/lib/jvm/default-java&#xA;PATH=&#34;$PATH:$JAVA_HOME/bin&#34;&#xA;&#xA;# update-alternatives --list java&#xA;Copy and replace dir on terminal:&#xA;# update-alternatives --set java /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java&#xA;&#xA;&#xA;Installing Android Studio:&#xA;Download latest version Android studio from&#xA;https://developer.android.com/studio/index.html&#xA;# unzip &#xA;sudo unzip android-studio-ide-141.2178183-linux.zip -d /opt&#xA;sudo -xpf file.zip /opt&#xA;&#xA;sudo apt-get install lib32z1 lib32ncurses5 lib32bz2-1.0 lib32stdc++6&#xA;Or&#xA;sudo apt-get install lib32z1 lib32ncurses5 lib32stdc++6&#xA;&#xA;Execute Android Studio:&#xA;sudo /opt/android-studio/bin/studio.sh&#xA;Or&#xA;cd /opt/android-studio/bin&#xA;bash studio.sh&#xA;&#xA;Execute script:&#xA;# git clone https://github.com/BitWalls-Sec/WhatsAppHacking.git&#xA;# cd whatshack/&#xA;# ./whatshack.sh&#xA;&#xA;To Execute Whatsapp Crasher&#xA;# python3 WhatsAppCrasher.py&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

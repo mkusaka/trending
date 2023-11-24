@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-23T01:30:12Z</updated>
+  <updated>2023-11-24T02:11:34Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>unfolding-io/StarFunnel</title>
-    <updated>2023-11-23T01:30:12Z</updated>
-    <id>tag:github.com,2023-11-23:/unfolding-io/StarFunnel</id>
-    <link href="https://github.com/unfolding-io/StarFunnel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;the Astro powered landing page builder&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jamesqquick/astro-course-demo</title>
-    <updated>2023-11-23T01:30:12Z</updated>
-    <id>tag:github.com,2023-11-23:/jamesqquick/astro-course-demo</id>
-    <link href="https://github.com/jamesqquick/astro-course-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GeauxWeisbeck4/homeless-hacker</title>
-    <updated>2023-11-23T01:30:12Z</updated>
-    <id>tag:github.com,2023-11-23:/GeauxWeisbeck4/homeless-hacker</id>
-    <link href="https://github.com/GeauxWeisbeck4/homeless-hacker" rel="alternate"></link>
+    <title>1888-garage/react-test</title>
+    <updated>2023-11-24T02:11:34Z</updated>
+    <id>tag:github.com,2023-11-24:/1888-garage/react-test</id>
+    <link href="https://github.com/1888-garage/react-test" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

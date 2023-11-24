@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-23T01:42:15Z</updated>
+  <updated>2023-11-24T02:27:27Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AbyssServices/Abyss-Old</title>
-    <updated>2023-11-23T01:42:15Z</updated>
-    <id>tag:github.com,2023-11-23:/AbyssServices/Abyss-Old</id>
-    <link href="https://github.com/AbyssServices/Abyss-Old" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Abyss is an advanced proxy service that provides modern unblocking for all users who use it.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Unboxed-Software/solana-course</title>
-    <updated>2023-11-23T01:42:15Z</updated>
-    <id>tag:github.com,2023-11-23:/Unboxed-Software/solana-course</id>
-    <link href="https://github.com/Unboxed-Software/solana-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-23T01:42:43Z</updated>
+  <updated>2023-11-24T02:28:07Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ds-wizard/bh2023-report</title>
-    <updated>2023-11-23T01:42:43Z</updated>
-    <id>tag:github.com,2023-11-23:/ds-wizard/bh2023-report</id>
-    <link href="https://github.com/ds-wizard/bh2023-report" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Report for BioHackathon Europe 2023 project #8 on maSMPs with SMW&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;bh2023-report&lt;/h1&gt; &#xA;&lt;p&gt;Report for BioHackathon Europe 2023 project #8 on maSMPs with SMW&lt;/p&gt; &#xA;&lt;h2&gt;Report&lt;/h2&gt; &#xA;&lt;p&gt;You can read the report on GitHub &lt;a href=&#34;https://raw.githubusercontent.com/ds-wizard/bh2023-report/main/paper.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>
