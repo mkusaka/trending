@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:27:35Z</updated>
+  <updated>2023-11-25T01:37:37Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Olivia-li/humane.watch</title>
+    <updated>2023-11-25T01:37:37Z</updated>
+    <id>tag:github.com,2023-11-25:/Olivia-li/humane.watch</id>
+    <link href="https://github.com/Olivia-li/humane.watch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Humane ai pin on the Apple watch&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Humane Watch App&lt;/h1&gt; &#xA;&lt;h2&gt;Prerequisites&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;macOS with the latest version of Xcode installed.&lt;/li&gt; &#xA; &lt;li&gt;Python 3 and Flask installed for the server side.&lt;/li&gt; &#xA; &lt;li&gt;An Apple Watch or an iOS simulator that supports watchOS.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Setting Up the Xcode Project&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Clone the Repository&lt;/strong&gt;: Clone the project repository to your local machine. &lt;code&gt;git clone https://github.com/Olivia-li/humane.watch.git&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Open the Project in Xcode&lt;/strong&gt;:&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Navigate to the cloned directory.&lt;/li&gt; &#xA; &lt;li&gt;Open the &lt;code&gt;.xcodeproj&lt;/code&gt; file in Xcode.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ol start=&#34;3&#34;&gt; &#xA; &lt;li&gt;&lt;strong&gt;Configure the Project&lt;/strong&gt;:&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Select your Apple Watch target in Xcode.&lt;/li&gt; &#xA; &lt;li&gt;Configure the signing with your Apple Developer account.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ol start=&#34;4&#34;&gt; &#xA; &lt;li&gt;&lt;strong&gt;Build the Application&lt;/strong&gt;:&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Select your target device (Apple Watch or Simulator).&lt;/li&gt; &#xA; &lt;li&gt;Click on the ‘Build’ button (Play icon) in Xcode to compile the project.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Running the Flask Server&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;strong&gt;Install dependencies&lt;/strong&gt;: &lt;code&gt;pip install flask&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Start the Flask Server&lt;/strong&gt;: &lt;code&gt;python flask_server.py&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:25:58Z</updated>
+  <updated>2023-11-25T01:36:23Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SEJeff/salt-states</title>
-    <updated>2023-11-24T02:25:58Z</updated>
-    <id>tag:github.com,2023-11-24:/SEJeff/salt-states</id>
-    <link href="https://github.com/SEJeff/salt-states" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Work in progress set of salt states for configuring my workstations&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

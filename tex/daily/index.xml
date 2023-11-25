@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:28:07Z</updated>
+  <updated>2023-11-25T01:37:55Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ontes/superstition</title>
+    <updated>2023-11-25T01:37:55Z</updated>
+    <id>tag:github.com,2023-11-25:/ontes/superstition</id>
+    <link href="https://github.com/ontes/superstition" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Most Dangerous Superstition book&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The Most Dangerous Superstition&lt;/h1&gt; &#xA;&lt;p&gt;Archive of the legendary book The Most Dangerous Superstition by Larken Rose and home of a Czech translation made using DeepL with a tonne of manual corrections.&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;superstition-orig.md&lt;/code&gt; - original text in Markdown format&lt;br&gt; &lt;code&gt;superstition.md&lt;/code&gt; - improved text in Markdown format (some excessive quotes removed)&lt;br&gt; &lt;code&gt;latex/superstition.tex&lt;/code&gt; - improved text in LaTex format&lt;br&gt; &lt;code&gt;superstition-cz.md&lt;/code&gt; - Czech translation in Markdown format&lt;br&gt; &lt;code&gt;latex/superstition-cz.tex&lt;/code&gt; - Czech translation in LaTex format&lt;/p&gt; &#xA;&lt;p&gt;Pull requests with fixes and improvements are welcome.&lt;/p&gt; &#xA;&lt;h2&gt;Generating LaTex from Markdown&lt;/h2&gt; &#xA;&lt;p&gt;For the English version:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sed -e &#39;s/&#34;\([^&#34;]*\)&#34;/\\enquote{\1}/g&#39; -e &#39;s/\*\*\([^*]*\)\*\*/\\textbf{\1}/g&#39; -e &#39;s/\*\([^*]*\)\*/\\emph{\1}/g&#39; -e &#39;s/^# Part.*: \(.*\)/\\chapter{\1}/&#39; -e &#39;s/^## \(.*\)/\\section{\1}/&#39; -e &#39;s/ \- /---/g&#39; -e &#39;s/\- /-- /g&#39; -e &#39;s/\$/\\$/g&#39; -e &#39;s/%/\\%/g&#39; superstition.md&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;For the Czech version:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sed -e &#39;s/&#34;\([^&#34;]*\)&#34;/\\enquote{\1}/g&#39; -e &#39;s/\*\*\([^*]*\)\*\*/\\textbf{\1}/g&#39; -e &#39;s/\*\([^*]*\)\*/\\emph{\1}/g&#39; -e &#39;s/^# Část.*: \(.*\)/\\chapter{\1}/&#39; -e &#39;s/^## \(.*\)/\\section{\1}/&#39; -e &#39;s/\- /-- /g&#39; -e &#39;s/\$/\\$/g&#39; -e &#39;s/%/\\%/g&#39; superstition-cz.md&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Only works for the main body, the beginning of the file was written manually.&lt;/p&gt;</summary>
+  </entry>
 </feed>

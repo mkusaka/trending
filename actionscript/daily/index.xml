@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:11:04Z</updated>
+  <updated>2023-11-25T01:24:17Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ChitaGideon/stream</title>
+    <updated>2023-11-25T01:24:17Z</updated>
+    <id>tag:github.com,2023-11-25:/ChitaGideon/stream</id>
+    <link href="https://github.com/ChitaGideon/stream" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tiny stand-alone Actionscript 3.0 library for streams&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

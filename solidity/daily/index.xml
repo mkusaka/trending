@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:26:59Z</updated>
+  <updated>2023-11-25T01:37:08Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>morpho-org/erc20-permissioned</title>
-    <updated>2023-11-24T02:26:59Z</updated>
-    <id>tag:github.com,2023-11-24:/morpho-org/erc20-permissioned</id>
-    <link href="https://github.com/morpho-org/erc20-permissioned" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ERC20 Permissioned tokens&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Cyfrin/security-and-auditing-full-course-s23</title>
-    <updated>2023-11-24T02:26:59Z</updated>
-    <id>tag:github.com,2023-11-24:/Cyfrin/security-and-auditing-full-course-s23</id>
-    <link href="https://github.com/Cyfrin/security-and-auditing-full-course-s23" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eden-network/uniswap-v3-static-quoter</title>
+    <updated>2023-11-25T01:37:08Z</updated>
+    <id>tag:github.com,2023-11-25:/eden-network/uniswap-v3-static-quoter</id>
+    <link href="https://github.com/eden-network/uniswap-v3-static-quoter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A STATICCALL (i.e. view) friendly quoter for Uniswap V3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:20:52Z</updated>
+  <updated>2023-11-25T01:31:44Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>quarks-tech/protoevent</title>
-    <updated>2023-11-24T02:20:52Z</updated>
-    <id>tag:github.com,2023-11-24:/quarks-tech/protoevent</id>
-    <link href="https://github.com/quarks-tech/protoevent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>remerge/go-timestr</title>
+    <updated>2023-11-25T01:31:44Z</updated>
+    <id>tag:github.com,2023-11-25:/remerge/go-timestr</id>
+    <link href="https://github.com/remerge/go-timestr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Package timestr provides a cached version of the currenct time and some string representations with a 1-second precision.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>curl/curl-docker</title>
+    <updated>2023-11-25T01:31:44Z</updated>
+    <id>tag:github.com,2023-11-25:/curl/curl-docker</id>
+    <link href="https://github.com/curl/curl-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;official docker image for curl&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>remerge/go-env</title>
+    <updated>2023-11-25T01:31:44Z</updated>
+    <id>tag:github.com,2023-11-25:/remerge/go-env</id>
+    <link href="https://github.com/remerge/go-env" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Package env provides a global Env variable, similar to Rails.env.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

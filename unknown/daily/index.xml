@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:10:36Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-11-25T01:23:54Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Morakito/Real-Time-Rendering-4th-CN</title>
-    <updated>2023-11-24T02:10:36Z</updated>
-    <id>tag:github.com,2023-11-24:/Morakito/Real-Time-Rendering-4th-CN</id>
-    <link href="https://github.com/Morakito/Real-Time-Rendering-4th-CN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;《Real-Time Rendering 4th》 (RTR4) 中文翻译&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>teslamotors/roadster</title>
+    <updated>2023-11-25T01:23:54Z</updated>
+    <id>tag:github.com,2023-11-25:/teslamotors/roadster</id>
+    <link href="https://github.com/teslamotors/roadster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2008-2012 Roadster Development and Diagnostic Software files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zhashkevych/awesome-backend</title>
-    <updated>2023-11-24T02:10:36Z</updated>
-    <id>tag:github.com,2023-11-24:/zhashkevych/awesome-backend</id>
-    <link href="https://github.com/zhashkevych/awesome-backend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 A curated and opinionated list of resources (English &amp; Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>in28minutes/java-tutorial-for-beginners</title>
+    <updated>2023-11-25T01:23:54Z</updated>
+    <id>tag:github.com,2023-11-25:/in28minutes/java-tutorial-for-beginners</id>
+    <link href="https://github.com/in28minutes/java-tutorial-for-beginners" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Java Tutorial For Beginners with 500 Code Examples&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>stickfigure/blog</title>
-    <updated>2023-11-24T02:10:36Z</updated>
-    <id>tag:github.com,2023-11-24:/stickfigure/blog</id>
-    <link href="https://github.com/stickfigure/blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jeff Schnitzer&#39;s Blog&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DirtyHarryLYL/LLM-in-Vision</title>
+    <updated>2023-11-25T01:23:54Z</updated>
+    <id>tag:github.com,2023-11-25:/DirtyHarryLYL/LLM-in-Vision</id>
+    <link href="https://github.com/DirtyHarryLYL/LLM-in-Vision" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Recent LLM-based CV and related works. Welcome to comment/contribute!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

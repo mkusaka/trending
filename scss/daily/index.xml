@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:26:13Z</updated>
+  <updated>2023-11-25T01:36:35Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>godotengine/discourse-theme</title>
-    <updated>2023-11-24T02:26:13Z</updated>
-    <id>tag:github.com,2023-11-24:/godotengine/discourse-theme</id>
-    <link href="https://github.com/godotengine/discourse-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A custom Godot styled theme for discourse&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tecg-dcc/examen-dcc-janvier-2021-2022</title>
-    <updated>2023-11-24T02:26:13Z</updated>
-    <id>tag:github.com,2023-11-24:/tecg-dcc/examen-dcc-janvier-2021-2022</id>
-    <link href="https://github.com/tecg-dcc/examen-dcc-janvier-2021-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mozilla/extension-workshop</title>
-    <updated>2023-11-24T02:26:13Z</updated>
-    <id>tag:github.com,2023-11-24:/mozilla/extension-workshop</id>
-    <link href="https://github.com/mozilla/extension-workshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Firefox Extension Workshop&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

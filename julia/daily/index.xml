@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:19:21Z</updated>
+  <updated>2023-11-25T01:30:40Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AtomicFrontierCode/keyboards</title>
-    <updated>2023-11-24T02:19:21Z</updated>
-    <id>tag:github.com,2023-11-24:/AtomicFrontierCode/keyboards</id>
-    <link href="https://github.com/AtomicFrontierCode/keyboards" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simulated annealing code for video&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gridap/GridapWorkshop2023Material</title>
+    <updated>2023-11-25T01:30:40Z</updated>
+    <id>tag:github.com,2023-11-25:/gridap/GridapWorkshop2023Material</id>
+    <link href="https://github.com/gridap/GridapWorkshop2023Material" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material corresponding to the Gridap Workshop, held at ANU Canberra, Australia, 28th/29th, Nov, 2023&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>itsdfish/QuantumPrisonersDilemmaModel.jl</title>
-    <updated>2023-11-24T02:19:21Z</updated>
-    <id>tag:github.com,2023-11-24:/itsdfish/QuantumPrisonersDilemmaModel.jl</id>
-    <link href="https://github.com/itsdfish/QuantumPrisonersDilemmaModel.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia package for the quantum prisoner&#39;s dilemma model.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>beacon-biosignals/GoAWS.jl</title>
-    <updated>2023-11-24T02:19:21Z</updated>
-    <id>tag:github.com,2023-11-24:/beacon-biosignals/GoAWS.jl</id>
-    <link href="https://github.com/beacon-biosignals/GoAWS.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia wrapper of goaws&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cardo-org/Visor.jl</title>
+    <updated>2023-11-25T01:30:40Z</updated>
+    <id>tag:github.com,2023-11-25:/cardo-org/Visor.jl</id>
+    <link href="https://github.com/cardo-org/Visor.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tasks supervisor for long-running and fault tolerant applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

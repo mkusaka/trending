@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:22:59Z</updated>
+  <updated>2023-11-25T01:33:30Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>aso14/DTelegram</title>
-    <updated>2023-11-24T02:22:59Z</updated>
-    <id>tag:github.com,2023-11-24:/aso14/DTelegram</id>
-    <link href="https://github.com/aso14/DTelegram" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a Delphi Component for interacting with the Telegram Bot API. It provides a set of functions to perform various actions using the Telegram Bot platform.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

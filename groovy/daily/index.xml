@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:17:17Z</updated>
+  <updated>2023-11-25T01:29:06Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eclipse-openj9/openj9-docs</title>
-    <updated>2023-11-24T02:17:17Z</updated>
-    <id>tag:github.com,2023-11-24:/eclipse-openj9/openj9-docs</id>
-    <link href="https://github.com/eclipse-openj9/openj9-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source repository for the Eclipse OpenJ9 user documentation, which should be viewed [online]https://www.eclipse.org/openj9/docs/&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>grimrose/ltsv4groovy</title>
-    <updated>2023-11-24T02:17:17Z</updated>
-    <id>tag:github.com,2023-11-24:/grimrose/ltsv4groovy</id>
-    <link href="https://github.com/grimrose/ltsv4groovy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

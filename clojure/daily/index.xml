@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:13:35Z</updated>
+  <updated>2023-11-25T01:26:00Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>trevorbernard/phaser</title>
-    <updated>2023-11-24T02:13:35Z</updated>
-    <id>tag:github.com,2023-11-24:/trevorbernard/phaser</id>
-    <link href="https://github.com/trevorbernard/phaser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Clojure DSL for the LMAX Disruptor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nilenso/bean</title>
+    <updated>2023-11-25T01:26:00Z</updated>
+    <id>tag:github.com,2023-11-25:/nilenso/bean</id>
+    <link href="https://github.com/nilenso/bean" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Spreadsheet Playground&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>adamjmarkham/trade-with-confidence</title>
+    <updated>2023-11-25T01:26:00Z</updated>
+    <id>tag:github.com,2023-11-25:/adamjmarkham/trade-with-confidence</id>
+    <link href="https://github.com/adamjmarkham/trade-with-confidence" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Stock Market price prediction tool polyglot project using Neural Networks, Clojure, Java with Seesaw Swing library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cldwalker/emoji</title>
+    <updated>2023-11-25T01:26:00Z</updated>
+    <id>tag:github.com,2023-11-25:/cldwalker/emoji</id>
+    <link href="https://github.com/cldwalker/emoji" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;middleware/interceptorware to add bundled emoji images&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

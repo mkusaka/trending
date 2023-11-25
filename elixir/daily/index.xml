@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:15:39Z</updated>
+  <updated>2023-11-25T01:27:41Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>podlove/radiator</title>
-    <updated>2023-11-24T02:15:39Z</updated>
-    <id>tag:github.com,2023-11-24:/podlove/radiator</id>
-    <link href="https://github.com/podlove/radiator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Podcast Hosting &amp; Publishing | The spark ✨ that lights the fire 🔥&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

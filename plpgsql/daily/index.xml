@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:23:35Z</updated>
+  <updated>2023-11-25T01:34:03Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>O-clock-Gyoza/OQuizz-Atelier-SybCoinCoin</title>
-    <updated>2023-11-24T02:23:35Z</updated>
-    <id>tag:github.com,2023-11-24:/O-clock-Gyoza/OQuizz-Atelier-SybCoinCoin</id>
-    <link href="https://github.com/O-clock-Gyoza/OQuizz-Atelier-SybCoinCoin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;created by O&#39;challenge&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

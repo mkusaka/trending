@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-24T02:26:01Z</updated>
+  <updated>2023-11-25T01:36:26Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eed3si9n/recipes</title>
-    <updated>2023-11-24T02:26:01Z</updated>
-    <id>tag:github.com,2023-11-24:/eed3si9n/recipes</id>
-    <link href="https://github.com/eed3si9n/recipes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ngocduy-pham/yinyang-benchhack</title>
-    <updated>2023-11-24T02:26:01Z</updated>
-    <id>tag:github.com,2023-11-24:/ngocduy-pham/yinyang-benchhack</id>
-    <link href="https://github.com/ngocduy-pham/yinyang-benchhack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MPDE - Meta programming based library for deep embedding of DSLs&lt;/h1&gt; &#xA;&lt;p&gt;MPDE is a library that provides the infrastructure for easy development of deeply embedded DSLs.&lt;/p&gt; &#xA;&lt;p&gt;The problem with deeply embedded DSLs is that types in the DSL are usually fairly complex and corresponding type errors can be very hard to debug. The main idea of this project is to use a regular scala interface (shallow embedding) for the DSL and automatically convert it into the deep embedding by using Scala macros.&lt;/p&gt; &#xA;&lt;p&gt;Currently the project works only with typed macros and it is in early stages of development. Any ideas, desires, pull requests and bug reports are very welcome. We dicourage you to use it in production environment.&lt;/p&gt; &#xA;&lt;h2&gt;Development&lt;/h2&gt; &#xA;&lt;p&gt;To build this project you will need &lt;a href=&#34;http://www.scala-sbt.org/0.12.2/docs/home.html&#34;&gt;SBT 0.12.x&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;To use Eclipse in sbt type the command &lt;em&gt;eclipse&lt;/em&gt; to create Eclipse project files:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&amp;gt; eclipse&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;In Eclipse use the &lt;em&gt;Import Wizard&lt;/em&gt; to import &lt;em&gt;Existing Projects into Workspace&lt;/em&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>yanns/play2-crsf-protection</title>
-    <updated>2023-11-24T02:26:01Z</updated>
-    <id>tag:github.com,2023-11-24:/yanns/play2-crsf-protection</id>
-    <link href="https://github.com/yanns/play2-crsf-protection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experiment with ways to protect against CRSF attacks with playframework 2 and scala&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;play2-crsf-protection&lt;/h1&gt; &#xA;&lt;p&gt;Experiment protection against CRSF attacks with playframework 2 and scala&lt;/p&gt; &#xA;&lt;p&gt;Credits to &lt;a href=&#34;https://github.com/julienrf/chooze/raw/master/app/controllers/AuthenticationToken.scala&#34;&gt;https://github.com/julienrf/chooze/blob/master/app/controllers/AuthenticationToken.scala&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>
