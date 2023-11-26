@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-25T01:29:24Z</updated>
+  <updated>2023-11-26T01:36:06Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>terraform-aws-modules/terraform-aws-efs</title>
-    <updated>2023-11-25T01:29:24Z</updated>
-    <id>tag:github.com,2023-11-25:/terraform-aws-modules/terraform-aws-efs</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-efs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates AWS EFS resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lacework/terraform-kubernetes-agent</title>
-    <updated>2023-11-25T01:29:24Z</updated>
-    <id>tag:github.com,2023-11-25:/lacework/terraform-kubernetes-agent</id>
-    <link href="https://github.com/lacework/terraform-kubernetes-agent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Terraform Module to create a Secret and DaemonSet for deploying the Lacework Datacollector Agent in a Kubernetes cluster.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>VitoUtopico/iac-para-kubernetes</title>
-    <updated>2023-11-25T01:29:24Z</updated>
-    <id>tag:github.com,2023-11-25:/VitoUtopico/iac-para-kubernetes</id>
-    <link href="https://github.com/VitoUtopico/iac-para-kubernetes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Baseado em outros repositórios, cursos e experiência profissional anterior, construindo este repositório para subir um ambiente Kubernetes da maneira mais automatizada e mais agnóstica de infra (cloud ou on premise) possível.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

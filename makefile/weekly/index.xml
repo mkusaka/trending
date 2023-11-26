@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-26T01:54:13Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework</title>
+    <updated>2023-11-26T01:54:13Z</updated>
+    <id>tag:github.com,2023-11-26:/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework</id>
+    <link href="https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The European Digital Identity Wallet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ahnet-69/treble_evo</title>
+    <updated>2023-11-26T01:54:13Z</updated>
+    <id>tag:github.com,2023-11-26:/ahnet-69/treble_evo</id>
+    <link href="https://github.com/ahnet-69/treble_evo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Patches to build Evolution-X as Trebbledroid GSI.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>remerge/go-env</title>
+    <updated>2023-11-26T01:54:13Z</updated>
+    <id>tag:github.com,2023-11-26:/remerge/go-env</id>
+    <link href="https://github.com/remerge/go-env" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Package env provides a global Env variable, similar to Rails.env.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

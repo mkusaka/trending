@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-25T01:29:14Z</updated>
+  <updated>2023-11-26T01:35:57Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>charlesfrye/raskell</title>
-    <updated>2023-11-25T01:29:14Z</updated>
-    <id>tag:github.com,2023-11-25:/charlesfrye/raskell</id>
-    <link href="https://github.com/charlesfrye/raskell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RASP-L in Haskell for my fellow rascals&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;code&gt;raskell&lt;/code&gt;: RASP-L in Haskell&lt;/h1&gt; &#xA;&lt;p&gt;Implements the RASP-L language from &lt;a href=&#34;https://arxiv.org/abs/2310.16028&#34;&gt;What Algorithms Can Transformers Learn&lt;/a&gt; by Zhou et al. in Haskell.&lt;/p&gt; &#xA;&lt;p&gt;Includes the entire RASP-L Core from Listing 2 (&lt;code&gt;src/Core.hs&lt;/code&gt;), some of the RASP-L Standard Library from Listing 3 (&lt;code&gt;src/Lib.hs&lt;/code&gt;), and some sample programs (in &lt;code&gt;app/&lt;/code&gt;).&lt;/p&gt; &#xA;&lt;p&gt;RASP-L is a domain-specific language that models the behavior of Transformers on algorithmic tasks.&lt;/p&gt; &#xA;&lt;p&gt;Here it is running just about the worst sorting algorithm imaginable:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haskell&#34;&gt;-- | Θ(n^2) time sorting algorithm&#xA;sort :: [Token] -&amp;gt; [Token]&#xA;sort xs = sample endOfSequence raspSort (xs ++ [startOfSequence]) numTokens&#xA;  where&#xA;    startOfSequence = minBound&#xA;    endOfSequence = maximum xs&#xA;    raspSort :: Sequence -&amp;gt; Sequence&#xA;    -- Sort by looking for the smallest element greater than the current token&#xA;    raspSort s = minKQV s s gt s&#xA;    numTokens = fromIntegral (length xs)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>kwanghoon/sudoku</title>
+    <updated>2023-11-26T01:35:57Z</updated>
+    <id>tag:github.com,2023-11-26:/kwanghoon/sudoku</id>
+    <link href="https://github.com/kwanghoon/sudoku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

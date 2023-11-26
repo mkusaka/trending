@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-25T01:38:41Z</updated>
+  <updated>2023-11-26T01:45:27Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lukemetz/vim</title>
-    <updated>2023-11-25T01:38:41Z</updated>
-    <id>tag:github.com,2023-11-25:/lukemetz/vim</id>
-    <link href="https://github.com/lukemetz/vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My vim config&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>duane9/nvim-rg</title>
+    <updated>2023-11-26T01:45:27Z</updated>
+    <id>tag:github.com,2023-11-26:/duane9/nvim-rg</id>
+    <link href="https://github.com/duane9/nvim-rg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run ripgrep from Neovim asynchronously.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>junegunn/vim-peekaboo</title>
-    <updated>2023-11-25T01:38:41Z</updated>
-    <id>tag:github.com,2023-11-25:/junegunn/vim-peekaboo</id>
-    <link href="https://github.com/junegunn/vim-peekaboo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👀 &#34; / @ / CTRL-R&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>burk3/.dotfiles</title>
+    <updated>2023-11-26T01:45:27Z</updated>
+    <id>tag:github.com,2023-11-26:/burk3/.dotfiles</id>
+    <link href="https://github.com/burk3/.dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-25T01:37:08Z</updated>
+  <updated>2023-11-26T01:43:57Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>eden-network/uniswap-v3-static-quoter</title>
-    <updated>2023-11-25T01:37:08Z</updated>
-    <id>tag:github.com,2023-11-25:/eden-network/uniswap-v3-static-quoter</id>
-    <link href="https://github.com/eden-network/uniswap-v3-static-quoter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A STATICCALL (i.e. view) friendly quoter for Uniswap V3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>openbuildxyz/solidity_bootcamp</title>
+    <updated>2023-11-26T01:43:57Z</updated>
+    <id>tag:github.com,2023-11-26:/openbuildxyz/solidity_bootcamp</id>
+    <link href="https://github.com/openbuildxyz/solidity_bootcamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solidity Bootcamp&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PopPunkLLC/gaslite-core</title>
+    <updated>2023-11-26T01:43:57Z</updated>
+    <id>tag:github.com,2023-11-26:/PopPunkLLC/gaslite-core</id>
+    <link href="https://github.com/PopPunkLLC/gaslite-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gaslite&#39;s Highly Optimized Smart Contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

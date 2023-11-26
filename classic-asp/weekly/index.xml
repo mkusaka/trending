@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Classic ASP Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-26T01:48:17Z</updated>
+  <subtitle>Weekly Trending of Classic ASP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pmrusso/WBS-Labs</title>
+    <updated>2023-11-26T01:48:17Z</updated>
+    <id>tag:github.com,2023-11-26:/pmrusso/WBS-Labs</id>
+    <link href="https://github.com/pmrusso/WBS-Labs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Home to the Lab activities of the WalkerBoysStudio&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>girdharrahul/ComplaintBooking</title>
+    <updated>2023-11-26T01:48:17Z</updated>
+    <id>tag:github.com,2023-11-26:/girdharrahul/ComplaintBooking</id>
+    <link href="https://github.com/girdharrahul/ComplaintBooking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Complaint Booking System&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-26T01:54:17Z</updated>
+  <subtitle>Weekly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dpritchard/mrg</title>
+    <updated>2023-11-26T01:54:17Z</updated>
+    <id>tag:github.com,2023-11-26:/dpritchard/mrg</id>
+    <link href="https://github.com/dpritchard/mrg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MRG MATLAB Toolbox&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pulseq/ISMRM-Virtual-Meeting--November-15-17-2023</title>
+    <updated>2023-11-26T01:54:17Z</updated>
+    <id>tag:github.com,2023-11-26:/pulseq/ISMRM-Virtual-Meeting--November-15-17-2023</id>
+    <link href="https://github.com/pulseq/ISMRM-Virtual-Meeting--November-15-17-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vendor-Agnostic Pulse Sequence Programming with Pulseq: From Basics to Advanced Topics (A Three-Day ISMRM Virtual Meeting Series)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>compops/ml-examples</title>
+    <updated>2023-11-26T01:54:17Z</updated>
+    <id>tag:github.com,2023-11-26:/compops/ml-examples</id>
+    <link href="https://github.com/compops/ml-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Implementations from a graduate course following &#34;Pattern Recognition and Machine Learning) written by Bishop and published in 2006.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

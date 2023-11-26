@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-25T01:26:00Z</updated>
+  <updated>2023-11-26T01:32:58Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nilenso/bean</title>
-    <updated>2023-11-25T01:26:00Z</updated>
-    <id>tag:github.com,2023-11-25:/nilenso/bean</id>
-    <link href="https://github.com/nilenso/bean" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Spreadsheet Playground&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adamjmarkham/trade-with-confidence</title>
-    <updated>2023-11-25T01:26:00Z</updated>
-    <id>tag:github.com,2023-11-25:/adamjmarkham/trade-with-confidence</id>
-    <link href="https://github.com/adamjmarkham/trade-with-confidence" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Stock Market price prediction tool polyglot project using Neural Networks, Clojure, Java with Seesaw Swing library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cldwalker/emoji</title>
-    <updated>2023-11-25T01:26:00Z</updated>
-    <id>tag:github.com,2023-11-25:/cldwalker/emoji</id>
-    <link href="https://github.com/cldwalker/emoji" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;middleware/interceptorware to add bundled emoji images&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jnicklas/hardhat</title>
+    <updated>2023-11-26T01:32:58Z</updated>
+    <id>tag:github.com,2023-11-26:/jnicklas/hardhat</id>
+    <link href="https://github.com/jnicklas/hardhat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Toy project which attempts to build a hiccup like HTML generator, except with autoescaping&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

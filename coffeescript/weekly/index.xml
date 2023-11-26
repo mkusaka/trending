@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-26T01:48:28Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>crcn/node-s3cp</title>
+    <updated>2023-11-26T01:48:28Z</updated>
+    <id>tag:github.com,2023-11-26:/crcn/node-s3cp</id>
+    <link href="https://github.com/crcn/node-s3cp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;s3 file copy&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jneen/skim</title>
+    <updated>2023-11-26T01:48:28Z</updated>
+    <id>tag:github.com,2023-11-26:/jneen/skim</id>
+    <link href="https://github.com/jneen/skim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a subset of scheme implemented in a live coding demo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

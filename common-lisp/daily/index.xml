@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-25T01:26:09Z</updated>
+  <updated>2023-11-26T01:33:05Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Shinmera/machine-state</title>
+    <updated>2023-11-26T01:33:05Z</updated>
+    <id>tag:github.com,2023-11-26:/Shinmera/machine-state</id>
+    <link href="https://github.com/Shinmera/machine-state" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Retrieve machine state information about CPU time, memory usage, etc.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;About machine-state&lt;/h2&gt; &#xA;&lt;p&gt;This library implements various functions to access status information about the machine, process, etc.&lt;/p&gt; &#xA;&lt;h2&gt;How To&lt;/h2&gt; &#xA;&lt;p&gt;Since this is a toolkit library, please simply refer to the symbol index for available functions and their behaviour.&lt;/p&gt; &#xA;&lt;h2&gt;Implementation Support&lt;/h2&gt; &#xA;&lt;p&gt;Fetching information about threads that aren&#39;t the current one, or GC related information requires implementation support. The following implementations are fully or partially supported:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;CCL&lt;/li&gt; &#xA; &lt;li&gt;Clasp&lt;/li&gt; &#xA; &lt;li&gt;ECL&lt;/li&gt; &#xA; &lt;li&gt;SBCL&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

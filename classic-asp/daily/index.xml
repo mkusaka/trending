@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-25T01:25:54Z</updated>
+  <updated>2023-11-26T01:32:49Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>girdharrahul/ComplaintBooking</title>
+    <updated>2023-11-26T01:32:49Z</updated>
+    <id>tag:github.com,2023-11-26:/girdharrahul/ComplaintBooking</id>
+    <link href="https://github.com/girdharrahul/ComplaintBooking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Complaint Booking System&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

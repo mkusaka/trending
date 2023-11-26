@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-25T01:23:54Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-11-26T01:31:00Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>teslamotors/roadster</title>
-    <updated>2023-11-25T01:23:54Z</updated>
-    <id>tag:github.com,2023-11-25:/teslamotors/roadster</id>
-    <link href="https://github.com/teslamotors/roadster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2008-2012 Roadster Development and Diagnostic Software files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>awslabs/aws-sdk-rust</title>
+    <updated>2023-11-26T01:31:00Z</updated>
+    <id>tag:github.com,2023-11-26:/awslabs/aws-sdk-rust</id>
+    <link href="https://github.com/awslabs/aws-sdk-rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS SDK for the Rust Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>in28minutes/java-tutorial-for-beginners</title>
-    <updated>2023-11-25T01:23:54Z</updated>
-    <id>tag:github.com,2023-11-25:/in28minutes/java-tutorial-for-beginners</id>
-    <link href="https://github.com/in28minutes/java-tutorial-for-beginners" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Java Tutorial For Beginners with 500 Code Examples&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cap-so/cap</title>
+    <updated>2023-11-26T01:31:00Z</updated>
+    <id>tag:github.com,2023-11-26:/cap-so/cap</id>
+    <link href="https://github.com/cap-so/cap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Beautiful, shareable screen recordings. Open-source and privacy-friendly.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DirtyHarryLYL/LLM-in-Vision</title>
-    <updated>2023-11-25T01:23:54Z</updated>
-    <id>tag:github.com,2023-11-25:/DirtyHarryLYL/LLM-in-Vision</id>
-    <link href="https://github.com/DirtyHarryLYL/LLM-in-Vision" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Recent LLM-based CV and related works. Welcome to comment/contribute!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yonggekkk/sing-box-yg</title>
+    <updated>2023-11-26T01:31:00Z</updated>
+    <id>tag:github.com,2023-11-26:/yonggekkk/sing-box-yg</id>
+    <link href="https://github.com/yonggekkk/sing-box-yg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sing-box精装桶一键脚本【Vless-reality、Vmess-ws、Hysteria2、Tuic5】：支持Argo隧道、多端口跳跃、域名+geosite分流、IP优先切换、自签/acme证书切换、节点TG推送，二维码、Clash-Meta，SFA/SFI/SFW统一配置&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

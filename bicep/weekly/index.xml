@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-11-26T01:47:22Z</updated>
+  <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/azure-openai-apim-load-balancing</title>
+    <updated>2023-11-26T01:47:22Z</updated>
+    <id>tag:github.com,2023-11-26:/Azure-Samples/azure-openai-apim-load-balancing</id>
+    <link href="https://github.com/Azure-Samples/azure-openai-apim-load-balancing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This sample demonstrates how to load balance requests between multiple Azure OpenAI Services using Azure API Management.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
