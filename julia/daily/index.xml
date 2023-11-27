@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-26T01:37:42Z</updated>
+  <updated>2023-11-27T01:35:15Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>songhanzhang/TFEA.jl</title>
-    <updated>2023-11-26T01:37:42Z</updated>
-    <id>tag:github.com,2023-11-26:/songhanzhang/TFEA.jl</id>
-    <link href="https://github.com/songhanzhang/TFEA.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Toolbox for Finite Element Analysis&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cncastillo/KomaMRI.jl</title>
-    <updated>2023-11-26T01:37:42Z</updated>
-    <id>tag:github.com,2023-11-26:/cncastillo/KomaMRI.jl</id>
-    <link href="https://github.com/cncastillo/KomaMRI.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Koma is a Pulseq-compatible framework to efficiently simulate Magnetic Resonance Imaging (MRI) acquisitions. The main focus of this package is to simulate general scenarios that could arise in pulse sequence development.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

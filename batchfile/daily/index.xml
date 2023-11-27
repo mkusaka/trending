@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-26T01:31:55Z</updated>
+  <updated>2023-11-27T01:27:40Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PaperMC/Folia</title>
-    <updated>2023-11-26T01:31:55Z</updated>
-    <id>tag:github.com,2023-11-26:/PaperMC/Folia</id>
-    <link href="https://github.com/PaperMC/Folia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fork of Paper which adds regionised multithreading to the dedicated server.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

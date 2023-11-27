@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-26T01:31:00Z</updated>
+  <updated>2023-11-27T01:26:27Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>awslabs/aws-sdk-rust</title>
-    <updated>2023-11-26T01:31:00Z</updated>
-    <id>tag:github.com,2023-11-26:/awslabs/aws-sdk-rust</id>
-    <link href="https://github.com/awslabs/aws-sdk-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AWS SDK for the Rust Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Boese0601/MagicDance</title>
+    <updated>2023-11-27T01:26:27Z</updated>
+    <id>tag:github.com,2023-11-27:/Boese0601/MagicDance</id>
+    <link href="https://github.com/Boese0601/MagicDance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MagicDance: Realistic Human Dance Video Generation with Motions &amp; Facial Expressions Transfer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cap-so/cap</title>
-    <updated>2023-11-26T01:31:00Z</updated>
-    <id>tag:github.com,2023-11-26:/cap-so/cap</id>
-    <link href="https://github.com/cap-so/cap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Beautiful, shareable screen recordings. Open-source and privacy-friendly.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kongkongyo/m3u8</title>
+    <updated>2023-11-27T01:26:27Z</updated>
+    <id>tag:github.com,2023-11-27:/kongkongyo/m3u8</id>
+    <link href="https://github.com/kongkongyo/m3u8" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CCTV m3u8 流畅稳定直播源&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yonggekkk/sing-box-yg</title>
-    <updated>2023-11-26T01:31:00Z</updated>
-    <id>tag:github.com,2023-11-26:/yonggekkk/sing-box-yg</id>
-    <link href="https://github.com/yonggekkk/sing-box-yg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sing-box精装桶一键脚本【Vless-reality、Vmess-ws、Hysteria2、Tuic5】：支持Argo隧道、多端口跳跃、域名+geosite分流、IP优先切换、自签/acme证书切换、节点TG推送，二维码、Clash-Meta，SFA/SFI/SFW统一配置&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ms2ag16/Books</title>
+    <updated>2023-11-27T01:26:27Z</updated>
+    <id>tag:github.com,2023-11-27:/ms2ag16/Books</id>
+    <link href="https://github.com/ms2ag16/Books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

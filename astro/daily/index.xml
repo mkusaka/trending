@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-26T01:31:41Z</updated>
+  <updated>2023-11-27T01:27:24Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>FOSS-Community/fossconf</title>
-    <updated>2023-11-26T01:31:41Z</updated>
-    <id>tag:github.com,2023-11-26:/FOSS-Community/fossconf</id>
-    <link href="https://github.com/FOSS-Community/fossconf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;website for fosscu conference&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

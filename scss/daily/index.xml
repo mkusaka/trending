@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-26T01:43:26Z</updated>
+  <updated>2023-11-27T01:42:32Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Reyshi084/game-counter</title>
-    <updated>2023-11-26T01:43:26Z</updated>
-    <id>tag:github.com,2023-11-26:/Reyshi084/game-counter</id>
-    <link href="https://github.com/Reyshi084/game-counter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;モンスターストライクのEX周回専用カウンター&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

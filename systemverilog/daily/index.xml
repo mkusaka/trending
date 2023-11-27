@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-26T01:44:36Z</updated>
+  <updated>2023-11-27T01:43:58Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AsFigo/pyslint</title>
-    <updated>2023-11-26T01:44:36Z</updated>
-    <id>tag:github.com,2023-11-26:/AsFigo/pyslint</id>
-    <link href="https://github.com/AsFigo/pyslint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SystemVerilog Linter based on pyslang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>c7w/cod22-grp64</title>
-    <updated>2023-11-26T01:44:36Z</updated>
-    <id>tag:github.com,2023-11-26:/c7w/cod22-grp64</id>
-    <link href="https://github.com/c7w/cod22-grp64" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&gt;&gt;&gt; 异常中断 + 虚存页表 + 分支预测 + TLB + Cache + Flash + VGA + uCore&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
