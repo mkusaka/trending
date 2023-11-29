@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-28T01:33:01Z</updated>
+  <updated>2023-11-29T01:31:55Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tansuotv/IPTVindex</title>
+    <updated>2023-11-29T01:31:55Z</updated>
+    <id>tag:github.com,2023-11-29:/tansuotv/IPTVindex</id>
+    <link href="https://github.com/tansuotv/IPTVindex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enjoy IPTV !&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href=&#34;https://iptvindex.com/&#34;&gt;IPTVindex.com&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;Enjoy IPTV !&lt;/p&gt; &#xA;&lt;p&gt;电视直播源接口：&lt;br&gt; &lt;code&gt;https://iptvindex.com/tv.txt&lt;/code&gt;&lt;br&gt; EPG接口：&lt;br&gt; &lt;code&gt;http://diyp.112114.xyz&lt;/code&gt;&lt;br&gt; 影视点播接口：&lt;br&gt; 1.应用多多 &lt;code&gt;https://jihulab.com/duomv/apps/-/raw/main/fast.json&lt;/code&gt;&lt;br&gt; 2.老刘备 &lt;code&gt;https://raw.liucn.cc/box/dm.txt&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;所有播放源均收集于互联网，仅供测试研究使用，不得商用。&lt;/p&gt;</summary>
+  </entry>
 </feed>

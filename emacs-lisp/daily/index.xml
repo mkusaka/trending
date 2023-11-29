@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-28T01:30:54Z</updated>
+  <updated>2023-11-29T01:29:56Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xenodium/EmacsMacOSModule</title>
+    <updated>2023-11-29T01:29:56Z</updated>
+    <id>tag:github.com,2023-11-29:/xenodium/EmacsMacOSModule</id>
+    <link href="https://github.com/xenodium/EmacsMacOSModule" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;👉 [[https://github.com/sponsors/xenodium][Support this work via GitHub Sponsors]]&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;An Emacs macOS module&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;#+HTML: &lt;img src=&#34;https://raw.githubusercontent.com/xenodium/EmacsMacOSModule/main/images/share.webp&#34; alt=&#34;macOS sharing files from Emacs dired&#34; width=&#34;80%&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;While extending Emacs is best done in elisp, closer macOS integrations are only possible by using native APIs.&lt;/p&gt; &#xA;&lt;p&gt;[[https://github.com/SavchenkoValeriy/emacs-swift-module][emacs-swift-module]] enables loading native modules into Emacs, and thus extending with Swift native macOS APIs.&lt;/p&gt; &#xA;&lt;p&gt;For now, this is mostly an experiment to exercise [[https://github.com/SavchenkoValeriy/emacs-swift-module][emacs-swift-module]] and see where we can take native integrations.&lt;/p&gt; &#xA;&lt;p&gt;This repo currently includes native Emacs interactive commands to reveal files and share them. For example, AirDrop your current buffer or a selection of dired files.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Setup&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Open =macos.el= and =M-x eval-buffer=.&lt;/li&gt; &#xA; &lt;li&gt;Run =M-x macos-module-dev-reload= to build and load the native module.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Utilities&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;#+BEGIN_SRC emacs-lisp :results table :colnames &#39;(&#34;Command&#34; &#34;Description&#34;) :exports results (let ((rows)) (mapatoms (lambda (symbol) (when (and (string-match &#34;^macos-&#34; (symbol-name symbol)) (not (string-match &#34;git-set-author-name-and-email-credentials&#34; (symbol-name symbol))) (commandp symbol)) (push `(,(symbol-name symbol) ,(car (split-string (or (documentation symbol t) &#34;&#34;) &#34;\n&#34;))) rows)))) (seq-sort (lambda (row1 row2) (string-greaterp (seq-elt row2 0) (seq-elt row1 0))) rows)) #+END_SRC&lt;/p&gt; &#xA;&lt;p&gt;#+RESULTS: | Command | Description | |-------------------------+--------------------------------------| | macos-module-dev-reload | Rebuild and reload native module. | | macos-reveal-in-finder | Reveal file(s) in macOS Finder. | | macos-share | Share file(s) with other macOS apps. |&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>daniel-ness/magemacs</title>
+    <updated>2023-11-29T01:29:56Z</updated>
+    <id>tag:github.com,2023-11-29:/daniel-ness/magemacs</id>
+    <link href="https://github.com/daniel-ness/magemacs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An emacs major-mode&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;mage-mode&lt;/h1&gt; &#xA;&lt;p&gt;An emacs major-mode&lt;/p&gt;</summary>
+  </entry>
 </feed>

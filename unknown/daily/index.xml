@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-28T01:26:04Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-11-29T01:26:04Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jordan-cutler/path-to-senior-engineer-handbook</title>
+    <updated>2023-11-29T01:26:04Z</updated>
+    <id>tag:github.com,2023-11-29:/jordan-cutler/path-to-senior-engineer-handbook</id>
+    <link href="https://github.com/jordan-cutler/path-to-senior-engineer-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All the resources you need to get to Senior Engineer and beyond&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HuskyDG/magisk-files</title>
+    <updated>2023-11-29T01:26:04Z</updated>
+    <id>tag:github.com,2023-11-29:/HuskyDG/magisk-files</id>
+    <link href="https://github.com/HuskyDG/magisk-files" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>joevess/IPTV</title>
+    <updated>2023-11-29T01:26:04Z</updated>
+    <id>tag:github.com,2023-11-29:/joevess/IPTV</id>
+    <link href="https://github.com/joevess/IPTV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IPTV直播源抓取 自动整合好趣网直播源+月光宝盒Box直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
