@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-29T01:29:47Z</updated>
+  <updated>2023-11-30T01:30:53Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>diego40g/EJS_Struct</title>
-    <updated>2023-11-29T01:29:47Z</updated>
-    <id>tag:github.com,2023-11-29:/diego40g/EJS_Struct</id>
-    <link href="https://github.com/diego40g/EJS_Struct" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Base structure of a project to develop with ejs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

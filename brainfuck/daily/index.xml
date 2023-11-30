@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Brainfuck Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-29T01:27:14Z</updated>
+  <updated>2023-11-30T01:27:50Z</updated>
   <subtitle>Daily Trending of Brainfuck in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bf-enterprise-solutions/ed.bf</title>
+    <updated>2023-11-30T01:27:50Z</updated>
+    <id>tag:github.com,2023-11-30:/bf-enterprise-solutions/ed.bf</id>
+    <link href="https://github.com/bf-enterprise-solutions/ed.bf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Infinitely configurable integrated IDE and text editor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

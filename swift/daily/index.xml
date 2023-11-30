@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-29T01:40:32Z</updated>
+  <updated>2023-11-30T01:43:17Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jordansinger/UIDraw</title>
-    <updated>2023-11-29T01:40:32Z</updated>
-    <id>tag:github.com,2023-11-29:/jordansinger/UIDraw</id>
-    <link href="https://github.com/jordansinger/UIDraw" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Draw and build a website on your phone.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;UIDraw&lt;/h1&gt; &#xA;&lt;p&gt;Draw and build a website on your phone. &lt;a href=&#34;https://x.com/jsngr/status/1728848624048853442?s=20&#34;&gt;Watch the demo&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Uses GPT-4 Vision and PencilKit/PKCanvasView to draw a UI and convert it into HTML.&lt;/p&gt; &#xA;&lt;p&gt;Be sure to replace the &lt;code&gt;OPENAIKEY&lt;/code&gt; with your OpenAI API key.&lt;/p&gt;</summary>
-  </entry>
 </feed>

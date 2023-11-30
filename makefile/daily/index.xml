@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-29T01:34:53Z</updated>
+  <updated>2023-11-30T01:36:20Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>qmk/qmk_userspace</title>
+    <updated>2023-11-30T01:36:20Z</updated>
+    <id>tag:github.com,2023-11-30:/qmk/qmk_userspace</id>
+    <link href="https://github.com/qmk/qmk_userspace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Userspace for the open-source QMK keyboard firmware.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Nothing-phone-2-Development/android_vendor_nothing_Pong</title>
+    <updated>2023-11-30T01:36:20Z</updated>
+    <id>tag:github.com,2023-11-30:/Nothing-phone-2-Development/android_vendor_nothing_Pong</id>
+    <link href="https://github.com/Nothing-phone-2-Development/android_vendor_nothing_Pong" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

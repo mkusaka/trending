@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-29T01:39:23Z</updated>
+  <updated>2023-11-30T01:41:47Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dulichan/AwesomeApp</title>
+    <updated>2023-11-30T01:41:47Z</updated>
+    <id>tag:github.com,2023-11-30:/dulichan/AwesomeApp</id>
+    <link href="https://github.com/dulichan/AwesomeApp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Saving Awesome ideas for yearly review&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This project will be used to learn more about Scala and MongoDB. Now I have included MongoDB and I have to write the code to interact MongoDB to accompany the awesome ideas.&lt;/p&gt;</summary>
+  </entry>
 </feed>

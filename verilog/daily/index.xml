@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-29T01:41:36Z</updated>
+  <updated>2023-11-30T01:44:41Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zeroasiccorp/umi</title>
+    <updated>2023-11-30T01:44:41Z</updated>
+    <id>tag:github.com,2023-11-30:/zeroasiccorp/umi</id>
+    <link href="https://github.com/zeroasiccorp/umi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Universal Memory Interface (UMI)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

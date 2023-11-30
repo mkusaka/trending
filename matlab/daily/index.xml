@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-29T01:34:58Z</updated>
+  <updated>2023-11-30T01:36:25Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>banerjs/Synchronization</title>
-    <updated>2023-11-29T01:34:58Z</updated>
-    <id>tag:github.com,2023-11-29:/banerjs/Synchronization</id>
-    <link href="https://github.com/banerjs/Synchronization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Stoney49th/OSHW-Multimeter</title>
+    <updated>2023-11-30T01:36:25Z</updated>
+    <id>tag:github.com,2023-11-30:/Stoney49th/OSHW-Multimeter</id>
+    <link href="https://github.com/Stoney49th/OSHW-Multimeter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;First steps towards a fully open source hardware multimeter&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

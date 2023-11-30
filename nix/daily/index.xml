@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-29T01:35:55Z</updated>
+  <updated>2023-11-30T01:37:29Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>RGBCube/ThemeNix</title>
-    <updated>2023-11-29T01:35:55Z</updated>
-    <id>tag:github.com,2023-11-29:/RGBCube/ThemeNix</id>
-    <link href="https://github.com/RGBCube/ThemeNix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Theme your NixOS configuration consistently.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NeoKode/quantum-bot</title>
-    <updated>2023-11-29T01:35:55Z</updated>
-    <id>tag:github.com,2023-11-29:/NeoKode/quantum-bot</id>
-    <link href="https://github.com/NeoKode/quantum-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WhatsApp Bot for Groups friendly interactions and wholesome entertainment. This bot is a personal project, and the deobfuscated code is neither for sale nor freely distributed. Thank you for visiting this repository. Don&#39;t forget to smile! :D&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
