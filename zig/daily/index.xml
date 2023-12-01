@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-30T01:45:55Z</updated>
+  <updated>2023-12-01T01:55:21Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zigcc/zig-idioms</title>
-    <updated>2023-11-30T01:45:55Z</updated>
-    <id>tag:github.com,2023-11-30:/zigcc/zig-idioms</id>
-    <link href="https://github.com/zigcc/zig-idioms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common idioms used in Zig&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>andrewrk/StaticHttpFileServer</title>
-    <updated>2023-11-30T01:45:55Z</updated>
-    <id>tag:github.com,2023-11-30:/andrewrk/StaticHttpFileServer</id>
-    <link href="https://github.com/andrewrk/StaticHttpFileServer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zig module for serving a directory of files from memory via HTTP&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

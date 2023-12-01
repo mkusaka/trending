@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-30T01:42:40Z</updated>
+  <updated>2023-12-01T01:52:07Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>floranguyen0/tranchess-vulnerability-disclosure</title>
-    <updated>2023-11-30T01:42:40Z</updated>
-    <id>tag:github.com,2023-11-30:/floranguyen0/tranchess-vulnerability-disclosure</id>
-    <link href="https://github.com/floranguyen0/tranchess-vulnerability-disclosure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>code-423n4/2023-11-panoptic</title>
-    <updated>2023-11-30T01:42:40Z</updated>
-    <id>tag:github.com,2023-11-30:/code-423n4/2023-11-panoptic</id>
-    <link href="https://github.com/code-423n4/2023-11-panoptic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SYBIL-MAFIA/zkSync-Paymaster-Deployer</title>
-    <updated>2023-11-30T01:42:40Z</updated>
-    <id>tag:github.com,2023-11-30:/SYBIL-MAFIA/zkSync-Paymaster-Deployer</id>
-    <link href="https://github.com/SYBIL-MAFIA/zkSync-Paymaster-Deployer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ritual-net/infernet-sdk</title>
+    <updated>2023-12-01T01:52:07Z</updated>
+    <id>tag:github.com,2023-12-01:/ritual-net/infernet-sdk</id>
+    <link href="https://github.com/ritual-net/infernet-sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bringing off-chain compute workloads to on-chain smart contracts.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

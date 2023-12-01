@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-01T02:14:30Z</updated>
+  <subtitle>Monthly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LordOfMice/hidusbf</title>
+    <updated>2023-12-01T02:14:30Z</updated>
+    <id>tag:github.com,2023-12-01:/LordOfMice/hidusbf</id>
+    <link href="https://github.com/LordOfMice/hidusbf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;USB Mice Overclocking Software (for Windows)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pankoza2-pl/trojan-leaks</title>
+    <updated>2023-12-01T02:14:30Z</updated>
+    <id>tag:github.com,2023-12-01:/pankoza2-pl/trojan-leaks</id>
+    <link href="https://github.com/pankoza2-pl/trojan-leaks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>airilrazman/FREE-RDP</title>
+    <updated>2023-12-01T02:14:30Z</updated>
+    <id>tag:github.com,2023-12-01:/airilrazman/FREE-RDP</id>
+    <link href="https://github.com/airilrazman/FREE-RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

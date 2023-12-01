@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-30T01:29:34Z</updated>
+  <updated>2023-12-01T01:34:28Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Viiiikedy/Hexo-Quant-Learning-Book</title>
-    <updated>2023-11-30T01:29:34Z</updated>
-    <id>tag:github.com,2023-11-30:/Viiiikedy/Hexo-Quant-Learning-Book</id>
-    <link href="https://github.com/Viiiikedy/Hexo-Quant-Learning-Book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is for Finance (Quant)Learning of Vicky💕.Hope you could also enjoy the journey of finding your own business here.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Francesc116/TD</title>
+    <updated>2023-12-01T01:34:28Z</updated>
+    <id>tag:github.com,2023-12-01:/Francesc116/TD</id>
+    <link href="https://github.com/Francesc116/TD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zxcodes/Calculator</title>
-    <updated>2023-11-30T01:29:34Z</updated>
-    <id>tag:github.com,2023-11-30:/zxcodes/Calculator</id>
-    <link href="https://github.com/zxcodes/Calculator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Calculator App built with HTML, CSS, and JavaScript. It also has a Dark Mode.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Calculator&lt;/h1&gt; &#xA;&lt;p&gt;A simple Calculator App built with HTML, CSS, and JavaScript. It also has a Dark Mode.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/44538497/169086855-bd20e6e0-3675-4db6-b086-0298005973f4.png&#34; alt=&#34;Calculator Preview Image&#34;&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Favicon from: &lt;a href=&#34;https://www.flaticon.com/free-icons/calculator&#34; title=&#34;calculator icons&#34;&gt;Freepik - Flaticon&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>Viiiikedy/Hexo-CS-Learning</title>
+    <updated>2023-12-01T01:34:28Z</updated>
+    <id>tag:github.com,2023-12-01:/Viiiikedy/Hexo-CS-Learning</id>
+    <link href="https://github.com/Viiiikedy/Hexo-CS-Learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✔️This is for Vicky&#39;s CS Learning. Hope you could also learn something from here.✨&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Viiiikedy/Hexo-Korean-Learning</title>
+    <updated>2023-12-01T01:34:28Z</updated>
+    <id>tag:github.com,2023-12-01:/Viiiikedy/Hexo-Korean-Learning</id>
+    <link href="https://github.com/Viiiikedy/Hexo-Korean-Learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is for Korean Learning of Vicky💕 .Hope you could also enjoy the journey of language learning like her✔️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

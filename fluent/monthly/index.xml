@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Fluent Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-01T02:18:36Z</updated>
+  <subtitle>Monthly Trending of Fluent in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>an-anime-team/an-anime-game-launcher</title>
+    <updated>2023-12-01T02:18:36Z</updated>
+    <id>tag:github.com,2023-12-01:/an-anime-team/an-anime-game-launcher</id>
+    <link href="https://github.com/an-anime-team/an-anime-game-launcher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Anime Game launcher for Linux with telemetry disabling&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

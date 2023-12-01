@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CSS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-01T02:16:25Z</updated>
+  <subtitle>Monthly Trending of CSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jeycaarce/flowers</title>
+    <updated>2023-12-01T02:16:25Z</updated>
+    <id>tag:github.com,2023-12-01:/jeycaarce/flowers</id>
+    <link href="https://github.com/jeycaarce/flowers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Code-Pop/Intro-to-Vue-3</title>
+    <updated>2023-12-01T02:16:25Z</updated>
+    <id>tag:github.com,2023-12-01:/Code-Pop/Intro-to-Vue-3</id>
+    <link href="https://github.com/Code-Pop/Intro-to-Vue-3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for Vue Mastery&#39;s Intro to Vue 3 course:&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>septiandwica/kado</title>
+    <updated>2023-12-01T02:16:25Z</updated>
+    <id>tag:github.com,2023-12-01:/septiandwica/kado</id>
+    <link href="https://github.com/septiandwica/kado" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;flower&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Kado&lt;/h1&gt; &#xA;&lt;p&gt;-Flower code from: &lt;a href=&#34;https://codepen.io/mdusmanansari/pen/BamepLe&#34;&gt;https://codepen.io/mdusmanansari/pen/BamepLe&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Description&lt;/h1&gt; &#xA;&lt;p&gt;Flower code tiktok trend&lt;/p&gt; &#xA;&lt;p&gt;Responsive Web -- bisa langsung disesuikan di file css --&amp;gt; style.css&lt;/p&gt; &#xA;&lt;h1&gt;Author&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Flower Code : Md Usman Ansari (@MdUsmanAnsari)&lt;/li&gt; &#xA; &lt;li&gt;Index Code : Septian Dwi Cahyo (@Septiandwica)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Thanks to codepan and mdusmanansari&lt;/p&gt;</summary>
+  </entry>
+</feed>

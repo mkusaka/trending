@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Standard ML Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-01T02:29:18Z</updated>
+  <subtitle>Monthly Trending of Standard ML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Cute-Dress/Dress</title>
+    <updated>2023-12-01T02:29:18Z</updated>
+    <id>tag:github.com,2023-12-01:/Cute-Dress/Dress</id>
+    <link href="https://github.com/Cute-Dress/Dress" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;好耶 是女装 | 备份·接受PR&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

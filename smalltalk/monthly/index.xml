@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-01T02:28:59Z</updated>
+  <subtitle>Monthly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>feenkcom/gt4xmlsupport</title>
+    <updated>2023-12-01T02:28:59Z</updated>
+    <id>tag:github.com,2023-12-01:/feenkcom/gt4xmlsupport</id>
+    <link href="https://github.com/feenkcom/gt4xmlsupport" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Glamorous Toolkit for XMLSupport&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-clipboard</title>
+    <updated>2023-12-01T02:28:59Z</updated>
+    <id>tag:github.com,2023-12-01:/feenkcom/gtoolkit-clipboard</id>
+    <link href="https://github.com/feenkcom/gtoolkit-clipboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Glamorous Toolkit bindings to Clipboard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-releaser</title>
+    <updated>2023-12-01T02:28:59Z</updated>
+    <id>tag:github.com,2023-12-01:/feenkcom/gtoolkit-releaser</id>
+    <link href="https://github.com/feenkcom/gtoolkit-releaser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The engine for releasing deeply nested projects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

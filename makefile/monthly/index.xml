@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-01T02:23:46Z</updated>
+  <subtitle>Monthly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PostgresApp/PostgresApp</title>
+    <updated>2023-12-01T02:23:46Z</updated>
+    <id>tag:github.com,2023-12-01:/PostgresApp/PostgresApp</id>
+    <link href="https://github.com/PostgresApp/PostgresApp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The easiest way to get started with PostgreSQL on the Mac&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JAMO-TYPEFACE/Orbit</title>
+    <updated>2023-12-01T02:23:46Z</updated>
+    <id>tag:github.com,2023-12-01:/JAMO-TYPEFACE/Orbit</id>
+    <link href="https://github.com/JAMO-TYPEFACE/Orbit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Orbit 2022 by JAMO&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>frainzy1477/clash</title>
+    <updated>2023-12-01T02:23:46Z</updated>
+    <id>tag:github.com,2023-12-01:/frainzy1477/clash</id>
+    <link href="https://github.com/frainzy1477/clash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clash for openwrt [Luci-app-clash] https://github.com/frainzy1477/luci-app-clash&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

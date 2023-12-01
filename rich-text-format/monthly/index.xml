@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rich Text Format Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-01T02:27:41Z</updated>
+  <subtitle>Monthly Trending of Rich Text Format in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>openFudan/fudan-coursera</title>
+    <updated>2023-12-01T02:27:41Z</updated>
+    <id>tag:github.com,2023-12-01:/openFudan/fudan-coursera</id>
+    <link href="https://github.com/openFudan/fudan-coursera" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;复旦大学课程资源（计算机专业的课程已全部上传~）&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

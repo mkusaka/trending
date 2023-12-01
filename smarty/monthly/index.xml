@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-01T02:29:01Z</updated>
+  <subtitle>Monthly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>grafana/k8s-monitoring-helm</title>
+    <updated>2023-12-01T02:29:01Z</updated>
+    <id>tag:github.com,2023-12-01:/grafana/k8s-monitoring-helm</id>
+    <link href="https://github.com/grafana/k8s-monitoring-helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/101---arcextension-helloworld</title>
+    <updated>2023-12-01T02:29:01Z</updated>
+    <id>tag:github.com,2023-12-01:/Azure-Samples/101---arcextension-helloworld</id>
+    <link href="https://github.com/Azure-Samples/101---arcextension-helloworld" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

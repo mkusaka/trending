@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-01T02:29:36Z</updated>
+  <subtitle>Monthly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ollama-webui/ollama-webui</title>
+    <updated>2023-12-01T02:29:36Z</updated>
+    <id>tag:github.com,2023-12-01:/ollama-webui/ollama-webui</id>
+    <link href="https://github.com/ollama-webui/ollama-webui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT-Style Web UI Client for Ollama 🦙&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>huntabyte/cmdk-sv</title>
+    <updated>2023-12-01T02:29:36Z</updated>
+    <id>tag:github.com,2023-12-01:/huntabyte/cmdk-sv</id>
+    <link href="https://github.com/huntabyte/cmdk-sv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cmdk, but for Svelte ✨&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sveltejs/svelte-devtools</title>
+    <updated>2023-12-01T02:29:36Z</updated>
+    <id>tag:github.com,2023-12-01:/sveltejs/svelte-devtools</id>
+    <link href="https://github.com/sveltejs/svelte-devtools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A browser extension to inspect Svelte application by extending your browser devtools capabilities&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

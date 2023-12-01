@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-30T01:29:13Z</updated>
+  <updated>2023-12-01T01:33:55Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nixz/cl-xsd</title>
+    <updated>2023-12-01T01:33:55Z</updated>
+    <id>tag:github.com,2023-12-01:/nixz/cl-xsd</id>
+    <link href="https://github.com/nixz/cl-xsd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Uses XMLisp to parse xsd into lisp objects. Used in cl-3d-maker project to read X3D schema.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cl-xsd&lt;/h1&gt; &#xA;&lt;p&gt;Uses XMLisp to parse xsd into lisp objects. Used in cl-3d-creator project. cl-3d-creator reads in an X3D schema and generates a parser for X3D.&lt;/p&gt;</summary>
+  </entry>
 </feed>

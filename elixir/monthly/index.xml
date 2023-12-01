@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-01T02:18:06Z</updated>
+  <subtitle>Monthly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>teslamate-org/teslamate</title>
+    <updated>2023-12-01T02:18:06Z</updated>
+    <id>tag:github.com,2023-12-01:/teslamate-org/teslamate</id>
+    <link href="https://github.com/teslamate-org/teslamate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A self-hosted data logger for your Tesla 🚘&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ExHammer/hammer-backend-redis</title>
+    <updated>2023-12-01T02:18:06Z</updated>
+    <id>tag:github.com,2023-12-01:/ExHammer/hammer-backend-redis</id>
+    <link href="https://github.com/ExHammer/hammer-backend-redis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Redis backend for for the Hammer rate-limiter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>commanded/eventstore</title>
+    <updated>2023-12-01T02:18:06Z</updated>
+    <id>tag:github.com,2023-12-01:/commanded/eventstore</id>
+    <link href="https://github.com/commanded/eventstore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Event store using PostgreSQL for persistence&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

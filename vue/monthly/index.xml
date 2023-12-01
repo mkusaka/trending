@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-01T02:31:01Z</updated>
+  <subtitle>Monthly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>newbee-ltd/newbee-mall-vue3-app</title>
+    <updated>2023-12-01T02:31:01Z</updated>
+    <id>tag:github.com,2023-12-01:/newbee-ltd/newbee-mall-vue3-app</id>
+    <link href="https://github.com/newbee-ltd/newbee-mall-vue3-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3.2 版本，技术栈为 Vue3.2 + Vue-Router4.x + Pinia + Vant4.x。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yangjian102621/chatgpt-plus</title>
+    <updated>2023-12-01T02:31:01Z</updated>
+    <id>tag:github.com,2023-12-01:/yangjian102621/chatgpt-plus</id>
+    <link href="https://github.com/yangjian102621/chatgpt-plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI 绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chuzhixin/vue-admin-better</title>
+    <updated>2023-12-01T02:31:01Z</updated>
+    <id>tag:github.com,2023-12-01:/chuzhixin/vue-admin-better</id>
+    <link href="https://github.com/chuzhixin/vue-admin-better" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

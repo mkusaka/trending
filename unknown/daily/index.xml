@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-11-30T01:26:19Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-12-01T01:29:25Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>atomone-hub/genesis</title>
-    <updated>2023-11-30T01:26:19Z</updated>
-    <id>tag:github.com,2023-11-30:/atomone-hub/genesis</id>
-    <link href="https://github.com/atomone-hub/genesis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;declaration of genesis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>federico-busato/Modern-CPP-Programming</title>
+    <updated>2023-12-01T01:29:25Z</updated>
+    <id>tag:github.com,2023-12-01:/federico-busato/Modern-CPP-Programming</id>
+    <link href="https://github.com/federico-busato/Modern-CPP-Programming" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern C++ Programming Course (C++11/14/17/20)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>friuns2/Leaked-GPTs</title>
-    <updated>2023-11-30T01:26:19Z</updated>
-    <id>tag:github.com,2023-11-30:/friuns2/Leaked-GPTs</id>
-    <link href="https://github.com/friuns2/Leaked-GPTs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sdg-1/consulting-handbook</title>
+    <updated>2023-12-01T01:29:25Z</updated>
+    <id>tag:github.com,2023-12-01:/sdg-1/consulting-handbook</id>
+    <link href="https://github.com/sdg-1/consulting-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A guide for technical professionals looking to start consulting&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>1mrat/gpt-stats</title>
-    <updated>2023-11-30T01:26:19Z</updated>
-    <id>tag:github.com,2023-11-30:/1mrat/gpt-stats</id>
-    <link href="https://github.com/1mrat/gpt-stats" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stats for Custom Chat GPTs not created by OpenAI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nihalsid/mesh-gpt</title>
+    <updated>2023-12-01T01:29:25Z</updated>
+    <id>tag:github.com,2023-12-01:/nihalsid/mesh-gpt</id>
+    <link href="https://github.com/nihalsid/mesh-gpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

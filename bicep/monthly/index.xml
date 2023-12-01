@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-01T02:14:36Z</updated>
+  <subtitle>Monthly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/201---arc-enabled-keyvault-sample</title>
+    <updated>2023-12-01T02:14:36Z</updated>
+    <id>tag:github.com,2023-12-01:/Azure-Samples/201---arc-enabled-keyvault-sample</id>
+    <link href="https://github.com/Azure-Samples/201---arc-enabled-keyvault-sample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/demystifying-rag-dotnet</title>
+    <updated>2023-12-01T02:14:36Z</updated>
+    <id>tag:github.com,2023-12-01:/Azure-Samples/demystifying-rag-dotnet</id>
+    <link href="https://github.com/Azure-Samples/demystifying-rag-dotnet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Includes minimal infra files to provision an Azure OpenAI service&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/azd-create-storage-account</title>
+    <updated>2023-12-01T02:14:36Z</updated>
+    <id>tag:github.com,2023-12-01:/Azure-Samples/azd-create-storage-account</id>
+    <link href="https://github.com/Azure-Samples/azd-create-storage-account" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A sample azd template for creating a storage account.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
