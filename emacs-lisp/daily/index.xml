@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-01T01:36:41Z</updated>
+  <updated>2023-12-02T01:28:40Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tonyaldon/one.el</title>
-    <updated>2023-12-01T01:36:41Z</updated>
-    <id>tag:github.com,2023-12-01:/tonyaldon/one.el</id>
-    <link href="https://github.com/tonyaldon/one.el" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;one.el a simple Static Site Generator for Emacs Lisp programmers and org-mode users.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;del&gt;one.el&lt;/del&gt; a simple Static Site Generator for Emacs Lisp programmers and org-mode users.&lt;/p&gt; &#xA;&lt;p&gt;Check the docs: &lt;a href=&#34;https://one.tonyaldon.com&#34;&gt;https://one.tonyaldon.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Note that the docs are built using &lt;del&gt;one.el&lt;/del&gt; itself. To build them, visit [[./docs/docs.org]] and call &lt;del&gt;one-build&lt;/del&gt; command. This will build the docs under &lt;del&gt;./docs/public/&lt;/del&gt; subdirectory.&lt;/p&gt; &#xA;&lt;p&gt;To run the tests, visit [[./one-tests.el]] and call the &lt;del&gt;eval-buffer&lt;/del&gt; and &lt;del&gt;ert&lt;/del&gt; commands like this:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;M-x eval-buffer&lt;/li&gt; &#xA; &lt;li&gt;M-x ert RET RET&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Check the [[./LICENSE]].&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>sabof/auto-auto-indent</title>
-    <updated>2023-12-01T01:36:41Z</updated>
-    <id>tag:github.com,2023-12-01:/sabof/auto-auto-indent</id>
-    <link href="https://github.com/sabof/auto-auto-indent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minor mode that indents code as you type&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;auto-auto-indent&lt;/h1&gt; &#xA;&lt;p&gt;Automatic automatic indentation - a mode that indents code as you type.&lt;/p&gt; &#xA;&lt;p&gt;Works pretty well for lisp out of the box.&lt;/p&gt; &#xA;&lt;p&gt;Other modes might need some tweaking to set up:&lt;/p&gt; &#xA;&lt;p&gt;If you trust the mode&#39;s automatic indentation completely, you can add to it&#39;s init hook:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(set (make-local-variable &#39;aai-indent-function)&#xA;     &#39;aai-indent-defun)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;or&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(set (make-local-variable &#39;aai-indent-function)&#xA;     &#39;aai-indent-forward)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;depending on whether the language has small and clearly identifiable functions, that &lt;code&gt;beginning-of-defun&lt;/code&gt; and &lt;code&gt;end-of-defun&lt;/code&gt; can find.&lt;/p&gt; &#xA;&lt;p&gt;If on the other hand you don&#39;t trust the mode at all, but like the cursor correction and delete-char behaviour, you can add:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(set (make-local-variable&#xA;      &#39;aai-after-change-indentation) nil)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;if the mode indents well in all but a few cases, you can change the &lt;code&gt;aai-indentable-line-p-function&lt;/code&gt;. This is what I have in my php mode setup:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(set (make-local-variable&#xA;      &#39;aai-indentable-line-p-function)&#xA;     (lambda ()&#xA;       (not (or (es-line-matches-p &#34;EOD&#34;)&#xA;                (es-line-matches-p &#34;EOT&#34;)))))&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

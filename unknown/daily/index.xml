@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-01T01:29:25Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-12-02T01:23:52Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>federico-busato/Modern-CPP-Programming</title>
-    <updated>2023-12-01T01:29:25Z</updated>
-    <id>tag:github.com,2023-12-01:/federico-busato/Modern-CPP-Programming</id>
-    <link href="https://github.com/federico-busato/Modern-CPP-Programming" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern C++ Programming Course (C++11/14/17/20)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cbamls/AI_Tutorial</title>
+    <updated>2023-12-02T01:23:52Z</updated>
+    <id>tag:github.com,2023-12-02:/cbamls/AI_Tutorial</id>
+    <link href="https://github.com/cbamls/AI_Tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;精选机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。算法大牛笔记汇总&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sdg-1/consulting-handbook</title>
-    <updated>2023-12-01T01:29:25Z</updated>
-    <id>tag:github.com,2023-12-01:/sdg-1/consulting-handbook</id>
-    <link href="https://github.com/sdg-1/consulting-handbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A guide for technical professionals looking to start consulting&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>forpaindream/AltiumDesignerLibPkg-dream</title>
+    <updated>2023-12-02T01:23:52Z</updated>
+    <id>tag:github.com,2023-12-02:/forpaindream/AltiumDesignerLibPkg-dream</id>
+    <link href="https://github.com/forpaindream/AltiumDesignerLibPkg-dream" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;自制的AD封装库，基于AD20&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nihalsid/mesh-gpt</title>
-    <updated>2023-12-01T01:29:25Z</updated>
-    <id>tag:github.com,2023-12-01:/nihalsid/mesh-gpt</id>
-    <link href="https://github.com/nihalsid/mesh-gpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lizhe00/AnimatableGaussians</title>
+    <updated>2023-12-02T01:23:52Z</updated>
+    <id>tag:github.com,2023-12-02:/lizhe00/AnimatableGaussians</id>
+    <link href="https://github.com/lizhe00/AnimatableGaussians" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code of &#34;Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

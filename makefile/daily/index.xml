@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-01T01:43:49Z</updated>
+  <updated>2023-12-02T01:34:53Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>itsnebulalol/trollstore-apps</title>
-    <updated>2023-12-01T01:43:49Z</updated>
-    <id>tag:github.com,2023-12-01:/itsnebulalol/trollstore-apps</id>
-    <link href="https://github.com/itsnebulalol/trollstore-apps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A compiled list of common apps for TrollStore, from the official developers of the apps.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>deepseek-ai/DeepSeek-LLM</title>
+    <updated>2023-12-02T01:34:53Z</updated>
+    <id>tag:github.com,2023-12-02:/deepseek-ai/DeepSeek-LLM</id>
+    <link href="https://github.com/deepseek-ai/DeepSeek-LLM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DeepSeek LLM: Let there be answers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-01T01:48:22Z</updated>
+  <updated>2023-12-02T01:37:44Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>natfitz/Nathan_Fitzgibbon_ista_midterm</title>
-    <updated>2023-12-01T01:48:22Z</updated>
-    <id>tag:github.com,2023-12-01:/natfitz/Nathan_Fitzgibbon_ista_midterm</id>
-    <link href="https://github.com/natfitz/Nathan_Fitzgibbon_ista_midterm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;midterm for ista401&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>code-warrior/assignment-4--fundamentals-of-computing-1--cs-114--fall-2023</title>
-    <updated>2023-12-01T01:48:22Z</updated>
-    <id>tag:github.com,2023-12-01:/code-warrior/assignment-4--fundamentals-of-computing-1--cs-114--fall-2023</id>
-    <link href="https://github.com/code-warrior/assignment-4--fundamentals-of-computing-1--cs-114--fall-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jedgarpark/Make_PIR_Sensor</title>
+    <updated>2023-12-02T01:37:44Z</updated>
+    <id>tag:github.com,2023-12-02:/jedgarpark/Make_PIR_Sensor</id>
+    <link href="https://github.com/jedgarpark/Make_PIR_Sensor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Arduino PIR Sensor Code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

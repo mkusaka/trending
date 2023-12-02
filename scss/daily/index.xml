@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-01T01:51:25Z</updated>
+  <updated>2023-12-02T01:40:23Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>develask/ADSI23_biblioteca</title>
-    <updated>2023-12-01T01:51:25Z</updated>
-    <id>tag:github.com,2023-12-01:/develask/ADSI23_biblioteca</id>
-    <link href="https://github.com/develask/ADSI23_biblioteca" rel="alternate"></link>
+    <title>asif-daffodil/js-Todolist</title>
+    <updated>2023-12-02T01:40:23Z</updated>
+    <id>tag:github.com,2023-12-02:/asif-daffodil/js-Todolist</id>
+    <link href="https://github.com/asif-daffodil/js-Todolist" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>simongravelle/simongravelle.github.io</title>
-    <updated>2023-12-01T01:51:25Z</updated>
-    <id>tag:github.com,2023-12-01:/simongravelle/simongravelle.github.io</id>
-    <link href="https://github.com/simongravelle/simongravelle.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple academic theme for scientist personal page&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>asif-daffodil/rayhanHomework12-2022</title>
+    <updated>2023-12-02T01:40:23Z</updated>
+    <id>tag:github.com,2023-12-02:/asif-daffodil/rayhanHomework12-2022</id>
+    <link href="https://github.com/asif-daffodil/rayhanHomework12-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudforet-io/docs</title>
-    <updated>2023-12-01T01:51:25Z</updated>
-    <id>tag:github.com,2023-12-01:/cloudforet-io/docs</id>
-    <link href="https://github.com/cloudforet-io/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation Site&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bedimcode/responsive-navbar-with-search-and-login</title>
+    <updated>2023-12-02T01:40:23Z</updated>
+    <id>tag:github.com,2023-12-02:/bedimcode/responsive-navbar-with-search-and-login</id>
+    <link href="https://github.com/bedimcode/responsive-navbar-with-search-and-login" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Responsive Navbar Using HTML CSS &amp; JavaScript | With Search &amp; Login&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-01T01:31:19Z</updated>
+  <updated>2023-12-02T01:25:09Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/azure-sql-db-session-recommender</title>
+    <updated>2023-12-02T01:25:09Z</updated>
+    <id>tag:github.com,2023-12-02:/Azure-Samples/azure-sql-db-session-recommender</id>
+    <link href="https://github.com/Azure-Samples/azure-sql-db-session-recommender" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build a recommender using OpenAI, Azure Functions, Azure Static Web Apps, Azure SQL DB, Data API builder and Text Embeddings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

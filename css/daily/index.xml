@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-01T01:34:28Z</updated>
+  <updated>2023-12-02T01:27:00Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Francesc116/TD</title>
-    <updated>2023-12-01T01:34:28Z</updated>
-    <id>tag:github.com,2023-12-01:/Francesc116/TD</id>
-    <link href="https://github.com/Francesc116/TD" rel="alternate"></link>
+    <title>TheBridge-FullStackDeveloper/fetch-async-await</title>
+    <updated>2023-12-02T01:27:00Z</updated>
+    <id>tag:github.com,2023-12-02:/TheBridge-FullStackDeveloper/fetch-async-await</id>
+    <link href="https://github.com/TheBridge-FullStackDeveloper/fetch-async-await" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Creación de una Pokédex con HTML, CSS y JavaScript&lt;/h1&gt; &#xA;&lt;p&gt;En este ejercicio, construiremos una Pokédex básica utilizando HTML, CSS y JavaScript. La Pokédex mostrará una lista de Pokémon obtenidos de la API pública de Pokémon. Los usuarios podrán navegar entre las páginas de Pokémon, buscar Pokémon específicos y ver detalles básicos de cada uno.&lt;/p&gt; &#xA;&lt;p&gt;FYI: La pokedex es el listado de todos los pokemon con sus nombres e imagenes. Puedes añadir más cosas si quieres.&lt;/p&gt; &#xA;&lt;h2&gt;Pasos del Ejercicio&lt;/h2&gt; &#xA;&lt;h3&gt;Paso 1: Estructura HTML&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;El HTML ya está creado &lt;code&gt;index.html&lt;/code&gt;. Tiene cosas básicas para empezar.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Paso 2: Estilo CSS&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Ya está creadas las CSS básicas &lt;code&gt;style.css&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Personaliza los estilos según tus preferencias.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Paso 3: Lógica JavaScript&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;En &lt;code&gt;script.js&lt;/code&gt; harás toda la lógica del programa.&lt;/li&gt; &#xA; &lt;li&gt;La URL base es la siguiente &lt;code&gt;https://pokeapi.co/api/v2/pokemon&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Implementa la lógica para interactuar con la API de Pokémon.&lt;/li&gt; &#xA; &lt;li&gt;Gestiona la paginación para mostrar diferentes conjuntos de Pokémon. De 10 en 10. añadir esto a la url más otras cosas puede limitar la cantidad &lt;code&gt;?limit=&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Permite la búsqueda de Pokémon por nombre. Si no exite deberá aparecer un mensaje de &#34;pokemon no encontrado&#34;&lt;/li&gt; &#xA; &lt;li&gt;Mira como aceder al pokemon por nombre en la documentación.&lt;/li&gt; &#xA; &lt;li&gt;Maneja eventos de botones y actualiza dinámicamente la interfaz.&lt;/li&gt; &#xA; &lt;li&gt;aquí la documentación de pokemon &lt;code&gt;https://pokeapi.co/docs/v2&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Paso 4: Mejoras Adicionales&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Agrega estilos adicionales.&lt;/li&gt; &#xA; &lt;li&gt;Mejora la interactividad de la aplicación.&lt;/li&gt; &#xA; &lt;li&gt;Personaliza la presentación de la información de Pokémon.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;debe quedar algo similar a esto: &lt;img src=&#34;https://raw.githubusercontent.com/TheBridge-FullStackDeveloper/fetch-async-await/main/assets/img/pokedex.png&#34; alt=&#34;pokedex&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;BONUS&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Crea una segunda página donde se guarden tus pokemon favoritos.&lt;/li&gt; &#xA; &lt;li&gt;Al clickar en un pokemon en index.html este tendrá que guardarse en localStorage y en la otra página saldrán esos pokemon que se han guardado previamente&lt;/li&gt; &#xA; &lt;li&gt;Cada pokemon, si se ha añadido a favoritos &lt;code&gt;localStorage&lt;/code&gt;, tendrá que tener una marca como que ya está añadido. Si se vuelve a clickar desaparcera la marca y de favoritos &lt;code&gt;localStorage&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Puedes usar un script nuevo que solo traiga esos pokemon de favoritos&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>Jabir0/K2-E-Commerce</title>
+    <updated>2023-12-02T01:27:00Z</updated>
+    <id>tag:github.com,2023-12-02:/Jabir0/K2-E-Commerce</id>
+    <link href="https://github.com/Jabir0/K2-E-Commerce" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Kelompok 2 PBO&lt;/h1&gt; &#xA;&lt;p&gt;Website E-Commerce&lt;/p&gt; &#xA;&lt;p&gt;Anggota Kelompok 2 =&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;E1E122002_ANDI ANUGRAH MA&#39;ARIF&lt;/li&gt; &#xA; &lt;li&gt;E1E122012_Eviriawan&lt;/li&gt; &#xA; &lt;li&gt;E1E122026_Nurdian Kasim&lt;/li&gt; &#xA; &lt;li&gt;E1E122028_Ratnasari&lt;/li&gt; &#xA; &lt;li&gt;E1E122036_Almuhaimin Zain&lt;/li&gt; &#xA; &lt;li&gt;E1E122038_Alfi Zahrah Muharramah&lt;/li&gt; &#xA; &lt;li&gt;E1E122041_Amar Adi Ismoyo&lt;/li&gt; &#xA; &lt;li&gt;E1E122059_Jabir Muktabir&lt;/li&gt; &#xA; &lt;li&gt;E1E122062_Khaerunni Salsa Billah&lt;/li&gt; &#xA; &lt;li&gt;E1E122078_Sherly Dwi Puspita&lt;/li&gt; &#xA; &lt;li&gt;E1E122083_Ade Syifa Badarudin&lt;/li&gt; &#xA; &lt;li&gt;E1E122123_Muhammad Saharullah Raiya&lt;/li&gt; &#xA; &lt;li&gt;E1E122126_Nadya Elfareta Azarin&lt;/li&gt; &#xA; &lt;li&gt;E1E122141_Sitti Rahmayani Ose&lt;/li&gt; &#xA; &lt;li&gt;E1E122149_Yun Muntarti&lt;/li&gt; &#xA; &lt;li&gt;E1E122148_Wifna Naisyarah&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
+  <entry>
+    <title>Muh-Ikbal/kelompok-3</title>
+    <updated>2023-12-02T01:27:00Z</updated>
+    <id>tag:github.com,2023-12-02:/Muh-Ikbal/kelompok-3</id>
+    <link href="https://github.com/Muh-Ikbal/kelompok-3" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Viiiikedy/Hexo-CS-Learning</title>
-    <updated>2023-12-01T01:34:28Z</updated>
-    <id>tag:github.com,2023-12-01:/Viiiikedy/Hexo-CS-Learning</id>
-    <link href="https://github.com/Viiiikedy/Hexo-CS-Learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;✔️This is for Vicky&#39;s CS Learning. Hope you could also learn something from here.✨&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Viiiikedy/Hexo-Korean-Learning</title>
-    <updated>2023-12-01T01:34:28Z</updated>
-    <id>tag:github.com,2023-12-01:/Viiiikedy/Hexo-Korean-Learning</id>
-    <link href="https://github.com/Viiiikedy/Hexo-Korean-Learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is for Korean Learning of Vicky💕 .Hope you could also enjoy the journey of language learning like her✔️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

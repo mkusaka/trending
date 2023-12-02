@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-01T01:52:07Z</updated>
+  <updated>2023-12-02T01:40:57Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ritual-net/infernet-sdk</title>
-    <updated>2023-12-01T01:52:07Z</updated>
-    <id>tag:github.com,2023-12-01:/ritual-net/infernet-sdk</id>
-    <link href="https://github.com/ritual-net/infernet-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bringing off-chain compute workloads to on-chain smart contracts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
