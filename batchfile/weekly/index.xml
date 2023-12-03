@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-03T01:45:37Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>saranrajmcse/WIN10RDP</title>
+    <updated>2023-12-03T01:45:37Z</updated>
+    <id>tag:github.com,2023-12-03:/saranrajmcse/WIN10RDP</id>
+    <link href="https://github.com/saranrajmcse/WIN10RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;create a Windows 10 RDP with ngrok&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Zusier/Zusiers-optimization-Batch</title>
+    <updated>2023-12-03T01:45:37Z</updated>
+    <id>tag:github.com,2023-12-03:/Zusier/Zusiers-optimization-Batch</id>
+    <link href="https://github.com/Zusier/Zusiers-optimization-Batch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The open source batch file that gives efforts to boost system performance, latency, and stability.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

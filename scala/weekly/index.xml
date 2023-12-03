@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scala Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-03T01:57:45Z</updated>
+  <subtitle>Weekly Trending of Scala in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sysprog21/ca2023-lab3</title>
+    <updated>2023-12-03T01:57:45Z</updated>
+    <id>tag:github.com,2023-12-03:/sysprog21/ca2023-lab3</id>
+    <link href="https://github.com/sysprog21/ca2023-lab3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lab3: Construct a single-cycle CPU with Chisel&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Construct a single-cycle RISC-V CPU with Chisel&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[!WARNING] Please be aware that the Scala code in this repository is not entirely complete, as the instructor has omitted certain sections for students to work on independently.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Development Objectives&lt;/h2&gt; &#xA;&lt;p&gt;Our goal is to create a RISC-V CPU that prioritizes simplicity while assuming a foundational understanding of digital circuits and the C programming language among its readers. The CPU should strike a balance between simplicity and sophistication, and we intend to maximize its functionality. This project encompasses the following key aspects, which will be prominently featured in the technical report:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Implementation in Chisel.&lt;/li&gt; &#xA; &lt;li&gt;RV32I instruction set support.&lt;/li&gt; &#xA; &lt;li&gt;Execution of programs compiled from the C programming language.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>yagince/sbt-template</title>
+    <updated>2023-12-03T01:57:45Z</updated>
+    <id>tag:github.com,2023-12-03:/yagince/sbt-template</id>
+    <link href="https://github.com/yagince/sbt-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#SBT-Template&lt;/p&gt; &#xA;&lt;p&gt;sbtプロジェクトのテンプレート&lt;/p&gt; &#xA;&lt;p&gt;##ProjectSettings&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;project/BaseSettings.scala &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;buildName : プロジェクト名&lt;/li&gt; &#xA;   &lt;li&gt;buildOrg : organazation名&lt;/li&gt; &#xA;   &lt;li&gt;buildVersion : バージョン&lt;/li&gt; &#xA;   &lt;li&gt;buildScalaVersion : Scalaのバージョン&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;project/Dependencies.scala &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;resolvers : リポジトリ設定&lt;/li&gt; &#xA;   &lt;li&gt;libraries : 依存ライブラリ&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>guardian/duration-formatting-scala</title>
+    <updated>2023-12-03T01:57:45Z</updated>
+    <id>tag:github.com,2023-12-03:/guardian/duration-formatting-scala</id>
+    <link href="https://github.com/guardian/duration-formatting-scala" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;duration-formatting&lt;/h1&gt; &#xA;&lt;p&gt;&lt;em&gt;Formatting java.time.Duration&lt;/em&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

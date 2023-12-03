@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-03T02:00:25Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Yanyutin753/PandoraNext-TokensTool</title>
+    <updated>2023-12-03T02:00:25Z</updated>
+    <id>tag:github.com,2023-12-03:/Yanyutin753/PandoraNext-TokensTool</id>
+    <link href="https://github.com/Yanyutin753/PandoraNext-TokensTool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;支持脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码获取pool_token、share_token和access_token，且实现接口调用PandoraNext的API并支持接入到多种开源ChatGpt网页，针对于PandoraNext最新版本4.4管理tokens.json和config.json的可视化网页，可以实现通过网页自定义接口实现批量更改刷新Token，每隔五天自动刷新share_token和pool_token，并实现一键开启暂停重启PandoraNext，支持全部PandoraNext部署方法，并支持接口调用获得share_token和pool_token，且支持热部署，已打包好docker镜像，后续将扩展更多功能！&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nuxt/learn.nuxt.com</title>
+    <updated>2023-12-03T02:00:25Z</updated>
+    <id>tag:github.com,2023-12-03:/nuxt/learn.nuxt.com</id>
+    <link href="https://github.com/nuxt/learn.nuxt.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[Heavily Work in Progress] An interactive tutorial and playground for Nuxt&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WuKongOpenSource/Wukong_ProjectManagement</title>
+    <updated>2023-12-03T02:00:25Z</updated>
+    <id>tag:github.com,2023-12-03:/WuKongOpenSource/Wukong_ProjectManagement</id>
+    <link href="https://github.com/WuKongOpenSource/Wukong_ProjectManagement" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;悟空项目管理-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离项目管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

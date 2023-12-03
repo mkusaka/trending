@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-02T01:40:09Z</updated>
+  <updated>2023-12-03T01:41:34Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>qtamaki/scala-hackason-2011</title>
+    <updated>2023-12-03T01:41:34Z</updated>
+    <id>tag:github.com,2023-12-03:/qtamaki/scala-hackason-2011</id>
+    <link href="https://github.com/qtamaki/scala-hackason-2011" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Processing examples&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Hello! this project is examples for Processing with Scala.&lt;/p&gt; &#xA;&lt;p&gt;SETUP&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;download and install processing&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;install your local Maven Repository. gathering jars in the processing directories. processing-1.5.1/lib core.jar ech.jar processing-1.5.1/modes/java/libraries/opengl/library gluegen-rt.jar jogl.jar opengl.jar&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;and install-file commands&lt;/p&gt; &#xA;&lt;p&gt;mvn install:install-file -Dfile=core.jar -DgroupId=org.processing -DartifactId=core -Dversion=1.5.1 -Dpackaging=jar -DlocalRepositoryPath=path/to/repository mvn install:install-file -Dfile=ecj.jar -DgroupId=org.processing -DartifactId=ecj -Dversion=1.5.1 -Dpackaging=jar -DlocalRepositoryPath=path/to/repository mvn install:install-file -Dfile=gluegen-rt.jar -DgroupId=org.processing -DartifactId=gluegen-rt -Dversion=1.5.1 -Dpackaging=jar -DlocalRepositoryPath=path/to/repository mvn install:install-file -Dfile=jogl.jar -DgroupId=org.processing -DartifactId=jogl -Dversion=1.5.1 -Dpackaging=jar -DlocalRepositoryPath=path/to/repository mvn install:install-file -Dfile=opengl.jar -DgroupId=org.processing -DartifactId=opengl -Dversion=1.5.1 -Dpackaging=jar -DlocalRepositoryPath=path/to/repository&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Talleres-base/taller4-pfc-2023-2</title>
+    <updated>2023-12-03T01:41:34Z</updated>
+    <id>tag:github.com,2023-12-03:/Talleres-base/taller4-pfc-2023-2</id>
+    <link href="https://github.com/Talleres-base/taller4-pfc-2023-2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Taller 4 Concurrencia para el curso de programación funcional y concurrente&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Taller 4 - Fundamentos de programación funcional y concurrente&lt;/h1&gt; &#xA;&lt;p&gt;Implementción de multiplicación concurrente de matrices&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-02T01:28:27Z</updated>
+  <updated>2023-12-03T01:32:58Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>asif-daffodil/nodeApi</title>
-    <updated>2023-12-02T01:28:27Z</updated>
-    <id>tag:github.com,2023-12-02:/asif-daffodil/nodeApi</id>
-    <link href="https://github.com/asif-daffodil/nodeApi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>shabirmanu/webdbprogramming</title>
-    <updated>2023-12-02T01:28:27Z</updated>
-    <id>tag:github.com,2023-12-02:/shabirmanu/webdbprogramming</id>
-    <link href="https://github.com/shabirmanu/webdbprogramming" rel="alternate"></link>
+    <title>ODZ-UJF-AV-CR/Web-FIK</title>
+    <updated>2023-12-03T01:32:58Z</updated>
+    <id>tag:github.com,2023-12-03:/ODZ-UJF-AV-CR/Web-FIK</id>
+    <link href="https://github.com/ODZ-UJF-AV-CR/Web-FIK" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

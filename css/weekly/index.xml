@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-03T01:47:09Z</updated>
+  <subtitle>Weekly Trending of CSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jeycaarce/message</title>
+    <updated>2023-12-03T01:47:09Z</updated>
+    <id>tag:github.com,2023-12-03:/jeycaarce/message</id>
+    <link href="https://github.com/jeycaarce/message" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wozulong/ChatGPTAuthHelper</title>
+    <updated>2023-12-03T01:47:09Z</updated>
+    <id>tag:github.com,2023-12-03:/wozulong/ChatGPTAuthHelper</id>
+    <link href="https://github.com/wozulong/ChatGPTAuthHelper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个简单的Chrome插件，用来帮助你登录ChatGPT。&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ChatGPT Auth Helper&lt;/h1&gt; &#xA;&lt;p&gt;一个简单的 &lt;code&gt;Chrome&lt;/code&gt; 插件，用来帮助你登录 &lt;code&gt;ChatGPT&lt;/code&gt;。&lt;/p&gt; &#xA;&lt;h3&gt;使用步骤：&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;前往 &lt;a href=&#34;https://github.com/wozulong/ChatGPTAuthHelper/releases&#34;&gt;Release&lt;/a&gt; 下载 &lt;code&gt;zip&lt;/code&gt; / &lt;code&gt;tar.gz&lt;/code&gt; 并解压缩。&lt;/li&gt; &#xA; &lt;li&gt;打开 &lt;code&gt;Chrome&lt;/code&gt; ，地址栏输入： &lt;code&gt;chrome://extensions&lt;/code&gt; 打开 &lt;code&gt;扩展程序&lt;/code&gt; 设置页面。&lt;/li&gt; &#xA; &lt;li&gt;右上角打开 &lt;code&gt;开发者模式&lt;/code&gt; 。&lt;/li&gt; &#xA; &lt;li&gt;点击左上角 &lt;code&gt;加载已解压的扩展程序&lt;/code&gt; 按钮，选择刚下载解压的插件文件夹内的 &lt;code&gt;src&lt;/code&gt; 目录，确定安装。&lt;/li&gt; &#xA; &lt;li&gt;你可以在 &lt;code&gt;扩展程序&lt;/code&gt; 中看到 &lt;code&gt;ChatGPT Auth Helper&lt;/code&gt; 说明安装成功。&lt;/li&gt; &#xA; &lt;li&gt;现在你的 &lt;code&gt;Chrome&lt;/code&gt; 可以用来使用 &lt;code&gt;https://ai.fakeopen.com/auth&lt;/code&gt; 服务了。&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
+  <entry>
+    <title>milenafelix/flowers</title>
+    <updated>2023-12-03T01:47:09Z</updated>
+    <id>tag:github.com,2023-12-03:/milenafelix/flowers</id>
+    <link href="https://github.com/milenafelix/flowers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IB: https://github.com/jeycaarce/flowers&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;flowers&lt;/h1&gt; &#xA;&lt;p&gt;IB: &lt;a href=&#34;https://github.com/jeycaarce/flowers&#34;&gt;https://github.com/jeycaarce/flowers&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

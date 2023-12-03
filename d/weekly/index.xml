@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub D Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-03T01:47:19Z</updated>
+  <subtitle>Weekly Trending of D in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Jebbs/DSFML</title>
+    <updated>2023-12-03T01:47:19Z</updated>
+    <id>tag:github.com,2023-12-03:/Jebbs/DSFML</id>
+    <link href="https://github.com/Jebbs/DSFML" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DSFML is a D binding of SFML&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nibalizer/dtrace</title>
+    <updated>2023-12-03T01:47:19Z</updated>
+    <id>tag:github.com,2023-12-03:/nibalizer/dtrace</id>
+    <link href="https://github.com/nibalizer/dtrace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;collection of dtrace scripts I&#39;ve modified, most are from github&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mirette/asservissement</title>
+    <updated>2023-12-03T01:47:19Z</updated>
+    <id>tag:github.com,2023-12-03:/mirette/asservissement</id>
+    <link href="https://github.com/mirette/asservissement" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

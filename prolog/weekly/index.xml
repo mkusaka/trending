@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Prolog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-03T01:55:56Z</updated>
+  <subtitle>Weekly Trending of Prolog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>joy-courses/learn-prolog</title>
+    <updated>2023-12-03T01:55:56Z</updated>
+    <id>tag:github.com,2023-12-03:/joy-courses/learn-prolog</id>
+    <link href="https://github.com/joy-courses/learn-prolog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AaronGotlieb/detectorLab</title>
+    <updated>2023-12-03T01:55:56Z</updated>
+    <id>tag:github.com,2023-12-03:/AaronGotlieb/detectorLab</id>
+    <link href="https://github.com/AaronGotlieb/detectorLab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;lab5&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

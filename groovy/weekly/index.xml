@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-03T01:49:55Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NetherlandsMetabolomicsCentre/GSCF-GroovyClient</title>
+    <updated>2023-12-03T01:49:55Z</updated>
+    <id>tag:github.com,2023-12-03:/NetherlandsMetabolomicsCentre/GSCF-GroovyClient</id>
+    <link href="https://github.com/NetherlandsMetabolomicsCentre/GSCF-GroovyClient" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is an automated mirror of 4np/GSCF-GroovyClient&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>janekdb/rockpool</title>
+    <updated>2023-12-03T01:49:55Z</updated>
+    <id>tag:github.com,2023-12-03:/janekdb/rockpool</id>
+    <link href="https://github.com/janekdb/rockpool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High performance, well documented JDBC connection pool coded in Scala&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nightmaretim/gradlerevercelookup</title>
+    <updated>2023-12-03T01:49:55Z</updated>
+    <id>tag:github.com,2023-12-03:/nightmaretim/gradlerevercelookup</id>
+    <link href="https://github.com/nightmaretim/gradlerevercelookup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository has some sausecode, those are help to understand my site, Name is Gradle reverce lookup.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

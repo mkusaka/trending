@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-03T01:54:26Z</updated>
+  <subtitle>Weekly Trending of Objective-C in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dunada/4bugz</title>
+    <updated>2023-12-03T01:54:26Z</updated>
+    <id>tag:github.com,2023-12-03:/dunada/4bugz</id>
+    <link href="https://github.com/dunada/4bugz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A iPhone app that allows you to perform common tasks in your FogBugz account&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>n-b/ObjcCollectionsKeyValueFiltering</title>
+    <updated>2023-12-03T01:54:26Z</updated>
+    <id>tag:github.com,2023-12-03:/n-b/ObjcCollectionsKeyValueFiltering</id>
+    <link href="https://github.com/n-b/ObjcCollectionsKeyValueFiltering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NSArray and NSSet additions for Key-Value filtering&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NSArray and NSSet categories for Key-Value filtering&lt;/h1&gt; &#xA;&lt;p&gt;Demo time :&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-objective-c&#34;&gt;// Quick and easy search&#xA;NSArray * employees = [...]&#xA;Person * ceo = [employees firstObjectWithValue:@&#34;timcook@apple.com&#34; forKeyPath:@&#34;email&#34;];&#xA;&#xA;// Keypaths&#xA;Person * steve = [employees firstObjectWithValue:[NSNull null] forKeyPath:@&#34;car.licenseplate&#34;]&#xA;&#xA;// Keypath collection operators&#xA;NSArray * boxes = [...]&#xA;NSArray * emptyBoxes = [boxes filteredArrayWithValue:@0 forKey:@&#34;items.@count&#34;];&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;More details &lt;a href=&#34;http://bou.io/FilteringNSArrayWithKeyValueCoding&#34;&gt;on my blog&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HLSL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-03T01:50:11Z</updated>
+  <subtitle>Weekly Trending of HLSL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DeusExMachinaTeam/EM-CommunityPatch</title>
+    <updated>2023-12-03T01:50:11Z</updated>
+    <id>tag:github.com,2023-12-03:/DeusExMachinaTeam/EM-CommunityPatch</id>
+    <link href="https://github.com/DeusExMachinaTeam/EM-CommunityPatch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Комьюнити патч / ремастер для Ex Machina&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

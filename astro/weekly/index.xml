@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-03T01:45:24Z</updated>
+  <subtitle>Weekly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CH563/gtps-url</title>
+    <updated>2023-12-03T01:45:24Z</updated>
+    <id>tag:github.com,2023-12-03:/CH563/gtps-url</id>
+    <link href="https://github.com/CH563/gtps-url" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT GPTs Store, use Astro + Taiwindcss, and crawl the 6,876 GPTs SQL packet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

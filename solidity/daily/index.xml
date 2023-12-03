@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-02T01:40:57Z</updated>
+  <updated>2023-12-03T01:42:10Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>code-423n4/2023-11-shellprotocol</title>
+    <updated>2023-12-03T01:42:10Z</updated>
+    <id>tag:github.com,2023-12-03:/code-423n4/2023-11-shellprotocol</id>
+    <link href="https://github.com/code-423n4/2023-11-shellprotocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nutsfinance/tapio-eth</title>
+    <updated>2023-12-03T01:42:10Z</updated>
+    <id>tag:github.com,2023-12-03:/nutsfinance/tapio-eth</id>
+    <link href="https://github.com/nutsfinance/tapio-eth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mangrovedao/mangrove-strats</title>
+    <updated>2023-12-03T01:42:10Z</updated>
+    <id>tag:github.com,2023-12-03:/mangrovedao/mangrove-strats</id>
+    <link href="https://github.com/mangrovedao/mangrove-strats" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌴 Mangrove strat-lib with example strats and offer logics&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

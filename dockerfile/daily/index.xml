@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-02T01:27:50Z</updated>
+  <updated>2023-12-03T01:32:22Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hackermondev/codespaces-vnc</title>
-    <updated>2023-12-02T01:27:50Z</updated>
-    <id>tag:github.com,2023-12-02:/hackermondev/codespaces-vnc</id>
-    <link href="https://github.com/hackermondev/codespaces-vnc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Virtual linux computer with GitHub codespaces&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;codespaces-vnc&lt;/h1&gt; &#xA;&lt;p&gt;Virtual linux computer with GitHub codespaces&lt;/p&gt; &#xA;&lt;h3&gt;How to run&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fork the repo&lt;/li&gt; &#xA; &lt;li&gt;Create a new codespace from the repo&lt;/li&gt; &#xA; &lt;li&gt;Once the codespace is fully loaded, run &lt;code&gt;gp-vncsession&lt;/code&gt; in the terminal &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Wait for the program to fully finish&lt;/li&gt; &#xA;   &lt;li&gt;port &lt;code&gt;6080&lt;/code&gt; should open which links to noVNC dashboard to access device&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Firefox&lt;/h3&gt; &#xA;&lt;p&gt;If you want to browse the web, you will need to install a browser. To install firefox, run &lt;code&gt;sudo apt-get update &amp;amp;&amp;amp; sudo apt-get install firefox&lt;/code&gt;. When it&#39;s finished, you should see firefox in the application list.&lt;/p&gt;</summary>
-  </entry>
 </feed>

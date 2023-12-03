@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-02T01:40:23Z</updated>
+  <updated>2023-12-03T01:41:43Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>asif-daffodil/js-Todolist</title>
-    <updated>2023-12-02T01:40:23Z</updated>
-    <id>tag:github.com,2023-12-02:/asif-daffodil/js-Todolist</id>
-    <link href="https://github.com/asif-daffodil/js-Todolist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>goldipl/SPARK_PROMOTIONS</title>
+    <updated>2023-12-03T01:41:43Z</updated>
+    <id>tag:github.com,2023-12-03:/goldipl/SPARK_PROMOTIONS</id>
+    <link href="https://github.com/goldipl/SPARK_PROMOTIONS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spark Promotions website ➡️ E-commerce dynamic website written using PHP, SCSS, Vanilla JavaScript, HTML5 with SwiperJS. Website contains products page, cart page, login, register, offerts &amp; account profiles/settings pages.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>asif-daffodil/rayhanHomework12-2022</title>
-    <updated>2023-12-02T01:40:23Z</updated>
-    <id>tag:github.com,2023-12-02:/asif-daffodil/rayhanHomework12-2022</id>
-    <link href="https://github.com/asif-daffodil/rayhanHomework12-2022" rel="alternate"></link>
+    <title>DemocracyClub/design-system</title>
+    <updated>2023-12-03T01:41:43Z</updated>
+    <id>tag:github.com,2023-12-03:/DemocracyClub/design-system</id>
+    <link href="https://github.com/DemocracyClub/design-system" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bedimcode/responsive-navbar-with-search-and-login</title>
-    <updated>2023-12-02T01:40:23Z</updated>
-    <id>tag:github.com,2023-12-02:/bedimcode/responsive-navbar-with-search-and-login</id>
-    <link href="https://github.com/bedimcode/responsive-navbar-with-search-and-login" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Responsive Navbar Using HTML CSS &amp; JavaScript | With Search &amp; Login&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
