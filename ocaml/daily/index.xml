@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-03T01:38:33Z</updated>
+  <updated>2023-12-04T01:38:49Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Sixstring982/tanenbaum</title>
-    <updated>2023-12-03T01:38:33Z</updated>
-    <id>tag:github.com,2023-12-03:/Sixstring982/tanenbaum</id>
-    <link href="https://github.com/Sixstring982/tanenbaum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OCaml Advent of Code starter project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Nitrokey/nethsm</title>
-    <updated>2023-12-03T01:38:33Z</updated>
-    <id>tag:github.com,2023-12-03:/Nitrokey/nethsm</id>
-    <link href="https://github.com/Nitrokey/nethsm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nitrokey NetHSM firmware software&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hacspec/hax</title>
+    <updated>2023-12-04T01:38:49Z</updated>
+    <id>tag:github.com,2023-12-04:/hacspec/hax</id>
+    <link href="https://github.com/hacspec/hax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Rust verification tool&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

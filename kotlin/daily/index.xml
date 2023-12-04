@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-03T01:36:26Z</updated>
+  <updated>2023-12-04T01:36:26Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>abualgait/AppStarter</title>
-    <updated>2023-12-03T01:36:26Z</updated>
-    <id>tag:github.com,2023-12-03:/abualgait/AppStarter</id>
-    <link href="https://github.com/abualgait/AppStarter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 Android App Starter with Clean Architecture 🏗️ This GitHub repository serves as a robust app starter, incorporating clean architecture principles. Built with Jetpack Compose, it features use cases, repositories, Retrofit for networking, Room for local storage, and a versatile theming system.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;🚀 Clean Architecture App Starter 🌐&lt;/h1&gt; &#xA;&lt;p&gt;Jumpstart your app development journey with this GitHub repository that follows clean architecture principles. Powered by Jetpack Compose, it seamlessly integrates use cases, repositories, Retrofit for network requests, Room for local storage, and a flexible theming system. This starter provides a modular and scalable foundation for your Android app. Happy coding! 🚀👩‍💻👨‍💻&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/abualgait/AppStarter/assets/38107393/696b1ef5-bd17-4848-81e8-7c8ef71da6c8&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;h4&gt;Built using:&lt;/h4&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Kotlin&lt;/li&gt; &#xA; &lt;li&gt;MVVM Clean Architecture&lt;/li&gt; &#xA; &lt;li&gt;Compose UI&lt;/li&gt; &#xA; &lt;li&gt;Retrofit2 &amp;amp; OkHttp3&lt;/li&gt; &#xA; &lt;li&gt;Room Database&lt;/li&gt; &#xA; &lt;li&gt;Hilt DI&lt;/li&gt; &#xA; &lt;li&gt;Use cases&lt;/li&gt; &#xA; &lt;li&gt;Unit Testing&lt;/li&gt; &#xA; &lt;li&gt;Kotlin Flow&lt;/li&gt; &#xA; &lt;li&gt;Compose State&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

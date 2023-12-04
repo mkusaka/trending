@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-03T01:43:54Z</updated>
+  <updated>2023-12-04T01:44:14Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FreeNowOrg/PixivNow</title>
-    <updated>2023-12-03T01:43:54Z</updated>
-    <id>tag:github.com,2023-12-03:/FreeNowOrg/PixivNow</id>
-    <link href="https://github.com/FreeNowOrg/PixivNow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Provide Pixiv backend proxy &amp; frontend service based on serverless technology&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blacktunes/sr-light-cone</title>
+    <updated>2023-12-04T01:44:14Z</updated>
+    <id>tag:github.com,2023-12-04:/blacktunes/sr-light-cone</id>
+    <link href="https://github.com/blacktunes/sr-light-cone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;崩坏:星穹铁道光锥编辑器&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Dooy/chatgpt-web-midjourney-proxy</title>
+    <updated>2023-12-04T01:44:14Z</updated>
+    <id>tag:github.com,2023-12-04:/Dooy/chatgpt-web-midjourney-proxy</id>
+    <link href="https://github.com/Dooy/chatgpt-web-midjourney-proxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;chatgpt web 与midjourney整合&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jetlinks/jetlinks-ui-vue</title>
+    <updated>2023-12-04T01:44:14Z</updated>
+    <id>tag:github.com,2023-12-04:/jetlinks/jetlinks-ui-vue</id>
+    <link href="https://github.com/jetlinks/jetlinks-ui-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JetLinks 前端Vue版本&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

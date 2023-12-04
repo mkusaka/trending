@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-03T01:44:23Z</updated>
+  <updated>2023-12-04T01:44:48Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gfbio/bioschemas.org_interest_group</title>
-    <updated>2023-12-03T01:44:23Z</updated>
-    <id>tag:github.com,2023-12-03:/gfbio/bioschemas.org_interest_group</id>
-    <link href="https://github.com/gfbio/bioschemas.org_interest_group" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository for documents and files related the the bioschemas.org interest group within NFDI4Biodiversity&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;bioschemas.org Interest Group&lt;/h1&gt; &#xA;&lt;p&gt;A repository for documents and files related the the bioschemas.org interest group within NFDI4Biodiversity&lt;/p&gt;</summary>
-  </entry>
 </feed>

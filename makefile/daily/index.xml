@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-03T01:37:10Z</updated>
+  <updated>2023-12-04T01:37:21Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>turing-machines/BMC-Firmware</title>
-    <updated>2023-12-03T01:37:10Z</updated>
-    <id>tag:github.com,2023-12-03:/turing-machines/BMC-Firmware</id>
-    <link href="https://github.com/turing-machines/BMC-Firmware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Turing-pi BMC firmware&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>losehu/uv-k5-firmware-chinese</title>
-    <updated>2023-12-03T01:37:10Z</updated>
-    <id>tag:github.com,2023-12-03:/losehu/uv-k5-firmware-chinese</id>
-    <link href="https://github.com/losehu/uv-k5-firmware-chinese" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;全功能泉盛UV-K5/K6中文固件&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>darlinghq/darling-usertemplate</title>
+    <updated>2023-12-04T01:37:21Z</updated>
+    <id>tag:github.com,2023-12-04:/darlinghq/darling-usertemplate</id>
+    <link href="https://github.com/darlinghq/darling-usertemplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apple&#39;s usertemplate&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

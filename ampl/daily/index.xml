@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AMPL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-03T01:29:37Z</updated>
+  <updated>2023-12-04T01:25:57Z</updated>
   <subtitle>Daily Trending of AMPL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>conda-forge/dynare-preprocessor-feedstock</title>
-    <updated>2023-12-03T01:29:37Z</updated>
-    <id>tag:github.com,2023-12-03:/conda-forge/dynare-preprocessor-feedstock</id>
-    <link href="https://github.com/conda-forge/dynare-preprocessor-feedstock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A conda-smithy repository for dynare-preprocessor.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

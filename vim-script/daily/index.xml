@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-03T01:43:46Z</updated>
+  <updated>2023-12-04T01:44:03Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zhonghcc/MConfig</title>
-    <updated>2023-12-03T01:43:46Z</updated>
-    <id>tag:github.com,2023-12-03:/zhonghcc/MConfig</id>
-    <link href="https://github.com/zhonghcc/MConfig" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>darlinghq/darling-vim</title>
+    <updated>2023-12-04T01:44:03Z</updated>
+    <id>tag:github.com,2023-12-04:/darlinghq/darling-vim</id>
+    <link href="https://github.com/darlinghq/darling-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apple&#39;s release of VIM&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

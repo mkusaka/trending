@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-03T01:38:08Z</updated>
+  <updated>2023-12-04T01:38:19Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nixlang-wiki/nixlang-wiki</title>
-    <updated>2023-12-03T01:38:08Z</updated>
-    <id>tag:github.com,2023-12-03:/nixlang-wiki/nixlang-wiki</id>
-    <link href="https://github.com/nixlang-wiki/nixlang-wiki" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bjw-s/nix-config</title>
+    <updated>2023-12-04T01:38:19Z</updated>
+    <id>tag:github.com,2023-12-04:/bjw-s/nix-config</id>
+    <link href="https://github.com/bjw-s/nix-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My nix systems configuration&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

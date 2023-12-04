@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-03T01:34:44Z</updated>
+  <updated>2023-12-04T01:34:15Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lacework/terraform-azure-agentless-scanning</title>
+    <updated>2023-12-04T01:34:15Z</updated>
+    <id>tag:github.com,2023-12-04:/lacework/terraform-azure-agentless-scanning</id>
+    <link href="https://github.com/lacework/terraform-azure-agentless-scanning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module for configuring an integration with Lacework and Azure for Agentless scanning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DevOps-Team-One-Aug-Class-2023/terraform-project</title>
+    <updated>2023-12-04T01:34:15Z</updated>
+    <id>tag:github.com,2023-12-04:/DevOps-Team-One-Aug-Class-2023/terraform-project</id>
+    <link href="https://github.com/DevOps-Team-One-Aug-Class-2023/terraform-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>squidfunk/terraform-aws-api-gateway-enable-cors</title>
+    <updated>2023-12-04T01:34:15Z</updated>
+    <id>tag:github.com,2023-12-04:/squidfunk/terraform-aws-api-gateway-enable-cors</id>
+    <link href="https://github.com/squidfunk/terraform-aws-api-gateway-enable-cors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily add an OPTIONS method to an API Gateway resource to enable CORS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
