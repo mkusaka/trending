@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-04T01:44:59Z</updated>
+  <updated>2023-12-05T01:42:46Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zenolith-ui/zenolith</title>
-    <updated>2023-12-04T01:44:59Z</updated>
-    <id>tag:github.com,2023-12-04:/zenolith-ui/zenolith</id>
-    <link href="https://github.com/zenolith-ui/zenolith" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The GUI engine to end them all! Mirror of https://git.mzte.de/zenolith/zenolith&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

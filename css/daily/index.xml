@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-04T01:29:15Z</updated>
+  <updated>2023-12-05T01:29:34Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yandex-praktikum/slozhno-sosredotochitsya</title>
-    <updated>2023-12-04T01:29:15Z</updated>
-    <id>tag:github.com,2023-12-04:/yandex-praktikum/slozhno-sosredotochitsya</id>
-    <link href="https://github.com/yandex-praktikum/slozhno-sosredotochitsya" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Проект &#34;Сложно сосредоточиться&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DzarelDeveloper/ForYou</title>
+    <updated>2023-12-05T01:29:34Z</updated>
+    <id>tag:github.com,2023-12-05:/DzarelDeveloper/ForYou</id>
+    <link href="https://github.com/DzarelDeveloper/ForYou" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Message for you ( Crush )&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ForYou&lt;/h1&gt; &#xA;&lt;p&gt;Message for you ( Crush )&lt;/p&gt;</summary>
   </entry>
 </feed>

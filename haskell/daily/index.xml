@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-04T01:33:59Z</updated>
+  <updated>2023-12-05T01:32:26Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>glutamate/probably-base</title>
-    <updated>2023-12-04T01:33:59Z</updated>
-    <id>tag:github.com,2023-12-04:/glutamate/probably-base</id>
-    <link href="https://github.com/glutamate/probably-base" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is a library for various probablility functions for Baysig and BayesHive.&lt;/p&gt;</summary>
+    <title>hawkinsw/CS3003-HaskellAssignment</title>
+    <updated>2023-12-05T01:32:26Z</updated>
+    <id>tag:github.com,2023-12-05:/hawkinsw/CS3003-HaskellAssignment</id>
+    <link href="https://github.com/hawkinsw/CS3003-HaskellAssignment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Skeleton code for the Haskell Assignment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-04T01:33:16Z</updated>
+  <updated>2023-12-05T01:31:54Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Klockcraft-Official/Klockcraft-Java-Edition-0.30</title>
-    <updated>2023-12-04T01:33:16Z</updated>
-    <id>tag:github.com,2023-12-04:/Klockcraft-Official/Klockcraft-Java-Edition-0.30</id>
-    <link href="https://github.com/Klockcraft-Official/Klockcraft-Java-Edition-0.30" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;minecraft 0.30 web port&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

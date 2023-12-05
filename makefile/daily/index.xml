@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-04T01:37:21Z</updated>
+  <updated>2023-12-05T01:35:33Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>darlinghq/darling-usertemplate</title>
-    <updated>2023-12-04T01:37:21Z</updated>
-    <id>tag:github.com,2023-12-04:/darlinghq/darling-usertemplate</id>
-    <link href="https://github.com/darlinghq/darling-usertemplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apple&#39;s usertemplate&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ew0s/ewos-to-go-hw</title>
+    <updated>2023-12-05T01:35:33Z</updated>
+    <id>tag:github.com,2023-12-05:/ew0s/ewos-to-go-hw</id>
+    <link href="https://github.com/ew0s/ewos-to-go-hw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

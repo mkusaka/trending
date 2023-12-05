@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-04T01:25:11Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-12-05T01:26:22Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ExpLangcn/NucleiTP</title>
-    <updated>2023-12-04T01:25:11Z</updated>
-    <id>tag:github.com,2023-12-04:/ExpLangcn/NucleiTP</id>
-    <link href="https://github.com/ExpLangcn/NucleiTP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheRamU/Fay</title>
+    <updated>2023-12-05T01:26:22Z</updated>
+    <id>tag:github.com,2023-12-05:/TheRamU/Fay</id>
+    <link href="https://github.com/TheRamU/Fay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hacktivist123/DevOps-Learning-Plan</title>
-    <updated>2023-12-04T01:25:11Z</updated>
-    <id>tag:github.com,2023-12-04:/hacktivist123/DevOps-Learning-Plan</id>
-    <link href="https://github.com/hacktivist123/DevOps-Learning-Plan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is my DevOps learning plan for the year 2024&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wpzzz/blocked-sites-in-south-korea</title>
+    <updated>2023-12-05T01:26:22Z</updated>
+    <id>tag:github.com,2023-12-05:/wpzzz/blocked-sites-in-south-korea</id>
+    <link href="https://github.com/wpzzz/blocked-sites-in-south-korea" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>liuchong/awesome-roadmaps</title>
-    <updated>2023-12-04T01:25:11Z</updated>
-    <id>tag:github.com,2023-12-04:/liuchong/awesome-roadmaps</id>
-    <link href="https://github.com/liuchong/awesome-roadmaps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of roadmaps.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>greatfrontend/awesome-front-end-system-design</title>
+    <updated>2023-12-05T01:26:22Z</updated>
+    <id>tag:github.com,2023-12-05:/greatfrontend/awesome-front-end-system-design</id>
+    <link href="https://github.com/greatfrontend/awesome-front-end-system-design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated front end system design resources for interviews and learning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

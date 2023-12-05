@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-04T01:43:14Z</updated>
+  <updated>2023-12-05T01:41:10Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>angeris/spla-repo</title>
-    <updated>2023-12-04T01:43:14Z</updated>
-    <id>tag:github.com,2023-12-04:/angeris/spla-repo</id>
-    <link href="https://github.com/angeris/spla-repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A small repository containing the TeX code for the Succinct Proofs and Linear Algebra study session&#39;s slides and homework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>applied-bioinformatics/iab2</title>
+    <updated>2023-12-05T01:41:10Z</updated>
+    <id>tag:github.com,2023-12-05:/applied-bioinformatics/iab2</id>
+    <link href="https://github.com/applied-bioinformatics/iab2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Introduction to Applied Bioinformatics, 2nd Edition&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;An Introduction to Applied Bioinformatics, 2nd Edition&lt;/h1&gt; &#xA;&lt;p&gt;This is the source repository for IAB2. If you&#39;re interested in reading the book, head to &lt;a href=&#34;http://readIAB.org&#34;&gt;http://readIAB.org&lt;/a&gt;. If you&#39;re here to report an error or to request new features or content, please post to the &lt;a href=&#34;https://github.com/applied-bioinformatics/iab2/issues&#34;&gt;issue tracker&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>MystenLabs/papers-bibtex</title>
+    <updated>2023-12-05T01:41:10Z</updated>
+    <id>tag:github.com,2023-12-05:/MystenLabs/papers-bibtex</id>
+    <link href="https://github.com/MystenLabs/papers-bibtex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;References to papers published by Mysten Labs folks&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;papers-bibtex&lt;/h1&gt; &#xA;&lt;p&gt;References to papers published by Mysten Labs folks&lt;/p&gt;</summary>
   </entry>
 </feed>

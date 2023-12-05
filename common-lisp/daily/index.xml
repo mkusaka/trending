@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-04T01:28:43Z</updated>
+  <updated>2023-12-05T01:29:17Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>atgreen/advent-of-code-2023</title>
+    <updated>2023-12-05T01:29:17Z</updated>
+    <id>tag:github.com,2023-12-05:/atgreen/advent-of-code-2023</id>
+    <link href="https://github.com/atgreen/advent-of-code-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Advent of Code 2023 in Common Lisp&lt;/h1&gt; &#xA;&lt;p&gt;I&#39;m using the Advent of Code 2023 to exercise my Common Lisp muscles.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://adventofcode/2023&#34;&gt;https://adventofcode/2023&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Learnings&lt;/h2&gt; &#xA;&lt;p&gt;Learnings from prior years: &lt;a href=&#34;https://github.com/atgreen/advent-of-code-2022/raw/main/README.md&#34;&gt;2022&lt;/a&gt; &lt;a href=&#34;https://github.com/atgreen/advent-of-code-2021/raw/main/README.md&#34;&gt;2021&lt;/a&gt; &lt;a href=&#34;https://github.com/atgreen/advent-of-code-2020/raw/main/README.md&#34;&gt;2020&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;I&#39;m using &lt;a href=&#34;https://github.com/ocicl/ocicl&#34;&gt;ocicl&lt;/a&gt; for dependency management this year instead of quicklisp. Just run &lt;code&gt;ocicl install&lt;/code&gt; to install the libraries I&#39;m using.&lt;/p&gt; &#xA;&lt;p&gt;Here are some of my personal learnings from 2023.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;(none yet)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Anthony Green &lt;a href=&#34;mailto:green@redhat.com&#34;&gt;green@redhat.com&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-04T01:34:15Z</updated>
+  <updated>2023-12-05T01:32:43Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Jorge-SunSpirit/vs-Infinite</title>
+    <updated>2023-12-05T01:32:43Z</updated>
+    <id>tag:github.com,2023-12-05:/Jorge-SunSpirit/vs-Infinite</id>
+    <link href="https://github.com/Jorge-SunSpirit/vs-Infinite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Friday Night Funkin&#39; - VS. Infinite (&lt;a href=&#34;https://gamebanana.com/mods/479212&#34;&gt;GB&lt;/a&gt;/&lt;a href=&#34;https://gamejolt.com/games/vsinfinite/708644&#34;&gt;GJ&lt;/a&gt;)&lt;/h1&gt; &#xA;&lt;p&gt;Code repo for VS. Infinite by Team TBD.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/48425882/198206435-ff649cc9-9b43-4344-bb32-bc4b09351ea7.png&#34; alt=&#34;VS_Infinite (1) cropped&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installation:&lt;/h2&gt; &#xA;&lt;p&gt;You must have &lt;a href=&#34;https://haxe.org/download/&#34;&gt;the most up-to-date version of Haxe&lt;/a&gt;, seriously, stop using 4.1.5, it misses some stuff.&lt;/p&gt; &#xA;&lt;p&gt;Open up a Command Prompt/PowerShell or Terminal, type &lt;code&gt;haxelib install hmm&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;After it finishes, simply type &lt;code&gt;haxelib run hmm install&lt;/code&gt; in order to install most of the needed libraries.&lt;/p&gt; &#xA;&lt;p&gt;hxCodec doesn&#39;t work with Haxe Module Manager, so it must be installed separately. &lt;code&gt;haxelib git hxCodec https://github.com/polybiusproxy/hxCodec.git&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Afterwards, you&#39;re ready to compile!&lt;/p&gt;</summary>
+  </entry>
 </feed>

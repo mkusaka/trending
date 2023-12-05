@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-04T01:38:19Z</updated>
+  <updated>2023-12-05T01:36:28Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bjw-s/nix-config</title>
-    <updated>2023-12-04T01:38:19Z</updated>
-    <id>tag:github.com,2023-12-04:/bjw-s/nix-config</id>
-    <link href="https://github.com/bjw-s/nix-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My nix systems configuration&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BirdeeHub/nixCats-nvim</title>
+    <updated>2023-12-05T01:36:28Z</updated>
+    <id>tag:github.com,2023-12-05:/BirdeeHub/nixCats-nvim</id>
+    <link href="https://github.com/BirdeeHub/nixCats-nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Lua-natic nix user&#39;s Neovim Flake, kickstart.nvim style&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

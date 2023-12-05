@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-04T01:36:37Z</updated>
+  <updated>2023-12-05T01:35:00Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shilangyu/AoC-2023</title>
+    <updated>2023-12-05T01:35:00Z</updated>
+    <id>tag:github.com,2023-12-05:/shilangyu/AoC-2023</id>
+    <link href="https://github.com/shilangyu/AoC-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advent of code 2023 in Koka and Lean, depending on the compiler&#39;s mood&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hhu-adam/GameSkeleton</title>
+    <updated>2023-12-05T01:35:00Z</updated>
+    <id>tag:github.com,2023-12-05:/hhu-adam/GameSkeleton</id>
+    <link href="https://github.com/hhu-adam/GameSkeleton" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The basic game template for lean4game&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
