@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-05T01:32:19Z</updated>
+  <updated>2023-12-06T01:32:29Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>keowu/BadRentdrv2</title>
+    <updated>2023-12-06T01:32:29Z</updated>
+    <id>tag:github.com,2023-12-06:/keowu/BadRentdrv2</id>
+    <link href="https://github.com/keowu/BadRentdrv2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Maxmentor/Max-LiveTv-Web</title>
+    <updated>2023-12-06T01:32:29Z</updated>
+    <id>tag:github.com,2023-12-06:/Maxmentor/Max-LiveTv-Web</id>
+    <link href="https://github.com/Maxmentor/Max-LiveTv-Web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multiple Live Tv Servers Like : Jiotv, SonyLiv, Discovery+, Aastha, Sanskar, PTC Play, Dabang Play&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

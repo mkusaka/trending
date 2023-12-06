@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-05T01:37:19Z</updated>
+  <updated>2023-12-06T01:37:34Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fredposner/scripts</title>
-    <updated>2023-12-05T01:37:19Z</updated>
-    <id>tag:github.com,2023-12-05:/fredposner/scripts</id>
-    <link href="https://github.com/fredposner/scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scripts and such for Kamailio, Asterisk, FreeSWITCH, and more&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;scripts&lt;/h1&gt; &#xA;&lt;p&gt;Scripts and such for Kamailio, Asterisk, FreeSWITCH, and more&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>shmup/irssi-scripts</title>
-    <updated>2023-12-05T01:37:19Z</updated>
-    <id>tag:github.com,2023-12-05:/shmup/irssi-scripts</id>
-    <link href="https://github.com/shmup/irssi-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;irssi scripts&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;irssi scripts&lt;/h1&gt; &#xA;&lt;h2&gt;reference&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://irssi.org/documentation/scripting&#34;&gt;https://irssi.org/documentation/scripting&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://codeberg.org/irssi/irssi/src/branch/master/docs/signals.txt&#34;&gt;https://codeberg.org/irssi/irssi/src/branch/master/docs/signals.txt&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>pld-linux/apache1-mod_bandwidth</title>
+    <updated>2023-12-06T01:37:34Z</updated>
+    <id>tag:github.com,2023-12-06:/pld-linux/apache1-mod_bandwidth</id>
+    <link href="https://github.com/pld-linux/apache1-mod_bandwidth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache module: bandwidth limits&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

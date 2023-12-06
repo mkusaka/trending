@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-05T01:26:22Z</updated>
+  <updated>2023-12-06T01:25:23Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TheRamU/Fay</title>
-    <updated>2023-12-05T01:26:22Z</updated>
-    <id>tag:github.com,2023-12-05:/TheRamU/Fay</id>
-    <link href="https://github.com/TheRamU/Fay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>YueChan/Live</title>
+    <updated>2023-12-06T01:25:23Z</updated>
+    <id>tag:github.com,2023-12-06:/YueChan/Live</id>
+    <link href="https://github.com/YueChan/Live" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;收集于互联网的一些高清直播源。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wpzzz/blocked-sites-in-south-korea</title>
-    <updated>2023-12-05T01:26:22Z</updated>
-    <id>tag:github.com,2023-12-05:/wpzzz/blocked-sites-in-south-korea</id>
-    <link href="https://github.com/wpzzz/blocked-sites-in-south-korea" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>miketromba/highest-paying-software-companies</title>
+    <updated>2023-12-06T01:25:23Z</updated>
+    <id>tag:github.com,2023-12-06:/miketromba/highest-paying-software-companies</id>
+    <link href="https://github.com/miketromba/highest-paying-software-companies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The top 500 highest paying companies based on median software engineer total comp on levels.fyi as of 12/1/23.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>greatfrontend/awesome-front-end-system-design</title>
-    <updated>2023-12-05T01:26:22Z</updated>
-    <id>tag:github.com,2023-12-05:/greatfrontend/awesome-front-end-system-design</id>
-    <link href="https://github.com/greatfrontend/awesome-front-end-system-design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated front end system design resources for interviews and learning&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DERE-ad2001/Frida-Labs</title>
+    <updated>2023-12-06T01:25:23Z</updated>
+    <id>tag:github.com,2023-12-06:/DERE-ad2001/Frida-Labs</id>
+    <link href="https://github.com/DERE-ad2001/Frida-Labs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The repo contains a series of challenges for learning Frida for Android Exploitation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

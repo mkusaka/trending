@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-05T01:41:58Z</updated>
+  <updated>2023-12-06T01:42:57Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>leandrocp/nvim</title>
+    <updated>2023-12-06T01:42:57Z</updated>
+    <id>tag:github.com,2023-12-06:/leandrocp/nvim</id>
+    <link href="https://github.com/leandrocp/nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Neovim Files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GuillaumeSeren/vimrc</title>
+    <updated>2023-12-06T01:42:57Z</updated>
+    <id>tag:github.com,2023-12-06:/GuillaumeSeren/vimrc</id>
+    <link href="https://github.com/GuillaumeSeren/vimrc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My vimrc configuration.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-05T01:32:15Z</updated>
+  <updated>2023-12-06T01:32:25Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>repaint-io/maven-tiles</title>
-    <updated>2023-12-05T01:32:15Z</updated>
-    <id>tag:github.com,2023-12-05:/repaint-io/maven-tiles</id>
-    <link href="https://github.com/repaint-io/maven-tiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Injecting maven configurations by composition rather than inheritance&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

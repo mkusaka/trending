@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-05T01:36:43Z</updated>
+  <updated>2023-12-06T01:36:53Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jfreyre/iOS-Starter-Kit</title>
-    <updated>2023-12-05T01:36:43Z</updated>
-    <id>tag:github.com,2023-12-05:/jfreyre/iOS-Starter-Kit</id>
-    <link href="https://github.com/jfreyre/iOS-Starter-Kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;What is iOS Starter Kit&lt;/h1&gt; &#xA;&lt;p&gt;It&#39;s a boilerplate that spare you time when you start a new iOS project. ;)&lt;/p&gt; &#xA;&lt;p&gt;iOS Starter Kit already include&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;the &lt;a href=&#34;https://github.com/RestKit/RestKit&#34;&gt;RestKit&lt;/a&gt; library&lt;/li&gt; &#xA; &lt;li&gt;the &lt;a href=&#34;https://github.com/samvermette/SVProgressHUD&#34;&gt;SVProgressHUD&lt;/a&gt; library&lt;/li&gt; &#xA; &lt;li&gt;Categories for NSString&lt;/li&gt; &#xA; &lt;li&gt;Categories for UIColor&lt;/li&gt; &#xA; &lt;li&gt;Built-in webcontroller&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;How to use iosStarterKit ?&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Clone the project&lt;/li&gt; &#xA; &lt;li&gt;Open the project with Xcode&lt;/li&gt; &#xA; &lt;li&gt;Click on the project then in the right sidebar: &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Update the project name and accept corrections&lt;/li&gt; &#xA;   &lt;li&gt;Update the &lt;code&gt;Organization Name&lt;/code&gt;&lt;/li&gt; &#xA;   &lt;li&gt;Update the &lt;code&gt;Class Prefix Name&lt;/code&gt;&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;Click on the target and update the &lt;code&gt;Bundle Identifier&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Add new modules in the Podfile&lt;/li&gt; &#xA; &lt;li&gt;Start your project ;)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>tatewake/iphone-tictactoe</title>
+    <updated>2023-12-06T01:36:53Z</updated>
+    <id>tag:github.com,2023-12-06:/tatewake/iphone-tictactoe</id>
+    <link href="https://github.com/tatewake/iphone-tictactoe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple Tic-Tac-Toe game for iPhone&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;iphone-tictactoe&lt;/h1&gt; &#xA;&lt;p&gt;A simple Tic-Tac-Toe game for iPhone&lt;/p&gt;</summary>
   </entry>
 </feed>

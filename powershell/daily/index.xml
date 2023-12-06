@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-05T01:37:52Z</updated>
+  <updated>2023-12-06T01:38:14Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MSEndpointMgr/ModernDriverManagement</title>
+    <updated>2023-12-06T01:38:14Z</updated>
+    <id>tag:github.com,2023-12-06:/MSEndpointMgr/ModernDriverManagement</id>
+    <link href="https://github.com/MSEndpointMgr/ModernDriverManagement" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official repo of Modern Driver Management from MSEndpointMgr.com&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Modern Driver Management&lt;/h1&gt; &#xA;&lt;p&gt;For implementation instructions, please go to &lt;a href=&#34;https://www.msendpointmgr.com/modern-driver-management&#34;&gt;https://www.msendpointmgr.com/modern-driver-management&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>awslabs/aws-support-tools</title>
+    <updated>2023-12-06T01:38:14Z</updated>
+    <id>tag:github.com,2023-12-06:/awslabs/aws-support-tools</id>
+    <link href="https://github.com/awslabs/aws-support-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools and sample code provided by AWS Premium Support.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;aws-support-tools&lt;/h1&gt; &#xA;&lt;p&gt;Tools and sample code provided by AWS Premium Support.&lt;/p&gt;</summary>
+  </entry>
 </feed>

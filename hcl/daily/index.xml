@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-05T01:32:43Z</updated>
+  <updated>2023-12-06T01:32:54Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nsbno/terraform-aws-frontend-deployment</title>
-    <updated>2023-12-05T01:32:43Z</updated>
-    <id>tag:github.com,2023-12-05:/nsbno/terraform-aws-frontend-deployment</id>
-    <link href="https://github.com/nsbno/terraform-aws-frontend-deployment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Terraform module for facilitating the deployment of static frontend applications in AWS.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

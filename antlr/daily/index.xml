@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ANTLR Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-05T01:27:21Z</updated>
+  <updated>2023-12-06T01:26:17Z</updated>
   <subtitle>Daily Trending of ANTLR in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jarrodhroberson/ideal</title>
+    <updated>2023-12-06T01:26:17Z</updated>
+    <id>tag:github.com,2023-12-06:/jarrodhroberson/ideal</id>
+    <link href="https://github.com/jarrodhroberson/ideal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I am working on defining a high level functional language with dynamic typing an optional static type system that will emit source code for other target languages.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
