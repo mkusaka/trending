@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-06T01:42:05Z</updated>
+  <updated>2023-12-07T01:41:46Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tidy-finance/website</title>
-    <updated>2023-12-06T01:42:05Z</updated>
-    <id>tag:github.com,2023-12-06:/tidy-finance/website</id>
-    <link href="https://github.com/tidy-finance/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository hosts the source code for the website tidy-finance.org&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Tidy Finance&lt;/h1&gt; &#xA;&lt;p&gt;This is the repository for the website tidy-finance.org combining&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;The book &lt;strong&gt;Tidy Finance with R&lt;/strong&gt; by &lt;a href=&#34;https://christophscheuch.github.io?utm_source=tidy-finance-repo&#34;&gt;Christoph Scheuch&lt;/a&gt;, &lt;a href=&#34;https://voigtstefan.me?utm_source=tidy-finance-repo&#34;&gt;Stefan Voigt&lt;/a&gt;, and &lt;a href=&#34;https://sites.google.com/view/patrick-weiss?utm_source=tidy-finance-repo&#34;&gt;Patrick Weiss&lt;/a&gt;,&lt;/li&gt; &#xA; &lt;li&gt;The work-in-progress version of &lt;strong&gt;Tidy Finance with Python&lt;/strong&gt; by &lt;a href=&#34;https://sites.google.com/site/christophfrey/home?utm_source=tidy-finance-repo&#34;&gt;Christoph Frey&lt;/a&gt;, &lt;a href=&#34;https://christophscheuch.github.io?utm_source=tidy-finance-repo&#34;&gt;Christoph Scheuch&lt;/a&gt;, &lt;a href=&#34;https://voigtstefan.me?utm_source=tidy-finance-repo&#34;&gt;Stefan Voigt&lt;/a&gt;, and &lt;a href=&#34;https://sites.google.com/view/patrick-weiss?utm_source=tidy-finance-repo&#34;&gt;Patrick Weiss&lt;/a&gt;, and&lt;/li&gt; &#xA; &lt;li&gt;The &lt;strong&gt;Tidy Finance Blog&lt;/strong&gt; which is open to contributions.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;The code is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International CC BY-NC-SA 4.0&lt;/a&gt;. The website was rendered using &lt;a href=&#34;https://quarto.org/&#34;&gt;quarto&lt;/a&gt; and it is hosted via GitHub Pages.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Tidy Finance with R&lt;/strong&gt; was released as a print version via &lt;a href=&#34;https://www.jdoqocy.com/click-100765519-14339043?url=https%3A%2F%2Fwww.routledge.com%2FTidy-Finance-with-R%2FVoigt-Weiss-Scheuch%2Fp%2Fbook%2F9781032389349&#34;&gt;Chapman &amp;amp; Hall / CRC&lt;/a&gt;. Consider the &lt;a href=&#34;https://www.tidy-finance.org/support.html#get-your-copy-of-the-book&#34;&gt;following distribution channels&lt;/a&gt; to support the authors.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/tidy-finance/website/main/images/cover_book.jpg&#34; alt=&#34;&lt;img src=&amp;quot;https://www.tidy-finance.org&amp;quot; class=&amp;quot;logo&amp;quot; align=&amp;quot;right&amp;quot; style=&amp;quot;width:60px;&amp;quot;/&gt;&#34;&gt;&lt;/p&gt;</summary>
+    <title>eamonogorman/thesis</title>
+    <updated>2023-12-07T01:41:46Z</updated>
+    <id>tag:github.com,2023-12-07:/eamonogorman/thesis</id>
+    <link href="https://github.com/eamonogorman/thesis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PhD Thesis at Trinity College Dublin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

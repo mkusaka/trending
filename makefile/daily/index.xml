@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-06T01:35:41Z</updated>
+  <updated>2023-12-07T01:35:49Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gruberdev/local-gitops</title>
-    <updated>2023-12-06T01:35:41Z</updated>
-    <id>tag:github.com,2023-12-06:/gruberdev/local-gitops</id>
-    <link href="https://github.com/gruberdev/local-gitops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An automated local cluster setup w/ tls, monitoring, ingress and DNS configuration.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IObundle/iob-linux</title>
+    <updated>2023-12-07T01:35:49Z</updated>
+    <id>tag:github.com,2023-12-07:/IObundle/iob-linux</id>
+    <link href="https://github.com/IObundle/iob-linux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>openshift/build-machinery-go</title>
-    <updated>2023-12-06T01:35:41Z</updated>
-    <id>tag:github.com,2023-12-06:/openshift/build-machinery-go</id>
-    <link href="https://github.com/openshift/build-machinery-go" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shared location for Makefiles, helper scripts, and other common build machinery&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>snapcrafters/ci</title>
+    <updated>2023-12-07T01:35:49Z</updated>
+    <id>tag:github.com,2023-12-07:/snapcrafters/ci</id>
+    <link href="https://github.com/snapcrafters/ci" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for shared CI tools and actions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

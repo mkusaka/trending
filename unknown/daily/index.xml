@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-06T01:25:23Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-12-07T01:26:18Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>YueChan/Live</title>
-    <updated>2023-12-06T01:25:23Z</updated>
-    <id>tag:github.com,2023-12-06:/YueChan/Live</id>
-    <link href="https://github.com/YueChan/Live" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;收集于互联网的一些高清直播源。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ytongbai/LVM</title>
+    <updated>2023-12-07T01:26:18Z</updated>
+    <id>tag:github.com,2023-12-07:/ytongbai/LVM</id>
+    <link href="https://github.com/ytongbai/LVM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>miketromba/highest-paying-software-companies</title>
-    <updated>2023-12-06T01:25:23Z</updated>
-    <id>tag:github.com,2023-12-06:/miketromba/highest-paying-software-companies</id>
-    <link href="https://github.com/miketromba/highest-paying-software-companies" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The top 500 highest paying companies based on median software engineer total comp on levels.fyi as of 12/1/23.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devv-ai/devv</title>
+    <updated>2023-12-07T01:26:18Z</updated>
+    <id>tag:github.com,2023-12-07:/devv-ai/devv</id>
+    <link href="https://github.com/devv-ai/devv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An AI-powered search engine for developers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DERE-ad2001/Frida-Labs</title>
-    <updated>2023-12-06T01:25:23Z</updated>
-    <id>tag:github.com,2023-12-06:/DERE-ad2001/Frida-Labs</id>
-    <link href="https://github.com/DERE-ad2001/Frida-Labs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The repo contains a series of challenges for learning Frida for Android Exploitation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>keenanromain/AWS-SAA-C02-Study-Guide</title>
+    <updated>2023-12-07T01:26:18Z</updated>
+    <id>tag:github.com,2023-12-07:/keenanromain/AWS-SAA-C02-Study-Guide</id>
+    <link href="https://github.com/keenanromain/AWS-SAA-C02-Study-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;How to become a certified AWS Solutions Architect&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

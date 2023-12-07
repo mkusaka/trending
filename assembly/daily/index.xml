@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-06T01:26:32Z</updated>
+  <updated>2023-12-07T01:27:22Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>amir-kedis/Assembly-x86-helper</title>
-    <updated>2023-12-06T01:26:32Z</updated>
-    <id>tag:github.com,2023-12-06:/amir-kedis/Assembly-x86-helper</id>
-    <link href="https://github.com/amir-kedis/Assembly-x86-helper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Assembly x86 Helper repository, a collaborative initiative by students from Cairo University&#39;s Faculty of Engineering CMP26 to make a comprehensive resource hub for teams and individuals delving into the world of low-level x86 programming, with a specific focus on game development.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-06T01:30:57Z</updated>
+  <updated>2023-12-07T01:31:31Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>krismolendyke/.emacs.d</title>
-    <updated>2023-12-06T01:30:57Z</updated>
-    <id>tag:github.com,2023-12-06:/krismolendyke/.emacs.d</id>
-    <link href="https://github.com/krismolendyke/.emacs.d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Literate Emacs settings and customizations.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Please visit this project&#39;s &lt;a href=&#34;http://krismolendyke.github.io/.emacs.d&#34;&gt;GitHub Page&lt;/a&gt; for more information.&lt;/p&gt;</summary>
+    <title>chainsawriot/orgdungeon</title>
+    <updated>2023-12-07T01:31:31Z</updated>
+    <id>tag:github.com,2023-12-07:/chainsawriot/orgdungeon</id>
+    <link href="https://github.com/chainsawriot/orgdungeon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gpoulter/emacsfiles</title>
+    <updated>2023-12-07T01:31:31Z</updated>
+    <id>tag:github.com,2023-12-07:/gpoulter/emacsfiles</id>
+    <link href="https://github.com/gpoulter/emacsfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My Emacs configuration files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

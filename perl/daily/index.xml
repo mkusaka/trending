@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-06T01:37:34Z</updated>
+  <updated>2023-12-07T01:37:44Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pld-linux/apache1-mod_bandwidth</title>
-    <updated>2023-12-06T01:37:34Z</updated>
-    <id>tag:github.com,2023-12-06:/pld-linux/apache1-mod_bandwidth</id>
-    <link href="https://github.com/pld-linux/apache1-mod_bandwidth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apache module: bandwidth limits&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

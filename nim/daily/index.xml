@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-06T01:36:33Z</updated>
+  <updated>2023-12-07T01:36:39Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>radkesvat/RTCF</title>
-    <updated>2023-12-06T01:36:33Z</updated>
-    <id>tag:github.com,2023-12-06:/radkesvat/RTCF</id>
-    <link href="https://github.com/radkesvat/RTCF" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reverse Tunnel with CDN (aka cloudflrae) True tls support, 0RTT,mux,loadbalancing&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-06T01:41:26Z</updated>
+  <updated>2023-12-07T01:41:21Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Ilyas-Codes/eCourse</title>
-    <updated>2023-12-06T01:41:26Z</updated>
-    <id>tag:github.com,2023-12-06:/Ilyas-Codes/eCourse</id>
-    <link href="https://github.com/Ilyas-Codes/eCourse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimal &amp; customizable template for self-hosting your online course.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hearchco/frontend</title>
-    <updated>2023-12-06T01:41:26Z</updated>
-    <id>tag:github.com,2023-12-06:/hearchco/frontend</id>
-    <link href="https://github.com/hearchco/frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Frontend for Hearchco built with SvelteKit.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

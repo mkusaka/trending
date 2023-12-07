@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-06T01:26:50Z</updated>
+  <updated>2023-12-07T01:27:47Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/ai-rag-chat-evaluator</title>
+    <updated>2023-12-07T01:27:47Z</updated>
+    <id>tag:github.com,2023-12-07:/Azure-Samples/ai-rag-chat-evaluator</id>
+    <link href="https://github.com/Azure-Samples/ai-rag-chat-evaluator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for evaluation of RAG Chat Apps using Azure AI Evaluate SDK and OpenAI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pathway-labs/azure-openai-real-time-data-app</title>
+    <updated>2023-12-07T01:27:47Z</updated>
+    <id>tag:github.com,2023-12-07:/pathway-labs/azure-openai-real-time-data-app</id>
+    <link href="https://github.com/pathway-labs/azure-openai-real-time-data-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Real-time data pipeline for AI apps in Azure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

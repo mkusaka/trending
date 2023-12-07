@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-06T01:40:30Z</updated>
+  <updated>2023-12-07T01:40:27Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rasnaut/FruitNinja</title>
-    <updated>2023-12-06T01:40:30Z</updated>
-    <id>tag:github.com,2023-12-06:/rasnaut/FruitNinja</id>
-    <link href="https://github.com/rasnaut/FruitNinja" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Lovescream/goodfungame</title>
-    <updated>2023-12-06T01:40:30Z</updated>
-    <id>tag:github.com,2023-12-06:/Lovescream/goodfungame</id>
-    <link href="https://github.com/Lovescream/goodfungame" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CirnoDayo/EnRoute-Prototype-V1</title>
+    <updated>2023-12-07T01:40:27Z</updated>
+    <id>tag:github.com,2023-12-07:/CirnoDayo/EnRoute-Prototype-V1</id>
+    <link href="https://github.com/CirnoDayo/EnRoute-Prototype-V1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;We Run It Back&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
