@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-07T01:39:07Z</updated>
+  <updated>2023-12-08T01:41:16Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cjgeyer/pooh</title>
-    <updated>2023-12-07T01:39:07Z</updated>
-    <id>tag:github.com,2023-12-07:/cjgeyer/pooh</id>
-    <link href="https://github.com/cjgeyer/pooh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;R package for Partial Orders and Relations&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Partial Orders and Relations &lt;a href=&#34;http://www.stat.umn.edu/geyer/pooh/&#34;&gt;http://www.stat.umn.edu/geyer/pooh/&lt;/a&gt; Subdirectory package/pooh is the source for the devel version of the R package On CRAN &lt;a href=&#34;http://CRAN.R-project.org/package=pooh&#34;&gt;http://CRAN.R-project.org/package=pooh&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

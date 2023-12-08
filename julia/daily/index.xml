@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-07T01:34:37Z</updated>
+  <updated>2023-12-08T01:35:38Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>recursecenter/webstack.jl</title>
-    <updated>2023-12-07T01:34:37Z</updated>
-    <id>tag:github.com,2023-12-07:/recursecenter/webstack.jl</id>
-    <link href="https://github.com/recursecenter/webstack.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DEPRECATED: In progress Julia webstack&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PeaceFounder/AppBundler.jl</title>
-    <updated>2023-12-07T01:34:37Z</updated>
-    <id>tag:github.com,2023-12-07:/PeaceFounder/AppBundler.jl</id>
-    <link href="https://github.com/PeaceFounder/AppBundler.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bundle your Julia application&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

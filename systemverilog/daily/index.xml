@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-07T01:41:42Z</updated>
+  <updated>2023-12-08T01:44:58Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bespoke-silicon-group/bsg_manycore</title>
-    <updated>2023-12-07T01:41:42Z</updated>
-    <id>tag:github.com,2023-12-07:/bespoke-silicon-group/bsg_manycore</id>
-    <link href="https://github.com/bespoke-silicon-group/bsg_manycore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tile based architecture designed for computing efficiency, scalability and generality&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

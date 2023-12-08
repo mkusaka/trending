@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-07T01:27:22Z</updated>
+  <updated>2023-12-08T01:27:41Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ROCm/MIOpen</title>
+    <updated>2023-12-08T01:27:41Z</updated>
+    <id>tag:github.com,2023-12-08:/ROCm/MIOpen</id>
+    <link href="https://github.com/ROCm/MIOpen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AMD&#39;s Machine Intelligence Library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS</title>
+    <updated>2023-12-08T01:27:41Z</updated>
+    <id>tag:github.com,2023-12-08:/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS</id>
+    <link href="https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Assembly Language Programming on 8086&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ROCm/hipBLASLt</title>
+    <updated>2023-12-08T01:27:41Z</updated>
+    <id>tag:github.com,2023-12-08:/ROCm/hipBLASLt</id>
+    <link href="https://github.com/ROCm/hipBLASLt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;hipBLASLt is a library that provides general matrix-matrix operations with a flexible API and extends functionalities beyond a traditional BLAS library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

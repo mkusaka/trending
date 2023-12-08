@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-07T01:37:56Z</updated>
+  <updated>2023-12-08T01:39:45Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>swoole/phpy</title>
-    <updated>2023-12-07T01:37:56Z</updated>
-    <id>tag:github.com,2023-12-07:/swoole/phpy</id>
-    <link href="https://github.com/swoole/phpy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;phpy&lt;/h1&gt; &#xA;&lt;p&gt;&lt;code&gt;Python&lt;/code&gt; 与 &lt;code&gt;PHP&lt;/code&gt; 互调用库，可以在 &lt;code&gt;PHP&lt;/code&gt; 中使用 &lt;code&gt;Python&lt;/code&gt; 语言的函数和类库，或者在 &lt;code&gt;Python&lt;/code&gt; 中使用 &lt;code&gt;PHP&lt;/code&gt; 的包。 但不是语言内嵌。编码依然使用各自的原生语法。&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;本项目授权协议为 &lt;code&gt;Apache2&lt;/code&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;目前仅支持 Linux 平台（理论上可以支持所有操作系统，待实现）&lt;/li&gt; &#xA; &lt;li&gt;不支持 Python 多线程、&lt;code&gt;async-io&lt;/code&gt; 特性&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/swoole/phpy/main/docs/wxg.png&#34; alt=&#34;Alt&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;PHP 调用 Python&lt;/h2&gt; &#xA;&lt;p&gt;编译安装 &lt;code&gt;phpy.so&lt;/code&gt; 作为扩展加载，修改 &lt;code&gt;php.ini&lt;/code&gt; 追加 &lt;code&gt;extension=phpy.so&lt;/code&gt; 即可。&lt;/p&gt; &#xA;&lt;p&gt;例子：&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-php&#34;&gt;$os = PyCore::import(&#34;os&#34;);&#xA;$un = $os-&amp;gt;uname();&#xA;echo strval($un);&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Python 中调用 PHP&lt;/h2&gt; &#xA;&lt;p&gt;直接作为 &lt;code&gt;C++ Mudule&lt;/code&gt; ，import 加载即可。&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import phpy&#xA;&#xA;content = phpy.call(&#39;file_get_contents&#39;, &#39;test.txt&#39;)&#xA;&#xA;o = phpy.Object(&#39;redis&#39;)&#xA;assert o.call(&#39;connect&#39;, &#39;127.0.0.1&#39;, 6379)&#xA;rdata = phpy.call(&#39;uniqid&#39;)&#xA;assert o.call(&#39;set&#39;, &#39;key&#39;, rdata)&#xA;assert o.call(&#39;get&#39;, &#39;key&#39;) == rdata&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

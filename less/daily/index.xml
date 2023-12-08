@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-07T01:35:13Z</updated>
+  <updated>2023-12-08T01:36:19Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CodeStitchOfficial/Intermediate-Website-Kit-LESS</title>
-    <updated>2023-12-07T01:35:13Z</updated>
-    <id>tag:github.com,2023-12-07:/CodeStitchOfficial/Intermediate-Website-Kit-LESS</id>
-    <link href="https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-LESS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official CodeStitch Intermediate kit, featuring 11ty, Decap CMS and LESS - all set up for you! Perfect for websites of all sizes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

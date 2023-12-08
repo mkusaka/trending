@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-07T01:27:20Z</updated>
+  <updated>2023-12-08T01:27:43Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>drizzle-team/drizzle-orm-docs</title>
-    <updated>2023-12-07T01:27:20Z</updated>
-    <id>tag:github.com,2023-12-07:/drizzle-team/drizzle-orm-docs</id>
-    <link href="https://github.com/drizzle-team/drizzle-orm-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Drizzle ORM documentation website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CH563/gtps-url</title>
+    <updated>2023-12-08T01:27:43Z</updated>
+    <id>tag:github.com,2023-12-08:/CH563/gtps-url</id>
+    <link href="https://github.com/CH563/gtps-url" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT GPTs Store, use Astro + Taiwindcss, and crawl the 6,876 GPTs SQL packet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
