@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-08T01:47:15Z</updated>
+  <updated>2023-12-09T01:44:49Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kristoff-it/zine</title>
-    <updated>2023-12-08T01:47:15Z</updated>
-    <id>tag:github.com,2023-12-08:/kristoff-it/zine</id>
-    <link href="https://github.com/kristoff-it/zine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A static website generator built on top of `zig build`&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>michal-z/zig-d3d12-starter</title>
+    <updated>2023-12-09T01:44:49Z</updated>
+    <id>tag:github.com,2023-12-09:/michal-z/zig-d3d12-starter</id>
+    <link href="https://github.com/michal-z/zig-d3d12-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DirectX 12 + Zig programming language - complete starter project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>water-sucks/nixos</title>
+    <updated>2023-12-09T01:44:49Z</updated>
+    <id>tag:github.com,2023-12-09:/water-sucks/nixos</id>
+    <link href="https://github.com/water-sucks/nixos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A unified NixOS tooling replacement for nixos-* utilities&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>keep-starknet-strange/ziggy-starkdust</title>
+    <updated>2023-12-09T01:44:49Z</updated>
+    <id>tag:github.com,2023-12-09:/keep-starknet-strange/ziggy-starkdust</id>
+    <link href="https://github.com/keep-starknet-strange/ziggy-starkdust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡ Cairo VM in Zig ⚡&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

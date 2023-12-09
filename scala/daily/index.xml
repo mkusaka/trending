@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-08T01:42:52Z</updated>
+  <updated>2023-12-09T01:40:48Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jeff-m-t-wt/app1</title>
-    <updated>2023-12-08T01:42:52Z</updated>
-    <id>tag:github.com,2023-12-08:/jeff-m-t-wt/app1</id>
-    <link href="https://github.com/jeff-m-t-wt/app1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fake app&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;app1&lt;/h1&gt; &#xA;&lt;p&gt;A fake app&lt;/p&gt;</summary>
+    <title>tarao/record4s</title>
+    <updated>2023-12-09T01:40:48Z</updated>
+    <id>tag:github.com,2023-12-09:/tarao/record4s</id>
+    <link href="https://github.com/tarao/record4s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extensible records for Scala&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;img src=&#34;https://raw.githubusercontent.com/tarao/record4s/master/docs/img/record4s.svg?sanitize=true&#34; alt=&#34;&#34; width=&#34;32&#34;&gt; record4s: extensible records for Scala&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tarao/record4s/actions/workflows/ci.yml&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/actions/workflow/status/tarao/record4s/ci.yml&#34; alt=&#34;Build status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://codecov.io/gh/tarao/record4s&#34;&gt;&lt;img src=&#34;https://codecov.io/gh/tarao/record4s/graph/badge.svg?token=U9309O1VNK&#34; alt=&#34;Coverage status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://maven-badges.herokuapp.com/maven-central/com.github.tarao/record4s_3&#34;&gt;&lt;img src=&#34;https://img.shields.io/maven-central/v/com.github.tarao/record4s_3.svg?sanitize=true&#34; alt=&#34;Maven Central&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://javadoc.io/doc/com.github.tarao/record4s_3&#34;&gt;&lt;img src=&#34;https://javadoc.io/badge2/com.github.tarao/record4s_3/javadoc.svg?color=blue&amp;amp;label=Scaladoc&#34; alt=&#34;Scaladoc&#34;&gt;&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://index.scala-lang.org/tarao/record4s/record4s&#34;&gt;&lt;img src=&#34;https://index.scala-lang.org/tarao/record4s/record4s/latest-by-scala-version.svg?platform=jvm&amp;amp;color=blue&#34; alt=&#34;record4s Scala version support&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://index.scala-lang.org/tarao/record4s/record4s&#34;&gt;&lt;img src=&#34;https://index.scala-lang.org/tarao/record4s/record4s/latest-by-scala-version.svg?platform=sjs1&amp;amp;color=blue&#34; alt=&#34;record4s Scala version support&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://index.scala-lang.org/tarao/record4s/record4s&#34;&gt;&lt;img src=&#34;https://index.scala-lang.org/tarao/record4s/record4s/latest-by-scala-version.svg?platform=native0.4&amp;amp;color=blue&#34; alt=&#34;record4s Scala version support&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;record4s proviedes extensible records for Scala.&lt;/p&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://tarao.orezdnu.org/record4s/&#34;&gt;guide&lt;/a&gt; to learn about installation and usage.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;record4s is licensed under &lt;a href=&#34;https://www.apache.org/licenses/LICENSE-2.0&#34;&gt;Apache License, Version 2.0&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>nationalarchives/da-tre-fn-process-monitoring-queue</title>
+    <updated>2023-12-09T01:40:48Z</updated>
+    <id>tag:github.com,2023-12-09:/nationalarchives/da-tre-fn-process-monitoring-queue</id>
+    <link href="https://github.com/nationalarchives/da-tre-fn-process-monitoring-queue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;da-tre-fn-process-monitoring-queue&lt;/h1&gt; &#xA;&lt;p&gt;A lambda to be run on a daily cron matching incoming and outbound TRE messages. A summary is posted to slack.&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-08T01:31:34Z</updated>
+  <updated>2023-12-09T01:30:20Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pilarxyz/cek-rekening</title>
-    <updated>2023-12-08T01:31:34Z</updated>
-    <id>tag:github.com,2023-12-08:/pilarxyz/cek-rekening</id>
-    <link href="https://github.com/pilarxyz/cek-rekening" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;API Cek Rekening &amp; E-Wallet Indonesia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CU-CSCI3308-Fall2023/Smitty-12</title>
-    <updated>2023-12-08T01:31:34Z</updated>
-    <id>tag:github.com,2023-12-08:/CU-CSCI3308-Fall2023/Smitty-12</id>
-    <link href="https://github.com/CU-CSCI3308-Fall2023/Smitty-12" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Group 1 Recitation 12 software dev project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thomasriley0/Tennis-Reservation-App</title>
-    <updated>2023-12-08T01:31:34Z</updated>
-    <id>tag:github.com,2023-12-08:/thomasriley0/Tennis-Reservation-App</id>
-    <link href="https://github.com/thomasriley0/Tennis-Reservation-App" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tennis reservation app&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-08T01:31:47Z</updated>
+  <updated>2023-12-09T01:30:29Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bostonaholic/emacs.d</title>
-    <updated>2023-12-08T01:31:47Z</updated>
-    <id>tag:github.com,2023-12-08:/bostonaholic/emacs.d</id>
-    <link href="https://github.com/bostonaholic/emacs.d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my emacs config&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;emacs.d&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;#+BEGIN_SRC shell git clone &lt;a href=&#34;mailto:git@github.com&#34;&gt;git@github.com&lt;/a&gt;:bostonaholic/emacs.d.git cd emacs.d ln -s $PWD ~/.emacs.d #+END_SRC&lt;/p&gt;</summary>
-  </entry>
 </feed>

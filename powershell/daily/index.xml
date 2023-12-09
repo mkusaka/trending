@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-08T01:40:18Z</updated>
+  <updated>2023-12-09T01:38:19Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Freex77/HWID-SPOOFER</title>
-    <updated>2023-12-08T01:40:18Z</updated>
-    <id>tag:github.com,2023-12-08:/Freex77/HWID-SPOOFER</id>
-    <link href="https://github.com/Freex77/HWID-SPOOFER" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Custom Created Hardware ID Spoofer&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HWID-SPOOFER&lt;/h1&gt; &#xA;&lt;h3&gt;Custom Created Hardware ID Spoofer&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Freex77/HWID-SPOOFER/assets/145994710/84fbe222-2c35-4ca5-8e3f-dfd505837e3b&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;- Randomization: This spoofer offers a randomization feature, which generates new, seemingly random hardware identifiers with each use. This can make it more challenging for anti-cheat systems to detect spoofing.&lt;/h3&gt; &#xA;&lt;h3&gt;- Backup and Restore: Backup and restore functions enable users to save their original hardware identifiers before spoofing and restore them later if needed.&lt;/h3&gt; &#xA;&lt;h3&gt;- Compatibility: HWID spoofer aim to work with a variety of hardware configurations and operating systems, ensuring compatibility with a broad range of computers.&lt;/h3&gt;</summary>
-  </entry>
 </feed>

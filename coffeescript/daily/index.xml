@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-08T01:29:50Z</updated>
+  <updated>2023-12-09T01:28:32Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bfricka/ng-Bootstrap-Express</title>
-    <updated>2023-12-08T01:29:50Z</updated>
-    <id>tag:github.com,2023-12-08:/bfricka/ng-Bootstrap-Express</id>
-    <link href="https://github.com/bfricka/ng-Bootstrap-Express" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emberico/Sites</title>
+    <updated>2023-12-09T01:28:32Z</updated>
+    <id>tag:github.com,2023-12-09:/emberico/Sites</id>
+    <link href="https://github.com/emberico/Sites" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Emberi, Co&#39;s hosted sites.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Racket Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-08T01:41:30Z</updated>
+  <updated>2023-12-09T01:39:34Z</updated>
   <subtitle>Daily Trending of Racket in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>romanmatyus/dn-aukcia</title>
-    <updated>2023-12-08T01:41:30Z</updated>
-    <id>tag:github.com,2023-12-08:/romanmatyus/dn-aukcia</id>
-    <link href="https://github.com/romanmatyus/dn-aukcia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rewinfrey/racket-ttt</title>
+    <updated>2023-12-09T01:39:34Z</updated>
+    <id>tag:github.com,2023-12-09:/rewinfrey/racket-ttt</id>
+    <link href="https://github.com/rewinfrey/racket-ttt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TTT implemented in Racket (formerly PLT-Scheme) for the command line.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

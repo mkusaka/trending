@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-08T01:42:16Z</updated>
+  <updated>2023-12-09T01:40:26Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>joemasilotti/daily-log</title>
+    <updated>2023-12-09T01:40:26Z</updated>
+    <id>tag:github.com,2023-12-09:/joemasilotti/daily-log</id>
+    <link href="https://github.com/joemasilotti/daily-log" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Rails, iOS, and (upcoming) Android app to track my daily habits like exercise, medication, food, and water.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Daily Log&lt;/h1&gt; &#xA;&lt;p&gt;An Rails, iOS, and (upcoming) Android app to track my daily habits like exercise, medication, food, and water.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[!TIP] Check out the app here: &lt;a href=&#34;https://dailylog.ing&#34;&gt;dailylog.ing&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;Follow along with &lt;a href=&#34;https://x.com/joemasilotti/status/1732051026226938343?s=20&#34;&gt;this tweet&lt;/a&gt; for more updates and ideas as I build this in public!&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/joemasilotti/daily-log/main/rails/&#34;&gt;Rails app&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/joemasilotti/daily-log/main/ios/&#34;&gt;iOS app&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/joemasilotti/daily-log/main/android/&#34;&gt;Android app&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

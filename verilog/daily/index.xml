@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-08T01:46:06Z</updated>
+  <updated>2023-12-09T01:43:45Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>IObundle/iob-uart16550</title>
-    <updated>2023-12-08T01:46:06Z</updated>
-    <id>tag:github.com,2023-12-08:/IObundle/iob-uart16550</id>
-    <link href="https://github.com/IObundle/iob-uart16550" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>IObundle/iob-spi</title>
-    <updated>2023-12-08T01:46:06Z</updated>
-    <id>tag:github.com,2023-12-08:/IObundle/iob-spi</id>
-    <link href="https://github.com/IObundle/iob-spi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
