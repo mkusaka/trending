@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-10T01:50:12Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>etica/SoliditySHA3MinerEticaOptimised</title>
+    <updated>2023-12-10T01:50:12Z</updated>
+    <id>tag:github.com,2023-12-10:/etica/SoliditySHA3MinerEticaOptimised</id>
+    <link href="https://github.com/etica/SoliditySHA3MinerEticaOptimised" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SoliditySHA3MinerEticaOriginal optimised by Dmitry. This has been the main miner used by Etica community to mine ETI since October 2022&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>y7rr/ngrok-rdp</title>
+    <updated>2023-12-10T01:50:12Z</updated>
+    <id>tag:github.com,2023-12-10:/y7rr/ngrok-rdp</id>
+    <link href="https://github.com/y7rr/ngrok-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>boedy125/ngrok-rdp</title>
+    <updated>2023-12-10T01:50:12Z</updated>
+    <id>tag:github.com,2023-12-10:/boedy125/ngrok-rdp</id>
+    <link href="https://github.com/boedy125/ngrok-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

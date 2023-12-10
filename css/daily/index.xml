@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-09T01:28:57Z</updated>
+  <updated>2023-12-10T01:31:50Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>amyyalex/simple-contribution</title>
+    <updated>2023-12-10T01:31:50Z</updated>
+    <id>tag:github.com,2023-12-10:/amyyalex/simple-contribution</id>
+    <link href="https://github.com/amyyalex/simple-contribution" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a very simple project to help first-time contributors to easily participate in an open-source project.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;simple-contribution&lt;/h1&gt; &#xA;&lt;h1&gt;&lt;a href=&#34;https://amyyalex.github.io/simple-contribution/&#34;&gt;Contribute To This Project&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;Click on the &lt;a href=&#34;https://amyyalex.github.io/simple-contribution/&#34;&gt;link&lt;/a&gt; to see the live site!&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;This is a very simple project to help first-time contributors to easily participate and contribute to an open-source project and get more comfortable in using GitHub.&lt;/p&gt; &#xA;&lt;h3&gt;Who can contribute?&lt;/h3&gt; &#xA;&lt;p&gt;&lt;strong&gt;This project is for both developers and non-developers.&lt;/strong&gt; Anyone can contribute to this project, whether or not you are a developer, as long as you want to contribute to an open source project. This is intended for complete beginners and also for those with a little more experience who want to make their first open source contribution and gain more experience.&lt;/p&gt; &#xA;&lt;h3&gt;How and what do I contribute?&lt;/h3&gt; &#xA;&lt;p&gt;It&#39;s simple, there&#39;s an already created template in the HTML file which has been marked where to start and where to stop all you have to do is to make a copy of the template and customize it with your own information. To contribute, read the &lt;a href=&#34;https://raw.githubusercontent.com/amyyalex/simple-contribution/main/contribution.md&#34;&gt;Contribution guide&lt;/a&gt; to get an explicit guide on the whole process of contributing starting from setting up Github to creating a pull request. If you&#39;re an advanced developer and you want to take it up a notch, read the &lt;a href=&#34;https://raw.githubusercontent.com/amyyalex/simple-contribution/main/advanced-contribution.md&#34;&gt;Advanced Contribution guide&lt;/a&gt; to get started.&lt;/p&gt; &#xA;&lt;p&gt;Once your pull request is merged, the changes will be live on &lt;a href=&#34;https://amyyalex.github.io/simple-contribution/&#34;&gt;simple-contribution&lt;/a&gt;. If you appericate this amazing project, kindly leave a ⭐ by clicking on the star button on the top right. Thank you!&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FreeRDP/freerdp.github.io</title>
+    <updated>2023-12-10T01:31:50Z</updated>
+    <id>tag:github.com,2023-12-10:/FreeRDP/freerdp.github.io</id>
+    <link href="https://github.com/FreeRDP/freerdp.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FreeRDP website&lt;/p&gt;&lt;hr&gt;&lt;p&gt;FreeRDP website&lt;/p&gt;</summary>
+  </entry>
 </feed>

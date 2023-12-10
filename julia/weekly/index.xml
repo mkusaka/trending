@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-10T01:57:46Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kmicinski/compbio</title>
+    <updated>2023-12-10T01:57:46Z</updated>
+    <id>tag:github.com,2023-12-10:/kmicinski/compbio</id>
+    <link href="https://github.com/kmicinski/compbio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Computational biology project for CMSC 702&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

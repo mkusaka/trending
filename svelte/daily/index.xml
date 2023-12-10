@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-09T01:42:12Z</updated>
+  <updated>2023-12-10T01:45:59Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mpiorowski/sgsg</title>
-    <updated>2023-12-09T01:42:12Z</updated>
-    <id>tag:github.com,2023-12-09:/mpiorowski/sgsg</id>
-    <link href="https://github.com/mpiorowski/sgsg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Svelte + Go + SQLite + gRPC&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kitschpatrol/svelte-tweakpane-ui</title>
+    <updated>2023-12-10T01:45:59Z</updated>
+    <id>tag:github.com,2023-12-10:/kitschpatrol/svelte-tweakpane-ui</id>
+    <link href="https://github.com/kitschpatrol/svelte-tweakpane-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Svelte component library wrapping UI elements from Tweakpane, plus some additional functionality for convenience and flexibility.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Its-Alex/personal-website</title>
-    <updated>2023-12-09T01:42:12Z</updated>
-    <id>tag:github.com,2023-12-09:/Its-Alex/personal-website</id>
-    <link href="https://github.com/Its-Alex/personal-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💻 Open source resume&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>defenseunicorns/leapfrog-ui</title>
+    <updated>2023-12-10T01:45:59Z</updated>
+    <id>tag:github.com,2023-12-10:/defenseunicorns/leapfrog-ui</id>
+    <link href="https://github.com/defenseunicorns/leapfrog-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A UI for LeapFrog AI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nais/console-frontend</title>
-    <updated>2023-12-09T01:42:12Z</updated>
-    <id>tag:github.com,2023-12-09:/nais/console-frontend</id>
-    <link href="https://github.com/nais/console-frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Merkie/freespeech</title>
+    <updated>2023-12-10T01:45:59Z</updated>
+    <id>tag:github.com,2023-12-10:/Merkie/freespeech</id>
+    <link href="https://github.com/Merkie/freespeech" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A free program designed to help the non-verbal.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

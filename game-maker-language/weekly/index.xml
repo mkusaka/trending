@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Game Maker Language Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-10T01:54:38Z</updated>
+  <subtitle>Weekly Trending of Game Maker Language in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>D-Official/PizzaTowerSwitch-FMOD</title>
+    <updated>2023-12-10T01:54:38Z</updated>
+    <id>tag:github.com,2023-12-10:/D-Official/PizzaTowerSwitch-FMOD</id>
+    <link href="https://github.com/D-Official/PizzaTowerSwitch-FMOD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Select code files from the unofficial Pizza Tower switch port&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

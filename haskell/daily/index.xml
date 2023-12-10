@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-09T01:32:13Z</updated>
+  <updated>2023-12-10T01:35:12Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>guilhermereis/hsimplesearch</title>
-    <updated>2023-12-09T01:32:13Z</updated>
-    <id>tag:github.com,2023-12-09:/guilhermereis/hsimplesearch</id>
-    <link href="https://github.com/guilhermereis/hsimplesearch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hsimplesearch&lt;/h1&gt; &#xA;&lt;p&gt;A simple desktop search engine coded in Haskell. Useful mostly for students&#39; experiments.&lt;/p&gt;</summary>
+    <title>pxqr/algorithm-wm</title>
+    <updated>2023-12-10T01:35:12Z</updated>
+    <id>tag:github.com,2023-12-10:/pxqr/algorithm-wm</id>
+    <link href="https://github.com/pxqr/algorithm-wm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Algorithm W versus algorithm M type errors comparison.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Synopsis&lt;/h1&gt; &#xA;&lt;p&gt;The main goals of this package is to compare type errors exposed be Algorithm W versus Algorithm M.&lt;/p&gt;</summary>
   </entry>
 </feed>

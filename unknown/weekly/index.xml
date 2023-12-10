@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown Languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-10T01:48:52Z</updated>
+  <subtitle>Weekly Trending of Unknown Languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HumanAIGC/AnimateAnyone</title>
+    <updated>2023-12-10T01:48:52Z</updated>
+    <id>tag:github.com,2023-12-10:/HumanAIGC/AnimateAnyone</id>
+    <link href="https://github.com/HumanAIGC/AnimateAnyone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TheRamU/Fay</title>
+    <updated>2023-12-10T01:48:52Z</updated>
+    <id>tag:github.com,2023-12-10:/TheRamU/Fay</id>
+    <link href="https://github.com/TheRamU/Fay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sdg-1/consulting-handbook</title>
+    <updated>2023-12-10T01:48:52Z</updated>
+    <id>tag:github.com,2023-12-10:/sdg-1/consulting-handbook</id>
+    <link href="https://github.com/sdg-1/consulting-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A guide for technical professionals looking to start consulting&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-09T01:38:19Z</updated>
+  <updated>2023-12-10T01:42:02Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tyranid/windows-security-internals</title>
+    <updated>2023-12-10T01:42:02Z</updated>
+    <id>tag:github.com,2023-12-10:/tyranid/windows-security-internals</id>
+    <link href="https://github.com/tyranid/windows-security-internals" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for additional files related to the book Windows Security Internals with PowerShell from No Starch Press.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;windows-security-internals&lt;/h1&gt; &#xA;&lt;p&gt;A repository for additional files related to the book Windows Security Internals with PowerShell from No Starch Press.&lt;/p&gt; &#xA;&lt;p&gt;Most chapters have consolidated PowerShell listings in the file &lt;em&gt;chapter_X_listings.ps1&lt;/em&gt;. The individual listings should be copied and ran in a PowerShell console, it&#39;s not recommended to execute the entire script at once. Some chapters also have individual listings where special setup is required, primarily when the script needs to be run as an administrator.&lt;/p&gt;</summary>
+  </entry>
 </feed>

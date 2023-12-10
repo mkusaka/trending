@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-10T01:52:08Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>abwilson/mpjs</title>
+    <updated>2023-12-10T01:52:08Z</updated>
+    <id>tag:github.com,2023-12-10:/abwilson/mpjs</id>
+    <link href="https://github.com/abwilson/mpjs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mark pascal to javascript via coffeescript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bfricka/ng-Bootstrap-Express</title>
+    <updated>2023-12-10T01:52:08Z</updated>
+    <id>tag:github.com,2023-12-10:/bfricka/ng-Bootstrap-Express</id>
+    <link href="https://github.com/bfricka/ng-Bootstrap-Express" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JordiPolo/usimulator</title>
+    <updated>2023-12-10T01:52:08Z</updated>
+    <id>tag:github.com,2023-12-10:/JordiPolo/usimulator</id>
+    <link href="https://github.com/JordiPolo/usimulator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solar system simulator created in Coffeescript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Metal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-10T01:59:26Z</updated>
+  <subtitle>Weekly Trending of Metal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sandrohanea/whisper.net</title>
+    <updated>2023-12-10T01:59:26Z</updated>
+    <id>tag:github.com,2023-12-10:/sandrohanea/whisper.net</id>
+    <link href="https://github.com/sandrohanea/whisper.net" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Whisper.net. Speech to text made simple using Whisper Models&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

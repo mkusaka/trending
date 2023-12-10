@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-09T01:25:28Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-12-10T01:28:47Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xiaolai/everyone-can-use-english</title>
-    <updated>2023-12-09T01:25:28Z</updated>
-    <id>tag:github.com,2023-12-09:/xiaolai/everyone-can-use-english</id>
-    <link href="https://github.com/xiaolai/everyone-can-use-english" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;人人都能用英语&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>meri-nova/breaking-into-data-handbook</title>
+    <updated>2023-12-10T01:28:47Z</updated>
+    <id>tag:github.com,2023-12-10:/meri-nova/breaking-into-data-handbook</id>
+    <link href="https://github.com/meri-nova/breaking-into-data-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Breaking Into Data Handbook&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024</title>
-    <updated>2023-12-09T01:25:28Z</updated>
-    <id>tag:github.com,2023-12-09:/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024</id>
-    <link href="https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>YuelangX/Gaussian-Head-Avatar</title>
+    <updated>2023-12-10T01:28:47Z</updated>
+    <id>tag:github.com,2023-12-10:/YuelangX/Gaussian-Head-Avatar</id>
+    <link href="https://github.com/YuelangX/Gaussian-Head-Avatar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official repository for &#34;Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>showlab/VideoSwap</title>
-    <updated>2023-12-09T01:25:28Z</updated>
-    <id>tag:github.com,2023-12-09:/showlab/VideoSwap</id>
-    <link href="https://github.com/showlab/VideoSwap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code for VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>skysafe/reblog</title>
+    <updated>2023-12-10T01:28:47Z</updated>
+    <id>tag:github.com,2023-12-10:/skysafe/reblog</id>
+    <link href="https://github.com/skysafe/reblog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SkySafe Miscellaneous Reverse Engineering Blog&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

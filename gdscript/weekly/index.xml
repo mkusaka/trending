@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-10T01:54:44Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BL-MSCH-C220/Exercise-5-1-FPS</title>
+    <updated>2023-12-10T01:54:44Z</updated>
+    <id>tag:github.com,2023-12-10:/BL-MSCH-C220/Exercise-5-1-FPS</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-5-1-FPS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Maran23/script-ide</title>
+    <updated>2023-12-10T01:54:44Z</updated>
+    <id>tag:github.com,2023-12-10:/Maran23/script-ide</id>
+    <link href="https://github.com/Maran23/script-ide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Script-IDE is a plugin for Godot. It transforms the Script UI into an IDE like UI. Tabs are used for navigating between scripts. The default Outline got an overhaul and now shows all members of the script (not just methods) with unique icons for faster navigation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

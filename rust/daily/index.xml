@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-09T01:40:16Z</updated>
+  <updated>2023-12-10T01:43:59Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>anoma/namada-trusted-setup-claimer</title>
+    <updated>2023-12-10T01:43:59Z</updated>
+    <id>tag:github.com,2023-12-10:/anoma/namada-trusted-setup-claimer</id>
+    <link href="https://github.com/anoma/namada-trusted-setup-claimer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sign arbitrary messages with keys obtained from Namada&#39;s trusted setup&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Namada Trusted Setup Claimer&lt;/h1&gt; &#xA;&lt;p&gt;CLI util to sign arbitrary messages with. The signing keys are obtained from Namada&#39;s trusted setup ceremony.&lt;/p&gt; &#xA;&lt;p&gt;To run it just type:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;cargo run&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You will be asked to provide the seed used during the trusted setup ceremony. Once you&#39;ve done that, you can choose to:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Show the public key&lt;/li&gt; &#xA; &lt;li&gt;Sign a message&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>
