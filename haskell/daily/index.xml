@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-10T01:35:12Z</updated>
+  <updated>2023-12-11T01:49:22Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pxqr/algorithm-wm</title>
-    <updated>2023-12-10T01:35:12Z</updated>
-    <id>tag:github.com,2023-12-10:/pxqr/algorithm-wm</id>
-    <link href="https://github.com/pxqr/algorithm-wm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Algorithm W versus algorithm M type errors comparison.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Synopsis&lt;/h1&gt; &#xA;&lt;p&gt;The main goals of this package is to compare type errors exposed be Algorithm W versus Algorithm M.&lt;/p&gt;</summary>
+    <title>yoshio-kinoshita/yesod-sample</title>
+    <updated>2023-12-11T01:49:22Z</updated>
+    <id>tag:github.com,2023-12-11:/yoshio-kinoshita/yesod-sample</id>
+    <link href="https://github.com/yoshio-kinoshita/yesod-sample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;yesod-sample&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

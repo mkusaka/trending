@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-10T01:28:47Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-12-11T01:42:36Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>meri-nova/breaking-into-data-handbook</title>
-    <updated>2023-12-10T01:28:47Z</updated>
-    <id>tag:github.com,2023-12-10:/meri-nova/breaking-into-data-handbook</id>
-    <link href="https://github.com/meri-nova/breaking-into-data-handbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Breaking Into Data Handbook&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>morrownr/USB-WiFi</title>
+    <updated>2023-12-11T01:42:36Z</updated>
+    <id>tag:github.com,2023-12-11:/morrownr/USB-WiFi</id>
+    <link href="https://github.com/morrownr/USB-WiFi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;USB WiFi Adapter Information for Linux&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>YuelangX/Gaussian-Head-Avatar</title>
-    <updated>2023-12-10T01:28:47Z</updated>
-    <id>tag:github.com,2023-12-10:/YuelangX/Gaussian-Head-Avatar</id>
-    <link href="https://github.com/YuelangX/Gaussian-Head-Avatar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official repository for &#34;Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians&#34;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>skysafe/reblog</title>
-    <updated>2023-12-10T01:28:47Z</updated>
-    <id>tag:github.com,2023-12-10:/skysafe/reblog</id>
-    <link href="https://github.com/skysafe/reblog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SkySafe Miscellaneous Reverse Engineering Blog&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MlgmXyysd/Xiaomi-BootLoader-Questionnaire</title>
+    <updated>2023-12-11T01:42:36Z</updated>
+    <id>tag:github.com,2023-12-11:/MlgmXyysd/Xiaomi-BootLoader-Questionnaire</id>
+    <link href="https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;小米 BootLoader《解锁资格答题测试》更新记录&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

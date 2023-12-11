@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-10T01:38:46Z</updated>
+  <updated>2023-12-11T01:52:25Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>remerge/go-lock_free_timer</title>
-    <updated>2023-12-10T01:38:46Z</updated>
-    <id>tag:github.com,2023-12-10:/remerge/go-lock_free_timer</id>
-    <link href="https://github.com/remerge/go-lock_free_timer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;go-lock_free_timer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LineageOS/android_device_lineage_sepolicy</title>
-    <updated>2023-12-10T01:38:46Z</updated>
-    <id>tag:github.com,2023-12-10:/LineageOS/android_device_lineage_sepolicy</id>
-    <link href="https://github.com/LineageOS/android_device_lineage_sepolicy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>portainer/templates</title>
+    <updated>2023-12-11T01:52:25Z</updated>
+    <id>tag:github.com,2023-12-11:/portainer/templates</id>
+    <link href="https://github.com/portainer/templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;App Templates used by Portainer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

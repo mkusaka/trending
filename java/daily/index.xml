@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-10T01:36:18Z</updated>
+  <updated>2023-12-11T01:50:36Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chiteroman/BootloaderSpoofer</title>
+    <updated>2023-12-11T01:50:36Z</updated>
+    <id>tag:github.com,2023-12-11:/chiteroman/BootloaderSpoofer</id>
+    <link href="https://github.com/chiteroman/BootloaderSpoofer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spoof locked bootloader on local attestations&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BootloaderSpoofer&lt;/h1&gt; &#xA;&lt;p&gt;Spoof locked bootloader on local attestations&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>PortSwigger/bambdas</title>
+    <updated>2023-12-11T01:50:36Z</updated>
+    <id>tag:github.com,2023-12-11:/PortSwigger/bambdas</id>
+    <link href="https://github.com/PortSwigger/bambdas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bambdas collection for Burp Suite Professional and Community.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Bambdas&lt;/h1&gt; &#xA;&lt;p&gt;Bambdas collection for Burp Suite Professional and Community.&lt;/p&gt; &#xA;&lt;p&gt;Developed both by PortSwigger and the community with 🧡&lt;/p&gt; &#xA;&lt;h2&gt;Bambda Categories&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/PortSwigger/bambdas/tree/main/Proxy/HTTP&#34;&gt;Proxy HTTP filters&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;Online documentation for Proxy HTTP Bambdas can be found &lt;a href=&#34;https://portswigger.net/burp/documentation/desktop/tools/proxy/http-history/bambdas&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://portswigger.net/blog/introducing-bambdas&#34;&gt;Introducing Bambdas&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=neQpukwW43g&#34;&gt;Burp Suite Shorts | Bambdas&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Community Submissions&lt;/h2&gt; &#xA;&lt;p&gt;Please issue a pull request and follow the process outlined &lt;a href=&#34;https://github.com/PortSwigger/Bambdas/raw/main/CONTRIBUTING.md&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
