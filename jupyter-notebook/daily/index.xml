@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-11T01:51:11Z</updated>
+  <updated>2023-12-12T01:52:20Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MarcosCarreira/DermanPapers</title>
+    <updated>2023-12-12T01:52:20Z</updated>
+    <id>tag:github.com,2023-12-12:/MarcosCarreira/DermanPapers</id>
+    <link href="https://github.com/MarcosCarreira/DermanPapers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Notebooks that replicate original quantitative finance papers from Emanuel Derman&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DermanPapers&lt;/h1&gt; &#xA;&lt;p&gt;Notebooks that replicate original quantitative finance papers from Emanuel Derman&lt;/p&gt; &#xA;&lt;p&gt;Created by Marcos Costa Santos Carreira to help others understand quantitative finance&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>LongOnly/Quantitative-Notebooks</title>
+    <updated>2023-12-12T01:52:20Z</updated>
+    <id>tag:github.com,2023-12-12:/LongOnly/Quantitative-Notebooks</id>
+    <link href="https://github.com/LongOnly/Quantitative-Notebooks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Educational notebooks on quantitative finance, algorithmic trading, financial modelling and investment strategy&lt;/p&gt;&lt;hr&gt;&lt;h4&gt;The main objective of this repo is idea generation! Some of these &#39;strategies&#39; might not be appropriate for consumption &lt;del&gt;due to overfitting&lt;/del&gt; (it&#39;s meant to be educational)&lt;/h4&gt; &#xA;&lt;p&gt;Dependencies: Numpy; Pandas; Matplotlib and Requests (for fetching Yahoo Finance data)&lt;/p&gt; &#xA;&lt;h4&gt;Difficulty&lt;/h4&gt; &#xA;&lt;p&gt;Moderate:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/LongOnly/Quantitative-Notebooks/master/DecisionTreeRegressors.ipynb&#34;&gt;ML Based Pairs Trading&lt;/a&gt; - A simple Machine Learning example, Decision Tree Regressors applied to the previous pair (also requires Scikit-Learn)&lt;/p&gt; &#xA;&lt;p&gt;Basic:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/LongOnly/Quantitative-Notebooks/master/PairsTrading.ipynb&#34;&gt;Long Only Pairs Trading&lt;/a&gt; - A simple pairs trading strategy focused on buying the loser! Signal is given by rolling correlation&lt;/p&gt; &#xA;&lt;p&gt;Introductory:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/LongOnly/Quantitative-Notebooks/master/AssetAllocation.ipynb&#34;&gt;Dynamic Asset Allocation &amp;amp; Diversification&lt;/a&gt; - Exploring geographical diversification and optimizing capital allocation (also requires Scipy)&lt;/p&gt; &#xA;&lt;p&gt;Market data last updated at 2 July 2020&lt;/p&gt; &#xA;&lt;h4&gt;License&lt;/h4&gt; &#xA;&lt;p&gt;This code has been released under the &lt;a href=&#34;https://raw.githubusercontent.com/LongOnly/Quantitative-Notebooks/master/LICENSE&#34;&gt;Apache 2.0 License&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

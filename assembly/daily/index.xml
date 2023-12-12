@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-11T01:43:27Z</updated>
+  <updated>2023-12-12T01:44:15Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Pconst167/sol-1</title>
-    <updated>2023-12-11T01:43:27Z</updated>
-    <id>tag:github.com,2023-12-11:/Pconst167/sol-1</id>
-    <link href="https://github.com/Pconst167/sol-1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sol-1: A CPU/Computer System made from 74 series logic.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

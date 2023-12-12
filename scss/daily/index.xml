@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-11T01:56:59Z</updated>
+  <updated>2023-12-12T01:59:04Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hirosystems/connect</title>
+    <updated>2023-12-12T01:59:04Z</updated>
+    <id>tag:github.com,2023-12-12:/hirosystems/connect</id>
+    <link href="https://github.com/hirosystems/connect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library for building excellent user experiences with Stacks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

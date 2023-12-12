@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smali Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-11T01:57:18Z</updated>
+  <updated>2023-12-12T01:59:27Z</updated>
   <subtitle>Daily Trending of Smali in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bluemods/Bluecord</title>
-    <updated>2023-12-11T01:57:18Z</updated>
-    <id>tag:github.com,2023-12-11:/bluemods/Bluecord</id>
-    <link href="https://github.com/bluemods/Bluecord" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source Code for Bluecord&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

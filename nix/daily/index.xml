@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-11T01:53:34Z</updated>
+  <updated>2023-12-12T01:55:11Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TLATER/dotfiles</title>
-    <updated>2023-12-11T01:53:34Z</updated>
-    <id>tag:github.com,2023-12-11:/TLATER/dotfiles</id>
-    <link href="https://github.com/TLATER/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dotfiles deployed with nix/home-manager. Feel free to take what you like!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kachick/dotfiles</title>
-    <updated>2023-12-11T01:53:34Z</updated>
-    <id>tag:github.com,2023-12-11:/kachick/dotfiles</id>
-    <link href="https://github.com/kachick/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🤤✂🌳&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MatthewCroughan/NixThePlanet</title>
+    <updated>2023-12-12T01:55:11Z</updated>
+    <id>tag:github.com,2023-12-12:/MatthewCroughan/NixThePlanet</id>
+    <link href="https://github.com/MatthewCroughan/NixThePlanet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run macOS, Windows and more via a single Nix command, or simple nixosModules&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

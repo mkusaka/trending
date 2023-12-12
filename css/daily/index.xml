@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-11T01:45:27Z</updated>
+  <updated>2023-12-12T01:47:01Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yandex-praktikum/ono-tebe-nado</title>
+    <updated>2023-12-12T01:47:01Z</updated>
+    <id>tag:github.com,2023-12-12:/yandex-praktikum/ono-tebe-nado</id>
+    <link href="https://github.com/yandex-praktikum/ono-tebe-nado" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Проект &#34;Оно тебе надо&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cropsync/CropSync</title>
+    <updated>2023-12-12T01:47:01Z</updated>
+    <id>tag:github.com,2023-12-12:/cropsync/CropSync</id>
+    <link href="https://github.com/cropsync/CropSync" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CropSync is a user-friendly website designed to assist farmers in selecting the right crops for their fields and providing essential information throughout the farming process.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CropSync&lt;/h1&gt; &#xA;&lt;p&gt;CropSync is a user-friendly website designed to assist farmers in selecting the right crops for their fields and providing essential information throughout the farming process. This project aims to simplify the decision-making process for farmers by offering valuable insights and data-driven recommendations.&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;p&gt;CropSync offers the following features:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Crop Selection&lt;/strong&gt;: Farmers can input their field parameters, such as location, soil type, climate, and available resources. CropSync utilizes this information to suggest suitable crops that are likely to thrive in the given conditions.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Crop Information&lt;/strong&gt;: Detailed information about each recommended crop is provided, including growth requirements, planting techniques, optimal seasons, pest and disease management, and estimated yield potential. This empowers farmers with the knowledge needed to make informed decisions.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Farming Calendar&lt;/strong&gt;: CropSync generates a personalized farming calendar based on the selected crops and local weather conditions. The calendar highlights important dates for activities like planting, irrigation, fertilization, and harvest. It serves as a convenient reminder and helps farmers stay organized throughout the farming season.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;To run CropSync locally, follow these steps:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Clone the repository: &lt;code&gt;git clone https://github.com/your-username/CropSync.git&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Install the required dependencies: &lt;code&gt;npm install&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Set up the database connection by configuring the database credentials in &lt;code&gt;config.js&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Run the application: &lt;code&gt;npm start&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Access the website in your browser at &lt;code&gt;http://localhost:3000&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Note: Make sure you have Node.js and npm installed on your system.&lt;/p&gt; &#xA;&lt;h2&gt;Technologies Used&lt;/h2&gt; &#xA;&lt;p&gt;CropSync is built using the following technologies:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Frontend: HTML, CSS, JavaScript&lt;/li&gt; &#xA; &lt;li&gt;External APIs: Weather data API&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Contribution&lt;/h2&gt; &#xA;&lt;p&gt;We welcome contributions to improve CropSync and make it more useful for farmers. If you would like to contribute, please follow these guidelines:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Fork the repository and create a new branch for your feature or bug fix.&lt;/li&gt; &#xA; &lt;li&gt;Make your changes and ensure they adhere to the project&#39;s coding standards.&lt;/li&gt; &#xA; &lt;li&gt;Write unit tests for any new functionality or changes.&lt;/li&gt; &#xA; &lt;li&gt;Submit a pull request, describing your changes and the problem they solve.&lt;/li&gt; &#xA; &lt;li&gt;Your pull request will be reviewed, and feedback or changes may be requested.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Please note that all contributions are subject to the project&#39;s code of conduct.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;CropSync is released under the &lt;a href=&#34;https://opensource.org/licenses/MIT&#34;&gt;MIT License&lt;/a&gt;. You are free to use, modify, and distribute the code as per the terms of the license.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>edurekacontent/dockerContent</title>
+    <updated>2023-12-12T01:47:01Z</updated>
+    <id>tag:github.com,2023-12-12:/edurekacontent/dockerContent</id>
+    <link href="https://github.com/edurekacontent/dockerContent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-11T01:47:11Z</updated>
+  <updated>2023-12-12T01:48:41Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>UkioInc/tech_test</title>
+    <updated>2023-12-12T01:48:41Z</updated>
+    <id>tag:github.com,2023-12-12:/UkioInc/tech_test</id>
+    <link href="https://github.com/UkioInc/tech_test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mirego/absinthe_security</title>
+    <updated>2023-12-12T01:48:41Z</updated>
+    <id>tag:github.com,2023-12-12:/mirego/absinthe_security</id>
+    <link href="https://github.com/mirego/absinthe_security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AbsintheSecurity provides utilities to improve the security posture of APIs built with Absinthe GraphQL.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-11T01:45:24Z</updated>
+  <updated>2023-12-12T01:46:55Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>UofT-EcoSystem/Minuet</title>
-    <updated>2023-12-11T01:45:24Z</updated>
-    <id>tag:github.com,2023-12-11:/UofT-EcoSystem/Minuet</id>
-    <link href="https://github.com/UofT-EcoSystem/Minuet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[EuroSys&#39;24] Minuet: Accelerating 3D Sparse Convolutions on GPUs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
