@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-12T01:59:59Z</updated>
+  <updated>2023-12-13T01:45:14Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>up-csi/up-csi.github.io</title>
+    <updated>2023-12-13T01:45:14Z</updated>
+    <id>tag:github.com,2023-12-13:/up-csi/up-csi.github.io</id>
+    <link href="https://github.com/up-csi/up-csi.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The source code for the official UP CSI website.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>threlte/three-inspect</title>
+    <updated>2023-12-13T01:45:14Z</updated>
+    <id>tag:github.com,2023-12-13:/threlte/three-inspect</id>
+    <link href="https://github.com/threlte/three-inspect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An inspector and debugger for three.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

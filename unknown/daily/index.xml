@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-12T01:43:17Z</updated>
+  <updated>2023-12-13T01:25:56Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>openbao/openbao</title>
-    <updated>2023-12-12T01:43:17Z</updated>
-    <id>tag:github.com,2023-12-12:/openbao/openbao</id>
-    <link href="https://github.com/openbao/openbao" rel="alternate"></link>
+    <title>KovenYu/WonderJourney</title>
+    <updated>2023-12-13T01:25:56Z</updated>
+    <id>tag:github.com,2023-12-13:/KovenYu/WonderJourney</id>
+    <link href="https://github.com/KovenYu/WonderJourney" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AIoT-MLSys-Lab/Efficient-LLMs-Survey</title>
-    <updated>2023-12-12T01:43:17Z</updated>
-    <id>tag:github.com,2023-12-12:/AIoT-MLSys-Lab/Efficient-LLMs-Survey</id>
-    <link href="https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Efficient Large Language Models: A Survey&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Az0x7/vulnerability-Checklist</title>
+    <updated>2023-12-13T01:25:56Z</updated>
+    <id>tag:github.com,2023-12-13:/Az0x7/vulnerability-Checklist</id>
+    <link href="https://github.com/Az0x7/vulnerability-Checklist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitter&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>paulmillr/encrypted-dns</title>
-    <updated>2023-12-12T01:43:17Z</updated>
-    <id>tag:github.com,2023-12-12:/paulmillr/encrypted-dns</id>
-    <link href="https://github.com/paulmillr/encrypted-dns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DNS over HTTPS config profiles for iOS &amp; macOS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vvictoryuki/AnimateZero</title>
+    <updated>2023-12-13T01:25:56Z</updated>
+    <id>tag:github.com,2023-12-13:/vvictoryuki/AnimateZero</id>
+    <link href="https://github.com/vvictoryuki/AnimateZero" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official PyTorch implementation for the paper &#34;AnimateZero: Video Diffusion Models are Zero-Shot Image Animators&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

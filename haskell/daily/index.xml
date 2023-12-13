@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-12T01:50:44Z</updated>
+  <updated>2023-12-13T01:33:35Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>belyaev-mikhail/hs-poly-test-repo</title>
+    <updated>2023-12-13T01:33:35Z</updated>
+    <id>tag:github.com,2023-12-13:/belyaev-mikhail/hs-poly-test-repo</id>
+    <link href="https://github.com/belyaev-mikhail/hs-poly-test-repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Репозиторий с заданиями по курсу функционального программирования.&lt;/p&gt; &#xA;&lt;p&gt;Запуск&lt;/p&gt; &#xA;&lt;p&gt;$ stack test&lt;/p&gt; &#xA;&lt;p&gt;Запуск интерпретатора с модулями репозитория&lt;/p&gt; &#xA;&lt;p&gt;$ stack ghci --test&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>jgm/commonmark-hs</title>
+    <updated>2023-12-13T01:33:35Z</updated>
+    <id>tag:github.com,2023-12-13:/jgm/commonmark-hs</id>
+    <link href="https://github.com/jgm/commonmark-hs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure Haskell commonmark parsing library, designed to be flexible and extensible&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;commonmark&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/jgm/commonmark-hs/actions&#34;&gt;&lt;img src=&#34;https://github.com/jgm/commonmark-hs/workflows/CI%20tests/badge.svg?sanitize=true&#34; alt=&#34;CI tests&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This repository contains four packages:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/jgm/commonmark-hs/master/commonmark/&#34;&gt;&lt;code&gt;commonmark&lt;/code&gt;&lt;/a&gt;: a pure Haskell library for parsing commonmark, designed for flexibility and extensibility.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/jgm/commonmark-hs/master/commonmark-pandoc/&#34;&gt;&lt;code&gt;commonmark-pandoc&lt;/code&gt;&lt;/a&gt;: type instances for parsing commonmark as a Pandoc AST.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/jgm/commonmark-hs/master/commonmark-extensions/&#34;&gt;&lt;code&gt;commonmark-extensions&lt;/code&gt;&lt;/a&gt;: a set of useful extensions to core commonmark syntax.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/jgm/commonmark-hs/master/commonmark-cli/&#34;&gt;&lt;code&gt;commonmark-cli&lt;/code&gt;&lt;/a&gt;: a command-line program that uses this library to convert and syntax-highlight commonmark documents.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://raw.githubusercontent.com/jgm/commonmark-hs/master/commonmark/&#34;&gt;&lt;code&gt;commonmark&lt;/code&gt; README&lt;/a&gt; for a more detailed description of the project&#39;s goals.&lt;/p&gt;</summary>
+  </entry>
 </feed>

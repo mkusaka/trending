@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-12T01:50:59Z</updated>
+  <updated>2023-12-13T01:33:55Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Aj7Ay/k8s-mario</title>
-    <updated>2023-12-12T01:50:59Z</updated>
-    <id>tag:github.com,2023-12-12:/Aj7Ay/k8s-mario</id>
-    <link href="https://github.com/Aj7Ay/k8s-mario" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/terraform-azurerm-avm-ptn-vnetgateway</title>
-    <updated>2023-12-12T01:50:59Z</updated>
-    <id>tag:github.com,2023-12-12:/Azure/terraform-azurerm-avm-ptn-vnetgateway</id>
-    <link href="https://github.com/Azure/terraform-azurerm-avm-ptn-vnetgateway" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AVM Terraform Pattern Module for Virtual Network Gateway&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

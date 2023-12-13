@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-12T01:48:49Z</updated>
+  <updated>2023-12-13T01:31:01Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rainstormstudio/treemacs-nerd-icons</title>
-    <updated>2023-12-12T01:48:49Z</updated>
-    <id>tag:github.com,2023-12-12:/rainstormstudio/treemacs-nerd-icons</id>
-    <link href="https://github.com/rainstormstudio/treemacs-nerd-icons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#+TITLE: treemacs-nerd-icons #+AUTHOR: Hongyu Ding&lt;/p&gt; &#xA;&lt;p&gt;[[https://melpa.org/#/treemacs-nerd-icons][file:https://melpa.org/packages/treemacs-nerd-icons-badge.svg]]&lt;/p&gt; &#xA;&lt;p&gt;[[https://github.com/rainstormstudio/nerd-icons.el][nerd-icons]] theme for treemacs. It is inspired by [[https://github.com/Alexander-Miller/treemacs/blob/master/src/extra/treemacs-all-the-icons.el][treemacs-all-the-icons]], [[https://github.com/ryanoasis/vim-devicons][vim-devicons]] and [[https://github.com/nvim-tree/nvim-web-devicons][nvim-web-devicons]]. It can be used inside GUI or terminal.&lt;/p&gt; &#xA;&lt;p&gt;[[file:screenshots/demo.png]]&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Prerequisite You need a Nerd Font installed, and set your terminal font as a Nerd Font if you want terminal icons working.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;You should include [[https://github.com/rainstormstudio/nerd-icons.el][nerd-icons]] before using this package.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Installation with &lt;del&gt;use-package&lt;/del&gt; #+BEGIN_SRC elisp (use-package treemacs-nerd-icons :config (treemacs-load-theme &#34;nerd-icons&#34;)) #+END_SRC&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;You can also download the &lt;del&gt;treemacs-nerd-icons.el&lt;/del&gt; file and load it to the path, then simply #+BEGIN_SRC elisp (require &#39;treemacs-nerd-icons) (treemacs-load-theme &#34;nerd-icons&#34;) #+END_SRC&lt;/p&gt;</summary>
+    <title>gramos/emacs.d</title>
+    <updated>2023-12-13T01:31:01Z</updated>
+    <id>tag:github.com,2023-12-13:/gramos/emacs.d</id>
+    <link href="https://github.com/gramos/emacs.d" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My emacs conf files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-12T01:59:36Z</updated>
+  <updated>2023-12-13T01:44:49Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>captainahab0x/freedfi</title>
-    <updated>2023-12-12T01:59:36Z</updated>
-    <id>tag:github.com,2023-12-12:/captainahab0x/freedfi</id>
-    <link href="https://github.com/captainahab0x/freedfi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ourzora/zora-721-contracts</title>
-    <updated>2023-12-12T01:59:36Z</updated>
-    <id>tag:github.com,2023-12-12:/ourzora/zora-721-contracts</id>
-    <link href="https://github.com/ourzora/zora-721-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zora drops contracts (powers create.zora.co)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LuozhuZhang/zkps-circuit-snark</title>
+    <updated>2023-12-13T01:44:49Z</updated>
+    <id>tag:github.com,2023-12-13:/LuozhuZhang/zkps-circuit-snark</id>
+    <link href="https://github.com/LuozhuZhang/zkps-circuit-snark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A zk-SNARK implementation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
