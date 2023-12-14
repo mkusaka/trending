@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:26:37Z</updated>
+  <updated>2023-12-14T01:26:46Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jamessimone/apex-rollup</title>
-    <updated>2023-12-13T01:26:37Z</updated>
-    <id>tag:github.com,2023-12-13:/jamessimone/apex-rollup</id>
-    <link href="https://github.com/jamessimone/apex-rollup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast, configurable, elastically scaling custom rollup solution. Apex Invocable action, one-liner Apex trigger/CMDT-driven logic, and scheduled Apex-ready.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

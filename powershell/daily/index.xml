@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:41:39Z</updated>
+  <updated>2023-12-14T01:39:54Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yrifl/synvm</title>
+    <updated>2023-12-14T01:39:54Z</updated>
+    <id>tag:github.com,2023-12-14:/yrifl/synvm</id>
+    <link href="https://github.com/yrifl/synvm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Github Action 6 hours rdp.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;-- SynVM --&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://remotedesktop.google.com/headless&#34;&gt;https://remotedesktop.google.com/headless&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Get to the Github Action tab select &lt;code&gt;SYNVM&lt;/code&gt; and run the workflow and input the pin to whatever you want and it will be used later for login into the vm, for the CRD code you can click the link above and press the blue button twice and copy the &lt;code&gt;PowerShell&lt;/code&gt; command and paste it into the CRD code field.&lt;/p&gt; &#xA;&lt;p&gt;After configuring now its time to run the workflow, So the workflow installation ranges about 2 minutes (must be patient &amp;amp; refresh), after the crd step was done open this link &lt;a href=&#34;https://remotedesktop.google.com/access&#34;&gt;https://remotedesktop.google.com/access&lt;/a&gt; and select the latest active VM, and input the pin you previously given.&lt;/p&gt; &#xA;&lt;p&gt;The VM lasts for about 6 hours, Enjoy!! :3&lt;/p&gt;</summary>
+  </entry>
 </feed>

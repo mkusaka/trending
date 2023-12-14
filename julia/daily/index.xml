@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:36:15Z</updated>
+  <updated>2023-12-14T01:35:40Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JuliaMath/Combinatorics.jl</title>
+    <updated>2023-12-14T01:35:40Z</updated>
+    <id>tag:github.com,2023-12-14:/JuliaMath/Combinatorics.jl</id>
+    <link href="https://github.com/JuliaMath/Combinatorics.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A combinatorics library for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:44:10Z</updated>
+  <updated>2023-12-14T01:42:04Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>booqable/boomerang-api-documentation</title>
-    <updated>2023-12-13T01:44:10Z</updated>
-    <id>tag:github.com,2023-12-13:/booqable/boomerang-api-documentation</id>
-    <link href="https://github.com/booqable/boomerang-api-documentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation for the Booqable Boomerang API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

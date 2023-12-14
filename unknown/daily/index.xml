@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:25:56Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-12-14T01:25:50Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KovenYu/WonderJourney</title>
-    <updated>2023-12-13T01:25:56Z</updated>
-    <id>tag:github.com,2023-12-13:/KovenYu/WonderJourney</id>
-    <link href="https://github.com/KovenYu/WonderJourney" rel="alternate"></link>
+    <title>wy876/POC</title>
+    <updated>2023-12-14T01:25:50Z</updated>
+    <id>tag:github.com,2023-12-14:/wy876/POC</id>
+    <link href="https://github.com/wy876/POC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2023HW漏洞整理，收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了100多个poc/exp&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dreamoving/dreamoving-project</title>
+    <updated>2023-12-14T01:25:50Z</updated>
+    <id>tag:github.com,2023-12-14:/dreamoving/dreamoving-project</id>
+    <link href="https://github.com/dreamoving/dreamoving-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official implementation of DreaMoving&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>libin9iOak/ja-netfilter-all</title>
+    <updated>2023-12-14T01:25:50Z</updated>
+    <id>tag:github.com,2023-12-14:/libin9iOak/ja-netfilter-all</id>
+    <link href="https://github.com/libin9iOak/ja-netfilter-all" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Az0x7/vulnerability-Checklist</title>
-    <updated>2023-12-13T01:25:56Z</updated>
-    <id>tag:github.com,2023-12-13:/Az0x7/vulnerability-Checklist</id>
-    <link href="https://github.com/Az0x7/vulnerability-Checklist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitter&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vvictoryuki/AnimateZero</title>
-    <updated>2023-12-13T01:25:56Z</updated>
-    <id>tag:github.com,2023-12-13:/vvictoryuki/AnimateZero</id>
-    <link href="https://github.com/vvictoryuki/AnimateZero" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official PyTorch implementation for the paper &#34;AnimateZero: Video Diffusion Models are Zero-Shot Image Animators&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

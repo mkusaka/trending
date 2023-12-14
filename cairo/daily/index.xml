@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:28:04Z</updated>
+  <updated>2023-12-14T01:29:05Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Falco90/cairo-exercises</title>
-    <updated>2023-12-13T01:28:04Z</updated>
-    <id>tag:github.com,2023-12-13:/Falco90/cairo-exercises</id>
-    <link href="https://github.com/Falco90/cairo-exercises" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

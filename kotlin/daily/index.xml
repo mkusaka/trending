@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:36:50Z</updated>
+  <updated>2023-12-14T01:35:58Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Kroppeb/AdventOfCodeSolutions2</title>
+    <updated>2023-12-14T01:35:58Z</updated>
+    <id>tag:github.com,2023-12-14:/Kroppeb/AdventOfCodeSolutions2</id>
+    <link href="https://github.com/Kroppeb/AdventOfCodeSolutions2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Because the old one got cursed by Satan or something&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jing332/AlistAndroid</title>
+    <updated>2023-12-14T01:35:58Z</updated>
+    <id>tag:github.com,2023-12-14:/jing332/AlistAndroid</id>
+    <link href="https://github.com/jing332/AlistAndroid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AList 安卓版本，APK安装即用，无需Root或Termux。&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/jing332/AlistAndroid/actions/workflows/release.yaml&#34;&gt;&lt;img src=&#34;https://github.com/jing332/AlistAndroid/actions/workflows/release.yaml/badge.svg?sanitize=true&#34; alt=&#34;Release&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/jing332/AlistAndroid/actions/workflows/build.yaml&#34;&gt;&lt;img src=&#34;https://github.com/jing332/AlistAndroid/actions/workflows/build.yaml/badge.svg?sanitize=true&#34; alt=&#34;Test&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/jing332/AlistAndroid/actions/workflows/sync_alist.yaml&#34;&gt;&lt;img src=&#34;https://github.com/jing332/AlistAndroid/actions/workflows/sync_alist.yaml/badge.svg?sanitize=true&#34; alt=&#34;CheckAList&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h4&gt;🚩　&lt;a href=&#34;https://github.com/fatedier/frp&#34;&gt;FRP&lt;/a&gt; 安卓版本：&lt;a href=&#34;https://github.com/jing332/FrpAndroid&#34;&gt;https://github.com/jing332/FrpAndroid&lt;/a&gt;&lt;/h4&gt; &#xA;&lt;h1&gt;AlistAndroid&lt;/h1&gt; &#xA;&lt;p&gt;AlistAndroid是一个基于AList的Android客户端，使用Kotlin编写，使用Jetpack Compose作为UI框架。&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;&lt;a href=&#34;https://github.com/jing332/AlistAndroid/actions/workflows/sync_alist.yaml&#34;&gt;Github Action&lt;/a&gt; 会每小时检查最新的 &lt;a href=&#34;https://github.com/alist-org/alist/releases&#34;&gt;AList发布&lt;/a&gt; 并自动构建APK，发布到 &lt;a href=&#34;https://github.com/jing332/AlistAndroid/releases&#34;&gt;Release&lt;/a&gt; 中，您只需耐心等待片刻并在应用内检查更新即可。&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/jing332/AlistAndroid/master/images/1.jpg&#34; height=&#34;150px&#34;&gt; &#xA;&lt;h1&gt;Download&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jing332/AlistAndroid/actions/workflows/build.yaml&#34;&gt;Github Action (DEV)&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;分为两个版本&lt;/p&gt; &#xA; &lt;p&gt;LatestCommit: AList的&lt;a href=&#34;https://github.com/alist-org/alist&#34;&gt;最新提交版&lt;/a&gt; Github Actions会自动构建最新的AList代码，但是不保证稳定性&lt;/p&gt; &#xA; &lt;p&gt;LatestRelease: AList的&lt;a href=&#34;https://github.com/alist-org/alist/releases/latest&#34;&gt;最新发布版&lt;/a&gt; Github Actions会自动构建最新的AList发布版，保证稳定性。&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;hr&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jing332/AlistAndroid/releases&#34;&gt;Github Releases (Stable)&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Build&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;cd alist-lib/scripts&#xA;chmod +x *.sh&#xA;./install_alist.sh&#xA;./install_web.sh&#xA;./install_gomobile.sh&#xA;./install_aar.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;More: &lt;a href=&#34;https://github.com/jing332/file/raw/main/android_repo_build.md&#34;&gt;https://github.com/jing332/file/blob/main/android_repo_build.md&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
+  </entry>
 </feed>

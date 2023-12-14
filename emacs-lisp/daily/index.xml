@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:31:01Z</updated>
+  <updated>2023-12-14T01:32:16Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gramos/emacs.d</title>
-    <updated>2023-12-13T01:31:01Z</updated>
-    <id>tag:github.com,2023-12-13:/gramos/emacs.d</id>
-    <link href="https://github.com/gramos/emacs.d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My emacs conf files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

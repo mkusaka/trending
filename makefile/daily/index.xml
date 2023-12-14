@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:38:02Z</updated>
+  <updated>2023-12-14T01:36:45Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>RisingTechOSS/android_vendor_rising</title>
-    <updated>2023-12-13T01:38:02Z</updated>
-    <id>tag:github.com,2023-12-13:/RisingTechOSS/android_vendor_rising</id>
-    <link href="https://github.com/RisingTechOSS/android_vendor_rising" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RisingOS Vendor - Based from LineageOS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>training-of-new-employees/qon</title>
-    <updated>2023-12-13T01:38:02Z</updated>
-    <id>tag:github.com,2023-12-13:/training-of-new-employees/qon</id>
-    <link href="https://github.com/training-of-new-employees/qon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;QuickON backend&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zigcc/awesome-zig</title>
-    <updated>2023-12-13T01:38:02Z</updated>
-    <id>tag:github.com,2023-12-13:/zigcc/awesome-zig</id>
-    <link href="https://github.com/zigcc/awesome-zig" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of some awesome public Zig programming language projects.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

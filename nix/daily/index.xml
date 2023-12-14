@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:39:24Z</updated>
+  <updated>2023-12-14T01:38:06Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Janik-Haag/NixOS-DNS</title>
-    <updated>2023-12-13T01:39:24Z</updated>
-    <id>tag:github.com,2023-12-13:/Janik-Haag/NixOS-DNS</id>
-    <link href="https://github.com/Janik-Haag/NixOS-DNS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manage your dns zones with NixOS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dustinlyons/nix-starter-config</title>
-    <updated>2023-12-13T01:39:24Z</updated>
-    <id>tag:github.com,2023-12-13:/dustinlyons/nix-starter-config</id>
-    <link href="https://github.com/dustinlyons/nix-starter-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix starter config for MacOS and NixOS + step-by-step guides ✨&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vimjoyer/flake-starter-config</title>
+    <updated>2023-12-14T01:38:06Z</updated>
+    <id>tag:github.com,2023-12-14:/vimjoyer/flake-starter-config</id>
+    <link href="https://github.com/vimjoyer/flake-starter-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:32:08Z</updated>
+  <updated>2023-12-14T01:33:01Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TheQueefOfEngland/GodotWildJam64</title>
-    <updated>2023-12-13T01:32:08Z</updated>
-    <id>tag:github.com,2023-12-13:/TheQueefOfEngland/GodotWildJam64</id>
-    <link href="https://github.com/TheQueefOfEngland/GodotWildJam64" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A group submission to the Godot Wild Jam 64! We hope you find some cool features in our code and use them in yours!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:41:00Z</updated>
+  <updated>2023-12-14T01:39:14Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mogyi/KeresoGepLabor</title>
-    <updated>2023-12-13T01:41:00Z</updated>
-    <id>tag:github.com,2023-12-13:/mogyi/KeresoGepLabor</id>
-    <link href="https://github.com/mogyi/KeresoGepLabor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;KeresoGep&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>doy/crawlbot</title>
-    <updated>2023-12-13T01:41:00Z</updated>
-    <id>tag:github.com,2023-12-13:/doy/crawlbot</id>
-    <link href="https://github.com/doy/crawlbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;irc bot for crawl development&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

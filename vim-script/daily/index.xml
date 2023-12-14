@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:46:35Z</updated>
+  <updated>2023-12-14T01:44:42Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>skydark/dotvim</title>
-    <updated>2023-12-13T01:46:35Z</updated>
-    <id>tag:github.com,2023-12-13:/skydark/dotvim</id>
-    <link href="https://github.com/skydark/dotvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My vim configure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vim-scripts/TagmaLast</title>
-    <updated>2023-12-13T01:46:35Z</updated>
-    <id>tag:github.com,2023-12-13:/vim-scripts/TagmaLast</id>
-    <link href="https://github.com/vim-scripts/TagmaLast" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Update the &#39;Last Changed&#39; line in a file&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

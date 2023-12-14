@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-13T01:28:59Z</updated>
+  <updated>2023-12-14T01:30:11Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ronaldchan333/QR-Code-Scan</title>
-    <updated>2023-12-13T01:28:59Z</updated>
-    <id>tag:github.com,2023-12-13:/ronaldchan333/QR-Code-Scan</id>
-    <link href="https://github.com/ronaldchan333/QR-Code-Scan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;React QR Code Scanner&lt;/h1&gt; &#xA;&lt;p&gt;A simple React application to scan Quick Response code (QR code).&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ npm i&#xA;$ npm start&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
-  <entry>
-    <title>fleming-23/DWEC_UNI4_PRAC1</title>
-    <updated>2023-12-13T01:28:59Z</updated>
-    <id>tag:github.com,2023-12-13:/fleming-23/DWEC_UNI4_PRAC1</id>
-    <link href="https://github.com/fleming-23/DWEC_UNI4_PRAC1" rel="alternate"></link>
+    <title>Gozargah/gozargah.github.io</title>
+    <updated>2023-12-14T01:30:11Z</updated>
+    <id>tag:github.com,2023-12-14:/Gozargah/gozargah.github.io</id>
+    <link href="https://github.com/Gozargah/gozargah.github.io" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
