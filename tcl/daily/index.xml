@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-14T01:43:37Z</updated>
+  <updated>2023-12-15T01:43:30Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chili-chips-ba/openeye</title>
+    <updated>2023-12-15T01:43:30Z</updated>
+    <id>tag:github.com,2023-12-15:/chili-chips-ba/openeye</id>
+    <link href="https://github.com/chili-chips-ba/openeye" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A truly open-source CSI interface for Sony + Series7 = Secure, hi-res camera in an affordable FPGA. All while improving openXC7 and testing its timing-savvy... as well as introducing the rare EU boards to the open makers...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

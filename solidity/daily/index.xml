@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-14T01:42:45Z</updated>
+  <updated>2023-12-15T01:42:38Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2023-12-ethereumcreditguild</title>
-    <updated>2023-12-14T01:42:45Z</updated>
-    <id>tag:github.com,2023-12-14:/code-423n4/2023-12-ethereumcreditguild</id>
-    <link href="https://github.com/code-423n4/2023-12-ethereumcreditguild" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purefiprotocol/token</title>
+    <updated>2023-12-15T01:42:38Z</updated>
+    <id>tag:github.com,2023-12-15:/purefiprotocol/token</id>
+    <link href="https://github.com/purefiprotocol/token" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PureFi ERC20 Token&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>worldcoin/hyperdrop-contracts</title>
-    <updated>2023-12-14T01:42:45Z</updated>
-    <id>tag:github.com,2023-12-14:/worldcoin/hyperdrop-contracts</id>
-    <link href="https://github.com/worldcoin/hyperdrop-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A contract that splits any token it receives between all humans&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purefiprotocol/sdk-solidity</title>
+    <updated>2023-12-15T01:42:38Z</updated>
+    <id>tag:github.com,2023-12-15:/purefiprotocol/sdk-solidity</id>
+    <link href="https://github.com/purefiprotocol/sdk-solidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PureFi Protocol SDK for Solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bgd-labs/aave-proposals-v3</title>
-    <updated>2023-12-14T01:42:45Z</updated>
-    <id>tag:github.com,2023-12-14:/bgd-labs/aave-proposals-v3</id>
-    <link href="https://github.com/bgd-labs/aave-proposals-v3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xnirlin/Thirdweb-Exploit-POC</title>
+    <updated>2023-12-15T01:42:38Z</updated>
+    <id>tag:github.com,2023-12-15:/0xnirlin/Thirdweb-Exploit-POC</id>
+    <link href="https://github.com/0xnirlin/Thirdweb-Exploit-POC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositery to show case the recent thirdweb exploit that raised due to using openzeppelin ERC2771 implementation with a multi call.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

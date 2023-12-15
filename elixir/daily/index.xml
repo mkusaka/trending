@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-14T01:32:11Z</updated>
+  <updated>2023-12-15T01:32:47Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>carlosmn/exgitd</title>
-    <updated>2023-12-14T01:32:11Z</updated>
-    <id>tag:github.com,2023-12-14:/carlosmn/exgitd</id>
-    <link href="https://github.com/carlosmn/exgitd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>membraneframework/membrane_udp_plugin</title>
+    <updated>2023-12-15T01:32:47Z</updated>
+    <id>tag:github.com,2023-12-15:/membraneframework/membrane_udp_plugin</id>
+    <link href="https://github.com/membraneframework/membrane_udp_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Membrane plugin for sending and receiving UDP streams&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mruoss/flame_k8s_backend</title>
+    <updated>2023-12-15T01:32:47Z</updated>
+    <id>tag:github.com,2023-12-15:/mruoss/flame_k8s_backend</id>
+    <link href="https://github.com/mruoss/flame_k8s_backend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A FLAME Backend for Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

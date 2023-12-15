@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-14T01:36:57Z</updated>
+  <updated>2023-12-15T01:37:16Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kweekly/sensezilla-matlab</title>
+    <updated>2023-12-15T01:37:16Z</updated>
+    <id>tag:github.com,2023-12-15:/kweekly/sensezilla-matlab</id>
+    <link href="https://github.com/kweekly/sensezilla-matlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SinBerBEST Sensing Project [MATLAB]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>snel-repo/EMUsort</title>
+    <updated>2023-12-15T01:37:16Z</updated>
+    <id>tag:github.com,2023-12-15:/snel-repo/EMUsort</id>
+    <link href="https://github.com/snel-repo/EMUsort" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
