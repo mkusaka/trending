@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-15T01:26:43Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-12-16T01:25:01Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024</title>
-    <updated>2023-12-15T01:26:43Z</updated>
-    <id>tag:github.com,2023-12-15:/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024</id>
-    <link href="https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024" rel="alternate"></link>
+    <title>HumanAIGC/OutfitAnyone</title>
+    <updated>2023-12-16T01:25:01Z</updated>
+    <id>tag:github.com,2023-12-16:/HumanAIGC/OutfitAnyone</id>
+    <link href="https://github.com/HumanAIGC/OutfitAnyone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Mint-Blockchain/mint-brandkit</title>
+    <updated>2023-12-16T01:25:01Z</updated>
+    <id>tag:github.com,2023-12-16:/Mint-Blockchain/mint-brandkit</id>
+    <link href="https://github.com/Mint-Blockchain/mint-brandkit" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sczhou/Upscale-A-Video</title>
-    <updated>2023-12-15T01:26:43Z</updated>
-    <id>tag:github.com,2023-12-15:/sczhou/Upscale-A-Video</id>
-    <link href="https://github.com/sczhou/Upscale-A-Video" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>waf-bypass-maker/waf-community-bypasses</title>
-    <updated>2023-12-15T01:26:43Z</updated>
-    <id>tag:github.com,2023-12-15:/waf-bypass-maker/waf-community-bypasses</id>
-    <link href="https://github.com/waf-bypass-maker/waf-community-bypasses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mehdihadeli/awesome-software-architecture</title>
+    <updated>2023-12-16T01:25:01Z</updated>
+    <id>tag:github.com,2023-12-16:/mehdihadeli/awesome-software-architecture</id>
+    <link href="https://github.com/mehdihadeli/awesome-software-architecture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

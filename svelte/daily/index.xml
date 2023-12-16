@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-15T01:43:05Z</updated>
+  <updated>2023-12-16T01:38:18Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>penxle/penxle</title>
+    <updated>2023-12-16T01:38:18Z</updated>
+    <id>tag:github.com,2023-12-16:/penxle/penxle</id>
+    <link href="https://github.com/penxle/penxle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;함께 그리는 반짝임, PENXLE.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kanashter/bothermione</title>
+    <updated>2023-12-16T01:38:18Z</updated>
+    <id>tag:github.com,2023-12-16:/kanashter/bothermione</id>
+    <link href="https://github.com/kanashter/bothermione" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>talesofai/comfyui-browser</title>
+    <updated>2023-12-16T01:38:18Z</updated>
+    <id>tag:github.com,2023-12-16:/talesofai/comfyui-browser</id>
+    <link href="https://github.com/talesofai/comfyui-browser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An image/video/workflow browser and manager for ComfyUI.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

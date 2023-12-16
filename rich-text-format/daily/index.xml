@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-15T01:41:06Z</updated>
+  <updated>2023-12-16T01:36:34Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>robsug/GameJamDec2023</title>
+    <updated>2023-12-16T01:36:34Z</updated>
+    <id>tag:github.com,2023-12-16:/robsug/GameJamDec2023</id>
+    <link href="https://github.com/robsug/GameJamDec2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Just Jammin&#39;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

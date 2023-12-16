@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-15T01:30:11Z</updated>
+  <updated>2023-12-16T01:27:23Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>savushkin-r-d/PLCnext-howto</title>
-    <updated>2023-12-15T01:30:11Z</updated>
-    <id>tag:github.com,2023-12-15:/savushkin-r-d/PLCnext-howto</id>
-    <link href="https://github.com/savushkin-r-d/PLCnext-howto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Howto C++ with PLCnext Technology&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

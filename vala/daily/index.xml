@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-15T01:44:24Z</updated>
+  <updated>2023-12-16T01:39:22Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Rirusha/Cassette</title>
-    <updated>2023-12-15T01:44:24Z</updated>
-    <id>tag:github.com,2023-12-15:/Rirusha/Cassette</id>
-    <link href="https://github.com/Rirusha/Cassette" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GTK/Adwaita application that allows you to use Yandex Music service on Linux operating systems.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

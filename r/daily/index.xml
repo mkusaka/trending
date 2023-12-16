@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-15T01:40:35Z</updated>
+  <updated>2023-12-16T01:36:07Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>doctortheisen/data_modeling_project</title>
-    <updated>2023-12-15T01:40:35Z</updated>
-    <id>tag:github.com,2023-12-15:/doctortheisen/data_modeling_project</id>
-    <link href="https://github.com/doctortheisen/data_modeling_project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo for managing the group project for Data Modeling in R (CSCI 106, Fall 2023).&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;data_modeling_project&lt;/h1&gt; &#xA;&lt;p&gt;Repo for managing the group project for Data Modeling in R (CSCI 106, Fall 2023).&lt;/p&gt; &#xA;&lt;h2&gt;Important&lt;/h2&gt; &#xA;&lt;p&gt;We are setting visibility to &#34;public&#34; temporarily, to get group members into the GitHub repo. They would not be able to see the current project code otherwise. This was necessary to avoid interruptions with respect to a short turnaround time of less than one week. This information should be regarded as private and confidential. If you come across this code and are not a member of our group, please simply exit the repo without viewing the code. This is important for academic integrity purposes.&lt;/p&gt; &#xA;&lt;p&gt;We will set the code visibility to private as soon as we get all group members in here.&lt;/p&gt; &#xA;&lt;h2&gt;Adding Group Members&lt;/h2&gt; &#xA;&lt;p&gt;If you are a group member, please be sure to provide your GitHub username through the group messaging systems or contact me directly via GitHub. Thank you.&lt;/p&gt; &#xA;&lt;h2&gt;Using the Repo&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Please be sure to select &#34;Watch&#34; on the repo when you first join. Please verify your profile settings to insure that you can stay current with updates.&lt;/li&gt; &#xA; &lt;li&gt;You may already know this, but the usual way of using GitHub is to divide up the work to be done into branches. Then, individuals develop that part of the picture on their own computers until it works. They upload the code as a git branch once it is ready. We still get the full history of granular changes, but it cuts down on unnecessary notifications for others. If there is a problem with a code conflict, we can easily go back to the code without the branch and troubleshoot from there. We have a small project, so this is not critical, but please use branches if you know how.&lt;/li&gt; &#xA; &lt;li&gt;GitHub Desktop is a program you can download to manage your GitHub code from a macOS or Windows computer. If you are newer to GitHub, the easiest approach is to download that program first, then open our project repo from within that program. It&#39;s not a text editor. It just keeps track of line-level changes so you can share those more easily later.&lt;/li&gt; &#xA; &lt;li&gt;GitHub does not let you create a folder from the web interface. You have to download the code to do that. You can create/edit files on GitHub.&lt;/li&gt; &#xA; &lt;li&gt;We&#39;re tracking outstanding issues in GitHub Issues, which is a tab you can only see from the web interface for the repo.&lt;/li&gt; &#xA; &lt;li&gt;If you run into a confusing situation, please create an issue.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>cb2edu/CB2-101-2023-assignment</title>
-    <updated>2023-12-15T01:40:35Z</updated>
-    <id>tag:github.com,2023-12-15:/cb2edu/CB2-101-2023-assignment</id>
-    <link href="https://github.com/cb2edu/CB2-101-2023-assignment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

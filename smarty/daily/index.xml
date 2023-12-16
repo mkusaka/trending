@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-15T01:42:33Z</updated>
+  <updated>2023-12-16T01:37:48Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>neondatabase/helm-charts</title>
-    <updated>2023-12-15T01:42:33Z</updated>
-    <id>tag:github.com,2023-12-15:/neondatabase/helm-charts</id>
-    <link href="https://github.com/neondatabase/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;neondatabase helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>itzg/minecraft-server-charts</title>
+    <updated>2023-12-16T01:37:48Z</updated>
+    <id>tag:github.com,2023-12-16:/itzg/minecraft-server-charts</id>
+    <link href="https://github.com/itzg/minecraft-server-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

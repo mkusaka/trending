@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-15T01:42:38Z</updated>
+  <updated>2023-12-16T01:37:55Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purefiprotocol/token</title>
-    <updated>2023-12-15T01:42:38Z</updated>
-    <id>tag:github.com,2023-12-15:/purefiprotocol/token</id>
-    <link href="https://github.com/purefiprotocol/token" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PureFi ERC20 Token&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2023-12-revolutionprotocol</title>
+    <updated>2023-12-16T01:37:55Z</updated>
+    <id>tag:github.com,2023-12-16:/code-423n4/2023-12-revolutionprotocol</id>
+    <link href="https://github.com/code-423n4/2023-12-revolutionprotocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purefiprotocol/sdk-solidity</title>
-    <updated>2023-12-15T01:42:38Z</updated>
-    <id>tag:github.com,2023-12-15:/purefiprotocol/sdk-solidity</id>
-    <link href="https://github.com/purefiprotocol/sdk-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PureFi Protocol SDK for Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AmadiMichael/LowLevelVulnerabilities</title>
+    <updated>2023-12-16T01:37:55Z</updated>
+    <id>tag:github.com,2023-12-16:/AmadiMichael/LowLevelVulnerabilities</id>
+    <link href="https://github.com/AmadiMichael/LowLevelVulnerabilities" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Examples and POCs of Vulnerabilities that are unique to EVM contracts written without the guardrails of higher level languages like solidity or vyper&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>0xnirlin/Thirdweb-Exploit-POC</title>
-    <updated>2023-12-15T01:42:38Z</updated>
-    <id>tag:github.com,2023-12-15:/0xnirlin/Thirdweb-Exploit-POC</id>
-    <link href="https://github.com/0xnirlin/Thirdweb-Exploit-POC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositery to show case the recent thirdweb exploit that raised due to using openzeppelin ERC2771 implementation with a multi call.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LayerZero-Labs/LayerZero-v2</title>
+    <updated>2023-12-16T01:37:55Z</updated>
+    <id>tag:github.com,2023-12-16:/LayerZero-Labs/LayerZero-v2</id>
+    <link href="https://github.com/LayerZero-Labs/LayerZero-v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
