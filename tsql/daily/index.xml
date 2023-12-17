@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-16T01:39:03Z</updated>
+  <updated>2023-12-17T01:48:22Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure-Samples/dab-library-demo-containers</title>
-    <updated>2023-12-16T01:39:03Z</updated>
-    <id>tag:github.com,2023-12-16:/Azure-Samples/dab-library-demo-containers</id>
-    <link href="https://github.com/Azure-Samples/dab-library-demo-containers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build your APIs with DAB using containers to get an isolated, and lightweight local development experience.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kennex666/ManageBookstore-Whimsibooks-Java</title>
+    <updated>2023-12-17T01:48:22Z</updated>
+    <id>tag:github.com,2023-12-17:/kennex666/ManageBookstore-Whimsibooks-Java</id>
+    <link href="https://github.com/kennex666/ManageBookstore-Whimsibooks-Java" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[P4E] Four students at Industrial University of Ho Chi Minh city do exercise for their course&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

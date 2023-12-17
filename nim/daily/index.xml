@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-16T01:33:55Z</updated>
+  <updated>2023-12-17T01:41:48Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yutianqaq/x2Ldr</title>
+    <updated>2023-12-17T01:41:48Z</updated>
+    <id>tag:github.com,2023-12-17:/yutianqaq/x2Ldr</id>
+    <link href="https://github.com/yutianqaq/x2Ldr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nim免杀过某数字、某绒&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HapticX/happyx-native</title>
+    <updated>2023-12-17T01:41:48Z</updated>
+    <id>tag:github.com,2023-12-17:/HapticX/happyx-native</id>
+    <link href="https://github.com/HapticX/happyx-native" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Macro-oriented web-framework compiles to native written with ♥&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>frkngksl/UnlinkDLL</title>
+    <updated>2023-12-17T01:41:48Z</updated>
+    <id>tag:github.com,2023-12-17:/frkngksl/UnlinkDLL</id>
+    <link href="https://github.com/frkngksl/UnlinkDLL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DLL Unlinking from InLoadOrderModuleList, InMemoryOrderModuleList, InInitializationOrderModuleList, and LdrpHashTable&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

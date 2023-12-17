@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T02:03:10Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xai-foundation/sentry</title>
+    <updated>2023-12-17T02:03:10Z</updated>
+    <id>tag:github.com,2023-12-17:/xai-foundation/sentry</id>
+    <link href="https://github.com/xai-foundation/sentry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>volt-protocol/ethereum-credit-guild</title>
+    <updated>2023-12-17T02:03:10Z</updated>
+    <id>tag:github.com,2023-12-17:/volt-protocol/ethereum-credit-guild</id>
+    <link href="https://github.com/volt-protocol/ethereum-credit-guild" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A decentralized savings and credit system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>semgrep/semgrep-rules</title>
+    <updated>2023-12-17T02:03:10Z</updated>
+    <id>tag:github.com,2023-12-17:/semgrep/semgrep-rules</id>
+    <link href="https://github.com/semgrep/semgrep-rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Semgrep rules registry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

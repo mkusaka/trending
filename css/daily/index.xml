@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-16T01:27:49Z</updated>
+  <updated>2023-12-17T01:32:41Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SteamDatabase/GameTracking-CS2</title>
-    <updated>2023-12-16T01:27:49Z</updated>
-    <id>tag:github.com,2023-12-16:/SteamDatabase/GameTracking-CS2</id>
-    <link href="https://github.com/SteamDatabase/GameTracking-CS2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📥 Game Tracker: Counter-Strike 2&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Game Tracker: Counter-Strike 2&lt;/h2&gt; &#xA;&lt;p&gt;Tracking things, so you don&#39;t have to.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/SteamDatabase/GameTracking#readme&#34;&gt;See readme in main GameTracking repository for more information on how files are tracked.&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Join our Discord&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://steamdb.info/discord/&#34;&gt;&lt;img src=&#34;https://discord.com/api/guilds/467730051622764565/embed.png?style=banner2&#34; alt=&#34;Join our Discord&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>shanjairaj7/openweathermap</title>
-    <updated>2023-12-16T01:27:49Z</updated>
-    <id>tag:github.com,2023-12-16:/shanjairaj7/openweathermap</id>
-    <link href="https://github.com/shanjairaj7/openweathermap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AbyssServices/Abyss-Web</title>
-    <updated>2023-12-16T01:27:49Z</updated>
-    <id>tag:github.com,2023-12-16:/AbyssServices/Abyss-Web</id>
-    <link href="https://github.com/AbyssServices/Abyss-Web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Abyss is an advanced proxy service that provides modern unblocking for all users who use it.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://railway.app/template/hIFYVf?referralCode=8zUpBt&#34;&gt;&lt;img src=&#34;https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg?sanitize=true&#34; alt=&#34;Deploy on Railway&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://app.koyeb.com/deploy?type=docker&amp;amp;image=docker.io/greenydev/abysswebproxy&amp;amp;name=abyss-web&#34;&gt;&lt;img src=&#34;https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg?sanitize=true&#34; alt=&#34;Deploy to Koyeb&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Abyss Web&lt;/h1&gt; &#xA;&lt;p&gt;Abyss is an advanced proxy service that provides modern unblocking for all users who use it.&lt;/p&gt; &#xA;&lt;h1&gt;Setup and installation&lt;/h1&gt; &#xA;&lt;p&gt;Install the following software for your machine if you haven&#39;t already.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Node 18+&#xA;Git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;After installing, run the following commands in the folder you desire to install Abyss in.&lt;/p&gt; &#xA;&lt;p&gt;Ubuntu/Windows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone https://github.com/AbyssServices/Abyss-Web&#xA;cd Abyss-Web&#xA;npm i&#xA;npm start&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Port change&lt;/h1&gt; &#xA;&lt;p&gt;To change the port, go to .env in the root folder and change the port number.&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;Read the license before you make any changes to this software.&lt;/p&gt;</summary>
+    <title>tovifun/VivalArc</title>
+    <updated>2023-12-17T01:32:41Z</updated>
+    <id>tag:github.com,2023-12-17:/tovifun/VivalArc</id>
+    <link href="https://github.com/tovifun/VivalArc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;With just a few tweaks, you can give Vivaldi that cool Arc vibe&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This project mainly includes a set of CSS files and a Vivaldi theme. With a few simple steps of configuration, you can modify Vivaldi into Arc style.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/tovifun/VivalArc/raw/main/docs/configure-vivaldi.md&#34;&gt;📝VivalArc, Configuration Steps&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/tovifun/VivalArc/raw/main/docs/changelog.md&#34;&gt;🎉Change Log&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/tovifun/VivalArc/raw/main/docs/faq.md&#34;&gt;🧑‍💻FAQ&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://arc.tovi.fun&#34;&gt;🌐VivalArc Website&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/tovifun/VivalArc/raw/main/README-cn.md&#34;&gt;📝VivalArc 中文介绍和配置方式&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/tovifun/VivalArc/main/assets/vivalarc_screenshot.jpeg&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;💌 Thanks for&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Github &lt;a href=&#34;https://github.com/clementpoiret&#34;&gt;@clementpoiret&lt;/a&gt; added &lt;a href=&#34;https://github.com/tovifun/VivalArc/pull/5&#34;&gt;ArcDark Theme&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;🧑‍💻 Beautiful Screenshots from：&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Twitter &lt;a href=&#34;https://twitter.com/vivaldi_fr/status/1684643796942815233&#34;&gt;@vivaldi_fr&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Github &lt;a href=&#34;https://github.com/tovifun/VivalArc/pull/5&#34;&gt;@clementpoiret&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Bilibili &lt;a href=&#34;https://www.bilibili.com/opus/844070281819455558&#34;&gt;@tovi(me😉)&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

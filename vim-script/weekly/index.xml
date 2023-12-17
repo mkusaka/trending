@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T02:05:17Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thoughtless/vim-config</title>
+    <updated>2023-12-17T02:05:17Z</updated>
+    <id>tag:github.com,2023-12-17:/thoughtless/vim-config</id>
+    <link href="https://github.com/thoughtless/vim-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My personal vim configuration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rhysd/gem-gist.vim</title>
+    <updated>2023-12-17T02:05:17Z</updated>
+    <id>tag:github.com,2023-12-17:/rhysd/gem-gist.vim</id>
+    <link href="https://github.com/rhysd/gem-gist.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use `jist` or `gist` rubygem in Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>flazz/vim-colorschemes</title>
+    <updated>2023-12-17T02:05:17Z</updated>
+    <id>tag:github.com,2023-12-17:/flazz/vim-colorschemes</id>
+    <link href="https://github.com/flazz/vim-colorschemes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;one colorscheme pack to rule them all!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

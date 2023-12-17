@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-16T01:30:43Z</updated>
+  <updated>2023-12-17T01:36:46Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>X-LANCE/StoryTTS</title>
+    <updated>2023-12-17T01:36:46Z</updated>
+    <id>tag:github.com,2023-12-17:/X-LANCE/StoryTTS</id>
+    <link href="https://github.com/X-LANCE/StoryTTS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://goarsenal.github.io/StoryTTS/&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations&lt;/h1&gt; &#xA;&lt;p&gt;The dataset will be released soon.&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-16T01:25:01Z</updated>
+  <updated>2023-12-17T01:29:06Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HumanAIGC/OutfitAnyone</title>
-    <updated>2023-12-16T01:25:01Z</updated>
-    <id>tag:github.com,2023-12-16:/HumanAIGC/OutfitAnyone</id>
-    <link href="https://github.com/HumanAIGC/OutfitAnyone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bleedline/aimoneyhunter</title>
+    <updated>2023-12-17T01:29:06Z</updated>
+    <id>tag:github.com,2023-12-17:/bleedline/aimoneyhunter</id>
+    <link href="https://github.com/bleedline/aimoneyhunter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Mint-Blockchain/mint-brandkit</title>
-    <updated>2023-12-16T01:25:01Z</updated>
-    <id>tag:github.com,2023-12-16:/Mint-Blockchain/mint-brandkit</id>
-    <link href="https://github.com/Mint-Blockchain/mint-brandkit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>piglei/one-python-craftsman</title>
+    <updated>2023-12-17T01:29:06Z</updated>
+    <id>tag:github.com,2023-12-17:/piglei/one-python-craftsman</id>
+    <link href="https://github.com/piglei/one-python-craftsman" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mehdihadeli/awesome-software-architecture</title>
-    <updated>2023-12-16T01:25:01Z</updated>
-    <id>tag:github.com,2023-12-16:/mehdihadeli/awesome-software-architecture</id>
-    <link href="https://github.com/mehdihadeli/awesome-software-architecture" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>InstantID/InstantID</title>
+    <updated>2023-12-17T01:29:06Z</updated>
+    <id>tag:github.com,2023-12-17:/InstantID/InstantID</id>
+    <link href="https://github.com/InstantID/InstantID" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;InstantID : Zero-shot Identity-Preserving Generation in Seconds&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

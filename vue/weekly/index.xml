@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T02:05:22Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Dooy/chatgpt-web-midjourney-proxy</title>
+    <updated>2023-12-17T02:05:22Z</updated>
+    <id>tag:github.com,2023-12-17:/Dooy/chatgpt-web-midjourney-proxy</id>
+    <link href="https://github.com/Dooy/chatgpt-web-midjourney-proxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;chatgpt web, midjourney, gpts 一套ui全搞定&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Alfred-Skyblue/vue-draggable-plus</title>
+    <updated>2023-12-17T02:05:22Z</updated>
+    <id>tag:github.com,2023-12-17:/Alfred-Skyblue/vue-draggable-plus</id>
+    <link href="https://github.com/Alfred-Skyblue/vue-draggable-plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hslr-s/sun-panel</title>
+    <updated>2023-12-17T02:05:22Z</updated>
+    <id>tag:github.com,2023-12-17:/hslr-s/sun-panel</id>
+    <link href="https://github.com/hslr-s/sun-panel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个NAS导航面板、Homepage、浏览器首页。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

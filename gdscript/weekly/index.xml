@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T01:54:22Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AlexeyBond/godot-constraint-solving</title>
+    <updated>2023-12-17T01:54:22Z</updated>
+    <id>tag:github.com,2023-12-17:/AlexeyBond/godot-constraint-solving</id>
+    <link href="https://github.com/AlexeyBond/godot-constraint-solving" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WFC (Wave Function Collapse) and generic constraint satisfaction problem solver implementation for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

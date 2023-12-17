@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T01:49:46Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MrNeRF/awesome-3D-gaussian-splatting</title>
+    <updated>2023-12-17T01:49:46Z</updated>
+    <id>tag:github.com,2023-12-17:/MrNeRF/awesome-3D-gaussian-splatting</id>
+    <link href="https://github.com/MrNeRF/awesome-3D-gaussian-splatting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>meri-nova/breaking-into-data-handbook</title>
+    <updated>2023-12-17T01:49:46Z</updated>
+    <id>tag:github.com,2023-12-17:/meri-nova/breaking-into-data-handbook</id>
+    <link href="https://github.com/meri-nova/breaking-into-data-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Breaking Into Data Handbook&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zhashkevych/awesome-backend</title>
+    <updated>2023-12-17T01:49:46Z</updated>
+    <id>tag:github.com,2023-12-17:/zhashkevych/awesome-backend</id>
+    <link href="https://github.com/zhashkevych/awesome-backend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 A curated and opinionated list of resources (English &amp; Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

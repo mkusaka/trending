@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T01:52:17Z</updated>
+  <subtitle>Weekly Trending of CSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>joy-of-react/hello-next</title>
+    <updated>2023-12-17T01:52:17Z</updated>
+    <id>tag:github.com,2023-12-17:/joy-of-react/hello-next</id>
+    <link href="https://github.com/joy-of-react/hello-next" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Next 13 template&lt;/h1&gt; &#xA;&lt;p&gt;This is a &lt;em&gt;super minimal&lt;/em&gt; starter for Next 13&#39;s App Router.&lt;/p&gt; &#xA;&lt;p&gt;Not intended for use in production. Purely used for educational reasons.&lt;/p&gt; &#xA;&lt;h2&gt;Running a development server&lt;/h2&gt; &#xA;&lt;p&gt;First, install the dependencies:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ npm install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then, start a local development server:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ npm run dev&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Unlike create-react-app, we need to run the &lt;code&gt;dev&lt;/code&gt; command, not &lt;code&gt;start&lt;/code&gt;. The &lt;code&gt;start&lt;/code&gt; command is used to run a &lt;em&gt;production&lt;/em&gt; server; we&#39;ll learn more about that later in the course.&lt;/p&gt; &#xA;&lt;h2&gt;Troubleshooting&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Please make sure you&#39;re using Node.js version 16.14 or higher. This is the minimum Node version required by Next.js. &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;You can find your current Node version by running &lt;code&gt;node -v&lt;/code&gt; in a terminal. If the value is less than 16.14, you&#39;ll want to upgrade Node to the &lt;a href=&#34;https://nodejs.org/en&#34;&gt;current LTS (Long Term Support) version&lt;/a&gt;.&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>devopsbyraham/jenkins-java-project</title>
+    <updated>2023-12-17T01:52:17Z</updated>
+    <id>tag:github.com,2023-12-17:/devopsbyraham/jenkins-java-project</id>
+    <link href="https://github.com/devopsbyraham/jenkins-java-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fdnd-task/fix-the-flow-ui-events</title>
+    <updated>2023-12-17T01:52:17Z</updated>
+    <id>tag:github.com,2023-12-17:/fdnd-task/fix-the-flow-ui-events</id>
+    <link href="https://github.com/fdnd-task/fix-the-flow-ui-events" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verschillende User Interface events uitproberen&lt;/p&gt;&lt;hr&gt;&lt;blockquote&gt; &#xA; &lt;p&gt;&lt;em&gt;Fork&lt;/em&gt; deze deeltaak en ga aan de slag. De instructie vind je in: &lt;a href=&#34;https://raw.githubusercontent.com/fdnd-task/fix-the-flow-ui-events/main/docs/INSTRUCTIONS.md&#34;&gt;docs/INSTRUCTIONS.md&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h1&gt;Titel&lt;/h1&gt; &#xA;&lt;!-- Geef je project een titel en schrijf in één zin wat het is --&gt; &#xA;&lt;h2&gt;Beschrijving&lt;/h2&gt; &#xA;&lt;!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. --&gt; &#xA;&lt;!-- Voeg een link toe naar Github Pages 🌐--&gt; &#xA;&lt;h2&gt;Experimenten&lt;/h2&gt; &#xA;&lt;!-- In de Experimenten beschrijf je wat je per experimnet hebt gedaan en documenteer je de code aan de hand van voorbeelden --&gt; &#xA;&lt;!-- Voeg een mooie poster visual toe 📸 per experiment --&gt; &#xA;&lt;h2&gt;Licentie&lt;/h2&gt; &#xA;&lt;p&gt;This project is licensed under the terms of the &lt;a href=&#34;https://raw.githubusercontent.com/fdnd-task/fix-the-flow-ui-events/main/LICENSE&#34;&gt;MIT license&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+</feed>

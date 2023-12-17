@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub D Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T01:52:26Z</updated>
+  <subtitle>Weekly Trending of D in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>timthelion/fchad-study</title>
+    <updated>2023-12-17T01:52:26Z</updated>
+    <id>tag:github.com,2023-12-17:/timthelion/fchad-study</id>
+    <link href="https://github.com/timthelion/fchad-study" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Study on learning curves of fchad based devices&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>linuxprofessor/dtrace-scripts</title>
+    <updated>2023-12-17T01:52:26Z</updated>
+    <id>tag:github.com,2023-12-17:/linuxprofessor/dtrace-scripts</id>
+    <link href="https://github.com/linuxprofessor/dtrace-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Various dtrace scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

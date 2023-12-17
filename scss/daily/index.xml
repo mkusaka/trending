@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-16T01:37:23Z</updated>
+  <updated>2023-12-17T01:46:17Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>momentum-design/momentum-ui</title>
-    <updated>2023-12-16T01:37:23Z</updated>
-    <id>tag:github.com,2023-12-16:/momentum-design/momentum-ui</id>
-    <link href="https://github.com/momentum-design/momentum-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Momentum UI is a collection of UI libraries for implementing Momentum Design into web applications and websites.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

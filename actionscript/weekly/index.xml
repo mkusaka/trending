@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ActionScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T01:50:00Z</updated>
+  <subtitle>Weekly Trending of ActionScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>flunardelli/GiroVault-as3</title>
+    <updated>2023-12-17T01:50:00Z</updated>
+    <id>tag:github.com,2023-12-17:/flunardelli/GiroVault-as3</id>
+    <link href="https://github.com/flunardelli/GiroVault-as3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mobile iOS game based on original Vault game by ABA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>leopoldodonnell/airhttp</title>
+    <updated>2023-12-17T01:50:00Z</updated>
+    <id>tag:github.com,2023-12-17:/leopoldodonnell/airhttp</id>
+    <link href="https://github.com/leopoldodonnell/airhttp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An easy to integrate HTTP Server for Adobe Air applications.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jccrosby/segment-io-as3lib</title>
+    <updated>2023-12-17T01:50:00Z</updated>
+    <id>tag:github.com,2023-12-17:/jccrosby/segment-io-as3lib</id>
+    <link href="https://github.com/jccrosby/segment-io-as3lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ActionScript 3 Library for the Segment.io REST API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

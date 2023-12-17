@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Visual Basic .NET Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T02:05:15Z</updated>
+  <subtitle>Weekly Trending of Visual Basic .NET in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nnadams/ProjectWords</title>
+    <updated>2023-12-17T02:05:15Z</updated>
+    <id>tag:github.com,2023-12-17:/nnadams/ProjectWords</id>
+    <link href="https://github.com/nnadams/ProjectWords" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A very basic tabbed text editor written in VB .NET&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codewell4/vs-macro-utils</title>
+    <updated>2023-12-17T02:05:15Z</updated>
+    <id>tag:github.com,2023-12-17:/codewell4/vs-macro-utils</id>
+    <link href="https://github.com/codewell4/vs-macro-utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Useful macros for Visual Studio&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>timabell/vs-formatter-macro</title>
+    <updated>2023-12-17T02:05:15Z</updated>
+    <id>tag:github.com,2023-12-17:/timabell/vs-formatter-macro</id>
+    <link href="https://github.com/timabell/vs-formatter-macro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Macro for Visual Studio 2008 to format all documents in a solution&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

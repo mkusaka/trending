@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-16T01:33:02Z</updated>
+  <updated>2023-12-17T01:40:25Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Traceableai/agent-config</title>
-    <updated>2023-12-16T01:33:02Z</updated>
-    <id>tag:github.com,2023-12-16:/Traceableai/agent-config</id>
-    <link href="https://github.com/Traceableai/agent-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StijnWoestenborghs/dainemo</title>
+    <updated>2023-12-17T01:40:25Z</updated>
+    <id>tag:github.com,2023-12-17:/StijnWoestenborghs/dainemo</id>
+    <link href="https://github.com/StijnWoestenborghs/dainemo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Machine Learning framework from scratch in Mojo 🔥&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ProgramTraveler/Road-To-Autonomous-Driving</title>
+    <updated>2023-12-17T01:40:25Z</updated>
+    <id>tag:github.com,2023-12-17:/ProgramTraveler/Road-To-Autonomous-Driving</id>
+    <link href="https://github.com/ProgramTraveler/Road-To-Autonomous-Driving" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;自动驾驶散修一枚 -&gt; 记录自己对自动驾驶的学习过程和相关学习链接&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>instill-ai/core</title>
+    <updated>2023-12-17T01:40:25Z</updated>
+    <id>tag:github.com,2023-12-17:/instill-ai/core</id>
+    <link href="https://github.com/instill-ai/core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔮 Instill Core contains components for supporting Instill VDP and Instill Model&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

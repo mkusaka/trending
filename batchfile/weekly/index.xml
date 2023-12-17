@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T01:50:39Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Skulltrail192/One-Core-API-Binaries</title>
+    <updated>2023-12-17T01:50:39Z</updated>
+    <id>tag:github.com,2023-12-17:/Skulltrail192/One-Core-API-Binaries</id>
+    <link href="https://github.com/Skulltrail192/One-Core-API-Binaries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Velytics/KernelOS</title>
+    <updated>2023-12-17T01:50:39Z</updated>
+    <id>tag:github.com,2023-12-17:/Velytics/KernelOS</id>
+    <link href="https://github.com/Velytics/KernelOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KernelOS - Una modificación del Sistema Operativo de Windows capaz y eficiente, con cientos de servicios, dispositivos y drivers deshabilitados. Se enfoca en la compatibilidad, en el rendimiento general y uso personal.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nd-phuc/windows-rdp</title>
+    <updated>2023-12-17T01:50:39Z</updated>
+    <id>tag:github.com,2023-12-17:/nd-phuc/windows-rdp</id>
+    <link href="https://github.com/nd-phuc/windows-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

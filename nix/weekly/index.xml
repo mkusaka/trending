@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T01:58:49Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ALT-F4-LLC/kickstart.nix</title>
+    <updated>2023-12-17T01:58:49Z</updated>
+    <id>tag:github.com,2023-12-17:/ALT-F4-LLC/kickstart.nix</id>
+    <link href="https://github.com/ALT-F4-LLC/kickstart.nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kickstart your Nix environment.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>garnix-io/hello-garnix</title>
+    <updated>2023-12-17T01:58:49Z</updated>
+    <id>tag:github.com,2023-12-17:/garnix-io/hello-garnix</id>
+    <link href="https://github.com/garnix-io/hello-garnix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Mic92/dotfiles</title>
+    <updated>2023-12-17T01:58:49Z</updated>
+    <id>tag:github.com,2023-12-17:/Mic92/dotfiles</id>
+    <link href="https://github.com/Mic92/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My NixOS dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

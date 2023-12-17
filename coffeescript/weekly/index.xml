@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T01:51:58Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HubSpot/signet</title>
+    <updated>2023-12-17T01:51:58Z</updated>
+    <id>tag:github.com,2023-12-17:/HubSpot/signet</id>
+    <link href="https://github.com/HubSpot/signet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Display a unique seal in the developer console of your page&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HubSpot/Backbone.HookSync</title>
+    <updated>2023-12-17T01:51:58Z</updated>
+    <id>tag:github.com,2023-12-17:/HubSpot/Backbone.HookSync</id>
+    <link href="https://github.com/HubSpot/Backbone.HookSync" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make Backbone.sync do what you need&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HubSpot/integrate</title>
+    <updated>2023-12-17T01:51:58Z</updated>
+    <id>tag:github.com,2023-12-17:/HubSpot/integrate</id>
+    <link href="https://github.com/HubSpot/integrate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Confirm that your application works.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

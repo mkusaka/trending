@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T02:06:09Z</updated>
+  <subtitle>Weekly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SuperAuguste/zig-design-patterns</title>
+    <updated>2023-12-17T02:06:09Z</updated>
+    <id>tag:github.com,2023-12-17:/SuperAuguste/zig-design-patterns</id>
+    <link href="https://github.com/SuperAuguste/zig-design-patterns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common Zig patterns for you and your friends :)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

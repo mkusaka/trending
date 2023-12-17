@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-17T01:53:36Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>phoenixframework/flame</title>
+    <updated>2023-12-17T01:53:36Z</updated>
+    <id>tag:github.com,2023-12-17:/phoenixframework/flame</id>
+    <link href="https://github.com/phoenixframework/flame" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elixir-webrtc/ex_webrtc</title>
+    <updated>2023-12-17T01:53:36Z</updated>
+    <id>tag:github.com,2023-12-17:/elixir-webrtc/ex_webrtc</id>
+    <link href="https://github.com/elixir-webrtc/ex_webrtc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir implementation of the WebRTC API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zoonk/uneebee</title>
+    <updated>2023-12-17T01:53:36Z</updated>
+    <id>tag:github.com,2023-12-17:/zoonk/uneebee</id>
+    <link href="https://github.com/zoonk/uneebee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Platform for creating interactive courses.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
