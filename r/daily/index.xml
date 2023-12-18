@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-17T01:44:52Z</updated>
+  <updated>2023-12-18T01:39:27Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nmatzke/3diphy</title>
-    <updated>2023-12-17T01:44:52Z</updated>
-    <id>tag:github.com,2023-12-17:/nmatzke/3diphy</id>
-    <link href="https://github.com/nmatzke/3diphy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Maximum likelihood structural phylogenetics by including Foldseek 3Di characters. Supporting Information for Puente-Lelievre et al. 2023n for&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;3diphy&lt;/h1&gt; &#xA;&lt;p&gt;Maximum likelihood structural phylogenetics by including Foldseek 3Di characters. Supporting Information for Puente-Lelievre et al. 2023.&lt;/p&gt; &#xA;&lt;p&gt;The citation is:&lt;/p&gt; &#xA;&lt;p&gt;Puente-Lelievre, Caroline; Malik, Ashar J.; Douglas, Jordan; Ascher, David; Baker, Matthew; Allison, Jane; Poole, Anthony; Lundin, Daniel; Fullmer, Matthew; Bouckert, Remco; Steinegger, Martin; Matzke, Nicholas J. (2023). Tertiary-interaction characters enable fast, model-based structural phylogenetics beyond the twilight zone. &lt;em&gt;bioRxiv&lt;/em&gt;, 571181. December 12, 2023. doi: &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/571181&#34;&gt;https://www.biorxiv.org/content/10.1101/571181&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;For a README file / guide to the Supporting Information directory, please see: _00_README_SuppInf_files_v2.txt.&lt;/p&gt;</summary>
+    <title>Plant-Functional-Trait-Course/pftc7_south_africa</title>
+    <updated>2023-12-18T01:39:27Z</updated>
+    <id>tag:github.com,2023-12-18:/Plant-Functional-Trait-Course/pftc7_south_africa</id>
+    <link href="https://github.com/Plant-Functional-Trait-Course/pftc7_south_africa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PFTC_template&lt;/h1&gt; &#xA;&lt;p&gt;This GitHub repository is a template repo for the PFTC courses. For more information about PFTC see &lt;a href=&#34;https://plantfunctionaltraitscourses.w.uib.no/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This repo is aimed at data sciences in ecology, but can also be used in other fields.&lt;/p&gt; &#xA;&lt;p&gt;To use the template click on the green button &#34;use this template&#34; and follow the instructions on GitHub.&lt;/p&gt; &#xA;&lt;h2&gt;Folder sturcture&lt;/h2&gt; &#xA;&lt;p&gt;This repo has a specific folder structure that we recommend as best practice. The data are kept in separate folders named &lt;em&gt;raw_data&lt;/em&gt; and &lt;em&gt;clean_data&lt;/em&gt;, while the code is stored in the folder &lt;em&gt;code&lt;/em&gt;. The raw data are the original and untouched files usually .csv or .txt formatted files. The clean data is often produced from the raw data using code and stored automatically.&lt;/p&gt; &#xA;&lt;p&gt;In addition, there is a .gitignore text file, which tells git all the files that should be ignored. This file can be edited and adapted to the users needs.&lt;/p&gt; &#xA;&lt;p&gt;We also recommend to use a user licence.&lt;/p&gt; &#xA;&lt;h2&gt;Data documentation&lt;/h2&gt; &#xA;&lt;p&gt;We strongly recommend to document the data, which is best practice. The &lt;em&gt;code&lt;/em&gt; folder contains a subfolder &lt;em&gt;data_dic&lt;/em&gt; with files scripts to produce a data dictionary.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;em&gt;data_description.xlsx&lt;/em&gt; file contains basic information about each variable: description, unit and how it was collected. This file has to be done manually (until we find a solution to automate it).&lt;/p&gt; &#xA;&lt;p&gt;The R file &lt;em&gt;make_data_dictionary.R&lt;/em&gt; contains a function that makes the data dictionary from the data file and the description file.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;em&gt;data_dic.R&lt;/em&gt; file contains example code to make the data dictionary for each data set and to compile it to one file in the end. Here each dataset needs to be entered.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;em&gt;download_clean_data.R&lt;/em&gt; shows and example for how to download the clean data if it is stored externally on a data repository, for example on OSF.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>junyinglim/Phylotools</title>
+    <updated>2023-12-18T01:39:27Z</updated>
+    <id>tag:github.com,2023-12-18:/junyinglim/Phylotools</id>
+    <link href="https://github.com/junyinglim/Phylotools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Miscellaneous collection of phylogenetic tools&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Phylotools&lt;/h1&gt; &#xA;&lt;p&gt;Written by: Junying Lim; &lt;a href=&#34;mailto:junyinglim@gmail.com&#34;&gt;junyinglim@gmail.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Miscellaneous collection of phylogenetic tools I wrote to make life easy&lt;/p&gt; &#xA;&lt;p&gt;taxo2newick.R - Converts a data frame containing hierarchical taxonomy to a newick phylogeny. Useful for making constraint trees for phylogenetic inference&lt;/p&gt; &#xA;&lt;p&gt;osgf_to_en.R - Converts British ordnance survey grid references to eastings and northings. Currently only works with 4 digito-alphabet grid reference (e.g., SU96) and finds their centroids.&lt;/p&gt;</summary>
   </entry>
 </feed>

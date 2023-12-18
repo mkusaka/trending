@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-17T01:40:38Z</updated>
+  <updated>2023-12-18T01:36:20Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dbespalov/image_bof_llc</title>
-    <updated>2023-12-17T01:40:38Z</updated>
-    <id>tag:github.com,2023-12-17:/dbespalov/image_bof_llc</id>
-    <link href="https://github.com/dbespalov/image_bof_llc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of the bag-of-features (BoF) representation for images with Locality-constrained Linear Coding and Spatial Pyramid Matching&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lakex24/3D2DTV</title>
+    <updated>2023-12-18T01:36:20Z</updated>
+    <id>tag:github.com,2023-12-18:/lakex24/3D2DTV</id>
+    <link href="https://github.com/lakex24/3D2DTV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

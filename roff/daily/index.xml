@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-17T01:45:27Z</updated>
+  <updated>2023-12-18T01:39:56Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>opencodeiiita/TechTerra</title>
-    <updated>2023-12-17T01:45:27Z</updated>
-    <id>tag:github.com,2023-12-17:/opencodeiiita/TechTerra</id>
-    <link href="https://github.com/opencodeiiita/TechTerra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;UI/UX for a Tech Website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gavinhoward/bc</title>
-    <updated>2023-12-17T01:45:27Z</updated>
-    <id>tag:github.com,2023-12-17:/gavinhoward/bc</id>
-    <link href="https://github.com/gavinhoward/bc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An implementation of the POSIX bc calculator with GNU extensions and dc, moved away from GitHub. Finished, but well-maintained.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bhugh/Bombable</title>
-    <updated>2023-12-17T01:45:27Z</updated>
-    <id>tag:github.com,2023-12-17:/bhugh/Bombable</id>
-    <link href="https://github.com/bhugh/Bombable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bombable add-on to FlightGear&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LucHernandez/projet_PROG5</title>
+    <updated>2023-12-18T01:39:56Z</updated>
+    <id>tag:github.com,2023-12-18:/LucHernandez/projet_PROG5</id>
+    <link href="https://github.com/LucHernandez/projet_PROG5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

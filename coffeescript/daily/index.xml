@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-17T01:32:14Z</updated>
+  <updated>2023-12-18T01:29:30Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Jud/pocket</title>
+    <updated>2023-12-18T01:29:30Z</updated>
+    <id>tag:github.com,2023-12-18:/Jud/pocket</id>
+    <link href="https://github.com/Jud/pocket" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Protobuf PubSub over WebSockets&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

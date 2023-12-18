@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-17T01:47:57Z</updated>
+  <updated>2023-12-18T01:41:53Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bsc-loca/sargantana</title>
-    <updated>2023-12-17T01:47:57Z</updated>
-    <id>tag:github.com,2023-12-17:/bsc-loca/sargantana</id>
-    <link href="https://github.com/bsc-loca/sargantana" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zero-day-labs/riscv-iommu</title>
+    <updated>2023-12-18T01:41:53Z</updated>
+    <id>tag:github.com,2023-12-18:/zero-day-labs/riscv-iommu</id>
+    <link href="https://github.com/zero-day-labs/riscv-iommu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IOMMU IP compliant with the RISC-V IOMMU Specification v1.0&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

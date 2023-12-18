@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-17T01:36:24Z</updated>
+  <updated>2023-12-18T01:33:22Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/agw-pep-custom-names</title>
+    <updated>2023-12-18T01:33:22Z</updated>
+    <id>tag:github.com,2023-12-18:/Azure/agw-pep-custom-names</id>
+    <link href="https://github.com/Azure/agw-pep-custom-names" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Application Gateway: Private Endpoint Custom Name Solution Reference Architecture and Tests&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nareshdevopscloud/devops-terraform</title>
+    <updated>2023-12-18T01:33:22Z</updated>
+    <id>tag:github.com,2023-12-18:/nareshdevopscloud/devops-terraform</id>
+    <link href="https://github.com/nareshdevopscloud/devops-terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

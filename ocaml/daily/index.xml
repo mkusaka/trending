@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-17T01:42:31Z</updated>
+  <updated>2023-12-18T01:37:37Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hazelgrove/hazel</title>
+    <updated>2023-12-18T01:37:37Z</updated>
+    <id>tag:github.com,2023-12-18:/hazelgrove/hazel</id>
+    <link href="https://github.com/hazelgrove/hazel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hazel, a live functional programming environment with typed holes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>leostera/tty</title>
+    <updated>2023-12-18T01:37:37Z</updated>
+    <id>tag:github.com,2023-12-18:/leostera/tty</id>
+    <link href="https://github.com/leostera/tty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pure OCaml library for working with terminals&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

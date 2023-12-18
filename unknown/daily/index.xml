@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-17T01:29:06Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-12-18T01:26:35Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bleedline/aimoneyhunter</title>
-    <updated>2023-12-17T01:29:06Z</updated>
-    <id>tag:github.com,2023-12-17:/bleedline/aimoneyhunter</id>
-    <link href="https://github.com/bleedline/aimoneyhunter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>robotics-survey/Awesome-Robotics-Foundation-Models</title>
+    <updated>2023-12-18T01:26:35Z</updated>
+    <id>tag:github.com,2023-12-18:/robotics-survey/Awesome-Robotics-Foundation-Models</id>
+    <link href="https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>piglei/one-python-craftsman</title>
-    <updated>2023-12-17T01:29:06Z</updated>
-    <id>tag:github.com,2023-12-17:/piglei/one-python-craftsman</id>
-    <link href="https://github.com/piglei/one-python-craftsman" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sharmajv/vpn</title>
+    <updated>2023-12-18T01:26:35Z</updated>
+    <id>tag:github.com,2023-12-18:/sharmajv/vpn</id>
+    <link href="https://github.com/sharmajv/vpn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VPN软件（小三VPN），完全免费，不注册，不限速，不限流，不看广告不流氓&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>InstantID/InstantID</title>
-    <updated>2023-12-17T01:29:06Z</updated>
-    <id>tag:github.com,2023-12-17:/InstantID/InstantID</id>
-    <link href="https://github.com/InstantID/InstantID" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;InstantID : Zero-shot Identity-Preserving Generation in Seconds&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ossu/math</title>
+    <updated>2023-12-18T01:26:35Z</updated>
+    <id>tag:github.com,2023-12-18:/ossu/math</id>
+    <link href="https://github.com/ossu/math" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧮 Path to a free self-taught education in Mathematics!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
