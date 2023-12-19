@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-18T01:29:27Z</updated>
+  <updated>2023-12-19T01:28:00Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ole/pico-embedded-swift</title>
-    <updated>2023-12-18T01:29:27Z</updated>
-    <id>tag:github.com,2023-12-18:/ole/pico-embedded-swift</id>
-    <link href="https://github.com/ole/pico-embedded-swift" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Embedded Swift on the Raspberry Pi Pico&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thebrowsercompany/swift-build</title>
-    <updated>2023-12-18T01:29:27Z</updated>
-    <id>tag:github.com,2023-12-18:/thebrowsercompany/swift-build</id>
-    <link href="https://github.com/thebrowsercompany/swift-build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Swift toolchain builds by The Browser Company&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

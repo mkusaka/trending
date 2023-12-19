@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-18T01:34:17Z</updated>
+  <updated>2023-12-19T01:32:52Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0x01010110/corecfxs</title>
-    <updated>2023-12-18T01:34:17Z</updated>
-    <id>tag:github.com,2023-12-18:/0x01010110/corecfxs</id>
-    <link href="https://github.com/0x01010110/corecfxs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;corecfxs&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/0x01010110/corecfxs/main/readmezh.md&#34;&gt;中文说明&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This script can engrave inscriptions across spaces.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Install the node.js environment.&lt;/li&gt; &#xA; &lt;li&gt;Use git to download this project: &lt;code&gt;git clone https://github.com/0x01010110/corecfxs.git&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Run &lt;code&gt;npm install&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Modify the &lt;code&gt;privateKey&lt;/code&gt; in the &lt;code&gt;config.json&lt;/code&gt; file and fill in your private key. Make sure your account has enough CFX to cover transaction fees.&lt;/li&gt; &#xA; &lt;li&gt;Start the script with &lt;code&gt;node index.js&lt;/code&gt;.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Notes&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Currently, a fixed gasPrice of 100 GDrip is used, and it can be configured in the configuration file.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Obtain Mapping Address&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;node getMapAddress.js&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>shradha-khapra/JavaScriptSeries</title>
+    <updated>2023-12-19T01:32:52Z</updated>
+    <id>tag:github.com,2023-12-19:/shradha-khapra/JavaScriptSeries</id>
+    <link href="https://github.com/shradha-khapra/JavaScriptSeries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

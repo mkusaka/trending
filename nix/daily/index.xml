@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-18T01:37:17Z</updated>
+  <updated>2023-12-19T01:35:53Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>adisbladis/korora</title>
-    <updated>2023-12-18T01:37:17Z</updated>
-    <id>tag:github.com,2023-12-18:/adisbladis/korora</id>
-    <link href="https://github.com/adisbladis/korora" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tiny &amp; fast type system for Nix in Nix&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IntersectMBO/cardano-world</title>
+    <updated>2023-12-19T01:35:53Z</updated>
+    <id>tag:github.com,2023-12-19:/IntersectMBO/cardano-world</id>
+    <link href="https://github.com/IntersectMBO/cardano-world" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cardano world provides preprod and preview cardano networks, configuration documentation and miscellaneous automation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

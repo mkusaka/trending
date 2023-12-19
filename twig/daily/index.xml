@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-18T01:42:16Z</updated>
+  <updated>2023-12-19T01:42:49Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>userfrosting/UserFrosting</title>
-    <updated>2023-12-18T01:42:16Z</updated>
-    <id>tag:github.com,2023-12-18:/userfrosting/UserFrosting</id>
-    <link href="https://github.com/userfrosting/UserFrosting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern PHP user login and management framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>WildCodeSchool-2023-09/php-paris-checkpoint3</title>
-    <updated>2023-12-18T01:42:16Z</updated>
-    <id>tag:github.com,2023-12-18:/WildCodeSchool-2023-09/php-paris-checkpoint3</id>
-    <link href="https://github.com/WildCodeSchool-2023-09/php-paris-checkpoint3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-18T01:38:19Z</updated>
+  <updated>2023-12-19T01:37:05Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jailbreakmerebooted/FridaRootManager</title>
-    <updated>2023-12-18T01:38:19Z</updated>
-    <id>tag:github.com,2023-12-18:/jailbreakmerebooted/FridaRootManager</id>
-    <link href="https://github.com/jailbreakmerebooted/FridaRootManager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FridaRootManager V1 OpenSource&lt;/h1&gt; &#xA;&lt;p&gt;Here i opensource FridaRootManager cb-5&lt;/p&gt; &#xA;&lt;h2&gt;Thanks to:&lt;/h2&gt; &#xA;&lt;p&gt;RootHide &amp;lt;3 - Remount/Bootstrap help&lt;/p&gt; &#xA;&lt;p&gt;Joe Wiliams &amp;lt;3 - FridaSignStrap&lt;/p&gt; &#xA;&lt;p&gt;Opa334 &amp;lt;3 - Trollstore&#39;s ldid&lt;/p&gt; &#xA;&lt;p&gt;HAHALOSAH &amp;lt;3 - POSIX_spawn help&lt;/p&gt; &#xA;&lt;p&gt;CoreSerena &amp;lt;3 - NSTask Executor&lt;/p&gt; &#xA;&lt;p&gt;Procursus &amp;lt;3 - Binpack for Bootstrap&lt;/p&gt; &#xA;&lt;p&gt;Lemin Leminez &amp;lt;3 - Button in main Menu&lt;/p&gt;</summary>
-  </entry>
 </feed>

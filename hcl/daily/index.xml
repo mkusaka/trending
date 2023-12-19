@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-18T01:33:22Z</updated>
+  <updated>2023-12-19T01:31:45Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure/agw-pep-custom-names</title>
-    <updated>2023-12-18T01:33:22Z</updated>
-    <id>tag:github.com,2023-12-18:/Azure/agw-pep-custom-names</id>
-    <link href="https://github.com/Azure/agw-pep-custom-names" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Azure Application Gateway: Private Endpoint Custom Name Solution Reference Architecture and Tests&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devopstia/terraform-course-del</title>
+    <updated>2023-12-19T01:31:45Z</updated>
+    <id>tag:github.com,2023-12-19:/devopstia/terraform-course-del</id>
+    <link href="https://github.com/devopstia/terraform-course-del" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DevOps Easy Learning AWS and Azure Terraform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nareshdevopscloud/devops-terraform</title>
-    <updated>2023-12-18T01:33:22Z</updated>
-    <id>tag:github.com,2023-12-18:/nareshdevopscloud/devops-terraform</id>
-    <link href="https://github.com/nareshdevopscloud/devops-terraform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>honestbank/terraform-aws-iam</title>
+    <updated>2023-12-19T01:31:45Z</updated>
+    <id>tag:github.com,2023-12-19:/honestbank/terraform-aws-iam</id>
+    <link href="https://github.com/honestbank/terraform-aws-iam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform-managed repo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>honestbank/terraform-gcp-gcs</title>
+    <updated>2023-12-19T01:31:45Z</updated>
+    <id>tag:github.com,2023-12-19:/honestbank/terraform-gcp-gcs</id>
+    <link href="https://github.com/honestbank/terraform-gcp-gcs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform component module to create GCS buckets&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

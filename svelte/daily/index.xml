@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-18T01:41:37Z</updated>
+  <updated>2023-12-19T01:41:41Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>modal-labs/turbo-art</title>
-    <updated>2023-12-18T01:41:37Z</updated>
-    <id>tag:github.com,2023-12-18:/modal-labs/turbo-art</id>
-    <link href="https://github.com/modal-labs/turbo-art" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A playground for creative exploration that uses SDXL Turbo.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>delay/sveltekit-auth</title>
-    <updated>2023-12-18T01:41:37Z</updated>
-    <id>tag:github.com,2023-12-18:/delay/sveltekit-auth</id>
-    <link href="https://github.com/delay/sveltekit-auth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a Sveltekit Auth project. It utilizes Lucia for authentication, shadcn-svelte for ui elements, Prisma for database connectivity and type safety, Lucide for icons, Zod and Superforms to handle forms and validation and Sveltekit.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iansinnott/prompta</title>
+    <updated>2023-12-19T01:41:41Z</updated>
+    <id>tag:github.com,2023-12-19:/iansinnott/prompta</id>
+    <link href="https://github.com/iansinnott/prompta" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT UI that is keyboard-centric, mobile friendly, and search past conversations.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

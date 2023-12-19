@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Odin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-18T01:37:43Z</updated>
+  <updated>2023-12-19T01:36:22Z</updated>
   <subtitle>Daily Trending of Odin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Skytrias/todool</title>
+    <updated>2023-12-19T01:36:22Z</updated>
+    <id>tag:github.com,2023-12-19:/Skytrias/todool</id>
+    <link href="https://github.com/Skytrias/todool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Powerful Todo Editor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

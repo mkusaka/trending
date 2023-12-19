@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-18T01:35:20Z</updated>
+  <updated>2023-12-19T01:33:50Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yveskalume/gemini-chat</title>
-    <updated>2023-12-18T01:35:20Z</updated>
-    <id>tag:github.com,2023-12-18:/yveskalume/gemini-chat</id>
-    <link href="https://github.com/yveskalume/gemini-chat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a sample project using Gemini, the Google&#39;s latest family of large language models.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;geminichat&lt;/h1&gt; &#xA;&lt;p&gt;This is a sample project using Gemini Pro and Gemini Pro Vision.&lt;/p&gt; &#xA;&lt;p&gt;Gemini is the Google&#39;s latest family of large language models. Just a small chatbot using both gemini-pro and gemini-pro-vision models.&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;For the multi-turn conversations check the &lt;a href=&#34;https://github.com/yveskalume/gemini-chat/tree/chat&#34;&gt;Chat&lt;/a&gt; Branch. But it does not support images, the gemini-pro-vision model (for text-and-image input) is not yet optimized for multi-turn conversations.&lt;/em&gt;&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/yveskalume/gemini-chat/main/preview/screenshot.png&#34; width=&#34;300&#34; alt=&#34;screenshot&#34;&gt; &#xA;&lt;p&gt;Demo video : &lt;a href=&#34;https://github.com/yveskalume/gemini-chat/raw/main/preview/geminichat.mp4&#34;&gt;https://github.com/yveskalume/gemini-chat/blob/main/preview/geminichat.mp4&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-18T01:36:11Z</updated>
+  <updated>2023-12-19T01:34:43Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LineageOS/android_packages_overlays_Lineage</title>
-    <updated>2023-12-18T01:36:11Z</updated>
-    <id>tag:github.com,2023-12-18:/LineageOS/android_packages_overlays_Lineage</id>
-    <link href="https://github.com/LineageOS/android_packages_overlays_Lineage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>marcpaterno/spack_retreat</title>
-    <updated>2023-12-18T01:36:11Z</updated>
-    <id>tag:github.com,2023-12-18:/marcpaterno/spack_retreat</id>
-    <link href="https://github.com/marcpaterno/spack_retreat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Working repo for spack retreat&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0dayResearchLab/msFuzz</title>
+    <updated>2023-12-19T01:34:43Z</updated>
+    <id>tag:github.com,2023-12-19:/0dayResearchLab/msFuzz</id>
+    <link href="https://github.com/0dayResearchLab/msFuzz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Targeting Windows Kernel Driver Fuzzer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
