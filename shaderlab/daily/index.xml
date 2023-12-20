@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-19T01:39:57Z</updated>
+  <updated>2023-12-20T01:31:01Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Anthelmed/UGUI-vs-UIToolkit</title>
+    <updated>2023-12-20T01:31:01Z</updated>
+    <id>tag:github.com,2023-12-20:/Anthelmed/UGUI-vs-UIToolkit</id>
+    <link href="https://github.com/Anthelmed/UGUI-vs-UIToolkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A project containing samples showing the differences in implementation between uGUI and UIToolkit using the same UI references&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

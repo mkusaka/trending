@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-19T01:43:37Z</updated>
+  <updated>2023-12-20T01:33:13Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jiangyuxiaoxiao/Bert-VITS2-UI</title>
-    <updated>2023-12-19T01:43:37Z</updated>
-    <id>tag:github.com,2023-12-19:/jiangyuxiaoxiao/Bert-VITS2-UI</id>
-    <link href="https://github.com/jiangyuxiaoxiao/Bert-VITS2-UI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BertVITS2前端界面&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DeepSourceCorp/good-first-issue</title>
-    <updated>2023-12-19T01:43:37Z</updated>
-    <id>tag:github.com,2023-12-19:/DeepSourceCorp/good-first-issue</id>
-    <link href="https://github.com/DeepSourceCorp/good-first-issue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Make your first open-source contribution.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

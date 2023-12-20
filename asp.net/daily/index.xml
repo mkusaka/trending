@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASP.NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-19T01:26:30Z</updated>
+  <updated>2023-12-20T01:16:58Z</updated>
   <subtitle>Daily Trending of ASP.NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>INotGreen/Webshell-loader</title>
+    <updated>2023-12-20T01:16:58Z</updated>
+    <id>tag:github.com,2023-12-20:/INotGreen/Webshell-loader</id>
+    <link href="https://github.com/INotGreen/Webshell-loader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ASPX内存执行shellcode,绕过Windows Defender（AV/EDR）&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

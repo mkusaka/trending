@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-19T01:25:45Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-12-20T01:16:08Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tuteng/Best-websites-a-programmer-should-visit-zh</title>
-    <updated>2023-12-19T01:25:45Z</updated>
-    <id>tag:github.com,2023-12-19:/tuteng/Best-websites-a-programmer-should-visit-zh</id>
-    <link href="https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;程序员应该访问的最佳网站中文版&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ActiveVisionLab/Awesome-LLM-3D</title>
+    <updated>2023-12-20T01:16:08Z</updated>
+    <id>tag:github.com,2023-12-20:/ActiveVisionLab/Awesome-LLM-3D</id>
+    <link href="https://github.com/ActiveVisionLab/Awesome-LLM-3D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world Resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fboldewin/YARA_Detection_Engineering</title>
-    <updated>2023-12-19T01:25:45Z</updated>
-    <id>tag:github.com,2023-12-19:/fboldewin/YARA_Detection_Engineering</id>
-    <link href="https://github.com/fboldewin/YARA_Detection_Engineering" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Detection Engineering with YARA&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VladimirYugay/Gaussian-SLAM</title>
+    <updated>2023-12-20T01:16:08Z</updated>
+    <id>tag:github.com,2023-12-20:/VladimirYugay/Gaussian-SLAM</id>
+    <link href="https://github.com/VladimirYugay/Gaussian-SLAM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kepano/40-questions</title>
-    <updated>2023-12-19T01:25:45Z</updated>
-    <id>tag:github.com,2023-12-19:/kepano/40-questions</id>
-    <link href="https://github.com/kepano/40-questions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Questions that I ask myself at the end of each year and each decade.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IterateAI/OpenThreatDetection</title>
+    <updated>2023-12-20T01:16:08Z</updated>
+    <id>tag:github.com,2023-12-20:/IterateAI/OpenThreatDetection</id>
+    <link href="https://github.com/IterateAI/OpenThreatDetection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Iterate.ai has open-sourced a powerful Weapons Detection AI software. The AI was trained on about 100 live guns, plus 20,000 videos of robberies and threats involving weapons. Our engineers taught the AI to detect guns, knives, kevlar vests, and robbery masks.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
