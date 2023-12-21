@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-20T01:16:08Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-12-21T01:25:41Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ActiveVisionLab/Awesome-LLM-3D</title>
-    <updated>2023-12-20T01:16:08Z</updated>
-    <id>tag:github.com,2023-12-20:/ActiveVisionLab/Awesome-LLM-3D</id>
-    <link href="https://github.com/ActiveVisionLab/Awesome-LLM-3D" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world Resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chinesehuazhou/python-weekly</title>
+    <updated>2023-12-21T01:25:41Z</updated>
+    <id>tag:github.com,2023-12-21:/chinesehuazhou/python-weekly</id>
+    <link href="https://github.com/chinesehuazhou/python-weekly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>VladimirYugay/Gaussian-SLAM</title>
-    <updated>2023-12-20T01:16:08Z</updated>
-    <id>tag:github.com,2023-12-20:/VladimirYugay/Gaussian-SLAM</id>
-    <link href="https://github.com/VladimirYugay/Gaussian-SLAM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>michaelliao/learn-python3</title>
+    <updated>2023-12-21T01:25:41Z</updated>
+    <id>tag:github.com,2023-12-21:/michaelliao/learn-python3</id>
+    <link href="https://github.com/michaelliao/learn-python3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn Python 3 Sample Code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>IterateAI/OpenThreatDetection</title>
-    <updated>2023-12-20T01:16:08Z</updated>
-    <id>tag:github.com,2023-12-20:/IterateAI/OpenThreatDetection</id>
-    <link href="https://github.com/IterateAI/OpenThreatDetection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Iterate.ai has open-sourced a powerful Weapons Detection AI software. The AI was trained on about 100 live guns, plus 20,000 videos of robberies and threats involving weapons. Our engineers taught the AI to detect guns, knives, kevlar vests, and robbery masks.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ishanoshada/GDorks</title>
+    <updated>2023-12-21T01:25:41Z</updated>
+    <id>tag:github.com,2023-12-21:/Ishanoshada/GDorks</id>
+    <link href="https://github.com/Ishanoshada/GDorks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories )&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

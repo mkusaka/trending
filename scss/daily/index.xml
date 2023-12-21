@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-20T01:30:58Z</updated>
+  <updated>2023-12-21T01:38:50Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bedimcode/responsive-landing-page-headphones</title>
-    <updated>2023-12-20T01:30:58Z</updated>
-    <id>tag:github.com,2023-12-20:/bedimcode/responsive-landing-page-headphones</id>
-    <link href="https://github.com/bedimcode/responsive-landing-page-headphones" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Responsive Landing Page Using HTML CSS &amp; JavaScript 🎧 | Headphones Website Design&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IvanTymoshchuk/eskimo</title>
+    <updated>2023-12-21T01:38:50Z</updated>
+    <id>tag:github.com,2023-12-21:/IvanTymoshchuk/eskimo</id>
+    <link href="https://github.com/IvanTymoshchuk/eskimo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Team : &#39;Escimo&#39; . Team project Ice Cream&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>resilientdb/blog</title>
-    <updated>2023-12-20T01:30:58Z</updated>
-    <id>tag:github.com,2023-12-20:/resilientdb/blog</id>
-    <link href="https://github.com/resilientdb/blog" rel="alternate"></link>
+    <title>dinhoSilwa/projetoFrontendFusion1</title>
+    <updated>2023-12-21T01:38:50Z</updated>
+    <id>tag:github.com,2023-12-21:/dinhoSilwa/projetoFrontendFusion1</id>
+    <link href="https://github.com/dinhoSilwa/projetoFrontendFusion1" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>status-im/nimbus-site</title>
+    <updated>2023-12-21T01:38:50Z</updated>
+    <id>tag:github.com,2023-12-21:/status-im/nimbus-site</id>
+    <link href="https://github.com/status-im/nimbus-site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo for the Nimbus website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

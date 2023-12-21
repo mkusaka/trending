@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-20T01:32:19Z</updated>
+  <updated>2023-12-21T01:40:18Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>F4us7/Practice_FS1_Series</title>
-    <updated>2023-12-20T01:32:19Z</updated>
-    <id>tag:github.com,2023-12-20:/F4us7/Practice_FS1_Series</id>
-    <link href="https://github.com/F4us7/Practice_FS1_Series" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Практика для второго курса ФН1-31Б (2023)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Практика для второго курса ФН1-31Б (2023)&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Задание 1: Суммирование знакочередующихся числовых последовательностей.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Задание 2: Табуляция специальных функций на основе суммирования рядов.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;Детальное описание базовой теории по теме, точные формулировки заданий и списки вариантов Вы можете найти в файле &lt;a href=&#34;https://raw.githubusercontent.com/F4us7/Practice_FS1_Series/main/Practice.pdf&#34;&gt;&lt;strong&gt;Practice.pdf&lt;/strong&gt;&lt;/a&gt;. Базовый пример программного кода (на С++) для вычисления знакочередующихся рядов можно найти в файле &lt;a href=&#34;https://raw.githubusercontent.com/F4us7/Practice_FS1_Series/main/Code_Demo.cpp&#34;&gt;&lt;strong&gt;Code_Demo.cpp&lt;/strong&gt;&lt;/a&gt;. Файл &lt;a href=&#34;https://raw.githubusercontent.com/F4us7/Practice_FS1_Series/main/2_Demo.csv&#34;&gt;&lt;strong&gt;2_Demo.csv&lt;/strong&gt;&lt;/a&gt; содержит пример оформления .csv файла с результатами ($f(x)=\sin(x), a=0, b=10$) задания 2.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;12/12/2023: Уточнения и исходный текст:&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;Было внесено минимальное уточнение в условие задачи 1 и добавлены &lt;a href=&#34;https://raw.githubusercontent.com/F4us7/Practice_FS1_Series/main/Practice_Tex/Comments.md&#34;&gt;&lt;strong&gt;исходные .tex файлы&lt;/strong&gt;&lt;/a&gt; формулировки задания практики, которые могут оказаться полезными при составлении отчёта по практике.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;&lt;ins&gt;Контакты&lt;/ins&gt; (по любым вопросам): &lt;a href=&#34;mailto:alienksee.v@gmail.com&#34;&gt;alienksee.v@gmail.com&lt;/a&gt;&lt;br&gt; Результаты практики сдаются в виде отчёта, двух .cpp файлов и одного .csv файла. Для сдачи практики можно:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Подгрузить файлы к данному репозиторию (пример файловой структуры: &lt;a href=&#34;https://raw.githubusercontent.com/F4us7/Practice_FS1_Series/main/Results/Comments.md&#34;&gt;Results/Ivanov_Var_0/...&lt;/a&gt;), сформировав pull request;&lt;/li&gt; &#xA; &lt;li&gt;Прислать ссылку на github репозиторий.&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
 </feed>

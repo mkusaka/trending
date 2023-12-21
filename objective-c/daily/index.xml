@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-20T01:27:41Z</updated>
+  <updated>2023-12-21T01:35:08Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PoisonousJohn/AiloveReel</title>
-    <updated>2023-12-20T01:27:41Z</updated>
-    <id>tag:github.com,2023-12-20:/PoisonousJohn/AiloveReel</id>
-    <link href="https://github.com/PoisonousJohn/AiloveReel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cocos2d implementation of 3d slot machine reel&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;AiloveReel&lt;/h1&gt; &#xA;&lt;p&gt;Cocos2d implementation of 3d slot machine reel&lt;/p&gt; &#xA;&lt;p&gt;Usage example&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-objective-c&#34;&gt;    AiloveReel *reelLocal = [AiloveReel reelWithTexture: texture polygonsCount: 19 symbolSize:CGSizeMake(32, 32) symbolsCount: 3 reelHeight: 32*2 ];&#xA;    reelLocal.position = ccp(50, 100);&#xA;    reelLocal.spinningBlock = ^{&#xA;        reelLocal.textureColumn = 2;&#xA;    };&#xA;    reelLocal.slowingDownBlock = ^{&#xA;        reelLocal.textureColumn = 0;&#xA;    };&#xA;    [self addChild:reelLocal];&#xA;    [reelLocal spinWithVelocity:200];&#xA;    [reelLocal runAction:[CCSequence actionOne:[CCDelayTime actionWithDuration:3.5] two:[CCCallBlock actionWithBlock:^{&#xA;        [reelLocal stopAtIndex:i];&#xA;    }]]];&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Limitations&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Symbols texture should be vertically oriented, symbols goes one by one&lt;/li&gt; &#xA; &lt;li&gt;Symbols texture width should be symbolWidth * columns&lt;/li&gt; &#xA; &lt;li&gt;Symbols texture should start and end with the same symbol in order to tile NPOT texture.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>clee/mobilepushr</title>
-    <updated>2023-12-20T01:27:41Z</updated>
-    <id>tag:github.com,2023-12-20:/clee/mobilepushr</id>
-    <link href="https://github.com/clee/mobilepushr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Native iPhone app to push pictures to Flickr&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
