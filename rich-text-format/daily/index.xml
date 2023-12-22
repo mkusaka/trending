@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-21T01:37:56Z</updated>
+  <updated>2023-12-22T01:40:26Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Spirit30/FFmpegUnityBind2</title>
-    <updated>2023-12-21T01:37:56Z</updated>
-    <id>tag:github.com,2023-12-21:/Spirit30/FFmpegUnityBind2</id>
-    <link href="https://github.com/Spirit30/FFmpegUnityBind2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-21T01:41:02Z</updated>
+  <updated>2023-12-22T01:43:10Z</updated>
   <subtitle>Daily Trending of VBA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bluetata/concise-excel-vba</title>
-    <updated>2023-12-21T01:41:02Z</updated>
-    <id>tag:github.com,2023-12-21:/bluetata/concise-excel-vba</id>
-    <link href="https://github.com/bluetata/concise-excel-vba" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Excel-vba 开发使用手册&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

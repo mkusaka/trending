@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-21T01:27:55Z</updated>
+  <updated>2023-12-22T01:28:21Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Explorama/Explorama</title>
-    <updated>2023-12-21T01:27:55Z</updated>
-    <id>tag:github.com,2023-12-21:/Explorama/Explorama</id>
-    <link href="https://github.com/Explorama/Explorama" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Explorama is a user-friendly data analytics tool designed specifically for subject matter experts and individuals without in-depth technical knowledge.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nmcfarl/donetoday</title>
+    <updated>2023-12-22T01:28:21Z</updated>
+    <id>tag:github.com,2023-12-22:/nmcfarl/donetoday</id>
+    <link href="https://github.com/nmcfarl/donetoday" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple to-done list UI, with support for adding things done today and viewing past days.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alnasfire/clojure_course_task01</title>
-    <updated>2023-12-21T01:27:55Z</updated>
-    <id>tag:github.com,2023-12-21:/alnasfire/clojure_course_task01</id>
-    <link href="https://github.com/alnasfire/clojure_course_task01" rel="alternate"></link>
+    <title>sabraham/songbird</title>
+    <updated>2023-12-22T01:28:21Z</updated>
+    <id>tag:github.com,2023-12-22:/sabraham/songbird</id>
+    <link href="https://github.com/sabraham/songbird" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jafingerhut/thalia</title>
+    <updated>2023-12-22T01:28:21Z</updated>
+    <id>tag:github.com,2023-12-22:/jafingerhut/thalia</id>
+    <link href="https://github.com/jafingerhut/thalia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of documentation for Clojure symbols&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-21T01:29:00Z</updated>
+  <updated>2023-12-22T01:30:02Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Weexyy/Alist_zeabur</title>
-    <updated>2023-12-21T01:29:00Z</updated>
-    <id>tag:github.com,2023-12-21:/Weexyy/Alist_zeabur</id>
-    <link href="https://github.com/Weexyy/Alist_zeabur" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Alist-zeabur&lt;/h1&gt; &#xA;&lt;h3&gt;如何使用？&lt;/h3&gt; &#xA;&lt;p&gt;Fork到自己的仓库，然后在Zeabur中使用Github仓库部署，找到Fork的[Alist-zeabur]，部署即可。&lt;/p&gt; &#xA;&lt;h3&gt;密码&lt;/h3&gt; &#xA;&lt;p&gt;初始密码是随机生成的，您可以通过检查控制台日志/查看数据库来获取它。&lt;/p&gt;</summary>
-  </entry>
 </feed>

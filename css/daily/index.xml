@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-21T01:28:21Z</updated>
+  <updated>2023-12-22T01:29:01Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ABPozharliev19/11th-grade-azure-static-web-app</title>
-    <updated>2023-12-21T01:28:21Z</updated>
-    <id>tag:github.com,2023-12-21:/ABPozharliev19/11th-grade-azure-static-web-app</id>
-    <link href="https://github.com/ABPozharliev19/11th-grade-azure-static-web-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Setup&lt;/h1&gt; &#xA;&lt;h2&gt;Azure Student Subscription (Optional)&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Go to &lt;code&gt;https://azure.microsoft.com/en-us&lt;/code&gt; and sign in&lt;/li&gt; &#xA; &lt;li&gt;You should be redirected to &lt;code&gt;https://portal.azure.com/#home&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ABPozharliev19/11th-grade-azure-static-web-app/main/assets/image.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/li&gt; &#xA; &lt;li&gt;Click the third card that says &lt;strong&gt;Access student benefits&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ABPozharliev19/11th-grade-azure-static-web-app/main/assets/image1.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/li&gt; &#xA; &lt;li&gt;Click on the button that says &lt;strong&gt;Sign up now&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ABPozharliev19/11th-grade-azure-static-web-app/main/assets/image2.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/li&gt; &#xA; &lt;li&gt;Click on the button that says &lt;strong&gt;Start free&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;Fill in your details and submit&lt;/li&gt; &#xA; &lt;li&gt;You now should have an Azure Student Subscription&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Github Repo&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fork the repo&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Deployment&lt;/h1&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;App should be available at &lt;code&gt;yourDomain.azurestaticapps.net&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Hints&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;You should deploy via Github Repo&lt;/li&gt; &#xA; &lt;li&gt;Build preset should be &lt;code&gt;React&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Build path is &lt;code&gt;dist&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Most of the other settings don&#39;t matter&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>DasLampe/KluftBoerse</title>
-    <updated>2023-12-21T01:28:21Z</updated>
-    <id>tag:github.com,2023-12-21:/DasLampe/KluftBoerse</id>
-    <link href="https://github.com/DasLampe/KluftBoerse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plattform zum Tauschen von alten Kluften der DPSG. (outdated)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cesurvmnc/navidad</title>
-    <updated>2023-12-21T01:28:21Z</updated>
-    <id>tag:github.com,2023-12-21:/cesurvmnc/navidad</id>
-    <link href="https://github.com/cesurvmnc/navidad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ritika-Agrawal811/css-and-js-code-snippets</title>
+    <updated>2023-12-22T01:29:01Z</updated>
+    <id>tag:github.com,2023-12-22:/Ritika-Agrawal811/css-and-js-code-snippets</id>
+    <link href="https://github.com/Ritika-Agrawal811/css-and-js-code-snippets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of real-life code snippets written in CSS and JavaScript for every web development project.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;css-and-js-code-snippets &lt;span&gt;💛&lt;/span&gt;&lt;/h1&gt; &#xA;&lt;p&gt;A collection of real-life code snippets written in CSS and JavaScript for every web development project. Each folder contains the stylesheet and script file (if required).&lt;/p&gt; &#xA;&lt;h4&gt;Categories &lt;span&gt;🍁&lt;/span&gt;&lt;/h4&gt; &#xA;&lt;p&gt;This repository is divided into mentioned categories. You may navigate accordingly to find cool web components to add to your project!&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Buttons/README.md&#34;&gt;Buttons&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Loaders/README.md&#34;&gt;Loaders&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Form%20Fields/README.md&#34;&gt;Form Fields&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Carousels/README.md&#34;&gt;Carousels&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Hover%20Effects/README.md&#34;&gt;Hover Effects&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Icons/README.md&#34;&gt;Icons&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Text%20Animations/README.md&#34;&gt;Text Animations&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Miscellaneous/README.md&#34;&gt;Miscellaneous&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-21T01:36:56Z</updated>
+  <updated>2023-12-22T01:39:12Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SWI-Prolog/packages-clpqr</title>
+    <updated>2023-12-22T01:39:12Z</updated>
+    <id>tag:github.com,2023-12-22:/SWI-Prolog/packages-clpqr</id>
+    <link href="https://github.com/SWI-Prolog/packages-clpqr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CLP(Q,R): constraints over rational numbers and floats by Leslie de Koninck&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SWI-Prolog/packages-chr</title>
+    <updated>2023-12-22T01:39:12Z</updated>
+    <id>tag:github.com,2023-12-22:/SWI-Prolog/packages-chr</id>
+    <link href="https://github.com/SWI-Prolog/packages-chr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CHR: Leuven Constraint Handling Rules&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SWI-Prolog/contrib-protobufs</title>
+    <updated>2023-12-22T01:39:12Z</updated>
+    <id>tag:github.com,2023-12-22:/SWI-Prolog/contrib-protobufs</id>
+    <link href="https://github.com/SWI-Prolog/contrib-protobufs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An interface to Google Protocol Buffers (protobuf)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

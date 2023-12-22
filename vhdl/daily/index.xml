@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-21T01:41:08Z</updated>
+  <updated>2023-12-22T01:43:13Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Cosmos-OpenSSD/Cosmos-plus-OpenSSD</title>
-    <updated>2023-12-21T01:41:08Z</updated>
-    <id>tag:github.com,2023-12-21:/Cosmos-OpenSSD/Cosmos-plus-OpenSSD</id>
-    <link href="https://github.com/Cosmos-OpenSSD/Cosmos-plus-OpenSSD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cosmos OpenSSD + Hardware and Software source distribution&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

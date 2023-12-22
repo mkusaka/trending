@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-21T01:38:39Z</updated>
+  <updated>2023-12-22T01:41:03Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pityka/egyezoek</title>
-    <updated>2023-12-21T01:38:39Z</updated>
-    <id>tag:github.com,2023-12-21:/pityka/egyezoek</id>
-    <link href="https://github.com/pityka/egyezoek" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>geminicaprograms/fp_learning</title>
+    <updated>2023-12-22T01:41:03Z</updated>
+    <id>tag:github.com,2023-12-22:/geminicaprograms/fp_learning</id>
+    <link href="https://github.com/geminicaprograms/fp_learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functional Programming learning repo&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Functional Programming assignments implementation so that it is not dropped branch version plus hotfix ;) In the mean time new changes were placed into repo + additional branch fixes. Master work was done as well RB1.1.1 plus some fixes&lt;/p&gt;</summary>
   </entry>
 </feed>

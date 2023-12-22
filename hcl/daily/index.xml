@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-21T01:30:55Z</updated>
+  <updated>2023-12-22T01:33:02Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CMS-Enterprise/batcave-tf-efs</title>
+    <updated>2023-12-22T01:33:02Z</updated>
+    <id>tag:github.com,2023-12-22:/CMS-Enterprise/batcave-tf-efs</id>
+    <link href="https://github.com/CMS-Enterprise/batcave-tf-efs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;To house repositories related to the deployment of the batCAVE platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CMS-Enterprise/batcave-tf-vpc</title>
+    <updated>2023-12-22T01:33:02Z</updated>
+    <id>tag:github.com,2023-12-22:/CMS-Enterprise/batcave-tf-vpc</id>
+    <link href="https://github.com/CMS-Enterprise/batcave-tf-vpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform modules supporting EKS deployments&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CMS-Enterprise/batcave-tf-buckets</title>
+    <updated>2023-12-22T01:33:02Z</updated>
+    <id>tag:github.com,2023-12-22:/CMS-Enterprise/batcave-tf-buckets</id>
+    <link href="https://github.com/CMS-Enterprise/batcave-tf-buckets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform modules supporting EKS deployments&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
