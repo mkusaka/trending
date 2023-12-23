@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-22T01:29:01Z</updated>
+  <updated>2023-12-23T01:27:00Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ritika-Agrawal811/css-and-js-code-snippets</title>
-    <updated>2023-12-22T01:29:01Z</updated>
-    <id>tag:github.com,2023-12-22:/Ritika-Agrawal811/css-and-js-code-snippets</id>
-    <link href="https://github.com/Ritika-Agrawal811/css-and-js-code-snippets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of real-life code snippets written in CSS and JavaScript for every web development project.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;css-and-js-code-snippets &lt;span&gt;💛&lt;/span&gt;&lt;/h1&gt; &#xA;&lt;p&gt;A collection of real-life code snippets written in CSS and JavaScript for every web development project. Each folder contains the stylesheet and script file (if required).&lt;/p&gt; &#xA;&lt;h4&gt;Categories &lt;span&gt;🍁&lt;/span&gt;&lt;/h4&gt; &#xA;&lt;p&gt;This repository is divided into mentioned categories. You may navigate accordingly to find cool web components to add to your project!&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Buttons/README.md&#34;&gt;Buttons&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Loaders/README.md&#34;&gt;Loaders&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Form%20Fields/README.md&#34;&gt;Form Fields&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Carousels/README.md&#34;&gt;Carousels&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Hover%20Effects/README.md&#34;&gt;Hover Effects&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Icons/README.md&#34;&gt;Icons&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Text%20Animations/README.md&#34;&gt;Text Animations&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ritika-Agrawal811/css-and-js-code-snippets/raw/main/Miscellaneous/README.md&#34;&gt;Miscellaneous&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>hyperweek/mx3-revamped</title>
+    <updated>2023-12-23T01:27:00Z</updated>
+    <id>tag:github.com,2023-12-23:/hyperweek/mx3-revamped</id>
+    <link href="https://github.com/hyperweek/mx3-revamped" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mx3 revamped!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;mx3&lt;/h1&gt; &#xA;&lt;p&gt;Use &lt;a href=&#34;http://middlemanapp.com/&#34;&gt;http://middlemanapp.com/&lt;/a&gt; to run the site.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>aalmiray/java-champions</title>
+    <updated>2023-12-23T01:27:00Z</updated>
+    <id>tag:github.com,2023-12-23:/aalmiray/java-champions</id>
+    <link href="https://github.com/aalmiray/java-champions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of Java Champions&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Java Champions&lt;/h1&gt; &#xA;&lt;div id=&#34;preamble&#34;&gt; &#xA; &lt;div class=&#34;sectionbody&#34;&gt; &#xA;  &lt;div class=&#34;paragraph&#34;&gt; &#xA;   &lt;p&gt;&lt;span class=&#34;image&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/aalmiray/java-champions/main/site/assets/img/duke_champion.png&#34; alt=&#34;duke champion&#34;&gt;&lt;/span&gt;&lt;/p&gt; &#xA;  &lt;/div&gt; &#xA; &lt;/div&gt; &#xA;&lt;/div&gt; &#xA;&lt;div class=&#34;sect1&#34;&gt; &#xA; &lt;h2 id=&#34;_what_is_a_java_champion&#34;&gt;What is a Java Champion?&lt;/h2&gt; &#xA; &lt;div class=&#34;sectionbody&#34;&gt; &#xA;  &lt;div class=&#34;paragraph&#34;&gt; &#xA;   &lt;p&gt;One of the best descriptions was given in the 2009 JavaOne Conference PDF:&lt;/p&gt; &#xA;  &lt;/div&gt; &#xA;  &lt;div class=&#34;paragraph&#34;&gt; &#xA;   &lt;p&gt;&#34;The Java Champions community was started by Sun at the 2005 JavaOne conference to recognize key influencers in the Java community. Java Champions are influential Rock Star presenters and Java technology educators, authors, and consultants; Java platform event organizers; and others within the Java technology ecosystem. For the third consecutive year, Java Champions have contributed to the JavaOne conference process as technical reviewers for paper submissions, have been recognized for their achievements, and have shared their thoughts about the state of the Java platform at their BOF sessions.&#34; From &lt;a href=&#34;https://raw.githubusercontent.com/aalmiray/java-champions/main/site/content/resources/javaone-2009.pdf&#34;&gt;javaone-2009.pdf&lt;/a&gt;&lt;/p&gt; &#xA;  &lt;/div&gt; &#xA;  &lt;div class=&#34;paragraph&#34;&gt; &#xA;   &lt;p&gt;Note: This list is maintained by the Java Champions themselves.&lt;/p&gt; &#xA;  &lt;/div&gt; &#xA; &lt;/div&gt; &#xA;&lt;/div&gt;</summary>
   </entry>
 </feed>

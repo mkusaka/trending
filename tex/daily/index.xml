@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-22T01:42:32Z</updated>
+  <updated>2023-12-23T01:40:25Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>unaguil/metodos_numericos</title>
+    <updated>2023-12-23T01:40:25Z</updated>
+    <id>tag:github.com,2023-12-23:/unaguil/metodos_numericos</id>
+    <link href="https://github.com/unaguil/metodos_numericos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ejercicios de la asignatura de métodos numéricos I de la UNED&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>subhylahiri/MikTeX-local</title>
+    <updated>2023-12-23T01:40:25Z</updated>
+    <id>tag:github.com,2023-12-23:/subhylahiri/MikTeX-local</id>
+    <link href="https://github.com/subhylahiri/MikTeX-local" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bib files, macro lists etc. for including in all other LaTeX projects&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MikTeX-local&lt;/h1&gt; &#xA;&lt;p&gt;Bib files, macro lists etc. for including in all other LaTeX projects&lt;/p&gt; &#xA;&lt;h2&gt;CTAN packages&lt;/h2&gt; &#xA;&lt;p&gt;You&#39;ll need&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;a4wide&lt;/li&gt; &#xA; &lt;li&gt;ntgclass&lt;/li&gt; &#xA; &lt;li&gt;natbib&lt;/li&gt; &#xA; &lt;li&gt;url&lt;/li&gt; &#xA; &lt;li&gt;xcolor&lt;/li&gt; &#xA; &lt;li&gt;mptopdf&lt;/li&gt; &#xA; &lt;li&gt;beamer&lt;/li&gt; &#xA; &lt;li&gt;pgf&lt;/li&gt; &#xA; &lt;li&gt;ms&lt;/li&gt; &#xA; &lt;li&gt;sansmathaccent&lt;/li&gt; &#xA; &lt;li&gt;filehook&lt;/li&gt; &#xA; &lt;li&gt;appendixnumberbeamer&lt;/li&gt; &#xA; &lt;li&gt;etoolbox&lt;/li&gt; &#xA; &lt;li&gt;adjustbox&lt;/li&gt; &#xA; &lt;li&gt;collectbox&lt;/li&gt; &#xA; &lt;li&gt;tcolorbox&lt;/li&gt; &#xA; &lt;li&gt;environ&lt;/li&gt; &#xA; &lt;li&gt;trimspaces&lt;/li&gt; &#xA; &lt;li&gt;type1cm&lt;/li&gt; &#xA; &lt;li&gt;fp&lt;/li&gt; &#xA; &lt;li&gt;caption&lt;/li&gt; &#xA; &lt;li&gt;paralist&lt;/li&gt; &#xA; &lt;li&gt;cancel&lt;/li&gt; &#xA; &lt;li&gt;appendix&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

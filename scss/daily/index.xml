@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-22T01:41:12Z</updated>
+  <updated>2023-12-23T01:38:45Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cmu-csd-phd/csd-blog</title>
-    <updated>2023-12-22T01:41:12Z</updated>
-    <id>tag:github.com,2023-12-22:/cmu-csd-phd/csd-blog</id>
-    <link href="https://github.com/cmu-csd-phd/csd-blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CSD Blog&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apache/incubator-seata-website</title>
+    <updated>2023-12-23T01:38:45Z</updated>
+    <id>tag:github.com,2023-12-23:/apache/incubator-seata-website</id>
+    <link href="https://github.com/apache/incubator-seata-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache Seata(incubating) Website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

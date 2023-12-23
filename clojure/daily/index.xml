@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-22T01:28:21Z</updated>
+  <updated>2023-12-23T01:26:31Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nmcfarl/donetoday</title>
-    <updated>2023-12-22T01:28:21Z</updated>
-    <id>tag:github.com,2023-12-22:/nmcfarl/donetoday</id>
-    <link href="https://github.com/nmcfarl/donetoday" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple to-done list UI, with support for adding things done today and viewing past days.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sabraham/songbird</title>
-    <updated>2023-12-22T01:28:21Z</updated>
-    <id>tag:github.com,2023-12-22:/sabraham/songbird</id>
-    <link href="https://github.com/sabraham/songbird" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jafingerhut/thalia</title>
-    <updated>2023-12-22T01:28:21Z</updated>
-    <id>tag:github.com,2023-12-22:/jafingerhut/thalia</id>
-    <link href="https://github.com/jafingerhut/thalia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of documentation for Clojure symbols&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

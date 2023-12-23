@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-22T01:41:17Z</updated>
+  <updated>2023-12-23T01:38:51Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wukongdaily/diy-nas-onescript</title>
+    <updated>2023-12-23T01:38:51Z</updated>
+    <id>tag:github.com,2023-12-23:/wukongdaily/diy-nas-onescript</id>
+    <link href="https://github.com/wukongdaily/diy-nas-onescript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;这是一个适用于在debian系统上部署nas常用软件的脚本。它可以帮助用户快速安装想要的软件环境和docker应用。&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;diy-nas-onescript&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img alt=&#34;GitHub Repo stars&#34; src=&#34;https://img.shields.io/github/stars/wukongdaily/diy-nas-onescript?labelColor=%23FF8C00&amp;amp;color=black&#34;&gt; &lt;img alt=&#34;GitHub License&#34; src=&#34;https://img.shields.io/github/license/wukongdaily/diy-nas-onescript?labelColor=%23FF4500&amp;amp;color=black&#34;&gt; &lt;img alt=&#34;GitHub forks&#34; src=&#34;https://img.shields.io/github/forks/wukongdaily/diy-nas-onescript?labelColor=%238A2BE2&amp;amp;color=black&#34;&gt; &lt;img alt=&#34;GitHub release (by tag)&#34; src=&#34;https://img.shields.io/github/downloads/wukongdaily/diy-nas-onescript/20231204/total?label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&amp;amp;labelColor=%2332CD32&amp;amp;color=black&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;这是一个适用于在deepin v23beta2 系统上部署nas常用软件的脚本。它可以帮助用户快速安装想要的软件环境和docker应用。&lt;/p&gt; &#xA;&lt;h2&gt;❤&lt;a href=&#34;https://github.com/wukongdaily/diy-nas-onescript/wiki&#34;&gt;使用方法 Wiki&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;h2&gt;‼️&lt;a href=&#34;https://github.com/wukongdaily/diy-nas-onescript/issues&#34;&gt;提BUG&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;h2&gt;适配系统&lt;/h2&gt; &#xA;&lt;p&gt;✅ Deepin v23beta2&lt;br&gt; ✅ Deepin v20.9&lt;/p&gt; &#xA;&lt;h2&gt;相关项目&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://bbs.deepin.org/post/209756&#34;&gt;https://bbs.deepin.org/post/209756&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://github.com/IceWhaleTech/CasaOS&#34;&gt;https://github.com/IceWhaleTech/CasaOS&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://github.com/orgs/linuxdeepin/projects/29/views/2&#34;&gt;https://github.com/orgs/linuxdeepin/projects/29/views/2&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://www.deepin.org/zh/deepin-v23-beta2-released/&#34;&gt;https://www.deepin.org/zh/deepin-v23-beta2-released/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;截图&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/wukongdaily/diy-nas-onescript/assets/143675923/3e132260-ff1a-4bc7-9b53-16cf7c466fae&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>king-hacking/King-Hacking</title>
+    <updated>2023-12-23T01:38:51Z</updated>
+    <id>tag:github.com,2023-12-23:/king-hacking/King-Hacking</id>
+    <link href="https://github.com/king-hacking/King-Hacking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Now you can download the most powerful tools using this simple script&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Now you can download the most powerful tools using this simple script&lt;/h2&gt; &#xA;&lt;h3&gt;Screenshot&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;http://www.m9c.net/uploads/15563553591.jpg&#34; alt=&#34;Screen&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Installations&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone https://github.com/king-hacking/King-Hacking.git&#xA;cd King-Hacking&#xA;bash King-Tools.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;My Accounts&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://t.me/w_e_a&#34;&gt;TELEGRAM&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.facebook.com/king.hacking.sy&#34;&gt;FACEBOOK&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://instagram.com/king1hacking&#34;&gt;INSTAGRAM&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

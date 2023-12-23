@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-22T01:37:14Z</updated>
+  <updated>2023-12-23T01:34:19Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nix-community/napalm</title>
-    <updated>2023-12-22T01:37:14Z</updated>
-    <id>tag:github.com,2023-12-22:/nix-community/napalm</id>
-    <link href="https://github.com/nix-community/napalm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Support for building npm packages in Nix and lightweight npm registry [maintainer @jtojnar]&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mlyxshi/flake</title>
+    <updated>2023-12-23T01:34:19Z</updated>
+    <id>tag:github.com,2023-12-23:/mlyxshi/flake</id>
+    <link href="https://github.com/mlyxshi/flake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

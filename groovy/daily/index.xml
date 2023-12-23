@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-22T01:32:49Z</updated>
+  <updated>2023-12-23T01:30:07Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>youngsoul/DynamicPropertiesPlugin</title>
-    <updated>2023-12-22T01:32:49Z</updated>
-    <id>tag:github.com,2023-12-22:/youngsoul/DynamicPropertiesPlugin</id>
-    <link href="https://github.com/youngsoul/DynamicPropertiesPlugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plugin to support dynamic properties on a Domain class&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

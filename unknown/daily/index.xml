@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-22T01:25:25Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-12-23T01:23:42Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>borusyak/are213</title>
-    <updated>2023-12-22T01:25:25Z</updated>
-    <id>tag:github.com,2023-12-22:/borusyak/are213</id>
-    <link href="https://github.com/borusyak/are213" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PhD Applied Econometrics class taught at UC Berkeley&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gpt-engineer-org/gptengineer.app</title>
+    <updated>2023-12-23T01:23:42Z</updated>
+    <id>tag:github.com,2023-12-23:/gpt-engineer-org/gptengineer.app</id>
+    <link href="https://github.com/gpt-engineer-org/gptengineer.app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rapid prototyping of web apps using plain english 👶🤖&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mesquidar/ForensicsTools</title>
-    <updated>2023-12-22T01:25:25Z</updated>
-    <id>tag:github.com,2023-12-22:/mesquidar/ForensicsTools</id>
-    <link href="https://github.com/mesquidar/ForensicsTools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of free and open forensics analysis tools and other resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ashishps1/awesome-low-level-design</title>
+    <updated>2023-12-23T01:23:42Z</updated>
+    <id>tag:github.com,2023-12-23:/ashishps1/awesome-low-level-design</id>
+    <link href="https://github.com/ashishps1/awesome-low-level-design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains low level design resources to improve coding skills and prepare for interviews.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GT-RIPL/Awesome-LLM-Robotics</title>
-    <updated>2023-12-22T01:25:25Z</updated>
-    <id>tag:github.com,2023-12-22:/GT-RIPL/Awesome-LLM-Robotics</id>
-    <link href="https://github.com/GT-RIPL/Awesome-LLM-Robotics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yetzt/null-island</title>
+    <updated>2023-12-23T01:23:42Z</updated>
+    <id>tag:github.com,2023-12-23:/yetzt/null-island</id>
+    <link href="https://github.com/yetzt/null-island" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A design reflection about the representation of missing values.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

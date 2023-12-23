@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-22T01:43:23Z</updated>
+  <updated>2023-12-23T01:41:27Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xiaoxiaolulu/EasyPost</title>
-    <updated>2023-12-22T01:43:23Z</updated>
-    <id>tag:github.com,2023-12-22:/xiaoxiaolulu/EasyPost</id>
-    <link href="https://github.com/xiaoxiaolulu/EasyPost" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MetaLowCodeTeam/MetaLowCode</title>
+    <updated>2023-12-23T01:41:27Z</updated>
+    <id>tag:github.com,2023-12-23:/MetaLowCodeTeam/MetaLowCode</id>
+    <link href="https://github.com/MetaLowCodeTeam/MetaLowCode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MetaLowCode——美乐低代码，企业级全栈低代码开发平台。私有部署，源码交付。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xiaoqing-tan/vue3dashboard</title>
+    <updated>2023-12-23T01:41:27Z</updated>
+    <id>tag:github.com,2023-12-23:/xiaoqing-tan/vue3dashboard</id>
+    <link href="https://github.com/xiaoqing-tan/vue3dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款基于Vue3+tailwindcss+Element Plus的后台管理系统&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

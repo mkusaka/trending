@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-22T01:27:20Z</updated>
+  <updated>2023-12-23T01:25:42Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SebLague/Tiny-Chess-Bot-Challenge-Results</title>
+    <updated>2023-12-23T01:25:42Z</updated>
+    <id>tag:github.com,2023-12-23:/SebLague/Tiny-Chess-Bot-Challenge-Results</id>
+    <link href="https://github.com/SebLague/Tiny-Chess-Bot-Challenge-Results" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Games, results, and source code of bots entered into the &lt;a href=&#34;https://www.youtube.com/watch?v=Ne40a5LkK6A&#34;&gt;Tiny Chess Bot Coding Challenge&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;You can find the rankings of the main tournament in Swiss/Results.txt (note that #57 was removed as a duplicate of #62 prior to creating the knockout pairings). The format of the file is: &lt;code&gt;ID | Bot Name | Author Name/s | Score (win = 2, draw = 1, loss = 0) | Tiebreak&lt;/code&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

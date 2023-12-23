@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-22T01:26:55Z</updated>
+  <updated>2023-12-23T01:25:07Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EbolaMan-YT/IPTOOLKIT</title>
+    <updated>2023-12-23T01:25:07Z</updated>
+    <id>tag:github.com,2023-12-23:/EbolaMan-YT/IPTOOLKIT</id>
+    <link href="https://github.com/EbolaMan-YT/IPTOOLKIT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;just sum simple network stuff&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rsm28/lethal_company_batch_files</title>
+    <updated>2023-12-23T01:25:07Z</updated>
+    <id>tag:github.com,2023-12-23:/rsm28/lethal_company_batch_files</id>
+    <link href="https://github.com/rsm28/lethal_company_batch_files" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
