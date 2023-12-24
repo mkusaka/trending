@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-23T01:29:18Z</updated>
+  <updated>2023-12-24T01:33:35Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Saplings-Projects/1M_sub</title>
-    <updated>2023-12-23T01:29:18Z</updated>
-    <id>tag:github.com,2023-12-23:/Saplings-Projects/1M_sub</id>
-    <link href="https://github.com/Saplings-Projects/1M_sub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Game project for Fauna&#39;s 1M sub : a dungeon crawler&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

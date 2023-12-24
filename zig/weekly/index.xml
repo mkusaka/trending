@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-24T02:02:21Z</updated>
+  <subtitle>Weekly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kristoff-it/zine</title>
+    <updated>2023-12-24T02:02:21Z</updated>
+    <id>tag:github.com,2023-12-24:/kristoff-it/zine</id>
+    <link href="https://github.com/kristoff-it/zine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A static website generator built on top of `zig build`&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

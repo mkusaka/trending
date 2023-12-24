@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ShaderLab Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-24T01:59:20Z</updated>
+  <subtitle>Weekly Trending of ShaderLab in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kaze-mio/NahidaRenderProject</title>
+    <updated>2023-12-24T01:59:20Z</updated>
+    <id>tag:github.com,2023-12-24:/kaze-mio/NahidaRenderProject</id>
+    <link href="https://github.com/kaze-mio/NahidaRenderProject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Unity sample project, for rendering Genshin characters like Nahida.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

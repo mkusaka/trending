@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-24T01:59:51Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Cyfrin/sc-exploits-minimized</title>
+    <updated>2023-12-24T01:59:51Z</updated>
+    <id>tag:github.com,2023-12-24:/Cyfrin/sc-exploits-minimized</id>
+    <link href="https://github.com/Cyfrin/sc-exploits-minimized" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repo to showcase web3 hacks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pcaversaccio/createx</title>
+    <updated>2023-12-24T01:59:51Z</updated>
+    <id>tag:github.com,2023-12-24:/pcaversaccio/createx</id>
+    <link href="https://github.com/pcaversaccio/createx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Factory smart contract to make easier and safer usage of the `CREATE` and `CREATE2` EVM opcodes as well as of `CREATE3`-based (i.e. without an initcode factor) contract creations.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>0x01010110/corecfxs</title>
+    <updated>2023-12-24T01:59:51Z</updated>
+    <id>tag:github.com,2023-12-24:/0x01010110/corecfxs</id>
+    <link href="https://github.com/0x01010110/corecfxs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

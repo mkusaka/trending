@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-23T01:40:46Z</updated>
+  <updated>2023-12-24T01:43:38Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>crowdsecurity/cs-whm-plugin</title>
-    <updated>2023-12-23T01:40:46Z</updated>
-    <id>tag:github.com,2023-12-23:/crowdsecurity/cs-whm-plugin</id>
-    <link href="https://github.com/crowdsecurity/cs-whm-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WHM plugin to better control the Security Engine&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

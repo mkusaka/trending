@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-23T01:34:32Z</updated>
+  <updated>2023-12-24T01:38:21Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>volcengine/TTSDK-iOS</title>
+    <updated>2023-12-24T01:38:21Z</updated>
+    <id>tag:github.com,2023-12-24:/volcengine/TTSDK-iOS</id>
+    <link href="https://github.com/volcengine/TTSDK-iOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;TTSDK&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;iOS&lt;/strong&gt; demo project for &lt;a href=&#34;https://github.com/volcengine/volcengine-specs/tree/master/TTSDK&#34;&gt;TTSDK&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Download&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ brew install git-lfs&#xA;$ git lfs install&#xA;$ git lfs clone https://github.com/volcengine/TTSDK-iOS.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Before Run&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ cd TTSDK-iOS/TTSDKDemo&#xA;$ pod install --repo-update&#xA;$ open TTSDKDemo.xcworkspace&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>volcengine/veGame</title>
+    <updated>2023-12-24T01:38:21Z</updated>
+    <id>tag:github.com,2023-12-24:/volcengine/veGame</id>
+    <link href="https://github.com/volcengine/veGame" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;veGame sample code (for Android, iOS, and Web/H5)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;veGame 介绍&lt;/h1&gt; &#xA;&lt;p&gt;火山引擎云游戏结合云计算和超低延迟音视频传输技术、灵活的资源调度方案、多终端跨平台适配的 SDK 和 OpenAPI 接口，为客户提供全方位整体云游戏技术解决方案。&lt;/p&gt; &#xA;&lt;p&gt;开发者无需适配不同的软硬件平台，即可将游戏部署到服务端提供云游戏服务。本仓库提供 Android、iOS、Web/H5 客户端 Quick Start Demo 工程文件下载，帮助开发者快速搭建示例，体验云游戏服务。&lt;/p&gt; &#xA;&lt;h2&gt;接入文档&lt;/h2&gt; &#xA;&lt;p&gt;如果查看页面时显示页面不存在，可能是因为你没有权限，请参考 &lt;a href=&#34;https://www.volcengine.com/docs/6512/75577&#34;&gt;开通云游戏服务&lt;/a&gt; 说明文档，获取相关权限。&lt;/p&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;&lt;strong&gt;平台&lt;/strong&gt;&lt;/th&gt; &#xA;   &lt;th&gt;&lt;strong&gt;SDK 下载&lt;/strong&gt;&lt;/th&gt; &#xA;   &lt;th&gt;&lt;strong&gt;SDK 接口文档&lt;/strong&gt;&lt;/th&gt; &#xA;   &lt;th&gt;&lt;strong&gt;OpenAPI 参考文档&lt;/strong&gt;&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;Android&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.volcengine.com/docs/6512/75594&#34;&gt;下载&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.volcengine.com/docs/6512/75595&#34;&gt;文档&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.volcengine.com/docs/6512/75581&#34;&gt;文档&lt;/a&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;iOS&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.volcengine.com/docs/6512/75594&#34;&gt;下载&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.volcengine.com/docs/6512/75596&#34;&gt;文档&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.volcengine.com/docs/6512/75581&#34;&gt;文档&lt;/a&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;Web/H5&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.volcengine.com/docs/6512/75594&#34;&gt;下载&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.volcengine.com/docs/6512/75597&#34;&gt;文档&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.volcengine.com/docs/6512/75581&#34;&gt;文档&lt;/a&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;h2&gt;联系我们&lt;/h2&gt; &#xA;&lt;p&gt;如果您遇到任何问题，可通过火山引擎 &lt;a href=&#34;https://www.volcengine.com/product/veGame&#34;&gt;云游戏产品主页&lt;/a&gt; 获取帮助，我们会竭力为您提供帮助。&lt;/p&gt;</summary>
+  </entry>
 </feed>

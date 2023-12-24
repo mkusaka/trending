@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stylus Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-23T01:39:44Z</updated>
+  <updated>2023-12-24T01:42:52Z</updated>
   <subtitle>Daily Trending of Stylus in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>D-Sketon/hexo-theme-reimu</title>
-    <updated>2023-12-23T01:39:44Z</updated>
-    <id>tag:github.com,2023-12-23:/D-Sketon/hexo-theme-reimu</id>
-    <link href="https://github.com/D-Sketon/hexo-theme-reimu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一款博丽灵梦风格的Hexo主题 | A Hakurei Reimu style Hexo theme.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

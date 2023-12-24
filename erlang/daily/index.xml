@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-23T01:28:41Z</updated>
+  <updated>2023-12-24T01:33:01Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>heroku/canal_lock</title>
+    <updated>2023-12-24T01:33:01Z</updated>
+    <id>tag:github.com,2023-12-24:/heroku/canal_lock</id>
+    <link href="https://github.com/heroku/canal_lock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang lock manager for concurrently variable resource numbers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>heroku/sdiff</title>
+    <updated>2023-12-24T01:33:01Z</updated>
+    <id>tag:github.com,2023-12-24:/heroku/sdiff</id>
+    <link href="https://github.com/heroku/sdiff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;merkle tree-based state replication from master to followers, with a live stream of data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>heroku/ranch_proxy_protocol</title>
+    <updated>2023-12-24T01:33:01Z</updated>
+    <id>tag:github.com,2023-12-24:/heroku/ranch_proxy_protocol</id>
+    <link href="https://github.com/heroku/ranch_proxy_protocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PROXY protocol support for ranch&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

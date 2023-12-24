@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-24T01:47:29Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rchunduru/tiny-cli</title>
+    <updated>2023-12-24T01:47:29Z</updated>
+    <id>tag:github.com,2023-12-24:/rchunduru/tiny-cli</id>
+    <link href="https://github.com/rchunduru/tiny-cli" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tiny CLI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HubSpot/documentation-example</title>
+    <updated>2023-12-24T01:47:29Z</updated>
+    <id>tag:github.com,2023-12-24:/HubSpot/documentation-example</id>
+    <link href="https://github.com/HubSpot/documentation-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HubSpot open source project documentation example&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HubSpot/vee</title>
+    <updated>2023-12-24T01:47:29Z</updated>
+    <id>tag:github.com,2023-12-24:/HubSpot/vee</id>
+    <link href="https://github.com/HubSpot/vee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A personal proxy server for web developers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

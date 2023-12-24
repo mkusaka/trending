@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Processing Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-24T01:57:13Z</updated>
+  <subtitle>Weekly Trending of Processing in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SimonsMine/EyeStutter</title>
+    <updated>2023-12-24T01:57:13Z</updated>
+    <id>tag:github.com,2023-12-24:/SimonsMine/EyeStutter</id>
+    <link href="https://github.com/SimonsMine/EyeStutter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a simple VJ tool to create magical imagery with video and sound&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

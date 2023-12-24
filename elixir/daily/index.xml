@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-23T01:28:24Z</updated>
+  <updated>2023-12-24T01:32:42Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sabiwara/aja</title>
-    <updated>2023-12-23T01:28:24Z</updated>
-    <id>tag:github.com,2023-12-23:/sabiwara/aja</id>
-    <link href="https://github.com/sabiwara/aja" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extension of the Elixir standard library focused on data stuctures, data manipulation and performance&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-24T01:51:13Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>devopstia/terraform-course-del</title>
+    <updated>2023-12-24T01:51:13Z</updated>
+    <id>tag:github.com,2023-12-24:/devopstia/terraform-course-del</id>
+    <link href="https://github.com/devopstia/terraform-course-del" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DevOps Easy Learning AWS and Azure Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aws-ia/terraform-aws-eks-blueprints-addon</title>
+    <updated>2023-12-24T01:51:13Z</updated>
+    <id>tag:github.com,2023-12-24:/aws-ia/terraform-aws-eks-blueprints-addon</id>
+    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints-addon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform AWS module which creates an EKS addon (helm release + IRSA)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LondheShubham153/terraform-practice</title>
+    <updated>2023-12-24T01:51:13Z</updated>
+    <id>tag:github.com,2023-12-24:/LondheShubham153/terraform-practice</id>
+    <link href="https://github.com/LondheShubham153/terraform-practice" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;some practice terraform scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

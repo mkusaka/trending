@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-12-24T01:56:34Z</updated>
+  <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>RomanYankovsky/ndyacclex</title>
+    <updated>2023-12-24T01:56:34Z</updated>
+    <id>tag:github.com,2023-12-24:/RomanYankovsky/ndyacclex</id>
+    <link href="https://github.com/RomanYankovsky/ndyacclex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parser generator toolset for Delphi (Yacc &amp; Lex)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

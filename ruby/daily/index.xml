@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-23T01:38:11Z</updated>
+  <updated>2023-12-24T01:41:34Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ecoologic/ember_raffler</title>
+    <updated>2023-12-24T01:41:34Z</updated>
+    <id>tag:github.com,2023-12-24:/ecoologic/ember_raffler</id>
+    <link href="https://github.com/ecoologic/ember_raffler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;railscasts episode 408 on ember.js&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;Working: Yes&lt;/li&gt; &#xA; &lt;li&gt;Interesting: Not really&lt;/li&gt; &#xA; &lt;li&gt;Progress: Complete&lt;/li&gt; &#xA; &lt;li&gt;Purpose: Experiment&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;== Railscasts Ember.js Raffler episode 408&lt;/p&gt; &#xA;&lt;p&gt;Highlights&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;working&lt;/li&gt; &#xA; &lt;li&gt;complete&lt;/li&gt; &#xA; &lt;li&gt;baby-step commits&lt;/li&gt; &#xA; &lt;li&gt;ember 1.0.0-rc.1&lt;/li&gt; &#xA; &lt;li&gt;rails 4.0.alpha1 (Ryan was on 3.2)&lt;/li&gt; &#xA; &lt;li&gt;ruby 2.0-p0&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>johnh4/first_app</title>
+    <updated>2023-12-24T01:41:34Z</updated>
+    <id>tag:github.com,2023-12-24:/johnh4/first_app</id>
+    <link href="https://github.com/johnh4/first_app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The first app for the Ruby on Rails Tutorial&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ruby on Rails Tutorial: first application&lt;/h1&gt; &#xA;&lt;p&gt;This is the first application for &lt;a href=&#34;http://railstutorial.org/&#34;&gt;&lt;em&gt;Ruby on Rails Tutorial: Learn Rails by Example&lt;/em&gt;&lt;/a&gt; by &lt;a href=&#34;http://michaelhartl.com/&#34;&gt;Michael Hartl&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>discourse/discourse-splash-screen</title>
+    <updated>2023-12-24T01:41:34Z</updated>
+    <id>tag:github.com,2023-12-24:/discourse/discourse-splash-screen</id>
+    <link href="https://github.com/discourse/discourse-splash-screen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A welcome splash screen for first time users&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;strong&gt;Splash Screen&lt;/strong&gt;&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;Theme Summary&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;For more information, please see: &lt;strong&gt;url to meta topic&lt;/strong&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
