@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-24T01:30:40Z</updated>
+  <updated>2023-12-25T01:28:01Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>heroku/node-version-resolver</title>
-    <updated>2023-12-24T01:30:40Z</updated>
-    <id>tag:github.com,2023-12-24:/heroku/node-version-resolver</id>
-    <link href="https://github.com/heroku/node-version-resolver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Give me a semver range and I&#39;ll tell you the latest node version that satisfies it.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>heroku/websocket-demo</title>
-    <updated>2023-12-24T01:30:40Z</updated>
-    <id>tag:github.com,2023-12-24:/heroku/websocket-demo</id>
-    <link href="https://github.com/heroku/websocket-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nprapps/totebot</title>
-    <updated>2023-12-24T01:30:40Z</updated>
-    <id>tag:github.com,2023-12-24:/nprapps/totebot</id>
-    <link href="https://github.com/nprapps/totebot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;THIS IS NOT THE REPO YOU WANT. YOU WANT THIS ONE: https://github.com/nprapps/totebot2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

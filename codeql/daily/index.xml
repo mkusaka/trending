@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CodeQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-24T01:30:38Z</updated>
+  <updated>2023-12-25T01:28:02Z</updated>
   <subtitle>Daily Trending of CodeQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ice-doom/CodeQLRule</title>
-    <updated>2023-12-24T01:30:38Z</updated>
-    <id>tag:github.com,2023-12-24:/ice-doom/CodeQLRule</id>
-    <link href="https://github.com/ice-doom/CodeQLRule" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;个人使用CodeQL编写的一些规则&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

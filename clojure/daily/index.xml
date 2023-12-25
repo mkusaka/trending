@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-24T01:30:33Z</updated>
+  <updated>2023-12-25T01:27:55Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>heroku/kensa-create-clojure</title>
-    <updated>2023-12-24T01:30:33Z</updated>
-    <id>tag:github.com,2023-12-24:/heroku/kensa-create-clojure</id>
-    <link href="https://github.com/heroku/kensa-create-clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[DEPRECATED] Clojure template Heroku add-on for kensa create --template flag&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>heroku/pulse</title>
-    <updated>2023-12-24T01:30:33Z</updated>
-    <id>tag:github.com,2023-12-24:/heroku/pulse</id>
-    <link href="https://github.com/heroku/pulse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DEPRECATED: Real-time Heroku operations dashboard&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cjohansen/powerblog</title>
-    <updated>2023-12-24T01:30:33Z</updated>
-    <id>tag:github.com,2023-12-24:/cjohansen/powerblog</id>
-    <link href="https://github.com/cjohansen/powerblog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A step-by-step tutorial for building a static site with Stasis Powerpack&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jimbarritt/wedding-photos</title>
+    <updated>2023-12-25T01:27:55Z</updated>
+    <id>tag:github.com,2023-12-25:/jimbarritt/wedding-photos</id>
+    <link href="https://github.com/jimbarritt/wedding-photos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An app for choosing wedding photos&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

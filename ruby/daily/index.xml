@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-24T01:41:34Z</updated>
+  <updated>2023-12-25T01:39:12Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ecoologic/ember_raffler</title>
-    <updated>2023-12-24T01:41:34Z</updated>
-    <id>tag:github.com,2023-12-24:/ecoologic/ember_raffler</id>
-    <link href="https://github.com/ecoologic/ember_raffler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;railscasts episode 408 on ember.js&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;Working: Yes&lt;/li&gt; &#xA; &lt;li&gt;Interesting: Not really&lt;/li&gt; &#xA; &lt;li&gt;Progress: Complete&lt;/li&gt; &#xA; &lt;li&gt;Purpose: Experiment&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;== Railscasts Ember.js Raffler episode 408&lt;/p&gt; &#xA;&lt;p&gt;Highlights&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;working&lt;/li&gt; &#xA; &lt;li&gt;complete&lt;/li&gt; &#xA; &lt;li&gt;baby-step commits&lt;/li&gt; &#xA; &lt;li&gt;ember 1.0.0-rc.1&lt;/li&gt; &#xA; &lt;li&gt;rails 4.0.alpha1 (Ryan was on 3.2)&lt;/li&gt; &#xA; &lt;li&gt;ruby 2.0-p0&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>johnh4/first_app</title>
-    <updated>2023-12-24T01:41:34Z</updated>
-    <id>tag:github.com,2023-12-24:/johnh4/first_app</id>
-    <link href="https://github.com/johnh4/first_app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The first app for the Ruby on Rails Tutorial&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ruby on Rails Tutorial: first application&lt;/h1&gt; &#xA;&lt;p&gt;This is the first application for &lt;a href=&#34;http://railstutorial.org/&#34;&gt;&lt;em&gt;Ruby on Rails Tutorial: Learn Rails by Example&lt;/em&gt;&lt;/a&gt; by &lt;a href=&#34;http://michaelhartl.com/&#34;&gt;Michael Hartl&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>discourse/discourse-splash-screen</title>
-    <updated>2023-12-24T01:41:34Z</updated>
-    <id>tag:github.com,2023-12-24:/discourse/discourse-splash-screen</id>
-    <link href="https://github.com/discourse/discourse-splash-screen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A welcome splash screen for first time users&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;strong&gt;Splash Screen&lt;/strong&gt;&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;Theme Summary&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;For more information, please see: &lt;strong&gt;url to meta topic&lt;/strong&gt;&lt;/p&gt;</summary>
+    <title>civiccc/stars-causes</title>
+    <updated>2023-12-25T01:39:12Z</updated>
+    <id>tag:github.com,2023-12-25:/civiccc/stars-causes</id>
+    <link href="https://github.com/civiccc/stars-causes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Description&lt;/h1&gt; &#xA;&lt;p&gt;Stars is a Rails 2.3 application where you can publicly thank or praise a friend by giving them one of several &#34;Stars&#34; (e.g. Teambuilding, Cleaning, Creative, Detective, etc). Everyone who is signed up for Stars will receive an email about the star that was just given, and anyone can &#34;+1&#34; a Star by &#34;Seconding&#34; it.&lt;/p&gt; &#xA;&lt;p&gt;A main goal of Stars is to foster a supportive and appreciative atmosphere. Stars is commonly deployed in small software start-ups, but could work well in different organizations of various sizes.&lt;/p&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;h2&gt;Locally&lt;/h2&gt; &#xA;&lt;p&gt;Stars works on most Ruby versions (1.8.7, 1.9.2, 1.9.3) and Rails 2.3. Ruby 2.0 is currently not supported due to the old Rails dependency. To install locally (Linux / OS X):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone https://github.com/causes/stars-causes stars&#xA;cd stars&#xA;bundle install&#xA;cp config/database.yml{.example,}&#xA;bundle exec rake db:migrate&#xA;script/server&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Heroku&lt;/h2&gt; &#xA;&lt;p&gt;If you&#39;d like to deploy this to Heroku as well:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;heroku create stars-myorg&#xA;git push heroku master&#xA;heroku run rake db:migrate&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Configuration through Environment Variables&lt;/h2&gt; &#xA;&lt;p&gt;Sensitive information isn&#39;t kept in the repository and needs to be passed to the web server through environment variables. At a bare minimum, this includes:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;STARS_SESSION_KEY=_mycustomdomain_stars&#xA;STARS_SESSION_SECRET=&amp;lt;randomly generated secret&amp;gt;&#xA;GMAIL_SMTP_DOMAIN=mycustomdomain.com&#xA;GMAIL_SMTP_PASSWORD=&#xA;GMAIL_SMTP_USER=stars@mycustomdomain.com&#xA;MAIL_RECIPIENTS=all@mycustomdomain.com&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;If you&#39;re running on Heroku, you can set the environment variables via:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;heroku add:config STARS_SESSION_KEY=_mysite_stars STARS_SESSION_SECRET=...&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;(as a reminder, you can dump these configs from Heroku with &lt;code&gt;heroku shell -s&lt;/code&gt;)&lt;/p&gt;</summary>
   </entry>
 </feed>

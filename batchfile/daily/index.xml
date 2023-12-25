@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-24T01:28:59Z</updated>
+  <updated>2023-12-25T01:26:45Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>secretGeek/dod</title>
-    <updated>2023-12-24T01:28:59Z</updated>
-    <id>tag:github.com,2023-12-24:/secretGeek/dod</id>
-    <link href="https://github.com/secretGeek/dod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DOS on dope. The last MVC Web framework you&#39;ll ever need&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rjcncpt/StarCitizen-Deutsch-INI</title>
+    <updated>2023-12-25T01:26:45Z</updated>
+    <id>tag:github.com,2023-12-25:/rjcncpt/StarCitizen-Deutsch-INI</id>
+    <link href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deutsche Lokalisierung für Star Citizen LIVE und PTU&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EbolaMan-YT/PsExec</title>
-    <updated>2023-12-24T01:28:59Z</updated>
-    <id>tag:github.com,2023-12-24:/EbolaMan-YT/PsExec</id>
-    <link href="https://github.com/EbolaMan-YT/PsExec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PsExec batch file but better&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Zusier/Zusiers-optimization-Batch</title>
-    <updated>2023-12-24T01:28:59Z</updated>
-    <id>tag:github.com,2023-12-24:/Zusier/Zusiers-optimization-Batch</id>
-    <link href="https://github.com/Zusier/Zusiers-optimization-Batch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The open source batch file that gives efforts to boost system performance, latency, and stability.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ancel1x/Ancels-Performance-Batch</title>
+    <updated>2023-12-25T01:26:45Z</updated>
+    <id>tag:github.com,2023-12-25:/ancel1x/Ancels-Performance-Batch</id>
+    <link href="https://github.com/ancel1x/Ancels-Performance-Batch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Tweaker made to improve system performance and lower system latency.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-24T01:38:08Z</updated>
+  <updated>2023-12-25T01:35:49Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>danth/stylix</title>
-    <updated>2023-12-24T01:38:08Z</updated>
-    <id>tag:github.com,2023-12-24:/danth/stylix</id>
-    <link href="https://github.com/danth/stylix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;System-wide colorscheming and typography for NixOS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nix-community/nix-direnv</title>
-    <updated>2023-12-24T01:38:08Z</updated>
-    <id>tag:github.com,2023-12-24:/nix-community/nix-direnv</id>
-    <link href="https://github.com/nix-community/nix-direnv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

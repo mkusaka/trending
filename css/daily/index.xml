@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-24T01:31:03Z</updated>
+  <updated>2023-12-25T01:28:27Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Akashkumar9508/Smart-Attend</title>
-    <updated>2023-12-24T01:31:03Z</updated>
-    <id>tag:github.com,2023-12-24:/Akashkumar9508/Smart-Attend</id>
-    <link href="https://github.com/Akashkumar9508/Smart-Attend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Smart Attend&lt;/h1&gt; &#xA;&lt;p&gt;Smart Attend is a web application designed to track attendance in a smart way. It provides separate login interfaces for teachers and students.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;It is in building phase for the project Smart Attend !&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Version&lt;/h2&gt; &#xA;&lt;p&gt;1.0.0&lt;/p&gt; &#xA;&lt;h2&gt;Authors&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Akashkumar9508&#34;&gt;Akash Kumar&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Anant1004&#34;&gt;Anant Kumar&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/bickysrm&#34;&gt;Bicky Kumar&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Aniruddh0012&#34;&gt;Aniruddh Sharma&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Responsive design&lt;/li&gt; &#xA; &lt;li&gt;Separate login for teachers and students&lt;/li&gt; &#xA; &lt;li&gt;Contact, About, and Uses pages&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Technologies Used&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;HTML&lt;/li&gt; &#xA; &lt;li&gt;CSS&lt;/li&gt; &#xA; &lt;li&gt;JavaScript&lt;/li&gt; &#xA; &lt;li&gt;AOS library for animations&lt;/li&gt; &#xA; &lt;li&gt;Boxicons for icons&lt;/li&gt; &#xA; &lt;li&gt;Smpt js&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Copyright © 2023. All Rights Reserved to Smart Attend Team !&lt;/p&gt;</summary>
+    <title>elifgazioglu/doyouwannagooutwithme</title>
+    <updated>2023-12-25T01:28:27Z</updated>
+    <id>tag:github.com,2023-12-25:/elifgazioglu/doyouwannagooutwithme</id>
+    <link href="https://github.com/elifgazioglu/doyouwannagooutwithme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;✨&lt;a href=&#34;http://doyouwannagooutwithme.com&#34;&gt;doyouwannagooutwithme.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;A website to invite your lover for a date 🥰&lt;/p&gt;</summary>
   </entry>
 </feed>

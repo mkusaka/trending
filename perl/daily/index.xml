@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-24T01:39:17Z</updated>
+  <updated>2023-12-25T01:36:53Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>damog/www-tumblr</title>
+    <updated>2023-12-25T01:36:53Z</updated>
+    <id>tag:github.com,2023-12-25:/damog/www-tumblr</id>
+    <link href="https://github.com/damog/www-tumblr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Perl interface for the Tumblr API&lt;/p&gt;&lt;hr&gt;&lt;p&gt;WWW::Tumblr - Perl bindings for the Tumblr API.&lt;/p&gt; &#xA;&lt;p&gt;Please refer to &lt;a href=&#34;https://metacpan.org/module/WWW::Tumblr&#34;&gt;https://metacpan.org/module/WWW::Tumblr&lt;/a&gt; for detailed documentation and information about this module. Such a link will always point to last stable release.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/damog/www-tumblr&#34;&gt;https://github.com/damog/www-tumblr&lt;/a&gt; contains the git repository where only tags should be considered as stable releases.&lt;/p&gt; &#xA;&lt;p&gt;-- David Moreno - &lt;a href=&#34;http://damog.net/&#34;&gt;http://damog.net/&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
