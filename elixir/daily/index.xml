@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-25T01:29:50Z</updated>
+  <updated>2023-12-26T01:28:26Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adoptoposs/mjml_nif</title>
+    <updated>2023-12-26T01:28:26Z</updated>
+    <id>tag:github.com,2023-12-26:/adoptoposs/mjml_nif</id>
+    <link href="https://github.com/adoptoposs/mjml_nif" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir NIF bindings for the MJML Rust implementation (mrml)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eventrelay/eventrelay</title>
+    <updated>2023-12-26T01:28:26Z</updated>
+    <id>tag:github.com,2023-12-26:/eventrelay/eventrelay</id>
+    <link href="https://github.com/eventrelay/eventrelay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An event streaming/storage system for the rest of us&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

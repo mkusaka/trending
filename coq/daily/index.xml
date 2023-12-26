@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Coq Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-25T01:28:16Z</updated>
+  <updated>2023-12-26T01:26:53Z</updated>
   <subtitle>Daily Trending of Coq in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>peterlefanulumsdaine/hott-limits</title>
-    <updated>2023-12-25T01:28:16Z</updated>
-    <id>tag:github.com,2023-12-25:/peterlefanulumsdaine/hott-limits</id>
-    <link href="https://github.com/peterlefanulumsdaine/hott-limits" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A formalization of (homotopy) limits in Homotopy Type Theory&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mit-plv/kami</title>
+    <updated>2023-12-26T01:26:53Z</updated>
+    <id>tag:github.com,2023-12-26:/mit-plv/kami</id>
+    <link href="https://github.com/mit-plv/kami" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Platform for High-Level Parametric Hardware Specification and its Modular Verification&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

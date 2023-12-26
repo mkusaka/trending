@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-25T01:25:33Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-12-26T01:24:12Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Enraged-Rabbit-Community/ERCF_v2</title>
-    <updated>2023-12-25T01:25:33Z</updated>
-    <id>tag:github.com,2023-12-25:/Enraged-Rabbit-Community/ERCF_v2</id>
-    <link href="https://github.com/Enraged-Rabbit-Community/ERCF_v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community designed ERCF v2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JShollaj/awesome-llm-interpretability</title>
+    <updated>2023-12-26T01:24:12Z</updated>
+    <id>tag:github.com,2023-12-26:/JShollaj/awesome-llm-interpretability</id>
+    <link href="https://github.com/JShollaj/awesome-llm-interpretability" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of Large Language Model (LLM) Interpretability resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>OpenTexture/Paint3D</title>
-    <updated>2023-12-25T01:25:33Z</updated>
-    <id>tag:github.com,2023-12-25:/OpenTexture/Paint3D</id>
-    <link href="https://github.com/OpenTexture/Paint3D" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models, a no lighting baked texture generative model&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ruesandora/Pryzm</title>
-    <updated>2023-12-25T01:25:33Z</updated>
-    <id>tag:github.com,2023-12-25:/ruesandora/Pryzm</id>
-    <link href="https://github.com/ruesandora/Pryzm" rel="alternate"></link>
+    <title>kindawindytoday/Minty-Releases</title>
+    <updated>2023-12-26T01:24:12Z</updated>
+    <id>tag:github.com,2023-12-26:/kindawindytoday/Minty-Releases</id>
+    <link href="https://github.com/kindawindytoday/Minty-Releases" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>guoqincode/Focus-on-Your-Instruction</title>
+    <updated>2023-12-26T01:24:12Z</updated>
+    <id>tag:github.com,2023-12-26:/guoqincode/Focus-on-Your-Instruction</id>
+    <link href="https://github.com/guoqincode/Focus-on-Your-Instruction" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-25T01:27:16Z</updated>
+  <updated>2023-12-26T01:25:50Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kindawindytoday/M</title>
-    <updated>2023-12-25T01:27:16Z</updated>
-    <id>tag:github.com,2023-12-25:/kindawindytoday/M</id>
-    <link href="https://github.com/kindawindytoday/M" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;new dynamically-loading tool for &#34;园什“&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/kindawindytoday/M/main/README.md&#34;&gt;EN&lt;/a&gt; | &lt;a href=&#34;https://raw.githubusercontent.com/kindawindytoday/M/main/README_zh-CN.md&#34;&gt;简中&lt;/a&gt; | &lt;a href=&#34;https://raw.githubusercontent.com/kindawindytoday/M/main/README_zh-TW.md&#34;&gt;繁中&lt;/a&gt; | &lt;a href=&#34;https://raw.githubusercontent.com/kindawindytoday/M/main/README_ja-JP.md&#34;&gt;JP&lt;/a&gt; | &lt;a href=&#34;https://raw.githubusercontent.com/kindawindytoday/M/main/README_ru-RU.md&#34;&gt;RU&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;M&lt;/h1&gt; &#xA;&lt;p&gt;new dynamically-loading tool for &#34;原神“&lt;/p&gt; &#xA;&lt;h2&gt;Building instructions&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Download Visual Studio Community 2022&lt;/li&gt; &#xA; &lt;li&gt;Build as Release x64. Do not target debug, and do not target x86 or Win32.&lt;/li&gt; &#xA; &lt;li&gt;You will find a folder called &lt;code&gt;x64&lt;/code&gt; when opening file explorer to the solution. Inisde there, you can find a folder called &lt;code&gt;Release&lt;/code&gt;, where the built files are located.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Releases&lt;/h2&gt; &#xA;&lt;p&gt;Download the latest versions &lt;a href=&#34;https://github.com/kindawindytoday/Minty-Releases/releases&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Disclaimer&lt;/h2&gt; &#xA;&lt;p&gt;DISCLAIMER! We are not responsible for any actions you perform or recieve e.g. ban. This tool only provides limited protection against 米哈游&#39;s anticheat system.&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;p&gt;CREDITS go to the respective owners of such referenced or reused code.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/azzu0/GILua&#34;&gt;GILua, xluafix.lua&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

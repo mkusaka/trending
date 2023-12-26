@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-25T01:37:29Z</updated>
+  <updated>2023-12-26T01:35:35Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Elegant-Setup/Eugene-Tjoa</title>
-    <updated>2023-12-25T01:37:29Z</updated>
-    <id>tag:github.com,2023-12-25:/Elegant-Setup/Eugene-Tjoa</id>
-    <link href="https://github.com/Elegant-Setup/Eugene-Tjoa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Een inzending gemaakt in Processing die eindeloos Boogie Woogies kan maken.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
