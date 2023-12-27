@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Coq Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-26T01:26:53Z</updated>
+  <updated>2023-12-27T01:26:32Z</updated>
   <subtitle>Daily Trending of Coq in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mit-plv/kami</title>
-    <updated>2023-12-26T01:26:53Z</updated>
-    <id>tag:github.com,2023-12-26:/mit-plv/kami</id>
-    <link href="https://github.com/mit-plv/kami" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Platform for High-Level Parametric Hardware Specification and its Modular Verification&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

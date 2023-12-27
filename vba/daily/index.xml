@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-26T01:39:39Z</updated>
+  <updated>2023-12-27T01:39:37Z</updated>
   <subtitle>Daily Trending of VBA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>InvisibleRain/Tetris-in-Excel</title>
-    <updated>2023-12-26T01:39:39Z</updated>
-    <id>tag:github.com,2023-12-26:/InvisibleRain/Tetris-in-Excel</id>
-    <link href="https://github.com/InvisibleRain/Tetris-in-Excel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple game written in VBA macros language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

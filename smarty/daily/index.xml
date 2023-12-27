@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-26T01:38:05Z</updated>
+  <updated>2023-12-27T01:38:04Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>otwld/ollama-helm</title>
-    <updated>2023-12-26T01:38:05Z</updated>
-    <id>tag:github.com,2023-12-26:/otwld/ollama-helm</id>
-    <link href="https://github.com/otwld/ollama-helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm chart for Ollama on Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stacksimplify/cloud-helm-charts</title>
-    <updated>2023-12-26T01:38:05Z</updated>
-    <id>tag:github.com,2023-12-26:/stacksimplify/cloud-helm-charts</id>
-    <link href="https://github.com/stacksimplify/cloud-helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cloud Helm Charts - AWS EKS, Azure AKS and Google GKE&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
