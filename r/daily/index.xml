@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-27T01:36:19Z</updated>
+  <updated>2023-12-28T01:33:19Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vjcitn/BiocMIMB</title>
+    <updated>2023-12-28T01:33:19Z</updated>
+    <id>tag:github.com,2023-12-28:/vjcitn/BiocMIMB</id>
+    <link href="https://github.com/vjcitn/BiocMIMB" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Methods in Molec Biol/Cancer Bioinfo article&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BiocMIMB&lt;/h1&gt; &#xA;&lt;p&gt;Methods in Molec Biol/Cancer Bioinfo article&lt;/p&gt; &#xA;&lt;p&gt;Repo is currently private.&lt;/p&gt; &#xA;&lt;p&gt;The Rmd should be converted to pdf using &lt;code&gt;rmarkdown::render(&#34;bioccb.Rmd&#34;)&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;You need packages&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;needed = c(&#34;curatedTCGAData&#34;, &#34;TCGAutils&#34;, &#34;dplyr&#34;, &#34;kableExtra&#34;, &#34;TCGAutils&#34;,&#xA;&#34;survival&#34;, &#34;GGally&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;in addition to knitr and rmarkdown.&lt;/p&gt; &#xA;&lt;p&gt;The first build in a session is slow. Caching might be used later. The slowness comes from grabbing all assays on a few TCGA tumors.&lt;/p&gt;</summary>
+  </entry>
 </feed>

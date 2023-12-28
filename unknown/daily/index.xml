@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-27T01:24:08Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-12-28T01:23:47Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hua1995116/indiehackers-steps</title>
+    <updated>2023-12-28T01:23:47Z</updated>
+    <id>tag:github.com,2023-12-28:/hua1995116/indiehackers-steps</id>
+    <link href="https://github.com/hua1995116/indiehackers-steps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;独立开发者出海&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

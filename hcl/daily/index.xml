@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-27T01:29:45Z</updated>
+  <updated>2023-12-28T01:28:12Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kloia/platform-modules</title>
+    <updated>2023-12-28T01:28:12Z</updated>
+    <id>tag:github.com,2023-12-28:/kloia/platform-modules</id>
+    <link href="https://github.com/kloia/platform-modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kloia Platform Development Terraform Modules&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MorrisLAN/morrislan</title>
+    <updated>2023-12-28T01:28:12Z</updated>
+    <id>tag:github.com,2023-12-28:/MorrisLAN/morrislan</id>
+    <link href="https://github.com/MorrisLAN/morrislan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IaC for my personal network/digital infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

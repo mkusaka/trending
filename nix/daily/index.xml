@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-27T01:33:57Z</updated>
+  <updated>2023-12-28T01:31:20Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rhelmot/nixbsd</title>
+    <updated>2023-12-28T01:31:20Z</updated>
+    <id>tag:github.com,2023-12-28:/rhelmot/nixbsd</id>
+    <link href="https://github.com/rhelmot/nixbsd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
