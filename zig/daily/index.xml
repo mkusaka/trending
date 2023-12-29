@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-28T01:36:51Z</updated>
+  <updated>2023-12-29T01:37:26Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>toziegler/zig-zipf</title>
+    <updated>2023-12-29T01:37:26Z</updated>
+    <id>tag:github.com,2023-12-29:/toziegler/zig-zipf</id>
+    <link href="https://github.com/toziegler/zig-zipf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zig implementation of a fast, bounded, Zipf-distributed random number generator.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

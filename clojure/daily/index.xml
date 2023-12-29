@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-28T01:25:28Z</updated>
+  <updated>2023-12-29T01:21:33Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>noprompt/garden</title>
-    <updated>2023-12-28T01:25:28Z</updated>
-    <id>tag:github.com,2023-12-28:/noprompt/garden</id>
-    <link href="https://github.com/noprompt/garden" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generate CSS with Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>akluth/quackiquacki</title>
+    <updated>2023-12-29T01:21:33Z</updated>
+    <id>tag:github.com,2023-12-29:/akluth/quackiquacki</id>
+    <link href="https://github.com/akluth/quackiquacki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Speech recognition for doing several easy tasks, PoC, heavily inspired by Saria&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>funcool/rumext</title>
+    <updated>2023-12-29T01:21:33Z</updated>
+    <id>tag:github.com,2023-12-29:/funcool/rumext</id>
+    <link href="https://github.com/funcool/rumext" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple and decomplected ui library for ClojureScript (based on React)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

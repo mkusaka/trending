@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-28T01:33:19Z</updated>
+  <updated>2023-12-29T01:32:10Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vjcitn/BiocMIMB</title>
-    <updated>2023-12-28T01:33:19Z</updated>
-    <id>tag:github.com,2023-12-28:/vjcitn/BiocMIMB</id>
-    <link href="https://github.com/vjcitn/BiocMIMB" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Methods in Molec Biol/Cancer Bioinfo article&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BiocMIMB&lt;/h1&gt; &#xA;&lt;p&gt;Methods in Molec Biol/Cancer Bioinfo article&lt;/p&gt; &#xA;&lt;p&gt;Repo is currently private.&lt;/p&gt; &#xA;&lt;p&gt;The Rmd should be converted to pdf using &lt;code&gt;rmarkdown::render(&#34;bioccb.Rmd&#34;)&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;You need packages&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;needed = c(&#34;curatedTCGAData&#34;, &#34;TCGAutils&#34;, &#34;dplyr&#34;, &#34;kableExtra&#34;, &#34;TCGAutils&#34;,&#xA;&#34;survival&#34;, &#34;GGally&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;in addition to knitr and rmarkdown.&lt;/p&gt; &#xA;&lt;p&gt;The first build in a session is slow. Caching might be used later. The slowness comes from grabbing all assays on a few TCGA tumors.&lt;/p&gt;</summary>
+    <title>mason-org/r-languageserver</title>
+    <updated>2023-12-29T01:32:10Z</updated>
+    <id>tag:github.com,2023-12-29:/mason-org/r-languageserver</id>
+    <link href="https://github.com/mason-org/r-languageserver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wrapper around REditorSupport/languageserver that enables running the R language server as a standalone executable.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;r-languageserver&lt;/h1&gt; &#xA;&lt;p&gt;Wrapper around &lt;a href=&#34;https://github.com/REditorSupport/languageserver&#34;&gt;REditorSupport/languageserver&lt;/a&gt; that:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;installs the language server to an isolated library location, and&lt;/li&gt; &#xA; &lt;li&gt;enables running the R language server as a standalone executable.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;h3&gt;Installing&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ R --slave -f src/install.r &amp;lt;lib_loc&amp;gt; &amp;lt;ref&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Running&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ r-languageserver&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>milos-agathon/3d-vintage-topo-maps</title>
+    <updated>2023-12-29T01:32:10Z</updated>
+    <id>tag:github.com,2023-12-29:/milos-agathon/3d-vintage-topo-maps</id>
+    <link href="https://github.com/milos-agathon/3d-vintage-topo-maps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In this repo, I’ll show you how to use rayshader in R to transform old 3D topo maps into 3D topo maps&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;3D vintage topo maps&lt;/h1&gt; &#xA;&lt;p&gt;In this repo, I’ll show you how to use rayshader in R to transform old 3D topo maps into 3D topo maps&lt;/p&gt; &#xA;&lt;h2&gt;Before&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/milos-agathon/3d-vintage-topo-maps/raw/main/north_africa_topo_modified.png?raw=true&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;After&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/milos-agathon/3d-vintage-topo-maps/raw/main/3d_topo_north_africa_resized.png?raw=true&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-28T01:24:03Z</updated>
+  <updated>2023-12-29T01:19:22Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tjenkinson/Adobe-AS3-Scroller</title>
-    <updated>2023-12-28T01:24:03Z</updated>
-    <id>tag:github.com,2023-12-28:/tjenkinson/Adobe-AS3-Scroller</id>
-    <link href="https://github.com/tjenkinson/Adobe-AS3-Scroller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Adobe ActionScript3 class to manage scrolling objects. Can be used for scrolling tweets in a twitter scroller for example.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

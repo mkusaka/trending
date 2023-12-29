@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-28T01:26:41Z</updated>
+  <updated>2023-12-29T01:22:59Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jhipster/jhipster-dotnetcore</title>
+    <updated>2023-12-29T01:22:59Z</updated>
+    <id>tag:github.com,2023-12-29:/jhipster/jhipster-dotnetcore</id>
+    <link href="https://github.com/jhipster/jhipster-dotnetcore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JHipster.NET blueprint&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

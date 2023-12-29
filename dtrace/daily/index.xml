@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DTrace Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-28T01:26:21Z</updated>
+  <updated>2023-12-29T01:22:34Z</updated>
   <subtitle>Daily Trending of DTrace in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MarkShawn2020/wechat-dbcracker</title>
-    <updated>2023-12-28T01:26:21Z</updated>
-    <id>tag:github.com,2023-12-28:/MarkShawn2020/wechat-dbcracker</id>
-    <link href="https://github.com/MarkShawn2020/wechat-dbcracker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MacOS 微信数据库破解（不用找了，整个github都没比这份更清晰的了！）&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

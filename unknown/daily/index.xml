@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-28T01:23:47Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-12-29T01:18:55Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hua1995116/indiehackers-steps</title>
-    <updated>2023-12-28T01:23:47Z</updated>
-    <id>tag:github.com,2023-12-28:/hua1995116/indiehackers-steps</id>
-    <link href="https://github.com/hua1995116/indiehackers-steps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;独立开发者出海&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Meroser/IPTV</title>
+    <updated>2023-12-29T01:18:55Z</updated>
+    <id>tag:github.com,2023-12-29:/Meroser/IPTV</id>
+    <link href="https://github.com/Meroser/IPTV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;湖南电信、移动、联通组播源，IPv6源，完善的台标，几近完美的EPG节目预告[强迫症福音]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Moexin/IPTV</title>
+    <updated>2023-12-29T01:18:55Z</updated>
+    <id>tag:github.com,2023-12-29:/Moexin/IPTV</id>
+    <link href="https://github.com/Moexin/IPTV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MyIPTV&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ConnectAI-E/Awesome-One-Click-Deployment</title>
+    <updated>2023-12-29T01:18:55Z</updated>
+    <id>tag:github.com,2023-12-29:/ConnectAI-E/Awesome-One-Click-Deployment</id>
+    <link href="https://github.com/ConnectAI-E/Awesome-One-Click-Deployment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
