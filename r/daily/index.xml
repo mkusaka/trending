@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-29T01:32:10Z</updated>
+  <updated>2023-12-30T01:39:37Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mason-org/r-languageserver</title>
-    <updated>2023-12-29T01:32:10Z</updated>
-    <id>tag:github.com,2023-12-29:/mason-org/r-languageserver</id>
-    <link href="https://github.com/mason-org/r-languageserver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wrapper around REditorSupport/languageserver that enables running the R language server as a standalone executable.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;r-languageserver&lt;/h1&gt; &#xA;&lt;p&gt;Wrapper around &lt;a href=&#34;https://github.com/REditorSupport/languageserver&#34;&gt;REditorSupport/languageserver&lt;/a&gt; that:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;installs the language server to an isolated library location, and&lt;/li&gt; &#xA; &lt;li&gt;enables running the R language server as a standalone executable.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;h3&gt;Installing&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ R --slave -f src/install.r &amp;lt;lib_loc&amp;gt; &amp;lt;ref&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Running&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ r-languageserver&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>rahulrajd/statistical-computing-r-programming</title>
+    <updated>2023-12-30T01:39:37Z</updated>
+    <id>tag:github.com,2023-12-30:/rahulrajd/statistical-computing-r-programming</id>
+    <link href="https://github.com/rahulrajd/statistical-computing-r-programming" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course Code DSC514 for BCA, Bangalore University&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;STATISTICAL-COMPUTING-R-PROGRAMMING-&lt;/h1&gt; &#xA;&lt;p&gt;Course Code DSC514 for BCA, Bangalore University&lt;/p&gt; &#xA;&lt;p&gt;Link to Presentation: &lt;a href=&#34;https://1drv.ms/p/s!AvjROsov1XJYgY5a5P8-k0wwyIzF0w?e=Z8bHhL&#34;&gt;https://1drv.ms/p/s!AvjROsov1XJYgY5a5P8-k0wwyIzF0w?e=Z8bHhL&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>milos-agathon/3d-vintage-topo-maps</title>
-    <updated>2023-12-29T01:32:10Z</updated>
-    <id>tag:github.com,2023-12-29:/milos-agathon/3d-vintage-topo-maps</id>
-    <link href="https://github.com/milos-agathon/3d-vintage-topo-maps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;In this repo, I’ll show you how to use rayshader in R to transform old 3D topo maps into 3D topo maps&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;3D vintage topo maps&lt;/h1&gt; &#xA;&lt;p&gt;In this repo, I’ll show you how to use rayshader in R to transform old 3D topo maps into 3D topo maps&lt;/p&gt; &#xA;&lt;h2&gt;Before&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/milos-agathon/3d-vintage-topo-maps/raw/main/north_africa_topo_modified.png?raw=true&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;After&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/milos-agathon/3d-vintage-topo-maps/raw/main/3d_topo_north_africa_resized.png?raw=true&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;</summary>
+    <title>nnh/r-package-for-wos-tools</title>
+    <updated>2023-12-30T01:39:37Z</updated>
+    <id>tag:github.com,2023-12-30:/nnh/r-package-for-wos-tools</id>
+    <link href="https://github.com/nnh/r-package-for-wos-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;r-package-for-wos-tools&lt;/h1&gt;</summary>
   </entry>
 </feed>

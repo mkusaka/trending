@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-29T01:23:44Z</updated>
+  <updated>2023-12-30T01:30:33Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Hipxel-dev/Softbody-Maker</title>
-    <updated>2023-12-29T01:23:44Z</updated>
-    <id>tag:github.com,2023-12-29:/Hipxel-dev/Softbody-Maker</id>
-    <link href="https://github.com/Hipxel-dev/Softbody-Maker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A little game about making softbodies. You click and you make a point. Click again and that point creates another point to connect to. Right click and you can select to connect an exiting point. Middle click and you will move a point.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nblackninja/godot-spin-button</title>
+    <updated>2023-12-30T01:30:33Z</updated>
+    <id>tag:github.com,2023-12-30:/nblackninja/godot-spin-button</id>
+    <link href="https://github.com/nblackninja/godot-spin-button" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Horizontal Selector with extended options is an addon for Godot Engine 4.x.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cevantime/godot_tabs</title>
+    <updated>2023-12-30T01:30:33Z</updated>
+    <id>tag:github.com,2023-12-30:/Cevantime/godot_tabs</id>
+    <link href="https://github.com/Cevantime/godot_tabs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

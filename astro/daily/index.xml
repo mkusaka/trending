@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-29T01:20:01Z</updated>
+  <updated>2023-12-30T01:25:22Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>midudev/porfolio.dev</title>
-    <updated>2023-12-29T01:20:01Z</updated>
-    <id>tag:github.com,2023-12-29:/midudev/porfolio.dev</id>
-    <link href="https://github.com/midudev/porfolio.dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ejemplo de porfolio para programadores y desarrolladores&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TechForPalestine/website</title>
-    <updated>2023-12-29T01:20:01Z</updated>
-    <id>tag:github.com,2023-12-29:/TechForPalestine/website</id>
-    <link href="https://github.com/TechForPalestine/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Website for techforpalestine.org&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

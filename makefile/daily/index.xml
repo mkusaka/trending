@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-29T01:28:20Z</updated>
+  <updated>2023-12-30T01:36:02Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>stratisproject/StratisEVM</title>
-    <updated>2023-12-29T01:28:20Z</updated>
-    <id>tag:github.com,2023-12-29:/stratisproject/StratisEVM</id>
-    <link href="https://github.com/stratisproject/StratisEVM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>crdroidandroid/android_build</title>
-    <updated>2023-12-29T01:28:20Z</updated>
-    <id>tag:github.com,2023-12-29:/crdroidandroid/android_build</id>
-    <link href="https://github.com/crdroidandroid/android_build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Android Build System (crDroid Android)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

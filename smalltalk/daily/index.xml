@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-29T01:34:37Z</updated>
+  <updated>2023-12-30T01:41:48Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PolyMathOrg/PolyMath</title>
+    <updated>2023-12-30T01:41:48Z</updated>
+    <id>tag:github.com,2023-12-30:/PolyMathOrg/PolyMath</id>
+    <link href="https://github.com/PolyMathOrg/PolyMath" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scientific Computing with Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codefrau/jasmine</title>
+    <updated>2023-12-30T01:41:48Z</updated>
+    <id>tag:github.com,2023-12-30:/codefrau/jasmine</id>
+    <link href="https://github.com/codefrau/jasmine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Croquet Jasmine (2004) on SqueakJS (WIP)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

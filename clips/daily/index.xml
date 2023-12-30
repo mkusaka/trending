@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CLIPS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-29T01:21:28Z</updated>
+  <updated>2023-12-30T01:27:16Z</updated>
   <subtitle>Daily Trending of CLIPS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rabin-HE/OPENCNC-J</title>
-    <updated>2023-12-29T01:21:28Z</updated>
-    <id>tag:github.com,2023-12-29:/rabin-HE/OPENCNC-J</id>
-    <link href="https://github.com/rabin-HE/OPENCNC-J" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于Linuxcnc的开源整合项目&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
