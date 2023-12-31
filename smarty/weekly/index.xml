@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-31T01:57:40Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alanvito1/Binary-Robots</title>
+    <updated>2024-12-31T01:57:40Z</updated>
+    <id>tag:github.com,2024-12-31:/alanvito1/Binary-Robots</id>
+    <link href="https://github.com/alanvito1/Binary-Robots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is the largest collection of scripts for use on Binary or Deriv bots. It is powered by Deriv and contains a wide variety of scripts that can be used to enhance and automate trading strategies on these platforms.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

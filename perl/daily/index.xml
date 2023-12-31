@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-30T01:38:10Z</updated>
+  <updated>2024-12-31T01:39:07Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>YoungFrog/parseulbcal</title>
-    <updated>2023-12-30T01:38:10Z</updated>
-    <id>tag:github.com,2023-12-30:/YoungFrog/parseulbcal</id>
-    <link href="https://github.com/YoungFrog/parseulbcal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parse ULB &#34;Calendrier académique&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jmcnamara/spreadsheet-parseexcel</title>
+    <updated>2024-12-31T01:39:07Z</updated>
+    <id>tag:github.com,2024-12-31:/jmcnamara/spreadsheet-parseexcel</id>
+    <link href="https://github.com/jmcnamara/spreadsheet-parseexcel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Perl module to read Excel binary files&lt;/p&gt;&lt;hr&gt;&lt;p&gt;NAME Spreadsheet::ParseExcel - Extract information from Excel file.&lt;/p&gt; &#xA;&lt;p&gt;DESCRIPTION This module allows you to extract information from Excel file.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;This module can handle files in Excel95, 97 and 2000 format.&#xA;&#xA;The module will work on the majority of Windows, UNIX and&#xA;Macintosh platforms.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;REQUIREMENT This module requires these modules: OLE::Storage_Lite Jcode.pm (if you are using FmtJapan, or FmtJapan2) Unicode::Map (if you are using FmtJapan2 or FmtUnicode) IO::Scalar (if PERLIO is not available) Spreadsheet::WriteExcel (to use Spreadsheet::ParseExcel::SaveParser)&lt;/p&gt; &#xA;&lt;p&gt;INSTALLATION The module can be installed using the standard Perl procedure:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;    perl Makefile.PL&#xA;    make&#xA;    make test&#xA;    make install    # You may need to be root&#xA;    make clean      # or make realclean&#xA;&#xA;  or using CPAN.pm or CPANPLUS.pm&#xA;&#xA;    cpan Spreadsheet::ParseExcel&#xA;&#xA;Windows users without a working &#34;make&#34; can get nmake from:&#xA;    ftp://ftp.microsoft.com/Softlib/MSLFILES/nmake15.exe&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;For FmtJapan2 If you use FmtJapan2, you must do following actions:&lt;/p&gt; &#xA;&lt;p&gt;(1) Copy &#34;CP932Excel.map&#34; included with this distribution to an applicatable directry.&lt;/p&gt; &#xA;&lt;p&gt;(2) To add &#34;CP932Excel&#34; as map name, append following lines to REGISTRY in the Unicode::Map hierarchy (changing map directy to applicatable directry):&lt;/p&gt; &#xA;&lt;p&gt;name: CP932Excel srcURL: $SrcUnicode/VENDORS/MICSFT/WINDOWS/CP932.TXT src: $DestUnicode/VENDORS/MICSFT/WINDOWS/CP932.TXT map: (which you copied directry)/CP932Excel.map&lt;/p&gt; &#xA;&lt;h1&gt;Don&#39;t remove this line&lt;/h1&gt; &#xA;&lt;p&gt;AUTHOR&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Maintainer 0.60+: Douglas Wilson dougw@cpan.org&#xA;&#xA;Maintainer 0.40-0.59: John McNamara jmcnamara@cpan.org&#xA;&#xA;Maintainer 0.27-0.33: Gabor Szabo szabgab@cpan.org&#xA;&#xA;Original author: Kawai Takanori (Hippo2000) kwitknr@cpan.org&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;SUPPORT Please check the &#34;KNOWN PROBLEMS&#34; section in the manual page for Spreadsheet::ParseExcel.&lt;/p&gt;</summary>
   </entry>
 </feed>

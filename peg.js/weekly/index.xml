@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PEG.js Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-31T01:54:40Z</updated>
+  <subtitle>Weekly Trending of PEG.js in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>taozhi8833998/node-sql-parser</title>
+    <updated>2024-12-31T01:54:40Z</updated>
+    <id>tag:github.com,2024-12-31:/taozhi8833998/node-sql-parser</id>
+    <link href="https://github.com/taozhi8833998/node-sql-parser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parse simple SQL statements into an abstract syntax tree (AST) with the visited tableList and convert it back to SQL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-30T01:38:18Z</updated>
+  <updated>2024-12-31T01:39:01Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>samdark/php-fpm_tuner</title>
+    <updated>2024-12-31T01:39:01Z</updated>
+    <id>tag:github.com,2024-12-31:/samdark/php-fpm_tuner</id>
+    <link href="https://github.com/samdark/php-fpm_tuner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A script to tune PHP-FPM&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PHP-FPM tuner&lt;/h1&gt; &#xA;&lt;p&gt;Simple script that helps tuning PHP-FPM.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;❯ php php-fpm-tuner.php&#xA;&#xA;pm.max_children = 11&#xA;start_servers = 3&#xA;min_spare_servers = 3&#xA;max_spare_servers = 8&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The script calculates &lt;code&gt;pm.max_children&lt;/code&gt; based on available free memory and memory used for each worker (it is either determined from currently running workers or php.ini memory limit). &lt;code&gt;start_servers&lt;/code&gt;, &lt;code&gt;min_spare_servers&lt;/code&gt;, and &lt;code&gt;max_spare_servers&lt;/code&gt; are taking both memory limits and CPU cores available into account.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>codehub666/94list</title>
+    <updated>2024-12-31T01:39:01Z</updated>
+    <id>tag:github.com,2024-12-31:/codehub666/94list</id>
+    <link href="https://github.com/codehub666/94list" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;百度网盘分享链接分析渲染列表辅助下载开源程序&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;开源声明&lt;/h1&gt; &#xA;&lt;p&gt;本程序是免费开源项目，核心代码均未加密，其要旨是为了方便文件分享与下载，重点是GET被没落的PHP语法学习。开源项目所涉及的接口均为官方开放接口，需使用正版SVIP会员账号进行代理提取高速链接，无破坏官方接口行为，本身不存违法。仅供自己参考学习使用。诺违规使用官方会限制或封禁你的账号，包括你的IP，如无官方授权进行商业用途会对你造成更严重后果。源码仅供学习，如无视声明使用产生正负面结果(限速，被封等)与都作者无关。&lt;/p&gt; &#xA;&lt;h1&gt;图片一阅&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/codehub666/94list/assets/81606392/c961f3e4-5cc5-448b-94bf-4b9a1f225ccb&#34; alt=&#34;image&#34;&gt; &lt;img src=&#34;https://github.com/codehub666/94list/assets/81606392/077a488a-67fd-4a7d-807b-b4da6294a6ae&#34; alt=&#34;image&#34;&gt; &lt;img src=&#34;https://github.com/codehub666/94list/assets/81606392/7e854299-08f9-4983-b721-0a16f7cd9e0b&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;安装方法&lt;/h1&gt; &#xA;&lt;p&gt;建议环境需求:&lt;br&gt; PHP&amp;gt;7.4&lt;br&gt; PHP Curl 扩展&lt;br&gt; PHP Mysqli扩展&lt;br&gt; Mysql&amp;gt;5.6&lt;br&gt; 直接把程序丢进这环境下进行访问，会显示可视化安装步骤，跟着步骤进行数据库连接就可以了。 &lt;img src=&#34;https://github.com/codehub666/94list/assets/81606392/641d6050-e69d-4237-9d6b-0e97affc3bde&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;原作者邮箱&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;mailto:a94author@outlook.com&#34;&gt;a94author@outlook.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;原作者官网&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://api.94speed.com/&#34;&gt;https://api.94speed.com/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;演示地址&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.uy5.net/discuss/19115.html&#34;&gt;https://www.uy5.net/discuss/19115.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;其他&lt;/h1&gt; &#xA;&lt;p&gt;基于laravel开发 : &lt;a href=&#34;https://github.com/huankong233/94list-laravel&#34;&gt;https://github.com/huankong233/94list-laravel&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

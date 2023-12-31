@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-30T01:25:27Z</updated>
+  <updated>2024-12-31T01:28:46Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>unknownusername504/RDNA3EMU</title>
-    <updated>2023-12-30T01:25:27Z</updated>
-    <id>tag:github.com,2023-12-30:/unknownusername504/RDNA3EMU</id>
-    <link href="https://github.com/unknownusername504/RDNA3EMU" rel="alternate"></link>
+    <title>crdroidandroid/android_external_rust_crates_ring</title>
+    <updated>2024-12-31T01:28:46Z</updated>
+    <id>tag:github.com,2024-12-31:/crdroidandroid/android_external_rust_crates_ring</id>
+    <link href="https://github.com/crdroidandroid/android_external_rust_crates_ring" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

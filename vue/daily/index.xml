@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-30T01:43:42Z</updated>
+  <updated>2024-12-31T01:44:02Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Yuyz0112/vx.dev</title>
-    <updated>2023-12-30T01:43:42Z</updated>
-    <id>tag:github.com,2023-12-30:/Yuyz0112/vx.dev</id>
-    <link href="https://github.com/Yuyz0112/vx.dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open-source alternative to v0.dev. Cost-effective, highly customizable, and seamlessly integrated within GitHub.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Jazee6/cloudflare-ai-web</title>
+    <updated>2024-12-31T01:44:02Z</updated>
+    <id>tag:github.com,2024-12-31:/Jazee6/cloudflare-ai-web</id>
+    <link href="https://github.com/Jazee6/cloudflare-ai-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;支持GeminiPro Vision / Cloudflare Workers AI / ChatGPT的融合Web平台&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kaifangqian/open-sign-vue</title>
+    <updated>2024-12-31T01:44:02Z</updated>
+    <id>tag:github.com,2024-12-31:/kaifangqian/open-sign-vue</id>
+    <link href="https://github.com/kaifangqian/open-sign-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;开放签电子签章/电子合同开源工具版前端源代码，主要功能包括：手写面板/手写签名，印章生成，文件签署，根据关键字定位签署位置，拖动签名定位签署位置，您通过源代码基本可以掌握市面上电子签章/电子合同等产品在前端层面的技术，便于您自行构建电子签章/电子合同系统。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

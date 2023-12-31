@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nextflow Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-31T01:53:43Z</updated>
+  <subtitle>Weekly Trending of Nextflow in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nf-core/hic</title>
+    <updated>2024-12-31T01:53:43Z</updated>
+    <id>tag:github.com,2024-12-31:/nf-core/hic</id>
+    <link href="https://github.com/nf-core/hic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Analysis of Chromosome Conformation Capture data (Hi-C)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nf-core/hgtseq</title>
+    <updated>2024-12-31T01:53:43Z</updated>
+    <id>tag:github.com,2024-12-31:/nf-core/hgtseq</id>
+    <link href="https://github.com/nf-core/hgtseq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pipeline to investigate horizontal gene transfer from NGS data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nf-core/kmermaid</title>
+    <updated>2024-12-31T01:53:43Z</updated>
+    <id>tag:github.com,2024-12-31:/nf-core/kmermaid</id>
+    <link href="https://github.com/nf-core/kmermaid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;k-mer similarity analysis pipeline&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

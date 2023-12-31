@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Logos Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-31T01:52:26Z</updated>
+  <subtitle>Weekly Trending of Logos in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>beeper/phone-registration-provider</title>
+    <updated>2024-12-31T01:52:26Z</updated>
+    <id>tag:github.com,2024-12-31:/beeper/phone-registration-provider</id>
+    <link href="https://github.com/beeper/phone-registration-provider" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A small service that generates iMessage registration data on a jailbroken iPhone&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

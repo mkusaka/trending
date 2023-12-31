@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ballerina Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-30T01:25:34Z</updated>
+  <updated>2024-12-31T01:28:55Z</updated>
   <subtitle>Daily Trending of Ballerina in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ballerina-platform/module-ballerinax-github</title>
-    <updated>2023-12-30T01:25:34Z</updated>
-    <id>tag:github.com,2023-12-30:/ballerina-platform/module-ballerinax-github</id>
-    <link href="https://github.com/ballerina-platform/module-ballerinax-github" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

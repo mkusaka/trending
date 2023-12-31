@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-30T01:24:09Z</updated>
+  <updated>2024-12-31T01:27:58Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hoalongnatsu/Dockerfile</title>
-    <updated>2023-12-30T01:24:09Z</updated>
-    <id>tag:github.com,2023-12-30:/hoalongnatsu/Dockerfile</id>
-    <link href="https://github.com/hoalongnatsu/Dockerfile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dockerfile for many programming languages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cuda-mode/resource-stream</title>
+    <updated>2024-12-31T01:27:58Z</updated>
+    <id>tag:github.com,2024-12-31:/cuda-mode/resource-stream</id>
+    <link href="https://github.com/cuda-mode/resource-stream" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CUDA related news and material links&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>OwshenNetwork/genesis</title>
-    <updated>2023-12-30T01:24:09Z</updated>
-    <id>tag:github.com,2023-12-30:/OwshenNetwork/genesis</id>
-    <link href="https://github.com/OwshenNetwork/genesis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Owshen rewards and airdrops&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>successfulstudy/promptoftheyear</title>
+    <updated>2024-12-31T01:27:58Z</updated>
+    <id>tag:github.com,2024-12-31:/successfulstudy/promptoftheyear</id>
+    <link href="https://github.com/successfulstudy/promptoftheyear" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That&#39;s why I&#39;ve created this collection, showcasing the most impactful prompts of the year across various intriguing domains. 🌐&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>veo/nginx_shell</title>
-    <updated>2023-12-30T01:24:09Z</updated>
-    <id>tag:github.com,2023-12-30:/veo/nginx_shell</id>
-    <link href="https://github.com/veo/nginx_shell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nginx WebShell/内存马，更优雅的nignx backdoor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gnuton/asuswrt-merlin.ng</title>
+    <updated>2024-12-31T01:27:58Z</updated>
+    <id>tag:github.com,2024-12-31:/gnuton/asuswrt-merlin.ng</id>
+    <link href="https://github.com/gnuton/asuswrt-merlin.ng" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extends the support of Asus Merlin firmware to more routers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

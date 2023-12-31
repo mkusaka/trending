@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-31T01:44:51Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>successfulstudy/promptoftheyear</title>
+    <updated>2024-12-31T01:44:51Z</updated>
+    <id>tag:github.com,2024-12-31:/successfulstudy/promptoftheyear</id>
+    <link href="https://github.com/successfulstudy/promptoftheyear" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That&#39;s why I&#39;ve created this collection, showcasing the most impactful prompts of the year across various intriguing domains. 🌐&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Az0x7/vulnerability-Checklist</title>
+    <updated>2024-12-31T01:44:51Z</updated>
+    <id>tag:github.com,2024-12-31:/Az0x7/vulnerability-Checklist</id>
+    <link href="https://github.com/Az0x7/vulnerability-Checklist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/winget-pkgs</title>
+    <updated>2024-12-31T01:44:51Z</updated>
+    <id>tag:github.com,2024-12-31:/microsoft/winget-pkgs</id>
+    <link href="https://github.com/microsoft/winget-pkgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Microsoft community Windows Package Manager manifest repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

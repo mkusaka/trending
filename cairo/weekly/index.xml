@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cairo Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-31T01:46:26Z</updated>
+  <subtitle>Weekly Trending of Cairo in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>starknet-io/tokei</title>
+    <updated>2024-12-31T01:46:26Z</updated>
+    <id>tag:github.com,2024-12-31:/starknet-io/tokei</id>
+    <link href="https://github.com/starknet-io/tokei" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨ 🐺 Starknet ERC20 token streaming protocol 💰⏳, inspired by Sablier.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>starknet-edu/deploy-cairo1-demo</title>
+    <updated>2024-12-31T01:46:26Z</updated>
+    <id>tag:github.com,2024-12-31:/starknet-edu/deploy-cairo1-demo</id>
+    <link href="https://github.com/starknet-edu/deploy-cairo1-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

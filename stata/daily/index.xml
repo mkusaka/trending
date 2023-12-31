@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stata Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-12-30T01:42:11Z</updated>
+  <updated>2024-12-31T01:42:31Z</updated>
   <subtitle>Daily Trending of Stata in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OpenSourceAP/CrossSection</title>
+    <updated>2024-12-31T01:42:31Z</updated>
+    <id>tag:github.com,2024-12-31:/OpenSourceAP/CrossSection</id>
+    <link href="https://github.com/OpenSourceAP/CrossSection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code to accompany our paper Chen and Zimmermann (2020), &#34;Open source cross-sectional asset pricing&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
