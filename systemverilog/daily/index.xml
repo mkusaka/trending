@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-31T01:43:06Z</updated>
+  <updated>2024-01-01T01:44:37Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sifferman/structs</title>
+    <updated>2024-01-01T01:44:37Z</updated>
+    <id>tag:github.com,2024-01-01:/sifferman/structs</id>
+    <link href="https://github.com/sifferman/structs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Examples of how to use structures in IEEE 1800 SystemVerilog.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

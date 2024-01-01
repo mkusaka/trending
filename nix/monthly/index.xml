@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-01T02:14:15Z</updated>
+  <subtitle>Monthly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NeoKode/quantum-bot</title>
+    <updated>2024-01-01T02:14:15Z</updated>
+    <id>tag:github.com,2024-01-01:/NeoKode/quantum-bot</id>
+    <link href="https://github.com/NeoKode/quantum-bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WhatsApp Bot for Groups friendly interactions and wholesome entertainment. This bot is a personal project, and the deobfuscated code is neither for sale nor freely distributed. Thank you for visiting this repository. Don&#39;t forget to smile! :D&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nix-community/nix-direnv</title>
+    <updated>2024-01-01T02:14:15Z</updated>
+    <id>tag:github.com,2024-01-01:/nix-community/nix-direnv</id>
+    <link href="https://github.com/nix-community/nix-direnv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>danth/stylix</title>
+    <updated>2024-01-01T02:14:15Z</updated>
+    <id>tag:github.com,2024-01-01:/danth/stylix</id>
+    <link href="https://github.com/danth/stylix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;System-wide colorscheming and typography for NixOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

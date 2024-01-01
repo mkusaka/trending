@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-01T02:05:21Z</updated>
+  <subtitle>Monthly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PaperMC/Folia</title>
+    <updated>2024-01-01T02:05:21Z</updated>
+    <id>tag:github.com,2024-01-01:/PaperMC/Folia</id>
+    <link href="https://github.com/PaperMC/Folia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fork of Paper which adds regionised multithreading to the dedicated server.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rjcncpt/StarCitizen-Deutsch-INI</title>
+    <updated>2024-01-01T02:05:21Z</updated>
+    <id>tag:github.com,2024-01-01:/rjcncpt/StarCitizen-Deutsch-INI</id>
+    <link href="https://github.com/rjcncpt/StarCitizen-Deutsch-INI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deutsche Lokalisierung für Star Citizen LIVE und PTU&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ahtihska/SpotifyPremium</title>
+    <updated>2024-01-01T02:05:21Z</updated>
+    <id>tag:github.com,2024-01-01:/ahtihska/SpotifyPremium</id>
+    <link href="https://github.com/ahtihska/SpotifyPremium" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Desktop MOD (ad free)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

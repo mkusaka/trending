@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Metal Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-01T02:13:28Z</updated>
+  <subtitle>Monthly Trending of Metal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>psugihara/FreeChat</title>
+    <updated>2024-01-01T02:13:28Z</updated>
+    <id>tag:github.com,2024-01-01:/psugihara/FreeChat</id>
+    <link href="https://github.com/psugihara/FreeChat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;llama.cpp based AI chat app for macOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>twostraws/Inferno</title>
+    <updated>2024-01-01T02:13:28Z</updated>
+    <id>tag:github.com,2024-01-01:/twostraws/Inferno</id>
+    <link href="https://github.com/twostraws/Inferno" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Metal shaders for SwiftUI.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sandrohanea/whisper.net</title>
+    <updated>2024-01-01T02:13:28Z</updated>
+    <id>tag:github.com,2024-01-01:/sandrohanea/whisper.net</id>
+    <link href="https://github.com/sandrohanea/whisper.net" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Whisper.net. Speech to text made simple using Whisper Models&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

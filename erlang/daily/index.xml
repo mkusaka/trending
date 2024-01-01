@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-31T01:32:00Z</updated>
+  <updated>2024-01-01T01:34:59Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>the-concurrent-schemer/parsetools</title>
-    <updated>2024-12-31T01:32:00Z</updated>
-    <id>tag:github.com,2024-12-31:/the-concurrent-schemer/parsetools</id>
-    <link href="https://github.com/the-concurrent-schemer/parsetools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[UNMAINTAINED] Erlang/OTP Parsetools&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>processone/ejabberd-contrib</title>
+    <updated>2024-01-01T01:34:59Z</updated>
+    <id>tag:github.com,2024-01-01:/processone/ejabberd-contrib</id>
+    <link href="https://github.com/processone/ejabberd-contrib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Growing and curated ejabberd contributions repository - PR or ask to join !&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

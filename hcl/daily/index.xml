@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-31T01:33:59Z</updated>
+  <updated>2024-01-01T01:36:21Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mwidera/iac-labs-infra</title>
+    <updated>2024-01-01T01:36:21Z</updated>
+    <id>tag:github.com,2024-01-01:/mwidera/iac-labs-infra</id>
+    <link href="https://github.com/mwidera/iac-labs-infra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>samuelson/learning_terraform</title>
+    <updated>2024-01-01T01:36:21Z</updated>
+    <id>tag:github.com,2024-01-01:/samuelson/learning_terraform</id>
+    <link href="https://github.com/samuelson/learning_terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dark-vex/infra-cd</title>
+    <updated>2024-01-01T01:36:21Z</updated>
+    <id>tag:github.com,2024-01-01:/dark-vex/infra-cd</id>
+    <link href="https://github.com/dark-vex/infra-cd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Homelab Infrastructure as Code (IaC) and GitOps practices&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

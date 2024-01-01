@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-01T02:05:09Z</updated>
+  <subtitle>Monthly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ROCm/MIOpen</title>
+    <updated>2024-01-01T02:05:09Z</updated>
+    <id>tag:github.com,2024-01-01:/ROCm/MIOpen</id>
+    <link href="https://github.com/ROCm/MIOpen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AMD&#39;s Machine Intelligence Library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jonstoecker/assembly</title>
+    <updated>2024-01-01T02:05:09Z</updated>
+    <id>tag:github.com,2024-01-01:/jonstoecker/assembly</id>
+    <link href="https://github.com/jonstoecker/assembly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a simple firmware package for a MIPS-powered TV remote&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>intel/isa-l_crypto</title>
+    <updated>2024-01-01T02:05:09Z</updated>
+    <id>tag:github.com,2024-01-01:/intel/isa-l_crypto</id>
+    <link href="https://github.com/intel/isa-l_crypto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

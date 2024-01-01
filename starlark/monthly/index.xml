@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-01T02:18:42Z</updated>
+  <subtitle>Monthly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aspect-build/rules_lint</title>
+    <updated>2024-01-01T02:18:42Z</updated>
+    <id>tag:github.com,2024-01-01:/aspect-build/rules_lint</id>
+    <link href="https://github.com/aspect-build/rules_lint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run static analysis tools with Bazel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bazelbuild/bazel-central-registry</title>
+    <updated>2024-01-01T02:18:42Z</updated>
+    <id>tag:github.com,2024-01-01:/bazelbuild/bazel-central-registry</id>
+    <link href="https://github.com/bazelbuild/bazel-central-registry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The central registry of Bazel modules for the Bzlmod external dependency system.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Classic ASP Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-01T02:06:32Z</updated>
+  <subtitle>Monthly Trending of Classic ASP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mbyshiri/xwyx</title>
+    <updated>2024-01-01T02:06:32Z</updated>
+    <id>tag:github.com,2024-01-01:/mbyshiri/xwyx</id>
+    <link href="https://github.com/mbyshiri/xwyx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;中华医学会行为医学分会网站--asp--siteweaver6.8&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TheAwesomeProgrammer/Christmas-game</title>
+    <updated>2024-01-01T02:06:32Z</updated>
+    <id>tag:github.com,2024-01-01:/TheAwesomeProgrammer/Christmas-game</id>
+    <link href="https://github.com/TheAwesomeProgrammer/Christmas-game" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The game I have made in christmas as a little project!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

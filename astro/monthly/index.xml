@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-01T02:05:06Z</updated>
+  <subtitle>Monthly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zankhq/astros</title>
+    <updated>2024-01-01T02:05:06Z</updated>
+    <id>tag:github.com,2024-01-01:/zankhq/astros</id>
+    <link href="https://github.com/zankhq/astros" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template with astro, tailwind and alpinejs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>midudev/spotify-twitch-clone</title>
+    <updated>2024-01-01T02:05:06Z</updated>
+    <id>tag:github.com,2024-01-01:/midudev/spotify-twitch-clone</id>
+    <link href="https://github.com/midudev/spotify-twitch-clone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creando un clon de Spotify desde cero y que le vuele la cabeza a la gente&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jonasmerlin/astro-seo</title>
+    <updated>2024-01-01T02:05:06Z</updated>
+    <id>tag:github.com,2024-01-01:/jonasmerlin/astro-seo</id>
+    <link href="https://github.com/jonasmerlin/astro-seo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Makes it easy to add information that is relevant for SEO to your Astro app.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

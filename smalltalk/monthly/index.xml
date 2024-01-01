@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-01T02:18:23Z</updated>
+  <subtitle>Monthly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>feenkcom/gt4ruby</title>
+    <updated>2024-01-01T02:18:23Z</updated>
+    <id>tag:github.com,2024-01-01:/feenkcom/gt4ruby</id>
+    <link href="https://github.com/feenkcom/gt4ruby" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/JavaScriptGenerator</title>
+    <updated>2024-01-01T02:18:23Z</updated>
+    <id>tag:github.com,2024-01-01:/feenkcom/JavaScriptGenerator</id>
+    <link href="https://github.com/feenkcom/JavaScriptGenerator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toolkit to generate JavaScript source code from Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-phlow</title>
+    <updated>2024-01-01T02:18:23Z</updated>
+    <id>tag:github.com,2024-01-01:/feenkcom/gtoolkit-phlow</id>
+    <link href="https://github.com/feenkcom/gtoolkit-phlow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The GT engine for scripting reactive browsers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

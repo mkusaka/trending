@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-31T01:42:42Z</updated>
+  <updated>2024-01-01T01:44:22Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>devforth/OnLogs</title>
-    <updated>2024-12-31T01:42:42Z</updated>
-    <id>tag:github.com,2024-12-31:/devforth/OnLogs</id>
-    <link href="https://github.com/devforth/OnLogs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lightweight docker logs web viewer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rt-evil-inc/gira</title>
+    <updated>2024-01-01T01:44:22Z</updated>
+    <id>tag:github.com,2024-01-01:/rt-evil-inc/gira</id>
+    <link href="https://github.com/rt-evil-inc/gira" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aplicação alternativa para o sistema de bicicletas partilhadas de Lisboa&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sveltestrap/sveltestrap</title>
-    <updated>2024-12-31T01:42:42Z</updated>
-    <id>tag:github.com,2024-12-31:/sveltestrap/sveltestrap</id>
-    <link href="https://github.com/sveltestrap/sveltestrap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap 5 components for Svelte 4+&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>s0er3n/GeoBingo.io</title>
+    <updated>2024-01-01T01:44:22Z</updated>
+    <id>tag:github.com,2024-01-01:/s0er3n/GeoBingo.io</id>
+    <link href="https://github.com/s0er3n/GeoBingo.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a multiplayer street view bingo game&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

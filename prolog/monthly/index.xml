@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Prolog Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-01T02:16:00Z</updated>
+  <subtitle>Monthly Trending of Prolog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>j-michaliszyn/quicksort17</title>
+    <updated>2024-01-01T02:16:00Z</updated>
+    <id>tag:github.com,2024-01-01:/j-michaliszyn/quicksort17</id>
+    <link href="https://github.com/j-michaliszyn/quicksort17" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fandrade9/leolivre</title>
+    <updated>2024-01-01T02:16:00Z</updated>
+    <id>tag:github.com,2024-01-01:/fandrade9/leolivre</id>
+    <link href="https://github.com/fandrade9/leolivre" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Placa desenhada para aplicacoes roboticas baseada no microcontrolador ATMEGA32u4 e Arduino Leonardo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

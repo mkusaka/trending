@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-31T01:28:46Z</updated>
+  <updated>2024-01-01T01:30:05Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>crdroidandroid/android_external_rust_crates_ring</title>
-    <updated>2024-12-31T01:28:46Z</updated>
-    <id>tag:github.com,2024-12-31:/crdroidandroid/android_external_rust_crates_ring</id>
-    <link href="https://github.com/crdroidandroid/android_external_rust_crates_ring" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>toddcblank/super-super-dodgeball</title>
+    <updated>2024-01-01T01:30:05Z</updated>
+    <id>tag:github.com,2024-01-01:/toddcblank/super-super-dodgeball</id>
+    <link href="https://github.com/toddcblank/super-super-dodgeball" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SNES Port of the NES game Super Dodge Ball&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

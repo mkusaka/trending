@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nextflow Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-01T02:14:05Z</updated>
+  <subtitle>Monthly Trending of Nextflow in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nf-core/hlatyping</title>
+    <updated>2024-01-01T02:14:05Z</updated>
+    <id>tag:github.com,2024-01-01:/nf-core/hlatyping</id>
+    <link href="https://github.com/nf-core/hlatyping" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Precision HLA typing from next-generation sequencing data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nf-core/pixelator</title>
+    <updated>2024-01-01T02:14:05Z</updated>
+    <id>tag:github.com,2024-01-01:/nf-core/pixelator</id>
+    <link href="https://github.com/nf-core/pixelator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pipeline to generate Molecular Pixelation data with Pixelator (Pixelgen Technologies AB)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nf-core/ampliseq</title>
+    <updated>2024-01-01T02:14:05Z</updated>
+    <id>tag:github.com,2024-01-01:/nf-core/ampliseq</id>
+    <link href="https://github.com/nf-core/ampliseq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Amplicon sequencing analysis workflow using DADA2 and QIIME2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

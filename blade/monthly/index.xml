@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Blade Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-01T02:05:31Z</updated>
+  <subtitle>Monthly Trending of Blade in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thedevdojo/genesis</title>
+    <updated>2024-01-01T02:05:31Z</updated>
+    <id>tag:github.com,2024-01-01:/thedevdojo/genesis</id>
+    <link href="https://github.com/thedevdojo/genesis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Application Starter Kit - Built with Laravel Folio and Volt&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Marolix2011/E-Commerce</title>
+    <updated>2024-01-01T02:05:31Z</updated>
+    <id>tag:github.com,2024-01-01:/Marolix2011/E-Commerce</id>
+    <link href="https://github.com/Marolix2011/E-Commerce" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-31T01:27:58Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2024-01-01T01:28:49Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cuda-mode/resource-stream</title>
-    <updated>2024-12-31T01:27:58Z</updated>
-    <id>tag:github.com,2024-12-31:/cuda-mode/resource-stream</id>
-    <link href="https://github.com/cuda-mode/resource-stream" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CUDA related news and material links&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tongji-KGLLM/RAG-Survey</title>
+    <updated>2024-01-01T01:28:49Z</updated>
+    <id>tag:github.com,2024-01-01:/Tongji-KGLLM/RAG-Survey</id>
+    <link href="https://github.com/Tongji-KGLLM/RAG-Survey" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>successfulstudy/promptoftheyear</title>
-    <updated>2024-12-31T01:27:58Z</updated>
-    <id>tag:github.com,2024-12-31:/successfulstudy/promptoftheyear</id>
-    <link href="https://github.com/successfulstudy/promptoftheyear" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That&#39;s why I&#39;ve created this collection, showcasing the most impactful prompts of the year across various intriguing domains. 🌐&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gnuton/asuswrt-merlin.ng</title>
-    <updated>2024-12-31T01:27:58Z</updated>
-    <id>tag:github.com,2024-12-31:/gnuton/asuswrt-merlin.ng</id>
-    <link href="https://github.com/gnuton/asuswrt-merlin.ng" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extends the support of Asus Merlin firmware to more routers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Archmage83/tvapk</title>
+    <updated>2024-01-01T01:28:49Z</updated>
+    <id>tag:github.com,2024-01-01:/Archmage83/tvapk</id>
+    <link href="https://github.com/Archmage83/tvapk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

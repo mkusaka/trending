@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-31T01:31:45Z</updated>
+  <updated>2024-01-01T01:34:43Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>collab-mode/collab-mode</title>
-    <updated>2024-12-31T01:31:45Z</updated>
-    <id>tag:github.com,2024-12-31:/collab-mode/collab-mode</id>
-    <link href="https://github.com/collab-mode/collab-mode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collaborative editing for Emacs.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;collab-mode&lt;/h1&gt; &#xA;&lt;p&gt;Collaborative editing for Emacs.&lt;/p&gt;</summary>
-  </entry>
 </feed>
