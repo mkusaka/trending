@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:28:49Z</updated>
+  <updated>2024-01-02T01:25:22Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Tongji-KGLLM/RAG-Survey</title>
-    <updated>2024-01-01T01:28:49Z</updated>
-    <id>tag:github.com,2024-01-01:/Tongji-KGLLM/RAG-Survey</id>
-    <link href="https://github.com/Tongji-KGLLM/RAG-Survey" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VictorEijkhout/TheArtofHPC_pdfs</title>
+    <updated>2024-01-02T01:25:22Z</updated>
+    <id>tag:github.com,2024-01-02:/VictorEijkhout/TheArtofHPC_pdfs</id>
+    <link href="https://github.com/VictorEijkhout/TheArtofHPC_pdfs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All pdfs of Victor Eijkhout&#39;s Art of HPC books and courses&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Archmage83/tvapk</title>
-    <updated>2024-01-01T01:28:49Z</updated>
-    <id>tag:github.com,2024-01-01:/Archmage83/tvapk</id>
-    <link href="https://github.com/Archmage83/tvapk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>linuxadi/40k-nuclei-templates</title>
+    <updated>2024-01-02T01:25:22Z</updated>
+    <id>tag:github.com,2024-01-02:/linuxadi/40k-nuclei-templates</id>
+    <link href="https://github.com/linuxadi/40k-nuclei-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;40,000+ Nuclei templates for security scanning and detection across diverse web applications and services&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jschuh/klipper-macros</title>
+    <updated>2024-01-02T01:25:22Z</updated>
+    <id>tag:github.com,2024-01-02:/jschuh/klipper-macros</id>
+    <link href="https://github.com/jschuh/klipper-macros" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of useful macros for the Klipper 3D printer firmware&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

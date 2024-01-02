@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureBasic Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:41:34Z</updated>
+  <updated>2024-01-02T01:36:39Z</updated>
   <subtitle>Daily Trending of PureBasic in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Kron4ek/minecraft-vortex-launcher</title>
-    <updated>2024-01-01T01:41:34Z</updated>
-    <id>tag:github.com,2024-01-01:/Kron4ek/minecraft-vortex-launcher</id>
-    <link href="https://github.com/Kron4ek/minecraft-vortex-launcher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast, lightweight and easy to use Minecraft launcher&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

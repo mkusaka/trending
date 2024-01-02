@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:40:05Z</updated>
+  <updated>2024-01-02T01:35:21Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>o1-labs/ocamlbyexample</title>
+    <updated>2024-01-02T01:35:21Z</updated>
+    <id>tag:github.com,2024-01-02:/o1-labs/ocamlbyexample</id>
+    <link href="https://github.com/o1-labs/ocamlbyexample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn Ocaml by reading code examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xapi-project/xen-api</title>
+    <updated>2024-01-02T01:35:21Z</updated>
+    <id>tag:github.com,2024-01-02:/xapi-project/xen-api</id>
+    <link href="https://github.com/xapi-project/xen-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Xapi Project&#39;s XenAPI Server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:34:37Z</updated>
+  <updated>2024-01-02T01:29:14Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>elixir-tools/tableau</title>
-    <updated>2024-01-01T01:34:37Z</updated>
-    <id>tag:github.com,2024-01-01:/elixir-tools/tableau</id>
-    <link href="https://github.com/elixir-tools/tableau" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Static Site Generator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SentryPeer/SentryPeerHQ</title>
-    <updated>2024-01-01T01:34:37Z</updated>
-    <id>tag:github.com,2024-01-01:/SentryPeer/SentryPeerHQ</id>
-    <link href="https://github.com/SentryPeer/SentryPeerHQ" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fraud Detection for VoIP. Use SentryPeer® HQ to help prevent VoIP cyberattacks and fraudulent VoIP phone calls (toll fraud) at https://sentrypeer.com&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:43:24Z</updated>
+  <updated>2024-01-02T01:38:15Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SciSharp/BotSharp-UI</title>
-    <updated>2024-01-01T01:43:24Z</updated>
-    <id>tag:github.com,2024-01-01:/SciSharp/BotSharp-UI</id>
-    <link href="https://github.com/SciSharp/BotSharp-UI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build, test and manage your AI Agents in the central place.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dmxk062/dotfiles</title>
+    <updated>2024-01-02T01:38:15Z</updated>
+    <id>tag:github.com,2024-01-02:/dmxk062/dotfiles</id>
+    <link href="https://github.com/dmxk062/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My Dotfiles for Hyprland, EWW and some other things&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

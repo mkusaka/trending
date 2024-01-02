@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:41:07Z</updated>
+  <updated>2024-01-02T01:36:23Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Freenove/Freenove_Ultimate_Starter_Kit</title>
-    <updated>2024-01-01T01:41:07Z</updated>
-    <id>tag:github.com,2024-01-01:/Freenove/Freenove_Ultimate_Starter_Kit</id>
-    <link href="https://github.com/Freenove/Freenove_Ultimate_Starter_Kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apply to FNK0017, FNK0018&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

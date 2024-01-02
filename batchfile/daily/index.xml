@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:30:21Z</updated>
+  <updated>2024-01-02T01:26:23Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>EbolaMan-YT/custom-cmd</title>
-    <updated>2024-01-01T01:30:21Z</updated>
-    <id>tag:github.com,2024-01-01:/EbolaMan-YT/custom-cmd</id>
-    <link href="https://github.com/EbolaMan-YT/custom-cmd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imvanda/Tree_This_Folder</title>
+    <updated>2024-01-02T01:26:23Z</updated>
+    <id>tag:github.com,2024-01-02:/imvanda/Tree_This_Folder</id>
+    <link href="https://github.com/imvanda/Tree_This_Folder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;为你的右键添加tree命令功能，快速生成文件夹结构，使用windows批处理脚本实现。&#34;Add the &#39;tree&#39; command functionality to your right-click menu for quick generation of folder structures, implemented using a Windows batch script.&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

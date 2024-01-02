@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OpenSCAD Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:40:18Z</updated>
+  <updated>2024-01-02T01:35:34Z</updated>
   <subtitle>Daily Trending of OpenSCAD in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>revarbat/BOSL</title>
+    <updated>2024-01-02T01:35:34Z</updated>
+    <id>tag:github.com,2024-01-02:/revarbat/BOSL</id>
+    <link href="https://github.com/revarbat/BOSL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Belfry OpenScad Library - A library of tools, shapes, and helpers to make OpenScad easier to use.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

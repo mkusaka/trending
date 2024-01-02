@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:40:29Z</updated>
+  <updated>2024-01-02T01:35:45Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Makhaon/TThreadTimer</title>
-    <updated>2024-01-01T01:40:29Z</updated>
-    <id>tag:github.com,2024-01-01:/Makhaon/TThreadTimer</id>
-    <link href="https://github.com/Makhaon/TThreadTimer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform timer working in additional thread&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Kisspeace/NsfwBox</title>
-    <updated>2024-01-01T01:40:29Z</updated>
-    <id>tag:github.com,2024-01-01:/Kisspeace/NsfwBox</id>
-    <link href="https://github.com/Kisspeace/NsfwBox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform app for search and download porn&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AlexanderBagel/ProcessMemoryMap</title>
+    <updated>2024-01-02T01:35:45Z</updated>
+    <id>tag:github.com,2024-01-02:/AlexanderBagel/ProcessMemoryMap</id>
+    <link href="https://github.com/AlexanderBagel/ProcessMemoryMap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Process Memory Map&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:32:38Z</updated>
+  <updated>2024-01-02T01:27:54Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>leimao/CUDA-GEMM-Optimization</title>
-    <updated>2024-01-01T01:32:38Z</updated>
-    <id>tag:github.com,2024-01-01:/leimao/CUDA-GEMM-Optimization</id>
-    <link href="https://github.com/leimao/CUDA-GEMM-Optimization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CUDA Matrix Multiplication Optimization&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

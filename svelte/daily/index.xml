@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:44:22Z</updated>
+  <updated>2024-01-02T01:39:07Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rt-evil-inc/gira</title>
-    <updated>2024-01-01T01:44:22Z</updated>
-    <id>tag:github.com,2024-01-01:/rt-evil-inc/gira</id>
-    <link href="https://github.com/rt-evil-inc/gira" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Aplicação alternativa para o sistema de bicicletas partilhadas de Lisboa&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>s0er3n/GeoBingo.io</title>
-    <updated>2024-01-01T01:44:22Z</updated>
-    <id>tag:github.com,2024-01-01:/s0er3n/GeoBingo.io</id>
-    <link href="https://github.com/s0er3n/GeoBingo.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a multiplayer street view bingo game&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

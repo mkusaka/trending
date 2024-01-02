@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:35:42Z</updated>
+  <updated>2024-01-02T01:30:19Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ministryofjustice/laa-cwa-feature-tests</title>
-    <updated>2024-01-01T01:35:42Z</updated>
-    <id>tag:github.com,2024-01-01:/ministryofjustice/laa-cwa-feature-tests</id>
-    <link href="https://github.com/ministryofjustice/laa-cwa-feature-tests" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automation tests for CWA&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

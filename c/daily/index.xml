@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:30:54Z</updated>
+  <updated>2024-01-02T01:26:40Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Maldev-Academy/Christmas</title>
-    <updated>2024-01-01T01:30:54Z</updated>
-    <id>tag:github.com,2024-01-01:/Maldev-Academy/Christmas</id>
-    <link href="https://github.com/Maldev-Academy/Christmas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Maldev Academy&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://maldevacademy.com&#34;&gt;Maldev Academy Home&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://maldevacademy.com/syllabus&#34;&gt;Maldev Academy Syllabus&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Christmas&lt;/h3&gt; &#xA;&lt;p&gt;Implementing an injection method mentioned by &lt;a href=&#34;https://x.com/Hexacorn/status/1350437846398722049?s=20&#34;&gt;@Hexacorn&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This PoC creates multiple processes, where each process performs a specific task as part of the injection operation. Each child process will spawn another process and pass the required information via the command line. The program follows the steps below:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;The first child process creates the target process where the payload will be injected. The handle is inherited among all the following child processes.&lt;/li&gt; &#xA; &lt;li&gt;The second child process will allocate memory in the target process.&lt;/li&gt; &#xA; &lt;li&gt;The third child process will change the previously allocated memory permissions to RWX.&lt;/li&gt; &#xA; &lt;li&gt;Following that, for every 1024 bytes of the payload, a process will be created to write those bytes.&lt;/li&gt; &#xA; &lt;li&gt;Lastly, another process will be responsible for payload execution.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;The PoC uses the RC4 encryption algorithm to encrypt a Havoc Demon payload. The program, &lt;code&gt;ChristmasPayloadEnc.exe&lt;/code&gt;, will be responsible for encrypting the payload, and padding it to be multiple of 1024 (as required by the injection logic).&lt;/p&gt; &#xA;&lt;br&gt; &#xA;&lt;h3&gt;Demo: Bypassing MDE using Havoc&#39;s Demon payload&lt;/h3&gt; &#xA;&lt;br&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Maldev-Academy/Christmas/assets/111295429/b6af762e-5b76-44a5-834c-a148878a9505&#34; alt=&#34;image_2023-12-24_00-31-46&#34;&gt; &lt;img src=&#34;https://github.com/Maldev-Academy/Christmas/assets/111295429/fe18b824-21be-4d1f-9bac-1ff798febedf&#34; alt=&#34;image_2023-12-24_00-31-24&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

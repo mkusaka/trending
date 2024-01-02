@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:33:27Z</updated>
+  <updated>2024-01-02T01:28:26Z</updated>
   <subtitle>Daily Trending of DM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TheCanoePirates/TCPStation</title>
-    <updated>2024-01-01T01:33:27Z</updated>
-    <id>tag:github.com,2024-01-01:/TheCanoePirates/TCPStation</id>
-    <link href="https://github.com/TheCanoePirates/TCPStation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

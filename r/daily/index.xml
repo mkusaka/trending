@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:42:00Z</updated>
+  <updated>2024-01-02T01:37:04Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ursacomputing/crossbow</title>
-    <updated>2024-01-01T01:42:00Z</updated>
-    <id>tag:github.com,2024-01-01:/ursacomputing/crossbow</id>
-    <link href="https://github.com/ursacomputing/crossbow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extra CI for Apache Arrow&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Arrow Packaging Tasks&lt;/h1&gt; &#xA;&lt;h2&gt;Nightlies&lt;/h2&gt; &#xA;&lt;p&gt;The nightly builds are submitted by cron jobs running as Github Actions cron jobs, see the github actions workflows defined in this repository.&lt;/p&gt; &#xA;&lt;p&gt;For the triggered tasks see the nightly group of crossbow&#39;s &lt;a href=&#34;https://github.com/apache/arrow/raw/main/dev/tasks/tasks.yml&#34;&gt;task definition file&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Nightly report CSVs are stored on the &lt;code&gt;csv_reports&lt;/code&gt; directory.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>jasp-stats/jaspMixedModels</title>
-    <updated>2024-01-01T01:42:00Z</updated>
-    <id>tag:github.com,2024-01-01:/jasp-stats/jaspMixedModels</id>
-    <link href="https://github.com/jasp-stats/jaspMixedModels" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Mixed Models Module&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

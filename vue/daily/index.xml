@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:45:40Z</updated>
+  <updated>2024-01-02T01:40:20Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CircleCI-Public/sample-javascript-cfd</title>
-    <updated>2024-01-01T01:45:40Z</updated>
-    <id>tag:github.com,2024-01-01:/CircleCI-Public/sample-javascript-cfd</id>
-    <link href="https://github.com/CircleCI-Public/sample-javascript-cfd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gkd-kit/inspect</title>
+    <updated>2024-01-02T01:40:20Z</updated>
+    <id>tag:github.com,2024-01-02:/gkd-kit/inspect</id>
+    <link href="https://github.com/gkd-kit/inspect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GKD 网页端审查工具, 抓取快照,审查快照,分享快照, 连接调试 GKD APP 内部 HTTP Server, 实时启用订阅规则, 实时执行点击选择器&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

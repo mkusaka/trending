@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:35:32Z</updated>
+  <updated>2024-01-02T01:30:09Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dialogic-godot/dialogic</title>
+    <updated>2024-01-02T01:30:09Z</updated>
+    <id>tag:github.com,2024-01-02:/dialogic-godot/dialogic</id>
+    <link href="https://github.com/dialogic-godot/dialogic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💬 Create dialogs, characters and scenes to display conversations in your Godot games.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Saplings-Projects/Birthday-2024</title>
+    <updated>2024-01-02T01:30:09Z</updated>
+    <id>tag:github.com,2024-01-02:/Saplings-Projects/Birthday-2024</id>
+    <link href="https://github.com/Saplings-Projects/Birthday-2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Game project for birthday in 2024 : a puzzle game where you must fit the pieces on the space you have&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jonathaneeckhout/jdungeon</title>
+    <updated>2024-01-02T01:30:09Z</updated>
+    <id>tag:github.com,2024-01-02:/jonathaneeckhout/jdungeon</id>
+    <link href="https://github.com/jonathaneeckhout/jdungeon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opensource 2d morpg game based on the Godot engine in a medieval inspired fantasy world&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-01T01:42:29Z</updated>
+  <updated>2024-01-02T01:37:29Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>smartlogic/smartlogic.io</title>
-    <updated>2024-01-01T01:42:29Z</updated>
-    <id>tag:github.com,2024-01-01:/smartlogic/smartlogic.io</id>
-    <link href="https://github.com/smartlogic/smartlogic.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SmartLogic&#39;s public website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GlovePIEPreservation/GlovePIE</title>
-    <updated>2024-01-01T01:42:29Z</updated>
-    <id>tag:github.com,2024-01-01:/GlovePIEPreservation/GlovePIE</id>
-    <link href="https://github.com/GlovePIEPreservation/GlovePIE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The original creator stopped maintaining it and the original site went down. I have uploaded my copy so people can continue using it.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
