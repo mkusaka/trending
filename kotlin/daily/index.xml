@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-02T01:33:16Z</updated>
+  <updated>2024-01-03T01:32:33Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bmax121/APatch</title>
-    <updated>2024-01-02T01:33:16Z</updated>
-    <id>tag:github.com,2024-01-02:/bmax121/APatch</id>
-    <link href="https://github.com/bmax121/APatch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The patching of Android kernel and Android system&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;APatch&lt;/h1&gt; &#xA;&lt;p&gt;The patching of Android kernel and Android system.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;    _    ____       _       _     &#xA;   / \  |  _ \ __ _| |_ ___| |__  &#xA;  / _ \ | |_) / _` | __/ __| &#39;_ \ &#xA; / ___ \|  __/ (_| | || (__| | | |&#xA;/_/   \_\_|   \__,_|\__\___|_| |_|&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Root&lt;/li&gt; &#xA; &lt;li&gt;APM: Magisk module like support&lt;/li&gt; &#xA; &lt;li&gt;KPM: Kernel Patch Module support. (Allow you to inject any code into the kernel, Kernel function inline-hook and syscall-table-hook is available)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;APatch relies on &lt;a href=&#34;https://github.com/bmax121/KernelPatch/&#34;&gt;KernelPatch&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Supported Versions&lt;/h2&gt; &#xA;&lt;p&gt;Only arm64.&lt;br&gt; Android Kernel Version 3.18 - 6.1&lt;/p&gt; &#xA;&lt;h2&gt;Requirement&lt;/h2&gt; &#xA;&lt;p&gt;CONFIG_KALLSYMS=y&lt;br&gt; CONFIG_KALLSYMS_ALL=y (CONFIG_KALLSYMS_ALL=n, Planned support)&lt;/p&gt; &#xA;&lt;h2&gt;Get Help&lt;/h2&gt; &#xA;&lt;h2&gt;Discussions&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Telegram Group: &lt;a href=&#34;https://t.me/+B5aYwCw4tY9hOWI9&#34;&gt;https://t.me/+B5aYwCw4tY9hOWI9&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;More Information&lt;/h2&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/bmax121/KernelPatch/&#34;&gt;KernelPatch&lt;/a&gt;: The core.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/topjohnwu/Magisk&#34;&gt;Magisk&lt;/a&gt;: magiskboot and magiskpolicy.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/tiann/KernelSU&#34;&gt;KernelSU&lt;/a&gt;: App UI, and magisk module like support.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;APatch is licensed under the GNU General Public License v3 (GPL-3) (&lt;a href=&#34;http://www.gnu.org/copyleft/gpl.html&#34;&gt;http://www.gnu.org/copyleft/gpl.html&lt;/a&gt;).&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-02T01:38:39Z</updated>
+  <updated>2024-01-03T01:38:05Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>OpenSmock/Molecule</title>
-    <updated>2024-01-02T01:38:39Z</updated>
-    <id>tag:github.com,2024-01-02:/OpenSmock/Molecule</id>
-    <link href="https://github.com/OpenSmock/Molecule" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Molecule is a Pharo component framework.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Cuis-Smalltalk/Cuis-Smalltalk-Dev</title>
-    <updated>2024-01-02T01:38:39Z</updated>
-    <id>tag:github.com,2024-01-02:/Cuis-Smalltalk/Cuis-Smalltalk-Dev</id>
-    <link href="https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Active development of Cuis Smalltalk&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

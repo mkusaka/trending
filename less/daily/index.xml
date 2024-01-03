@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-02T01:33:32Z</updated>
+  <updated>2024-01-03T01:32:47Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vishaltewatia/new-year-special</title>
+    <updated>2024-01-03T01:32:47Z</updated>
+    <id>tag:github.com,2024-01-03:/vishaltewatia/new-year-special</id>
+    <link href="https://github.com/vishaltewatia/new-year-special" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>17px/hexo-theme-cosy</title>
+    <updated>2024-01-03T01:32:47Z</updated>
+    <id>tag:github.com,2024-01-03:/17px/hexo-theme-cosy</id>
+    <link href="https://github.com/17px/hexo-theme-cosy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimalist, pursuing the ultimate loading speed for a Hexo theme，追求极致加载速度&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

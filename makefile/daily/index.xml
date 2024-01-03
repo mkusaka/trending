@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-02T01:34:02Z</updated>
+  <updated>2024-01-03T01:33:20Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>derphilipp/Flachwitze</title>
-    <updated>2024-01-02T01:34:02Z</updated>
-    <id>tag:github.com,2024-01-02:/derphilipp/Flachwitze</id>
-    <link href="https://github.com/derphilipp/Flachwitze" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of german puns/dad jokes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lg-devs/android_device_lge_h815</title>
-    <updated>2024-01-02T01:34:02Z</updated>
-    <id>tag:github.com,2024-01-02:/lg-devs/android_device_lge_h815</id>
-    <link href="https://github.com/lg-devs/android_device_lge_h815" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;International LG G4&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

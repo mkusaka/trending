@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-02T01:35:01Z</updated>
+  <updated>2024-01-03T01:34:18Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>musnix/musnix</title>
-    <updated>2024-01-02T01:35:01Z</updated>
-    <id>tag:github.com,2024-01-02:/musnix/musnix</id>
-    <link href="https://github.com/musnix/musnix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Real-time audio in NixOS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CnTeng/nixfiles</title>
+    <updated>2024-01-03T01:34:18Z</updated>
+    <id>tag:github.com,2024-01-03:/CnTeng/nixfiles</id>
+    <link href="https://github.com/CnTeng/nixfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NixOS Configuration&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

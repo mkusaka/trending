@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-02T01:35:45Z</updated>
+  <updated>2024-01-03T01:35:02Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AlexanderBagel/ProcessMemoryMap</title>
-    <updated>2024-01-02T01:35:45Z</updated>
-    <id>tag:github.com,2024-01-02:/AlexanderBagel/ProcessMemoryMap</id>
-    <link href="https://github.com/AlexanderBagel/ProcessMemoryMap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Process Memory Map&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Codrax/mspaint-rewritten</title>
+    <updated>2024-01-03T01:35:02Z</updated>
+    <id>tag:github.com,2024-01-03:/Codrax/mspaint-rewritten</id>
+    <link href="https://github.com/Codrax/mspaint-rewritten" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Windows 10 version Microsoft Paint rewritten in Delphi&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>landgraf-dev/aws-sdk-delphi-samples</title>
+    <updated>2024-01-03T01:35:02Z</updated>
+    <id>tag:github.com,2024-01-03:/landgraf-dev/aws-sdk-delphi-samples</id>
+    <link href="https://github.com/landgraf-dev/aws-sdk-delphi-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample projects using AWS (Amazon Web Services) SDK for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
