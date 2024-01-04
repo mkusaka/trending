@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-03T01:27:11Z</updated>
+  <updated>2024-01-04T01:27:41Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>iggy-rs/iggy-cpp-client</title>
-    <updated>2024-01-03T01:27:11Z</updated>
-    <id>tag:github.com,2024-01-03:/iggy-rs/iggy-cpp-client</id>
-    <link href="https://github.com/iggy-rs/iggy-cpp-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lightweight C++ client for Iggy.rs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sisaha9/grpc_vendor</title>
-    <updated>2024-01-03T01:27:11Z</updated>
-    <id>tag:github.com,2024-01-03:/sisaha9/grpc_vendor</id>
-    <link href="https://github.com/sisaha9/grpc_vendor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

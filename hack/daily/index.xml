@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-03T01:30:33Z</updated>
+  <updated>2024-01-04T01:30:53Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DAGINATSUKO/www-rpcs3</title>
+    <updated>2024-01-04T01:30:53Z</updated>
+    <id>tag:github.com,2024-01-04:/DAGINATSUKO/www-rpcs3</id>
+    <link href="https://github.com/DAGINATSUKO/www-rpcs3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a responsive website designed to house and promote the progress of RPCS3, an open-source PlayStation 3 emulator and debugger written in C++. This repository is regularly updated.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

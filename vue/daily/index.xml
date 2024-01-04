@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-03T01:39:54Z</updated>
+  <updated>2024-01-04T01:40:59Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>helloqyg/MettShort</title>
-    <updated>2024-01-03T01:39:54Z</updated>
-    <id>tag:github.com,2024-01-03:/helloqyg/MettShort</id>
-    <link href="https://github.com/helloqyg/MettShort" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2023热门短剧微短剧可运营版本，包含微信小程序、抖音小程序、APP、公众号多个版本。也支持微信小程序媒资管理、虚拟支付、微短剧等各模块功能。包含批量导入、各种视频格式的支持、saas多开、分销商分销、卡密兑换、分享海报、自动切换、小程序流量主等众多功能。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>YangMr/usian-flow</title>
+    <updated>2024-01-04T01:40:59Z</updated>
+    <id>tag:github.com,2024-01-04:/YangMr/usian-flow</id>
+    <link href="https://github.com/YangMr/usian-flow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;物流项目&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wudengyao/admin_vue3_vite</title>
-    <updated>2024-01-03T01:39:54Z</updated>
-    <id>tag:github.com,2024-01-03:/wudengyao/admin_vue3_vite</id>
-    <link href="https://github.com/wudengyao/admin_vue3_vite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;项目技术栈：Vue3 + JavaScript + Vite4&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jaaksii/sublink</title>
-    <updated>2024-01-03T01:39:54Z</updated>
-    <id>tag:github.com,2024-01-03:/jaaksii/sublink</id>
-    <link href="https://github.com/jaaksii/sublink" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Idered/chalk.ist</title>
+    <updated>2024-01-04T01:40:59Z</updated>
+    <id>tag:github.com,2024-01-04:/Idered/chalk.ist</id>
+    <link href="https://github.com/Idered/chalk.ist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📷 Create beautiful images of your source code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

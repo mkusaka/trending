@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-03T01:38:11Z</updated>
+  <updated>2024-01-04T01:39:13Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RigoBlock/v3-contracts</title>
-    <updated>2024-01-03T01:38:11Z</updated>
-    <id>tag:github.com,2024-01-03:/RigoBlock/v3-contracts</id>
-    <link href="https://github.com/RigoBlock/v3-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contracts of RigoBlock v3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sherlock-audit/2023-12-ubiquity</title>
+    <updated>2024-01-04T01:39:13Z</updated>
+    <id>tag:github.com,2024-01-04:/sherlock-audit/2023-12-ubiquity</id>
+    <link href="https://github.com/sherlock-audit/2023-12-ubiquity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cyfrin/5-t-swap-audit</title>
+    <updated>2024-01-04T01:39:13Z</updated>
+    <id>tag:github.com,2024-01-04:/Cyfrin/5-t-swap-audit</id>
+    <link href="https://github.com/Cyfrin/5-t-swap-audit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

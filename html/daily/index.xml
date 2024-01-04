@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-03T01:30:57Z</updated>
+  <updated>2024-01-04T01:31:18Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ShoroukAziz/notion_widgets</title>
-    <updated>2024-01-03T01:30:57Z</updated>
-    <id>tag:github.com,2024-01-03:/ShoroukAziz/notion_widgets</id>
-    <link href="https://github.com/ShoroukAziz/notion_widgets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of HTML widgets that could be embedded into Notion.so https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;notion_widgets&lt;/h1&gt; &#xA;&lt;p&gt;A set of HTML widgets that could be embedded into &lt;a href=&#34;https://www.notion.so/&#34;&gt;Notion.so&lt;/a&gt; pages. &lt;a href=&#34;https://blog.shorouk.dev/notion-widgets-gallery/&#34;&gt;learn more&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>devikumavath/27-frontend-project</title>
+    <updated>2024-01-04T01:31:18Z</updated>
+    <id>tag:github.com,2024-01-04:/devikumavath/27-frontend-project</id>
+    <link href="https://github.com/devikumavath/27-frontend-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

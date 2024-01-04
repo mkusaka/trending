@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-03T01:25:51Z</updated>
+  <updated>2024-01-04T01:26:09Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Sh4yy/tiny-stack</title>
-    <updated>2024-01-03T01:25:51Z</updated>
-    <id>tag:github.com,2024-01-03:/Sh4yy/tiny-stack</id>
-    <link href="https://github.com/Sh4yy/tiny-stack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple and tiny stack for building web applications using Astro, SQLite, and Litestream.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>grbrlks/its-wednesday-my-dudes</title>
-    <updated>2024-01-03T01:25:51Z</updated>
-    <id>tag:github.com,2024-01-03:/grbrlks/its-wednesday-my-dudes</id>
-    <link href="https://github.com/grbrlks/its-wednesday-my-dudes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>osalinasv/uuid-webapp</title>
-    <updated>2024-01-03T01:25:51Z</updated>
-    <id>tag:github.com,2024-01-03:/osalinasv/uuid-webapp</id>
-    <link href="https://github.com/osalinasv/uuid-webapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple webtool for generating and converting UUIDv4&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yacosta738/lyra</title>
+    <updated>2024-01-04T01:26:09Z</updated>
+    <id>tag:github.com,2024-01-04:/yacosta738/lyra</id>
+    <link href="https://github.com/yacosta738/lyra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SMRO&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

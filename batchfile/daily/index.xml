@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-03T01:26:06Z</updated>
+  <updated>2024-01-04T01:26:24Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DaytimeCoderr/RobloxPingOptimizer</title>
-    <updated>2024-01-03T01:26:06Z</updated>
-    <id>tag:github.com,2024-01-03:/DaytimeCoderr/RobloxPingOptimizer</id>
-    <link href="https://github.com/DaytimeCoderr/RobloxPingOptimizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
