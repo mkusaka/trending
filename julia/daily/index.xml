@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-04T01:32:55Z</updated>
+  <updated>2024-01-05T01:35:30Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>felipenoris/XLSX.jl</title>
-    <updated>2024-01-04T01:32:55Z</updated>
-    <id>tag:github.com,2024-01-04:/felipenoris/XLSX.jl</id>
-    <link href="https://github.com/felipenoris/XLSX.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Excel file reader and writer for the Julia language.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tanmaykm/LogRollerCompose.jl</title>
+    <updated>2024-01-05T01:35:30Z</updated>
+    <id>tag:github.com,2024-01-05:/tanmaykm/LogRollerCompose.jl</id>
+    <link href="https://github.com/tanmaykm/LogRollerCompose.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tanmaykm/SyslogLoggingCompose.jl</title>
+    <updated>2024-01-05T01:35:30Z</updated>
+    <id>tag:github.com,2024-01-05:/tanmaykm/SyslogLoggingCompose.jl</id>
+    <link href="https://github.com/tanmaykm/SyslogLoggingCompose.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-04T01:39:08Z</updated>
+  <updated>2024-01-05T01:43:28Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SimonCropp/NaughtyStrings</title>
-    <updated>2024-01-04T01:39:08Z</updated>
-    <id>tag:github.com,2024-01-04:/SimonCropp/NaughtyStrings</id>
-    <link href="https://github.com/SimonCropp/NaughtyStrings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Provides a strong typed .NET API for the Big List of Naughty Strings https://github.com/minimaxir/big-list-of-naughty-strings&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

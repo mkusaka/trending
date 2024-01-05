@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-04T01:30:08Z</updated>
+  <updated>2024-01-05T01:32:19Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GuilhermeGSousa/game-base-2D</title>
-    <updated>2024-01-04T01:30:08Z</updated>
-    <id>tag:github.com,2024-01-04:/GuilhermeGSousa/game-base-2D</id>
-    <link href="https://github.com/GuilhermeGSousa/game-base-2D" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A base structure for polished 2D games in Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

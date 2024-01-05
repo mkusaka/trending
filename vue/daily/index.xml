@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-04T01:40:59Z</updated>
+  <updated>2024-01-05T01:45:59Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>YangMr/usian-flow</title>
-    <updated>2024-01-04T01:40:59Z</updated>
-    <id>tag:github.com,2024-01-04:/YangMr/usian-flow</id>
-    <link href="https://github.com/YangMr/usian-flow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;物流项目&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Idered/chalk.ist</title>
-    <updated>2024-01-04T01:40:59Z</updated>
-    <id>tag:github.com,2024-01-04:/Idered/chalk.ist</id>
-    <link href="https://github.com/Idered/chalk.ist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📷 Create beautiful images of your source code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ZhiShuYun/HubFrontend</title>
+    <updated>2024-01-05T01:45:59Z</updated>
+    <id>tag:github.com,2024-01-05:/ZhiShuYun/HubFrontend</id>
+    <link href="https://github.com/ZhiShuYun/HubFrontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;集成 GPT 问答、Midjourney 绘画等一站式服务的系统&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

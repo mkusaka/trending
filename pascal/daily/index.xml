@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-04T01:35:52Z</updated>
+  <updated>2024-01-05T01:38:57Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>salvadordf/WebUI4Delphi</title>
-    <updated>2024-01-04T01:35:52Z</updated>
-    <id>tag:github.com,2024-01-04:/salvadordf/WebUI4Delphi</id>
-    <link href="https://github.com/salvadordf/WebUI4Delphi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WebUI4Delphi is a WebUI wrapper, which allows you to use any web browser as a GUI, with Delphi in the backend and HTML5 in the frontend.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-04T01:26:11Z</updated>
+  <updated>2024-01-05T01:27:34Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mschwartz/assembly-tutorial</title>
-    <updated>2024-01-04T01:26:11Z</updated>
-    <id>tag:github.com,2024-01-04:/mschwartz/assembly-tutorial</id>
-    <link href="https://github.com/mschwartz/assembly-tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Programming in assembly language tutorial&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lftraining/LFD110x</title>
+    <updated>2024-01-05T01:27:34Z</updated>
+    <id>tag:github.com,2024-01-05:/lftraining/LFD110x</id>
+    <link href="https://github.com/lftraining/LFD110x" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RISC-V (LFD110x)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-04T01:28:05Z</updated>
+  <updated>2024-01-05T01:29:50Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sheryislive/sundown</title>
-    <updated>2024-01-04T01:28:05Z</updated>
-    <id>tag:github.com,2024-01-04:/sheryislive/sundown</id>
-    <link href="https://github.com/sheryislive/sundown" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Rahulvaishnav9/Login-Page</title>
+    <updated>2024-01-05T01:29:50Z</updated>
+    <id>tag:github.com,2024-01-05:/Rahulvaishnav9/Login-Page</id>
+    <link href="https://github.com/Rahulvaishnav9/Login-Page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Follow my instagram account for more content&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Login-Page&lt;/h1&gt; &#xA;&lt;p&gt;Follow my instagram account for more content&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>BootstrapDash/star-admin2-free-admin-template</title>
-    <updated>2024-01-04T01:28:05Z</updated>
-    <id>tag:github.com,2024-01-04:/BootstrapDash/star-admin2-free-admin-template</id>
-    <link href="https://github.com/BootstrapDash/star-admin2-free-admin-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Star-Admin-2- Free-Bootstrap-Admin-Template&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Star Admin2 Free Bootstrap Admin Template&lt;/h1&gt; Star Admin 2 Free is an open-source, admin dashboard template built with &#xA;&lt;a href=&#34;https://getbootstrap.com/&#34; target=&#34;_blank&#34;&gt;Bootstrap 5&lt;/a&gt; created by &#xA;&lt;a href=&#34;https://www.bootstrapdash.com/&#34; target=&#34;_blank&#34;&gt;BootstrapDash&lt;/a&gt;. &#xA;&lt;h2&gt;Preview&lt;/h2&gt; &#xA;&lt;a href=&#34;https://www.bootstrapdash.com/demo/star-admin2-free/template/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/BootstrapDash/star-admin2-free-admin-template/main/screenshot.jpg&#34;&gt;&lt;/a&gt; &#xA;&lt;h2&gt;Download and installation&lt;/h2&gt; &#xA;&lt;p&gt;1 - Install node package. If you don’t know the installation steps, please click &lt;a href=&#34;https://nodejs.org/en/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;2 - Click the Clone or Download button in GitHub and download as a ZIP file or you can enter the command git clone &lt;a href=&#34;https://github.com/BootstrapDash/star-admin2-free-admin-template.git&#34;&gt;https://github.com/BootstrapDash/star-admin2-free-admin-template.git&lt;/a&gt; in your terminal to get a copy of this template.&lt;/p&gt; &#xA;&lt;p&gt;3 - After the files have been downloaded you will get a folder with all the required files&lt;/p&gt; &#xA;&lt;p&gt;4 - Open your terminal (Run as Administrator). You can install all the dependencies in the template by running the command npm install. All the required files are in the node modules. If you didn&#39;t run with admin authorities, you can see errors.&lt;/p&gt; &#xA;&lt;p&gt;5 - Find the file named index.html, check what all components you need. Open the file in a text editor and you can start editing.&lt;/p&gt; &#xA;&lt;p&gt;6 - Now that your project has now kick-started, all you need to do now is to code, code, and code to your heart&#39;s content.&lt;/p&gt; &#xA;&lt;p&gt;Star Admin 2 Free is a free admin dashboard template built with Bootstrap 5. We took the original Star Admin Pro and gave it a design overhaul along with newly written code to create our best template yet. This is a modern-looking dashboard with a clean and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template. Star Admin 2 Free comes with a clean and well-commented code that makes it easy to work with the template. Thus making it an ideal pick for jump-starting your project.&lt;/p&gt; &#xA;&lt;h2&gt;Browser Support:&lt;/h2&gt; &#xA;&lt;p&gt;Star Admin 2 Free is designed to work flawlessly with all the latest and modern web browsers.&lt;/p&gt; &#xA;&lt;h2&gt;License Information:&lt;/h2&gt; &#xA;&lt;p&gt;Star Admin 2 Free is released under MIT license. This is a free Bootstrap 5 admin template developed from BootstrapDash. Feel free to download, use, share, and get creative with it.&lt;/p&gt; &#xA;&lt;h2&gt;How to Contribute?:&lt;/h2&gt; &#xA;&lt;p&gt;We love your contributions and we welcome them wholeheartedly. We believe the more the merrier. To contribute make sure you have Node.js and npm installed. Now run the command gulp --version. If the command returns with the Gulp version number, it means you have Gulp installed. If not you need to run the command npm install --global gulp-cli to install Gulp.&lt;/p&gt; &#xA;&lt;p&gt;After Gulp has been installed, follow the steps below to contribute. &lt;br&gt; 1 - Fork and clone the repo of Star Admin 2 Free &lt;br&gt; 2 - Run the command npm install to install all the dependencies. &lt;br&gt; 3 - Enter the command gulp serve. This will open Star Admin 2 Free in your default browser. &lt;br&gt; 4 - Make your valuable contribution &lt;br&gt; 5 - Submit a pull request&lt;/p&gt; &#xA;&lt;hr&gt; Do you need a template with more features and functionalities? Check out the premium version of Star Admin 2! Visit &#xA;&lt;a href=&#34;https://www.bootstrapdash.com&#34; target=&#34;_blank&#34;&gt;https://www.bootstrapdash.com&lt;/a&gt; for more admin templates.</summary>
+    <title>Rysera-Innovations/Rysera-web</title>
+    <updated>2024-01-05T01:29:50Z</updated>
+    <id>tag:github.com,2024-01-05:/Rysera-Innovations/Rysera-web</id>
+    <link href="https://github.com/Rysera-Innovations/Rysera-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;React + Vite&lt;/h1&gt; &#xA;&lt;p&gt;This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.&lt;/p&gt; &#xA;&lt;p&gt;Currently, two official plugins are available:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/vitejs/vite-plugin-react/raw/main/packages/plugin-react/README.md&#34;&gt;@vitejs/plugin-react&lt;/a&gt; uses &lt;a href=&#34;https://babeljs.io/&#34;&gt;Babel&lt;/a&gt; for Fast Refresh&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/vitejs/vite-plugin-react-swc&#34;&gt;@vitejs/plugin-react-swc&lt;/a&gt; uses &lt;a href=&#34;https://swc.rs/&#34;&gt;SWC&lt;/a&gt; for Fast Refresh&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenClassrooms-Student-Center/P12_Front-end</title>
+    <updated>2024-01-05T01:29:50Z</updated>
+    <id>tag:github.com,2024-01-05:/OpenClassrooms-Student-Center/P12_Front-end</id>
+    <link href="https://github.com/OpenClassrooms-Student-Center/P12_Front-end" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HRnet&lt;/h1&gt; &#xA;&lt;p&gt;Welcome to HRnet! This is our company&#39;s internal application to create and view employee records.&lt;/p&gt;</summary>
   </entry>
 </feed>

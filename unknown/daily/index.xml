@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-04T01:25:26Z</updated>
+  <updated>2024-01-05T01:26:36Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chiteroman/Reprogram-TEE-on-Qualcomm-devices</title>
-    <updated>2024-01-04T01:25:26Z</updated>
-    <id>tag:github.com,2024-01-04:/chiteroman/Reprogram-TEE-on-Qualcomm-devices</id>
-    <link href="https://github.com/chiteroman/Reprogram-TEE-on-Qualcomm-devices" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Guide to reprogram the TEE on Qualcomm devices to fix lost attestation keys&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models</title>
+    <updated>2024-01-05T01:26:36Z</updated>
+    <id>tag:github.com,2024-01-05:/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models</id>
+    <link href="https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>HACKE-RC/awesome-reversing</title>
-    <updated>2024-01-04T01:25:26Z</updated>
-    <id>tag:github.com,2024-01-04:/HACKE-RC/awesome-reversing</id>
-    <link href="https://github.com/HACKE-RC/awesome-reversing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of resources to learn Reverse Engineering from start!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anisurrahman072/React-Native-Advanced-Guide</title>
+    <updated>2024-01-05T01:26:36Z</updated>
+    <id>tag:github.com,2024-01-05:/anisurrahman072/React-Native-Advanced-Guide</id>
+    <link href="https://github.com/anisurrahman072/React-Native-Advanced-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;React Native Advanced Guide Book (iOS &amp; Android) - Be an Expert in 2024 🔥&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>blindma1den/Programming-Skills-Level0</title>
-    <updated>2024-01-04T01:25:26Z</updated>
-    <id>tag:github.com,2024-01-04:/blindma1den/Programming-Skills-Level0</id>
-    <link href="https://github.com/blindma1den/Programming-Skills-Level0" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains a series of entry-level exercises that can be solved in any programming language. The purpose of these exercises is to develop your programming logic. This repository is the first in a series of more exercises to improve your programming skills.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MiAO-AI-Lab/LARP</title>
+    <updated>2024-01-05T01:26:36Z</updated>
+    <id>tag:github.com,2024-01-05:/MiAO-AI-Lab/LARP</id>
+    <link href="https://github.com/MiAO-AI-Lab/LARP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

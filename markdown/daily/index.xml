@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-04T01:34:15Z</updated>
+  <updated>2024-01-05T01:36:50Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jonjoncardoso/quarto-template-for-university-courses</title>
-    <updated>2024-01-04T01:34:15Z</updated>
-    <id>tag:github.com,2024-01-04:/jonjoncardoso/quarto-template-for-university-courses</id>
-    <link href="https://github.com/jonjoncardoso/quarto-template-for-university-courses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Quarto-based template for designing websites of university courses.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
