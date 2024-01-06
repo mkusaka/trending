@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-05T01:29:50Z</updated>
+  <updated>2024-01-06T01:28:59Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Rahulvaishnav9/Login-Page</title>
-    <updated>2024-01-05T01:29:50Z</updated>
-    <id>tag:github.com,2024-01-05:/Rahulvaishnav9/Login-Page</id>
-    <link href="https://github.com/Rahulvaishnav9/Login-Page" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Follow my instagram account for more content&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Login-Page&lt;/h1&gt; &#xA;&lt;p&gt;Follow my instagram account for more content&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Rysera-Innovations/Rysera-web</title>
-    <updated>2024-01-05T01:29:50Z</updated>
-    <id>tag:github.com,2024-01-05:/Rysera-Innovations/Rysera-web</id>
-    <link href="https://github.com/Rysera-Innovations/Rysera-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;React + Vite&lt;/h1&gt; &#xA;&lt;p&gt;This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.&lt;/p&gt; &#xA;&lt;p&gt;Currently, two official plugins are available:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/vitejs/vite-plugin-react/raw/main/packages/plugin-react/README.md&#34;&gt;@vitejs/plugin-react&lt;/a&gt; uses &lt;a href=&#34;https://babeljs.io/&#34;&gt;Babel&lt;/a&gt; for Fast Refresh&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/vitejs/vite-plugin-react-swc&#34;&gt;@vitejs/plugin-react-swc&lt;/a&gt; uses &lt;a href=&#34;https://swc.rs/&#34;&gt;SWC&lt;/a&gt; for Fast Refresh&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>OpenClassrooms-Student-Center/P12_Front-end</title>
-    <updated>2024-01-05T01:29:50Z</updated>
-    <id>tag:github.com,2024-01-05:/OpenClassrooms-Student-Center/P12_Front-end</id>
-    <link href="https://github.com/OpenClassrooms-Student-Center/P12_Front-end" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HRnet&lt;/h1&gt; &#xA;&lt;p&gt;Welcome to HRnet! This is our company&#39;s internal application to create and view employee records.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-05T01:36:45Z</updated>
+  <updated>2024-01-06T01:35:26Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vvatelot/mosquitto-docker-compose</title>
-    <updated>2024-01-05T01:36:45Z</updated>
-    <id>tag:github.com,2024-01-05:/vvatelot/mosquitto-docker-compose</id>
-    <link href="https://github.com/vvatelot/mosquitto-docker-compose" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple Mosquitto Docker Compose template&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SkafteNicki/mlops_template</title>
+    <updated>2024-01-06T01:35:26Z</updated>
+    <id>tag:github.com,2024-01-06:/SkafteNicki/mlops_template</id>
+    <link href="https://github.com/SkafteNicki/mlops_template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nicolastinkl/UUVPN</title>
-    <updated>2024-01-05T01:36:45Z</updated>
-    <id>tag:github.com,2024-01-05:/nicolastinkl/UUVPN</id>
-    <link href="https://github.com/nicolastinkl/UUVPN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于Flutter开发的VPN客户端(ios/android)，自主设计，精美UI,优化VPN速度，完全开源。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DutchDevelop/BLLEDController</title>
+    <updated>2024-01-06T01:35:26Z</updated>
+    <id>tag:github.com,2024-01-06:/DutchDevelop/BLLEDController</id>
+    <link href="https://github.com/DutchDevelop/BLLEDController" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

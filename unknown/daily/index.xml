@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-05T01:26:36Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2024-01-06T01:25:31Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models</title>
-    <updated>2024-01-05T01:26:36Z</updated>
-    <id>tag:github.com,2024-01-05:/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models</id>
-    <link href="https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>anisurrahman072/React-Native-Advanced-Guide</title>
-    <updated>2024-01-05T01:26:36Z</updated>
-    <id>tag:github.com,2024-01-05:/anisurrahman072/React-Native-Advanced-Guide</id>
-    <link href="https://github.com/anisurrahman072/React-Native-Advanced-Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;React Native Advanced Guide Book (iOS &amp; Android) - Be an Expert in 2024 🔥&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MiAO-AI-Lab/LARP</title>
-    <updated>2024-01-05T01:26:36Z</updated>
-    <id>tag:github.com,2024-01-05:/MiAO-AI-Lab/LARP</id>
-    <link href="https://github.com/MiAO-AI-Lab/LARP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zju3dv/street_gaussians</title>
+    <updated>2024-01-06T01:25:31Z</updated>
+    <id>tag:github.com,2024-01-06:/zju3dv/street_gaussians</id>
+    <link href="https://github.com/zju3dv/street_gaussians" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for &#34;Street Gaussians for Modeling Dynamic Urban Scenes&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

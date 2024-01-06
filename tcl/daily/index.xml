@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-05T01:44:37Z</updated>
+  <updated>2024-01-06T01:41:33Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Polkadot-Blockchain-Academy/pba-content</title>
+    <updated>2024-01-06T01:41:33Z</updated>
+    <id>tag:github.com,2024-01-06:/Polkadot-Blockchain-Academy/pba-content</id>
+    <link href="https://github.com/Polkadot-Blockchain-Academy/pba-content" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An intensive academic program teaching Blockchain, Substrate, and Polkadot.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-05T01:44:03Z</updated>
+  <updated>2024-01-06T01:41:12Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bmdavis419/SvelteKit-Ecommerce</title>
-    <updated>2024-01-05T01:44:03Z</updated>
-    <id>tag:github.com,2024-01-05:/bmdavis419/SvelteKit-Ecommerce</id>
-    <link href="https://github.com/bmdavis419/SvelteKit-Ecommerce" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An opensource, fullstack e-commerce app build with SvelteKit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ruimgbarros/svelte-flourish-scroller</title>
+    <updated>2024-01-06T01:41:12Z</updated>
+    <id>tag:github.com,2024-01-06:/ruimgbarros/svelte-flourish-scroller</id>
+    <link href="https://github.com/ruimgbarros/svelte-flourish-scroller" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

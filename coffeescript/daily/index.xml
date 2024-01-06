@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-05T01:29:27Z</updated>
+  <updated>2024-01-06T01:28:32Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudfour/offCanvasMenu</title>
-    <updated>2024-01-05T01:29:27Z</updated>
-    <id>tag:github.com,2024-01-05:/cloudfour/offCanvasMenu</id>
-    <link href="https://github.com/cloudfour/offCanvasMenu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A jQuery/Zepto plugin that provides an easy way to implement an off-canvas toggling menu, a navigation metaphor made popular by mobile applications.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>couchand/force-formula</title>
+    <updated>2024-01-06T01:28:32Z</updated>
+    <id>tag:github.com,2024-01-06:/couchand/force-formula</id>
+    <link href="https://github.com/couchand/force-formula" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;parse the force.com formula syntax.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>excid3/excid3bot</title>
-    <updated>2024-01-05T01:29:27Z</updated>
-    <id>tag:github.com,2024-01-05:/excid3/excid3bot</id>
-    <link href="https://github.com/excid3/excid3bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A hubot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>djthread/podproxy</title>
+    <updated>2024-01-06T01:28:32Z</updated>
+    <id>tag:github.com,2024-01-06:/djthread/podproxy</id>
+    <link href="https://github.com/djthread/podproxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Podcast Client / Proxy&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
