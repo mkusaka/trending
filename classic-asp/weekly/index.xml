@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Classic ASP Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-07T01:45:29Z</updated>
+  <subtitle>Weekly Trending of Classic ASP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gzlifepics/WebApplication1</title>
+    <updated>2024-01-07T01:45:29Z</updated>
+    <id>tag:github.com,2024-01-07:/gzlifepics/WebApplication1</id>
+    <link href="https://github.com/gzlifepics/WebApplication1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Test ASP.Net repo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

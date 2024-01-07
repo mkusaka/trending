@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-07T01:52:23Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chaseSpace/k8s-tutorial-cn</title>
+    <updated>2024-01-07T01:52:23Z</updated>
+    <id>tag:github.com,2024-01-07:/chaseSpace/k8s-tutorial-cn</id>
+    <link href="https://github.com/chaseSpace/k8s-tutorial-cn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>procount/pinn</title>
+    <updated>2024-01-07T01:52:23Z</updated>
+    <id>tag:github.com,2024-01-07:/procount/pinn</id>
+    <link href="https://github.com/procount/pinn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An enhanced Operating System installer for the Raspberry Pi&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mxe/mxe</title>
+    <updated>2024-01-07T01:52:23Z</updated>
+    <id>tag:github.com,2024-01-07:/mxe/mxe</id>
+    <link href="https://github.com/mxe/mxe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MXE (M cross environment)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

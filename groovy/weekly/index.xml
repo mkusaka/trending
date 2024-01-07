@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-07T01:49:03Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>devopswithcloud/devops-repo</title>
+    <updated>2024-01-07T01:49:03Z</updated>
+    <id>tag:github.com,2024-01-07:/devopswithcloud/devops-repo</id>
+    <link href="https://github.com/devopswithcloud/devops-repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uclahs-cds/pipeline-Nextflow-config</title>
+    <updated>2024-01-07T01:49:03Z</updated>
+    <id>tag:github.com,2024-01-07:/uclahs-cds/pipeline-Nextflow-config</id>
+    <link href="https://github.com/uclahs-cds/pipeline-Nextflow-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Set of commonly used Nextflow configs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ppazos/cabolabs-xre-engine</title>
+    <updated>2024-01-07T01:49:03Z</updated>
+    <id>tag:github.com,2024-01-07:/ppazos/cabolabs-xre-engine</id>
+    <link href="https://github.com/ppazos/cabolabs-xre-engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;XML Rule Enfgine for Clinical Decision Support&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-07T01:57:38Z</updated>
+  <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pharo-graphics/RoassalLayouts</title>
+    <updated>2024-01-07T01:57:38Z</updated>
+    <id>tag:github.com,2024-01-07:/pharo-graphics/RoassalLayouts</id>
+    <link href="https://github.com/pharo-graphics/RoassalLayouts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;layout from Roassal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pharo-graphics/NumericScales</title>
+    <updated>2024-01-07T01:57:38Z</updated>
+    <id>tag:github.com,2024-01-07:/pharo-graphics/NumericScales</id>
+    <link href="https://github.com/pharo-graphics/NumericScales" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Numerical scales for Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

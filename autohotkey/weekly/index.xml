@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub AutoHotkey Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-07T01:44:12Z</updated>
+  <subtitle>Weekly Trending of AutoHotkey in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>iglvzx/SMASH</title>
+    <updated>2024-01-07T01:44:12Z</updated>
+    <id>tag:github.com,2024-01-07:/iglvzx/SMASH</id>
+    <link href="https://github.com/iglvzx/SMASH" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Silence, Minimize, and Save Hiney&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MisterZakary/LOL_Family_Protector</title>
+    <updated>2024-01-07T01:44:12Z</updated>
+    <id>tag:github.com,2024-01-07:/MisterZakary/LOL_Family_Protector</id>
+    <link href="https://github.com/MisterZakary/LOL_Family_Protector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;英雄联盟亲人保护器，不建议随便用，但是遇到实在脑子有问题的，那还是以暴制暴吧。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>likaci/Get2Search</title>
+    <updated>2024-01-07T01:44:12Z</updated>
+    <id>tag:github.com,2024-01-07:/likaci/Get2Search</id>
+    <link href="https://github.com/likaci/Get2Search" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

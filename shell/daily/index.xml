@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-06T01:40:18Z</updated>
+  <updated>2024-01-07T01:40:03Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Lynn-Becky/v6_only</title>
+    <updated>2024-01-07T01:40:03Z</updated>
+    <id>tag:github.com,2024-01-07:/Lynn-Becky/v6_only</id>
+    <link href="https://github.com/Lynn-Becky/v6_only" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个在仅ipv6的系统上提供i双栈访问能力的脚本&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;v6_only&lt;/h1&gt; &#xA;&lt;p&gt;本脚本目标在仅ipv6的系统上提供ipv4+ipv6双栈访问能力&lt;/p&gt; &#xA;&lt;h1&gt;功能介绍&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;提供了Nat64与warp两种方式，获取ipv4访问能力&lt;/li&gt; &#xA; &lt;li&gt;proxychains4 的socks端口为1835&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;部署&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;apt install -y curl &amp;amp;&amp;amp; bash &amp;lt;(curl -Ls https://raw.githubusercontent.com/Lynn-Becky/v6_only/main/v4.sh)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;目前在wap 1刀机上的debian11系统试验&lt;/p&gt; &#xA;&lt;p&gt;特别感谢各位大佬的命令，本脚本仅将其做整合&lt;/p&gt; &#xA;&lt;h1&gt;建议&lt;/h1&gt; &#xA;&lt;p&gt;先使用Nat64方式，安装你想要的那个脚本，再切换到warp方式&lt;/p&gt;</summary>
+  </entry>
 </feed>

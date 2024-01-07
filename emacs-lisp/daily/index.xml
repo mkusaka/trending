@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-06T01:30:53Z</updated>
+  <updated>2024-01-07T01:31:37Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>inlinechan/gdb-ui</title>
-    <updated>2024-01-06T01:30:53Z</updated>
-    <id>tag:github.com,2024-01-06:/inlinechan/gdb-ui</id>
-    <link href="https://github.com/inlinechan/gdb-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;gdb-ui.el from emacs23.3b&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is to enable gdb-ui with --annotate=3 rather than -i=mi.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>don9z/emacs-kit</title>
-    <updated>2024-01-06T01:30:53Z</updated>
-    <id>tag:github.com,2024-01-06:/don9z/emacs-kit</id>
-    <link href="https://github.com/don9z/emacs-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yet another starter kit for Emacs&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Emacs-Kit&lt;/h2&gt; &#xA;&lt;p&gt;Emacs is the best text editor, but it takes time to configure it.&lt;/p&gt; &#xA;&lt;p&gt;This kit aims to make it easy, with efficient and readable scripts.&lt;/p&gt; &#xA;&lt;p&gt;It depends on some packages, but in case that some functions might not be needed, most of the packages are &lt;a href=&#34;http://en.wikipedia.org/wiki/Lazy_loading&#34;&gt;lazy loaded&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Also, Emacs packaging mechanism is adopted in this kit, all packages are downloaded and installed from &lt;a href=&#34;http://melpa.milkbox.net/&#34;&gt;MELPA&lt;/a&gt; during the first launch of Emacs.&lt;/p&gt; &#xA;&lt;p&gt;There are still some packages missing in MELPA are stored in the &lt;code&gt;extensions&lt;/code&gt; folder, some are fetched from &lt;a href=&#34;http://github.com&#34;&gt;github&lt;/a&gt;, hope it will be removed soon.&lt;/p&gt; &#xA;&lt;p&gt;Please run &lt;code&gt;git submodule init&lt;/code&gt; and &lt;code&gt;git submodule update&lt;/code&gt; after you&#39;ve cloned it.&lt;/p&gt; &#xA;&lt;p&gt;Please use Emacs 24+, and load &lt;code&gt;init.el&lt;/code&gt; in your &lt;code&gt;.emacs&lt;/code&gt; file.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>lamf-lamf/dotfiles</title>
-    <updated>2024-01-06T01:30:53Z</updated>
-    <id>tag:github.com,2024-01-06:/lamf-lamf/dotfiles</id>
-    <link href="https://github.com/lamf-lamf/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;......................................... ......................................... ................DOT.FILES................ ......................................... ......................................... ................install.sh............... ......................................... .........................................&lt;/p&gt;</summary>
+    <title>rougier/org-margin</title>
+    <updated>2024-01-07T01:31:37Z</updated>
+    <id>tag:github.com,2024-01-07:/rougier/org-margin</id>
+    <link href="https://github.com/rougier/org-margin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Outdent headlines in emacs org-mode&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;Level 1&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;org-margin mode allows to &#34;outdent&#34; org headlines by moving leading stars into the margin and transform them into markers depending on the chosen style among &#39;stars (regular org style), &#39;H-txt (current style) and &#39;H-svg (using svg-lib tags). To increase/decrease level, easiest method is to use =M-left= and =M-right= because stars are not really accessible anymore.&lt;/p&gt; &#xA;&lt;p&gt;** Level 2&lt;/p&gt; &#xA;&lt;p&gt;User can also define custom margin markers for each header level. Size of the left margin is then computed to be wide enough to accomodate all markers.&lt;/p&gt; &#xA;&lt;p&gt;*** Level 3&lt;/p&gt; &#xA;&lt;p&gt;It is possible to provide custom regex to add specific marker in the margin. Org-margin comes with two markers (from NERD Font) for marking source and quote blocks, but any svg-lib tags or regular text can be used as well.&lt;/p&gt; &#xA;&lt;p&gt;#+begin_src emacs-lisp&lt;/p&gt; &#xA;&lt;p&gt;(require &#39;org-margin) (org-margin-mode 1)&lt;/p&gt; &#xA;&lt;p&gt;#+end_src&lt;/p&gt; &#xA;&lt;p&gt;#+begin_quote Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. #+end_quote&lt;/p&gt; &#xA;&lt;p&gt;**** Level 4&lt;/p&gt; &#xA;&lt;p&gt;A specific bookmark function is provided such as to take advantage of the margin (instead of the fringe).&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Screenshot&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;[[file:org-margin.png]]&lt;/p&gt;</summary>
   </entry>
 </feed>

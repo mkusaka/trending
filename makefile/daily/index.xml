@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-06T01:35:26Z</updated>
+  <updated>2024-01-07T01:35:45Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SkafteNicki/mlops_template</title>
-    <updated>2024-01-06T01:35:26Z</updated>
-    <id>tag:github.com,2024-01-06:/SkafteNicki/mlops_template</id>
-    <link href="https://github.com/SkafteNicki/mlops_template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DutchDevelop/BLLEDController</title>
-    <updated>2024-01-06T01:35:26Z</updated>
-    <id>tag:github.com,2024-01-06:/DutchDevelop/BLLEDController</id>
-    <link href="https://github.com/DutchDevelop/BLLEDController" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

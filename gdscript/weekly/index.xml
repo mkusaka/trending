@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-07T01:48:08Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dialogic-godot/dialogic</title>
+    <updated>2024-01-07T01:48:08Z</updated>
+    <id>tag:github.com,2024-01-07:/dialogic-godot/dialogic</id>
+    <link href="https://github.com/dialogic-godot/dialogic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💬 Create dialogs, characters and scenes to display conversations in your Godot games.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>freehuntx/godot-matcha</title>
+    <updated>2024-01-07T01:48:08Z</updated>
+    <id>tag:github.com,2024-01-07:/freehuntx/godot-matcha</id>
+    <link href="https://github.com/freehuntx/godot-matcha" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easy webrtc matchmaking using WebTorrent tracker&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Deans-Paranoia/Deans-Paranoia</title>
+    <updated>2024-01-07T01:48:08Z</updated>
+    <id>tag:github.com,2024-01-07:/Deans-Paranoia/Deans-Paranoia</id>
+    <link href="https://github.com/Deans-Paranoia/Deans-Paranoia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This project contains a files that are responsible for running and playing a game&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

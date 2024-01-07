@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-07T01:45:41Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>emberico/Sites</title>
+    <updated>2024-01-07T01:45:41Z</updated>
+    <id>tag:github.com,2024-01-07:/emberico/Sites</id>
+    <link href="https://github.com/emberico/Sites" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Emberi, Co&#39;s hosted sites.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HubSpot/facewall</title>
+    <updated>2024-01-07T01:45:41Z</updated>
+    <id>tag:github.com,2024-01-07:/HubSpot/facewall</id>
+    <link href="https://github.com/HubSpot/facewall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Grid visualization of Gravatars for an organization&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HubSpot/BuckyClient</title>
+    <updated>2024-01-07T01:45:41Z</updated>
+    <id>tag:github.com,2024-01-07:/HubSpot/BuckyClient</id>
+    <link href="https://github.com/HubSpot/BuckyClient" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collect performance data from the client&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

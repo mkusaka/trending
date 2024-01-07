@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-06T01:25:31Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2024-01-07T01:28:03Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zju3dv/street_gaussians</title>
-    <updated>2024-01-06T01:25:31Z</updated>
-    <id>tag:github.com,2024-01-06:/zju3dv/street_gaussians</id>
-    <link href="https://github.com/zju3dv/street_gaussians" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code for &#34;Street Gaussians for Modeling Dynamic Urban Scenes&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bleedline/Awesome-gptlike-shellsite</title>
+    <updated>2024-01-07T01:28:03Z</updated>
+    <id>tag:github.com,2024-01-07:/bleedline/Awesome-gptlike-shellsite</id>
+    <link href="https://github.com/bleedline/Awesome-gptlike-shellsite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>leicemag/Javdb-Top250</title>
+    <updated>2024-01-07T01:28:03Z</updated>
+    <id>tag:github.com,2024-01-07:/leicemag/Javdb-Top250</id>
+    <link href="https://github.com/leicemag/Javdb-Top250" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Javdb.com top 250 movies collection&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>youngyangyang04/kama-DesignPattern</title>
+    <updated>2024-01-07T01:28:03Z</updated>
+    <id>tag:github.com,2024-01-07:/youngyangyang04/kama-DesignPattern</id>
+    <link href="https://github.com/youngyangyang04/kama-DesignPattern" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;卡码网-23种设计模式精讲，每种设计模式都配套代码练习题，支持 Java，CPP，Python，Go&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

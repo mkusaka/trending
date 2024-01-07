@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scheme Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-07T01:56:57Z</updated>
+  <subtitle>Weekly Trending of Scheme in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>x110dc/salty-vagrants</title>
+    <updated>2024-01-07T01:56:57Z</updated>
+    <id>tag:github.com,2024-01-07:/x110dc/salty-vagrants</id>
+    <link href="https://github.com/x110dc/salty-vagrants" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;salty vagrant templates and state files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fU9ANg/ExerciseSICP</title>
+    <updated>2024-01-07T01:56:57Z</updated>
+    <id>tag:github.com,2024-01-07:/fU9ANg/ExerciseSICP</id>
+    <link href="https://github.com/fU9ANg/ExerciseSICP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Exercise of Structure and Interpretation of Computer Programs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

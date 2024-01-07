@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-06T01:42:28Z</updated>
+  <updated>2024-01-07T01:42:25Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zammad/frontend-coding-test-ts</title>
-    <updated>2024-01-06T01:42:28Z</updated>
-    <id>tag:github.com,2024-01-06:/zammad/frontend-coding-test-ts</id>
-    <link href="https://github.com/zammad/frontend-coding-test-ts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zernonia/vue0</title>
+    <updated>2024-01-07T01:42:25Z</updated>
+    <id>tag:github.com,2024-01-07:/zernonia/vue0</id>
+    <link href="https://github.com/zernonia/vue0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue version open source alternative for v0&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

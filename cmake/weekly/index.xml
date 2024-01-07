@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-07T01:45:36Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mint-lab/3dv_tutorial</title>
+    <updated>2024-01-07T01:45:36Z</updated>
+    <id>tag:github.com,2024-01-07:/mint-lab/3dv_tutorial</id>
+    <link href="https://github.com/mint-lab/3dv_tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Invitation to 3D Vision: A Tutorial for Everyone&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>editorconfig/editorconfig-core-test</title>
+    <updated>2024-01-07T01:45:36Z</updated>
+    <id>tag:github.com,2024-01-07:/editorconfig/editorconfig-core-test</id>
+    <link href="https://github.com/editorconfig/editorconfig-core-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Testings for EditorConfig Core&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

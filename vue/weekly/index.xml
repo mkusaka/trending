@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-07T01:59:20Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>helloqyg/MettShortOverseas</title>
+    <updated>2024-01-07T01:59:20Z</updated>
+    <id>tag:github.com,2024-01-07:/helloqyg/MettShortOverseas</id>
+    <link href="https://github.com/helloqyg/MettShortOverseas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;迈特短剧系统是一款功能强大的海外短剧 SaaS 平台，包含H5、安卓APP、苹果APPP多种展示形式，支持PayPal支付、Stripe，多语言选择，提供无限多开的开源系统。该系统提供了丰富的短剧资源，支持用户免费观看热门短剧、影视作品，同时也支持多种付费观看方式，如单人、全款和会员等，满足不同用户的需求。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Jazee6/cloudflare-ai-web</title>
+    <updated>2024-01-07T01:59:20Z</updated>
+    <id>tag:github.com,2024-01-07:/Jazee6/cloudflare-ai-web</id>
+    <link href="https://github.com/Jazee6/cloudflare-ai-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;支持GeminiPro Vision / Cloudflare Workers AI / ChatGPT的融合Web平台&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

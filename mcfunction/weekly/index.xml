@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub mcfunction Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-07T01:52:34Z</updated>
+  <subtitle>Weekly Trending of mcfunction in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>trackedout/Brilliance</title>
+    <updated>2024-01-07T01:52:34Z</updated>
+    <id>tag:github.com,2024-01-07:/trackedout/Brilliance</id>
+    <link href="https://github.com/trackedout/Brilliance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The datapack and resourcepack for Tracked Out! This will include data tracking, advancements, functions, dungeon setup, misc moderator commands&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

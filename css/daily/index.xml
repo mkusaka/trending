@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-06T01:28:59Z</updated>
+  <updated>2024-01-07T01:30:23Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>devchallenges-io/responsive-web-starter</title>
+    <updated>2024-01-07T01:30:23Z</updated>
+    <id>tag:github.com,2024-01-07:/devchallenges-io/responsive-web-starter</id>
+    <link href="https://github.com/devchallenges-io/responsive-web-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>altoliaw3/112-1QZ2</title>
+    <updated>2024-01-07T01:30:23Z</updated>
+    <id>tag:github.com,2024-01-07:/altoliaw3/112-1QZ2</id>
+    <link href="https://github.com/altoliaw3/112-1QZ2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tuananh1406/my-wedding-page</title>
+    <updated>2024-01-07T01:30:23Z</updated>
+    <id>tag:github.com,2024-01-07:/tuananh1406/my-wedding-page</id>
+    <link href="https://github.com/tuananh1406/my-wedding-page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;My wedding page code&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://huutuananh.com/weddings/true-love/tuan-anh-kim-oanh&#34;&gt;Xem thực tế&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Tech:&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Django&lt;/li&gt; &#xA;   &lt;li&gt;Aws s3, ec2&lt;/li&gt; &#xA;   &lt;li&gt;Ansible&lt;/li&gt; &#xA;   &lt;li&gt;Cloudflare&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Cách chạy local: xem trong thư mục website&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Để chạy được website lên internet cần có:&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Domain&lt;/li&gt; &#xA;   &lt;li&gt;1 tài khoản Cloudflare&lt;/li&gt; &#xA;   &lt;li&gt;Cloud server (vps, không dùng cloud hosting)&lt;/li&gt; &#xA;   &lt;li&gt;S3 (có thể dùng combo aws ec2 + s3)&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Cách deploy: (Tự tìm hiểu thôi, basic ấy mà :D )&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Github action có workflow hiện tại mình đang dùng self-hosted để auto deploy, mọi người có thể tham khảo thêm (nếu có thể)&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

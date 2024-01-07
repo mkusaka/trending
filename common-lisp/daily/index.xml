@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-06T01:28:37Z</updated>
+  <updated>2024-01-07T01:30:07Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ferada/cl-org-mode-parser</title>
+    <updated>2024-01-07T01:30:07Z</updated>
+    <id>tag:github.com,2024-01-07:/Ferada/cl-org-mode-parser</id>
+    <link href="https://github.com/Ferada/cl-org-mode-parser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parsing org-mode files.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;CL-ORG-MODE-PARSER - Parsing org-mode files.&lt;/p&gt; &#xA;&lt;p&gt;Copyright (C) 2013 Olof-Joachim Frahm&lt;/p&gt; &#xA;&lt;p&gt;Released under a Simplified BSD license.&lt;/p&gt; &#xA;&lt;p&gt;Implementations currently running on: SBCL. Should be portable though.&lt;/p&gt; &#xA;&lt;p&gt;Uses fiveam for testing and a couple of general purpose libraries.&lt;/p&gt; &#xA;&lt;p&gt;There are actually a lot of other packages for the same purpose. The aim of this one is to parse org-mode files via a SAX-like event interface into e.g. CLOS-based documents and to offer some options with regards to parsed elements, interning of tags and similar things.&lt;/p&gt; &#xA;&lt;p&gt;The parser is currently line- and regex-based, however it might be feasible to use a parser generator instead. For that the syntax description at &lt;a href=&#34;http://orgmode.org/worg/dev/org-syntax.html&#34; title=&#34;Org Syntax (draft)&#34;&gt;worg&lt;/a&gt; is canonical and should probably be used.&lt;/p&gt; &#xA;&lt;h1&gt;REPLSHOT&lt;/h1&gt; &#xA;&lt;p&gt;Provided you have a handler, parsing a document is in the simplest case only a call to &lt;code&gt;PARSE&lt;/code&gt;, which by default uses &lt;code&gt;DOCUMENT-BUILDER&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&amp;gt; (cl-org-mode-parser:parse #P&#34;foo.org&#34;)&#xA;&amp;gt; =&amp;gt;&#xA;&amp;gt; #&amp;lt;CL-ORG-MODE-PARSER:DOCUMENT with 2 nodes {1003867DA3}&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;TESTING&lt;/h1&gt; &#xA;&lt;p&gt;Although there are already some test files, it would generally be nice to compare a lot of libraries and their handling of various edge cases. This includes e.g. missing spaces between elements, which however could still be parsed by relaxing the rules a bit (and providing an option to toggle this behaviour).&lt;/p&gt; &#xA;&lt;h1&gt;TODO&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;figure out whether the &lt;code&gt;CHARACTERS&lt;/code&gt; handler should remain line-based, or be like in SAX with arbitrary chunks of text as input&lt;/li&gt; &#xA; &lt;li&gt;how much trouble is the whole &#34;keep the printed representation&#34; really (worth)?&lt;/li&gt; &#xA; &lt;li&gt;basic roundtrip&lt;/li&gt; &#xA; &lt;li&gt;include line/column information in errors&lt;/li&gt; &#xA; &lt;li&gt;proper subclasses for (continuable) errors&lt;/li&gt; &#xA; &lt;li&gt;parse a lot more special syntax (tables, drawers, ...)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>woudshoo/wo-ledger</title>
+    <updated>2024-01-07T01:30:07Z</updated>
+    <id>tag:github.com,2024-01-07:/woudshoo/wo-ledger</id>
+    <link href="https://github.com/woudshoo/wo-ledger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;playground to see if I can replace YNAB with ledger&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;wo-ledger&lt;/h1&gt; &#xA;&lt;h3&gt;&lt;em&gt;Your Name &lt;a href=&#34;mailto:your.name@example.com&#34;&gt;your.name@example.com&lt;/a&gt;&lt;/em&gt;&lt;/h3&gt; &#xA;&lt;p&gt;This is a project to do ... something.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Specify license here&lt;/p&gt;</summary>
+  </entry>
 </feed>
