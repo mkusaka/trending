@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JSON Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-07T01:34:26Z</updated>
+  <updated>2024-01-08T01:36:41Z</updated>
   <subtitle>Daily Trending of JSON in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ShivamJoker/Monitor</title>
+    <updated>2024-01-08T01:36:41Z</updated>
+    <id>tag:github.com,2024-01-08:/ShivamJoker/Monitor</id>
+    <link href="https://github.com/ShivamJoker/Monitor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for monitoring my website and servers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

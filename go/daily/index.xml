@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Go Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-07T01:32:31Z</updated>
+  <updated>2024-01-08T01:34:15Z</updated>
   <subtitle>Daily Trending of Go in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ubuygold/go-noss</title>
-    <updated>2024-01-07T01:32:31Z</updated>
-    <id>tag:github.com,2024-01-07:/ubuygold/go-noss</id>
-    <link href="https://github.com/ubuygold/go-noss" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;ol&gt; &#xA; &lt;li&gt;将.env.example改为.env&lt;/li&gt; &#xA; &lt;li&gt;在.env里配置公私钥。NPUB/NSEC的获取可以使用OKX钱包的nostr链获取地址/导出私钥获取，暂时不知道如何从TP钱包获取NPUB/NSEC。注意npub... nsec..开头的需要转换一下才能使用，可以去&lt;a href=&#34;https://nostrcheck.me/converter/&#34;&gt;https://nostrcheck.me/converter/&lt;/a&gt; 转换&lt;/li&gt; &#xA; &lt;li&gt;使用golang编译脚本，或者使用release中编译好的版本&lt;/li&gt; &#xA; &lt;li&gt;运行&lt;/li&gt; &#xA; &lt;li&gt;再加一句话：判断你是否成功运行脚本：1. 成功运行没闪退 2. 在蹦字 3. 返回值Response显示是200 4. Publish to后面有id，并且id前5位为0&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;FAQ&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;我运行时闪退了：ARB节点没配置好，或者节点被冲烂了，换一个。&lt;/li&gt; &#xA; &lt;li&gt;返回值一直是429：算力过剩，项目方的服务器嫌你烦了，临时封禁了你的IP，等一会儿。&lt;/li&gt; &#xA; &lt;li&gt;打出来的ID为空或者前5位不是0：公私钥配置错误，仔细阅读上面的第2条。&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;2024.1.5更新&lt;/h2&gt; &#xA;&lt;p&gt;修改了由于项目方不认识美化后Json导致的问题，本人已经使用工具出块，效率不明，自己尝试，不保证能出块; 另外，由于Noss难度为21，因此大家的算力都是过剩的，频繁提交POST请求会导致服务器返回429（Too Many Requests/太多请求）错误，与本程序无关； 内存问题持续优化中。&lt;/p&gt;</summary>
-  </entry>
 </feed>

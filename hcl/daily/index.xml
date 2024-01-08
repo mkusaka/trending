@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-07T01:33:00Z</updated>
+  <updated>2024-01-08T01:34:47Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>terraform-google-modules/terraform-google-bigquery</title>
-    <updated>2024-01-07T01:33:00Z</updated>
-    <id>tag:github.com,2024-01-07:/terraform-google-modules/terraform-google-bigquery</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-bigquery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Creates opinionated BigQuery datasets and tables&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devopsbyraham/terraform-3-tier-architecture</title>
+    <updated>2024-01-08T01:34:47Z</updated>
+    <id>tag:github.com,2024-01-08:/devopsbyraham/terraform-3-tier-architecture</id>
+    <link href="https://github.com/devopsbyraham/terraform-3-tier-architecture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BeryJu/infrastructure</title>
+    <updated>2024-01-08T01:34:47Z</updated>
+    <id>tag:github.com,2024-01-08:/BeryJu/infrastructure</id>
+    <link href="https://github.com/BeryJu/infrastructure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ansible playbooks and Terraform code for my environment and infrastructure.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hashicorp/terraform-random-tfe-utility</title>
+    <updated>2024-01-08T01:34:47Z</updated>
+    <id>tag:github.com,2024-01-08:/hashicorp/terraform-random-tfe-utility</id>
+    <link href="https://github.com/hashicorp/terraform-random-tfe-utility" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source repository that houses modules that centralize logic for creating utilities that are common to all Terraform Enterprise modules&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

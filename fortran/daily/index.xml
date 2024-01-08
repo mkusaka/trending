@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-07T01:31:59Z</updated>
+  <updated>2024-01-08T01:33:38Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Stenway/RSV-Challenge</title>
-    <updated>2024-01-07T01:31:59Z</updated>
-    <id>tag:github.com,2024-01-07:/Stenway/RSV-Challenge</id>
-    <link href="https://github.com/Stenway/RSV-Challenge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RSV = Rows of String Values&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>quake0day/Groudon</title>
-    <updated>2024-01-07T01:31:59Z</updated>
-    <id>tag:github.com,2024-01-07:/quake0day/Groudon</id>
-    <link href="https://github.com/quake0day/Groudon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a ground wave online simulation system (multinode version)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>andrewhoyer/leap-year</title>
+    <updated>2024-01-08T01:33:38Z</updated>
+    <id>tag:github.com,2024-01-08:/andrewhoyer/leap-year</id>
+    <link href="https://github.com/andrewhoyer/leap-year" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of code snippets in any language to determine leap year.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

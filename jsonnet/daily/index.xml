@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-07T01:34:31Z</updated>
+  <updated>2024-01-08T01:36:45Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>grafana/logql-jsonnet</title>
-    <updated>2024-01-07T01:34:31Z</updated>
-    <id>tag:github.com,2024-01-07:/grafana/logql-jsonnet</id>
-    <link href="https://github.com/grafana/logql-jsonnet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Jsonnet based DSL for writing LogQL queries. This is useful for automatically creating dashboards on Grafana&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

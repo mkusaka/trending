@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-07T01:35:45Z</updated>
+  <updated>2024-01-08T01:38:05Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>runfinch/finch-core</title>
+    <updated>2024-01-08T01:38:05Z</updated>
+    <id>tag:github.com,2024-01-08:/runfinch/finch-core</id>
+    <link href="https://github.com/runfinch/finch-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Core dependencies for Finch&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenTTD/OpenSFX</title>
+    <updated>2024-01-08T01:38:05Z</updated>
+    <id>tag:github.com,2024-01-08:/OpenTTD/OpenSFX</id>
+    <link href="https://github.com/OpenTTD/OpenSFX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sound Base Set for OpenTTD&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

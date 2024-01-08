@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-07T01:42:08Z</updated>
+  <updated>2024-01-08T01:44:23Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elementary/switchboard-plug-parental-controls</title>
+    <updated>2024-01-08T01:44:23Z</updated>
+    <id>tag:github.com,2024-01-08:/elementary/switchboard-plug-parental-controls</id>
+    <link href="https://github.com/elementary/switchboard-plug-parental-controls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Switchboard Screen Time &amp; Limits Plug&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elementary/switchboard-plug-network</title>
+    <updated>2024-01-08T01:44:23Z</updated>
+    <id>tag:github.com,2024-01-08:/elementary/switchboard-plug-network</id>
+    <link href="https://github.com/elementary/switchboard-plug-network" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Switchboard Network Plug&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

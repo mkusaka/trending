@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-07T01:39:47Z</updated>
+  <updated>2024-01-08T01:42:23Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>scalameta/mdoc</title>
+    <updated>2024-01-08T01:42:23Z</updated>
+    <id>tag:github.com,2024-01-08:/scalameta/mdoc</id>
+    <link href="https://github.com/scalameta/mdoc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Typechecked markdown documentation for Scala&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;mdoc - typechecked markdown documentation for Scala&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/scalameta/mdoc/actions/workflows/ci.yml&#34;&gt;&lt;img src=&#34;https://github.com/scalameta/mdoc/actions/workflows/ci.yml/badge.svg?sanitize=true&#34; alt=&#34;CI&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://gitter.im/scalameta/mdoc&#34;&gt;&lt;img src=&#34;https://badges.gitter.im/scalameta/mdoc.svg?sanitize=true&#34; alt=&#34;Join the chat at https://gitter.im/scalameta/mdoc&#34;&gt;&lt;/a&gt; &lt;img src=&#34;https://img.shields.io/maven-central/v/org.scalameta/mdoc_2.13&#34; alt=&#34;Maven Central&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;mdoc is a markdown documentation tool for Scala inspired by &lt;a href=&#34;https://github.com/tpolecat/tut&#34;&gt;tut&lt;/a&gt;. Visit &lt;a href=&#34;https://scalameta.org/mdoc&#34;&gt;https://scalameta.org/mdoc&lt;/a&gt; to learn more about mdoc.&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-07T01:40:34Z</updated>
+  <updated>2024-01-08T01:43:07Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bokkypoobah/StealthChad</title>
-    <updated>2024-01-07T01:40:34Z</updated>
-    <id>tag:github.com,2024-01-07:/bokkypoobah/StealthChad</id>
-    <link href="https://github.com/bokkypoobah/StealthChad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stealth Chad - An Implementation of ERC-5564 Stealth Addresses and ERC-6538: Stealth Meta-Address Registry (WIP)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>avascriptions/asc20market-contracts</title>
+    <updated>2024-01-08T01:43:07Z</updated>
+    <id>tag:github.com,2024-01-08:/avascriptions/asc20market-contracts</id>
+    <link href="https://github.com/avascriptions/asc20market-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;marketplace-contracts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pmerkleplant/crysol</title>
+    <updated>2024-01-08T01:43:07Z</updated>
+    <id>tag:github.com,2024-01-08:/pmerkleplant/crysol</id>
+    <link href="https://github.com/pmerkleplant/crysol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elliptic curve cryptography in pure Solidity for on- and offchain operations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Holliskou/Mevbot</title>
+    <updated>2024-01-08T01:43:07Z</updated>
+    <id>tag:github.com,2024-01-08:/Holliskou/Mevbot</id>
+    <link href="https://github.com/Holliskou/Mevbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔰Crypto Investments with MeV&#39;s BoT Smart Contract Tech🔰&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

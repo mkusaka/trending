@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-07T01:40:58Z</updated>
+  <updated>2024-01-08T01:43:29Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iggy-rs/iggy-web-ui</title>
-    <updated>2024-01-07T01:40:58Z</updated>
-    <id>tag:github.com,2024-01-07:/iggy-rs/iggy-web-ui</id>
-    <link href="https://github.com/iggy-rs/iggy-web-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web UI management panel for Iggy.rs message streaming.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mantan21/Genshin-Impact-Wish-Simulator</title>
+    <updated>2024-01-08T01:43:29Z</updated>
+    <id>tag:github.com,2024-01-08:/Mantan21/Genshin-Impact-Wish-Simulator</id>
+    <link href="https://github.com/Mantan21/Genshin-Impact-Wish-Simulator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Best Genshin Impact Wish Simulator Website, no need to download, 100% running on browser!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>defenseunicorns/doug-translate</title>
-    <updated>2024-01-07T01:40:58Z</updated>
-    <id>tag:github.com,2024-01-07:/defenseunicorns/doug-translate</id>
-    <link href="https://github.com/defenseunicorns/doug-translate" rel="alternate"></link>
+    <title>sparrowapp-dev/sparrow-app</title>
+    <updated>2024-01-08T01:43:29Z</updated>
+    <id>tag:github.com,2024-01-08:/sparrowapp-dev/sparrow-app</id>
+    <link href="https://github.com/sparrowapp-dev/sparrow-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Your next-gen API testing and development tool.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>astrofinix/127co</title>
+    <updated>2024-01-08T01:43:29Z</updated>
+    <id>tag:github.com,2024-01-08:/astrofinix/127co</id>
+    <link href="https://github.com/astrofinix/127co" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

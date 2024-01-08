@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASP.NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-07T01:28:34Z</updated>
+  <updated>2024-01-08T01:28:21Z</updated>
   <subtitle>Daily Trending of ASP.NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jaygajera17/Tour_Management_Asp.Net</title>
-    <updated>2024-01-07T01:28:34Z</updated>
-    <id>tag:github.com,2024-01-07:/jaygajera17/Tour_Management_Asp.Net</id>
-    <link href="https://github.com/jaygajera17/Tour_Management_Asp.Net" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;asp.net application for booking of tours&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

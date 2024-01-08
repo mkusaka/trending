@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-07T01:31:33Z</updated>
+  <updated>2024-01-08T01:32:57Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>joisig/turtles</title>
+    <updated>2024-01-08T01:32:57Z</updated>
+    <id>tag:github.com,2024-01-08:/joisig/turtles</id>
+    <link href="https://github.com/joisig/turtles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Turtles is a home automation solution for controlling Shelly dimmers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dyackson/mold</title>
+    <updated>2024-01-08T01:32:57Z</updated>
+    <id>tag:github.com,2024-01-08:/dyackson/mold</id>
+    <link href="https://github.com/dyackson/mold" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
