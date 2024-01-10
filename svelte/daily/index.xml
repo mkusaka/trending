@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-08T01:43:29Z</updated>
+  <updated>2024-01-10T01:43:16Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Mantan21/Genshin-Impact-Wish-Simulator</title>
-    <updated>2024-01-08T01:43:29Z</updated>
-    <id>tag:github.com,2024-01-08:/Mantan21/Genshin-Impact-Wish-Simulator</id>
-    <link href="https://github.com/Mantan21/Genshin-Impact-Wish-Simulator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Best Genshin Impact Wish Simulator Website, no need to download, 100% running on browser!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blumilksoftware/website</title>
+    <updated>2024-01-10T01:43:16Z</updated>
+    <id>tag:github.com,2024-01-10:/blumilksoftware/website</id>
+    <link href="https://github.com/blumilksoftware/website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Company website.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sparrowapp-dev/sparrow-app</title>
-    <updated>2024-01-08T01:43:29Z</updated>
-    <id>tag:github.com,2024-01-08:/sparrowapp-dev/sparrow-app</id>
-    <link href="https://github.com/sparrowapp-dev/sparrow-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Your next-gen API testing and development tool.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>astrofinix/127co</title>
-    <updated>2024-01-08T01:43:29Z</updated>
-    <id>tag:github.com,2024-01-08:/astrofinix/127co</id>
-    <link href="https://github.com/astrofinix/127co" rel="alternate"></link>
+    <title>Meraz-IITBhilai/meraz2k24</title>
+    <updated>2024-01-10T01:43:16Z</updated>
+    <id>tag:github.com,2024-01-10:/Meraz-IITBhilai/meraz2k24</id>
+    <link href="https://github.com/Meraz-IITBhilai/meraz2k24" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>storyblok/storyblok-svelte</title>
+    <updated>2024-01-10T01:43:16Z</updated>
+    <id>tag:github.com,2024-01-10:/storyblok/storyblok-svelte</id>
+    <link href="https://github.com/storyblok/storyblok-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Svelte SDK for Storyblok CMS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

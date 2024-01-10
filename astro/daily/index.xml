@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-08T01:28:24Z</updated>
+  <updated>2024-01-10T01:27:06Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TailGrids/play-astro</title>
+    <updated>2024-01-10T01:27:06Z</updated>
+    <id>tag:github.com,2024-01-10:/TailGrids/play-astro</id>
+    <link href="https://github.com/TailGrids/play-astro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Play Astro is a free, open-source template perfect for startups, SaaS, apps, and businesses. With its high-end design, functional blog and essential components, it&#39;s your one-stop solution for launching a complete Astro website.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ebrionesdo/web-site-ulvr</title>
+    <updated>2024-01-10T01:27:06Z</updated>
+    <id>tag:github.com,2024-01-10:/ebrionesdo/web-site-ulvr</id>
+    <link href="https://github.com/ebrionesdo/web-site-ulvr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nixcon/2024-na.nixcon.org</title>
+    <updated>2024-01-10T01:27:06Z</updated>
+    <id>tag:github.com,2024-01-10:/nixcon/2024-na.nixcon.org</id>
+    <link href="https://github.com/nixcon/2024-na.nixcon.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The repo for NixCon North America 2024&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

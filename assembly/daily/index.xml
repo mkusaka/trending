@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-08T01:28:28Z</updated>
+  <updated>2024-01-10T01:27:08Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kirjavascript/TetrisGYM</title>
-    <updated>2024-01-08T01:28:28Z</updated>
-    <id>tag:github.com,2024-01-08:/kirjavascript/TetrisGYM</id>
-    <link href="https://github.com/kirjavascript/TetrisGYM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nes tetris training rom&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mist64/msbasic</title>
+    <updated>2024-01-10T01:27:08Z</updated>
+    <id>tag:github.com,2024-01-10:/mist64/msbasic</id>
+    <link href="https://github.com/mist64/msbasic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Microsoft BASIC for 6502 (Commodore, Apple, KIM-1, AIM-65, OSI, ...)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

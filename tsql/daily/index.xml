@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-08T01:44:03Z</updated>
+  <updated>2024-01-10T01:44:08Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>floresloyd/QC-Schedule-Database</title>
+    <updated>2024-01-10T01:44:08Z</updated>
+    <id>tag:github.com,2024-01-10:/floresloyd/QC-Schedule-Database</id>
+    <link href="https://github.com/floresloyd/QC-Schedule-Database" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Database Design for classes offered in Queens College for Fall 23&#39;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

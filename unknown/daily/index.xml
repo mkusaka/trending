@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-08T01:27:28Z</updated>
+  <updated>2024-01-10T01:26:26Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ProgrammingHero1/portfolio-resources</title>
-    <updated>2024-01-08T01:27:28Z</updated>
-    <id>tag:github.com,2024-01-08:/ProgrammingHero1/portfolio-resources</id>
-    <link href="https://github.com/ProgrammingHero1/portfolio-resources" rel="alternate"></link>
+    <title>ProgrammingHero1/B9A1-New-Year-New-Mission</title>
+    <updated>2024-01-10T01:26:26Z</updated>
+    <id>tag:github.com,2024-01-10:/ProgrammingHero1/B9A1-New-Year-New-Mission</id>
+    <link href="https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>menyifang/En3D</title>
-    <updated>2024-01-08T01:27:28Z</updated>
-    <id>tag:github.com,2024-01-08:/menyifang/En3D</id>
-    <link href="https://github.com/menyifang/En3D" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official implementation of &#34;En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Human3DAIGC/Make-A-Character</title>
+    <updated>2024-01-10T01:26:26Z</updated>
+    <id>tag:github.com,2024-01-10:/Human3DAIGC/Make-A-Character</id>
+    <link href="https://github.com/Human3DAIGC/Make-A-Character" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official repo for Make-A-Character: High Quality Text-to-3D Character Generation within Minutes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>krishnaik06/Roadmap-To-Become-Data-Analyst-2024</title>
-    <updated>2024-01-08T01:27:28Z</updated>
-    <id>tag:github.com,2024-01-08:/krishnaik06/Roadmap-To-Become-Data-Analyst-2024</id>
-    <link href="https://github.com/krishnaik06/Roadmap-To-Become-Data-Analyst-2024" rel="alternate"></link>
+    <title>blindma1den/Programming-Skills-Level1</title>
+    <updated>2024-01-10T01:26:26Z</updated>
+    <id>tag:github.com,2024-01-10:/blindma1den/Programming-Skills-Level1</id>
+    <link href="https://github.com/blindma1den/Programming-Skills-Level1" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

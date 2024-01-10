@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-08T01:43:01Z</updated>
+  <updated>2024-01-10T01:42:42Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>drsylent/cubix-cloudnative-block5-deploy-apps</title>
-    <updated>2024-01-08T01:43:01Z</updated>
-    <id>tag:github.com,2024-01-08:/drsylent/cubix-cloudnative-block5-deploy-apps</id>
-    <link href="https://github.com/drsylent/cubix-cloudnative-block5-deploy-apps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cubix Cloud-Native Application Development Training: cloud-native requirements (app deployment)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vtex/becoming-a-driver</title>
+    <updated>2024-01-10T01:42:42Z</updated>
+    <id>tag:github.com,2024-01-10:/vtex/becoming-a-driver</id>
+    <link href="https://github.com/vtex/becoming-a-driver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VTEX&#39;s Engineering Individual Contributors Career Track&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
