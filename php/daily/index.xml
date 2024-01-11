@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-10T01:39:17Z</updated>
+  <updated>2024-01-11T01:40:16Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tallstackui/tallstackui</title>
-    <updated>2024-01-10T01:39:17Z</updated>
-    <id>tag:github.com,2024-01-10:/tallstackui/tallstackui</id>
-    <link href="https://github.com/tallstackui/tallstackui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TALL Stack component library.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TallStackUi&lt;/h1&gt; &#xA;&lt;p align=&#34;center&#34;&gt;&lt;a href=&#34;https://tallstackui.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/tallstackui/website/main/arts/tallstackui.svg?sanitize=true&#34; width=&#34;500&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://tallstackui.com&#34;&gt;&lt;img alt=&#34;Packagist Downloads&#34; src=&#34;https://img.shields.io/packagist/dt/tallstackui/tallstackui?style=for-the-badge&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/tallstackui/tallstackui/actions&#34;&gt;&lt;img alt=&#34;Tests passing&#34; src=&#34;https://img.shields.io/badge/Tests-passing-green?style=for-the-badge&amp;amp;logo=github&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://laravel.com&#34;&gt;&lt;img alt=&#34;Laravel v10.x&#34; src=&#34;https://img.shields.io/badge/Laravel-v10.x-FF2D20?style=for-the-badge&amp;amp;logo=laravel&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://livewire.laravel.com&#34;&gt;&lt;img alt=&#34;Livewire v3.x&#34; src=&#34;https://img.shields.io/badge/Livewire-v3.x-FB70A9?style=for-the-badge&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://php.net&#34;&gt;&lt;img alt=&#34;PHP 8.1&#34; src=&#34;https://img.shields.io/badge/PHP-8.1-777BB4?style=for-the-badge&amp;amp;logo=php&#34;&gt;&lt;/a&gt; &lt;/p&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://tallstackui.com/&#34;&gt;TallStackUi&lt;/a&gt; is a powerful suite of Blade components for TALL Stack apps.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://tallstackui.com/docs&#34;&gt;Visit our website to see the documentation&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Need Help?&lt;/h2&gt; &#xA;&lt;p&gt;🐞 If you spot a bug, please &lt;a href=&#34;https://github.com/tallstackui/tallstackui/issues/new/choose&#34;&gt;submit a detailed issue.&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;💬 If you love chatting, &lt;a href=&#34;https://discord.gg/sfr66WXh4A&#34;&gt;we have a Discord server dedicated to the TallStackUI community.&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Thank you for wanting to be part of our team! 👋 &lt;a href=&#34;https://tallstackui.com/docs/contribution&#34;&gt;Click here to learn more.&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

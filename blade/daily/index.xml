@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-10T01:27:27Z</updated>
+  <updated>2024-01-11T01:28:40Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vcian/pulse-docker-monitor</title>
-    <updated>2024-01-10T01:27:27Z</updated>
-    <id>tag:github.com,2024-01-10:/vcian/pulse-docker-monitor</id>
-    <link href="https://github.com/vcian/pulse-docker-monitor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Laravel Pulse card for Docker Monitor&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

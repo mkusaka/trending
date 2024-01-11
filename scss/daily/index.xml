@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-10T01:42:09Z</updated>
+  <updated>2024-01-11T01:42:38Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pages-themes/merlot</title>
-    <updated>2024-01-10T01:42:09Z</updated>
-    <id>tag:github.com,2024-01-10:/pages-themes/merlot</id>
-    <link href="https://github.com/pages-themes/merlot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Merlot is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>near/docs</title>
+    <updated>2024-01-11T01:42:38Z</updated>
+    <id>tag:github.com,2024-01-11:/near/docs</id>
+    <link href="https://github.com/near/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NEAR Protocol Documentation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

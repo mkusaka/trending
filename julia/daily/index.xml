@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-10T01:35:23Z</updated>
+  <updated>2024-01-11T01:36:31Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SciML/DiffEqCallbacks.jl</title>
-    <updated>2024-01-10T01:35:23Z</updated>
-    <id>tag:github.com,2024-01-10:/SciML/DiffEqCallbacks.jl</id>
-    <link href="https://github.com/SciML/DiffEqCallbacks.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library of useful callbacks for hybrid scientific machine learning (SciML) with augmented differential equation solvers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PumasAI/QuartoNotebookRunner.jl</title>
+    <updated>2024-01-11T01:36:31Z</updated>
+    <id>tag:github.com,2024-01-11:/PumasAI/QuartoNotebookRunner.jl</id>
+    <link href="https://github.com/PumasAI/QuartoNotebookRunner.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ajwheeler/Korg.jl</title>
+    <updated>2024-01-11T01:36:31Z</updated>
+    <id>tag:github.com,2024-01-11:/ajwheeler/Korg.jl</id>
+    <link href="https://github.com/ajwheeler/Korg.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;fast 1D LTE stellar spectral synthesis&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>oscar-system/Singular.jl</title>
+    <updated>2024-01-11T01:36:31Z</updated>
+    <id>tag:github.com,2024-01-11:/oscar-system/Singular.jl</id>
+    <link href="https://github.com/oscar-system/Singular.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia package for the Singular library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

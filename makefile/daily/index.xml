@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-10T01:36:40Z</updated>
+  <updated>2024-01-11T01:37:55Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LegacyXperia/proprietary_vendor_semc</title>
-    <updated>2024-01-10T01:36:40Z</updated>
-    <id>tag:github.com,2024-01-10:/LegacyXperia/proprietary_vendor_semc</id>
-    <link href="https://github.com/LegacyXperia/proprietary_vendor_semc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nestauk/-asf_HP_installer_chatbot</title>
+    <updated>2024-01-11T01:37:55Z</updated>
+    <id>tag:github.com,2024-01-11:/nestauk/-asf_HP_installer_chatbot</id>
+    <link href="https://github.com/nestauk/-asf_HP_installer_chatbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Whatsapp chatbot prototype powered by an LLM which assists heat pump installers with their queries on the job.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TogoFire/packages_apps_ViPER4AndroidFX</title>
+    <updated>2024-01-11T01:37:55Z</updated>
+    <id>tag:github.com,2024-01-11:/TogoFire/packages_apps_ViPER4AndroidFX</id>
+    <link href="https://github.com/TogoFire/packages_apps_ViPER4AndroidFX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎧 v4a re&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
