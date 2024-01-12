@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ColdFusion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-11T01:30:19Z</updated>
+  <updated>2024-01-12T01:29:45Z</updated>
   <subtitle>Daily Trending of ColdFusion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pixl8/preside-ext-ip-geolocation-apis</title>
+    <updated>2024-01-12T01:29:45Z</updated>
+    <id>tag:github.com,2024-01-12:/pixl8/preside-ext-ip-geolocation-apis</id>
+    <link href="https://github.com/pixl8/preside-ext-ip-geolocation-apis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Preside extension to allow application developers to get all geolocation information about an IP address in a number of different formats.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pixl8/preside-ext-vips</title>
+    <updated>2024-01-12T01:29:45Z</updated>
+    <id>tag:github.com,2024-01-12:/pixl8/preside-ext-vips</id>
+    <link href="https://github.com/pixl8/preside-ext-vips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Replaces Preside&#39;s image processing logic with libvips&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

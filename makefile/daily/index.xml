@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-11T01:37:55Z</updated>
+  <updated>2024-01-12T01:36:47Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nestauk/-asf_HP_installer_chatbot</title>
-    <updated>2024-01-11T01:37:55Z</updated>
-    <id>tag:github.com,2024-01-11:/nestauk/-asf_HP_installer_chatbot</id>
-    <link href="https://github.com/nestauk/-asf_HP_installer_chatbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Whatsapp chatbot prototype powered by an LLM which assists heat pump installers with their queries on the job.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yaya131/RedMi-AX6-NSS</title>
+    <updated>2024-01-12T01:36:47Z</updated>
+    <id>tag:github.com,2024-01-12:/yaya131/RedMi-AX6-NSS</id>
+    <link href="https://github.com/yaya131/RedMi-AX6-NSS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;仅编译AX6&amp;AX3600，涵盖：ipq807X的AX6和AX3600,两者配置通用，默认AX3600，一次只能编译一个&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TogoFire/packages_apps_ViPER4AndroidFX</title>
-    <updated>2024-01-11T01:37:55Z</updated>
-    <id>tag:github.com,2024-01-11:/TogoFire/packages_apps_ViPER4AndroidFX</id>
-    <link href="https://github.com/TogoFire/packages_apps_ViPER4AndroidFX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎧 v4a re&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>grafana/drone-test-public-repo</title>
+    <updated>2024-01-12T01:36:47Z</updated>
+    <id>tag:github.com,2024-01-12:/grafana/drone-test-public-repo</id>
+    <link href="https://github.com/grafana/drone-test-public-repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>grafana/xk6-notification</title>
+    <updated>2024-01-12T01:36:47Z</updated>
+    <id>tag:github.com,2024-01-12:/grafana/xk6-notification</id>
+    <link href="https://github.com/grafana/xk6-notification" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A k6 extension for creating notifications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

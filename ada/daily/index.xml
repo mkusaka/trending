@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ada Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-11T01:27:28Z</updated>
+  <updated>2024-01-12T01:26:56Z</updated>
   <subtitle>Daily Trending of Ada in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>coreboot/libgfxinit</title>
+    <updated>2024-01-12T01:26:56Z</updated>
+    <id>tag:github.com,2024-01-12:/coreboot/libgfxinit</id>
+    <link href="https://github.com/coreboot/libgfxinit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mirror of https://review.coreboot.org/libgfxinit.git&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

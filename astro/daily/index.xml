@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-11T01:28:07Z</updated>
+  <updated>2024-01-12T01:27:33Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>patrick91/astro-meta-tags</title>
-    <updated>2024-01-11T01:28:07Z</updated>
-    <id>tag:github.com,2024-01-11:/patrick91/astro-meta-tags</id>
-    <link href="https://github.com/patrick91/astro-meta-tags" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A small Astro Dev Toolbar app to help you check your meta tags ✨&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jherr/htmx-for-react-devs</title>
+    <updated>2024-01-12T01:27:33Z</updated>
+    <id>tag:github.com,2024-01-12:/jherr/htmx-for-react-devs</id>
+    <link href="https://github.com/jherr/htmx-for-react-devs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTMX Demo for React Devs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

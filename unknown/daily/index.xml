@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-11T01:27:10Z</updated>
+  <updated>2024-01-12T01:26:35Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>matro7sh/BypassAV</title>
-    <updated>2024-01-11T01:27:10Z</updated>
-    <id>tag:github.com,2024-01-11:/matro7sh/BypassAV</id>
-    <link href="https://github.com/matro7sh/BypassAV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This map lists the essential techniques to bypass anti-virus and EDR&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>keiyoushi/extensions</title>
+    <updated>2024-01-12T01:26:35Z</updated>
+    <id>tag:github.com,2024-01-12:/keiyoushi/extensions</id>
+    <link href="https://github.com/keiyoushi/extensions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source extensions for the Tachiyomi app.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EvilGreys/Hide-CobaltStrike</title>
-    <updated>2024-01-11T01:27:10Z</updated>
-    <id>tag:github.com,2024-01-11:/EvilGreys/Hide-CobaltStrike</id>
-    <link href="https://github.com/EvilGreys/Hide-CobaltStrike" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hide your CobaltStrike PRO&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cyberfascinate/ISC2-CC-Study-Material</title>
+    <updated>2024-01-12T01:26:35Z</updated>
+    <id>tag:github.com,2024-01-12:/cyberfascinate/ISC2-CC-Study-Material</id>
+    <link href="https://github.com/cyberfascinate/ISC2-CC-Study-Material" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ISC2-CC-Study-Material&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LSPosed/LSPosed.github.io</title>
-    <updated>2024-01-11T01:27:10Z</updated>
-    <id>tag:github.com,2024-01-11:/LSPosed/LSPosed.github.io</id>
-    <link href="https://github.com/LSPosed/LSPosed.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>upb-lea/Inkscape_electric_Symbols</title>
+    <updated>2024-01-12T01:26:35Z</updated>
+    <id>tag:github.com,2024-01-12:/upb-lea/Inkscape_electric_Symbols</id>
+    <link href="https://github.com/upb-lea/Inkscape_electric_Symbols" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Electrical symbol library for the vector graphics program Inkscape.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

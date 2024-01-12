@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-11T01:34:28Z</updated>
+  <updated>2024-01-12T01:33:18Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mgmillani/haskell-tester</title>
+    <updated>2024-01-12T01:33:18Z</updated>
+    <id>tag:github.com,2024-01-12:/mgmillani/haskell-tester</id>
+    <link href="https://github.com/mgmillani/haskell-tester" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple library for Haskell that can be used to test programs&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Haskell Tester&lt;/h1&gt; &#xA;&lt;p&gt;This library contains functions that can be used to test individual functions of haskell programs. The test function receives some functions as parameters, allowing plenty of customization&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>solidsnack/colog</title>
+    <updated>2024-01-12T01:33:18Z</updated>
+    <id>tag:github.com,2024-01-12:/solidsnack/colog</id>
+    <link href="https://github.com/solidsnack/colog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Colog is a log file aggregator. It reads and merges log files from different servers and outputs them to stdout in a mostly-sorted fashion.&lt;/p&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;Your S3 access credentials must be provided using the environment variables:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;AWS_ACCESS_KEY&lt;/code&gt;: account access key&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;AWS_SECRET_KEY&lt;/code&gt;: secret&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;The basic arguments are:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;colog s3://&amp;lt;bucketname&amp;gt;/&amp;lt;logroot&amp;gt; &amp;lt;start-date&amp;gt;[/[&amp;lt;end-date&amp;gt;]]&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Examples:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;# List all the logs from all servers produced between March 1st&#xA;# and March 2nd in 2013&#xA;colog s3://mybucket/logs/ 2013-03-01/2013-03-02&#xA;&#xA;# List all the logs for 3 March 2013, 14:45 UTC&#xA;colog s3://mybucket/logs/ 2013-03-03T14:45&#xA;&#xA;# List all the logs from march until now&#xA;colog s3://mybucket/logs/ 2013-03/...&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;For more info type:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;colog --help&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Filtering by seconds is currently not supported.&lt;/p&gt; &#xA;&lt;h1&gt;Structure of log file store&lt;/h1&gt; &#xA;&lt;p&gt;Colog currently assumes that all log files are stored on Amazon S3 and requires the following directory structure:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;s3://&amp;lt;bucket&amp;gt;/&amp;lt;root&amp;gt;/&amp;lt;servername&amp;gt;/&amp;lt;yyyy-mm-dd&amp;gt;/&amp;lt;hh&amp;gt;/&amp;lt;mm&amp;gt;Z&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;for example the file:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;s3://mybucket/syslogs/i-39824792/2013-03-15/14/43Z&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;would contain the syslogs for server &lt;code&gt;i-39824792&lt;/code&gt; on 15 March 2013, 14:43 UTC time. The log file itself must be a bzip2-compressed CSV file. Each line in the CSV file must start with the date in ISO 8601 format using UTC time. For example:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;2013-02-17T15:58:00.049808+00:00,01.myserver.mydomain,user,notice,&#34;label&#34;,12345,&#34;My message here&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Colog only requires that the first component in each line is in ISO 8601 format for sorting purposes. The remainder of the line is currently ignored.&lt;/p&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ hsenv --ghc=7.6.2&#xA;$ source .hsenv/bin/activate&#xA;$ cabal update&#xA;$ make install INSTALL_OPTS=-j&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

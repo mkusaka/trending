@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-11T01:43:07Z</updated>
+  <updated>2024-01-12T01:43:56Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OKDP/okdp-drafts</title>
-    <updated>2024-01-11T01:43:07Z</updated>
-    <id>tag:github.com,2024-01-11:/OKDP/okdp-drafts</id>
-    <link href="https://github.com/OKDP/okdp-drafts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>drsylent/cubix-cloudnative-block5-homework</title>
+    <updated>2024-01-12T01:43:56Z</updated>
+    <id>tag:github.com,2024-01-12:/drsylent/cubix-cloudnative-block5-homework</id>
+    <link href="https://github.com/drsylent/cubix-cloudnative-block5-homework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cubix Cloud-Native Application Development Training: fifth homework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

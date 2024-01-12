@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-11T01:39:05Z</updated>
+  <updated>2024-01-12T01:38:13Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nix-community/noogle</title>
-    <updated>2024-01-11T01:39:05Z</updated>
-    <id>tag:github.com,2024-01-11:/nix-community/noogle</id>
-    <link href="https://github.com/nix-community/noogle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
