@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-12T01:29:35Z</updated>
+  <updated>2024-01-13T01:29:59Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cjohansen/replicant</title>
-    <updated>2024-01-12T01:29:35Z</updated>
-    <id>tag:github.com,2024-01-12:/cjohansen/replicant</id>
-    <link href="https://github.com/cjohansen/replicant" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A native ClojureScript virtual DOM renderer - render hiccup directly&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aterreno/overtone</title>
-    <updated>2024-01-12T01:29:35Z</updated>
-    <id>tag:github.com,2024-01-12:/aterreno/overtone</id>
-    <link href="https://github.com/aterreno/overtone" rel="alternate"></link>
+    <title>hyperfiddle/hfql</title>
+    <updated>2024-01-13T01:29:59Z</updated>
+    <id>tag:github.com,2024-01-13:/hyperfiddle/hfql</id>
+    <link href="https://github.com/hyperfiddle/hfql" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

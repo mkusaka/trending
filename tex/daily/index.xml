@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-12T01:45:05Z</updated>
+  <updated>2024-01-13T01:44:18Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CS-MATH-113-Spring-2024/wc01</title>
+    <updated>2024-01-13T01:44:18Z</updated>
+    <id>tag:github.com,2024-01-13:/CS-MATH-113-Spring-2024/wc01</id>
+    <link href="https://github.com/CS-MATH-113-Spring-2024/wc01" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Weekly Challenge 01: Comparison&lt;/h1&gt; &#xA;&lt;h1&gt;CS/MATH 113 Discrete Mathematics, Spring 2024&lt;/h1&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Each Weekly Challenge (WC) invites you to critically engage with the topics covered up to that week. They may take on a variety of formats and be available and attempted through diverse platforms as the semester progresses. They may be attempted individually or in teams as indicated.&lt;/p&gt; &#xA;&lt;h1&gt;Purpose&lt;/h1&gt; &#xA;&lt;p&gt;This is the first WC. It familiarizes you with both the process that future WCs will follow and the kind of thinking that will be required for them.&lt;/p&gt; &#xA;&lt;h1&gt;Background&lt;/h1&gt; &#xA;&lt;p&gt;To attempt and submit the task you will need&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;familiarity with high school mathematics&lt;/li&gt; &#xA; &lt;li&gt;a problem solving and logical approach.&lt;/li&gt; &#xA; &lt;li&gt;comfort with GitHub and LaTeX&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Grading&lt;/h1&gt; &#xA;&lt;p&gt;Grading is as per the rubric shared on Canvas.&lt;/p&gt; &#xA;&lt;h1&gt;Task&lt;/h1&gt; &#xA;&lt;p&gt;The task for this WC is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file.&lt;/p&gt; &#xA;&lt;h1&gt;Deadline and discussion&lt;/h1&gt; &#xA;&lt;p&gt;The deadline is mentioned on Canvas.&lt;/p&gt; &#xA;&lt;p&gt;For discussion on the WC, please use the related Canvas discussion thread.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;viel Spass!&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>gadepall/ncert-signal</title>
+    <updated>2024-01-13T01:44:18Z</updated>
+    <id>tag:github.com,2024-01-13:/gadepall/ncert-signal</id>
+    <link href="https://github.com/gadepall/ncert-signal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Signal Processing fundamentals through ncert textbook problems&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ncert-signal&lt;/h1&gt; &#xA;&lt;p&gt;Signal Processing fundamentals through ncert textbook problems&lt;/p&gt;</summary>
+  </entry>
 </feed>

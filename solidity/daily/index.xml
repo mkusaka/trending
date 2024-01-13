@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-12T01:44:01Z</updated>
+  <updated>2024-01-13T01:43:19Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>solangegueiros/register-learn-solidity</title>
-    <updated>2024-01-12T01:44:01Z</updated>
-    <id>tag:github.com,2024-01-12:/solangegueiros/register-learn-solidity</id>
-    <link href="https://github.com/solangegueiros/register-learn-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contracts to learn Solidity fundamentals&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ultimasb/contract</title>
+    <updated>2024-01-13T01:43:19Z</updated>
+    <id>tag:github.com,2024-01-13:/ultimasb/contract</id>
+    <link href="https://github.com/ultimasb/contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ULTIMA Token Solidity Smart Contract&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>defi-wonderland/xERC20</title>
-    <updated>2024-01-12T01:44:01Z</updated>
-    <id>tag:github.com,2024-01-12:/defi-wonderland/xERC20</id>
-    <link href="https://github.com/defi-wonderland/xERC20" rel="alternate"></link>
+    <title>vertex-protocol/vertex-contracts</title>
+    <updated>2024-01-13T01:43:19Z</updated>
+    <id>tag:github.com,2024-01-13:/vertex-protocol/vertex-contracts</id>
+    <link href="https://github.com/vertex-protocol/vertex-contracts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>berachain/offchain-sdk</title>
-    <updated>2024-01-12T01:44:01Z</updated>
-    <id>tag:github.com,2024-01-12:/berachain/offchain-sdk</id>
-    <link href="https://github.com/berachain/offchain-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A framework for building off-chain services for EVM chains&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

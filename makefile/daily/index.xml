@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-12T01:36:47Z</updated>
+  <updated>2024-01-13T01:38:08Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yaya131/RedMi-AX6-NSS</title>
-    <updated>2024-01-12T01:36:47Z</updated>
-    <id>tag:github.com,2024-01-12:/yaya131/RedMi-AX6-NSS</id>
-    <link href="https://github.com/yaya131/RedMi-AX6-NSS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;仅编译AX6&amp;AX3600，涵盖：ipq807X的AX6和AX3600,两者配置通用，默认AX3600，一次只能编译一个&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>upbound/configuration-gcp-network</title>
+    <updated>2024-01-13T01:38:08Z</updated>
+    <id>tag:github.com,2024-01-13:/upbound/configuration-gcp-network</id>
+    <link href="https://github.com/upbound/configuration-gcp-network" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GCP Network Configuration&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>grafana/drone-test-public-repo</title>
-    <updated>2024-01-12T01:36:47Z</updated>
-    <id>tag:github.com,2024-01-12:/grafana/drone-test-public-repo</id>
-    <link href="https://github.com/grafana/drone-test-public-repo" rel="alternate"></link>
+    <title>flameaway/RemoveConfidential</title>
+    <updated>2024-01-13T01:38:08Z</updated>
+    <id>tag:github.com,2024-01-13:/flameaway/RemoveConfidential</id>
+    <link href="https://github.com/flameaway/RemoveConfidential" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Removes the &#34;Confidential &amp; Proprietary&#34; text from the lockscreen&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>netconf-wg/restconf-trace-ctx-headers</title>
+    <updated>2024-01-13T01:38:08Z</updated>
+    <id>tag:github.com,2024-01-13:/netconf-wg/restconf-trace-ctx-headers</id>
+    <link href="https://github.com/netconf-wg/restconf-trace-ctx-headers" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>grafana/xk6-notification</title>
-    <updated>2024-01-12T01:36:47Z</updated>
-    <id>tag:github.com,2024-01-12:/grafana/xk6-notification</id>
-    <link href="https://github.com/grafana/xk6-notification" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A k6 extension for creating notifications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

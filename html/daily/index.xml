@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-12T01:33:33Z</updated>
+  <updated>2024-01-13T01:35:36Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>namastedev/namaste-frontend-system-design</title>
-    <updated>2024-01-12T01:33:33Z</updated>
-    <id>tag:github.com,2024-01-12:/namastedev/namaste-frontend-system-design</id>
-    <link href="https://github.com/namastedev/namaste-frontend-system-design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Namaste Frontend System Design 🚀&lt;/h1&gt; &#xA;&lt;h1&gt;Security&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;XSS&lt;/li&gt; &#xA; &lt;li&gt;CSRF&lt;/li&gt; &#xA; &lt;li&gt;IFrame Protection&lt;/li&gt; &#xA; &lt;li&gt;Security Headers&lt;/li&gt; &#xA; &lt;li&gt;Client-Storage Security&lt;/li&gt; &#xA; &lt;li&gt;Secure Communication (HTTPS)&lt;/li&gt; &#xA; &lt;li&gt;Dependency Security&lt;/li&gt; &#xA; &lt;li&gt;Compliance and Regulations&lt;/li&gt; &#xA; &lt;li&gt;Input Validation and Sanitization&lt;/li&gt; &#xA; &lt;li&gt;Server-Side Request Forgery (SSRF)&lt;/li&gt; &#xA; &lt;li&gt;Server-side JavaScript Injection (SSJI)&lt;/li&gt; &#xA; &lt;li&gt;Feature Policy | Permissions-Policy&lt;/li&gt; &#xA; &lt;li&gt;Subresource Integrity (SRI)&lt;/li&gt; &#xA; &lt;li&gt;Cross-Origin Resource Sharing (CORS)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Testing&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Unit Testing &amp;amp; Integration Testing &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Component Testing&lt;/li&gt; &#xA;   &lt;li&gt;Jest &amp;amp; JS DOM&lt;/li&gt; &#xA;   &lt;li&gt;Testing Library / React Testing Library&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;Automation Testing &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;e2e Test cases&lt;/li&gt; &#xA;   &lt;li&gt;Tools - Puppeteer , Cypress, Selenium&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

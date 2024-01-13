@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-12T01:46:01Z</updated>
+  <updated>2024-01-13T01:45:25Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tachiyomiorg/website</title>
-    <updated>2024-01-12T01:46:01Z</updated>
-    <id>tag:github.com,2024-01-12:/tachiyomiorg/website</id>
-    <link href="https://github.com/tachiyomiorg/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official website for the Tachiyomi app.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zyronon/web-scripts</title>
-    <updated>2024-01-12T01:46:01Z</updated>
-    <id>tag:github.com,2024-01-12:/zyronon/web-scripts</id>
-    <link href="https://github.com/zyronon/web-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;V2EX最现代、最好用、功能最完整的脚本&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

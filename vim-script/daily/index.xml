@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-12T01:45:57Z</updated>
+  <updated>2024-01-13T01:45:19Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rainerborene/vim-cane</title>
-    <updated>2024-01-12T01:45:57Z</updated>
-    <id>tag:github.com,2024-01-12:/rainerborene/vim-cane</id>
-    <link href="https://github.com/rainerborene/vim-cane" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ruby code quality threshold checking in Vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jalvesaq/Nvim-R</title>
-    <updated>2024-01-12T01:45:57Z</updated>
-    <id>tag:github.com,2024-01-12:/jalvesaq/Nvim-R</id>
-    <link href="https://github.com/jalvesaq/Nvim-R" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin to work with R&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>koron/vimparser</title>
-    <updated>2024-01-12T01:45:57Z</updated>
-    <id>tag:github.com,2024-01-12:/koron/vimparser</id>
-    <link href="https://github.com/koron/vimparser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>inotom/reloadfx</title>
+    <updated>2024-01-13T01:45:19Z</updated>
+    <id>tag:github.com,2024-01-13:/inotom/reloadfx</id>
+    <link href="https://github.com/inotom/reloadfx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim script to reload Firefox web browser.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

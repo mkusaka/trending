@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-12T01:36:29Z</updated>
+  <updated>2024-01-13T01:37:57Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>JX3Toy/JX3Toy</title>
-    <updated>2024-01-12T01:36:29Z</updated>
-    <id>tag:github.com,2024-01-12:/JX3Toy/JX3Toy</id>
-    <link href="https://github.com/JX3Toy/JX3Toy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;更多下载链接、安装、使用、宏命令等请转往下列网站&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://jx3toy.github.io&#34;&gt;https://jx3toy.github.io&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://jx3toy.netlify.app&#34;&gt;https://jx3toy.netlify.app&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://jx3toy.onrender.com&#34;&gt;https://jx3toy.onrender.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://jx3toy.pages.dev&#34;&gt;https://jx3toy.pages.dev&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-12T01:33:07Z</updated>
+  <updated>2024-01-13T01:35:07Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>youngsoul/UnmanagedBagsTestDriver</title>
-    <updated>2024-01-12T01:33:07Z</updated>
-    <id>tag:github.com,2024-01-12:/youngsoul/UnmanagedBagsTestDriver</id>
-    <link href="https://github.com/youngsoul/UnmanagedBagsTestDriver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Test driver application for UnmanagedBagsPlugin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rackerlabs/repose</title>
-    <updated>2024-01-12T01:33:07Z</updated>
-    <id>tag:github.com,2024-01-12:/rackerlabs/repose</id>
-    <link href="https://github.com/rackerlabs/repose" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The powerful, programmable, API Middleware Platform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>manueldeval/groovygen</title>
+    <updated>2024-01-13T01:35:07Z</updated>
+    <id>tag:github.com,2024-01-13:/manueldeval/groovygen</id>
+    <link href="https://github.com/manueldeval/groovygen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

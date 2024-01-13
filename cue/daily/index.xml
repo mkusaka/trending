@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CUE Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-12T01:30:07Z</updated>
+  <updated>2024-01-13T01:30:39Z</updated>
   <subtitle>Daily Trending of CUE in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>grafana/kind-registry</title>
-    <updated>2024-01-12T01:30:07Z</updated>
-    <id>tag:github.com,2024-01-12:/grafana/kind-registry</id>
-    <link href="https://github.com/grafana/kind-registry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Registry for all GrafanaLabs kinds.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

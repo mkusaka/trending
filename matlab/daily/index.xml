@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-12T01:37:00Z</updated>
+  <updated>2024-01-13T01:38:17Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>marklar/min-loss-hashing</title>
-    <updated>2024-01-12T01:37:00Z</updated>
-    <id>tag:github.com,2024-01-12:/marklar/min-loss-hashing</id>
-    <link href="https://github.com/marklar/min-loss-hashing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;locality sensitive hashing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gregdetre/secns</title>
+    <updated>2024-01-13T01:38:17Z</updated>
+    <id>tag:github.com,2024-01-13:/gregdetre/secns</id>
+    <link href="https://github.com/gregdetre/secns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Princeton Psychology Department - software engineering for cognitive neuroscientists - Greg Detre - 3rd April 2013&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ziglee/manejo_pasto</title>
+    <updated>2024-01-13T01:38:17Z</updated>
+    <id>tag:github.com,2024-01-13:/ziglee/manejo_pasto</id>
+    <link href="https://github.com/ziglee/manejo_pasto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
