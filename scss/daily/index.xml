@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-13T01:42:31Z</updated>
+  <updated>2024-01-14T01:45:24Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yandex-praktikum/web-larek-frontend</title>
-    <updated>2024-01-13T01:42:31Z</updated>
-    <id>tag:github.com,2024-01-13:/yandex-praktikum/web-larek-frontend</id>
-    <link href="https://github.com/yandex-praktikum/web-larek-frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Фронтенд проекта &#34;Веб Ларёк&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nschmoller/nschmoller.github.io</title>
+    <updated>2024-01-14T01:45:24Z</updated>
+    <id>tag:github.com,2024-01-14:/nschmoller/nschmoller.github.io</id>
+    <link href="https://github.com/nschmoller/nschmoller.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/alguidelines</title>
+    <updated>2024-01-14T01:45:24Z</updated>
+    <id>tag:github.com,2024-01-14:/microsoft/alguidelines</id>
+    <link href="https://github.com/microsoft/alguidelines" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Best Practices and Design Patterns for the AL Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

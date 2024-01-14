@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub M4 Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-14T02:01:05Z</updated>
+  <subtitle>Weekly Trending of M4 in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lehenbauer/tclspi</title>
+    <updated>2024-01-14T02:01:05Z</updated>
+    <id>tag:github.com,2024-01-14:/lehenbauer/tclspi</id>
+    <link href="https://github.com/lehenbauer/tclspi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is tclspi, a direct Tcl interface to the Serial Peripheral Interface Bus on the Raspberry Pi.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

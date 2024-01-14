@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub AsciiDoc Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-14T01:50:23Z</updated>
+  <subtitle>Weekly Trending of AsciiDoc in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vaadin/docs</title>
+    <updated>2024-01-14T01:50:23Z</updated>
+    <id>tag:github.com,2024-01-14:/vaadin/docs</id>
+    <link href="https://github.com/vaadin/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official documentation for Vaadin and Hilla.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

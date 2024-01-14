@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-13T01:42:34Z</updated>
+  <updated>2024-01-14T01:45:28Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>day9a/Shaders</title>
-    <updated>2024-01-13T01:42:34Z</updated>
-    <id>tag:github.com,2024-01-13:/day9a/Shaders</id>
-    <link href="https://github.com/day9a/Shaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a few examples of shaders&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>blakbirld/GDTestWork</title>
-    <updated>2024-01-13T01:42:34Z</updated>
-    <id>tag:github.com,2024-01-13:/blakbirld/GDTestWork</id>
-    <link href="https://github.com/blakbirld/GDTestWork" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

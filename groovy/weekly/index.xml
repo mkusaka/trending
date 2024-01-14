@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-14T01:56:36Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>macloujulian/nodejsapp</title>
+    <updated>2024-01-14T01:56:36Z</updated>
+    <id>tag:github.com,2024-01-14:/macloujulian/nodejsapp</id>
+    <link href="https://github.com/macloujulian/nodejsapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bhu31084/iopp-assignment</title>
+    <updated>2024-01-14T01:56:36Z</updated>
+    <id>tag:github.com,2024-01-14:/bhu31084/iopp-assignment</id>
+    <link href="https://github.com/bhu31084/iopp-assignment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;iopp-assignment&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-13T01:43:44Z</updated>
+  <updated>2024-01-14T01:46:49Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MohammadBnei/sveltekit-video-meet</title>
-    <updated>2024-01-13T01:43:44Z</updated>
-    <id>tag:github.com,2024-01-13:/MohammadBnei/sveltekit-video-meet</id>
-    <link href="https://github.com/MohammadBnei/sveltekit-video-meet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;sveltekit-video-meet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>0sumcode/0up</title>
-    <updated>2024-01-13T01:43:44Z</updated>
-    <id>tag:github.com,2024-01-13:/0sumcode/0up</id>
-    <link href="https://github.com/0sumcode/0up" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;0up is a zero-knowledge, open-source, encrypted file sharing service&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ollama-webui/ollama-webui-lite</title>
-    <updated>2024-01-13T01:43:44Z</updated>
-    <id>tag:github.com,2024-01-13:/ollama-webui/ollama-webui-lite</id>
-    <link href="https://github.com/ollama-webui/ollama-webui-lite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ollama WebUI Stripped 🦙&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

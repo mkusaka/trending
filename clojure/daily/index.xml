@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-13T01:29:59Z</updated>
+  <updated>2024-01-14T01:31:19Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hyperfiddle/hfql</title>
-    <updated>2024-01-13T01:29:59Z</updated>
-    <id>tag:github.com,2024-01-13:/hyperfiddle/hfql</id>
-    <link href="https://github.com/hyperfiddle/hfql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>samcf/ogres</title>
+    <updated>2024-01-14T01:31:19Z</updated>
+    <id>tag:github.com,2024-01-14:/samcf/ogres</id>
+    <link href="https://github.com/samcf/ogres" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free online virtual tabletop that runs in your browser. No sign ups, no ads, no nonsense.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

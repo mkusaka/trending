@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-14T02:09:20Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ZhiShuYun/HubFrontend</title>
+    <updated>2024-01-14T02:09:20Z</updated>
+    <id>tag:github.com,2024-01-14:/ZhiShuYun/HubFrontend</id>
+    <link href="https://github.com/ZhiShuYun/HubFrontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;集成 GPT 问答、Midjourney 绘画等一站式服务的系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wudengyao/admin_vue3_vite</title>
+    <updated>2024-01-14T02:09:20Z</updated>
+    <id>tag:github.com,2024-01-14:/wudengyao/admin_vue3_vite</id>
+    <link href="https://github.com/wudengyao/admin_vue3_vite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;项目技术栈：Vue3 + JavaScript + Vite4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zernonia/vue0</title>
+    <updated>2024-01-14T02:09:20Z</updated>
+    <id>tag:github.com,2024-01-14:/zernonia/vue0</id>
+    <link href="https://github.com/zernonia/vue0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue version open source alternative for v0.dev&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

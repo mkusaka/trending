@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-13T01:39:27Z</updated>
+  <updated>2024-01-14T01:40:58Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ocaml-multicore/multicore-bench</title>
-    <updated>2024-01-13T01:39:27Z</updated>
-    <id>tag:github.com,2024-01-13:/ocaml-multicore/multicore-bench</id>
-    <link href="https://github.com/ocaml-multicore/multicore-bench" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Framework for benchmarking on multiple cores on current-bench&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>avsm/opam-repo-tools</title>
-    <updated>2024-01-13T01:39:27Z</updated>
-    <id>tag:github.com,2024-01-13:/avsm/opam-repo-tools</id>
-    <link href="https://github.com/avsm/opam-repo-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utilities for extracting metadata from OPAM repositories&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

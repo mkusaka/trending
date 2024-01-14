@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-14T02:07:08Z</updated>
+  <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>plantec/Album</title>
+    <updated>2024-01-14T02:07:08Z</updated>
+    <id>tag:github.com,2024-01-14:/plantec/Album</id>
+    <link href="https://github.com/plantec/Album" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fork of the Brick editor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

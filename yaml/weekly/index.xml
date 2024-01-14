@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub YAML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-14T02:09:58Z</updated>
+  <subtitle>Weekly Trending of YAML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ansible-lockdown/RHEL9-CIS</title>
+    <updated>2024-01-14T02:09:58Z</updated>
+    <id>tag:github.com,2024-01-14:/ansible-lockdown/RHEL9-CIS</id>
+    <link href="https://github.com/ansible-lockdown/RHEL9-CIS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ansible role for Red Hat 9 CIS Baseline&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

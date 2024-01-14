@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-13T01:34:30Z</updated>
+  <updated>2024-01-14T01:34:34Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>clayjohn/godot-volumetric-cloud-demo-v2</title>
+    <updated>2024-01-14T01:34:34Z</updated>
+    <id>tag:github.com,2024-01-14:/clayjohn/godot-volumetric-cloud-demo-v2</id>
+    <link href="https://github.com/clayjohn/godot-volumetric-cloud-demo-v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;V2 of https://github.com/clayjohn/godot-volumetric-cloud-demo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IHE/QRPH.CCG</title>
+    <updated>2024-01-14T01:34:34Z</updated>
+    <id>tag:github.com,2024-01-14:/IHE/QRPH.CCG</id>
+    <link href="https://github.com/IHE/QRPH.CCG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Computable Care Guidelines&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

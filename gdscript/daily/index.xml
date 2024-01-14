@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-13T01:34:13Z</updated>
+  <updated>2024-01-14T01:34:17Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ratmarrow/GoldGdt</title>
-    <updated>2024-01-13T01:34:13Z</updated>
-    <id>tag:github.com,2024-01-13:/ratmarrow/GoldGdt</id>
-    <link href="https://github.com/ratmarrow/GoldGdt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GoldGdt intends to be an accurate port of the GoldSrc movement code into Godot 4.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KoBeWi/Godot-Instance-Dock</title>
+    <updated>2024-01-14T01:34:17Z</updated>
+    <id>tag:github.com,2024-01-14:/KoBeWi/Godot-Instance-Dock</id>
+    <link href="https://github.com/KoBeWi/Godot-Instance-Dock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An addon for Godot engine that adds a convenience dock where you can store scenes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-13T01:29:32Z</updated>
+  <updated>2024-01-14T01:31:00Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>openbuildxyz/StarknetBootcamp</title>
+    <updated>2024-01-14T01:31:00Z</updated>
+    <id>tag:github.com,2024-01-14:/openbuildxyz/StarknetBootcamp</id>
+    <link href="https://github.com/openbuildxyz/StarknetBootcamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;StarknetBootcamp&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

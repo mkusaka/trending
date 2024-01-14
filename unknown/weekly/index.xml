@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-14T01:49:33Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Tongji-KGLLM/RAG-Survey</title>
+    <updated>2024-01-14T01:49:33Z</updated>
+    <id>tag:github.com,2024-01-14:/Tongji-KGLLM/RAG-Survey</id>
+    <link href="https://github.com/Tongji-KGLLM/RAG-Survey" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code</title>
+    <updated>2024-01-14T01:49:33Z</updated>
+    <id>tag:github.com,2024-01-14:/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code</id>
+    <link href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;500 AI Machine learning Deep learning Computer vision NLP Projects with code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>friuns2/Leaked-GPTs</title>
+    <updated>2024-01-14T01:49:33Z</updated>
+    <id>tag:github.com,2024-01-14:/friuns2/Leaked-GPTs</id>
+    <link href="https://github.com/friuns2/Leaked-GPTs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

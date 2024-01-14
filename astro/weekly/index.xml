@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-14T01:50:29Z</updated>
+  <subtitle>Weekly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TechForPalestine/website</title>
+    <updated>2024-01-14T01:50:29Z</updated>
+    <id>tag:github.com,2024-01-14:/TechForPalestine/website</id>
+    <link href="https://github.com/TechForPalestine/website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Website for techforpalestine.org&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>unfolding-io/StarFunnel</title>
+    <updated>2024-01-14T01:50:29Z</updated>
+    <id>tag:github.com,2024-01-14:/unfolding-io/StarFunnel</id>
+    <link href="https://github.com/unfolding-io/StarFunnel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;the Astro powered landing page builder&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

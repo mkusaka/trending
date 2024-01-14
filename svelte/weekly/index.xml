@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-14T02:07:40Z</updated>
+  <subtitle>Weekly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cyanial/genshin-impact-picker</title>
+    <updated>2024-01-14T02:07:40Z</updated>
+    <id>tag:github.com,2024-01-14:/cyanial/genshin-impact-picker</id>
+    <link href="https://github.com/cyanial/genshin-impact-picker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>opral/example</title>
+    <updated>2024-01-14T02:07:40Z</updated>
+    <id>tag:github.com,2024-01-14:/opral/example</id>
+    <link href="https://github.com/opral/example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example repository that showcases inlang.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>up-csi/up-csi.github.io</title>
+    <updated>2024-01-14T02:07:40Z</updated>
+    <id>tag:github.com,2024-01-14:/up-csi/up-csi.github.io</id>
+    <link href="https://github.com/up-csi/up-csi.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The source code for the official UP CSI website.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

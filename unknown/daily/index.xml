@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-13T01:26:25Z</updated>
+  <updated>2024-01-14T01:28:38Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DevCaress/guia-entrevistas-de-programacion</title>
-    <updated>2024-01-13T01:26:25Z</updated>
-    <id>tag:github.com,2024-01-13:/DevCaress/guia-entrevistas-de-programacion</id>
-    <link href="https://github.com/DevCaress/guia-entrevistas-de-programacion" rel="alternate"></link>
+    <title>AIGCDesignGroup/ReplaceAnything</title>
+    <updated>2024-01-14T01:28:38Z</updated>
+    <id>tag:github.com,2024-01-14:/AIGCDesignGroup/ReplaceAnything</id>
+    <link href="https://github.com/AIGCDesignGroup/ReplaceAnything" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>duty-machine/news</title>
-    <updated>2024-01-13T01:26:25Z</updated>
-    <id>tag:github.com,2024-01-13:/duty-machine/news</id>
-    <link href="https://github.com/duty-machine/news" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;免翻墙阅读海外媒体的中文文章&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Loy6410/ios16-tweaks</title>
+    <updated>2024-01-14T01:28:38Z</updated>
+    <id>tag:github.com,2024-01-14:/Loy6410/ios16-tweaks</id>
+    <link href="https://github.com/Loy6410/ios16-tweaks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A continuously updated list of working iOS 16 semi-jailbreak tweaks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TideSec/TscanPlus</title>
+    <updated>2024-01-14T01:28:38Z</updated>
+    <id>tag:github.com,2024-01-14:/TideSec/TscanPlus</id>
+    <link href="https://github.com/TideSec/TscanPlus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

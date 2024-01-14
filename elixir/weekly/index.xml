@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-14T01:54:39Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thmsmlr/instructor_ex</title>
+    <updated>2024-01-14T01:54:39Z</updated>
+    <id>tag:github.com,2024-01-14:/thmsmlr/instructor_ex</id>
+    <link href="https://github.com/thmsmlr/instructor_ex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Structured outputs for LLMs in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

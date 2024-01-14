@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-14T02:07:06Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>openfga/helm-charts</title>
+    <updated>2024-01-14T02:07:06Z</updated>
+    <id>tag:github.com,2024-01-14:/openfga/helm-charts</id>
+    <link href="https://github.com/openfga/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Helm charts for the OpenFGA project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vtex/becoming-a-driver</title>
+    <updated>2024-01-14T02:07:06Z</updated>
+    <id>tag:github.com,2024-01-14:/vtex/becoming-a-driver</id>
+    <link href="https://github.com/vtex/becoming-a-driver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VTEX&#39;s Engineering Individual Contributors Career Track&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>itzg/minecraft-server-charts</title>
+    <updated>2024-01-14T02:07:06Z</updated>
+    <id>tag:github.com,2024-01-14:/itzg/minecraft-server-charts</id>
+    <link href="https://github.com/itzg/minecraft-server-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
