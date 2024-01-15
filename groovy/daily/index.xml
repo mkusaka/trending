@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-14T01:35:19Z</updated>
+  <updated>2024-01-15T01:33:28Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>katalon-studio-samples/ci-samples</title>
-    <updated>2024-01-14T01:35:19Z</updated>
-    <id>tag:github.com,2024-01-14:/katalon-studio-samples/ci-samples</id>
-    <link href="https://github.com/katalon-studio-samples/ci-samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample configurations for various CI systems.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-14T01:31:54Z</updated>
+  <updated>2024-01-15T01:30:42Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HansNewbie/hansnewbie.github.io</title>
-    <updated>2024-01-14T01:31:54Z</updated>
-    <id>tag:github.com,2024-01-14:/HansNewbie/hansnewbie.github.io</id>
-    <link href="https://github.com/HansNewbie/hansnewbie.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My page to list stuff that I kind of make as hobby 😄&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#About Hi! This user site of mine is used to keep track stuff that I made as a hobby or as side projects. Enjoy! &lt;span&gt;😄&lt;/span&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/HansNewbie/hansnewbie.github.io/master/images/README.png&#34; alt=&#34;Hi! This is Hans Adrian&#39;s webpage.&#34;&gt;&lt;/p&gt;</summary>
+    <title>vishaltewatia/Thankyoubook</title>
+    <updated>2024-01-15T01:30:42Z</updated>
+    <id>tag:github.com,2024-01-15:/vishaltewatia/Thankyoubook</id>
+    <link href="https://github.com/vishaltewatia/Thankyoubook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Thankyoubook&lt;/h1&gt;</summary>
   </entry>
 </feed>

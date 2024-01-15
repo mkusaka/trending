@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-14T01:32:21Z</updated>
+  <updated>2024-01-15T01:31:05Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nank1ro/shadcn-ui</title>
-    <updated>2024-01-14T01:32:21Z</updated>
-    <id>tag:github.com,2024-01-14:/nank1ro/shadcn-ui</id>
-    <link href="https://github.com/nank1ro/shadcn-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;shadcn/ui ported in flutter&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;shadcn-ui&lt;/h1&gt; &#xA;&lt;p&gt;shadcn/ui ported in flutter&lt;/p&gt; &#xA;&lt;p&gt;I&#39;ll be working on porting shadcn/ui soon, follow my progress on &lt;a href=&#34;https://twitter.com/nank1ro&#34;&gt;X (Twitter)&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

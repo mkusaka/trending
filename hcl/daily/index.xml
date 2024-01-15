@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-14T01:35:31Z</updated>
+  <updated>2024-01-15T01:33:39Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vmware-archive/terraforming-gcp</title>
+    <updated>2024-01-15T01:33:39Z</updated>
+    <id>tag:github.com,2024-01-15:/vmware-archive/terraforming-gcp</id>
+    <link href="https://github.com/vmware-archive/terraforming-gcp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;use terraform, deploy yourself a pcf&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hashicorp/terraform-aws-consul-ecs</title>
+    <updated>2024-01-15T01:33:39Z</updated>
+    <id>tag:github.com,2024-01-15:/hashicorp/terraform-aws-consul-ecs</id>
+    <link href="https://github.com/hashicorp/terraform-aws-consul-ecs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Consul Service Mesh on AWS ECS (Elastic Container Service)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

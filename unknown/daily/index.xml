@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-14T01:28:38Z</updated>
+  <updated>2024-01-15T01:27:40Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AIGCDesignGroup/ReplaceAnything</title>
-    <updated>2024-01-14T01:28:38Z</updated>
-    <id>tag:github.com,2024-01-14:/AIGCDesignGroup/ReplaceAnything</id>
-    <link href="https://github.com/AIGCDesignGroup/ReplaceAnything" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>danielmiessler/fabric</title>
+    <updated>2024-01-15T01:27:40Z</updated>
+    <id>tag:github.com,2024-01-15:/danielmiessler/fabric</id>
+    <link href="https://github.com/danielmiessler/fabric" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An AI Augmentation framework for helping people integrate AI into their lives.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Loy6410/ios16-tweaks</title>
-    <updated>2024-01-14T01:28:38Z</updated>
-    <id>tag:github.com,2024-01-14:/Loy6410/ios16-tweaks</id>
-    <link href="https://github.com/Loy6410/ios16-tweaks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A continuously updated list of working iOS 16 semi-jailbreak tweaks.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudcommunity/Cloud-Free-Tier-Comparison</title>
+    <updated>2024-01-15T01:27:40Z</updated>
+    <id>tag:github.com,2024-01-15:/cloudcommunity/Cloud-Free-Tier-Comparison</id>
+    <link href="https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TideSec/TscanPlus</title>
-    <updated>2024-01-14T01:28:38Z</updated>
-    <id>tag:github.com,2024-01-14:/TideSec/TscanPlus</id>
-    <link href="https://github.com/TideSec/TscanPlus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rolik1337/CryptoTradeAI</title>
+    <updated>2024-01-15T01:27:40Z</updated>
+    <id>tag:github.com,2024-01-15:/rolik1337/CryptoTradeAI</id>
+    <link href="https://github.com/rolik1337/CryptoTradeAI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Detailed installation guide for this software is available on my Telegram&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

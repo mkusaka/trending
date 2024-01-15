@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-14T01:48:32Z</updated>
+  <updated>2024-01-15T01:44:37Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>szmxx/template-landing-page</title>
+    <updated>2024-01-15T01:44:37Z</updated>
+    <id>tag:github.com,2024-01-15:/szmxx/template-landing-page</id>
+    <link href="https://github.com/szmxx/template-landing-page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;template for landing page&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VueTorrent/VueTorrent</title>
+    <updated>2024-01-15T01:44:37Z</updated>
+    <id>tag:github.com,2024-01-15:/VueTorrent/VueTorrent</id>
+    <link href="https://github.com/VueTorrent/VueTorrent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The sleekest looking WEBUI for qBittorrent made with Vuejs!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WhiteCosmos/Gotcha-Rest-Client</title>
+    <updated>2024-01-15T01:44:37Z</updated>
+    <id>tag:github.com,2024-01-15:/WhiteCosmos/Gotcha-Rest-Client</id>
+    <link href="https://github.com/WhiteCosmos/Gotcha-Rest-Client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The open-source, cross-platform API test and design tool.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

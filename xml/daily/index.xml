@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-14T01:49:03Z</updated>
+  <updated>2024-01-15T01:45:07Z</updated>
   <subtitle>Daily Trending of XML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>euhmeuh/exiapyrus</title>
-    <updated>2024-01-14T01:49:03Z</updated>
-    <id>tag:github.com,2024-01-14:/euhmeuh/exiapyrus</id>
-    <link href="https://github.com/euhmeuh/exiapyrus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exia prosit creator for savvy scribes.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;exiapyrus&lt;/h1&gt; &#xA;&lt;p&gt;Exia prosit creator for savvy scribes.&lt;/p&gt; &#xA;&lt;p&gt;Take a sit, enjoy a nice cup of tea while the machine is doing your scribe tasks. (you have to type sometimes though)&lt;/p&gt;</summary>
-  </entry>
 </feed>
