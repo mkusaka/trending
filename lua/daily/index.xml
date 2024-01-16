@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-15T01:35:57Z</updated>
+  <updated>2024-01-16T01:37:41Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Byte-Labs-Project/bl_vehiclemenu</title>
-    <updated>2024-01-15T01:35:57Z</updated>
-    <id>tag:github.com,2024-01-15:/Byte-Labs-Project/bl_vehiclemenu</id>
-    <link href="https://github.com/Byte-Labs-Project/bl_vehiclemenu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vehicle Menu for FiveM&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;bl_vehiclemenu&lt;/h1&gt; &#xA;&lt;p&gt;Advanced vehicle menu for FiveM.&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;nothing more...&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;Drag and drop the folder into your resources folder and add &lt;code&gt;start bl_vehiclemenu&lt;/code&gt; to your server.cfg&lt;/p&gt; &#xA;&lt;p&gt;Preview: &lt;a href=&#34;https://streamable.com/h1ivd4&#34;&gt;https://streamable.com/h1ivd4&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

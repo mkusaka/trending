@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-15T01:37:17Z</updated>
+  <updated>2024-01-16T01:39:41Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AppInstalleriOSGH/Taurine-Haxx</title>
-    <updated>2024-01-15T01:37:17Z</updated>
-    <id>tag:github.com,2024-01-15:/AppInstalleriOSGH/Taurine-Haxx</id>
-    <link href="https://github.com/AppInstalleriOSGH/Taurine-Haxx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Taurine Haxx&lt;/h1&gt; &#xA;&lt;p&gt;⚠️ Warning ⚠️ I am not liable if you get bootlooped, if you bootloop do not blame me.&lt;/p&gt; &#xA;&lt;p&gt;Taurine Untethered&lt;/p&gt; &#xA;&lt;p&gt;Based on &lt;a href=&#34;https://github.com/asdfugil/haxx&#34;&gt;haxx&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Requires: Existing Taurine jailbreak and iOS 14.0 - 14.6&lt;/p&gt; &#xA;&lt;h3&gt;Get up and running&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Install &lt;a href=&#34;https://github.com/AppInstalleriOSGH/Taurine/raw/main/Taurine.ipa&#34;&gt;Taurine Untethered&lt;/a&gt; with TrollStore&lt;/li&gt; &#xA; &lt;li&gt;Jailbreak with Taurine Untethered&lt;/li&gt; &#xA; &lt;li&gt;Install &lt;a href=&#34;https://github.com/AppInstalleriOSGH/Taurine-Haxx/raw/main/Untether.ipa&#34;&gt;Untether&lt;/a&gt; with TrollStore&lt;/li&gt; &#xA; &lt;li&gt;Open Untether and tap &lt;code&gt;Install Untether&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;You&#39;re done! The jailbreak will start about 20 seconds after every boot, you can make it faster by changing the &lt;a href=&#34;https://github.com/AppInstalleriOSGH/Taurine-Haxx/raw/main/fileproviderctl_internal.m#L13&#34;&gt;sleep time&lt;/a&gt; to a lower number&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Disable with irecovery&lt;/h3&gt; &#xA;&lt;p&gt;In the terminal run &lt;code&gt;irecovery -s&lt;/code&gt; and type:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;setenv boot-args no_untether&lt;/li&gt; &#xA; &lt;li&gt;saveenv&lt;/li&gt; &#xA; &lt;li&gt;reboot&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Disable&lt;/h3&gt; &#xA;&lt;p&gt;To disable the untether, do the following steps&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Open Untether and tap &lt;code&gt;Disable Untether&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Removal&lt;/h3&gt; &#xA;&lt;p&gt;To remove the installation, do the following steps&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Open Untether and tap &lt;code&gt;Uninstall Untether&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
-  <entry>
-    <title>gregheo/clicky</title>
-    <updated>2024-01-15T01:37:17Z</updated>
-    <id>tag:github.com,2024-01-15:/gregheo/clicky</id>
-    <link href="https://github.com/gregheo/clicky" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example project showing a custom iOS keyboard input view with key click sounds&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Clicky&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;A sample app demonstrating a custom keyboard input view on iOS&lt;/strong&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Check out &lt;a href=&#34;http://gregheo.com/blog/ios-custom-keyboard&#34;&gt;the corresponsing blog post&lt;/a&gt; for more details.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>satish-coding-repo/MyProject</title>
-    <updated>2024-01-15T01:37:17Z</updated>
-    <id>tag:github.com,2024-01-15:/satish-coding-repo/MyProject</id>
-    <link href="https://github.com/satish-coding-repo/MyProject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Weebly/Try</title>
+    <updated>2024-01-16T01:39:41Z</updated>
+    <id>tag:github.com,2024-01-16:/Weebly/Try</id>
+    <link href="https://github.com/Weebly/Try" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Handle Objective-C Exceptions with Swift&#39;s error handling system&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Try&lt;/h1&gt; &#xA;&lt;p&gt;Try allows you to handle Objective-C exceptions using Swift error handling. There are a lot of APIs in Objective-C that can throw exceptions that are simply unhandable in Swift. For example, NSKeyedUnarchiver can throw an exception if you attempt to coerce a value to an incompatible type.&lt;/p&gt; &#xA;&lt;p&gt;In the below example, we&#39;ll decode an &lt;code&gt;int&lt;/code&gt; that was written by an &lt;code&gt;NSKeyedArchiver&lt;/code&gt;. If this data actually encoded a &lt;code&gt;float&lt;/code&gt; the &lt;code&gt;decodeIntForKey(_:)&lt;/code&gt; method would normally throw an exception, but with Try it throws a Swift error, and we can handle it gracefully. The method will handle the error in a more Swift-friendly way by returning &lt;code&gt;nil&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-swift&#34;&gt;func decodeCountFromData(data: Data) -&amp;gt; Int? {&#xA;&#x9;let archiver = NSKeyedUnarchiver(forReadingWith: data)&#xA;&#x9;defer { archiver.finishDecoding() }&#xA;&#x9;&#xA;&#x9;do {&#xA;&#x9;    try trap {&#xA;&#x9;    &#x9;return archiver.decodeInteger(forKey: &#34;count&#34;)&#xA;&#x9;    }&#xA;&#x9;} catch let error as NSError {&#xA;&#x9;    if let exception = error.userInfo[tryExceptionErrorKey] as? NSException {&#xA;&#x9;        dlog(&#34;ERROR: Exception decoding count: \(exception)&#34;)&#xA;&#x9;    } else {&#xA;&#x9;        dlog(&#34;ERROR: Unknown decoding error: \(error)&#34;)&#xA;&#x9;    }&#xA;&#x9;&#xA;&#x9;    return nil&#xA;&#x9;}&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Contributors&lt;/h2&gt; &#xA;&lt;p&gt;The concept &amp;amp; original implementation was done by &lt;a href=&#34;https://github.com/jberkman&#34;&gt;Jacob Berkman&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>

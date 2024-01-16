@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-15T01:36:57Z</updated>
+  <updated>2024-01-16T01:39:11Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>uclahs-cds/pipeline-Nextflow-module</title>
-    <updated>2024-01-15T01:36:57Z</updated>
-    <id>tag:github.com,2024-01-15:/uclahs-cds/pipeline-Nextflow-module</id>
-    <link href="https://github.com/uclahs-cds/pipeline-Nextflow-module" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Set of commonly used Nextflow modules&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

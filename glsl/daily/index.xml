@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-15T01:33:03Z</updated>
+  <updated>2024-01-16T01:33:48Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sjrsjz/Dirt-RT</title>
-    <updated>2024-01-15T01:33:03Z</updated>
-    <id>tag:github.com,2024-01-15:/sjrsjz/Dirt-RT</id>
-    <link href="https://github.com/sjrsjz/Dirt-RT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minecraft path tracing shaderpack for vulkanite mod&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

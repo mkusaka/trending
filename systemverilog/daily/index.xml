@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-15T01:43:16Z</updated>
+  <updated>2024-01-16T01:45:59Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MPSU/APS-reborn</title>
+    <updated>2024-01-16T01:45:59Z</updated>
+    <id>tag:github.com,2024-01-16:/MPSU/APS-reborn</id>
+    <link href="https://github.com/MPSU/APS-reborn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Методические материалы по разработке процессора архитектуры RISC-V&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

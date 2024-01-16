@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-15T01:32:04Z</updated>
+  <updated>2024-01-16T01:32:32Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>emacs-exwm/exwm</title>
-    <updated>2024-01-15T01:32:04Z</updated>
-    <id>tag:github.com,2024-01-15:/emacs-exwm/exwm</id>
-    <link href="https://github.com/emacs-exwm/exwm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emacs X Window Manager&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Emacs X Window Manager&lt;/h1&gt; &#xA;&lt;p&gt;EXWM (Emacs X Window Manager) is a full-featured tiling X window manager for Emacs built on top of &lt;a href=&#34;https://github.com/emacs-exwm/xelb&#34;&gt;XELB&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;It features:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fully keyboard-driven operations&lt;/li&gt; &#xA; &lt;li&gt;Hybrid layout modes (tiling &amp;amp; stacking)&lt;/li&gt; &#xA; &lt;li&gt;Dynamic workspace support&lt;/li&gt; &#xA; &lt;li&gt;ICCCM/EWMH compliance&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Optional features:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;RandR (multi-monitor) support&lt;/li&gt; &#xA; &lt;li&gt;System tray&lt;/li&gt; &#xA; &lt;li&gt;Input method&lt;/li&gt; &#xA; &lt;li&gt;Background setting support&lt;/li&gt; &#xA; &lt;li&gt;XSETTINGS server&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Please check out the &lt;a href=&#34;https://github.com/emacs-exwm/exwm/wiki/Screenshots&#34;&gt;screenshots&lt;/a&gt; to get an overview of what EXWM is capable of, and the &lt;a href=&#34;https://github.com/emacs-exwm/exwm/wiki&#34;&gt;user guide&lt;/a&gt; for installation instructions and a detailed explanation of its usage.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>emacs-exwm/xelb</title>
-    <updated>2024-01-15T01:32:04Z</updated>
-    <id>tag:github.com,2024-01-15:/emacs-exwm/xelb</id>
-    <link href="https://github.com/emacs-exwm/xelb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;X protocol Emacs Lisp Binding&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;X protocol Emacs Lisp Binding&lt;/h1&gt; &#xA;&lt;p&gt;XELB (X protocol Emacs Lisp Binding) is a pure Elisp implementation of X11 protocol based on the XML description files from XCB project. It features an object-oriented API and permits a certain degree of concurrency. It should enable you to implement some low-level X11 applications. Please refer to &lt;a href=&#34;https://github.com/emacs-exwm/xelb/raw/master/xelb.el&#34;&gt;xelb.el&lt;/a&gt; for more details.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-15T01:42:22Z</updated>
+  <updated>2024-01-16T01:45:04Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>KintoXYZ/kinto-core</title>
-    <updated>2024-01-15T01:42:22Z</updated>
-    <id>tag:github.com,2024-01-15:/KintoXYZ/kinto-core</id>
-    <link href="https://github.com/KintoXYZ/kinto-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;KYC Of KInto&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
