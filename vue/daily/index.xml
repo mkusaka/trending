@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-16T01:47:24Z</updated>
+  <updated>2024-01-17T01:47:09Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>feedox/alt-gpt</title>
-    <updated>2024-01-16T01:47:24Z</updated>
-    <id>tag:github.com,2024-01-16:/feedox/alt-gpt</id>
-    <link href="https://github.com/feedox/alt-gpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Playground for developing ChatGPT plugins&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GUI-for-Cores/GUI.for.SingBox</title>
-    <updated>2024-01-16T01:47:24Z</updated>
-    <id>tag:github.com,2024-01-16:/GUI-for-Cores/GUI.for.SingBox</id>
-    <link href="https://github.com/GUI-for-Cores/GUI.for.SingBox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GUI for SingBox&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OpenCSGs/csghub</title>
+    <updated>2024-01-17T01:47:09Z</updated>
+    <id>tag:github.com,2024-01-17:/OpenCSGs/csghub</id>
+    <link href="https://github.com/OpenCSGs/csghub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CSGHub is an opensource large model assets platform just like on-premise huggingface which helps to manage datasets, model files, codes and more.　CSGHub是一个开源、可信的大模型资产管理平台，可帮助用户治理LLM和LLM应用生命周期中涉及到的资产（数据集、模型文件、代码等）。CSGHub提供类似私有化的Huggingface功能，以类似OpenStack Glance管理虚拟机镜像、Harbor管理容器镜像以及Sonatype Nexus管理制品的方式，实现对LLM资产的管理。欢迎关注反馈和Star⭐️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

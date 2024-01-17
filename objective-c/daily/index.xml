@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-16T01:39:41Z</updated>
+  <updated>2024-01-17T01:40:15Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Weebly/Try</title>
-    <updated>2024-01-16T01:39:41Z</updated>
-    <id>tag:github.com,2024-01-16:/Weebly/Try</id>
-    <link href="https://github.com/Weebly/Try" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Handle Objective-C Exceptions with Swift&#39;s error handling system&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Try&lt;/h1&gt; &#xA;&lt;p&gt;Try allows you to handle Objective-C exceptions using Swift error handling. There are a lot of APIs in Objective-C that can throw exceptions that are simply unhandable in Swift. For example, NSKeyedUnarchiver can throw an exception if you attempt to coerce a value to an incompatible type.&lt;/p&gt; &#xA;&lt;p&gt;In the below example, we&#39;ll decode an &lt;code&gt;int&lt;/code&gt; that was written by an &lt;code&gt;NSKeyedArchiver&lt;/code&gt;. If this data actually encoded a &lt;code&gt;float&lt;/code&gt; the &lt;code&gt;decodeIntForKey(_:)&lt;/code&gt; method would normally throw an exception, but with Try it throws a Swift error, and we can handle it gracefully. The method will handle the error in a more Swift-friendly way by returning &lt;code&gt;nil&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-swift&#34;&gt;func decodeCountFromData(data: Data) -&amp;gt; Int? {&#xA;&#x9;let archiver = NSKeyedUnarchiver(forReadingWith: data)&#xA;&#x9;defer { archiver.finishDecoding() }&#xA;&#x9;&#xA;&#x9;do {&#xA;&#x9;    try trap {&#xA;&#x9;    &#x9;return archiver.decodeInteger(forKey: &#34;count&#34;)&#xA;&#x9;    }&#xA;&#x9;} catch let error as NSError {&#xA;&#x9;    if let exception = error.userInfo[tryExceptionErrorKey] as? NSException {&#xA;&#x9;        dlog(&#34;ERROR: Exception decoding count: \(exception)&#34;)&#xA;&#x9;    } else {&#xA;&#x9;        dlog(&#34;ERROR: Unknown decoding error: \(error)&#34;)&#xA;&#x9;    }&#xA;&#x9;&#xA;&#x9;    return nil&#xA;&#x9;}&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Contributors&lt;/h2&gt; &#xA;&lt;p&gt;The concept &amp;amp; original implementation was done by &lt;a href=&#34;https://github.com/jberkman&#34;&gt;Jacob Berkman&lt;/a&gt;.&lt;/p&gt;</summary>
+    <title>robertventurini/FlyingToasters</title>
+    <updated>2024-01-17T01:40:15Z</updated>
+    <id>tag:github.com,2024-01-17:/robertventurini/FlyingToasters</id>
+    <link href="https://github.com/robertventurini/FlyingToasters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Recreation of AfterDarks 2.0 Flying Toasters screensaver for macOS&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FlyingToasters&lt;/h1&gt; &#xA;&lt;p&gt;Recreation of AfterDarks 2.0 Flying Toasters screensaver for macOS&lt;/p&gt; &#xA;&lt;p&gt;Dissatisfied with a few of the Flying Toaster screensaver clones that exist for modern macOS, I set off to implement one that felt more true to Berkley Systems After Dark 2.0 version of my youth. Due to a breadth of legacy and modern hardware in my personal collection, I opted for ObjC as the language here but may chose to modernize this in the future. I&#39;ve also intentionally omitted collision detection and physics from the design in this initial version. I hope to add it in a subsequent version later and perhaps even add support for similar variety that Berkley Systems did through each of their After Dark Releases.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/robertventurini/FlyingToasters/raw/master/FlyingToasters.gif&#34; alt=&#34;Image of FlyingToasters&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;This project was inspired by Bryan Brauns work on his project, &lt;a href=&#34;https://github.com/bryanbraun/after-dark-css&#34;&gt;After Dark CSS&lt;/a&gt;. The image resources for the toaster and toast came from his repository directly and as he states there, are © 1989 Berkeley Systems Inc.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>mbopp/CoreDataSPoT</title>
+    <updated>2024-01-17T01:40:15Z</updated>
+    <id>tag:github.com,2024-01-17:/mbopp/CoreDataSPoT</id>
+    <link href="https://github.com/mbopp/CoreDataSPoT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CS 193P Homework 6&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CoreDataSPoT&lt;/h1&gt; &#xA;&lt;p&gt;CS 193P Homework 6&lt;/p&gt;</summary>
   </entry>
 </feed>

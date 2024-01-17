@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-16T01:27:05Z</updated>
+  <updated>2024-01-17T01:27:25Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KAIST-VICLab/FMA-Net</title>
-    <updated>2024-01-16T01:27:05Z</updated>
-    <id>tag:github.com,2024-01-16:/KAIST-VICLab/FMA-Net</id>
-    <link href="https://github.com/KAIST-VICLab/FMA-Net" rel="alternate"></link>
+    <title>danieldurnea/FBI-tools</title>
+    <updated>2024-01-17T01:27:25Z</updated>
+    <id>tag:github.com,2024-01-17:/danieldurnea/FBI-tools</id>
+    <link href="https://github.com/danieldurnea/FBI-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🕵️ OSINT Tools for gathering information and actions forensics 🕵️&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lfranke/TRIPS</title>
+    <updated>2024-01-17T01:27:25Z</updated>
+    <id>tag:github.com,2024-01-17:/lfranke/TRIPS</id>
+    <link href="https://github.com/lfranke/TRIPS" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Learn-with-Sumit/rnext</title>
-    <updated>2024-01-16T01:27:05Z</updated>
-    <id>tag:github.com,2024-01-16:/Learn-with-Sumit/rnext</id>
-    <link href="https://github.com/Learn-with-Sumit/rnext" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Central Code Repository - Reactive Accelerator React-Next.js course by Learn with Sumit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>razetime/ngn-k-tutorial</title>
-    <updated>2024-01-16T01:27:05Z</updated>
-    <id>tag:github.com,2024-01-16:/razetime/ngn-k-tutorial</id>
-    <link href="https://github.com/razetime/ngn-k-tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An ngn/k tutorial.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

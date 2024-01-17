@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-16T01:33:28Z</updated>
+  <updated>2024-01-17T01:34:22Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>anthonyec/godot_little_camera_preview</title>
+    <updated>2024-01-17T01:34:22Z</updated>
+    <id>tag:github.com,2024-01-17:/anthonyec/godot_little_camera_preview</id>
+    <link href="https://github.com/anthonyec/godot_little_camera_preview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎥 Picture-in-picture style preview for both 2D and 3D cameras&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LucasBr003/ez-transitions</title>
+    <updated>2024-01-17T01:34:22Z</updated>
+    <id>tag:github.com,2024-01-17:/LucasBr003/ez-transitions</id>
+    <link href="https://github.com/LucasBr003/ez-transitions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Godot Plugin &#34;EzTransitions&#34; official repository.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RavioliMavioli/malware-slayer</title>
+    <updated>2024-01-17T01:34:22Z</updated>
+    <id>tag:github.com,2024-01-17:/RavioliMavioli/malware-slayer</id>
+    <link href="https://github.com/RavioliMavioli/malware-slayer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Successor of &#34;System77&#34;, made in Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

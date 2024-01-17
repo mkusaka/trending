@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-16T01:36:36Z</updated>
+  <updated>2024-01-17T01:37:26Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>svilupp/LLMTextAnalysis.jl</title>
-    <updated>2024-01-16T01:36:36Z</updated>
-    <id>tag:github.com,2024-01-16:/svilupp/LLMTextAnalysis.jl</id>
-    <link href="https://github.com/svilupp/LLMTextAnalysis.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Effortlessly uncover and label thematic insights in large document collections using the power of Large Language Models and Julia Language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

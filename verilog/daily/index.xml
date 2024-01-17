@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-16T01:47:09Z</updated>
+  <updated>2024-01-17T01:46:57Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sure-trust/G13_VLSI</title>
+    <updated>2024-01-17T01:46:57Z</updated>
+    <id>tag:github.com,2024-01-17:/sure-trust/G13_VLSI</id>
+    <link href="https://github.com/sure-trust/G13_VLSI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
