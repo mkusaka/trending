@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-17T01:34:33Z</updated>
+  <updated>2024-01-18T01:31:52Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vividus-framework/vividus-training</title>
+    <updated>2024-01-18T01:31:52Z</updated>
+    <id>tag:github.com,2024-01-18:/vividus-framework/vividus-training</id>
+    <link href="https://github.com/vividus-framework/vividus-training" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

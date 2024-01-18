@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-17T01:31:24Z</updated>
+  <updated>2024-01-18T01:28:57Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>afucher/clojure-repl-intellij</title>
-    <updated>2024-01-17T01:31:24Z</updated>
-    <id>tag:github.com,2024-01-17:/afucher/clojure-repl-intellij</id>
-    <link href="https://github.com/afucher/clojure-repl-intellij" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free OpenSource IntelliJ plugin for Clojure REPL development.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adam-james-v/badspreadsheet</title>
+    <updated>2024-01-18T01:28:57Z</updated>
+    <id>tag:github.com,2024-01-18:/adam-james-v/badspreadsheet</id>
+    <link href="https://github.com/adam-james-v/badspreadsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure Spreadsheet for building design tools.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mch/fish</title>
+    <updated>2024-01-18T01:28:57Z</updated>
+    <id>tag:github.com,2024-01-18:/mch/fish</id>
+    <link href="https://github.com/mch/fish" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DICOM processing for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

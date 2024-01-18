@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-17T01:44:53Z</updated>
+  <updated>2024-01-18T01:42:33Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jtriley-eth/the-rippler</title>
-    <updated>2024-01-17T01:44:53Z</updated>
-    <id>tag:github.com,2024-01-17:/jtriley-eth/the-rippler</id>
-    <link href="https://github.com/jtriley-eth/the-rippler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>solangegueiros/chainlink-bootcamp-2024</title>
+    <updated>2024-01-18T01:42:33Z</updated>
+    <id>tag:github.com,2024-01-18:/solangegueiros/chainlink-bootcamp-2024</id>
+    <link href="https://github.com/solangegueiros/chainlink-bootcamp-2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;exercises chainlink bootcamp 2024&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lindy-labs/erc4626-utils</title>
-    <updated>2024-01-17T01:44:53Z</updated>
-    <id>tag:github.com,2024-01-17:/lindy-labs/erc4626-utils</id>
-    <link href="https://github.com/lindy-labs/erc4626-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DODOEX/contractV2</title>
+    <updated>2024-01-18T01:42:33Z</updated>
+    <id>tag:github.com,2024-01-18:/DODOEX/contractV2</id>
+    <link href="https://github.com/DODOEX/contractV2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smart contracts for DODOEX V2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

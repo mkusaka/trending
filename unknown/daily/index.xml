@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-17T01:27:25Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2024-01-18T01:26:41Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>danieldurnea/FBI-tools</title>
-    <updated>2024-01-17T01:27:25Z</updated>
-    <id>tag:github.com,2024-01-17:/danieldurnea/FBI-tools</id>
-    <link href="https://github.com/danieldurnea/FBI-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🕵️ OSINT Tools for gathering information and actions forensics 🕵️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>darknet-onion-links/darknet-onion-links-catalog</title>
+    <updated>2024-01-18T01:26:41Z</updated>
+    <id>tag:github.com,2024-01-18:/darknet-onion-links/darknet-onion-links-catalog</id>
+    <link href="https://github.com/darknet-onion-links/darknet-onion-links-catalog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TOR DARKENET&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lfranke/TRIPS</title>
-    <updated>2024-01-17T01:27:25Z</updated>
-    <id>tag:github.com,2024-01-17:/lfranke/TRIPS</id>
-    <link href="https://github.com/lfranke/TRIPS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>1003715231/gptstore-prompts</title>
+    <updated>2024-01-18T01:26:41Z</updated>
+    <id>tag:github.com,2024-01-18:/1003715231/gptstore-prompts</id>
+    <link href="https://github.com/1003715231/gptstore-prompts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>danluu/post-mortems</title>
+    <updated>2024-01-18T01:26:41Z</updated>
+    <id>tag:github.com,2024-01-18:/danluu/post-mortems</id>
+    <link href="https://github.com/danluu/post-mortems" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of postmortems. Sorry for the delay in merging PRs!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

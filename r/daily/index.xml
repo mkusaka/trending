@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-17T01:42:46Z</updated>
+  <updated>2024-01-18T01:40:16Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ShaneSeheult/QMEE</title>
-    <updated>2024-01-17T01:42:46Z</updated>
-    <id>tag:github.com,2024-01-17:/ShaneSeheult/QMEE</id>
-    <link href="https://github.com/ShaneSeheult/QMEE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This REPO is part of the requirements for BIOLOGY 708&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;QMEE&lt;/h1&gt; &#xA;&lt;p&gt;This REPO is part of the requirements for BIOLOGY 708&lt;/p&gt; &#xA;&lt;p&gt;This is the paragraph describing the dataset to be used for Assignment 01 in BIOLOGY 708.&lt;/p&gt; &#xA;&lt;p&gt;In eastern temperate North America, big brown bats (Eptesicus fuscus) generally give birth to twin pups. The bats mate in the later summer and the fall. Females store sperm during the winter and when they emerge from hibernation in the early spring they ovulate and give birth about two months later. The purpose of this study was to assess and look for differences in the birth dates of pups born to females from two captive populations. One population were caught at a maternity colony in southern Ontario, Canada about three weeks before parturition. The second population of pups were born to females that been in captivity for an extended period of time during hibernation and prior to parturition. I will assess if pups from newly-captive wild-caught females have similar birth dates (Julian Date) compared to pups born to females that had been living in captivity for a longer period of time. I will also compare these populations to see if they differ in the proportion of same-sex siblings (i.e. male-male or female-female siblings) and different-sex siblings (i.e. male-female).&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>rensol1/QMEE</title>
-    <updated>2024-01-17T01:42:46Z</updated>
-    <id>tag:github.com,2024-01-17:/rensol1/QMEE</id>
-    <link href="https://github.com/rensol1/QMEE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;QMEE&lt;/h1&gt; &#xA;&lt;p&gt;Assignment Week 1 (Bio 708).&lt;/p&gt; &#xA;&lt;p&gt;Fuller et al. (2007) evaluated the benefits of urban public greenspaces in Sheffield, England. I have provided part of their dataset, including the greenspace areas (in hectares), as well as butterfly and bird species richness in these areas (Green_Space_Biodiversity_Partial.csv). From these data, we can ask whether there is some correlation between butterfly species richness and the size of greenspace areas or bird species richness and the size of greenspace areas. It could be that having larger greenspace areas allows for greater butterfly and bird species richness. We can also ask whether there is a difference in richness of butterfly species compared to bird species. Over the evaluated greenspace areas, there could be greater butterfly species richness than bird species richness, or vice versa.&lt;/p&gt; &#xA;&lt;p&gt;Reference&lt;/p&gt; &#xA;&lt;p&gt;Fuller, R. A., Irvine, K. N., Devine-Wright, P., Warren, P. H., &amp;amp; Gaston, K. J. (2007). Psychological benefits of greenspace increase with biodiversity. &lt;em&gt;Biology Letters&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;, 390–394. &lt;a href=&#34;http://doi.org/10.1098/rsbl.2007.0149&#34;&gt;http://doi.org/10.1098/rsbl.2007.0149&lt;/a&gt;.&lt;/p&gt;</summary>
+    <title>meowcat/RMassBankData</title>
+    <updated>2024-01-18T01:40:16Z</updated>
+    <id>tag:github.com,2024-01-18:/meowcat/RMassBankData</id>
+    <link href="https://github.com/meowcat/RMassBankData" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

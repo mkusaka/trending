@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-17T01:40:15Z</updated>
+  <updated>2024-01-18T01:37:46Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>robertventurini/FlyingToasters</title>
-    <updated>2024-01-17T01:40:15Z</updated>
-    <id>tag:github.com,2024-01-17:/robertventurini/FlyingToasters</id>
-    <link href="https://github.com/robertventurini/FlyingToasters" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Recreation of AfterDarks 2.0 Flying Toasters screensaver for macOS&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FlyingToasters&lt;/h1&gt; &#xA;&lt;p&gt;Recreation of AfterDarks 2.0 Flying Toasters screensaver for macOS&lt;/p&gt; &#xA;&lt;p&gt;Dissatisfied with a few of the Flying Toaster screensaver clones that exist for modern macOS, I set off to implement one that felt more true to Berkley Systems After Dark 2.0 version of my youth. Due to a breadth of legacy and modern hardware in my personal collection, I opted for ObjC as the language here but may chose to modernize this in the future. I&#39;ve also intentionally omitted collision detection and physics from the design in this initial version. I hope to add it in a subsequent version later and perhaps even add support for similar variety that Berkley Systems did through each of their After Dark Releases.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/robertventurini/FlyingToasters/raw/master/FlyingToasters.gif&#34; alt=&#34;Image of FlyingToasters&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;This project was inspired by Bryan Brauns work on his project, &lt;a href=&#34;https://github.com/bryanbraun/after-dark-css&#34;&gt;After Dark CSS&lt;/a&gt;. The image resources for the toaster and toast came from his repository directly and as he states there, are © 1989 Berkeley Systems Inc.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>mbopp/CoreDataSPoT</title>
-    <updated>2024-01-17T01:40:15Z</updated>
-    <id>tag:github.com,2024-01-17:/mbopp/CoreDataSPoT</id>
-    <link href="https://github.com/mbopp/CoreDataSPoT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CS 193P Homework 6&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CoreDataSPoT&lt;/h1&gt; &#xA;&lt;p&gt;CS 193P Homework 6&lt;/p&gt;</summary>
+    <title>sfsam/Itsycal</title>
+    <updated>2024-01-18T01:37:46Z</updated>
+    <id>tag:github.com,2024-01-18:/sfsam/Itsycal</id>
+    <link href="https://github.com/sfsam/Itsycal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Itsycal is a tiny calendar for your Mac&#39;s menu bar. http://www.mowglii.com/itsycal&lt;/p&gt;&lt;hr&gt;&lt;p&gt;I&#39;ve learned a lot by looking at other people&#39;s code so maybe someone can learn something from looking at mine.&lt;/p&gt; &#xA;&lt;p&gt;= = = = = = = =&lt;/p&gt; &#xA;&lt;p&gt;Itsycal is a tiny calendar for your Mac&#39;s menu bar.&lt;/p&gt; &#xA;&lt;p&gt;If you want, it will display your calendar events as a companion to the Mac Calendar app. You can also create and delete (but not edit) events.&lt;/p&gt; &#xA;&lt;p&gt;For more info, see: &lt;a href=&#34;http://www.mowglii.com/itsycal&#34;&gt;http://www.mowglii.com/itsycal&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;MIT Licensed - see License file&lt;/p&gt;</summary>
   </entry>
 </feed>

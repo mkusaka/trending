@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-17T01:47:04Z</updated>
+  <updated>2024-01-18T01:44:28Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ryokamiya/dotvim</title>
-    <updated>2024-01-17T01:47:04Z</updated>
-    <id>tag:github.com,2024-01-17:/ryokamiya/dotvim</id>
-    <link href="https://github.com/ryokamiya/dotvim" rel="alternate"></link>
+    <title>MichaelRevell/vim</title>
+    <updated>2024-01-18T01:44:28Z</updated>
+    <id>tag:github.com,2024-01-18:/MichaelRevell/vim</id>
+    <link href="https://github.com/MichaelRevell/vim" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kamou/gpt-vim</title>
-    <updated>2024-01-17T01:47:04Z</updated>
-    <id>tag:github.com,2024-01-17:/kamou/gpt-vim</id>
-    <link href="https://github.com/kamou/gpt-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim gpt integration&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Monkey C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-17T01:39:24Z</updated>
+  <updated>2024-01-18T01:36:51Z</updated>
   <subtitle>Daily Trending of Monkey C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>warmsound/crystal-face</title>
-    <updated>2024-01-17T01:39:24Z</updated>
-    <id>tag:github.com,2024-01-17:/warmsound/crystal-face</id>
-    <link href="https://github.com/warmsound/crystal-face" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Garmin Connect IQ watch face&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
