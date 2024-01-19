@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-18T01:41:36Z</updated>
+  <updated>2024-01-19T01:47:39Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nizumical/CalculatorKit</title>
-    <updated>2024-01-18T01:41:36Z</updated>
-    <id>tag:github.com,2024-01-18:/nizumical/CalculatorKit</id>
-    <link href="https://github.com/nizumical/CalculatorKit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Your software calculator construction kit in Scala, sample for Android included&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Your software calculator construction kit&lt;/h1&gt; &#xA;&lt;p&gt;This is construction kit to create your own wonderful calculator, for every different purpose like hexadecimal, duodecimal calculation, counting score of game.&lt;/p&gt; &#xA;&lt;p&gt;This kit includes basic calculator application program with simple MVC architecture. Designed to make it easy to customize; calculation engine and UI has simple function only, leaving space for adding more functions.&lt;/p&gt; &#xA;&lt;p&gt;Programmed in scala, and the sample UI is in Java as usual for Android. You can just replace development environment for your final target like web application; it is designed to be easy to bring calculator body, and fit it to your UI.&lt;/p&gt; &#xA;&lt;p&gt;This is public domain software.&lt;/p&gt; &#xA;&lt;p&gt;Visit &lt;a href=&#34;https://github.com/nizumical/CalculatorKit/wiki&#34;&gt;CalculatorKit wiki page&lt;/a&gt; for more information.&lt;/p&gt;</summary>
-  </entry>
 </feed>

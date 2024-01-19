@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-18T01:44:21Z</updated>
+  <updated>2024-01-19T01:51:03Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>os-fpga/Jira_Testcase</title>
-    <updated>2024-01-18T01:44:21Z</updated>
-    <id>tag:github.com,2024-01-18:/os-fpga/Jira_Testcase</id>
-    <link href="https://github.com/os-fpga/Jira_Testcase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo contains the testcase associated with respective Jira case number.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>os-fpga/litex_reference_designs</title>
+    <updated>2024-01-19T01:51:03Z</updated>
+    <id>tag:github.com,2024-01-19:/os-fpga/litex_reference_designs</id>
+    <link href="https://github.com/os-fpga/litex_reference_designs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Litex Reference Designs provides reference designs created out of IP Catalog using Litex integration capabilities.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>os-fpga/yosys-rs-plugin</title>
-    <updated>2024-01-18T01:44:21Z</updated>
-    <id>tag:github.com,2024-01-18:/os-fpga/yosys-rs-plugin</id>
-    <link href="https://github.com/os-fpga/yosys-rs-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rapidsilicon&#39;s Yosys Plugin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>os-fpga/IP_Catalog</title>
+    <updated>2024-01-19T01:51:03Z</updated>
+    <id>tag:github.com,2024-01-19:/os-fpga/IP_Catalog</id>
+    <link href="https://github.com/os-fpga/IP_Catalog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IP Catalog for Raptor.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>os-fpga/yosys_verific_rs</title>
-    <updated>2024-01-18T01:44:21Z</updated>
-    <id>tag:github.com,2024-01-18:/os-fpga/yosys_verific_rs</id>
-    <link href="https://github.com/os-fpga/yosys_verific_rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yosys + Verific Integration inside Rapidsilicon&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pc2/Aurora-HLS</title>
+    <updated>2024-01-19T01:51:03Z</updated>
+    <id>tag:github.com,2024-01-19:/pc2/Aurora-HLS</id>
+    <link href="https://github.com/pc2/Aurora-HLS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ready-to-link, packaged Aurora IP on four QSFP28 lanes, providing 100Gb/s throughput&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-18T01:42:33Z</updated>
+  <updated>2024-01-19T01:48:42Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>solangegueiros/chainlink-bootcamp-2024</title>
-    <updated>2024-01-18T01:42:33Z</updated>
-    <id>tag:github.com,2024-01-18:/solangegueiros/chainlink-bootcamp-2024</id>
-    <link href="https://github.com/solangegueiros/chainlink-bootcamp-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;exercises chainlink bootcamp 2024&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2024-01-salty</title>
+    <updated>2024-01-19T01:48:42Z</updated>
+    <id>tag:github.com,2024-01-19:/code-423n4/2024-01-salty</id>
+    <link href="https://github.com/code-423n4/2024-01-salty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DODOEX/contractV2</title>
-    <updated>2024-01-18T01:42:33Z</updated>
-    <id>tag:github.com,2024-01-18:/DODOEX/contractV2</id>
-    <link href="https://github.com/DODOEX/contractV2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contracts for DODOEX V2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>runtimeverification/kontrol-cheatcodes</title>
+    <updated>2024-01-19T01:48:42Z</updated>
+    <id>tag:github.com,2024-01-19:/runtimeverification/kontrol-cheatcodes</id>
+    <link href="https://github.com/runtimeverification/kontrol-cheatcodes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cheatcodes library for your symbolic Kontrol tests&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>euler-xyz/euler-encode-workshop</title>
+    <updated>2024-01-19T01:48:42Z</updated>
+    <id>tag:github.com,2024-01-19:/euler-xyz/euler-encode-workshop</id>
+    <link href="https://github.com/euler-xyz/euler-encode-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

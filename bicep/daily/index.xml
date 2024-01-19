@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-18T01:27:59Z</updated>
+  <updated>2024-01-19T01:30:42Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/osdu-developer</title>
+    <updated>2024-01-19T01:30:42Z</updated>
+    <id>tag:github.com,2024-01-19:/Azure/osdu-developer</id>
+    <link href="https://github.com/Azure/osdu-developer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enabling development for the OSDU™ data platform using the Azure Cloud.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>polichtm/Spoon-Knife.Multi</title>
+    <updated>2024-01-19T01:30:42Z</updated>
+    <id>tag:github.com,2024-01-19:/polichtm/Spoon-Knife.Multi</id>
+    <link href="https://github.com/polichtm/Spoon-Knife.Multi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

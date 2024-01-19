@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-18T01:32:31Z</updated>
+  <updated>2024-01-19T01:37:21Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kevinpeterson/groovy-test-demo</title>
-    <updated>2024-01-18T01:32:31Z</updated>
-    <id>tag:github.com,2024-01-18:/kevinpeterson/groovy-test-demo</id>
-    <link href="https://github.com/kevinpeterson/groovy-test-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mygrocerydeals/gradle-s3-plugin</title>
-    <updated>2024-01-18T01:32:31Z</updated>
-    <id>tag:github.com,2024-01-18:/mygrocerydeals/gradle-s3-plugin</id>
-    <link href="https://github.com/mygrocerydeals/gradle-s3-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle plugin that uploads and downloads S3 objects.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

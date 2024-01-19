@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-18T01:27:37Z</updated>
+  <updated>2024-01-19T01:30:06Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bestofjs/javascript-risingstars</title>
+    <updated>2024-01-19T01:30:06Z</updated>
+    <id>tag:github.com,2024-01-19:/bestofjs/javascript-risingstars</id>
+    <link href="https://github.com/bestofjs/javascript-risingstars" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌠 An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

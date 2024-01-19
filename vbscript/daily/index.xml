@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-18T01:44:15Z</updated>
+  <updated>2024-01-19T01:50:53Z</updated>
   <subtitle>Daily Trending of VBScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TheDarkMythos/windows-malware</title>
-    <updated>2024-01-18T01:44:15Z</updated>
-    <id>tag:github.com,2024-01-18:/TheDarkMythos/windows-malware</id>
-    <link href="https://github.com/TheDarkMythos/windows-malware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A colllection of windows malware&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

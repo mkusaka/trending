@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-18T01:31:08Z</updated>
+  <updated>2024-01-19T01:35:41Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tomcl/hlp21qs</title>
+    <updated>2024-01-19T01:35:41Z</updated>
+    <id>tag:github.com,2024-01-19:/tomcl/hlp21qs</id>
+    <link href="https://github.com/tomcl/hlp21qs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HLP Spring 2021 Tick Skeleton and Example code&lt;/h1&gt;</summary>
+  </entry>
 </feed>

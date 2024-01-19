@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-18T01:26:41Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2024-01-19T01:28:19Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>darknet-onion-links/darknet-onion-links-catalog</title>
-    <updated>2024-01-18T01:26:41Z</updated>
-    <id>tag:github.com,2024-01-18:/darknet-onion-links/darknet-onion-links-catalog</id>
-    <link href="https://github.com/darknet-onion-links/darknet-onion-links-catalog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TOR DARKENET&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ostorlab/KEV</title>
+    <updated>2024-01-19T01:28:19Z</updated>
+    <id>tag:github.com,2024-01-19:/Ostorlab/KEV</id>
+    <link href="https://github.com/Ostorlab/KEV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google&#39;s Tsunami, Ostorlab&#39;s Asteroid and Bug Bounty programs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>1003715231/gptstore-prompts</title>
-    <updated>2024-01-18T01:26:41Z</updated>
-    <id>tag:github.com,2024-01-18:/1003715231/gptstore-prompts</id>
-    <link href="https://github.com/1003715231/gptstore-prompts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>quoctinnguyen8/Clean-Code---Tieng-Viet</title>
+    <updated>2024-01-19T01:28:19Z</updated>
+    <id>tag:github.com,2024-01-19:/quoctinnguyen8/Clean-Code---Tieng-Viet</id>
+    <link href="https://github.com/quoctinnguyen8/Clean-Code---Tieng-Viet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clean Code Tiếng Việt: Bản dịch 6 chương đầu từ quyển &#34;Clean Code - A Handbook of Agile Software Craftsmanship&#34; - Robert C. Martin et. al.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>danluu/post-mortems</title>
-    <updated>2024-01-18T01:26:41Z</updated>
-    <id>tag:github.com,2024-01-18:/danluu/post-mortems</id>
-    <link href="https://github.com/danluu/post-mortems" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of postmortems. Sorry for the delay in merging PRs!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wgwang/awesome-LLMs-In-China</title>
+    <updated>2024-01-19T01:28:19Z</updated>
+    <id>tag:github.com,2024-01-19:/wgwang/awesome-LLMs-In-China</id>
+    <link href="https://github.com/wgwang/awesome-LLMs-In-China" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;中国大模型&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
