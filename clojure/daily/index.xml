@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-19T01:32:43Z</updated>
+  <updated>2024-01-20T01:28:27Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jordonbiondo/tictactoe</title>
-    <updated>2024-01-19T01:32:43Z</updated>
-    <id>tag:github.com,2024-01-19:/jordonbiondo/tictactoe</id>
-    <link href="https://github.com/jordonbiondo/tictactoe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;343 Project 4: tic tac toe in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nubank/vessel</title>
-    <updated>2024-01-19T01:32:43Z</updated>
-    <id>tag:github.com,2024-01-19:/nubank/vessel</id>
-    <link href="https://github.com/nubank/vessel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A containerization tool for Clojure applications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mpenet/sextant_</title>
+    <updated>2024-01-20T01:28:27Z</updated>
+    <id>tag:github.com,2024-01-20:/mpenet/sextant_</id>
+    <link href="https://github.com/mpenet/sextant_" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Geo location utility functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

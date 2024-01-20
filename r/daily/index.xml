@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-19T01:46:06Z</updated>
+  <updated>2024-01-20T01:39:10Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Philipp-Neubauer/telemetRy</title>
-    <updated>2024-01-19T01:46:06Z</updated>
-    <id>tag:github.com,2024-01-19:/Philipp-Neubauer/telemetRy</id>
-    <link href="https://github.com/Philipp-Neubauer/telemetRy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;R code to analyze telemetry data using Bayesian state space models&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>STAT380/hw1</title>
+    <updated>2024-01-20T01:39:10Z</updated>
+    <id>tag:github.com,2024-01-20:/STAT380/hw1</id>
+    <link href="https://github.com/STAT380/hw1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hw1&lt;/h1&gt;</summary>
   </entry>
 </feed>

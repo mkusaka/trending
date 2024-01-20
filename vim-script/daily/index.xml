@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-19T01:51:11Z</updated>
+  <updated>2024-01-20T01:42:57Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cassy1003/dotfiles</title>
-    <updated>2024-01-19T01:51:11Z</updated>
-    <id>tag:github.com,2024-01-19:/cassy1003/dotfiles</id>
-    <link href="https://github.com/cassy1003/dotfiles" rel="alternate"></link>
+    <title>nus-cs2030/2324-s2</title>
+    <updated>2024-01-20T01:42:57Z</updated>
+    <id>tag:github.com,2024-01-20:/nus-cs2030/2324-s2</id>
+    <link href="https://github.com/nus-cs2030/2324-s2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jbozanowski/dotfiles</title>
-    <updated>2024-01-19T01:51:11Z</updated>
-    <id>tag:github.com,2024-01-19:/jbozanowski/dotfiles</id>
-    <link href="https://github.com/jbozanowski/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My settings.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

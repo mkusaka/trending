@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-19T01:42:52Z</updated>
+  <updated>2024-01-20T01:36:19Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>input-output-hk/metadata-registry-testnet</title>
-    <updated>2024-01-19T01:42:52Z</updated>
-    <id>tag:github.com,2024-01-19:/input-output-hk/metadata-registry-testnet</id>
-    <link href="https://github.com/input-output-hk/metadata-registry-testnet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NixOS/ngi0-infra</title>
+    <updated>2024-01-20T01:36:19Z</updated>
+    <id>tag:github.com,2024-01-20:/NixOS/ngi0-infra</id>
+    <link href="https://github.com/NixOS/ngi0-infra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://github.com/NixOS/nixos-org-configurations/issues/326&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

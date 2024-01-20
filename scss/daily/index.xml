@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-19T01:47:56Z</updated>
+  <updated>2024-01-20T01:40:41Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tecg-dcc/examen-dcc-aout-2020-2021</title>
-    <updated>2024-01-19T01:47:56Z</updated>
-    <id>tag:github.com,2024-01-19:/tecg-dcc/examen-dcc-aout-2020-2021</id>
-    <link href="https://github.com/tecg-dcc/examen-dcc-aout-2020-2021" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ducksyndrome/ducksyndrome.github.io</title>
-    <updated>2024-01-19T01:47:56Z</updated>
-    <id>tag:github.com,2024-01-19:/ducksyndrome/ducksyndrome.github.io</id>
-    <link href="https://github.com/ducksyndrome/ducksyndrome.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Matiasalbina/Matiasalbina.github.io</title>
-    <updated>2024-01-19T01:47:56Z</updated>
-    <id>tag:github.com,2024-01-19:/Matiasalbina/Matiasalbina.github.io</id>
-    <link href="https://github.com/Matiasalbina/Matiasalbina.github.io" rel="alternate"></link>
+    <title>hiuxc/homepage</title>
+    <updated>2024-01-20T01:40:41Z</updated>
+    <id>tag:github.com,2024-01-20:/hiuxc/homepage</id>
+    <link href="https://github.com/hiuxc/homepage" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
