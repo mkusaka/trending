@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-20T01:37:30Z</updated>
+  <updated>2024-01-21T01:42:27Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>skelz0r/balembot</title>
+    <updated>2024-01-21T01:42:27Z</updated>
+    <id>tag:github.com,2024-01-21:/skelz0r/balembot</id>
+    <link href="https://github.com/skelz0r/balembot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BALEMBOY FTW!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OH MY BOT!&lt;/h1&gt; &#xA;&lt;h1&gt;Launch&lt;/h1&gt; &#xA;&lt;p&gt;Create password.txt with this syntax:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;nickname&#xA;password&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;nickname is nickname, and password is password (U DON&#39;T SAY!)&lt;/p&gt; &#xA;&lt;h1&gt;Contribute&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;SPOON IT!&lt;/li&gt; &#xA; &lt;li&gt;POULE REQUEST IT!&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;OKi?&lt;/em&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

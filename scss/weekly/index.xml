@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-21T02:05:33Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jamigibbs/phantom</title>
+    <updated>2024-01-21T02:05:33Z</updated>
+    <id>tag:github.com,2024-01-21:/jamigibbs/phantom</id>
+    <link href="https://github.com/jamigibbs/phantom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimalist, responsive portfolio theme for Jekyll with Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yandex-praktikum/web-larek-frontend</title>
+    <updated>2024-01-21T02:05:33Z</updated>
+    <id>tag:github.com,2024-01-21:/yandex-praktikum/web-larek-frontend</id>
+    <link href="https://github.com/yandex-praktikum/web-larek-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Фронтенд проекта &#34;Веб Ларёк&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hmobius/hmobius.github.com</title>
+    <updated>2024-01-21T02:05:33Z</updated>
+    <id>tag:github.com,2024-01-21:/hmobius/hmobius.github.com</id>
+    <link href="https://github.com/hmobius/hmobius.github.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Homesite&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

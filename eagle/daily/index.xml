@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Eagle Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-20T01:29:40Z</updated>
+  <updated>2024-01-21T01:33:36Z</updated>
   <subtitle>Daily Trending of Eagle in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dragonet80/MultiMicro</title>
-    <updated>2024-01-20T01:29:40Z</updated>
-    <id>tag:github.com,2024-01-20:/dragonet80/MultiMicro</id>
-    <link href="https://github.com/dragonet80/MultiMicro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MultiMicro Trainer is an small, simple and affordable microcontroller trainer everyone can use. It&#39;s intended to be universal with any microcontroller from 6 to 100 pins and 5, 3.3 and 1.8 V.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

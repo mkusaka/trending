@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-21T01:50:57Z</updated>
+  <subtitle>Weekly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Keycapsss/awesome-mechanical-keyboard</title>
+    <updated>2024-01-21T01:50:57Z</updated>
+    <id>tag:github.com,2024-01-21:/Keycapsss/awesome-mechanical-keyboard</id>
+    <link href="https://github.com/Keycapsss/awesome-mechanical-keyboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⌨️ A curated list of Open Source Mechanical Keyboard resources.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bestofjs/javascript-risingstars</title>
+    <updated>2024-01-21T01:50:57Z</updated>
+    <id>tag:github.com,2024-01-21:/bestofjs/javascript-risingstars</id>
+    <link href="https://github.com/bestofjs/javascript-risingstars" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌠 An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Sh4yy/tiny-stack</title>
+    <updated>2024-01-21T01:50:57Z</updated>
+    <id>tag:github.com,2024-01-21:/Sh4yy/tiny-stack</id>
+    <link href="https://github.com/Sh4yy/tiny-stack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple and tiny stack for building web applications using Astro, SQLite, and Litestream.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

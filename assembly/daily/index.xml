@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-20T01:26:58Z</updated>
+  <updated>2024-01-21T01:29:41Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>azkadev/operating_system_guide</title>
+    <updated>2024-01-21T01:29:41Z</updated>
+    <id>tag:github.com,2024-01-21:/azkadev/operating_system_guide</id>
+    <link href="https://github.com/azkadev/operating_system_guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Operating System Guide Dari 0&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mavery-seu/Comp_Arch_Spring_2024_AM</title>
+    <updated>2024-01-21T01:29:41Z</updated>
+    <id>tag:github.com,2024-01-21:/mavery-seu/Comp_Arch_Spring_2024_AM</id>
+    <link href="https://github.com/mavery-seu/Comp_Arch_Spring_2024_AM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stores the code that will be used in the COSC 2331 course in Spring 2024.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

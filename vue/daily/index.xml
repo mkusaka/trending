@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-20T01:43:03Z</updated>
+  <updated>2024-01-21T01:48:59Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fre123-com/fre123-nav</title>
-    <updated>2024-01-20T01:43:03Z</updated>
-    <id>tag:github.com,2024-01-20:/fre123-com/fre123-nav</id>
-    <link href="https://github.com/fre123-com/fre123-nav" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FRE123 免费资源共享平台导航，一键搭建你的导航网站！&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fre123-com/fre123-info-flow</title>
-    <updated>2024-01-20T01:43:03Z</updated>
-    <id>tag:github.com,2024-01-20:/fre123-com/fre123-info-flow</id>
-    <link href="https://github.com/fre123-com/fre123-info-flow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FRE123 信息流项目，包含：全网热榜、技术热榜、技术文章、技术周刊等&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mizhexiaoxiao/vue-fastapi-admin</title>
+    <updated>2024-01-21T01:48:59Z</updated>
+    <id>tag:github.com,2024-01-21:/mizhexiaoxiao/vue-fastapi-admin</id>
+    <link href="https://github.com/mizhexiaoxiao/vue-fastapi-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⭐️ 基于 FastAPI+Vue3+Naive UI 的现代化轻量管理平台 A modern and lightweight management platform based on FastAPI, Vue3, and Naive UI.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

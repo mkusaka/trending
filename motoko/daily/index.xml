@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Motoko Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-20T01:35:46Z</updated>
+  <updated>2024-01-21T01:40:36Z</updated>
   <subtitle>Daily Trending of Motoko in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>motoko-bootcamp/dao-adventure-graduation</title>
-    <updated>2024-01-20T01:35:46Z</updated>
-    <id>tag:github.com,2024-01-20:/motoko-bootcamp/dao-adventure-graduation</id>
-    <link href="https://github.com/motoko-bootcamp/dao-adventure-graduation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Before changing the world, it&#39;s time to polish your skills and earn your diploma.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

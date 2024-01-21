@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-21T01:57:06Z</updated>
+  <subtitle>Weekly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>plow-technologies/net-mqtt-extra</title>
+    <updated>2024-01-21T01:57:06Z</updated>
+    <id>tag:github.com,2024-01-21:/plow-technologies/net-mqtt-extra</id>
+    <link href="https://github.com/plow-technologies/net-mqtt-extra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;net-mqtt-extra&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>bradrn/wlhs</title>
+    <updated>2024-01-21T01:57:06Z</updated>
+    <id>tag:github.com,2024-01-21:/bradrn/wlhs</id>
+    <link href="https://github.com/bradrn/wlhs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Haskell bindings to wlroots (and libwayland)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;wlhs&lt;/h1&gt; &#xA;&lt;p&gt;This project aims to develop a set of Haskell bindings for &lt;code&gt;wlroots&lt;/code&gt; (and some parts of &lt;code&gt;libwayland&lt;/code&gt;) At the moment it focusses on low-level bindings, in the &lt;code&gt;wlhs-bindings&lt;/code&gt; package.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Warning: this project has just begun!&lt;/strong&gt; Currently, the bindings are highly incomplete. Please feel free to help us expand them!&lt;/p&gt; &#xA;&lt;h1&gt;Development&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;We currently target wlroots version &lt;code&gt;0.17.1&lt;/code&gt;.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;There is a Nix development flake available, which may be accessed via &lt;code&gt;nix develop&lt;/code&gt;. For &lt;a href=&#34;https://github.com/direnv/direnv&#34;&gt;direnv&lt;/a&gt; users, an &lt;code&gt;.envrc&lt;/code&gt; file is also provided.&lt;/p&gt; &#xA;&lt;h2&gt;hsc2hs extensions&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;wlhs-bindings&lt;/code&gt; contains a custom &lt;code&gt;Setup.hs&lt;/code&gt;, which extends &lt;a href=&#34;https://github.com/haskell/hsc2hs&#34;&gt;hsc2hs&lt;/a&gt; files with some custom syntax. This is probably best illustrated by example:&lt;/p&gt; &#xA;&lt;table&gt; &#xA; &lt;tbody&gt;&#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Macro call&lt;/th&gt; &#xA;   &lt;th&gt;Equivalent to&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt; &lt;pre&gt;&lt;code&gt;{{ struct&#xA;    include.h,&#xA;    wl_type_name&#xA;}}&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/td&gt; &#xA;   &lt;td&gt; &lt;pre&gt;&lt;code class=&#34;language-hs&#34;&gt;data {-# CTYPE &#34;include.h&#34; &#34;struct wl_type_name&#34; #-} WL_type_name&#xA;    deriving (Show)&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;p&gt;(Note: requires &lt;code&gt;{-# LANGUAGE EmptyDataDeriving #-}&lt;/code&gt;)&lt;/p&gt; &lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt;&#xA;   &lt;td&gt; &lt;pre&gt;&lt;code&gt;{{ struct&#xA;    include.h,&#xA;    wl_type_name,&#xA;    field1, Type1,&#xA;    field2, Type2,&#xA;    nested field, Type2&#xA;}}&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/td&gt; &#xA;   &lt;td&gt; &lt;pre&gt;&lt;code class=&#34;language-hs&#34;&gt;data {-# CTYPE &#34;include.h&#34; &#34;struct wl_type_name&#34; #-} WL_type_name&#xA;    = WL_type_name&#xA;    { wl_type_name_field1 :: Type1&#xA;    , wl_type_name_field2 :: Type2&#xA;    , wl_type_name_nested_field :: Type2&#xA;    } deriving (Show)&#xA;    &#xA;instance Storable WL_type_name where&#xA;    alignment _ = #alignment struct wl_type_name&#xA;    sizeOf _ = #size struct wl_type_name&#xA;    peek ptr = WL_type_name&#xA;        &amp;lt;$&amp;gt; (#peek struct wl_type_name, field1) ptr&#xA;        &amp;lt;*&amp;gt; (#peek struct wl_type_name, field2) ptr&#xA;        &amp;lt;*&amp;gt; (#peek struct wl_type_name, nested.field) ptr&#xA;    poke ptr t = do&#xA;        (#peek struct wl_type_name, field1) ptr (wl_type_name_field1 t)&#xA;        (#peek struct wl_type_name, field2) ptr (wl_type_name_field2 t)&#xA;        (#peek struct wl_type_name, nested.field) ptr (wl_type_name_nested_field t)&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt; &lt;pre&gt;&lt;code&gt;{{ enum&#xA;    WL_type_name,&#xA;    WLR_ENUM_VALUE_1,&#xA;    WLR_ENUM_VALUE_2&#xA;}}&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/td&gt; &#xA;   &lt;td&gt; &lt;pre&gt;&lt;code class=&#34;language-hs&#34;&gt;type WL_type_name = CInt&#xA;&#xA;pattern WLR_ENUM_VALUE_1 :: (Eq a, Num a) =&amp;gt; a&#xA;pattern WLR_ENUM_VALUE_1 = #const WLR_ENUM_VALUE_1 &#xA;&#xA;pattern WLR_ENUM_VALUE_2 :: (Eq a, Num a) =&amp;gt; a&#xA;pattern WLR_ENUM_VALUE_2 = #const WLR_ENUM_VALUE_2 &#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt;&#xA;&lt;/table&gt;</summary>
+  </entry>
+  <entry>
+    <title>plow-technologies/net-mqtt-typed</title>
+    <updated>2024-01-21T01:57:06Z</updated>
+    <id>tag:github.com,2024-01-21:/plow-technologies/net-mqtt-typed</id>
+    <link href="https://github.com/plow-technologies/net-mqtt-typed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;net-mqtt-typed&lt;/h1&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-20T01:35:20Z</updated>
+  <updated>2024-01-21T01:40:05Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mobinets/task-offloading-edge-computing</title>
-    <updated>2024-01-20T01:35:20Z</updated>
-    <id>tag:github.com,2024-01-20:/mobinets/task-offloading-edge-computing</id>
-    <link href="https://github.com/mobinets/task-offloading-edge-computing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simulation code for multi-user offloading in edge computing newtorks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>osmode/ml</title>
+    <updated>2024-01-21T01:40:05Z</updated>
+    <id>tag:github.com,2024-01-21:/osmode/ml</id>
+    <link href="https://github.com/osmode/ml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample machine learning algorithms&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mathworks/Extension-for-Clone-Detector</title>
-    <updated>2024-01-20T01:35:20Z</updated>
-    <id>tag:github.com,2024-01-20:/mathworks/Extension-for-Clone-Detector</id>
-    <link href="https://github.com/mathworks/Extension-for-Clone-Detector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extension for Clone Detector&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emilbjornson/mimobook</title>
+    <updated>2024-01-21T01:40:05Z</updated>
+    <id>tag:github.com,2024-01-21:/emilbjornson/mimobook</id>
+    <link href="https://github.com/emilbjornson/mimobook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

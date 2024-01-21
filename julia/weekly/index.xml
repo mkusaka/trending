@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-21T01:58:55Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JuliaBinaryWrappers/openfhe_julia_jll.jl</title>
+    <updated>2024-01-21T01:58:55Z</updated>
+    <id>tag:github.com,2024-01-21:/JuliaBinaryWrappers/openfhe_julia_jll.jl</id>
+    <link href="https://github.com/JuliaBinaryWrappers/openfhe_julia_jll.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaMusic/MusicTheory.jl</title>
+    <updated>2024-01-21T01:58:55Z</updated>
+    <id>tag:github.com,2024-01-21:/JuliaMusic/MusicTheory.jl</id>
+    <link href="https://github.com/JuliaMusic/MusicTheory.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Music theory in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub LookML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-21T01:59:55Z</updated>
+  <subtitle>Weekly Trending of LookML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>looker-open-source/thelookevent</title>
+    <updated>2024-01-21T01:59:55Z</updated>
+    <id>tag:github.com,2024-01-21:/looker-open-source/thelookevent</id>
+    <link href="https://github.com/looker-open-source/thelookevent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>looker-open-source/call_center_demo</title>
+    <updated>2024-01-21T01:59:55Z</updated>
+    <id>tag:github.com,2024-01-21:/looker-open-source/call_center_demo</id>
+    <link href="https://github.com/looker-open-source/call_center_demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>looker-open-source/saas_demo</title>
+    <updated>2024-01-21T01:59:55Z</updated>
+    <id>tag:github.com,2024-01-21:/looker-open-source/saas_demo</id>
+    <link href="https://github.com/looker-open-source/saas_demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

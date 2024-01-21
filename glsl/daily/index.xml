@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-20T01:30:58Z</updated>
+  <updated>2024-01-21T01:35:07Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tuxalin/procedural-tileable-shaders</title>
+    <updated>2024-01-21T01:35:07Z</updated>
+    <id>tag:github.com,2024-01-21:/tuxalin/procedural-tileable-shaders</id>
+    <link href="https://github.com/tuxalin/procedural-tileable-shaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of tileable procedural textures such as: cellular noise, fbm, voronoi, perlin and other.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

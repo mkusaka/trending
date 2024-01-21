@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-20T01:26:08Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2024-01-21T01:28:45Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Vaibhavs10/open-tts-tracker</title>
-    <updated>2024-01-20T01:26:08Z</updated>
-    <id>tag:github.com,2024-01-20:/Vaibhavs10/open-tts-tracker</id>
-    <link href="https://github.com/Vaibhavs10/open-tts-tracker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gregorojstersek/resources-to-become-a-great-engineering-leader</title>
+    <updated>2024-01-21T01:28:45Z</updated>
+    <id>tag:github.com,2024-01-21:/gregorojstersek/resources-to-become-a-great-engineering-leader</id>
+    <link href="https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of books, blogs, newsletters and people!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xiaohucode/yidaRule</title>
-    <updated>2024-01-20T01:26:08Z</updated>
-    <id>tag:github.com,2024-01-20:/xiaohucode/yidaRule</id>
-    <link href="https://github.com/xiaohucode/yidaRule" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;yida规则仓库&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AnthonyCalandra/modern-cpp-features</title>
+    <updated>2024-01-21T01:28:45Z</updated>
+    <id>tag:github.com,2024-01-21:/AnthonyCalandra/modern-cpp-features</id>
+    <link href="https://github.com/AnthonyCalandra/modern-cpp-features" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cheatsheet of modern C++ language and library features.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ashishps1/awesome-behavioral-interviews</title>
-    <updated>2024-01-20T01:26:08Z</updated>
-    <id>tag:github.com,2024-01-20:/ashishps1/awesome-behavioral-interviews</id>
-    <link href="https://github.com/ashishps1/awesome-behavioral-interviews" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains tips and resources to prepare for behavioral interviews.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>matiassingers/awesome-readme</title>
+    <updated>2024-01-21T01:28:45Z</updated>
+    <id>tag:github.com,2024-01-21:/matiassingers/awesome-readme</id>
+    <link href="https://github.com/matiassingers/awesome-readme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome READMEs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

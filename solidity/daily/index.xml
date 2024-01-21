@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-20T01:41:14Z</updated>
+  <updated>2024-01-21T01:46:39Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mztacat/Dummy-Solidity-code-for-COntract-Deployment</title>
-    <updated>2024-01-20T01:41:14Z</updated>
-    <id>tag:github.com,2024-01-20:/mztacat/Dummy-Solidity-code-for-COntract-Deployment</id>
-    <link href="https://github.com/mztacat/Dummy-Solidity-code-for-COntract-Deployment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create this for MCAT COmmunity&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>euler-xyz/evc-playground</title>
-    <updated>2024-01-20T01:41:14Z</updated>
-    <id>tag:github.com,2024-01-20:/euler-xyz/evc-playground</id>
-    <link href="https://github.com/euler-xyz/evc-playground" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A playground for Ethereum Vault Connector (EVC)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethereum-optimism/lib-keccak</title>
+    <updated>2024-01-21T01:46:39Z</updated>
+    <id>tag:github.com,2024-01-21:/ethereum-optimism/lib-keccak</id>
+    <link href="https://github.com/ethereum-optimism/lib-keccak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Keccak-f[1600] permutation in the EVM&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

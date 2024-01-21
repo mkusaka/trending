@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-20T01:42:57Z</updated>
+  <updated>2024-01-21T01:48:53Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nus-cs2030/2324-s2</title>
-    <updated>2024-01-20T01:42:57Z</updated>
-    <id>tag:github.com,2024-01-20:/nus-cs2030/2324-s2</id>
-    <link href="https://github.com/nus-cs2030/2324-s2" rel="alternate"></link>
+    <title>notalk/dotvim</title>
+    <updated>2024-01-21T01:48:53Z</updated>
+    <id>tag:github.com,2024-01-21:/notalk/dotvim</id>
+    <link href="https://github.com/notalk/dotvim" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>richq/vim-cmake-completion</title>
+    <updated>2024-01-21T01:48:53Z</updated>
+    <id>tag:github.com,2024-01-21:/richq/vim-cmake-completion</id>
+    <link href="https://github.com/richq/vim-cmake-completion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin for CMake omnicompletion&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

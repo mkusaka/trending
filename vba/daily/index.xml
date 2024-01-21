@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-20T01:42:47Z</updated>
+  <updated>2024-01-21T01:48:38Z</updated>
   <subtitle>Daily Trending of VBA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cristianbuse/VBA-FileTools</title>
-    <updated>2024-01-20T01:42:47Z</updated>
-    <id>tag:github.com,2024-01-20:/cristianbuse/VBA-FileTools</id>
-    <link href="https://github.com/cristianbuse/VBA-FileTools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Useful methods for interacting with the file system&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

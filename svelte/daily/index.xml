@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-20T01:41:37Z</updated>
+  <updated>2024-01-21T01:47:08Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CriticalMoments/CMSaasStarter</title>
-    <updated>2024-01-20T01:41:37Z</updated>
-    <id>tag:github.com,2024-01-20:/CriticalMoments/CMSaasStarter</id>
-    <link href="https://github.com/CriticalMoments/CMSaasStarter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern SaaS template built in SvelteKit. Includes marketing page, blog, subscriptions, auth, user settings, pricing page, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kiwijos/user-web-client</title>
+    <updated>2024-01-21T01:47:08Z</updated>
+    <id>tag:github.com,2024-01-21:/kiwijos/user-web-client</id>
+    <link href="https://github.com/kiwijos/user-web-client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kiwijos/admin-web-client</title>
+    <updated>2024-01-21T01:47:08Z</updated>
+    <id>tag:github.com,2024-01-21:/kiwijos/admin-web-client</id>
+    <link href="https://github.com/kiwijos/admin-web-client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
