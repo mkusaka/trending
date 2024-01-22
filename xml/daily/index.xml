@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-21T01:49:30Z</updated>
+  <updated>2024-01-22T01:45:02Z</updated>
   <subtitle>Daily Trending of XML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ccontavalli/mod-xslt-site</title>
-    <updated>2024-01-21T01:49:30Z</updated>
-    <id>tag:github.com,2024-01-21:/ccontavalli/mod-xslt-site</id>
-    <link href="https://github.com/ccontavalli/mod-xslt-site" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The web site for mod-xslt, example of mod-xslt related xml and xsl wizardly.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;What is this?&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains the main web site dedicated to mod-xslt, a module to perform on the flight transformation of xml to html (or other formats) using xsl stylesheets.&lt;/p&gt; &#xA;&lt;p&gt;If you look at the directories in this repository...&lt;/p&gt; &#xA;&lt;p&gt;... http/ contains the whole site. It is mostly written in .xml, using a simplified docbook syntax, named &#34;sdope&#34;. You can also see the structure of a FAQ, a software archive, and of course the menus and the skeleton of the web site is described in xml.&lt;/p&gt; &#xA;&lt;p&gt;... lib/ contains the stylesheets used to turn all of the above documents into html. Each set of stylesheets is mostly self contained and has been used on a number of different sites.&lt;/p&gt; &#xA;&lt;p&gt;Feel free to use the code of this web site or its content as indicated by the original http/main/legals.xml file.&lt;/p&gt; &#xA;&lt;h1&gt;Credits&lt;/h1&gt; &#xA;&lt;p&gt;The content of the site was originally written by Carlo Contavalli, &lt;a href=&#34;mailto:ccontavalli@masobit.net&#34;&gt;ccontavalli@masobit.net&lt;/a&gt;, while the graphics and most of the stylesheets were designed by Marco Merlin, &lt;a href=&#34;mailto:mmerlin@masobit.net&#34;&gt;mmerlin@masobit.net&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;As specified in the original legals.xml file, all the content of the website and the website itself are released under the terms of the GNU Free Documentation License and GNU General Public License as specified in http/main/legals.xml.&lt;/p&gt; &#xA;&lt;p&gt;Please refer to that file for more details.&lt;/p&gt;</summary>
-  </entry>
 </feed>

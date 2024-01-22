@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-21T01:46:39Z</updated>
+  <updated>2024-01-22T01:42:50Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ethereum-optimism/lib-keccak</title>
-    <updated>2024-01-21T01:46:39Z</updated>
-    <id>tag:github.com,2024-01-21:/ethereum-optimism/lib-keccak</id>
-    <link href="https://github.com/ethereum-optimism/lib-keccak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Keccak-f[1600] permutation in the EVM&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2024-01-decent</title>
+    <updated>2024-01-22T01:42:50Z</updated>
+    <id>tag:github.com,2024-01-22:/code-423n4/2024-01-decent</id>
+    <link href="https://github.com/code-423n4/2024-01-decent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bgd-labs/aave-address-book</title>
+    <updated>2024-01-22T01:42:50Z</updated>
+    <id>tag:github.com,2024-01-22:/bgd-labs/aave-address-book</id>
+    <link href="https://github.com/bgd-labs/aave-address-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solidity registry for all smart contracts&#39; addresses of the Aave ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

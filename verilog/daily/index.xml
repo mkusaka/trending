@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-21T01:48:44Z</updated>
+  <updated>2024-01-22T01:44:22Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>os-fpga/Raptor_Tools</title>
-    <updated>2024-01-21T01:48:44Z</updated>
-    <id>tag:github.com,2024-01-21:/os-fpga/Raptor_Tools</id>
-    <link href="https://github.com/os-fpga/Raptor_Tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jotego/jt49</title>
-    <updated>2024-01-21T01:48:44Z</updated>
-    <id>tag:github.com,2024-01-21:/jotego/jt49</id>
-    <link href="https://github.com/jotego/jt49" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Verilog clone of YM2149&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

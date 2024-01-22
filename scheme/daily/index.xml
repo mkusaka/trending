@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-21T01:45:40Z</updated>
+  <updated>2024-01-22T01:42:02Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ThomasHintz/test-runner</title>
-    <updated>2024-01-21T01:45:40Z</updated>
-    <id>tag:github.com,2024-01-21:/ThomasHintz/test-runner</id>
-    <link href="https://github.com/ThomasHintz/test-runner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Chicken scheme test running library.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>marinosm/scheme-assignment</title>
+    <updated>2024-01-22T01:42:02Z</updated>
+    <id>tag:github.com,2024-01-22:/marinosm/scheme-assignment</id>
+    <link href="https://github.com/marinosm/scheme-assignment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some Scheme code to (efficiently) solve toy problems for a university assignment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

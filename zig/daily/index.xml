@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-21T01:49:54Z</updated>
+  <updated>2024-01-22T01:45:27Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>azkadev/zig_cheatsheet</title>
-    <updated>2024-01-21T01:49:54Z</updated>
-    <id>tag:github.com,2024-01-21:/azkadev/zig_cheatsheet</id>
-    <link href="https://github.com/azkadev/zig_cheatsheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zig adalah bahasa pemrograman dan toolchain tujuan umum untuk memelihara perangkat lunak yang kuat, optimal, dan dapat digunakan kembali.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>godot-zig/godot-zig</title>
+    <updated>2024-01-22T01:45:27Z</updated>
+    <id>tag:github.com,2024-01-22:/godot-zig/godot-zig</id>
+    <link href="https://github.com/godot-zig/godot-zig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zig bindings for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>foxnne/pixi</title>
+    <updated>2024-01-22T01:45:27Z</updated>
+    <id>tag:github.com,2024-01-22:/foxnne/pixi</id>
+    <link href="https://github.com/foxnne/pixi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pixel art editor made with Zig.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-21T01:49:39Z</updated>
+  <updated>2024-01-22T01:45:15Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>condorheroblog/condorheroblog.github.io</title>
+    <updated>2024-01-22T01:45:15Z</updated>
+    <id>tag:github.com,2024-01-22:/condorheroblog/condorheroblog.github.io</id>
+    <link href="https://github.com/condorheroblog/condorheroblog.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My personal blog&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;博客&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;已经由 Hexo 迁移到 &lt;a href=&#34;https://astro.build/&#34;&gt;Astro&lt;/a&gt;，主题用的是 &lt;a href=&#34;https://github.com/moeyua/astro-theme-typography&#34;&gt;astro-theme-typography&lt;/a&gt;。&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;使用&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# 安装依赖&#xA;pnpm install&#xA;# 启动服务&#xA;pnpm run dev&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;新建文章&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;pnpm run new-post&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;更新主题&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;pnpm run update-theme&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;协议&lt;/h2&gt; &#xA;&lt;p&gt;&lt;samp&gt;代码使用 &lt;a href=&#34;https://github.com/condorheroblog/condorheroblog.github.io/raw/master/LICENSE&#34;&gt;MIT&lt;/a&gt; 协议，文字和图片使用 &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;CC BY-NC-SA 4.0&lt;/a&gt; 协议&lt;/samp&gt;。&lt;/p&gt;</summary>
+  </entry>
 </feed>

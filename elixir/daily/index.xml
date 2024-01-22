@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-21T01:34:01Z</updated>
+  <updated>2024-01-22T01:32:39Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>animina-dating/animina</title>
-    <updated>2024-01-21T01:34:01Z</updated>
-    <id>tag:github.com,2024-01-21:/animina-dating/animina</id>
-    <link href="https://github.com/animina-dating/animina" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dating Platform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OpenFn/impact-tracker</title>
-    <updated>2024-01-21T01:34:01Z</updated>
-    <id>tag:github.com,2024-01-21:/OpenFn/impact-tracker</id>
-    <link href="https://github.com/OpenFn/impact-tracker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Track metrics received from Lightning instances&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>joseph-lozano/phoenix_react_template</title>
-    <updated>2024-01-21T01:34:01Z</updated>
-    <id>tag:github.com,2024-01-21:/joseph-lozano/phoenix_react_template</id>
-    <link href="https://github.com/joseph-lozano/phoenix_react_template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

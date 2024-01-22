@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-21T01:28:45Z</updated>
+  <updated>2024-01-22T01:28:05Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gregorojstersek/resources-to-become-a-great-engineering-leader</title>
-    <updated>2024-01-21T01:28:45Z</updated>
-    <id>tag:github.com,2024-01-21:/gregorojstersek/resources-to-become-a-great-engineering-leader</id>
-    <link href="https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of books, blogs, newsletters and people!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>a16z-infra/llm-app-stack</title>
+    <updated>2024-01-22T01:28:05Z</updated>
+    <id>tag:github.com,2024-01-22:/a16z-infra/llm-app-stack</id>
+    <link href="https://github.com/a16z-infra/llm-app-stack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AnthonyCalandra/modern-cpp-features</title>
-    <updated>2024-01-21T01:28:45Z</updated>
-    <id>tag:github.com,2024-01-21:/AnthonyCalandra/modern-cpp-features</id>
-    <link href="https://github.com/AnthonyCalandra/modern-cpp-features" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cheatsheet of modern C++ language and library features.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WadQamar10/My-Hunting-Methodology-</title>
+    <updated>2024-01-22T01:28:05Z</updated>
+    <id>tag:github.com,2024-01-22:/WadQamar10/My-Hunting-Methodology-</id>
+    <link href="https://github.com/WadQamar10/My-Hunting-Methodology-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My Private Bug Hunting Methodology&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>matiassingers/awesome-readme</title>
-    <updated>2024-01-21T01:28:45Z</updated>
-    <id>tag:github.com,2024-01-21:/matiassingers/awesome-readme</id>
-    <link href="https://github.com/matiassingers/awesome-readme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome READMEs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CodingChallegesFYI/SharedSolutions</title>
+    <updated>2024-01-22T01:28:05Z</updated>
+    <id>tag:github.com,2024-01-22:/CodingChallegesFYI/SharedSolutions</id>
+    <link href="https://github.com/CodingChallegesFYI/SharedSolutions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Publicly shared solutions to Coding Challenges&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

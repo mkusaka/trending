@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-21T01:34:16Z</updated>
+  <updated>2024-01-22T01:33:12Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>teo-tsirpanis/Farkle</title>
+    <updated>2024-01-22T01:33:12Z</updated>
+    <id>tag:github.com,2024-01-22:/teo-tsirpanis/Farkle</id>
+    <link href="https://github.com/teo-tsirpanis/Farkle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LALR parser combinators for C# and F#.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/github/license/teo-tsirpanis/farkle.svg?sanitize=true&#34; alt=&#34;Licensed under the MIT License&#34;&gt; &lt;a href=&#34;https://nuget.org/packages/Farkle&#34;&gt;&lt;img src=&#34;https://img.shields.io/nuget/v/Farkle.svg?sanitize=true&#34; alt=&#34;NuGet&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/teo-tsirpanis/Farkle/actions/workflows/ci.yml&#34;&gt;&lt;img src=&#34;https://github.com/teo-tsirpanis/Farkle/actions/workflows/ci.yml/badge.svg?sanitize=true&#34; alt=&#34;CI&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://bestpractices.coreinfrastructure.org/projects/5005&#34;&gt;&lt;img src=&#34;https://bestpractices.coreinfrastructure.org/projects/5005/badge&#34; alt=&#34;CII Best Practices&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://api.securityscorecards.dev/projects/github.com/teo-tsirpanis/Farkle&#34;&gt;&lt;img src=&#34;https://api.securityscorecards.dev/projects/github.com/teo-tsirpanis/Farkle/badge&#34; alt=&#34;OpenSSF Scorecard&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://discord.gg/mYzXu5Zt8J&#34;&gt;&lt;img src=&#34;https://badgen.net/discord/members/mYzXu5Zt8J&#34; alt=&#34;Discord Server&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Farkle&lt;/h1&gt; &#xA;&lt;!--&#34;Modern&#34; is a marketing catchphrase, but keep in mind that FsLexYacc is definitely not &#34;modern&#34;--&gt; &#xA;&lt;p&gt;Farkle is a modern and easy-to-use parser library for F# and C#, that creates &lt;a href=&#34;https://en.wikipedia.org/wiki/LALR_parser&#34;&gt;LALR parsers&lt;/a&gt; from composable &lt;a href=&#34;https://en.wikipedia.org/wiki/Parser_combinator&#34;&gt;parser combinator&lt;/a&gt;-like objects.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://teo-tsirpanis.github.io/Farkle/quickstart.html&#34;&gt;Quick Start: Creating a calculator&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://teo-tsirpanis.github.io/Farkle/csharp.html&#34;&gt;Using Farkle with C#&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://teo-tsirpanis.github.io/Farkle/reference/index.html&#34;&gt;API Reference&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Maintainer(s)&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/teo-tsirpanis&#34;&gt;@teo-tsirpanis&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>
