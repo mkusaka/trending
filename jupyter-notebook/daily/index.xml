@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-22T01:36:41Z</updated>
+  <updated>2024-01-23T01:36:20Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>scienceetonnante/lenia</title>
-    <updated>2024-01-22T01:36:41Z</updated>
-    <id>tag:github.com,2024-01-22:/scienceetonnante/lenia</id>
-    <link href="https://github.com/scienceetonnante/lenia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exploration of the Lenia continuous cellular automaton&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lenia&lt;/h1&gt; &#xA;&lt;p&gt;Exploration of the Lenia continuous cellular automaton, inspired by&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Chakazul/Lenia&#34;&gt;https://github.com/Chakazul/Lenia&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

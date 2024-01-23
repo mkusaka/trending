@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-22T01:28:05Z</updated>
+  <updated>2024-01-23T01:27:02Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>a16z-infra/llm-app-stack</title>
-    <updated>2024-01-22T01:28:05Z</updated>
-    <id>tag:github.com,2024-01-22:/a16z-infra/llm-app-stack</id>
-    <link href="https://github.com/a16z-infra/llm-app-stack" rel="alternate"></link>
+    <title>gijsdev/ublock-hide-yt-shorts</title>
+    <updated>2024-01-23T01:27:02Z</updated>
+    <id>tag:github.com,2024-01-23:/gijsdev/ublock-hide-yt-shorts</id>
+    <link href="https://github.com/gijsdev/ublock-hide-yt-shorts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;uBlock Origin filter list to hide YouTube Shorts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iam-veeramalla/Azure-zero-to-hero</title>
+    <updated>2024-01-23T01:27:02Z</updated>
+    <id>tag:github.com,2024-01-23:/iam-veeramalla/Azure-zero-to-hero</id>
+    <link href="https://github.com/iam-veeramalla/Azure-zero-to-hero" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tramcar/awesome-job-boards</title>
+    <updated>2024-01-23T01:27:02Z</updated>
+    <id>tag:github.com,2024-01-23:/tramcar/awesome-job-boards</id>
+    <link href="https://github.com/tramcar/awesome-job-boards" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>WadQamar10/My-Hunting-Methodology-</title>
-    <updated>2024-01-22T01:28:05Z</updated>
-    <id>tag:github.com,2024-01-22:/WadQamar10/My-Hunting-Methodology-</id>
-    <link href="https://github.com/WadQamar10/My-Hunting-Methodology-" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Private Bug Hunting Methodology&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CodingChallegesFYI/SharedSolutions</title>
-    <updated>2024-01-22T01:28:05Z</updated>
-    <id>tag:github.com,2024-01-22:/CodingChallegesFYI/SharedSolutions</id>
-    <link href="https://github.com/CodingChallegesFYI/SharedSolutions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Publicly shared solutions to Coding Challenges&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

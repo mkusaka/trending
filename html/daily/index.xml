@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-22T01:35:00Z</updated>
+  <updated>2024-01-23T01:34:37Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nicknochnack/MLTradingBot</title>
-    <updated>2024-01-22T01:35:00Z</updated>
-    <id>tag:github.com,2024-01-22:/nicknochnack/MLTradingBot</id>
-    <link href="https://github.com/nicknochnack/MLTradingBot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TraderBot&lt;/h1&gt; &#xA;&lt;p&gt;Build a trader bot which looks at sentiment of live news events and trades appropriately.&lt;/p&gt; &#xA;&lt;h2&gt;See it live and in action 📺&lt;/h2&gt; &#xA;&lt;img src=&#34;https://i.imgur.com/FaQH8rz.png&#34;&gt; &#xA;&lt;h1&gt;Startup 🚀&lt;/h1&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Create a virtual environment &lt;code&gt;conda create -n trader python=3.10&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Activate it &lt;code&gt;conda activate trader&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Install initial deps &lt;code&gt;pip install lumibot timedelta alpaca-trade-api&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Install transformers and friends &lt;code&gt;pip install torch torchvision torchaudio transformers&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Update the &lt;code&gt;API_KEY&lt;/code&gt; and &lt;code&gt;API_SECRET&lt;/code&gt; with values from your Alpaca account&lt;/li&gt; &#xA; &lt;li&gt;Run the bot &lt;code&gt;python tradingbot.py&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;N.B. Torch installation instructions will vary depending on your operating system and hardware. See here for more: &lt;a href=&#34;https://raw.githubusercontent.com/nicknochnack/MLTradingBot/main/pytorch.org/&#34;&gt;PyTorch Installation Instructions&lt;/a&gt;&lt;/p&gt; &#xA;&lt;br&gt; # Other References 🔗 &#xA;&lt;p&gt;-&lt;a href=&#34;https://raw.githubusercontent.com/nicknochnack/MLTradingBot/main/github.com/Lumiwealth/lumibot)&#34;&gt;Lumibot&lt;/a&gt;:trading bot library, makes lifecycle stuff easier .&lt;/p&gt; &#xA;&lt;h1&gt;Who, When, Why?&lt;/h1&gt; &#xA;&lt;p&gt;👨🏾‍💻 Author: Nick Renotte &lt;br&gt; 📅 Version: 1.x&lt;br&gt; 📜 License: This project is licensed under the MIT License &lt;br&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>alura-es-cursos/js-curso-2</title>
-    <updated>2024-01-22T01:35:00Z</updated>
-    <id>tag:github.com,2024-01-22:/alura-es-cursos/js-curso-2</id>
-    <link href="https://github.com/alura-es-cursos/js-curso-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

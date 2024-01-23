@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-22T01:43:30Z</updated>
+  <updated>2024-01-23T01:44:56Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>harbaum/MiSTeryNano</title>
+    <updated>2024-01-23T01:44:56Z</updated>
+    <id>tag:github.com,2024-01-23:/harbaum/MiSTeryNano</id>
+    <link href="https://github.com/harbaum/MiSTeryNano" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Atari STE MiSTery core for the Tang Nano 20k FPGA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hypernyan/eth_vlg</title>
+    <updated>2024-01-23T01:44:56Z</updated>
+    <id>tag:github.com,2024-01-23:/hypernyan/eth_vlg</id>
+    <link href="https://github.com/hypernyan/eth_vlg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

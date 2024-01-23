@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-22T01:29:09Z</updated>
+  <updated>2024-01-23T01:28:23Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>VacSsQ/BaconWare-BEST-RAGE-MP-CHEAT</title>
-    <updated>2024-01-22T01:29:09Z</updated>
-    <id>tag:github.com,2024-01-22:/VacSsQ/BaconWare-BEST-RAGE-MP-CHEAT</id>
-    <link href="https://github.com/VacSsQ/BaconWare-BEST-RAGE-MP-CHEAT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BaconWare V3 CHEAT All In One (Works on GrandRP &amp; More servers) - Aimbot, ESP, FriendlyFire, Unlimited Money &amp; more! Regularly updated.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Batlez/Batlez-Tweaks</title>
+    <updated>2024-01-23T01:28:23Z</updated>
+    <id>tag:github.com,2024-01-23:/Batlez/Batlez-Tweaks</id>
+    <link href="https://github.com/Batlez/Batlez-Tweaks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Batlez Tweaks is a batch tweaking script that optimizes your system to provide the best gaming experience possible by lowering latency, increasing FPS, and decreasing background processes. It is free and open-source. Works on any PC!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

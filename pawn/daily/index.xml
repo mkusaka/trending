@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pawn Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-22T01:39:37Z</updated>
+  <updated>2024-01-23T01:40:03Z</updated>
   <subtitle>Daily Trending of Pawn in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Mrucznik/Mrucznik-RP-2.5</title>
-    <updated>2024-01-22T01:39:37Z</updated>
-    <id>tag:github.com,2024-01-22:/Mrucznik/Mrucznik-RP-2.5</id>
-    <link href="https://github.com/Mrucznik/Mrucznik-RP-2.5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mapa Mrucznik Role Play w wersji 2.x&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

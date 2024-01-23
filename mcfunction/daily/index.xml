@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub mcfunction Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-22T01:38:00Z</updated>
+  <updated>2024-01-23T01:37:55Z</updated>
   <subtitle>Daily Trending of mcfunction in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Gamemode4Dev/GM4_Datapacks</title>
+    <updated>2024-01-23T01:37:55Z</updated>
+    <id>tag:github.com,2024-01-23:/Gamemode4Dev/GM4_Datapacks</id>
+    <link href="https://github.com/Gamemode4Dev/GM4_Datapacks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gamemode 4 is a collection of modular Minecraft Datapacks that change or expand on the vanilla experience whilst keeping the vanilla feel. Our modules are developed with a focus on usability and efficiency.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

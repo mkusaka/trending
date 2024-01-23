@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-22T01:32:39Z</updated>
+  <updated>2024-01-23T01:31:50Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elixir-inspector/ua_inspector</title>
+    <updated>2024-01-23T01:31:50Z</updated>
+    <id>tag:github.com,2024-01-23:/elixir-inspector/ua_inspector</id>
+    <link href="https://github.com/elixir-inspector/ua_inspector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;User agent parser library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>beam-community/ex_machina</title>
+    <updated>2024-01-23T01:31:50Z</updated>
+    <id>tag:github.com,2024-01-23:/beam-community/ex_machina</id>
+    <link href="https://github.com/beam-community/ex_machina" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create test data for Elixir applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

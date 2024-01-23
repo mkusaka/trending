@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-22T01:34:40Z</updated>
+  <updated>2024-01-23T01:34:15Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>getsentry/tacos-gha.demo</title>
-    <updated>2024-01-22T01:34:40Z</updated>
-    <id>tag:github.com,2024-01-22:/getsentry/tacos-gha.demo</id>
-    <link href="https://github.com/getsentry/tacos-gha.demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;system-under-test for tacos-gha&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/terraform-azurerm-openai</title>
+    <updated>2024-01-23T01:34:15Z</updated>
+    <id>tag:github.com,2024-01-23:/Azure/terraform-azurerm-openai</id>
+    <link href="https://github.com/Azure/terraform-azurerm-openai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module for deploying Azure OpenAI Service.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Aj7Ay/TERRAFORM-JENKINS-CICD</title>
-    <updated>2024-01-22T01:34:40Z</updated>
-    <id>tag:github.com,2024-01-22:/Aj7Ay/TERRAFORM-JENKINS-CICD</id>
-    <link href="https://github.com/Aj7Ay/TERRAFORM-JENKINS-CICD" rel="alternate"></link>
+    <title>den-vasyliev/tf-fluxcd-flux-bootstrap</title>
+    <updated>2024-01-23T01:34:15Z</updated>
+    <id>tag:github.com,2024-01-23:/den-vasyliev/tf-fluxcd-flux-bootstrap</id>
+    <link href="https://github.com/den-vasyliev/tf-fluxcd-flux-bootstrap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flux bootstrap terraform module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nareshdevopscloud/terraform-jenkins-project</title>
+    <updated>2024-01-23T01:34:15Z</updated>
+    <id>tag:github.com,2024-01-23:/nareshdevopscloud/terraform-jenkins-project</id>
+    <link href="https://github.com/nareshdevopscloud/terraform-jenkins-project" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-aws-modules/terraform-aws-msk-kafka-cluster</title>
-    <updated>2024-01-22T01:34:40Z</updated>
-    <id>tag:github.com,2024-01-22:/terraform-aws-modules/terraform-aws-msk-kafka-cluster</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-msk-kafka-cluster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to create AWS MSK (Managed Streaming for Kafka) resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

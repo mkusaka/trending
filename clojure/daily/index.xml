@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-22T01:30:25Z</updated>
+  <updated>2024-01-23T01:29:43Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hyperfiddle/electric-fiddle</title>
-    <updated>2024-01-22T01:30:25Z</updated>
-    <id>tag:github.com,2024-01-22:/hyperfiddle/electric-fiddle</id>
-    <link href="https://github.com/hyperfiddle/electric-fiddle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easiest way to get started with Electric Clojure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>exercism/clojure</title>
-    <updated>2024-01-22T01:30:25Z</updated>
-    <id>tag:github.com,2024-01-22:/exercism/clojure</id>
-    <link href="https://github.com/exercism/clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercism exercises in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PEZ/backseat-driver</title>
-    <updated>2024-01-22T01:30:25Z</updated>
-    <id>tag:github.com,2024-01-22:/PEZ/backseat-driver</id>
-    <link href="https://github.com/PEZ/backseat-driver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Hackable VS Code AI Assistant&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

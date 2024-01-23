@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-22T01:34:41Z</updated>
+  <updated>2024-01-23T01:34:16Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>qrilka/xlsx</title>
-    <updated>2024-01-22T01:34:41Z</updated>
-    <id>tag:github.com,2024-01-22:/qrilka/xlsx</id>
-    <link href="https://github.com/qrilka/xlsx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple and incomplete Excel file parser/writer&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Xlsx&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://hackage.haskell.org/package/xlsx&#34;&gt;&lt;img src=&#34;https://img.shields.io/hackage/v/xlsx.svg?sanitize=true&#34; alt=&#34;Hackage&#34;&gt;&lt;/a&gt; &lt;a href=&#34;http://travis-ci.org/qrilka/xlsx&#34;&gt;&lt;img src=&#34;https://secure.travis-ci.org/qrilka/xlsx.svg?sanitize=true&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Simple xlsx parser/writer, only basic functionality at the moment&lt;/p&gt; &#xA;&lt;h2&gt;Hacking&lt;/h2&gt; &#xA;&lt;p&gt;For all new changes please use the formatting rules provided by the included &lt;code&gt;.stylish-haskell.yaml&lt;/code&gt; file. Older commits may still use old styling practices but these can be overwritten where necessary.&lt;/p&gt;</summary>
-  </entry>
 </feed>
