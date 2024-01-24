@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-23T01:30:30Z</updated>
+  <updated>2024-01-24T01:31:29Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MrcSnm/redub</title>
-    <updated>2024-01-23T01:30:30Z</updated>
-    <id>tag:github.com,2024-01-23:/MrcSnm/redub</id>
-    <link href="https://github.com/MrcSnm/redub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Attempt to recreate dub as a build system, original dub compatible, ignoring almost completely the package management.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Samerion/Fluid</title>
-    <updated>2024-01-23T01:30:30Z</updated>
-    <id>tag:github.com,2024-01-23:/Samerion/Fluid</id>
-    <link href="https://github.com/Samerion/Fluid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of https://git.samerion.com/Samerion/Fluid&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

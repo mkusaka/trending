@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-23T01:38:59Z</updated>
+  <updated>2024-01-24T01:39:58Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tulilirockz/clonix</title>
-    <updated>2024-01-23T01:38:59Z</updated>
-    <id>tag:github.com,2024-01-23:/tulilirockz/clonix</id>
-    <link href="https://github.com/tulilirockz/clonix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Declaratively manage rsync deployments in NixOS/Home-manager&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sempruijs/coding-with-eyes-closed</title>
+    <updated>2024-01-24T01:39:58Z</updated>
+    <id>tag:github.com,2024-01-24:/sempruijs/coding-with-eyes-closed</id>
+    <link href="https://github.com/sempruijs/coding-with-eyes-closed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Book for rehabilitative coders 📚&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>imobanco/github-ci-runner</title>
+    <updated>2024-01-24T01:39:58Z</updated>
+    <id>tag:github.com,2024-01-24:/imobanco/github-ci-runner</id>
+    <link href="https://github.com/imobanco/github-ci-runner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>schlarpc/python-base-flake</title>
+    <updated>2024-01-24T01:39:58Z</updated>
+    <id>tag:github.com,2024-01-24:/schlarpc/python-base-flake</id>
+    <link href="https://github.com/schlarpc/python-base-flake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Opinionated Python package template based on poetry2nix&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

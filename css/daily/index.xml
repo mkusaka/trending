@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-23T01:30:19Z</updated>
+  <updated>2024-01-24T01:31:15Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LoykDago/amparibe-3D</title>
+    <updated>2024-01-24T01:31:15Z</updated>
+    <id>tag:github.com,2024-01-24:/LoykDago/amparibe-3D</id>
+    <link href="https://github.com/LoykDago/amparibe-3D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An interactive way to visit our church FJKM Amparibe Famonjena&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stevebauman/curlwind</title>
+    <updated>2024-01-24T01:31:15Z</updated>
+    <id>tag:github.com,2024-01-24:/stevebauman/curlwind</id>
+    <link href="https://github.com/stevebauman/curlwind" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generate Tailwind utility stylesheets on demand.&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt;&lt;a href=&#34;https://curlwind.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://cd.curlwind.com/logo-dark.svg?sanitize=true&#34; width=&#34;400&#34; alt=&#34;Curlwind Logo Logo&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; Dynamically generate Tailwind CSS utility stylesheets. &lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://github.com/stevebauman/curlwind/actions&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/actions/workflow/status/stevebauman/curlwind/run-tests.yml?branch=master&amp;amp;style=flat-square&#34;&gt;&lt;/a&gt; &lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>alura-es-cursos/2035-logica-programacion-2</title>
+    <updated>2024-01-24T01:31:15Z</updated>
+    <id>tag:github.com,2024-01-24:/alura-es-cursos/2035-logica-programacion-2</id>
+    <link href="https://github.com/alura-es-cursos/2035-logica-programacion-2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curso de lógica de programación 2 - Alura Latam&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

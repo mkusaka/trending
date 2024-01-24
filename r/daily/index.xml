@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-23T01:41:49Z</updated>
+  <updated>2024-01-24T01:42:40Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jvlahadamis/fintool</title>
-    <updated>2024-01-23T01:41:49Z</updated>
-    <id>tag:github.com,2024-01-23:/jvlahadamis/fintool</id>
-    <link href="https://github.com/jvlahadamis/fintool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>genome/bmm</title>
-    <updated>2024-01-23T01:41:49Z</updated>
-    <id>tag:github.com,2024-01-23:/genome/bmm</id>
-    <link href="https://github.com/genome/bmm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;R package that uses a variational Bayesian approach to fitting a mixture of Beta distributions&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;bmm&lt;/h2&gt; &#xA;&lt;p&gt;An R package that uses a variational Bayesian approach for fitting a mixture of Beta distributions&lt;/p&gt; &#xA;&lt;h2&gt;Installation instructions&lt;/h2&gt; &#xA;&lt;p&gt;As of mid-2022, the NORMT3 package, which is a dependency of bmm, has been removed from CRAN. It can be installed manually by doing something like:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ wget https://cran.r-project.org/src/contrib/Archive/NORMT3/NORMT3_1.0.4.tar.gz&#xA;$ R CMD install NORMT3_1.0.4.tar.gz&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then proceed with the rest of the installation&lt;/p&gt; &#xA;&lt;p&gt;The easy way:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;#install devtools if you don&#39;t have it already&#xA;install.packages(&#34;devtools&#34;) &#xA;library(devtools)&#xA;install_github(&#34;genome/bmm&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Or build it by hand:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;#make sure you have all the dependencies first (ggplot2, NORMT3)&#xA;$ git clone git@github.com:genome/bmm.git&#xA;$ cd bmm/&#xA;$ R CMD build bmm&#xA;$ R CMD INSTALL bmm_0.3.1.tar.gz&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;See R docs for usage&lt;/p&gt;</summary>
+    <title>schw4b/cochrane</title>
+    <updated>2024-01-24T01:42:40Z</updated>
+    <id>tag:github.com,2024-01-24:/schw4b/cochrane</id>
+    <link href="https://github.com/schw4b/cochrane" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Import Data from the Cochrane Database of Systematic Reviews (CDSR)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cochrane: Import Data from the Cochrane Database of Systematic Reviews (CDSR) &lt;img src=&#34;https://raw.githubusercontent.com/schw4b/cochrane/master/man/figures/cochrane_hex.png&#34; align=&#34;right&#34; width=&#34;120&#34; height=&#34;139&#34; alt=&#34;&#34;&gt;&lt;/h1&gt; &#xA;&lt;p&gt;The Cochrane Library is probably the largest body of evidence in health care. This packages loads datasets from systematic reviews from &lt;a href=&#34;https://www.cochranelibrary.com&#34;&gt;https://www.cochranelibrary.com&lt;/a&gt; that include all the study data, effect estimates, and the combined effect estimates from meta-analyses.&lt;/p&gt; &#xA;&lt;h2&gt;User guide&lt;/h2&gt; &#xA;&lt;h3&gt;Installation from github&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;remotes::install_github(&#34;schw4b/cochrane&#34;, build_vignettes = TRUE)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Loading package&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;library(cochrane)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Please cite this package in your research output&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;citation(&#34;cochrane&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Open vignette&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;vignette(&#34;cochrane&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Developer guide&lt;/h2&gt; &#xA;&lt;h3&gt;Package building&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;export LC_CTYPE=&#39;C&#39;&#xA;&#xA;make clean&#xA;cd cochrane; R -e &#39;devtools::document()&#39;; cd ..&#xA;make build&#xA;make file=cochrane_0.1.tar.gz check&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Install package locally&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;detach(&#34;package:swt&#34;, unload=TRUE)&#xA;&#xA;R CMD REMOVE cochrane&#xA;R CMD INSTALL cochrane_0.1.tar.gz&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

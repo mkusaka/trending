@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-23T01:27:02Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2024-01-24T01:27:24Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gijsdev/ublock-hide-yt-shorts</title>
-    <updated>2024-01-23T01:27:02Z</updated>
-    <id>tag:github.com,2024-01-23:/gijsdev/ublock-hide-yt-shorts</id>
-    <link href="https://github.com/gijsdev/ublock-hide-yt-shorts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;uBlock Origin filter list to hide YouTube Shorts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Binaryify/NeteaseCloudMusicApi</title>
+    <updated>2024-01-24T01:27:24Z</updated>
+    <id>tag:github.com,2024-01-24:/Binaryify/NeteaseCloudMusicApi</id>
+    <link href="https://github.com/Binaryify/NeteaseCloudMusicApi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;网易云音乐 Node.js API service&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iam-veeramalla/Azure-zero-to-hero</title>
-    <updated>2024-01-23T01:27:02Z</updated>
-    <id>tag:github.com,2024-01-23:/iam-veeramalla/Azure-zero-to-hero</id>
-    <link href="https://github.com/iam-veeramalla/Azure-zero-to-hero" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mozilla/platform-tilt</title>
+    <updated>2024-01-24T01:27:24Z</updated>
+    <id>tag:github.com,2024-01-24:/mozilla/platform-tilt</id>
+    <link href="https://github.com/mozilla/platform-tilt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tracking issues which disadvantage Firefox relative to first-party browsers on major software platforms.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tramcar/awesome-job-boards</title>
-    <updated>2024-01-23T01:27:02Z</updated>
-    <id>tag:github.com,2024-01-23:/tramcar/awesome-job-boards</id>
-    <link href="https://github.com/tramcar/awesome-job-boards" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aigc3d/motionshop</title>
+    <updated>2024-01-24T01:27:24Z</updated>
+    <id>tag:github.com,2024-01-24:/aigc3d/motionshop</id>
+    <link href="https://github.com/aigc3d/motionshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MotionShop: An application of replacing the human motion in the video with a virtual 3D human&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

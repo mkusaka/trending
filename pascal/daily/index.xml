@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-23T01:40:00Z</updated>
+  <updated>2024-01-24T01:40:42Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>academiadocodigo/TBGWebCharts</title>
+    <updated>2024-01-24T01:40:42Z</updated>
+    <id>tag:github.com,2024-01-24:/academiadocodigo/TBGWebCharts</id>
+    <link href="https://github.com/academiadocodigo/TBGWebCharts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Componente para Criação de Gráficos e Dashboards&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DelphiWorlds/JID</title>
+    <updated>2024-01-24T01:40:42Z</updated>
+    <id>tag:github.com,2024-01-24:/DelphiWorlds/JID</id>
+    <link href="https://github.com/DelphiWorlds/JID" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jar Import for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

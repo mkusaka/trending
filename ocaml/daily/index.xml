@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-23T01:39:26Z</updated>
+  <updated>2024-01-24T01:40:16Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wowisopal/ir</title>
-    <updated>2024-01-23T01:39:26Z</updated>
-    <id>tag:github.com,2024-01-23:/wowisopal/ir</id>
-    <link href="https://github.com/wowisopal/ir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;tiny LLVM optimizer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cucumber/cucumber.ml</title>
+    <updated>2024-01-24T01:40:16Z</updated>
+    <id>tag:github.com,2024-01-24:/cucumber/cucumber.ml</id>
+    <link href="https://github.com/cucumber/cucumber.ml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cucumber for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wowisopal/bound</title>
-    <updated>2024-01-23T01:39:26Z</updated>
-    <id>tag:github.com,2024-01-23:/wowisopal/bound</id>
-    <link href="https://github.com/wowisopal/bound" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;impl of the bounding interval hierarchy&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>panglesd/slipshow</title>
+    <updated>2024-01-24T01:40:16Z</updated>
+    <id>tag:github.com,2024-01-24:/panglesd/slipshow</id>
+    <link href="https://github.com/panglesd/slipshow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An engine for displaying slips, the next-gen version of slides&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

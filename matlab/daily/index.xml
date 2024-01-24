@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-23T01:37:53Z</updated>
+  <updated>2024-01-24T01:38:46Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Jayasurya-Marasani/Movie-Recommendation-System-using-SVD</title>
-    <updated>2024-01-23T01:37:53Z</updated>
-    <id>tag:github.com,2024-01-23:/Jayasurya-Marasani/Movie-Recommendation-System-using-SVD</id>
-    <link href="https://github.com/Jayasurya-Marasani/Movie-Recommendation-System-using-SVD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository implements Movie Recommendation System using SVD&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emersonmoretto/mlclass-ex5</title>
+    <updated>2024-01-24T01:38:46Z</updated>
+    <id>tag:github.com,2024-01-24:/emersonmoretto/mlclass-ex5</id>
+    <link href="https://github.com/emersonmoretto/mlclass-ex5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ML Class ex5&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model</title>
-    <updated>2024-01-23T01:37:53Z</updated>
-    <id>tag:github.com,2024-01-23:/Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model</id>
-    <link href="https://github.com/Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository utilizes MATLAB to implement log distance pathloss and log normal shadowing pathloss models.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>csrc-sdsu/mole</title>
+    <updated>2024-01-24T01:38:46Z</updated>
+    <id>tag:github.com,2024-01-24:/csrc-sdsu/mole</id>
+    <link href="https://github.com/csrc-sdsu/mole" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Mimetic Operators Library Enhanced&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images</title>
-    <updated>2024-01-23T01:37:53Z</updated>
-    <id>tag:github.com,2024-01-23:/Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images</id>
-    <link href="https://github.com/Jayasurya-Marasani/Image-Restoration-on-Lunar-Surface-Images" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository compares Wiener, Median, and Gaussian filters for lunar surface image restoration.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DE4-DVS-Labs/Lab1-Introduction</title>
+    <updated>2024-01-24T01:38:46Z</updated>
+    <id>tag:github.com,2024-01-24:/DE4-DVS-Labs/Lab1-Introduction</id>
+    <link href="https://github.com/DE4-DVS-Labs/Lab1-Introduction" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

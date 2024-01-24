@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-23T01:44:03Z</updated>
+  <updated>2024-01-24T01:44:56Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>anselmenumbisia/helm-repo</title>
-    <updated>2024-01-23T01:44:03Z</updated>
-    <id>tag:github.com,2024-01-23:/anselmenumbisia/helm-repo</id>
-    <link href="https://github.com/anselmenumbisia/helm-repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Shadowss/TravianZ</title>
+    <updated>2024-01-24T01:44:56Z</updated>
+    <id>tag:github.com,2024-01-24:/Shadowss/TravianZ</id>
+    <link href="https://github.com/Shadowss/TravianZ" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Travian T3.6 , BEST VERSION EVER | Server restarted ! Speed 50x , Troops 50x.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>k8s-1pro/kubernetes-anotherclass-sprint2</title>
-    <updated>2024-01-23T01:44:03Z</updated>
-    <id>tag:github.com,2024-01-23:/k8s-1pro/kubernetes-anotherclass-sprint2</id>
-    <link href="https://github.com/k8s-1pro/kubernetes-anotherclass-sprint2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[쿠버네티스 어나더 클래스] Sprint2 배포&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>giantswarm/cluster-eks</title>
+    <updated>2024-01-24T01:44:56Z</updated>
+    <id>tag:github.com,2024-01-24:/giantswarm/cluster-eks</id>
+    <link href="https://github.com/giantswarm/cluster-eks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;app for deploying an CAPI EKS on AWS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

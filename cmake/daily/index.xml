@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-23T01:29:46Z</updated>
+  <updated>2024-01-24T01:30:42Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DexaiRobotics/protodefs</title>
-    <updated>2024-01-23T01:29:46Z</updated>
-    <id>tag:github.com,2024-01-23:/DexaiRobotics/protodefs</id>
-    <link href="https://github.com/DexaiRobotics/protodefs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;protobuf message and gRPC service definitions for the PlanningService&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>XMuli/windows-defender-close</title>
+    <updated>2024-01-24T01:30:42Z</updated>
+    <id>tag:github.com,2024-01-24:/XMuli/windows-defender-close</id>
+    <link href="https://github.com/XMuli/windows-defender-close" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows Defender Close. | 亦极简的电脑管家，一键关闭 Windows Defender (Anti-Virus)。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
