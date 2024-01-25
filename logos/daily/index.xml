@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-24T01:38:03Z</updated>
+  <updated>2024-01-25T01:35:44Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ThatHurleyGuy/CipherScavengerHunt-Android</title>
-    <updated>2024-01-24T01:38:03Z</updated>
-    <id>tag:github.com,2024-01-24:/ThatHurleyGuy/CipherScavengerHunt-Android</id>
-    <link href="https://github.com/ThatHurleyGuy/CipherScavengerHunt-Android" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>caughtinflux/spotwolfram</title>
-    <updated>2024-01-24T01:38:03Z</updated>
-    <id>tag:github.com,2024-01-24:/caughtinflux/spotwolfram</id>
-    <link href="https://github.com/caughtinflux/spotwolfram" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Replace &#34;Search Wikipedia&#34; in the spotlight with &#34;Search Wolfram Alpha&#34;. Because Wolfram Alpha &gt; Wikipedia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

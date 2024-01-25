@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-24T01:44:22Z</updated>
+  <updated>2024-01-25T01:41:16Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aspnetrun/run-aspnetcore-realworld</title>
-    <updated>2024-01-24T01:44:22Z</updated>
-    <id>tag:github.com,2024-01-24:/aspnetrun/run-aspnetcore-realworld</id>
-    <link href="https://github.com/aspnetrun/run-aspnetcore-realworld" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;E-Commerce real world example of run-aspnetcore ASP.NET Core web application. Implemented e-commerce domain with clean architecture for ASP.NET Core reference application, demonstrating a layered application architecture with DDD best practices. Download 100+ page eBook PDF from here -&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bitbrain/jekyll-dash</title>
+    <updated>2024-01-25T01:41:16Z</updated>
+    <id>tag:github.com,2024-01-25:/bitbrain/jekyll-dash</id>
+    <link href="https://github.com/bitbrain/jekyll-dash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌒 Light and dark blog theme for Jekyll, inspired by Dash UI for Atom.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

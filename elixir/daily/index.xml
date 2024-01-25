@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-24T01:32:50Z</updated>
+  <updated>2024-01-25T01:31:20Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>flowy-framework/flowy</title>
-    <updated>2024-01-24T01:32:50Z</updated>
-    <id>tag:github.com,2024-01-24:/flowy-framework/flowy</id>
-    <link href="https://github.com/flowy-framework/flowy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern framework that promises a smooth developer experience.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>membraneframework/membrane_demo</title>
-    <updated>2024-01-24T01:32:50Z</updated>
-    <id>tag:github.com,2024-01-24:/membraneframework/membrane_demo</id>
-    <link href="https://github.com/membraneframework/membrane_demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Examples of using the Membrane Framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

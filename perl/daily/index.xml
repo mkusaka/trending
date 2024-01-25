@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-24T01:41:01Z</updated>
+  <updated>2024-01-25T01:38:26Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bagder/emails</title>
+    <updated>2024-01-25T01:38:26Z</updated>
+    <id>tag:github.com,2024-01-25:/bagder/emails</id>
+    <link href="https://github.com/bagder/emails" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;emails I received&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Collected emails&lt;/h1&gt; &#xA;&lt;p&gt;This is a collection of emails I have received over the years. I have tried to remove all names, email addresses and some company names.&lt;/p&gt; &#xA;&lt;p&gt;Except the redaction of personal identifiable information, the contents of the emails are shown exactly as I receivied them.&lt;/p&gt; &#xA;&lt;p&gt;The emails tend to be in one of these categories.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Accusing me of wrongdoings&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Thinking I&#39;m responsible for or know anything about a product (that probably uses curl)&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Random weirdness&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;To the best of my knowledge, none of these emails were sent ironic or as jokes.&lt;/p&gt; &#xA;&lt;h2&gt;Start here&lt;/h2&gt; &#xA;&lt;p&gt;Each email contains prev/next links in the bottom.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://bagder.github.io/emails/2009/2009-03-21&#34;&gt;start here&lt;/a&gt;, &lt;a href=&#34;https://bagder.github.io/emails/2017/2017-09-20.html&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://bagder.github.io/emails/2020/2020-03-21.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Who am I ?&lt;/h2&gt; &#xA;&lt;p&gt;I am &lt;a href=&#34;https://daniel.haxx.se&#34;&gt;Daniel Stenberg&lt;/a&gt;. I am the lead developer of &lt;a href=&#34;https://curl.se/&#34;&gt;curl&lt;/a&gt;. curl runs in some twenty billion installations worldwide. The curl license appears in many places and contains my email address.&lt;/p&gt; &#xA;&lt;h2&gt;Do I respond?&lt;/h2&gt; &#xA;&lt;p&gt;I used to. Over time I learned that is very hard to bridge the knowledge gap, plus the fact that many users will just consider whatever I say as excuses for not helping them the way they want.&lt;/p&gt; &#xA;&lt;p&gt;It simple takes too much time and energy. I almost never respond to these emails anymore.&lt;/p&gt;</summary>
+  </entry>
 </feed>

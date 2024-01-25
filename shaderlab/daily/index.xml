@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-24T01:44:25Z</updated>
+  <updated>2024-01-25T01:41:19Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>B453-SP24/B453-Lab-FPS-Game</title>
+    <updated>2024-01-25T01:41:19Z</updated>
+    <id>tag:github.com,2024-01-25:/B453-SP24/B453-Lab-FPS-Game</id>
+    <link href="https://github.com/B453-SP24/B453-Lab-FPS-Game" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the repository for the first lab game exploration for B453 Game Development at Indiana University Bloomington&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Chase-rgb/Quantum</title>
+    <updated>2024-01-25T01:41:19Z</updated>
+    <id>tag:github.com,2024-01-25:/Chase-rgb/Quantum</id>
+    <link href="https://github.com/Chase-rgb/Quantum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The new, up and coming 2D puzzle game utilizing the most interesting Quantum game mechanics the world has ever seen.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

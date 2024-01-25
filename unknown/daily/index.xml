@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-24T01:27:24Z</updated>
+  <updated>2024-01-25T01:27:05Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Binaryify/NeteaseCloudMusicApi</title>
-    <updated>2024-01-24T01:27:24Z</updated>
-    <id>tag:github.com,2024-01-24:/Binaryify/NeteaseCloudMusicApi</id>
-    <link href="https://github.com/Binaryify/NeteaseCloudMusicApi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;网易云音乐 Node.js API service&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mayaracardoso/spotify-imersao</title>
+    <updated>2024-01-25T01:27:05Z</updated>
+    <id>tag:github.com,2024-01-25:/mayaracardoso/spotify-imersao</id>
+    <link href="https://github.com/mayaracardoso/spotify-imersao" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mozilla/platform-tilt</title>
-    <updated>2024-01-24T01:27:24Z</updated>
-    <id>tag:github.com,2024-01-24:/mozilla/platform-tilt</id>
-    <link href="https://github.com/mozilla/platform-tilt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tracking issues which disadvantage Firefox relative to first-party browsers on major software platforms.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ai-boost/awesome-gpts-prompts</title>
+    <updated>2024-01-25T01:27:05Z</updated>
+    <id>tag:github.com,2024-01-25:/ai-boost/awesome-gpts-prompts</id>
+    <link href="https://github.com/ai-boost/awesome-gpts-prompts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aigc3d/motionshop</title>
-    <updated>2024-01-24T01:27:24Z</updated>
-    <id>tag:github.com,2024-01-24:/aigc3d/motionshop</id>
-    <link href="https://github.com/aigc3d/motionshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MotionShop: An application of replacing the human motion in the video with a virtual 3D human&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>drshahizan/SLR-FC</title>
+    <updated>2024-01-25T01:27:05Z</updated>
+    <id>tag:github.com,2024-01-25:/drshahizan/SLR-FC</id>
+    <link href="https://github.com/drshahizan/SLR-FC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Systematic Literature Review (SLR) Using AI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

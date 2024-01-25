@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-24T01:47:05Z</updated>
+  <updated>2024-01-25T01:43:53Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>s-yukikaze/vinarise-plugin-peanalysis</title>
-    <updated>2024-01-24T01:47:05Z</updated>
-    <id>tag:github.com,2024-01-24:/s-yukikaze/vinarise-plugin-peanalysis</id>
-    <link href="https://github.com/s-yukikaze/vinarise-plugin-peanalysis" rel="alternate"></link>
+    <title>anels/vim-foldline</title>
+    <updated>2024-01-25T01:43:53Z</updated>
+    <id>tag:github.com,2024-01-25:/anels/vim-foldline</id>
+    <link href="https://github.com/anels/vim-foldline" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

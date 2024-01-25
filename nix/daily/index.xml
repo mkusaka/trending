@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-24T01:39:58Z</updated>
+  <updated>2024-01-25T01:37:18Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sempruijs/coding-with-eyes-closed</title>
-    <updated>2024-01-24T01:39:58Z</updated>
-    <id>tag:github.com,2024-01-24:/sempruijs/coding-with-eyes-closed</id>
-    <link href="https://github.com/sempruijs/coding-with-eyes-closed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Book for rehabilitative coders 📚&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>imobanco/github-ci-runner</title>
-    <updated>2024-01-24T01:39:58Z</updated>
-    <id>tag:github.com,2024-01-24:/imobanco/github-ci-runner</id>
-    <link href="https://github.com/imobanco/github-ci-runner" rel="alternate"></link>
+    <title>HathorNetwork/hathor-unleash-client</title>
+    <updated>2024-01-25T01:37:18Z</updated>
+    <id>tag:github.com,2024-01-25:/HathorNetwork/hathor-unleash-client</id>
+    <link href="https://github.com/HathorNetwork/hathor-unleash-client" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>schlarpc/python-base-flake</title>
-    <updated>2024-01-24T01:39:58Z</updated>
-    <id>tag:github.com,2024-01-24:/schlarpc/python-base-flake</id>
-    <link href="https://github.com/schlarpc/python-base-flake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Opinionated Python package template based on poetry2nix&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Cloudef/zig2nix</title>
+    <updated>2024-01-25T01:37:18Z</updated>
+    <id>tag:github.com,2024-01-25:/Cloudef/zig2nix</id>
+    <link href="https://github.com/Cloudef/zig2nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flake for packaging, building and running Zig projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

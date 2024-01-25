@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-24T01:32:10Z</updated>
+  <updated>2024-01-25T01:30:48Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>companieshouse/ci-cdxgen-image</title>
-    <updated>2024-01-24T01:32:10Z</updated>
-    <id>tag:github.com,2024-01-24:/companieshouse/ci-cdxgen-image</id>
-    <link href="https://github.com/companieshouse/ci-cdxgen-image" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Docker image containing both Java and Node.js&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ci-base-java-node&lt;/h1&gt; &#xA;&lt;p&gt;A Docker image containing Java and Node. Mainly for use in Concourse when both runtimes are required. Possible use case is to run &lt;a href=&#34;https://github.com/CycloneDX/cdxgen&#34;&gt;cdxgen&lt;/a&gt; to create SBOM files (in CycloneDX format) to upload to &lt;a href=&#34;https://dependencytrack.org/&#34;&gt;DependencyTrack&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;cdxgen is a &lt;a href=&#34;https://www.npmjs.com/package/@cyclonedx/cdxgen&#34;&gt;utility written in Node&lt;/a&gt; and as such requires a Node runtime environment (ideally the latest one available) to run.&lt;/p&gt; &#xA;&lt;p&gt;To analyse any other Node project, no other runtimes would therefore be needed.&lt;/p&gt; &#xA;&lt;p&gt;In any case, to analyse projects written in Java cdxgen further requires both a Java runtime and, for pom.xml, maven.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;cdxgen is known to freeze with Java 8 or 11, so Java &amp;gt;= 21 is recommended.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>debricked/dmarc-visualizer</title>
+    <updated>2024-01-25T01:30:48Z</updated>
+    <id>tag:github.com,2024-01-25:/debricked/dmarc-visualizer</id>
+    <link href="https://github.com/debricked/dmarc-visualizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Analyse and visualize DMARC results using open-source tools&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dmarc-visualizer&lt;/h1&gt; &#xA;&lt;p&gt;Analyse and visualize DMARC results using open-source tools.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/domainaware/parsedmarc&#34;&gt;parsedmarc&lt;/a&gt; for parsing DMARC reports,&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.elastic.co/&#34;&gt;Elasticsearch&lt;/a&gt; to store aggregated data.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://grafana.com/&#34;&gt;Grafana&lt;/a&gt; to visualize the aggregated reports.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;See the full blog post with instructions at &lt;a href=&#34;https://debricked.com/blog/2020/05/14/analyse-and-visualize-dmarc-results-using-open-source-tools/&#34;&gt;https://debricked.com/blog/2020/05/14/analyse-and-visualize-dmarc-results-using-open-source-tools/&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Screenshot&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/debricked/dmarc-visualizer/master/big_screenshot.png?raw=true&#34; alt=&#34;Screenshot of Grafana dashboard&#34;&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

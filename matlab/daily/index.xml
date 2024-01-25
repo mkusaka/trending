@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-24T01:38:46Z</updated>
+  <updated>2024-01-25T01:36:20Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>emersonmoretto/mlclass-ex5</title>
-    <updated>2024-01-24T01:38:46Z</updated>
-    <id>tag:github.com,2024-01-24:/emersonmoretto/mlclass-ex5</id>
-    <link href="https://github.com/emersonmoretto/mlclass-ex5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ML Class ex5&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>csrc-sdsu/mole</title>
-    <updated>2024-01-24T01:38:46Z</updated>
-    <id>tag:github.com,2024-01-24:/csrc-sdsu/mole</id>
-    <link href="https://github.com/csrc-sdsu/mole" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Mimetic Operators Library Enhanced&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DE4-DVS-Labs/Lab1-Introduction</title>
-    <updated>2024-01-24T01:38:46Z</updated>
-    <id>tag:github.com,2024-01-24:/DE4-DVS-Labs/Lab1-Introduction</id>
-    <link href="https://github.com/DE4-DVS-Labs/Lab1-Introduction" rel="alternate"></link>
+    <title>HacklabJKL/logo</title>
+    <updated>2024-01-25T01:36:20Z</updated>
+    <id>tag:github.com,2024-01-25:/HacklabJKL/logo</id>
+    <link href="https://github.com/HacklabJKL/logo" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

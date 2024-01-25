@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-24T01:40:16Z</updated>
+  <updated>2024-01-25T01:37:46Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cucumber/cucumber.ml</title>
-    <updated>2024-01-24T01:40:16Z</updated>
-    <id>tag:github.com,2024-01-24:/cucumber/cucumber.ml</id>
-    <link href="https://github.com/cucumber/cucumber.ml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cucumber for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>panglesd/slipshow</title>
-    <updated>2024-01-24T01:40:16Z</updated>
-    <id>tag:github.com,2024-01-24:/panglesd/slipshow</id>
-    <link href="https://github.com/panglesd/slipshow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An engine for displaying slips, the next-gen version of slides&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

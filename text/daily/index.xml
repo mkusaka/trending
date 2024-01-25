@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Text Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-24T01:46:14Z</updated>
+  <updated>2024-01-25T01:43:06Z</updated>
   <subtitle>Daily Trending of Text in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>giellalt/lang-myv</title>
+    <updated>2024-01-25T01:43:06Z</updated>
+    <id>tag:github.com,2024-01-25:/giellalt/lang-myv</id>
+    <link href="https://github.com/giellalt/lang-myv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Erzya language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giellalt/lang-vot</title>
+    <updated>2024-01-25T01:43:06Z</updated>
+    <id>tag:github.com,2024-01-25:/giellalt/lang-vot</id>
+    <link href="https://github.com/giellalt/lang-vot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Votic language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giellalt/lang-vro</title>
+    <updated>2024-01-25T01:43:06Z</updated>
+    <id>tag:github.com,2024-01-25:/giellalt/lang-vro</id>
+    <link href="https://github.com/giellalt/lang-vro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Võro language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
