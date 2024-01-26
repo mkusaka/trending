@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-25T01:42:26Z</updated>
+  <updated>2024-01-26T01:40:22Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hyprwm/hyprland-website</title>
-    <updated>2024-01-25T01:42:26Z</updated>
-    <id>tag:github.com,2024-01-25:/hyprwm/hyprland-website</id>
-    <link href="https://github.com/hyprwm/hyprland-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The hyprland.org website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dfinity/gix-components</title>
-    <updated>2024-01-25T01:42:26Z</updated>
-    <id>tag:github.com,2024-01-25:/dfinity/gix-components</id>
-    <link href="https://github.com/dfinity/gix-components" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of UI components and visual style for web applications&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>baterson/pathfinding-visualizer</title>
-    <updated>2024-01-25T01:42:26Z</updated>
-    <id>tag:github.com,2024-01-25:/baterson/pathfinding-visualizer</id>
-    <link href="https://github.com/baterson/pathfinding-visualizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pathfinding Algorithm Visualizer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sinnedpenguin/streamit</title>
+    <updated>2024-01-26T01:40:22Z</updated>
+    <id>tag:github.com,2024-01-26:/sinnedpenguin/streamit</id>
+    <link href="https://github.com/sinnedpenguin/streamit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A free and ad-free Movies/TV Shows streaming app. No sign up or registration needed.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

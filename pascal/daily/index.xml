@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-25T01:38:14Z</updated>
+  <updated>2024-01-26T01:35:21Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>geby/synapse</title>
+    <updated>2024-01-26T01:35:21Z</updated>
+    <id>tag:github.com,2024-01-26:/geby/synapse</id>
+    <link href="https://github.com/geby/synapse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Synapse TCP/IP library for Delphi and Freepascal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>magicmonty/videostore_delphi</title>
+    <updated>2024-01-26T01:35:21Z</updated>
+    <id>tag:github.com,2024-01-26:/magicmonty/videostore_delphi</id>
+    <link href="https://github.com/magicmonty/videostore_delphi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The videostore example from Martin Fowler&#39;s Refactoring, and from Episode 3 of cleancoders.com in Delphi&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

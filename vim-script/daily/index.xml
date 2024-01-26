@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-25T01:43:53Z</updated>
+  <updated>2024-01-26T01:41:52Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>anels/vim-foldline</title>
-    <updated>2024-01-25T01:43:53Z</updated>
-    <id>tag:github.com,2024-01-25:/anels/vim-foldline</id>
-    <link href="https://github.com/anels/vim-foldline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>savala/vimrc</title>
+    <updated>2024-01-26T01:41:52Z</updated>
+    <id>tag:github.com,2024-01-26:/savala/vimrc</id>
+    <link href="https://github.com/savala/vimrc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My own work in progress vimrc&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gvader/dotvim</title>
+    <updated>2024-01-26T01:41:52Z</updated>
+    <id>tag:github.com,2024-01-26:/gvader/dotvim</id>
+    <link href="https://github.com/gvader/dotvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My vim config with submodules.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mischavandenburg/dotfiles</title>
+    <updated>2024-01-26T01:41:52Z</updated>
+    <id>tag:github.com,2024-01-26:/mischavandenburg/dotfiles</id>
+    <link href="https://github.com/mischavandenburg/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My configuration files for bash, vim, tmux and so forth.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

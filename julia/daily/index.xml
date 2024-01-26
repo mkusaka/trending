@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-25T01:34:56Z</updated>
+  <updated>2024-01-26T01:32:13Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Kyjor/JulGame.jl</title>
-    <updated>2024-01-25T01:34:56Z</updated>
-    <id>tag:github.com,2024-01-25:/Kyjor/JulGame.jl</id>
-    <link href="https://github.com/Kyjor/JulGame.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JulGame is a game engine based on the Julia programming language with the help of SDL2.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dompazz/FinTech545_Spring2024</title>
+    <updated>2024-01-26T01:32:13Z</updated>
+    <id>tag:github.com,2024-01-26:/dompazz/FinTech545_Spring2024</id>
+    <link href="https://github.com/dompazz/FinTech545_Spring2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FinTech 545, Spring Semester 2024&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

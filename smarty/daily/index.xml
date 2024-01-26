@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-25T01:41:54Z</updated>
+  <updated>2024-01-26T01:39:45Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SPRFMO/FLjjm</title>
-    <updated>2024-01-25T01:41:54Z</updated>
-    <id>tag:github.com,2024-01-25:/SPRFMO/FLjjm</id>
-    <link href="https://github.com/SPRFMO/FLjjm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>giantswarm/cluster</title>
-    <updated>2024-01-25T01:41:54Z</updated>
-    <id>tag:github.com,2024-01-25:/giantswarm/cluster</id>
-    <link href="https://github.com/giantswarm/cluster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Giant Swarm cluster chart with provider-independent cluster resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gofrolist/molecule-action</title>
+    <updated>2024-01-26T01:39:45Z</updated>
+    <id>tag:github.com,2024-01-26:/gofrolist/molecule-action</id>
+    <link href="https://github.com/gofrolist/molecule-action" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GitHub Action for running molecule as part of your workflows!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

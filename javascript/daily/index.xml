@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-25T01:34:12Z</updated>
+  <updated>2024-01-26T01:31:03Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fouber/lottery</title>
-    <updated>2024-01-25T01:34:12Z</updated>
-    <id>tag:github.com,2024-01-25:/fouber/lottery</id>
-    <link href="https://github.com/fouber/lottery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;年会抽奖程序&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;N年前写的年会抽奖程序&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://fouber.github.io/lottery/&#34;&gt;demo&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;抽奖流程：&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;选择当次要抽奖的人数（30、10、5、2、1）&lt;/li&gt; &#xA; &lt;li&gt;点击『开始』按钮，进入抽奖状态（这个过程仍可修改抽奖人数）&lt;/li&gt; &#xA; &lt;li&gt;点击『停！』按钮，生成抽奖结果&lt;/li&gt; &#xA; &lt;li&gt;点击任意人数按钮，可以回到闲置状态，已中奖的用户标记为黄色，不会二次命中&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;PS：滚动鼠标滚轮，可以放大或缩小球体&lt;/p&gt;</summary>
+    <title>aymene69/stremio-jackett</title>
+    <updated>2024-01-26T01:31:03Z</updated>
+    <id>tag:github.com,2024-01-26:/aymene69/stremio-jackett</id>
+    <link href="https://github.com/aymene69/stremio-jackett" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elevate your Stremio experience with seamless access to Jackett torrent links, effortlessly fetching torrents for your selected movies within the Stremio interface.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Stremio Jackett Addon&lt;/h1&gt; &#xA;&lt;p&gt;Elevate your Stremio experience with seamless access to Jackett torrent links, effortlessly fetching torrents for your selected movies within the Stremio interface.&lt;/p&gt; &#xA;&lt;h1&gt;Disclaimer&lt;/h1&gt; &#xA;&lt;p&gt;I am not responsible for any content downloaded through this addon.&lt;/p&gt; &#xA;&lt;h1&gt;Prerequisites&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;A &lt;a href=&#34;https://github.com/Jackett/Jackett&#34;&gt;Jackett&lt;/a&gt; server running and reachable pubicly.&lt;/li&gt; &#xA; &lt;li&gt;NodeJS, npm.&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;(optionnal)&lt;/em&gt; A Real-Debrid or All-Debrid account.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;h2&gt;Without Docker&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;On your computer, clone the repository &lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;git clone https://github.com/aymene69/stremio-jackett&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt;Once done, install dependencies &lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;npm install&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt;Now just run your addon, access to the link and add it to your Stremio app! &lt;pre&gt;&lt;code&gt;npm start&#xA;&lt;/code&gt;&lt;/pre&gt; And access it via &lt;code&gt;your_ip:3000&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;With Docker&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Simply run the Docker image &lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;docker run -p 3000:3000 -d belmeg/stremio-addon-jackett&#xA;&lt;/code&gt;&lt;/pre&gt; And access it via &lt;code&gt;your_ip:3000&lt;/code&gt; &lt;strong&gt;WARNING&lt;/strong&gt; This will only work locally. If you want your addon to be reachable at any time, simply deploy it on &lt;a href=&#34;https://github.com/Stremio/stremio-beamup-cli&#34;&gt;Beamup&lt;/a&gt;. Click &lt;a href=&#34;https://github.com/Stremio/stremio-beamup-cli&#34;&gt;here&lt;/a&gt; to visit their repository and see how you can deploy it.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

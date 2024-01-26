@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-25T01:28:16Z</updated>
+  <updated>2024-01-26T01:25:04Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BigMouthFlower/palworld-auto-backup-restart</title>
+    <updated>2024-01-26T01:25:04Z</updated>
+    <id>tag:github.com,2024-01-26:/BigMouthFlower/palworld-auto-backup-restart</id>
+    <link href="https://github.com/BigMouthFlower/palworld-auto-backup-restart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;适用于Windows系统开设的幻兽帕鲁服务器，进行存档自动备份和服务端重启。For those who run Palworld server on Windows. To automatically backup the save and restart the server.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ionuttbara/melody_windows</title>
+    <updated>2024-01-26T01:25:04Z</updated>
+    <id>tag:github.com,2024-01-26:/ionuttbara/melody_windows</id>
+    <link href="https://github.com/ionuttbara/melody_windows" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Melody Optimization Script for Windows&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

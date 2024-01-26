@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-25T01:41:59Z</updated>
+  <updated>2024-01-26T01:39:52Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zero-gravity-labs/zerog-storage-contracts</title>
-    <updated>2024-01-25T01:41:59Z</updated>
-    <id>tag:github.com,2024-01-25:/zero-gravity-labs/zerog-storage-contracts</id>
-    <link href="https://github.com/zero-gravity-labs/zerog-storage-contracts" rel="alternate"></link>
+    <title>marsfoundation/sparklend-deployments</title>
+    <updated>2024-01-26T01:39:52Z</updated>
+    <id>tag:github.com,2024-01-26:/marsfoundation/sparklend-deployments</id>
+    <link href="https://github.com/marsfoundation/sparklend-deployments" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>solidity-labs-io/forge-proposal-simulator</title>
-    <updated>2024-01-25T01:41:59Z</updated>
-    <id>tag:github.com,2024-01-25:/solidity-labs-io/forge-proposal-simulator</id>
-    <link href="https://github.com/solidity-labs-io/forge-proposal-simulator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standard way to simulate governance actions from a timelock, multisig, or DAO.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

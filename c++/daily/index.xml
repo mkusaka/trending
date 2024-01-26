@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-25T01:29:03Z</updated>
+  <updated>2024-01-26T01:25:59Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>swordbluesword/PalWorld-NetCrack</title>
+    <updated>2024-01-26T01:25:59Z</updated>
+    <id>tag:github.com,2024-01-26:/swordbluesword/PalWorld-NetCrack</id>
+    <link href="https://github.com/swordbluesword/PalWorld-NetCrack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PalWorld-NetCrack&lt;/h1&gt; &#xA;&lt;p&gt;This is the PalWorld network cracking framework modifying player data in the Player tab Network cracking in the Exploit tab&lt;/p&gt; &#xA;&lt;h1&gt;Note: The master branch does not include visual&lt;/h1&gt; &#xA;&lt;h1&gt;Player Features&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Modify Player Speed&lt;/li&gt; &#xA; &lt;li&gt;Modify Player Attack Power&lt;/li&gt; &#xA; &lt;li&gt;Modify Player Defense Power&lt;/li&gt; &#xA; &lt;li&gt;Infinite Stamina&lt;/li&gt; &#xA; &lt;li&gt;Infinite Ammo&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Exploits&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;SafeTeleport(You can choose the implementation for TP)&lt;/li&gt; &#xA; &lt;li&gt;HomeTP&lt;/li&gt; &#xA; &lt;li&gt;AnywhereTP(It requires you to manually give a position)&lt;/li&gt; &#xA; &lt;li&gt;ToggleFly&lt;/li&gt; &#xA; &lt;li&gt;DeleteSelf(Warning: After testing, it will delete your data on the server)&lt;/li&gt; &#xA; &lt;li&gt;GodHealth&lt;/li&gt; &#xA; &lt;li&gt;Give EXP (Credit: WoodgamerHD)&lt;/li&gt; &#xA; &lt;li&gt;Give Pal (Credit: Kaotic13)&lt;/li&gt; &#xA; &lt;li&gt;Spawn Pal&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;AOBS&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;GObjects: &lt;code&gt;48 8B 05 ? ? ? ? 48 8B 0C C8 4C 8D 04 D1 EB 03&lt;/code&gt;&lt;br&gt; FNames: &lt;code&gt;48 8D 05 ? ? ? ? EB 13 48 8D 0D ? ? ? ? E8 ? ? ? ? C6 05 ? ? ? ? ? 0F 10&lt;/code&gt;&lt;br&gt; GWorld: &lt;code&gt;48 8B 1D ?? ?? ?? ?? 48 85 DB 74 33 41 B0&lt;/code&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;External Library Credits&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ocornut/imgui&#34;&gt;Dear ImGui&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://github.com/TsudaKageyu/minhook&#34;&gt;MinHook&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://github.com/Encryqed/Dumper-7&#34;&gt;Dumper7&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://github.com/NightFyre/DX11-ImGui-Internal-Hook&#34;&gt;DX11-Internal-Base&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

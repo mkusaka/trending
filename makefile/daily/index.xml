@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-25T01:36:10Z</updated>
+  <updated>2024-01-26T01:33:27Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nd-cse-20312-sp24/cse-20312-sp24-assignments</title>
-    <updated>2024-01-25T01:36:10Z</updated>
-    <id>tag:github.com,2024-01-25:/nd-cse-20312-sp24/cse-20312-sp24-assignments</id>
-    <link href="https://github.com/nd-cse-20312-sp24/cse-20312-sp24-assignments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CSE 20312 Data Structures (Spring 2024) - Assignments&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MisterZtr/PixelOS_gsi</title>
-    <updated>2024-01-25T01:36:10Z</updated>
-    <id>tag:github.com,2024-01-25:/MisterZtr/PixelOS_gsi</id>
-    <link href="https://github.com/MisterZtr/PixelOS_gsi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Script and patches for building PHH-Treble based PixelOS GSI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>iam-veeramalla/cis-istio-integration</title>
-    <updated>2024-01-25T01:36:10Z</updated>
-    <id>tag:github.com,2024-01-25:/iam-veeramalla/cis-istio-integration</id>
-    <link href="https://github.com/iam-veeramalla/cis-istio-integration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Integration of F5 CIS Ingress Controller with Istio Service Mesh for Kubernetes and Openshift&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

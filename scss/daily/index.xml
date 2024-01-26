@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-25T01:41:16Z</updated>
+  <updated>2024-01-26T01:38:46Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bitbrain/jekyll-dash</title>
-    <updated>2024-01-25T01:41:16Z</updated>
-    <id>tag:github.com,2024-01-25:/bitbrain/jekyll-dash</id>
-    <link href="https://github.com/bitbrain/jekyll-dash" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌒 Light and dark blog theme for Jekyll, inspired by Dash UI for Atom.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

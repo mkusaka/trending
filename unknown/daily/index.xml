@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-25T01:27:05Z</updated>
+  <updated>2024-01-26T01:23:59Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mayaracardoso/spotify-imersao</title>
-    <updated>2024-01-25T01:27:05Z</updated>
-    <id>tag:github.com,2024-01-25:/mayaracardoso/spotify-imersao</id>
-    <link href="https://github.com/mayaracardoso/spotify-imersao" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>praveen1994dec/Knowledge_Base</title>
+    <updated>2024-01-26T01:23:59Z</updated>
+    <id>tag:github.com,2024-01-26:/praveen1994dec/Knowledge_Base</id>
+    <link href="https://github.com/praveen1994dec/Knowledge_Base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository all all the tools related documents for your reference&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ai-boost/awesome-gpts-prompts</title>
-    <updated>2024-01-25T01:27:05Z</updated>
-    <id>tag:github.com,2024-01-25:/ai-boost/awesome-gpts-prompts</id>
-    <link href="https://github.com/ai-boost/awesome-gpts-prompts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>drshahizan/SLR-FC</title>
-    <updated>2024-01-25T01:27:05Z</updated>
-    <id>tag:github.com,2024-01-25:/drshahizan/SLR-FC</id>
-    <link href="https://github.com/drshahizan/SLR-FC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Systematic Literature Review (SLR) Using AI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>woltapp/engineering-internship-2024</title>
+    <updated>2024-01-26T01:23:59Z</updated>
+    <id>tag:github.com,2024-01-26:/woltapp/engineering-internship-2024</id>
+    <link href="https://github.com/woltapp/engineering-internship-2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The pre-assignment for frontend / backend internship applicants&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
