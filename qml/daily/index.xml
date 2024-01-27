@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-26T01:36:57Z</updated>
+  <updated>2024-01-27T01:42:16Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>iEvgeny/cctv-viewer</title>
-    <updated>2024-01-26T01:36:57Z</updated>
-    <id>tag:github.com,2024-01-26:/iEvgeny/cctv-viewer</id>
-    <link href="https://github.com/iEvgeny/cctv-viewer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CCTV Viewer - viewer and mounter video streams.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

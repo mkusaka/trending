@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-26T01:30:10Z</updated>
+  <updated>2024-01-27T01:30:58Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MikhaelAG/s3-challenge-dack</title>
-    <updated>2024-01-26T01:30:10Z</updated>
-    <id>tag:github.com,2024-01-26:/MikhaelAG/s3-challenge-dack</id>
-    <link href="https://github.com/MikhaelAG/s3-challenge-dack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iknowjason/AutomatedEmulation</title>
+    <updated>2024-01-27T01:30:58Z</updated>
+    <id>tag:github.com,2024-01-27:/iknowjason/AutomatedEmulation</id>
+    <link href="https://github.com/iknowjason/AutomatedEmulation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An automated Breach and Attack Simulation lab with terraform. Built for IaC stability, consistency, and speed.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

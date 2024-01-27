@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-26T01:41:58Z</updated>
+  <updated>2024-01-27T01:46:42Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zhontai/Admin.Core</title>
-    <updated>2024-01-26T01:41:58Z</updated>
-    <id>tag:github.com,2024-01-26:/zhontai/Admin.Core</id>
-    <link href="https://github.com/zhontai/Admin.Core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;中台Admin前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>binglog/V2b-Theme-Sleek</title>
-    <updated>2024-01-26T01:41:58Z</updated>
-    <id>tag:github.com,2024-01-26:/binglog/V2b-Theme-Sleek</id>
-    <link href="https://github.com/binglog/V2b-Theme-Sleek" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;v2board 主题-Sleek&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Virtual-Browser/VirtualBrowser</title>
+    <updated>2024-01-27T01:46:42Z</updated>
+    <id>tag:github.com,2024-01-27:/Virtual-Browser/VirtualBrowser</id>
+    <link href="https://github.com/Virtual-Browser/VirtualBrowser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

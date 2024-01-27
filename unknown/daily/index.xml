@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-26T01:23:59Z</updated>
+  <updated>2024-01-27T01:22:28Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>praveen1994dec/Knowledge_Base</title>
-    <updated>2024-01-26T01:23:59Z</updated>
-    <id>tag:github.com,2024-01-26:/praveen1994dec/Knowledge_Base</id>
-    <link href="https://github.com/praveen1994dec/Knowledge_Base" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository all all the tools related documents for your reference&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Anil-matcha/Top-GPTs</title>
+    <updated>2024-01-27T01:22:28Z</updated>
+    <id>tag:github.com,2024-01-27:/Anil-matcha/Top-GPTs</id>
+    <link href="https://github.com/Anil-matcha/Top-GPTs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run popular GPTs without the need for ChatGPT Plus subscription&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>woltapp/engineering-internship-2024</title>
-    <updated>2024-01-26T01:23:59Z</updated>
-    <id>tag:github.com,2024-01-26:/woltapp/engineering-internship-2024</id>
-    <link href="https://github.com/woltapp/engineering-internship-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The pre-assignment for frontend / backend internship applicants&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/AI-Chat-App-Hack</title>
+    <updated>2024-01-27T01:22:28Z</updated>
+    <id>tag:github.com,2024-01-27:/microsoft/AI-Chat-App-Hack</id>
+    <link href="https://github.com/microsoft/AI-Chat-App-Hack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HackTogether: The Microsoft Python Chatbot Hack | Register, Hack, Win&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

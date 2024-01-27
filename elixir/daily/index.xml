@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-26T01:28:19Z</updated>
+  <updated>2024-01-27T01:28:36Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sorentwo/elixir-slack</title>
+    <updated>2024-01-27T01:28:36Z</updated>
+    <id>tag:github.com,2024-01-27:/sorentwo/elixir-slack</id>
+    <link href="https://github.com/sorentwo/elixir-slack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Round-robin invites to the official [Elixir Slack](https://elixir-lang.slack.com)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>signaturelabs/replivisor</title>
+    <updated>2024-01-27T01:28:36Z</updated>
+    <id>tag:github.com,2024-01-27:/signaturelabs/replivisor</id>
+    <link href="https://github.com/signaturelabs/replivisor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Monitor continuous couchdb replications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

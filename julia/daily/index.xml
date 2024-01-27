@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-26T01:32:13Z</updated>
+  <updated>2024-01-27T01:33:58Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dompazz/FinTech545_Spring2024</title>
-    <updated>2024-01-26T01:32:13Z</updated>
-    <id>tag:github.com,2024-01-26:/dompazz/FinTech545_Spring2024</id>
-    <link href="https://github.com/dompazz/FinTech545_Spring2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FinTech 545, Spring Semester 2024&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
