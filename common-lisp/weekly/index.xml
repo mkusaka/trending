@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-28T01:48:17Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mcdjork/ling567_lakota</title>
+    <updated>2024-01-28T01:48:17Z</updated>
+    <id>tag:github.com,2024-01-28:/mcdjork/ling567_lakota</id>
+    <link href="https://github.com/mcdjork/ling567_lakota" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>grason/Connect4_Lisp</title>
+    <updated>2024-01-28T01:48:17Z</updated>
+    <id>tag:github.com,2024-01-28:/grason/Connect4_Lisp</id>
+    <link href="https://github.com/grason/Connect4_Lisp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An implementation of Connect 4 using Lisp&lt;/p&gt;&lt;hr&gt;&lt;p&gt;this is for kurmasz 352&lt;/p&gt;</summary>
+  </entry>
+</feed>

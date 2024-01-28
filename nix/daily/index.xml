@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-27T01:38:10Z</updated>
+  <updated>2024-01-28T01:37:12Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>obsidiansystems/daml.vim</title>
-    <updated>2024-01-27T01:38:10Z</updated>
-    <id>tag:github.com,2024-01-27:/obsidiansystems/daml.vim</id>
-    <link href="https://github.com/obsidiansystems/daml.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Daml syntax highlighting for vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Perspicuous-Computing/org</title>
-    <updated>2024-01-27T01:38:10Z</updated>
-    <id>tag:github.com,2024-01-27:/Perspicuous-Computing/org</id>
-    <link href="https://github.com/Perspicuous-Computing/org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Organization documents&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>iburzynski/plutarch-csa</title>
-    <updated>2024-01-27T01:38:10Z</updated>
-    <id>tag:github.com,2024-01-27:/iburzynski/plutarch-csa</id>
-    <link href="https://github.com/iburzynski/plutarch-csa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plutarch dev environment for EMURGO CSA&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

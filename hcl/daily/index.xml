@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-27T01:30:58Z</updated>
+  <updated>2024-01-28T01:33:08Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iknowjason/AutomatedEmulation</title>
-    <updated>2024-01-27T01:30:58Z</updated>
-    <id>tag:github.com,2024-01-27:/iknowjason/AutomatedEmulation</id>
-    <link href="https://github.com/iknowjason/AutomatedEmulation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An automated Breach and Attack Simulation lab with terraform. Built for IaC stability, consistency, and speed.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dareyio/terraform-aws-pipeline</title>
+    <updated>2024-01-28T01:33:08Z</updated>
+    <id>tag:github.com,2024-01-28:/dareyio/terraform-aws-pipeline</id>
+    <link href="https://github.com/dareyio/terraform-aws-pipeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Venn1991/hashicorp-certified-terraform-associate</title>
+    <updated>2024-01-28T01:33:08Z</updated>
+    <id>tag:github.com,2024-01-28:/Venn1991/hashicorp-certified-terraform-associate</id>
+    <link href="https://github.com/Venn1991/hashicorp-certified-terraform-associate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

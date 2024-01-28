@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-27T01:36:13Z</updated>
+  <updated>2024-01-28T01:35:56Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SuperiorExtended/android_vendor_superior</title>
-    <updated>2024-01-27T01:36:13Z</updated>
-    <id>tag:github.com,2024-01-27:/SuperiorExtended/android_vendor_superior</id>
-    <link href="https://github.com/SuperiorExtended/android_vendor_superior" rel="alternate"></link>
+    <title>wulffern/cnr_atr_sky130nm</title>
+    <updated>2024-01-28T01:35:56Z</updated>
+    <id>tag:github.com,2024-01-28:/wulffern/cnr_atr_sky130nm</id>
+    <link href="https://github.com/wulffern/cnr_atr_sky130nm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Transistor library for analog design&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>analogicus/cnr_gr04_sky130nm</title>
+    <updated>2024-01-28T01:35:56Z</updated>
+    <id>tag:github.com,2024-01-28:/analogicus/cnr_gr04_sky130nm</id>
+    <link href="https://github.com/analogicus/cnr_gr04_sky130nm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>analogicus/cnr_gr00_sky130nm</title>
+    <updated>2024-01-28T01:35:56Z</updated>
+    <id>tag:github.com,2024-01-28:/analogicus/cnr_gr00_sky130nm</id>
+    <link href="https://github.com/analogicus/cnr_gr00_sky130nm" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Dockerfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-28T01:49:25Z</updated>
+  <subtitle>Weekly Trending of Dockerfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>notimmortal546/jjk</title>
+    <updated>2024-01-28T01:49:25Z</updated>
+    <id>tag:github.com,2024-01-28:/notimmortal546/jjk</id>
+    <link href="https://github.com/notimmortal546/jjk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SemlerByte/JupiterLab-Render</title>
+    <updated>2024-01-28T01:49:25Z</updated>
+    <id>tag:github.com,2024-01-28:/SemlerByte/JupiterLab-Render</id>
+    <link href="https://github.com/SemlerByte/JupiterLab-Render" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Docker Code For Making Jupiterlab In Render&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>companieshouse/ci-cdxgen-image</title>
+    <updated>2024-01-28T01:49:25Z</updated>
+    <id>tag:github.com,2024-01-28:/companieshouse/ci-cdxgen-image</id>
+    <link href="https://github.com/companieshouse/ci-cdxgen-image" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Docker image containing both Java and Node.js&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ci-cdxgen-image&lt;/h1&gt; &#xA;&lt;p&gt;A Docker image containing Java and Node. Mainly for use in Concourse when both runtimes are required. Possible use case is to run &lt;a href=&#34;https://github.com/CycloneDX/cdxgen&#34;&gt;cdxgen&lt;/a&gt; to create SBOM files (in CycloneDX format) to upload to &lt;a href=&#34;https://dependencytrack.org/&#34;&gt;DependencyTrack&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;cdxgen is a &lt;a href=&#34;https://www.npmjs.com/package/@cyclonedx/cdxgen&#34;&gt;utility written in Node&lt;/a&gt; and as such requires a Node runtime environment (ideally the latest one available) to run.&lt;/p&gt; &#xA;&lt;p&gt;To analyse any other Node project, no other runtimes would therefore be needed.&lt;/p&gt; &#xA;&lt;p&gt;In any case, to analyse projects written in Java cdxgen further requires both a Java runtime and, for pom.xml, maven.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;cdxgen is known to freeze with Java 8 or 11, and Java &amp;gt;= 21 is recommended.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+</feed>

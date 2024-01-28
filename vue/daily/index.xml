@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-27T01:46:42Z</updated>
+  <updated>2024-01-28T01:44:44Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Virtual-Browser/VirtualBrowser</title>
-    <updated>2024-01-27T01:46:42Z</updated>
-    <id>tag:github.com,2024-01-27:/Virtual-Browser/VirtualBrowser</id>
-    <link href="https://github.com/Virtual-Browser/VirtualBrowser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>knva/PalWorld_server_config</title>
+    <updated>2024-01-28T01:44:44Z</updated>
+    <id>tag:github.com,2024-01-28:/knva/PalWorld_server_config</id>
+    <link href="https://github.com/knva/PalWorld_server_config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;帕鲁服务器配置生成工具&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>primefaces/primevue-examples</title>
+    <updated>2024-01-28T01:44:44Z</updated>
+    <id>tag:github.com,2024-01-28:/primefaces/primevue-examples</id>
+    <link href="https://github.com/primefaces/primevue-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PrimeVue Example Projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MohmmedAshraf/laravel-translations</title>
+    <updated>2024-01-28T01:44:44Z</updated>
+    <id>tag:github.com,2024-01-28:/MohmmedAshraf/laravel-translations</id>
+    <link href="https://github.com/MohmmedAshraf/laravel-translations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Laravel Translations UI package provides a user-friendly interface for managing translations in your Laravel application. It simplifies tasks such as adding, editing, deleting, and exporting translations. The package also includes a handy search feature and the ability to invite collaborators for easy translation management&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

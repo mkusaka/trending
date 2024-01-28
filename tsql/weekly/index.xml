@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-28T02:01:33Z</updated>
+  <subtitle>Weekly Trending of TSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lerocha/chinook-database</title>
+    <updated>2024-01-28T02:01:33Z</updated>
+    <id>tag:github.com,2024-01-28:/lerocha/chinook-database</id>
+    <link href="https://github.com/lerocha/chinook-database" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

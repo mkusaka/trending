@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-28T01:56:27Z</updated>
+  <subtitle>Weekly Trending of Objective-C in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sfsam/Itsycal</title>
+    <updated>2024-01-28T01:56:27Z</updated>
+    <id>tag:github.com,2024-01-28:/sfsam/Itsycal</id>
+    <link href="https://github.com/sfsam/Itsycal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Itsycal is a tiny calendar for your Mac&#39;s menu bar. http://www.mowglii.com/itsycal&lt;/p&gt;&lt;hr&gt;&lt;p&gt;I&#39;ve learned a lot by looking at other people&#39;s code so maybe someone can learn something from looking at mine.&lt;/p&gt; &#xA;&lt;p&gt;= = = = = = = =&lt;/p&gt; &#xA;&lt;p&gt;Itsycal is a tiny calendar for your Mac&#39;s menu bar.&lt;/p&gt; &#xA;&lt;p&gt;If you want, it will display your calendar events as a companion to the Mac Calendar app. You can also create and delete (but not edit) events.&lt;/p&gt; &#xA;&lt;p&gt;For more info, see: &lt;a href=&#34;http://www.mowglii.com/itsycal&#34;&gt;http://www.mowglii.com/itsycal&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;MIT Licensed - see License file&lt;/p&gt;</summary>
+  </entry>
+</feed>

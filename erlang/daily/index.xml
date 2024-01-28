@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-27T01:28:56Z</updated>
+  <updated>2024-01-28T01:31:35Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>drscream/ejabberd-mod_rest</title>
+    <updated>2024-01-28T01:31:35Z</updated>
+    <id>tag:github.com,2024-01-28:/drscream/ejabberd-mod_rest</id>
+    <link href="https://github.com/drscream/ejabberd-mod_rest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ejabberd REST module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>camshaft/syslog-message-keyvalue</title>
+    <updated>2024-01-28T01:31:35Z</updated>
+    <id>tag:github.com,2024-01-28:/camshaft/syslog-message-keyvalue</id>
+    <link href="https://github.com/camshaft/syslog-message-keyvalue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parse &#39;key=value&#39; style syslogs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

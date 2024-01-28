@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub R Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-01-28T01:58:29Z</updated>
+  <subtitle>Weekly Trending of R in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>byu-is-555/is-555-00-in-class-activities-w24</title>
+    <updated>2024-01-28T01:58:29Z</updated>
+    <id>tag:github.com,2024-01-28:/byu-is-555/is-555-00-in-class-activities-w24</id>
+    <link href="https://github.com/byu-is-555/is-555-00-in-class-activities-w24" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>STAT380/hw1</title>
+    <updated>2024-01-28T01:58:29Z</updated>
+    <id>tag:github.com,2024-01-28:/STAT380/hw1</id>
+    <link href="https://github.com/STAT380/hw1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hw1&lt;/h1&gt;</summary>
+  </entry>
+</feed>

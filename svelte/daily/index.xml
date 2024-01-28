@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-27T01:44:59Z</updated>
+  <updated>2024-01-28T01:43:09Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dabateam/funding-simulator</title>
-    <updated>2024-01-27T01:44:59Z</updated>
-    <id>tag:github.com,2024-01-27:/dabateam/funding-simulator</id>
-    <link href="https://github.com/dabateam/funding-simulator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Startup Funding Simulator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nichwch/nomad-hypertext</title>
-    <updated>2024-01-27T01:44:59Z</updated>
-    <id>tag:github.com,2024-01-27:/nichwch/nomad-hypertext</id>
-    <link href="https://github.com/nichwch/nomad-hypertext" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a local first note taking app built around semantic search. built at @recursecenter&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Teckit7-FirstBridge/EduBridge</title>
+    <updated>2024-01-28T01:43:09Z</updated>
+    <id>tag:github.com,2024-01-28:/Teckit7-FirstBridge/EduBridge</id>
+    <link href="https://github.com/Teckit7-FirstBridge/EduBridge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TECH!T back-end 7기 1차 프로젝트 : 교육 영상 플랫폼 EduBridge&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
