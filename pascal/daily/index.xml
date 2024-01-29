@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-28T01:38:16Z</updated>
+  <updated>2024-01-29T01:34:38Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>daviladanielc/Delphi-WindowsServiceUtils</title>
-    <updated>2024-01-28T01:38:16Z</updated>
-    <id>tag:github.com,2024-01-28:/daviladanielc/Delphi-WindowsServiceUtils</id>
-    <link href="https://github.com/daviladanielc/Delphi-WindowsServiceUtils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create, delete, stop, start, and change configurations of Windows services.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>djswirl/MultiCOM</title>
-    <updated>2024-01-28T01:38:16Z</updated>
-    <id>tag:github.com,2024-01-28:/djswirl/MultiCOM</id>
-    <link href="https://github.com/djswirl/MultiCOM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows application to monitor up to six serial ports at once&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yktoo/dkl_traned</title>
+    <updated>2024-01-29T01:34:38Z</updated>
+    <id>tag:github.com,2024-01-29:/yktoo/dkl_traned</id>
+    <link href="https://github.com/yktoo/dkl_traned" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DKLang Translation Editor&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

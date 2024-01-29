@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-28T01:39:33Z</updated>
+  <updated>2024-01-29T01:35:25Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>simply-logical/simply-logical</title>
-    <updated>2024-01-28T01:39:33Z</updated>
-    <id>tag:github.com,2024-01-28:/simply-logical/simply-logical</id>
-    <link href="https://github.com/simply-logical/simply-logical" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Online, interactive edition of the &#34;Simply Logical&#34; Prolog textbook&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>exercism/prolog</title>
+    <updated>2024-01-29T01:35:25Z</updated>
+    <id>tag:github.com,2024-01-29:/exercism/prolog</id>
+    <link href="https://github.com/exercism/prolog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercism exercises in Prolog.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

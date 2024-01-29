@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-28T01:44:44Z</updated>
+  <updated>2024-01-29T01:39:58Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>knva/PalWorld_server_config</title>
-    <updated>2024-01-28T01:44:44Z</updated>
-    <id>tag:github.com,2024-01-28:/knva/PalWorld_server_config</id>
-    <link href="https://github.com/knva/PalWorld_server_config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;帕鲁服务器配置生成工具&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>primefaces/primevue-examples</title>
-    <updated>2024-01-28T01:44:44Z</updated>
-    <id>tag:github.com,2024-01-28:/primefaces/primevue-examples</id>
-    <link href="https://github.com/primefaces/primevue-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PrimeVue Example Projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MohmmedAshraf/laravel-translations</title>
-    <updated>2024-01-28T01:44:44Z</updated>
-    <id>tag:github.com,2024-01-28:/MohmmedAshraf/laravel-translations</id>
-    <link href="https://github.com/MohmmedAshraf/laravel-translations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Laravel Translations UI package provides a user-friendly interface for managing translations in your Laravel application. It simplifies tasks such as adding, editing, deleting, and exporting translations. The package also includes a handy search feature and the ability to invite collaborators for easy translation management&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Justin3go/SearchSearchGo</title>
+    <updated>2024-01-29T01:39:58Z</updated>
+    <id>tag:github.com,2024-01-29:/Justin3go/SearchSearchGo</id>
+    <link href="https://github.com/Justin3go/SearchSearchGo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎，来体验找寻资源的快乐吧~&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub V Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-28T01:44:25Z</updated>
+  <updated>2024-01-29T01:39:37Z</updated>
   <subtitle>Daily Trending of V in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hungrybluedev/xlsx</title>
+    <updated>2024-01-29T01:39:37Z</updated>
+    <id>tag:github.com,2024-01-29:/hungrybluedev/xlsx</id>
+    <link href="https://github.com/hungrybluedev/xlsx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;V libarry to add support for Microsoft Excel files.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hungrybluedev/v_pml</title>
+    <updated>2024-01-29T01:39:37Z</updated>
+    <id>tag:github.com,2024-01-29:/hungrybluedev/v_pml</id>
+    <link href="https://github.com/hungrybluedev/v_pml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Implementation of the PML standard in the V Programming language.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

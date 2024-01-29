@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-28T01:32:12Z</updated>
+  <updated>2024-01-29T01:29:02Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cherriesandmochi/gdmaim</title>
-    <updated>2024-01-28T01:32:12Z</updated>
-    <id>tag:github.com,2024-01-28:/cherriesandmochi/gdmaim</id>
-    <link href="https://github.com/cherriesandmochi/gdmaim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GDMaim is a GDScript obfuscation plugin for the Godot Engine.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>codohundo/parasite</title>
-    <updated>2024-01-28T01:32:12Z</updated>
-    <id>tag:github.com,2024-01-28:/codohundo/parasite</id>
-    <link href="https://github.com/codohundo/parasite" rel="alternate"></link>
+    <title>kelteseth/CatsWithJobs</title>
+    <updated>2024-01-29T01:29:02Z</updated>
+    <id>tag:github.com,2024-01-29:/kelteseth/CatsWithJobs</id>
+    <link href="https://github.com/kelteseth/CatsWithJobs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>maryisdead/godot-2d-explosion</title>
-    <updated>2024-01-28T01:32:12Z</updated>
-    <id>tag:github.com,2024-01-28:/maryisdead/godot-2d-explosion</id>
-    <link href="https://github.com/maryisdead/godot-2d-explosion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yeah, no. Just an explosion. 💥&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FrancoisDuchene/fallducks</title>
+    <updated>2024-01-29T01:29:02Z</updated>
+    <id>tag:github.com,2024-01-29:/FrancoisDuchene/fallducks</id>
+    <link href="https://github.com/FrancoisDuchene/fallducks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OH non il est tombé :(&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-28T01:33:08Z</updated>
+  <updated>2024-01-29T01:29:53Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dareyio/terraform-aws-pipeline</title>
-    <updated>2024-01-28T01:33:08Z</updated>
-    <id>tag:github.com,2024-01-28:/dareyio/terraform-aws-pipeline</id>
-    <link href="https://github.com/dareyio/terraform-aws-pipeline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/terraform-azurerm-avm-res-storage-storageaccount</title>
+    <updated>2024-01-29T01:29:53Z</updated>
+    <id>tag:github.com,2024-01-29:/Azure/terraform-azurerm-avm-res-storage-storageaccount</id>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This Terraform module is designed to create Azure Storage Accounts and its related resources, including blob containers, queues, tables, and file shares. It also supports the creation of a storage account private endpoint which provides secure and direct connectivity to Azure Storage over a private network.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Venn1991/hashicorp-certified-terraform-associate</title>
-    <updated>2024-01-28T01:33:08Z</updated>
-    <id>tag:github.com,2024-01-28:/Venn1991/hashicorp-certified-terraform-associate</id>
-    <link href="https://github.com/Venn1991/hashicorp-certified-terraform-associate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gauri17-pro/terraform-jenkins-eks</title>
+    <updated>2024-01-29T01:29:53Z</updated>
+    <id>tag:github.com,2024-01-29:/gauri17-pro/terraform-jenkins-eks</id>
+    <link href="https://github.com/gauri17-pro/terraform-jenkins-eks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deploying EKS Cluster using Terraform and Jenkins&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HENNGE/terraform-aws-ecs</title>
+    <updated>2024-01-29T01:29:53Z</updated>
+    <id>tag:github.com,2024-01-29:/HENNGE/terraform-aws-ecs</id>
+    <link href="https://github.com/HENNGE/terraform-aws-ecs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates ECS (EC2 and Fargate) and related resources (autoscaling, cron fargate, etc.) on AWS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

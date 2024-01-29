@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-28T01:41:47Z</updated>
+  <updated>2024-01-29T01:37:15Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jusbrasil/dojo-scala</title>
+    <updated>2024-01-29T01:37:15Z</updated>
+    <id>tag:github.com,2024-01-29:/jusbrasil/dojo-scala</id>
+    <link href="https://github.com/jusbrasil/dojo-scala" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Coding Dojo in Scala (12/04/2013)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dojo-scala&lt;/h1&gt; &#xA;&lt;p&gt;Coding Dojo in Scala (12/04/2013)&lt;/p&gt; &#xA;&lt;h1&gt;Running tests:&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;bin/sbt test&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
+  </entry>
 </feed>

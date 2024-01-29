@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-28T01:26:28Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2024-01-29T01:23:21Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>burpheart/Palworld-Reverse-Note</title>
-    <updated>2024-01-28T01:26:28Z</updated>
-    <id>tag:github.com,2024-01-28:/burpheart/Palworld-Reverse-Note</id>
-    <link href="https://github.com/burpheart/Palworld-Reverse-Note" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Palworld SAVE Reverse Note / 幻兽帕鲁逆向笔记&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>passivestar/godot-minimal-theme</title>
-    <updated>2024-01-28T01:26:28Z</updated>
-    <id>tag:github.com,2024-01-28:/passivestar/godot-minimal-theme</id>
-    <link href="https://github.com/passivestar/godot-minimal-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot minimal editor theme&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mozilla/gecko-dev</title>
-    <updated>2024-01-28T01:26:28Z</updated>
-    <id>tag:github.com,2024-01-28:/mozilla/gecko-dev</id>
-    <link href="https://github.com/mozilla/gecko-dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cmsc330spring24/cmsc330spring24</title>
+    <updated>2024-01-29T01:23:21Z</updated>
+    <id>tag:github.com,2024-01-29:/cmsc330spring24/cmsc330spring24</id>
+    <link href="https://github.com/cmsc330spring24/cmsc330spring24" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

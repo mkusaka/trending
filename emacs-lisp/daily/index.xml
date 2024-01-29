@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-28T01:31:10Z</updated>
+  <updated>2024-01-29T01:28:12Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rainstormstudio/nerd-icons-completion</title>
-    <updated>2024-01-28T01:31:10Z</updated>
-    <id>tag:github.com,2024-01-28:/rainstormstudio/nerd-icons-completion</id>
-    <link href="https://github.com/rainstormstudio/nerd-icons-completion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#+TITLE: nerd-icons-completion - Use nerd-icons for completion #+AUTHOR: Hongyu Ding #+LANGUAGE: en&lt;/p&gt; &#xA;&lt;p&gt;[[https://melpa.org/#/nerd-icons-completion][file:https://melpa.org/packages/nerd-icons-completion-badge.svg]]&lt;/p&gt; &#xA;&lt;p&gt;nerd-icons-completion is inspired by [[https://github.com/iyefrat/all-the-icons-completion][all-the-icons-completion]].&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Screenshots ** default completion in terminal [[file:screenshots/demo1.png]] ** default completion in GUI [[file:screenshots/demo3.png]] ** vertico + marginalia in terminal [[file:screenshots/demo2.png]] ** vertico + marginalia in GUI [[file:screenshots/demo4.png]]&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Usage #+BEGIN_SRC emacs-lisp (require &#39;nerd-icons-completion) (nerd-icons-completion-mode) #+END_SRC or with &lt;del&gt;use-package&lt;/del&gt; #+BEGIN_SRC emacs-lisp (use-package nerd-icons-completion :config (nerd-icons-completion-mode)) #+END_SRC&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Setup&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;If you want to use it with [[https://github.com/minad/marginalia/][marginalia]], add the following to your init file&lt;/p&gt; &#xA;&lt;p&gt;#+BEGIN_SRC emacs-lisp (add-hook &#39;marginalia-mode-hook #&#39;nerd-icons-completion-marginalia-setup) #+END_SRC or, with &lt;del&gt;use-package&lt;/del&gt;: #+BEGIN_SRC emacs-lisp (use-package nerd-icons-completion :after marginalia :config (nerd-icons-completion-mode) (add-hook &#39;marginalia-mode-hook #&#39;nerd-icons-completion-marginalia-setup)) #+END_SRC&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>benkolera/Emacs</title>
-    <updated>2024-01-28T01:31:10Z</updated>
-    <id>tag:github.com,2024-01-28:/benkolera/Emacs</id>
-    <link href="https://github.com/benkolera/Emacs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emacs Confs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jordonbiondo/make-it</title>
+    <updated>2024-01-29T01:28:12Z</updated>
+    <id>tag:github.com,2024-01-29:/jordonbiondo/make-it</id>
+    <link href="https://github.com/jordonbiondo/make-it" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Better interactive make support in Emacs.&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;make-it.el better interactive make support&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

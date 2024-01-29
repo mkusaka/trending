@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-28T01:41:57Z</updated>
+  <updated>2024-01-29T01:37:24Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CodeStitchOfficial/Advanced-Website-Kit</title>
-    <updated>2024-01-28T01:41:57Z</updated>
-    <id>tag:github.com,2024-01-28:/CodeStitchOfficial/Advanced-Website-Kit</id>
-    <link href="https://github.com/CodeStitchOfficial/Advanced-Website-Kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ivelasq/reports-with-quarto-exercises</title>
-    <updated>2024-01-28T01:41:57Z</updated>
-    <id>tag:github.com,2024-01-28:/ivelasq/reports-with-quarto-exercises</id>
-    <link href="https://github.com/ivelasq/reports-with-quarto-exercises" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercises for getting started with report writing using Quarto.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>trys/utopia-core-scss</title>
-    <updated>2024-01-28T01:41:57Z</updated>
-    <id>tag:github.com,2024-01-28:/trys/utopia-core-scss</id>
-    <link href="https://github.com/trys/utopia-core-scss" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The calculations behind Utopia.fyi. Written in SCSS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>poloclub/supernova</title>
+    <updated>2024-01-29T01:37:24Z</updated>
+    <id>tag:github.com,2024-01-29:/poloclub/supernova</id>
+    <link href="https://github.com/poloclub/supernova" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Explore 160+ notebook visual analytics tools in your browser!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
