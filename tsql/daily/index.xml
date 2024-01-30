@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-29T01:39:15Z</updated>
+  <updated>2024-01-30T01:40:09Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>prisma/database-schema-examples</title>
-    <updated>2024-01-29T01:39:15Z</updated>
-    <id>tag:github.com,2024-01-29:/prisma/database-schema-examples</id>
-    <link href="https://github.com/prisma/database-schema-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Database Schema Examples we strive to support in Prisma&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

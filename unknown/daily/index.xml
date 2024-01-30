@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-29T01:23:21Z</updated>
+  <updated>2024-01-30T01:22:29Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cmsc330spring24/cmsc330spring24</title>
-    <updated>2024-01-29T01:23:21Z</updated>
-    <id>tag:github.com,2024-01-29:/cmsc330spring24/cmsc330spring24</id>
-    <link href="https://github.com/cmsc330spring24/cmsc330spring24" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Coder-World04/Complete-Data-Analytics-with-Projects</title>
+    <updated>2024-01-30T01:22:29Z</updated>
+    <id>tag:github.com,2024-01-30:/Coder-World04/Complete-Data-Analytics-with-Projects</id>
+    <link href="https://github.com/Coder-World04/Complete-Data-Analytics-with-Projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains everything you need to become proficient in Data Analytics&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BrodyYoung/awesome-admin</title>
+    <updated>2024-01-30T01:22:29Z</updated>
+    <id>tag:github.com,2024-01-30:/BrodyYoung/awesome-admin</id>
+    <link href="https://github.com/BrodyYoung/awesome-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Awesome Admin Template. 优秀的后台管理框架&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ssantosv/WSL-Handbook</title>
+    <updated>2024-01-30T01:22:29Z</updated>
+    <id>tag:github.com,2024-01-30:/ssantosv/WSL-Handbook</id>
+    <link href="https://github.com/ssantosv/WSL-Handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Guía definitiva para Windows Subsystem for Linux&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

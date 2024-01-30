@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-29T01:26:31Z</updated>
+  <updated>2024-01-30T01:25:02Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>40ants/tree-shaker</title>
-    <updated>2024-01-29T01:26:31Z</updated>
-    <id>tag:github.com,2024-01-29:/40ants/tree-shaker</id>
-    <link href="https://github.com/40ants/tree-shaker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tree shaker for SBCL&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Experimental SBCL treeshaker&lt;/h1&gt; &#xA;&lt;p&gt;Run &lt;code&gt;./build.sh&lt;/code&gt; to produce results like that:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;15M Jan 10 15:58 not-shaked-fat&#xA;65M Jan 10 15:58 not-shaked-not-compressed-fat&#xA;41M Jan 10 15:58 not-shaked-not-compressed-slim&#xA;10M Jan 10 15:58 not-shaked-slim&#xA;12M Jan 10 15:58 shaked-fat&#xA;50M Jan 10 15:58 shaked-not-compressed-fat&#xA;35M Jan 10 15:58 shaked-not-compressed-slim&#xA; 9M Jan 10 15:58 shaked-slim&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Where you see &lt;code&gt;shaked&lt;/code&gt; in the name - a tree shaker was applied.&lt;/p&gt; &#xA;&lt;p&gt;If there is &lt;code&gt;fat&lt;/code&gt; in the name - these libraries were loaded from the Quicklisp (but not used):&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;serapeum&lt;/li&gt; &#xA; &lt;li&gt;alexandria&lt;/li&gt; &#xA; &lt;li&gt;dexador&lt;/li&gt; &#xA; &lt;li&gt;yason&lt;/li&gt; &#xA; &lt;li&gt;clack&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Results&lt;/h2&gt; &#xA;&lt;p&gt;Tree shaker is able to reduce size of the fat app from 65M to 50M in uncompressed state and from 15M to 12M when compression is &lt;code&gt;on&lt;/code&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

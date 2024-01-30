@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-29T01:37:28Z</updated>
+  <updated>2024-01-30T01:38:13Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Chefty/GGJ-2024</title>
-    <updated>2024-01-29T01:37:28Z</updated>
-    <id>tag:github.com,2024-01-29:/Chefty/GGJ-2024</id>
-    <link href="https://github.com/Chefty/GGJ-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Global Game Jam 2024 &#34;Make Me Laugh&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BryanTai/GGJ2024</title>
+    <updated>2024-01-30T01:38:13Z</updated>
+    <id>tag:github.com,2024-01-30:/BryanTai/GGJ2024</id>
+    <link href="https://github.com/BryanTai/GGJ2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rocket Jumping Rabbit&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Michael115/ggj2024</title>
+    <updated>2024-01-30T01:38:13Z</updated>
+    <id>tag:github.com,2024-01-30:/Michael115/ggj2024</id>
+    <link href="https://github.com/Michael115/ggj2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>moodygamer77/GGJ24_Lance_Flatu_Public</title>
+    <updated>2024-01-30T01:38:13Z</updated>
+    <id>tag:github.com,2024-01-30:/moodygamer77/GGJ24_Lance_Flatu_Public</id>
+    <link href="https://github.com/moodygamer77/GGJ24_Lance_Flatu_Public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

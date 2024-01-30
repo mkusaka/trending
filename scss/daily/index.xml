@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-29T01:37:24Z</updated>
+  <updated>2024-01-30T01:38:10Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>poloclub/supernova</title>
-    <updated>2024-01-29T01:37:24Z</updated>
-    <id>tag:github.com,2024-01-29:/poloclub/supernova</id>
-    <link href="https://github.com/poloclub/supernova" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Explore 160+ notebook visual analytics tools in your browser!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

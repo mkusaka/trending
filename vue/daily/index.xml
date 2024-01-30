@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-29T01:39:58Z</updated>
+  <updated>2024-01-30T01:40:52Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Justin3go/SearchSearchGo</title>
-    <updated>2024-01-29T01:39:58Z</updated>
-    <id>tag:github.com,2024-01-29:/Justin3go/SearchSearchGo</id>
-    <link href="https://github.com/Justin3go/SearchSearchGo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎，来体验找寻资源的快乐吧~&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>YangMr/usianOA</title>
+    <updated>2024-01-30T01:40:52Z</updated>
+    <id>tag:github.com,2024-01-30:/YangMr/usianOA</id>
+    <link href="https://github.com/YangMr/usianOA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OA项目&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

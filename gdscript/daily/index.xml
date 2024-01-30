@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-29T01:29:02Z</updated>
+  <updated>2024-01-30T01:28:09Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kelteseth/CatsWithJobs</title>
-    <updated>2024-01-29T01:29:02Z</updated>
-    <id>tag:github.com,2024-01-29:/kelteseth/CatsWithJobs</id>
-    <link href="https://github.com/kelteseth/CatsWithJobs" rel="alternate"></link>
+    <title>Mapachana/GlobalGameJam2024</title>
+    <updated>2024-01-30T01:28:09Z</updated>
+    <id>tag:github.com,2024-01-30:/Mapachana/GlobalGameJam2024</id>
+    <link href="https://github.com/Mapachana/GlobalGameJam2024" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FrancoisDuchene/fallducks</title>
-    <updated>2024-01-29T01:29:02Z</updated>
-    <id>tag:github.com,2024-01-29:/FrancoisDuchene/fallducks</id>
-    <link href="https://github.com/FrancoisDuchene/fallducks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OH non il est tombé :(&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>turkey-ball/turkey-ball</title>
+    <updated>2024-01-30T01:28:09Z</updated>
+    <id>tag:github.com,2024-01-30:/turkey-ball/turkey-ball</id>
+    <link href="https://github.com/turkey-ball/turkey-ball" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A game where you play football with turkeys&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>a-mazeing-laughter/a-mazeing-laughter</title>
+    <updated>2024-01-30T01:28:09Z</updated>
+    <id>tag:github.com,2024-01-30:/a-mazeing-laughter/a-mazeing-laughter</id>
+    <link href="https://github.com/a-mazeing-laughter/a-mazeing-laughter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a mazeing laughter&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

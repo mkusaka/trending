@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-29T01:29:41Z</updated>
+  <updated>2024-01-30T01:28:57Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>micronaut-projects/micronaut-cassandra</title>
-    <updated>2024-01-29T01:29:41Z</updated>
-    <id>tag:github.com,2024-01-29:/micronaut-projects/micronaut-cassandra</id>
-    <link href="https://github.com/micronaut-projects/micronaut-cassandra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Integration with the DataStax Cassandra Driver for Micronaut&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aestasit/gramazon</title>
-    <updated>2024-01-29T01:29:41Z</updated>
-    <id>tag:github.com,2024-01-29:/aestasit/gramazon</id>
-    <link href="https://github.com/aestasit/gramazon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Groovy library and Gradle plugin for working with Amazon EC2 instances.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
