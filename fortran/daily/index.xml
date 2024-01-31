@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-30T01:27:49Z</updated>
+  <updated>2024-01-31T01:28:45Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>comse6998/spring2024</title>
-    <updated>2024-01-30T01:27:49Z</updated>
-    <id>tag:github.com,2024-01-30:/comse6998/spring2024</id>
-    <link href="https://github.com/comse6998/spring2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for COMSE6998 in the Spring 2024 term&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ROCm/hipfort</title>
+    <updated>2024-01-31T01:28:45Z</updated>
+    <id>tag:github.com,2024-01-31:/ROCm/hipfort</id>
+    <link href="https://github.com/ROCm/hipfort" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fortran interfaces for ROCm libraries&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

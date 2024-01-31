@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-30T01:39:27Z</updated>
+  <updated>2024-01-31T01:38:44Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>saagarjha/Ensemble</title>
+    <updated>2024-01-31T01:38:44Z</updated>
+    <id>tag:github.com,2024-01-31:/saagarjha/Ensemble</id>
+    <link href="https://github.com/saagarjha/Ensemble" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cast Mac windows to visionOS&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &lt;img height=&#34;256&#34; src=&#34;https://github.com/saagarjha/Ensemble/raw/main/macOS/Assets.xcassets/AppIcon.appiconset/icon_512x512%402x.png&#34;&gt; &lt;/p&gt; &#xA;&lt;h1 align=&#34;center&#34;&gt;Ensemble&lt;/h1&gt; &#xA;&lt;p&gt;Ensemble (formerly MacCast, before the lawyers had something to say about it) bridges windows from your Mac directly into visionOS, letting you move, resize, and interact with them just like you would with any other native app. It&#39;s wireless, like Mac Virtual Display, but without the limitations of resolution or working in a flat plane.&lt;/p&gt; &#xA;&lt;h2&gt;Status&lt;/h2&gt; &#xA;&lt;p&gt;Ensemble is currently &#34;pre-alpha&#34;: it&#39;s really more of a demo at this point. There&#39;s a lot of things I need to work on and until then it is unlikely I will be taking any code contributions. You are welcome to try it out (especially if you have a Vision Pro, as I do not) and file issues or suggestions but you should probably reach out if you are looking for anything beyond that. The code is definitely not designed for general-purpose use yet, so don&#39;t expect much of it :)&lt;/p&gt;</summary>
+  </entry>
 </feed>

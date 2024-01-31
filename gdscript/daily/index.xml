@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-30T01:28:09Z</updated>
+  <updated>2024-01-31T01:29:03Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Mapachana/GlobalGameJam2024</title>
-    <updated>2024-01-30T01:28:09Z</updated>
-    <id>tag:github.com,2024-01-30:/Mapachana/GlobalGameJam2024</id>
-    <link href="https://github.com/Mapachana/GlobalGameJam2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ShomyKohai/quest-system</title>
+    <updated>2024-01-31T01:29:03Z</updated>
+    <id>tag:github.com,2024-01-31:/ShomyKohai/quest-system</id>
+    <link href="https://github.com/ShomyKohai/quest-system" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📜 A simple quest system for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>turkey-ball/turkey-ball</title>
-    <updated>2024-01-30T01:28:09Z</updated>
-    <id>tag:github.com,2024-01-30:/turkey-ball/turkey-ball</id>
-    <link href="https://github.com/turkey-ball/turkey-ball" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A game where you play football with turkeys&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>guladam/deck_builder_tutorial</title>
+    <updated>2024-01-31T01:29:03Z</updated>
+    <id>tag:github.com,2024-01-31:/guladam/deck_builder_tutorial</id>
+    <link href="https://github.com/guladam/deck_builder_tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A roguelike deckbuilder tutorial project made in Godot 4.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>a-mazeing-laughter/a-mazeing-laughter</title>
-    <updated>2024-01-30T01:28:09Z</updated>
-    <id>tag:github.com,2024-01-30:/a-mazeing-laughter/a-mazeing-laughter</id>
-    <link href="https://github.com/a-mazeing-laughter/a-mazeing-laughter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a mazeing laughter&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elainajones-upstreams/2024-pigs-ggj</title>
+    <updated>2024-01-31T01:29:03Z</updated>
+    <id>tag:github.com,2024-01-31:/elainajones-upstreams/2024-pigs-ggj</id>
+    <link href="https://github.com/elainajones-upstreams/2024-pigs-ggj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2024 Portland Indie Game Squad Global Game Jam&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

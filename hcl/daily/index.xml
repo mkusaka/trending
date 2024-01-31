@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-30T01:29:09Z</updated>
+  <updated>2024-01-31T01:30:01Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kidpollo/fullstack-kitchen-sink-2024</title>
-    <updated>2024-01-30T01:29:09Z</updated>
-    <id>tag:github.com,2024-01-30:/kidpollo/fullstack-kitchen-sink-2024</id>
-    <link href="https://github.com/kidpollo/fullstack-kitchen-sink-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reference full-stack React Native + Serverless + Terraform architecture.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JJGuilloryGit/github-codepipeline</title>
-    <updated>2024-01-30T01:29:09Z</updated>
-    <id>tag:github.com,2024-01-30:/JJGuilloryGit/github-codepipeline</id>
-    <link href="https://github.com/JJGuilloryGit/github-codepipeline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>weka/terraform-aws-weka</title>
-    <updated>2024-01-30T01:29:09Z</updated>
-    <id>tag:github.com,2024-01-30:/weka/terraform-aws-weka</id>
-    <link href="https://github.com/weka/terraform-aws-weka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deploy weka on aws cloud with TF script&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

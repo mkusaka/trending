@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-30T01:22:29Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2024-01-31T01:23:26Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Coder-World04/Complete-Data-Analytics-with-Projects</title>
-    <updated>2024-01-30T01:22:29Z</updated>
-    <id>tag:github.com,2024-01-30:/Coder-World04/Complete-Data-Analytics-with-Projects</id>
-    <link href="https://github.com/Coder-World04/Complete-Data-Analytics-with-Projects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains everything you need to become proficient in Data Analytics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xlucn/oh-my-foss-android</title>
+    <updated>2024-01-31T01:23:26Z</updated>
+    <id>tag:github.com,2024-01-31:/xlucn/oh-my-foss-android</id>
+    <link href="https://github.com/xlucn/oh-my-foss-android" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;个人收集的实用、良心开源安卓软件&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>BrodyYoung/awesome-admin</title>
-    <updated>2024-01-30T01:22:29Z</updated>
-    <id>tag:github.com,2024-01-30:/BrodyYoung/awesome-admin</id>
-    <link href="https://github.com/BrodyYoung/awesome-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome Admin Template. 优秀的后台管理框架&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yuankong666/Ultimate-RAT-Collection</title>
+    <updated>2024-01-31T01:23:26Z</updated>
+    <id>tag:github.com,2024-01-31:/yuankong666/Ultimate-RAT-Collection</id>
+    <link href="https://github.com/yuankong666/Ultimate-RAT-Collection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;For educational purposes only, samples of old &amp; new malware builders including screenshots!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ssantosv/WSL-Handbook</title>
-    <updated>2024-01-30T01:22:29Z</updated>
-    <id>tag:github.com,2024-01-30:/ssantosv/WSL-Handbook</id>
-    <link href="https://github.com/ssantosv/WSL-Handbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Guía definitiva para Windows Subsystem for Linux&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HowProgrammingWorks/SelfAssessment</title>
+    <updated>2024-01-31T01:23:26Z</updated>
+    <id>tag:github.com,2024-01-31:/HowProgrammingWorks/SelfAssessment</id>
+    <link href="https://github.com/HowProgrammingWorks/SelfAssessment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Software engineering self assessment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-30T01:37:25Z</updated>
+  <updated>2024-01-31T01:37:03Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Tanner/Time-Machine</title>
-    <updated>2024-01-30T01:37:25Z</updated>
-    <id>tag:github.com,2024-01-30:/Tanner/Time-Machine</id>
-    <link href="https://github.com/Tanner/Time-Machine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Time Machine is a neat way to visualize the development of a web projected tracked with git.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Time Machine&lt;/h1&gt; &#xA;&lt;p&gt;Time Machine is a neat way to visualize the development of a web projected tracked with git.&lt;/p&gt; &#xA;&lt;p&gt;Requires &lt;a href=&#34;http://phantomjs.org/&#34;&gt;phantomJS&lt;/a&gt; and ruby.&lt;/p&gt; &#xA;&lt;h2&gt;Arguments&lt;/h2&gt; &#xA;&lt;p&gt;All of the arguments are required.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ ruby time_machine.rb --help&#xA;Options:&#xA;       --dir, -d &amp;lt;s&amp;gt;:   Git Directory&#xA;      --file, -f &amp;lt;s&amp;gt;:   File&#xA;  --save-dir, -s &amp;lt;s&amp;gt;:   Directory where to save images&#xA;          --help, -h:   Show this message&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Example Execution&lt;/h2&gt; &#xA;&lt;p&gt;If the project git directory is at &lt;code&gt;~/Development/Kitty&lt;/code&gt; and the file you&#39;re interested in is &lt;code&gt;index.html&lt;/code&gt; (in the root dir of the project directory), then the command will be:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;ruby time_machine.rb --dir ~/Development/Kitty --file index.html --save-dir ~/Desktop/Pictures/&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Pictures will be saved at &lt;code&gt;~/Desktop/Pictures/&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Making a Video&lt;/h2&gt; &#xA;&lt;p&gt;Time Machine does not yet support making a video, but to do so just use ffmpeg to do so.&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;ffmpeg -f image2 -i %d.png -r 25 -sameq video.mpg&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Examples&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=BoCCXVjXRAI&#34;&gt;CS 2050 Project - Video&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

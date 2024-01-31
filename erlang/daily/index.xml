@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-30T01:27:29Z</updated>
+  <updated>2024-01-31T01:28:26Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bragful/ephp</title>
-    <updated>2024-01-30T01:27:29Z</updated>
-    <id>tag:github.com,2024-01-30:/bragful/ephp</id>
-    <link href="https://github.com/bragful/ephp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bragful core: PHP Interpreter in pure Erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>materials-commons/mcs</title>
-    <updated>2024-01-30T01:27:29Z</updated>
-    <id>tag:github.com,2024-01-30:/materials-commons/mcs</id>
-    <link href="https://github.com/materials-commons/mcs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Materials Commons File Transfer Service&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rvirding/luerl</title>
-    <updated>2024-01-30T01:27:29Z</updated>
-    <id>tag:github.com,2024-01-30:/rvirding/luerl</id>
-    <link href="https://github.com/rvirding/luerl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lua in Erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

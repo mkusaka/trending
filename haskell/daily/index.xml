@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-30T01:29:10Z</updated>
+  <updated>2024-01-31T01:30:02Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ixmatus/grob</title>
-    <updated>2024-01-30T01:29:10Z</updated>
-    <id>tag:github.com,2024-01-30:/ixmatus/grob</id>
-    <link href="https://github.com/ixmatus/grob" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;grob is a robots.txt fetcher, cacher, parser, and rule checker.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;grob - robots grep&lt;/h1&gt; &#xA;&lt;p&gt;A library for parsing and rule checking a robots.txt file. It will follow 30x redirects and also honors the cache headers and 304 responses (if caching is used).&lt;/p&gt; &#xA;&lt;h2&gt;Caching&lt;/h2&gt; &#xA;&lt;p&gt;There are other backends planned, but the first one is a basic filesystem cache that uses the wonderful AcidState library to persist the Haskell data structures to disk - this makes quick loading/flushing native since we are persisting the parse tree (AttoParsec).&lt;/p&gt; &#xA;&lt;h1&gt;Directive Parsing Limitations&lt;/h1&gt; &#xA;&lt;p&gt;Grob only (for now) parses the &#34;Disallow&#34; directive and the &#34;Allow&#34; directive. At some point there will be support for the &#34;*&#34; and &#34;$&#34; directive controls.&lt;/p&gt;</summary>
+    <title>GaloisInc/LoCo</title>
+    <updated>2024-01-31T01:30:02Z</updated>
+    <id>tag:github.com,2024-01-31:/GaloisInc/LoCo</id>
+    <link href="https://github.com/GaloisInc/LoCo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LoCo : Location Constraints, Optimal, Pear : DSLs for optimal parsing&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LoCo&lt;/h1&gt; &#xA;&lt;p&gt;LoCo, originally short for Location Constraints, now represents a collection of tooling for designing and reasoning about parsing, formats, and computation in general.&lt;/p&gt; &#xA;&lt;p&gt;The most modern tooling here is:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/GaloisInc/LoCo/master/optimal&#34;&gt;&lt;code&gt;optimal&lt;/code&gt;&lt;/a&gt;: tooling for on-demand, cached DAGs of computation&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/GaloisInc/LoCo/master/pear&#34;&gt;&lt;code&gt;pear&lt;/code&gt;&lt;/a&gt;: tooling for defining parsers based on document &#34;regions&#34;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Older work can be found in:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/GaloisInc/LoCo/master/locc&#34;&gt;&lt;code&gt;locc&lt;/code&gt;&lt;/a&gt;: early efforts towards static format/parser reasoning&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Acknowledgements&lt;/h1&gt; &#xA;&lt;p&gt;This material is based upon work supported by the Defense Advanced Research Projects Agency (DARPA) under Contract No. HR001119C0076.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>donatello/TicTacToe</title>
+    <updated>2024-01-31T01:30:02Z</updated>
+    <id>tag:github.com,2024-01-31:/donatello/TicTacToe</id>
+    <link href="https://github.com/donatello/TicTacToe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple TicTacToe program to learn Haskell&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This toy program is just to learn Haskell. It pits an AI TicTacToe player against the user.&lt;/p&gt; &#xA;&lt;p&gt;The program requires the Haskell NCurses binding to be installed.&lt;/p&gt; &#xA;&lt;p&gt;To run the program just execute (assuming all dependencies are installed):&lt;/p&gt; &#xA;&lt;p&gt;$ ghc --make TicTacToe.hs $ ./TicTacToe&lt;/p&gt;</summary>
   </entry>
 </feed>
