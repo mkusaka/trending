@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-31T01:24:41Z</updated>
+  <updated>2024-02-01T01:26:13Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pamelafox/flask-surveys-container-app</title>
-    <updated>2024-01-31T01:24:41Z</updated>
-    <id>tag:github.com,2024-01-31:/pamelafox/flask-surveys-container-app</id>
-    <link href="https://github.com/pamelafox/flask-surveys-container-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An example Flask app for public surveys (no user auth) designed to be run inside Docker and deployed to Azure Container Apps with the Azure Developer CLI.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure-Samples/azure-devops-copilot-extension</title>
+    <updated>2024-02-01T01:26:13Z</updated>
+    <id>tag:github.com,2024-02-01:/Azure-Samples/azure-devops-copilot-extension</id>
+    <link href="https://github.com/Azure-Samples/azure-devops-copilot-extension" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Azure DevOps Copilot Extension Sample&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

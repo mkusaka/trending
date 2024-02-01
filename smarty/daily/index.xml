@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-31T01:38:06Z</updated>
+  <updated>2024-02-01T01:38:44Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>googleanalytics/gtm-consent-mode-examples</title>
-    <updated>2024-01-31T01:38:06Z</updated>
-    <id>tag:github.com,2024-01-31:/googleanalytics/gtm-consent-mode-examples</id>
-    <link href="https://github.com/googleanalytics/gtm-consent-mode-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Google Tag Manager Consent Mode Examples&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Sunbird-AIAssistant/djp-devops</title>
+    <updated>2024-02-01T01:38:44Z</updated>
+    <id>tag:github.com,2024-02-01:/Sunbird-AIAssistant/djp-devops</id>
+    <link href="https://github.com/Sunbird-AIAssistant/djp-devops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

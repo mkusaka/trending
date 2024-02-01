@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-31T01:38:11Z</updated>
+  <updated>2024-02-01T01:38:49Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Vectorized/soledge</title>
-    <updated>2024-01-31T01:38:11Z</updated>
-    <id>tag:github.com,2024-01-31:/Vectorized/soledge</id>
-    <link href="https://github.com/Vectorized/soledge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solidity snippets too edgy to be in Solady&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>axiom-crypto/axiom-quickstart</title>
+    <updated>2024-02-01T01:38:49Z</updated>
+    <id>tag:github.com,2024-02-01:/axiom-crypto/axiom-quickstart</id>
+    <link href="https://github.com/axiom-crypto/axiom-quickstart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Axiom Quickstart repository to help you quickly get something built with Axiom.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pavlovdog/farcaster-solidity</title>
-    <updated>2024-01-31T01:38:11Z</updated>
-    <id>tag:github.com,2024-01-31:/pavlovdog/farcaster-solidity</id>
-    <link href="https://github.com/pavlovdog/farcaster-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of Solidity libraries for interacting with the Farcaster messages on-chain&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>velirand805crw/Frontrunning</title>
+    <updated>2024-02-01T01:38:49Z</updated>
+    <id>tag:github.com,2024-02-01:/velirand805crw/Frontrunning</id>
+    <link href="https://github.com/velirand805crw/Frontrunning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

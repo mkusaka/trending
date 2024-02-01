@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-31T01:40:05Z</updated>
+  <updated>2024-02-01T01:40:23Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>os-fpga/device_modeling</title>
+    <updated>2024-02-01T01:40:23Z</updated>
+    <id>tag:github.com,2024-02-01:/os-fpga/device_modeling</id>
+    <link href="https://github.com/os-fpga/device_modeling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jamieiles/uart</title>
+    <updated>2024-02-01T01:40:23Z</updated>
+    <id>tag:github.com,2024-02-01:/jamieiles/uart</id>
+    <link href="https://github.com/jamieiles/uart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verilog UART&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

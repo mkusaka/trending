@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-31T01:28:45Z</updated>
+  <updated>2024-02-01T01:29:28Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ROCm/hipfort</title>
-    <updated>2024-01-31T01:28:45Z</updated>
-    <id>tag:github.com,2024-01-31:/ROCm/hipfort</id>
-    <link href="https://github.com/ROCm/hipfort" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fortran interfaces for ROCm libraries&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>UK-MAC/CloverLeaf_Serial</title>
+    <updated>2024-02-01T01:29:28Z</updated>
+    <id>tag:github.com,2024-02-01:/UK-MAC/CloverLeaf_Serial</id>
+    <link href="https://github.com/UK-MAC/CloverLeaf_Serial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A serial (no-MPI) version of CloverLeaf&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

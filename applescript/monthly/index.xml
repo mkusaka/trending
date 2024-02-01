@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub AppleScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-01T01:57:54Z</updated>
+  <subtitle>Monthly Trending of AppleScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>webkenny/alfred</title>
+    <updated>2024-02-01T01:57:54Z</updated>
+    <id>tag:github.com,2024-02-01:/webkenny/alfred</id>
+    <link href="https://github.com/webkenny/alfred" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of my favorite scripts for Alfred&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Alfred 2.0 Workflows by @webkenny&lt;/h1&gt; &#xA;&lt;p&gt;A collection of workflows for Alfred 2.0&lt;/p&gt; &#xA;&lt;h2&gt;Shortcat Alfred Launcher 0.01&lt;/h2&gt; &#xA;&lt;p&gt;This simple workflow launches Shortcat (with the &#34;ui&#34; keyword) and runs it with the Alfred query. It&#39;s a simple bridge between Shortcat and Alfred.&lt;/p&gt; &#xA;&lt;p&gt;Since SC is not scriptable (Yet!) this is merely a keypress simulation.&lt;/p&gt; &#xA;&lt;p&gt;WARNING: This workflow assumes you are using {CMD-SHIFT-SPACE} (the default) as your Shortcat trigger. If not, you may have to modify the AppleScript included in the workflow for your needs.&lt;/p&gt;</summary>
+  </entry>
+</feed>

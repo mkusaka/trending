@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-31T01:37:31Z</updated>
+  <updated>2024-02-01T01:38:14Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>deriv-com/ui</title>
-    <updated>2024-01-31T01:37:31Z</updated>
-    <id>tag:github.com,2024-01-31:/deriv-com/ui</id>
-    <link href="https://github.com/deriv-com/ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>luciano-work/angular-tailwind</title>
+    <updated>2024-02-01T01:38:14Z</updated>
+    <id>tag:github.com,2024-02-01:/luciano-work/angular-tailwind</id>
+    <link href="https://github.com/luciano-work/angular-tailwind" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Angular &amp; Tailwind CSS Admin Dashboard Starter Kit, Free and Open Source&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

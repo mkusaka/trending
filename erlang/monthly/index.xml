@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-01T02:01:10Z</updated>
+  <subtitle>Monthly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>camshaft/syslog-message-keyvalue</title>
+    <updated>2024-02-01T02:01:10Z</updated>
+    <id>tag:github.com,2024-02-01:/camshaft/syslog-message-keyvalue</id>
+    <link href="https://github.com/camshaft/syslog-message-keyvalue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parse &#39;key=value&#39; style syslogs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>proper-testing/proper</title>
+    <updated>2024-02-01T02:01:10Z</updated>
+    <id>tag:github.com,2024-02-01:/proper-testing/proper</id>
+    <link href="https://github.com/proper-testing/proper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PropEr: a QuickCheck-inspired property-based testing tool for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kivra/raven-erlang</title>
+    <updated>2024-02-01T02:01:10Z</updated>
+    <id>tag:github.com,2024-02-01:/kivra/raven-erlang</id>
+    <link href="https://github.com/kivra/raven-erlang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

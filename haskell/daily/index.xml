@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-31T01:30:02Z</updated>
+  <updated>2024-02-01T01:30:54Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GaloisInc/LoCo</title>
-    <updated>2024-01-31T01:30:02Z</updated>
-    <id>tag:github.com,2024-01-31:/GaloisInc/LoCo</id>
-    <link href="https://github.com/GaloisInc/LoCo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LoCo : Location Constraints, Optimal, Pear : DSLs for optimal parsing&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LoCo&lt;/h1&gt; &#xA;&lt;p&gt;LoCo, originally short for Location Constraints, now represents a collection of tooling for designing and reasoning about parsing, formats, and computation in general.&lt;/p&gt; &#xA;&lt;p&gt;The most modern tooling here is:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/GaloisInc/LoCo/master/optimal&#34;&gt;&lt;code&gt;optimal&lt;/code&gt;&lt;/a&gt;: tooling for on-demand, cached DAGs of computation&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/GaloisInc/LoCo/master/pear&#34;&gt;&lt;code&gt;pear&lt;/code&gt;&lt;/a&gt;: tooling for defining parsers based on document &#34;regions&#34;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Older work can be found in:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/GaloisInc/LoCo/master/locc&#34;&gt;&lt;code&gt;locc&lt;/code&gt;&lt;/a&gt;: early efforts towards static format/parser reasoning&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Acknowledgements&lt;/h1&gt; &#xA;&lt;p&gt;This material is based upon work supported by the Defense Advanced Research Projects Agency (DARPA) under Contract No. HR001119C0076.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>donatello/TicTacToe</title>
-    <updated>2024-01-31T01:30:02Z</updated>
-    <id>tag:github.com,2024-01-31:/donatello/TicTacToe</id>
-    <link href="https://github.com/donatello/TicTacToe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple TicTacToe program to learn Haskell&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This toy program is just to learn Haskell. It pits an AI TicTacToe player against the user.&lt;/p&gt; &#xA;&lt;p&gt;The program requires the Haskell NCurses binding to be installed.&lt;/p&gt; &#xA;&lt;p&gt;To run the program just execute (assuming all dependencies are installed):&lt;/p&gt; &#xA;&lt;p&gt;$ ghc --make TicTacToe.hs $ ./TicTacToe&lt;/p&gt;</summary>
-  </entry>
 </feed>

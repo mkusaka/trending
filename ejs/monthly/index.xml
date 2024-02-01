@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub EJS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-01T02:00:55Z</updated>
+  <subtitle>Monthly Trending of EJS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>danstepanov/create-expo-stack</title>
+    <updated>2024-02-01T02:00:55Z</updated>
+    <id>tag:github.com,2024-02-01:/danstepanov/create-expo-stack</id>
+    <link href="https://github.com/danstepanov/create-expo-stack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>asynchronousJavascriptor/instaclone</title>
+    <updated>2024-02-01T02:00:55Z</updated>
+    <id>tag:github.com,2024-02-01:/asynchronousJavascriptor/instaclone</id>
+    <link href="https://github.com/asynchronousJavascriptor/instaclone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Aryainguz/Euphoria-Check-PERMA-Meter-Express</title>
+    <updated>2024-02-01T02:00:55Z</updated>
+    <id>tag:github.com,2024-02-01:/Aryainguz/Euphoria-Check-PERMA-Meter-Express</id>
+    <link href="https://github.com/Aryainguz/Euphoria-Check-PERMA-Meter-Express" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌟 EuphoriaCheck - A Modern PERMA Meter. This web application, built using Express and Node.js, measures your happiness and life satisfaction based on the PERMA model of well-being by psychologist Dr Martin Seligman.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

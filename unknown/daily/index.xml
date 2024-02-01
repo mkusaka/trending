@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-31T01:23:26Z</updated>
+  <updated>2024-02-01T01:25:08Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xlucn/oh-my-foss-android</title>
-    <updated>2024-01-31T01:23:26Z</updated>
-    <id>tag:github.com,2024-01-31:/xlucn/oh-my-foss-android</id>
-    <link href="https://github.com/xlucn/oh-my-foss-android" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;个人收集的实用、良心开源安卓软件&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>redskycyber/Cloud-Security</title>
+    <updated>2024-02-01T01:25:08Z</updated>
+    <id>tag:github.com,2024-02-01:/redskycyber/Cloud-Security</id>
+    <link href="https://github.com/redskycyber/Cloud-Security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This Repo serves as a collection of shared security and penetration testing resources for the cloud.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yuankong666/Ultimate-RAT-Collection</title>
-    <updated>2024-01-31T01:23:26Z</updated>
-    <id>tag:github.com,2024-01-31:/yuankong666/Ultimate-RAT-Collection</id>
-    <link href="https://github.com/yuankong666/Ultimate-RAT-Collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;For educational purposes only, samples of old &amp; new malware builders including screenshots!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Elfiinaa/ConfigFiles</title>
+    <updated>2024-02-01T01:25:08Z</updated>
+    <id>tag:github.com,2024-02-01:/Elfiinaa/ConfigFiles</id>
+    <link href="https://github.com/Elfiinaa/ConfigFiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>HowProgrammingWorks/SelfAssessment</title>
-    <updated>2024-01-31T01:23:26Z</updated>
-    <id>tag:github.com,2024-01-31:/HowProgrammingWorks/SelfAssessment</id>
-    <link href="https://github.com/HowProgrammingWorks/SelfAssessment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Software engineering self assessment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VB10/staj_2024</title>
+    <updated>2024-02-01T01:25:08Z</updated>
+    <id>tag:github.com,2024-02-01:/VB10/staj_2024</id>
+    <link href="https://github.com/VB10/staj_2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yazılım alanında staj arayan gençlerin tek bir ses olup doğru alanda staj bulduğu repo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

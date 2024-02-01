@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Prolog Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-01T02:07:44Z</updated>
+  <subtitle>Monthly Trending of Prolog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>glahaie/Prolog-homework</title>
+    <updated>2024-02-01T02:07:44Z</updated>
+    <id>tag:github.com,2024-02-01:/glahaie/Prolog-homework</id>
+    <link href="https://github.com/glahaie/Prolog-homework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

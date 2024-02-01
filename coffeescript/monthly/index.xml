@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-01T01:59:25Z</updated>
+  <subtitle>Monthly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nomilous/git-seed</title>
+    <updated>2024-02-01T01:59:25Z</updated>
+    <id>tag:github.com,2024-02-01:/nomilous/git-seed</id>
+    <link href="https://github.com/nomilous/git-seed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Git plugin to easily create, manage and replicate a composite clone set.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HubSpot/integrate</title>
+    <updated>2024-02-01T01:59:25Z</updated>
+    <id>tag:github.com,2024-02-01:/HubSpot/integrate</id>
+    <link href="https://github.com/HubSpot/integrate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Confirm that your application works.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HubSpot/Backbone.HookSync</title>
+    <updated>2024-02-01T01:59:25Z</updated>
+    <id>tag:github.com,2024-02-01:/HubSpot/Backbone.HookSync</id>
+    <link href="https://github.com/HubSpot/Backbone.HookSync" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make Backbone.sync do what you need&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

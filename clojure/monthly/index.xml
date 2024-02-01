@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-01T01:59:19Z</updated>
+  <subtitle>Monthly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>clojure/tools.build</title>
+    <updated>2024-02-01T01:59:19Z</updated>
+    <id>tag:github.com,2024-02-01:/clojure/tools.build</id>
+    <link href="https://github.com/clojure/tools.build" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure builds as Clojure programs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudaloe/ringer</title>
+    <updated>2024-02-01T01:59:19Z</updated>
+    <id>tag:github.com,2024-02-01:/cloudaloe/ringer</id>
+    <link href="https://github.com/cloudaloe/ringer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jafingerhut/thalia</title>
+    <updated>2024-02-01T01:59:19Z</updated>
+    <id>tag:github.com,2024-02-01:/jafingerhut/thalia</id>
+    <link href="https://github.com/jafingerhut/thalia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of documentation for Clojure symbols&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

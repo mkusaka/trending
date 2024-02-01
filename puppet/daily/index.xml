@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-31T01:35:49Z</updated>
+  <updated>2024-02-01T01:36:32Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dpb587/puppet-repo-epel</title>
-    <updated>2024-01-31T01:35:49Z</updated>
-    <id>tag:github.com,2024-01-31:/dpb587/puppet-repo-epel</id>
-    <link href="https://github.com/dpb587/puppet-repo-epel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>puppetlabs-operations/puppet-puppet</title>
-    <updated>2024-01-31T01:35:49Z</updated>
-    <id>tag:github.com,2024-01-31:/puppetlabs-operations/puppet-puppet</id>
-    <link href="https://github.com/puppetlabs-operations/puppet-puppet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;100% free range, organic, pesticide free Puppet module for managing Puppet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>antik486/pdotfiles</title>
-    <updated>2024-01-31T01:35:49Z</updated>
-    <id>tag:github.com,2024-01-31:/antik486/pdotfiles</id>
-    <link href="https://github.com/antik486/pdotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manage dotfiles whit puppet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

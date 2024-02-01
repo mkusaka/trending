@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-31T01:34:22Z</updated>
+  <updated>2024-02-01T01:35:08Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rems-project/cerberus</title>
-    <updated>2024-01-31T01:34:22Z</updated>
-    <id>tag:github.com,2024-01-31:/rems-project/cerberus</id>
-    <link href="https://github.com/rems-project/cerberus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cerberus C semantics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>smtcoq/smtcoq</title>
+    <updated>2024-02-01T01:35:08Z</updated>
+    <id>tag:github.com,2024-02-01:/smtcoq/smtcoq</id>
+    <link href="https://github.com/smtcoq/smtcoq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Communication between Coq and SAT/SMT solvers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

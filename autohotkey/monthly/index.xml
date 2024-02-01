@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub AutoHotkey Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-01T01:58:06Z</updated>
+  <subtitle>Monthly Trending of AutoHotkey in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fr0st-iwnl/kiyokomacro</title>
+    <updated>2024-02-01T01:58:06Z</updated>
+    <id>tag:github.com,2024-02-01:/fr0st-iwnl/kiyokomacro</id>
+    <link href="https://github.com/fr0st-iwnl/kiyokomacro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A new macro for mighty omega.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>umageddon/namDHC</title>
+    <updated>2024-02-01T01:58:06Z</updated>
+    <id>tag:github.com,2024-02-01:/umageddon/namDHC</id>
+    <link href="https://github.com/umageddon/namDHC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows frontend for CHDMAN - written in Autohotkey&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

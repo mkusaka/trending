@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-01-31T01:33:01Z</updated>
+  <updated>2024-02-01T01:33:46Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Nexellia-Network/nexellia-miner</title>
+    <updated>2024-02-01T01:33:46Z</updated>
+    <id>tag:github.com,2024-02-01:/Nexellia-Network/nexellia-miner</id>
+    <link href="https://github.com/Nexellia-Network/nexellia-miner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast CPU/GPU miner for NExellia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
