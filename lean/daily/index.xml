@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-01T01:33:10Z</updated>
+  <updated>2024-02-02T01:32:25Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AlexKontorovich/PrimeNumberTheoremAnd</title>
+    <updated>2024-02-02T01:32:25Z</updated>
+    <id>tag:github.com,2024-02-02:/AlexKontorovich/PrimeNumberTheoremAnd</id>
+    <link href="https://github.com/AlexKontorovich/PrimeNumberTheoremAnd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;blueprint for prime number theorem and more&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

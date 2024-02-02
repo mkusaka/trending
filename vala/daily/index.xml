@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-01T01:40:17Z</updated>
+  <updated>2024-02-02T01:40:58Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>elementary/switchboard-plug-sound</title>
-    <updated>2024-02-01T01:40:17Z</updated>
-    <id>tag:github.com,2024-02-01:/elementary/switchboard-plug-sound</id>
-    <link href="https://github.com/elementary/switchboard-plug-sound" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Switchboard Sound Plug&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elementary/switchboard-plug-about</title>
-    <updated>2024-02-01T01:40:17Z</updated>
-    <id>tag:github.com,2024-02-01:/elementary/switchboard-plug-about</id>
-    <link href="https://github.com/elementary/switchboard-plug-about" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Switchboard System Plug&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

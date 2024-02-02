@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-01T01:28:02Z</updated>
+  <updated>2024-02-02T01:26:47Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>millsteed/macros</title>
+    <updated>2024-02-02T01:26:47Z</updated>
+    <id>tag:github.com,2024-02-02:/millsteed/macros</id>
+    <link href="https://github.com/millsteed/macros" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experiments with upcoming Dart macros&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;macros&lt;/h1&gt; &#xA;&lt;p&gt;Experiments with upcoming Dart macros&lt;/p&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Update your SDK to a dev build (this was written on 3.4.0-77.0.dev)&lt;/li&gt; &#xA; &lt;li&gt;For Flutter users: &lt;code&gt;flutter channel master&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Add &lt;code&gt;--enable-experiment=macros&lt;/code&gt; to &lt;code&gt;dart&lt;/code&gt; invocations&lt;/li&gt; &#xA; &lt;li&gt;In VS Code update to the Pre-Release Dart/Flutter extensions&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;@Model()&lt;/h2&gt; &#xA;&lt;p&gt;This is a replacement for the &lt;code&gt;freezed&lt;/code&gt; and &lt;code&gt;json_serializable&lt;/code&gt; packages.&lt;/p&gt; &#xA;&lt;p&gt;It implements &lt;code&gt;fromJson&lt;/code&gt;, &lt;code&gt;toJson&lt;/code&gt;, &lt;code&gt;copyWith&lt;/code&gt;, &lt;code&gt;toString&lt;/code&gt;, &lt;code&gt;operator ==&lt;/code&gt; and &lt;code&gt;hashCode&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;code&gt;bin/model.dart&lt;/code&gt; for an example.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;code&gt;lib/model.dart&lt;/code&gt; for implementation.&lt;/p&gt; &#xA;&lt;h2&gt;Disclaimer&lt;/h2&gt; &#xA;&lt;p&gt;I&#39;ve definitely missed edge cases. Create an issue or a pull request. Do not use in production yet.&lt;/p&gt;</summary>
+  </entry>
 </feed>

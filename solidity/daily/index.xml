@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-01T01:38:49Z</updated>
+  <updated>2024-02-02T01:39:18Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>axiom-crypto/axiom-quickstart</title>
-    <updated>2024-02-01T01:38:49Z</updated>
-    <id>tag:github.com,2024-02-01:/axiom-crypto/axiom-quickstart</id>
-    <link href="https://github.com/axiom-crypto/axiom-quickstart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Axiom Quickstart repository to help you quickly get something built with Axiom.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wilsoncusack/frame-verifier</title>
+    <updated>2024-02-02T01:39:18Z</updated>
+    <id>tag:github.com,2024-02-02:/wilsoncusack/frame-verifier</id>
+    <link href="https://github.com/wilsoncusack/frame-verifier" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>velirand805crw/Frontrunning</title>
-    <updated>2024-02-01T01:38:49Z</updated>
-    <id>tag:github.com,2024-02-01:/velirand805crw/Frontrunning</id>
-    <link href="https://github.com/velirand805crw/Frontrunning" rel="alternate"></link>
+    <title>0xfuturistic/prime-field-arithmetic</title>
+    <updated>2024-02-02T01:39:18Z</updated>
+    <id>tag:github.com,2024-02-02:/0xfuturistic/prime-field-arithmetic</id>
+    <link href="https://github.com/0xfuturistic/prime-field-arithmetic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🍭 A Solidity library for prime field arithmetic&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PufferFinance/pufETH</title>
+    <updated>2024-02-02T01:39:18Z</updated>
+    <id>tag:github.com,2024-02-02:/PufferFinance/pufETH</id>
+    <link href="https://github.com/PufferFinance/pufETH" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
