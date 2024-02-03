@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-02T01:30:02Z</updated>
+  <updated>2024-02-03T01:28:58Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>exercism/haxe</title>
+    <updated>2024-02-03T01:28:58Z</updated>
+    <id>tag:github.com,2024-02-03:/exercism/haxe</id>
+    <link href="https://github.com/exercism/haxe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercism exercises in Haxe.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Exercism Haxe Track&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/exercism/haxe/actions/workflows/configlet.yml&#34;&gt;&lt;img src=&#34;https://github.com/exercism/haxe/actions/workflows/configlet.yml/badge.svg?sanitize=true&#34; alt=&#34;Configlet&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/exercism/haxe/actions/workflows/test.yml&#34;&gt;&lt;img src=&#34;https://github.com/exercism/haxe/actions/workflows/test.yml/badge.svg?sanitize=true&#34; alt=&#34;Exercises Passing&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Exercism problems in Haxe.&lt;/p&gt; &#xA;&lt;h2&gt;Support&lt;/h2&gt; &#xA;&lt;p&gt;For support with Haxe in Exercism, please visit &lt;a href=&#34;https://forum.exercism.org/c/programming/haxe/&#34;&gt;the Haxe subcategory&lt;/a&gt; on the official &lt;a href=&#34;https://forum.exercism.org&#34;&gt;Exercism forum&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing Guide&lt;/h2&gt; &#xA;&lt;p&gt;Please see &lt;a href=&#34;https://exercism.org/docs/building&#34;&gt;Exercism&#39;s contributing guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Track linting&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://exercism.org/docs/building/configlet&#34;&gt;&lt;code&gt;configlet&lt;/code&gt;&lt;/a&gt; is an Exercism-wide tool for working with tracks. You can download it by running:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;./bin/fetch-configlet&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Run its &lt;a href=&#34;https://exercism.org/docs/building/configlet/lint&#34;&gt;&lt;code&gt;lint&lt;/code&gt; command&lt;/a&gt; to verify if all exercises have all the necessary files and if config files are correct:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;$ ./bin/configlet lint&#xA;&#xA;The lint command is under development.&#xA;Please re-run this command regularly to see if your track passes the latest linting rules.&#xA;&#xA;Basic linting finished successfully:&#xA;- config.json exists and is valid JSON&#xA;- config.json has these valid fields:&#xA;    language, slug, active, blurb, version, status, online_editor, key_features, tags&#xA;- Every concept has the required .md files&#xA;- Every concept has a valid links.json file&#xA;- Every concept has a valid .meta/config.json file&#xA;- Every concept exercise has the required .md files&#xA;- Every concept exercise has a valid .meta/config.json file&#xA;- Every practice exercise has the required .md files&#xA;- Every practice exercise has a valid .meta/config.json file&#xA;- Required track docs are present&#xA;- Required shared exercise docs are present&#xA;&#xA;&#xA;### Haxe icon&#xA;The Haxe logo is assumed to be owned by the Haxe Foundation, but this is not made explicit. We have adapted it, changing the colours, for use on Exercism, which we believe to fall under fair use.&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>c000/OneNightShooting</title>
+    <updated>2024-02-03T01:28:58Z</updated>
+    <id>tag:github.com,2024-02-03:/c000/OneNightShooting</id>
+    <link href="https://github.com/c000/OneNightShooting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

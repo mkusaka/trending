@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-02T01:24:16Z</updated>
+  <updated>2024-02-03T01:23:03Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure-Samples/azure-edge-extensions-aio-environments</title>
-    <updated>2024-02-02T01:24:16Z</updated>
-    <id>tag:github.com,2024-02-02:/Azure-Samples/azure-edge-extensions-aio-environments</id>
-    <link href="https://github.com/Azure-Samples/azure-edge-extensions-aio-environments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure-Samples/openai-chat-app-quickstart</title>
+    <updated>2024-02-03T01:23:03Z</updated>
+    <id>tag:github.com,2024-02-03:/Azure-Samples/openai-chat-app-quickstart</id>
+    <link href="https://github.com/Azure-Samples/openai-chat-app-quickstart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build a chat application using Azure OpenAI GPT models.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-02T01:42:11Z</updated>
+  <updated>2024-02-03T01:41:52Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>The-Z-Labs/bof-launcher</title>
-    <updated>2024-02-02T01:42:11Z</updated>
-    <id>tag:github.com,2024-02-02:/The-Z-Labs/bof-launcher</id>
-    <link href="https://github.com/The-Z-Labs/bof-launcher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Beacon Object File (BOF) launcher - library for executing BOF files in C/C++/Zig applications&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>spirodonfl/uwnh-remake</title>
-    <updated>2024-02-02T01:42:11Z</updated>
-    <id>tag:github.com,2024-02-02:/spirodonfl/uwnh-remake</id>
-    <link href="https://github.com/spirodonfl/uwnh-remake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My own Zig/WASM version of an old SNES game, using HTML DOM only&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

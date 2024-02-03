@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-02T01:36:12Z</updated>
+  <updated>2024-02-03T01:35:37Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JamesWClark/GOC</title>
-    <updated>2024-02-02T01:36:12Z</updated>
-    <id>tag:github.com,2024-02-02:/JamesWClark/GOC</id>
-    <link href="https://github.com/JamesWClark/GOC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Game of Circles (GOC)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brannondorsey/diamonddiamond</title>
+    <updated>2024-02-03T01:35:37Z</updated>
+    <id>tag:github.com,2024-02-03:/brannondorsey/diamonddiamond</id>
+    <link href="https://github.com/brannondorsey/diamonddiamond" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free software for making visual poetry&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

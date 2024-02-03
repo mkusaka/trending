@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-02T01:26:20Z</updated>
+  <updated>2024-02-03T01:24:59Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>avnibilgin/dotfiles</title>
-    <updated>2024-02-02T01:26:20Z</updated>
-    <id>tag:github.com,2024-02-02:/avnibilgin/dotfiles</id>
-    <link href="https://github.com/avnibilgin/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My config files&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/avnibilgin/dotfiles/assets/46962320/66fc3674-341a-47a3-a9d1-a40d0490e956&#34; alt=&#34;2024-01-29_23h30m31s&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Dotfiles for my Arch Linux + Hyprland configuration&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;„Simplicity is the ultimate sophistication.“ – Leonardo da Vinci&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h3&gt;About the icons / fonts I used for the waybar panel:&lt;/h3&gt; &#xA;&lt;h4&gt;Fonts:&lt;/h4&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fira Sans SemiBold (panel font), Futura (clock-widget)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h4&gt;Nerd fonts (panel &#34;icons&#34; randomly mixed from this nerd fonts):&lt;/h4&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Symbols Nerd Font&lt;/li&gt; &#xA; &lt;li&gt;Symbols Nerd Font Mono&lt;/li&gt; &#xA; &lt;li&gt;JetBrains Mono&lt;/li&gt; &#xA; &lt;li&gt;JetBrains Mono NL&lt;/li&gt; &#xA; &lt;li&gt;JetBrainsMono Nerd Font&lt;/li&gt; &#xA; &lt;li&gt;FantasqueSansMono Nerd Font&lt;/li&gt; &#xA; &lt;li&gt;Hurmit Nerd Font&lt;/li&gt; &#xA; &lt;li&gt;Hurmit Nerd Font Mono&lt;/li&gt; &#xA; &lt;li&gt;CaskaydiaCove Nerd Font&lt;/li&gt; &#xA; &lt;li&gt;CaskaydiaCove Nerd Font Mono&lt;/li&gt; &#xA; &lt;li&gt;mononoki Nerd Font&lt;/li&gt; &#xA; &lt;li&gt;mononoki Nerd Font Mono&lt;/li&gt; &#xA; &lt;li&gt;Iosevka&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h4&gt;Icons:&lt;/h4&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Tela-circle-dracula (icons in menu, taskbar...)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

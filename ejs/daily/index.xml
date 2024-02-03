@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-02T01:28:07Z</updated>
+  <updated>2024-02-03T01:26:40Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lllllllillllllillll/DweebUI</title>
-    <updated>2024-02-02T01:28:07Z</updated>
-    <id>tag:github.com,2024-02-02:/lllllllillllllillll/DweebUI</id>
-    <link href="https://github.com/lllllllillllllillll/DweebUI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RaddyTheBrand/Node.js-News-Clone-Deploy</title>
+    <updated>2024-02-03T01:26:40Z</updated>
+    <id>tag:github.com,2024-02-03:/RaddyTheBrand/Node.js-News-Clone-Deploy</id>
+    <link href="https://github.com/RaddyTheBrand/Node.js-News-Clone-Deploy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
