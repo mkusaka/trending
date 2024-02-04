@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-03T01:38:39Z</updated>
+  <updated>2024-02-04T01:43:04Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>panchovdl/DundiModel</title>
-    <updated>2024-02-03T01:38:39Z</updated>
-    <id>tag:github.com,2024-02-03:/panchovdl/DundiModel</id>
-    <link href="https://github.com/panchovdl/DundiModel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PhD Model - seeking How do management methods (individual and collective) and exogenous factors impact on the sustainability of forest resources in the context of degraded land restoration ?&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>exercism/pharo-smalltalk</title>
+    <updated>2024-02-04T01:43:04Z</updated>
+    <id>tag:github.com,2024-02-04:/exercism/pharo-smalltalk</id>
+    <link href="https://github.com/exercism/pharo-smalltalk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercism exercises in Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

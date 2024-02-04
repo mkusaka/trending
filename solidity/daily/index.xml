@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-03T01:38:45Z</updated>
+  <updated>2024-02-04T01:43:12Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WillPapper/syndicate-farcaster-frame-starter</title>
-    <updated>2024-02-03T01:38:45Z</updated>
-    <id>tag:github.com,2024-02-03:/WillPapper/syndicate-farcaster-frame-starter</id>
-    <link href="https://github.com/WillPapper/syndicate-farcaster-frame-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A starter for using https://frame.syndicate.io/ with Farcaster Frames&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>suhabe/info7500-2023</title>
+    <updated>2024-02-04T01:43:12Z</updated>
+    <id>tag:github.com,2024-02-04:/suhabe/info7500-2023</id>
+    <link href="https://github.com/suhabe/info7500-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MetisProtocol/metis</title>
+    <updated>2024-02-04T01:43:12Z</updated>
+    <id>tag:github.com,2024-02-04:/MetisProtocol/metis</id>
+    <link href="https://github.com/MetisProtocol/metis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for Stone Age and Bronze Age of Metis project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Dexaran/ERC223-token-standard</title>
+    <updated>2024-02-04T01:43:12Z</updated>
+    <id>tag:github.com,2024-02-04:/Dexaran/ERC223-token-standard</id>
+    <link href="https://github.com/Dexaran/ERC223-token-standard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ERC-223 token standard reference implementation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TeX Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-04T02:01:45Z</updated>
+  <subtitle>Weekly Trending of TeX in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CS-MATH-113-Spring-2024/pset03</title>
+    <updated>2024-02-04T02:01:45Z</updated>
+    <id>tag:github.com,2024-02-04:/CS-MATH-113-Spring-2024/pset03</id>
+    <link href="https://github.com/CS-MATH-113-Spring-2024/pset03" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Problem Set 03: Propositional Logic and Equivalences&lt;/h1&gt; &#xA;&lt;h1&gt;CS/MATH 113 Discrete Mathematics, Spring 2024&lt;/h1&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Each Problem Set (PSet) contains problems on recently covered material for you to practice. These prepare you for upcoming assessments and later topics.&lt;/p&gt; &#xA;&lt;h1&gt;Purpose&lt;/h1&gt; &#xA;&lt;p&gt;This PSet provides practice in propositional logic and equivalences, i.e. Sections 1.1 and 1.3.&lt;/p&gt; &#xA;&lt;h1&gt;Background and requirement&lt;/h1&gt; &#xA;&lt;p&gt;To attempt and submit the task you will need&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;to prove propositional equivalence using a truth table&lt;/li&gt; &#xA; &lt;li&gt;to prove propositional equivalence using known equivalences&lt;/li&gt; &#xA; &lt;li&gt;apply negations to propositions using De Morgan&#39;s laws&lt;/li&gt; &#xA; &lt;li&gt;determine if a proposition is satisfiable&lt;/li&gt; &#xA; &lt;li&gt;convert natural language to logical syntax and vice versa&lt;/li&gt; &#xA; &lt;li&gt;comfort with GitHub and LaTeX&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Grading&lt;/h1&gt; &#xA;&lt;p&gt;Grading is described on Canvas.&lt;/p&gt; &#xA;&lt;h1&gt;Task&lt;/h1&gt; &#xA;&lt;p&gt;The task for this PSet is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file.&lt;/p&gt; &#xA;&lt;h1&gt;Deadline and discussion&lt;/h1&gt; &#xA;&lt;p&gt;The deadline is mentioned on Canvas.&lt;/p&gt; &#xA;&lt;p&gt;For discussion on the PSet, please use the related Canvas discussion thread.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;viel Spass!&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>csetariq/Resume</title>
+    <updated>2024-02-04T02:01:45Z</updated>
+    <id>tag:github.com,2024-02-04:/csetariq/Resume</id>
+    <link href="https://github.com/csetariq/Resume" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of resume and its aux components&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Resumé&lt;/h1&gt; &#xA;&lt;p&gt;LaTeX source of my resumé&lt;/p&gt; &#xA;&lt;p&gt;A PDF can be downloaded from &lt;a href=&#34;https://raw.github.com/csetariq/Resume/master/Resume_Tariq_BE_2012_Fresher_tex.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+</feed>

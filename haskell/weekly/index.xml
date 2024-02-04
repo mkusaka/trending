@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-04T01:51:38Z</updated>
+  <subtitle>Weekly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Megaleo/Minehack</title>
+    <updated>2024-02-04T01:51:38Z</updated>
+    <id>tag:github.com,2024-02-04:/Megaleo/Minehack</id>
+    <link href="https://github.com/Megaleo/Minehack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A sandbox free-world roguelike game!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Minehack&lt;/h1&gt; &#xA;&lt;p&gt;A sandbox free-world roguelike game!&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>TomTervoort/CC-LabC</title>
+    <updated>2024-02-04T01:51:38Z</updated>
+    <id>tag:github.com,2024-02-04:/TomTervoort/CC-LabC</id>
+    <link href="https://github.com/TomTervoort/CC-LabC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mr-/hsDrinkinbot</title>
+    <updated>2024-02-04T01:51:38Z</updated>
+    <id>tag:github.com,2024-02-04:/mr-/hsDrinkinbot</id>
+    <link href="https://github.com/mr-/hsDrinkinbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

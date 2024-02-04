@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-03T01:21:55Z</updated>
+  <updated>2024-02-04T01:26:16Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RawChat/RawChat</title>
-    <updated>2024-02-03T01:21:55Z</updated>
-    <id>tag:github.com,2024-02-03:/RawChat/RawChat</id>
-    <link href="https://github.com/RawChat/RawChat" rel="alternate"></link>
+    <title>goldcoders/DSA</title>
+    <updated>2024-02-04T01:26:16Z</updated>
+    <id>tag:github.com,2024-02-04:/goldcoders/DSA</id>
+    <link href="https://github.com/goldcoders/DSA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free Premium Books For Learning Data Structure and Algorithm&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>karnotxyz/avail-campaign-listing</title>
+    <updated>2024-02-04T01:26:16Z</updated>
+    <id>tag:github.com,2024-02-04:/karnotxyz/avail-campaign-listing</id>
+    <link href="https://github.com/karnotxyz/avail-campaign-listing" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/microsoft-ui-xaml</title>
-    <updated>2024-02-03T01:21:55Z</updated>
-    <id>tag:github.com,2024-02-03:/microsoft/microsoft-ui-xaml</id>
-    <link href="https://github.com/microsoft/microsoft-ui-xaml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tgo1014/GridLauncher</title>
+    <updated>2024-02-04T01:26:16Z</updated>
+    <id>tag:github.com,2024-02-04:/Tgo1014/GridLauncher</id>
+    <link href="https://github.com/Tgo1014/GridLauncher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-03T01:40:55Z</updated>
+  <updated>2024-02-04T01:45:05Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shemerey/shumer</title>
-    <updated>2024-02-03T01:40:55Z</updated>
-    <id>tag:github.com,2024-02-03:/shemerey/shumer</id>
-    <link href="https://github.com/shemerey/shumer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal vim bundle good for Ruby development&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-04T01:48:20Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LOVEATWORK/storiesofswedishlapland</title>
+    <updated>2024-02-04T01:48:20Z</updated>
+    <id>tag:github.com,2024-02-04:/LOVEATWORK/storiesofswedishlapland</id>
+    <link href="https://github.com/LOVEATWORK/storiesofswedishlapland" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stories of Swedish Lapland public repo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chpill/funFiltering</title>
+    <updated>2024-02-04T01:48:20Z</updated>
+    <id>tag:github.com,2024-02-04:/chpill/funFiltering</id>
+    <link href="https://github.com/chpill/funFiltering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Because filtering rhymes with fun&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>latentflip/active_support_js</title>
+    <updated>2024-02-04T01:48:20Z</updated>
+    <id>tag:github.com,2024-02-04:/latentflip/active_support_js</id>
+    <link href="https://github.com/latentflip/active_support_js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

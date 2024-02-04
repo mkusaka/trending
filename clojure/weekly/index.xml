@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-04T01:48:15Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aterreno/overtone</title>
+    <updated>2024-02-04T01:48:15Z</updated>
+    <id>tag:github.com,2024-02-04:/aterreno/overtone</id>
+    <link href="https://github.com/aterreno/overtone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>milare/colfure</title>
+    <updated>2024-02-04T01:48:15Z</updated>
+    <id>tag:github.com,2024-02-04:/milare/colfure</id>
+    <link href="https://github.com/milare/colfure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Item-to-item collaborative filtering in clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

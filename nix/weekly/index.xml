@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-04T01:55:40Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jakehamilton/config</title>
+    <updated>2024-02-04T01:55:40Z</updated>
+    <id>tag:github.com,2024-02-04:/jakehamilton/config</id>
+    <link href="https://github.com/jakehamilton/config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;One Nix flake to rule them all.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fufexan/nix-gaming</title>
+    <updated>2024-02-04T01:55:40Z</updated>
+    <id>tag:github.com,2024-02-04:/fufexan/nix-gaming</id>
+    <link href="https://github.com/fufexan/nix-gaming" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gaming on Nix&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>realraum/nixr3</title>
+    <updated>2024-02-04T01:55:40Z</updated>
+    <id>tag:github.com,2024-02-04:/realraum/nixr3</id>
+    <link href="https://github.com/realraum/nixr3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

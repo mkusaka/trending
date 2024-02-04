@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-04T01:56:07Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>skolemlabs/middleware</title>
+    <updated>2024-02-04T01:56:07Z</updated>
+    <id>tag:github.com,2024-02-04:/skolemlabs/middleware</id>
+    <link href="https://github.com/skolemlabs/middleware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OCaml utility for building composable middleware functions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>skolemlabs/type_eq</title>
+    <updated>2024-02-04T01:56:07Z</updated>
+    <id>tag:github.com,2024-02-04:/skolemlabs/type_eq</id>
+    <link href="https://github.com/skolemlabs/type_eq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Type equality proofs for OCaml 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>johnyob/grace</title>
+    <updated>2024-02-04T01:56:07Z</updated>
+    <id>tag:github.com,2024-02-04:/johnyob/grace</id>
+    <link href="https://github.com/johnyob/grace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fancy diagnostics library that allows your compilers to exit with grace&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

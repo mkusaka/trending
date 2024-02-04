@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Classic ASP Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-04T01:48:07Z</updated>
+  <subtitle>Weekly Trending of Classic ASP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sestremadoyro/Agrocomercio</title>
+    <updated>2024-02-04T01:48:07Z</updated>
+    <id>tag:github.com,2024-02-04:/sestremadoyro/Agrocomercio</id>
+    <link href="https://github.com/sestremadoyro/Agrocomercio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proyecto de Agrocomercio&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

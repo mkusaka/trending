@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-03T01:24:59Z</updated>
+  <updated>2024-02-04T01:29:27Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CodeSpace-Academy/sdf-student-projects</title>
+    <updated>2024-02-04T01:29:27Z</updated>
+    <id>tag:github.com,2024-02-04:/CodeSpace-Academy/sdf-student-projects</id>
+    <link href="https://github.com/CodeSpace-Academy/sdf-student-projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;sdf-student-projects&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>EricFormar/clima-app</title>
+    <updated>2024-02-04T01:29:27Z</updated>
+    <id>tag:github.com,2024-02-04:/EricFormar/clima-app</id>
+    <link href="https://github.com/EricFormar/clima-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proyecto creado con React y Typescript que obtiene los datos del clima de una API. To Formar with ❤️&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;React + TypeScript + Vite&lt;/h1&gt; &#xA;&lt;p&gt;This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.&lt;/p&gt; &#xA;&lt;p&gt;Currently, two official plugins are available:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/vitejs/vite-plugin-react/raw/main/packages/plugin-react/README.md&#34;&gt;@vitejs/plugin-react&lt;/a&gt; uses &lt;a href=&#34;https://babeljs.io/&#34;&gt;Babel&lt;/a&gt; for Fast Refresh&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/vitejs/vite-plugin-react-swc&#34;&gt;@vitejs/plugin-react-swc&lt;/a&gt; uses &lt;a href=&#34;https://swc.rs/&#34;&gt;SWC&lt;/a&gt; for Fast Refresh&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Expanding the ESLint configuration&lt;/h2&gt; &#xA;&lt;p&gt;If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Configure the top-level &lt;code&gt;parserOptions&lt;/code&gt; property like this:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;export default {&#xA;  // other rules...&#xA;  parserOptions: {&#xA;    ecmaVersion: &#39;latest&#39;,&#xA;    sourceType: &#39;module&#39;,&#xA;    project: [&#39;./tsconfig.json&#39;, &#39;./tsconfig.node.json&#39;],&#xA;    tsconfigRootDir: __dirname,&#xA;  },&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Replace &lt;code&gt;plugin:@typescript-eslint/recommended&lt;/code&gt; to &lt;code&gt;plugin:@typescript-eslint/recommended-type-checked&lt;/code&gt; or &lt;code&gt;plugin:@typescript-eslint/strict-type-checked&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Optionally add &lt;code&gt;plugin:@typescript-eslint/stylistic-type-checked&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Install &lt;a href=&#34;https://github.com/jsx-eslint/eslint-plugin-react&#34;&gt;eslint-plugin-react&lt;/a&gt; and add &lt;code&gt;plugin:react/recommended&lt;/code&gt; &amp;amp; &lt;code&gt;plugin:react/jsx-runtime&lt;/code&gt; to the &lt;code&gt;extends&lt;/code&gt; list&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>rutuja091/car-rental-and-booking-system-Group-project-1-ICP-7</title>
+    <updated>2024-02-04T01:29:27Z</updated>
+    <id>tag:github.com,2024-02-04:/rutuja091/car-rental-and-booking-system-Group-project-1-ICP-7</id>
+    <link href="https://github.com/rutuja091/car-rental-and-booking-system-Group-project-1-ICP-7" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

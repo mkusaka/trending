@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-04T01:50:41Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aithority/engine</title>
+    <updated>2024-02-04T01:50:41Z</updated>
+    <id>tag:github.com,2024-02-04:/aithority/engine</id>
+    <link href="https://github.com/aithority/engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tiance Engine based on Godot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gdquest-demos/godot-procedural-generation</title>
+    <updated>2024-02-04T01:50:41Z</updated>
+    <id>tag:github.com,2024-02-04:/gdquest-demos/godot-procedural-generation</id>
+    <link href="https://github.com/gdquest-demos/godot-procedural-generation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Procedural generation algorithms and demos for the Godot game engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jonathaneeckhout/jdungeon</title>
+    <updated>2024-02-04T01:50:41Z</updated>
+    <id>tag:github.com,2024-02-04:/jonathaneeckhout/jdungeon</id>
+    <link href="https://github.com/jonathaneeckhout/jdungeon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opensource 2d morpg game based on the Godot engine in a medieval inspired fantasy world&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-03T01:37:46Z</updated>
+  <updated>2024-02-04T01:42:14Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>klutometis/hadoop</title>
-    <updated>2024-02-03T01:37:46Z</updated>
-    <id>tag:github.com,2024-02-03:/klutometis/hadoop</id>
-    <link href="https://github.com/klutometis/hadoop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Chicken Scheme egg with some Hadoop abstractions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

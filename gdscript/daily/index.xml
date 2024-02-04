@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-04T01:31:39Z</updated>
+  <subtitle>Daily Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hugemenace/resonate</title>
+    <updated>2024-02-04T01:31:39Z</updated>
+    <id>tag:github.com,2024-02-04:/hugemenace/resonate</id>
+    <link href="https://github.com/hugemenace/resonate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An all-in-one sound and music management addon for the Godot game engine.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>StanleySweet/untitled-rts</title>
+    <updated>2024-02-04T01:31:39Z</updated>
+    <id>tag:github.com,2024-02-04:/StanleySweet/untitled-rts</id>
+    <link href="https://github.com/StanleySweet/untitled-rts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

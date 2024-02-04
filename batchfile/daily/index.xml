@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-03T01:22:57Z</updated>
+  <updated>2024-02-04T01:27:30Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Aspectise/Limited-Sniper</title>
-    <updated>2024-02-03T01:22:57Z</updated>
-    <id>tag:github.com,2024-02-03:/Aspectise/Limited-Sniper</id>
-    <link href="https://github.com/Aspectise/Limited-Sniper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Snipes Roblox UGC Limiteds&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>atlantsecurity/windows-hardening-scripts</title>
+    <updated>2024-02-04T01:27:30Z</updated>
+    <id>tag:github.com,2024-02-04:/atlantsecurity/windows-hardening-scripts</id>
+    <link href="https://github.com/atlantsecurity/windows-hardening-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows 10/11 hardening scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DosX-dev/FastTweak</title>
+    <updated>2024-02-04T01:27:30Z</updated>
+    <id>tag:github.com,2024-02-04:/DosX-dev/FastTweak</id>
+    <link href="https://github.com/DosX-dev/FastTweak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows cleanup &amp; tweaking utility&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
