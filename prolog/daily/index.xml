@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-04T01:39:41Z</updated>
+  <updated>2024-02-05T01:38:42Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SWI-Prolog/packages-cql</title>
-    <updated>2024-02-04T01:39:41Z</updated>
-    <id>tag:github.com,2024-02-04:/SWI-Prolog/packages-cql</id>
-    <link href="https://github.com/SWI-Prolog/packages-cql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High level database interface&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SWI-Prolog/packages-ltx2htm</title>
-    <updated>2024-02-04T01:39:41Z</updated>
-    <id>tag:github.com,2024-02-04:/SWI-Prolog/packages-ltx2htm</id>
-    <link href="https://github.com/SWI-Prolog/packages-ltx2htm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SWI-Prolog LaTeX to HTML translation for the documentation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-04T01:31:08Z</updated>
+  <updated>2024-02-05T01:29:39Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>exercism/erlang</title>
-    <updated>2024-02-04T01:31:08Z</updated>
-    <id>tag:github.com,2024-02-04:/exercism/erlang</id>
-    <link href="https://github.com/exercism/erlang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercism exercises in Erlang.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-04T01:38:35Z</updated>
+  <updated>2024-02-05T01:37:30Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Julian/dotfiles</title>
+    <updated>2024-02-05T01:37:30Z</updated>
+    <id>tag:github.com,2024-02-05:/Julian/dotfiles</id>
+    <link href="https://github.com/Julian/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A work in progress. Forever.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;======== Dotfiles&lt;/h1&gt; &#xA;&lt;p&gt;A work in progress. Forever.&lt;/p&gt; &#xA;&lt;h2&gt;Install&lt;/h2&gt; &#xA;&lt;p&gt;.. code-block:: sh&lt;/p&gt; &#xA;&lt;p&gt;$ git clone --recursive &lt;a href=&#34;https://github.com/Julian/dotfiles&#34;&gt;https://github.com/Julian/dotfiles&lt;/a&gt; ~/.dotfiles $ mkdir ~/Development $ cd ~/.dotfiles &amp;amp;&amp;amp; ./install&lt;/p&gt; &#xA;&lt;p&gt;$ brew analytics off&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Generate a certificate for irssi certauth and /msg *certauth add it&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

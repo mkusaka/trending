@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-04T01:28:59Z</updated>
+  <updated>2024-02-05T01:27:12Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>paoloemilioselva/uffTest</title>
-    <updated>2024-02-04T01:28:59Z</updated>
-    <id>tag:github.com,2024-02-04:/paoloemilioselva/uffTest</id>
-    <link href="https://github.com/paoloemilioselva/uffTest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example FileFormat plugin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tran97/AMR_dev</title>
+    <updated>2024-02-05T01:27:12Z</updated>
+    <id>tag:github.com,2024-02-05:/Tran97/AMR_dev</id>
+    <link href="https://github.com/Tran97/AMR_dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

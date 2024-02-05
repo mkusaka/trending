@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-04T01:43:40Z</updated>
+  <updated>2024-02-05T01:41:38Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Nonexistent-Name/gradevue</title>
-    <updated>2024-02-04T01:43:40Z</updated>
-    <id>tag:github.com,2024-02-04:/Nonexistent-Name/gradevue</id>
-    <link href="https://github.com/Nonexistent-Name/gradevue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An improved StudentVue experience.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>saneef/color-color</title>
+    <updated>2024-02-05T01:41:38Z</updated>
+    <id>tag:github.com,2024-02-05:/saneef/color-color</id>
+    <link href="https://github.com/saneef/color-color" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Website to generate color palettes in Okhsl and HSLuv color spaces&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

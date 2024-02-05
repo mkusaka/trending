@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-04T01:32:20Z</updated>
+  <updated>2024-02-05T01:31:19Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jaredsburrows/gradle-license-plugin</title>
-    <updated>2024-02-04T01:32:20Z</updated>
-    <id>tag:github.com,2024-02-04:/jaredsburrows/gradle-license-plugin</id>
-    <link href="https://github.com/jaredsburrows/gradle-license-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle plugin that provides a task to generate a HTML license report of your project.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheRoddyWMS/Roddy</title>
+    <updated>2024-02-05T01:31:19Z</updated>
+    <id>tag:github.com,2024-02-05:/TheRoddyWMS/Roddy</id>
+    <link href="https://github.com/TheRoddyWMS/Roddy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Roddy workflow development and management system.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>crfulbright/grails-links</title>
+    <updated>2024-02-05T01:31:19Z</updated>
+    <id>tag:github.com,2024-02-05:/crfulbright/grails-links</id>
+    <link href="https://github.com/crfulbright/grails-links" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;grails-links&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

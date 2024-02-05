@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-04T01:26:16Z</updated>
+  <updated>2024-02-05T01:24:27Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>goldcoders/DSA</title>
-    <updated>2024-02-04T01:26:16Z</updated>
-    <id>tag:github.com,2024-02-04:/goldcoders/DSA</id>
-    <link href="https://github.com/goldcoders/DSA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free Premium Books For Learning Data Structure and Algorithm&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>abc123info/Struts2VulsScanTools</title>
+    <updated>2024-02-05T01:24:27Z</updated>
+    <id>tag:github.com,2024-02-05:/abc123info/Struts2VulsScanTools</id>
+    <link href="https://github.com/abc123info/Struts2VulsScanTools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Struts2全版本漏洞检测工具 by:ABC_123&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>karnotxyz/avail-campaign-listing</title>
-    <updated>2024-02-04T01:26:16Z</updated>
-    <id>tag:github.com,2024-02-04:/karnotxyz/avail-campaign-listing</id>
-    <link href="https://github.com/karnotxyz/avail-campaign-listing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Tgo1014/GridLauncher</title>
-    <updated>2024-02-04T01:26:16Z</updated>
-    <id>tag:github.com,2024-02-04:/Tgo1014/GridLauncher</id>
-    <link href="https://github.com/Tgo1014/GridLauncher" rel="alternate"></link>
+    <title>shivscaler/Nodejs-30-Days-Challenge-Scaler-Topics</title>
+    <updated>2024-02-05T01:24:27Z</updated>
+    <id>tag:github.com,2024-02-05:/shivscaler/Nodejs-30-Days-Challenge-Scaler-Topics</id>
+    <link href="https://github.com/shivscaler/Nodejs-30-Days-Challenge-Scaler-Topics" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

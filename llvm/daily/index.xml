@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LLVM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-04T01:35:33Z</updated>
+  <updated>2024-02-05T01:34:13Z</updated>
   <subtitle>Daily Trending of LLVM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cdisselkoen/llvm-ir</title>
-    <updated>2024-02-04T01:35:33Z</updated>
-    <id>tag:github.com,2024-02-04:/cdisselkoen/llvm-ir</id>
-    <link href="https://github.com/cdisselkoen/llvm-ir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LLVM IR in natural Rust data structures&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

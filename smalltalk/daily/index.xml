@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-04T01:43:04Z</updated>
+  <updated>2024-02-05T01:41:07Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>exercism/pharo-smalltalk</title>
-    <updated>2024-02-04T01:43:04Z</updated>
-    <id>tag:github.com,2024-02-04:/exercism/pharo-smalltalk</id>
-    <link href="https://github.com/exercism/pharo-smalltalk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercism exercises in Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sebastianconcept/Mapless</title>
+    <updated>2024-02-05T01:41:07Z</updated>
+    <id>tag:github.com,2024-02-05:/sebastianconcept/Mapless</id>
+    <link href="https://github.com/sebastianconcept/Mapless" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Schema-less persistence for Smalltalk with support for multiple backends.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sebastianconcept/JSON</title>
+    <updated>2024-02-05T01:41:07Z</updated>
+    <id>tag:github.com,2024-02-05:/sebastianconcept/JSON</id>
+    <link href="https://github.com/sebastianconcept/JSON" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSON port from older PharoExtras @ Smalltalkhub&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
