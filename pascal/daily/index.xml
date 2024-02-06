@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-05T01:37:15Z</updated>
+  <updated>2024-02-06T01:38:55Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TobyAdd/GDH-Installer</title>
-    <updated>2024-02-05T01:37:15Z</updated>
-    <id>tag:github.com,2024-02-05:/TobyAdd/GDH-Installer</id>
-    <link href="https://github.com/TobyAdd/GDH-Installer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project that allows you to easily install GDH&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GabrielTrigo/TSWebDriver4Delphi</title>
+    <updated>2024-02-06T01:38:55Z</updated>
+    <id>tag:github.com,2024-02-06:/GabrielTrigo/TSWebDriver4Delphi</id>
+    <link href="https://github.com/GabrielTrigo/TSWebDriver4Delphi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TSWebDriver4Delphi is a library for Web Testing and Automation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

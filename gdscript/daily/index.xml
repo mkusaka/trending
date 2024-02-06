@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-05T01:30:23Z</updated>
+  <updated>2024-02-06T01:30:31Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>insideout-andrew/simple-card-pile-ui</title>
-    <updated>2024-02-05T01:30:23Z</updated>
-    <id>tag:github.com,2024-02-05:/insideout-andrew/simple-card-pile-ui</id>
-    <link href="https://github.com/insideout-andrew/simple-card-pile-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This plugin provides a flexible and customizable card pile user interface for the Godot game engine. It is designed to handle various card-related functionalities including drawing, discarding, and managing different piles.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>godotneers/game-data-video</title>
-    <updated>2024-02-05T01:30:23Z</updated>
-    <id>tag:github.com,2024-02-05:/godotneers/game-data-video</id>
-    <link href="https://github.com/godotneers/game-data-video" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This holds the example project for the game data video&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>uotlaf/laughteller</title>
-    <updated>2024-02-05T01:30:23Z</updated>
-    <id>tag:github.com,2024-02-05:/uotlaf/laughteller</id>
-    <link href="https://github.com/uotlaf/laughteller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Game made for Global Game Jam 2024&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-05T01:41:38Z</updated>
+  <updated>2024-02-06T01:43:24Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>saneef/color-color</title>
-    <updated>2024-02-05T01:41:38Z</updated>
-    <id>tag:github.com,2024-02-05:/saneef/color-color</id>
-    <link href="https://github.com/saneef/color-color" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Website to generate color palettes in Okhsl and HSLuv color spaces&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>YoungVision-eV/homepage-astro</title>
+    <updated>2024-02-06T01:43:24Z</updated>
+    <id>tag:github.com,2024-02-06:/YoungVision-eV/homepage-astro</id>
+    <link href="https://github.com/YoungVision-eV/homepage-astro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EnZon3/Drop</title>
+    <updated>2024-02-06T01:43:24Z</updated>
+    <id>tag:github.com,2024-02-06:/EnZon3/Drop</id>
+    <link href="https://github.com/EnZon3/Drop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

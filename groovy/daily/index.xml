@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-05T01:31:19Z</updated>
+  <updated>2024-02-06T01:31:24Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TheRoddyWMS/Roddy</title>
-    <updated>2024-02-05T01:31:19Z</updated>
-    <id>tag:github.com,2024-02-05:/TheRoddyWMS/Roddy</id>
-    <link href="https://github.com/TheRoddyWMS/Roddy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Roddy workflow development and management system.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>crfulbright/grails-links</title>
-    <updated>2024-02-05T01:31:19Z</updated>
-    <id>tag:github.com,2024-02-05:/crfulbright/grails-links</id>
-    <link href="https://github.com/crfulbright/grails-links" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;grails-links&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apple/pkl-jvm-examples</title>
+    <updated>2024-02-06T01:31:24Z</updated>
+    <id>tag:github.com,2024-02-06:/apple/pkl-jvm-examples</id>
+    <link href="https://github.com/apple/pkl-jvm-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Examples for using Pkl within JVM applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

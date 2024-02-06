@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-05T01:43:37Z</updated>
+  <updated>2024-02-06T01:45:41Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sap-linuxlab/ansible.playbooks_for_sap</title>
-    <updated>2024-02-05T01:43:37Z</updated>
-    <id>tag:github.com,2024-02-05:/sap-linuxlab/ansible.playbooks_for_sap</id>
-    <link href="https://github.com/sap-linuxlab/ansible.playbooks_for_sap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;End to End Automation for SAP - Ansible Playbooks for deployment of various SAP solution scenarios to Infrastructure Platforms&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sap-linuxlab/community.sap_infrastructure</title>
-    <updated>2024-02-05T01:43:37Z</updated>
-    <id>tag:github.com,2024-02-05:/sap-linuxlab/community.sap_infrastructure</id>
-    <link href="https://github.com/sap-linuxlab/community.sap_infrastructure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automation for SAP - Collection of Ansible Roles for infrastructure-related tasks for SAP&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-05T01:43:01Z</updated>
+  <updated>2024-02-06T01:45:04Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jw-12138/r2-uploader</title>
-    <updated>2024-02-05T01:43:01Z</updated>
-    <id>tag:github.com,2024-02-05:/jw-12138/r2-uploader</id>
-    <link href="https://github.com/jw-12138/r2-uploader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web Interface for Cloudflare R2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yzqzy/wechat-assistant</title>
+    <updated>2024-02-06T01:45:04Z</updated>
+    <id>tag:github.com,2024-02-06:/yzqzy/wechat-assistant</id>
+    <link href="https://github.com/yzqzy/wechat-assistant" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;微信助手，支持联系人管理、群发消息、定时任务、消息防撤回等功能&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
