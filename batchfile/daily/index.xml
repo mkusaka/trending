@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-06T01:25:06Z</updated>
+  <updated>2024-02-07T01:23:35Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DosX-dev/open-db</title>
+    <updated>2024-02-07T01:23:35Z</updated>
+    <id>tag:github.com,2024-02-07:/DosX-dev/open-db</id>
+    <link href="https://github.com/DosX-dev/open-db" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a service repository. You have nothing to do here.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>conda-forge/robotraconteur_companion-feedstock</title>
+    <updated>2024-02-07T01:23:35Z</updated>
+    <id>tag:github.com,2024-02-07:/conda-forge/robotraconteur_companion-feedstock</id>
+    <link href="https://github.com/conda-forge/robotraconteur_companion-feedstock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conda-smithy repository for robotraconteur_companion.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

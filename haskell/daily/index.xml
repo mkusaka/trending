@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-06T01:31:38Z</updated>
+  <updated>2024-02-07T01:29:56Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lens/lens-ixset</title>
+    <updated>2024-02-07T01:29:56Z</updated>
+    <id>tag:github.com,2024-02-07:/lens/lens-ixset</id>
+    <link href="https://github.com/lens/lens-ixset" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lenses for ixset&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>scarf-sh/engineering-test</title>
+    <updated>2024-02-07T01:29:56Z</updated>
+    <id>tag:github.com,2024-02-07:/scarf-sh/engineering-test</id>
+    <link href="https://github.com/scarf-sh/engineering-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Engineering take home assignment&lt;/h1&gt; &#xA;&lt;h2&gt;Overview&lt;/h2&gt; &#xA;&lt;p&gt;Your objective is to create a concurrent task executor that interfaces with a driver for task execution. The executor and driver continously exchange messages according to a to-be-developed protocol with the goal to get tasks communicated from the driver to the executor. You can assume the driver is a server process running on a different machine, scheduling tasks on many executors. The tasks sent to the executor will vary across a spectrum of business cases and demand specific input parameters for each task. To optimize resource utilization, the executor must have the capability to execute multiple tasks simultaneously.&lt;/p&gt; &#xA;&lt;p&gt;As the lead engineer you have the liberty to design the communication protocol between the driver and the executor with the following requirements:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;An executor is a server process that continously exchanges messages with the driver.&lt;/li&gt; &#xA; &lt;li&gt;Executor and driver communicate over STDIN and STDOUT channels for simplicity.&lt;/li&gt; &#xA; &lt;li&gt;An executor should have a maximum amount of tasks it can execute concurrently.&lt;/li&gt; &#xA; &lt;li&gt;Each task carries a unique identifier, the task type, and input parameters, depending on the type of task.&lt;/li&gt; &#xA; &lt;li&gt;Upon task completion, the executor will promptly notify the driver of the task result, which may include success or failure status, along with any task-specific result value generated.&lt;/li&gt; &#xA; &lt;li&gt;For long-running tasks, the executor will periodically send status updates to the driver, ensuring transparency in task progress.&lt;/li&gt; &#xA; &lt;li&gt;The driver reserves the right to request task cancellation mid-execution, adding flexibility to task management.&lt;/li&gt; &#xA; &lt;li&gt;Cancellation or failure of one task shoudn&#39;t influence other tasks running concurrently.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For this assignment&#39;s purposes, you may employ task types like &#34;Bubble Bath Optimization,&#34; &#34;Squirrel Patrol,&#34; and &#34;Unicorn Wrangling,&#34; each executed with a simulated delay using a sleep function. Duration of the sleep could be denoted as per-task input parameter.&lt;/p&gt; &#xA;&lt;h2&gt;Presentation&lt;/h2&gt; &#xA;&lt;p&gt;Once you&#39;ve wrapped up the project, be sure to push it to a GitHub repository for presentation. Remember to extend invitations to @hollyos, @justinwoo, @ken-scarf and @alexbiehl to collaborate on the repository.&lt;/p&gt; &#xA;&lt;h2&gt;Guideline&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Allocate a maximum of 1.5 hours to this task. While delivering a fully polished assignment is appreciated, it&#39;s not mandatory for progressing to the next round.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Embrace pragmatism. Taking shortcuts is not only acceptable but necessary.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Document and be able to discuss your decisions. We value communication over code.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Feel free to utilize any library available on Hackage to bolster your implementation.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>GU-CLASP/MILLing</title>
+    <updated>2024-02-07T01:29:56Z</updated>
+    <id>tag:github.com,2024-02-07:/GU-CLASP/MILLing</id>
+    <link href="https://github.com/GU-CLASP/MILLing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

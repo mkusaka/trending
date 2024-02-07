@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-06T01:40:45Z</updated>
+  <updated>2024-02-07T01:37:50Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>victronenergy/gui-v2</title>
-    <updated>2024-02-06T01:40:45Z</updated>
-    <id>tag:github.com,2024-02-06:/victronenergy/gui-v2</id>
-    <link href="https://github.com/victronenergy/gui-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

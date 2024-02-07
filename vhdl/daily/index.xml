@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-06T01:44:46Z</updated>
+  <updated>2024-02-07T01:41:29Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mdkarch/Snake_Plus</title>
-    <updated>2024-02-06T01:44:46Z</updated>
-    <id>tag:github.com,2024-02-06:/mdkarch/Snake_Plus</id>
-    <link href="https://github.com/mdkarch/Snake_Plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Embedded Systems Final Project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>USAFA-ECE/ece281-lab1</title>
+    <updated>2024-02-07T01:41:29Z</updated>
+    <id>tag:github.com,2024-02-07:/USAFA-ECE/ece281-lab1</id>
+    <link href="https://github.com/USAFA-ECE/ece281-lab1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lab 1: Logic for Thirty-One Day Month&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

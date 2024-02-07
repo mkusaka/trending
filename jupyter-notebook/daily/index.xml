@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-06T01:34:13Z</updated>
+  <updated>2024-02-07T01:32:38Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thu-vu92/local-llms-analyse-finance</title>
+    <updated>2024-02-07T01:32:38Z</updated>
+    <id>tag:github.com,2024-02-07:/thu-vu92/local-llms-analyse-finance</id>
+    <link href="https://github.com/thu-vu92/local-llms-analyse-finance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;local-llms-analyse-finance&lt;/h1&gt; &#xA;&lt;p&gt;In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.&lt;/p&gt; &#xA;&lt;h2&gt;Installing local LLMs with Ollama (currently support MacOS and Linux)&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://ollama.ai/&#34;&gt;https://ollama.ai/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Tutorial video:&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=h_GTxRFYETY&#34;&gt;https://www.youtube.com/watch?v=h_GTxRFYETY&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Personal finance dashboard:&lt;/h2&gt; &#xA;&lt;img width=&#34;1505&#34; alt=&#34;Screenshot 2024-02-02 at 12 00 46 AM&#34; src=&#34;https://github.com/thu-vu92/local-llms-analyse-finance/assets/22730220/68142afa-58a8-4be9-940e-ede8ffb0da65&#34;&gt; &#xA;&lt;h2&gt;Disclaimer:&lt;/h2&gt; &#xA;&lt;p&gt;The example data in this repo are fictious and for illustration purposes.&lt;/p&gt;</summary>
+  </entry>
 </feed>

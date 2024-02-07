@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-06T01:40:47Z</updated>
+  <updated>2024-02-07T01:37:53Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>whrc/monitoring-team</title>
+    <updated>2024-02-07T01:37:53Z</updated>
+    <id>tag:github.com,2024-02-07:/whrc/monitoring-team</id>
+    <link href="https://github.com/whrc/monitoring-team" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;monitoring-team&lt;/h1&gt; &#xA;&lt;p&gt;R code for loaidng &amp;amp; cleaning tower data&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Snazz2001/Apply-sampling-uk</title>
+    <updated>2024-02-07T01:37:53Z</updated>
+    <id>tag:github.com,2024-02-07:/Snazz2001/Apply-sampling-uk</id>
+    <link href="https://github.com/Snazz2001/Apply-sampling-uk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apply sampling uk&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

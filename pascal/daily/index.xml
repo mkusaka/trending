@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-06T01:38:55Z</updated>
+  <updated>2024-02-07T01:36:34Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GabrielTrigo/TSWebDriver4Delphi</title>
-    <updated>2024-02-06T01:38:55Z</updated>
-    <id>tag:github.com,2024-02-06:/GabrielTrigo/TSWebDriver4Delphi</id>
-    <link href="https://github.com/GabrielTrigo/TSWebDriver4Delphi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TSWebDriver4Delphi is a library for Web Testing and Automation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HashLoad/horse-logger</title>
+    <updated>2024-02-07T01:36:34Z</updated>
+    <id>tag:github.com,2024-02-07:/HashLoad/horse-logger</id>
+    <link href="https://github.com/HashLoad/horse-logger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Middleware for access logging in HORSE&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-06T01:43:55Z</updated>
+  <updated>2024-02-07T01:40:32Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AlSaqr-platform/axi_scmi_mailbox</title>
+    <updated>2024-02-07T01:40:32Z</updated>
+    <id>tag:github.com,2024-02-07:/AlSaqr-platform/axi_scmi_mailbox</id>
+    <link href="https://github.com/AlSaqr-platform/axi_scmi_mailbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AlSaqr-platform/common_pads</title>
+    <updated>2024-02-07T01:40:32Z</updated>
+    <id>tag:github.com,2024-02-07:/AlSaqr-platform/common_pads</id>
+    <link href="https://github.com/AlSaqr-platform/common_pads" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AlSaqr-platform/ethernet</title>
+    <updated>2024-02-07T01:40:32Z</updated>
+    <id>tag:github.com,2024-02-07:/AlSaqr-platform/ethernet</id>
+    <link href="https://github.com/AlSaqr-platform/ethernet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ethernet for Al Saqr platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

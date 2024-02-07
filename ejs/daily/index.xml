@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-06T01:29:13Z</updated>
+  <updated>2024-02-07T01:27:10Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Dawood-Usman/Cenflix</title>
-    <updated>2024-02-06T01:29:13Z</updated>
-    <id>tag:github.com,2024-02-06:/Dawood-Usman/Cenflix</id>
-    <link href="https://github.com/Dawood-Usman/Cenflix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is Our Web Programming Final Project.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

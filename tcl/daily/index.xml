@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-06T01:43:53Z</updated>
+  <updated>2024-02-07T01:40:29Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TinyTapeout/tt06-verilog-template</title>
-    <updated>2024-02-06T01:43:53Z</updated>
-    <id>tag:github.com,2024-02-06:/TinyTapeout/tt06-verilog-template</id>
-    <link href="https://github.com/TinyTapeout/tt06-verilog-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Submission template for Tiny Tapeout 06 - Verilog HDL Projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>USAFA-ECE/ece281-ice2</title>
-    <updated>2024-02-06T01:43:53Z</updated>
-    <id>tag:github.com,2024-02-06:/USAFA-ECE/ece281-ice2</id>
-    <link href="https://github.com/USAFA-ECE/ece281-ice2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Half-Adder&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

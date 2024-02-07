@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NSIS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-06T01:37:49Z</updated>
+  <updated>2024-02-07T01:35:37Z</updated>
   <subtitle>Daily Trending of NSIS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>satisfactorymodding/SatisfactoryModManager</title>
-    <updated>2024-02-06T01:37:49Z</updated>
-    <id>tag:github.com,2024-02-06:/satisfactorymodding/SatisfactoryModManager</id>
-    <link href="https://github.com/satisfactorymodding/SatisfactoryModManager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A mod manager for easy installation of mods and modloader for Satisfactory&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
