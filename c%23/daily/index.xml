@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-07T01:24:23Z</updated>
+  <updated>2024-02-08T01:26:07Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shalzuth/PalWorldAntiCheat</title>
+    <updated>2024-02-08T01:26:07Z</updated>
+    <id>tag:github.com,2024-02-08:/shalzuth/PalWorldAntiCheat</id>
+    <link href="https://github.com/shalzuth/PalWorldAntiCheat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;palworld anticheat for dedicated servers&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PalWorldAntiCheat&lt;/h1&gt; &#xA;&lt;p&gt;palworld anticheat for dedicated servers&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Giorgi/EFCore.Visualizer</title>
+    <updated>2024-02-08T01:26:07Z</updated>
+    <id>tag:github.com,2024-02-08:/Giorgi/EFCore.Visualizer</id>
+    <link href="https://github.com/Giorgi/EFCore.Visualizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Entity Framework Core queries debugger visualizer.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Giorgi/EFCore.Visualizer/main/doc/IconMedium.png&#34; alt=&#34;EFCore.Visualizer&#34; title=&#34;EFCore.Visualizer&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Entity Framework Core Query Plan Visualizer&lt;/h1&gt; &#xA;&lt;p&gt;View Entity Framework Core query plan directly inside Visual Studio.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Download%20Now-8A2BE2?style=for-the-badge&#34; alt=&#34;Download Now&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer&#34;&gt;&lt;img src=&#34;https://img.shields.io/visual-studio-marketplace/d/GiorgiDalakishvili.EFCoreVisualizer?style=for-the-badge&#34; alt=&#34;Visual Studio Marketplace Downloads&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;With Entity Framework Core query plan debugger visualizer, you can view the query plan of your queries directly inside Visual Studio. Currently, the visualizer supports SQL Server and PostgreSQL.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[!IMPORTANT] The visualizer requires &lt;strong&gt;Visual Studio Version 17.9.0 (Currently in Preview) or newer&lt;/strong&gt; and supports &lt;strong&gt;EF Core 7 or newer&lt;/strong&gt;.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;After installing the &lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer&#34;&gt;extension from the marketplace&lt;/a&gt;, a new debugger visualizer will be added to Visual Studio. When debugging, hover over your queries and there will be an option to view the query plan:&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Giorgi/EFCore.Visualizer/main/doc/VariableVisualizer.png&#34; alt=&#34;VariableVisualizer&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Click on &#39;Query Plan Visualizer&#39; and the query plan will be displayed for your query.&lt;/p&gt; &#xA;&lt;h3&gt;SQL Server:&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Giorgi/EFCore.Visualizer/main/doc/SqlPlan1.png&#34; alt=&#34;Sql Server Plan&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Giorgi/EFCore.Visualizer/main/doc/SqlPlan2.png&#34; alt=&#34;Sql Server Plan&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;PostgreSQL:&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Giorgi/EFCore.Visualizer/main/doc/PostgreSQLPlan2.png&#34; alt=&#34;PostgreSQL Plan&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Giorgi/EFCore.Visualizer/main/doc/PostgreSQLPlan1.png&#34; alt=&#34;PostgreSQL Plan&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;p&gt;This extension uses &lt;a href=&#34;https://github.com/dalibo/pev2/&#34;&gt;pev2&lt;/a&gt; and &lt;a href=&#34;https://github.com/JustinPealing/html-query-plan&#34;&gt;html-query-plan&lt;/a&gt; to display query plans.&lt;/p&gt;</summary>
+  </entry>
 </feed>

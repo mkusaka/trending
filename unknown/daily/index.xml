@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-07T01:22:05Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2024-02-08T01:23:19Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>majidrezarahnavard/way_of_freedom</title>
-    <updated>2024-02-07T01:22:05Z</updated>
-    <id>tag:github.com,2024-02-07:/majidrezarahnavard/way_of_freedom</id>
-    <link href="https://github.com/majidrezarahnavard/way_of_freedom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;methods to access free internet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>QwenLM/Qwen1.5</title>
+    <updated>2024-02-08T01:23:19Z</updated>
+    <id>tag:github.com,2024-02-08:/QwenLM/Qwen1.5</id>
+    <link href="https://github.com/QwenLM/Qwen1.5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JeffSackmann/tennis_atp</title>
-    <updated>2024-02-07T01:22:05Z</updated>
-    <id>tag:github.com,2024-02-07:/JeffSackmann/tennis_atp</id>
-    <link href="https://github.com/JeffSackmann/tennis_atp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ATP Tennis Rankings, Results, and Stats&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>web-platform-tests/interop</title>
-    <updated>2024-02-07T01:22:05Z</updated>
-    <id>tag:github.com,2024-02-07:/web-platform-tests/interop</id>
-    <link href="https://github.com/web-platform-tests/interop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;web-platform-tests Interop project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>perixtar/2024-Tech-OA</title>
+    <updated>2024-02-08T01:23:19Z</updated>
+    <id>tag:github.com,2024-02-08:/perixtar/2024-Tech-OA</id>
+    <link href="https://github.com/perixtar/2024-Tech-OA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of Tech Company OAs. Save your time from finding them all over the internet.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

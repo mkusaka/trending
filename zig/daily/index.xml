@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-07T01:42:32Z</updated>
+  <updated>2024-02-08T01:49:00Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cztomsik/tokamak</title>
+    <updated>2024-02-08T01:49:00Z</updated>
+    <id>tag:github.com,2024-02-08:/cztomsik/tokamak</id>
+    <link href="https://github.com/cztomsik/tokamak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Server-side framework for Zig, relying heavily on dependency injection.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

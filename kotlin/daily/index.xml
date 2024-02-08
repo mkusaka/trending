@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-07T01:33:06Z</updated>
+  <updated>2024-02-08T01:36:41Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ium-Lab/Apk.1-Installer</title>
-    <updated>2024-02-07T01:33:06Z</updated>
-    <id>tag:github.com,2024-02-07:/Ium-Lab/Apk.1-Installer</id>
-    <link href="https://github.com/Ium-Lab/Apk.1-Installer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Apk.1-Installer&lt;/h1&gt; &#xA;&lt;p&gt;由于在QQ和微信中发送apk文件时，文件名会被万恶的腾讯添加后缀.1，此App可以省去重命名步骤，直接安装apk。&lt;/p&gt; &#xA;&lt;h2&gt;步骤&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;获取权限&lt;/li&gt; &#xA; &lt;li&gt;在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>brahmkshatriya/Echo</title>
+    <updated>2024-02-08T01:36:41Z</updated>
+    <id>tag:github.com,2024-02-08:/brahmkshatriya/Echo</id>
+    <link href="https://github.com/brahmkshatriya/Echo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An extension based Android Music Player.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

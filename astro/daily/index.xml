@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-07T01:23:19Z</updated>
+  <updated>2024-02-08T01:24:40Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>msalzburg/msalzburg.github.io</title>
-    <updated>2024-02-07T01:23:19Z</updated>
-    <id>tag:github.com,2024-02-07:/msalzburg/msalzburg.github.io</id>
-    <link href="https://github.com/msalzburg/msalzburg.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MatthiesenXYZ/astro-ghostcms</title>
-    <updated>2024-02-07T01:23:19Z</updated>
-    <id>tag:github.com,2024-02-07:/MatthiesenXYZ/astro-ghostcms</id>
-    <link href="https://github.com/MatthiesenXYZ/astro-ghostcms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easily migrate your Ghost Site to Astro, an Astro Integration that turns your Ghost server into a Headless CMS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rotaractgalgotias/wesbite</title>
+    <updated>2024-02-08T01:24:40Z</updated>
+    <id>tag:github.com,2024-02-08:/rotaractgalgotias/wesbite</id>
+    <link href="https://github.com/rotaractgalgotias/wesbite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

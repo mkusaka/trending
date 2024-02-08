@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-07T01:34:13Z</updated>
+  <updated>2024-02-08T01:38:06Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RedHatInsights/floorist-operator</title>
-    <updated>2024-02-07T01:34:13Z</updated>
-    <id>tag:github.com,2024-02-07:/RedHatInsights/floorist-operator</id>
-    <link href="https://github.com/RedHatInsights/floorist-operator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Operator to manage scheduling of metrics export with floorist&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yzharko/spbspu-labs-2024-aads</title>
+    <updated>2024-02-08T01:38:06Z</updated>
+    <id>tag:github.com,2024-02-08:/yzharko/spbspu-labs-2024-aads</id>
+    <link href="https://github.com/yzharko/spbspu-labs-2024-aads" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Лабораторные работы по дисциплине &#34;Алгоритмы и Структуры Данных&#34; групп ПИ[1 | 5 | 6]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

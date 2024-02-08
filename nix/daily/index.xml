@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-07T01:35:41Z</updated>
+  <updated>2024-02-08T01:39:50Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>barrucadu/nixfiles</title>
-    <updated>2024-02-07T01:35:41Z</updated>
-    <id>tag:github.com,2024-02-07:/barrucadu/nixfiles</id>
-    <link href="https://github.com/barrucadu/nixfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My NixOS configuration and assorted other crap.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AshleyYakeley/NixVirt</title>
+    <updated>2024-02-08T01:39:50Z</updated>
+    <id>tag:github.com,2024-02-08:/AshleyYakeley/NixVirt</id>
+    <link href="https://github.com/AshleyYakeley/NixVirt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LibVirt domain management for Nix&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kachick/anylang-template</title>
+    <updated>2024-02-08T01:39:50Z</updated>
+    <id>tag:github.com,2024-02-08:/kachick/anylang-template</id>
+    <link href="https://github.com/kachick/anylang-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A template that is not exclusive to one programming language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

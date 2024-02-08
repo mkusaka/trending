@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-07T01:27:21Z</updated>
+  <updated>2024-02-08T01:30:53Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>emacsorphanage/perl-utils</title>
-    <updated>2024-02-07T01:27:21Z</updated>
-    <id>tag:github.com,2024-02-07:/emacsorphanage/perl-utils</id>
-    <link href="https://github.com/emacsorphanage/perl-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emacs Perl utilities&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;perl-utils.el&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/emacsorphanage/perl-utils/master/image/perl-utils.png&#34; alt=&#34;perl-utils&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;perl-utils.el&lt;/code&gt; is Emacs perl utilities.&lt;/p&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Emacs 24 or higher&lt;/li&gt; &#xA; &lt;li&gt;helm 1.0 or higher&lt;/li&gt; &#xA; &lt;li&gt;Perl&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Basic Usage&lt;/h2&gt; &#xA;&lt;h4&gt;&lt;code&gt;perl-utils&lt;/code&gt;&lt;/h4&gt; &#xA;&lt;p&gt;&lt;code&gt;perl-utils&lt;/code&gt; provides building package and testing package.&lt;/p&gt;</summary>
-  </entry>
 </feed>

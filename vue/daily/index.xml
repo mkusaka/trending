@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-07T01:41:44Z</updated>
+  <updated>2024-02-08T01:48:17Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Edge-coordinates/Waterfall_picture_viewer</title>
-    <updated>2024-02-07T01:41:44Z</updated>
-    <id>tag:github.com,2024-02-07:/Edge-coordinates/Waterfall_picture_viewer</id>
-    <link href="https://github.com/Edge-coordinates/Waterfall_picture_viewer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;瀑布流图片查看器&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BizSpringSource/bizspring-vue3-opensource</title>
-    <updated>2024-02-07T01:41:44Z</updated>
-    <id>tag:github.com,2024-02-07:/BizSpringSource/bizspring-vue3-opensource</id>
-    <link href="https://github.com/BizSpringSource/bizspring-vue3-opensource" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BizSpring Java商城首选,可商用；Vue3,Element UI Plus,Uniapp,微服务,SpringCloud,跨境电商,跨境商城,电商国际化,外贸,独立站,多国语言,移动商城,小程序商城,H5商城,公众号商城,App,Redis,支持多语言,多规格SKU,分销,拼团,砍价,秒杀,优惠券,积分,会员等级,小程序前后端分离,方便二开,Markdown在线文档,代码生成,二开文档齐全,代码规范&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vuestorefront/storefront-nuxt3-boilerplate</title>
-    <updated>2024-02-07T01:41:44Z</updated>
-    <id>tag:github.com,2024-02-07:/vuestorefront/storefront-nuxt3-boilerplate</id>
-    <link href="https://github.com/vuestorefront/storefront-nuxt3-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nuxt 3 Storefront Boilerplate&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>selemondev/marquee</title>
+    <updated>2024-02-08T01:48:17Z</updated>
+    <id>tag:github.com,2024-02-08:/selemondev/marquee</id>
+    <link href="https://github.com/selemondev/marquee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Beautiful Marquee component for Vue.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

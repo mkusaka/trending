@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-07T01:31:40Z</updated>
+  <updated>2024-02-08T01:35:04Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GlassyAmadeus/CVE-2024-20931</title>
+    <updated>2024-02-08T01:35:04Z</updated>
+    <id>tag:github.com,2024-02-08:/GlassyAmadeus/CVE-2024-20931</id>
+    <link href="https://github.com/GlassyAmadeus/CVE-2024-20931" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Poc for CVE-2024-20931&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CVE-2024-20931&lt;/h1&gt; &#xA;&lt;p&gt;The Poc for CVE-2024-20931&lt;/p&gt; &#xA;&lt;h2&gt;Vulnerability Analysis&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://glassyamadeus.github.io/2024/01/31/CVE_2024_20931/&#34;&gt;JNDI注入的一种新攻击面-CVE-2024-20931分析&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>langchain4j/langchain4j-examples</title>
+    <updated>2024-02-08T01:35:04Z</updated>
+    <id>tag:github.com,2024-02-08:/langchain4j/langchain4j-examples</id>
+    <link href="https://github.com/langchain4j/langchain4j-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href=&#34;https://github.com/langchain4j/langchain4j&#34;&gt;LangChain4j&lt;/a&gt; Examples&lt;/h1&gt; &#xA;&lt;p&gt;This repository provides several examples using the LangChain4j library.&lt;/p&gt; &#xA;&lt;p&gt;A good place to start includes:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/langchain4j/langchain4j-examples/tree/main/tutorials/src/main/java&#34;&gt;Tutorials&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/langchain4j/langchain4j-examples/tree/main/other-examples/src/main/java&#34;&gt;More examples&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/langchain4j/langchain4j-examples/tree/main/rag-examples/src/main/java&#34;&gt;Examples of using advacned RAG techniques&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/langchain4j/langchain4j-examples/raw/main/spring-boot-example/src/test/java/dev/example/CustomerSupportApplicationTest.java&#34;&gt;Example of an agent with memory, tools and RAG&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

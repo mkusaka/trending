@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-07T01:41:31Z</updated>
+  <updated>2024-02-08T01:48:03Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AlSaqr-platform/sdio_vip</title>
-    <updated>2024-02-07T01:41:31Z</updated>
-    <id>tag:github.com,2024-02-07:/AlSaqr-platform/sdio_vip</id>
-    <link href="https://github.com/AlSaqr-platform/sdio_vip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;sdiovip&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Dasharo/verilog-spi-module</title>
-    <updated>2024-02-07T01:41:31Z</updated>
-    <id>tag:github.com,2024-02-07:/Dasharo/verilog-spi-module</id>
-    <link href="https://github.com/Dasharo/verilog-spi-module" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>os-fpga/Validation</title>
-    <updated>2024-02-07T01:41:31Z</updated>
-    <id>tag:github.com,2024-02-07:/os-fpga/Validation</id>
-    <link href="https://github.com/os-fpga/Validation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Raptor Validation - New clean version of Compiler_Validation repo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
