@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-08T01:37:29Z</updated>
+  <updated>2024-02-09T01:31:54Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EmilBechMadsen/AEBM-ITU-PSCT-2013</title>
+    <updated>2024-02-09T01:31:54Z</updated>
+    <id>tag:github.com,2024-02-09:/EmilBechMadsen/AEBM-ITU-PSCT-2013</id>
+    <link href="https://github.com/EmilBechMadsen/AEBM-ITU-PSCT-2013" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pervasive Computing 2013 projects for aebm@itu.dk at the IT-University of Copenhagen&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

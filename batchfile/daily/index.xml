@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-08T01:25:06Z</updated>
+  <updated>2024-02-09T01:23:34Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure/azure-cosmos-db-emulator-docker</title>
-    <updated>2024-02-08T01:25:06Z</updated>
-    <id>tag:github.com,2024-02-08:/Azure/azure-cosmos-db-emulator-docker</id>
-    <link href="https://github.com/Azure/azure-cosmos-db-emulator-docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo serves as hub for managing issues, gathering feedback, and having discussions regarding the Cosmos DB Emulator Docker.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

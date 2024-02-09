@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-08T01:30:46Z</updated>
+  <updated>2024-02-09T01:27:34Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>primait/opentelemetry_absinthe</title>
-    <updated>2024-02-08T01:30:46Z</updated>
-    <id>tag:github.com,2024-02-08:/primait/opentelemetry_absinthe</id>
-    <link href="https://github.com/primait/opentelemetry_absinthe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sonnen/xandra</title>
+    <updated>2024-02-09T01:27:34Z</updated>
+    <id>tag:github.com,2024-02-09:/sonnen/xandra</id>
+    <link href="https://github.com/sonnen/xandra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast, simple, and robust Cassandra driver for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

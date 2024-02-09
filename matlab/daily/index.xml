@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-08T01:38:19Z</updated>
+  <updated>2024-02-09T01:32:23Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>huluz/Transient_Opt_via_DP</title>
-    <updated>2024-02-08T01:38:19Z</updated>
-    <id>tag:github.com,2024-02-08:/huluz/Transient_Opt_via_DP</id>
-    <link href="https://github.com/huluz/Transient_Opt_via_DP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Transient Optimization of Gas Pipeline for the Last Section via Dynamic Programming&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pawarmanoj89/TrustModel</title>
+    <updated>2024-02-09T01:32:23Z</updated>
+    <id>tag:github.com,2024-02-09:/pawarmanoj89/TrustModel</id>
+    <link href="https://github.com/pawarmanoj89/TrustModel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>paulking/ei_net</title>
-    <updated>2024-02-08T01:38:19Z</updated>
-    <id>tag:github.com,2024-02-08:/paulking/ei_net</id>
-    <link href="https://github.com/paulking/ei_net" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;E-I Net is a spiking neural network simulation and a general-purpose spiking neural circuit simulator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kcd/upss</title>
+    <updated>2024-02-09T01:32:23Z</updated>
+    <id>tag:github.com,2024-02-09:/kcd/upss</id>
+    <link href="https://github.com/kcd/upss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

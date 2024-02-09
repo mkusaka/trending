@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-08T01:36:41Z</updated>
+  <updated>2024-02-09T01:31:31Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>brahmkshatriya/Echo</title>
-    <updated>2024-02-08T01:36:41Z</updated>
-    <id>tag:github.com,2024-02-08:/brahmkshatriya/Echo</id>
-    <link href="https://github.com/brahmkshatriya/Echo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An extension based Android Music Player.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

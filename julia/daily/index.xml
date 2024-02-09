@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-08T01:36:06Z</updated>
+  <updated>2024-02-09T01:31:12Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>varnerlab/CHEME-4800-5800-Labs-AY-2024</title>
-    <updated>2024-02-08T01:36:06Z</updated>
-    <id>tag:github.com,2024-02-08:/varnerlab/CHEME-4800-5800-Labs-AY-2024</id>
-    <link href="https://github.com/varnerlab/CHEME-4800-5800-Labs-AY-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository holding the labs for the CHEME 4800/5800 course at Cornell University for AY 2024&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jonocarroll/TriangulArt.jl</title>
+    <updated>2024-02-09T01:31:12Z</updated>
+    <id>tag:github.com,2024-02-09:/jonocarroll/TriangulArt.jl</id>
+    <link href="https://github.com/jonocarroll/TriangulArt.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Artify images using Delaunay Triangulation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CDCgov/Rt-without-renewal</title>
-    <updated>2024-02-08T01:36:06Z</updated>
-    <id>tag:github.com,2024-02-08:/CDCgov/Rt-without-renewal</id>
-    <link href="https://github.com/CDCgov/Rt-without-renewal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hyrodium/BasicBSpline.jl</title>
-    <updated>2024-02-08T01:36:06Z</updated>
-    <id>tag:github.com,2024-02-08:/hyrodium/BasicBSpline.jl</id>
-    <link href="https://github.com/hyrodium/BasicBSpline.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basic (mathematical) operations for B-spline functions and related things with julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lrnv/Copulas.jl</title>
+    <updated>2024-02-09T01:31:12Z</updated>
+    <id>tag:github.com,2024-02-09:/lrnv/Copulas.jl</id>
+    <link href="https://github.com/lrnv/Copulas.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fully `Distributions.jl`-compliant copula package&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

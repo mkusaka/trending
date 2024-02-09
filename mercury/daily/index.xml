@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mercury Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-08T01:38:32Z</updated>
+  <updated>2024-02-09T01:32:30Z</updated>
   <subtitle>Daily Trending of Mercury in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ciaran-schembri/ShimCurve</title>
+    <updated>2024-02-09T01:32:30Z</updated>
+    <id>tag:github.com,2024-02-09:/ciaran-schembri/ShimCurve</id>
+    <link href="https://github.com/ciaran-schembri/ShimCurve" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code to compute information about Shimura curves with level structure and load the data that has already been computed&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
