@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-09T01:28:35Z</updated>
+  <updated>2024-02-10T01:29:31Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kevinw/GodotVisionExample</title>
-    <updated>2024-02-09T01:28:35Z</updated>
-    <id>tag:github.com,2024-02-09:/kevinw/GodotVisionExample</id>
-    <link href="https://github.com/kevinw/GodotVisionExample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot in visionOS / RealityKit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ZsoltHevesi/Voxel-RPG</title>
-    <updated>2024-02-09T01:28:35Z</updated>
-    <id>tag:github.com,2024-02-09:/ZsoltHevesi/Voxel-RPG</id>
-    <link href="https://github.com/ZsoltHevesi/Voxel-RPG" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TU voxel RPG game project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BirDt/bhop3d</title>
+    <updated>2024-02-10T01:29:31Z</updated>
+    <id>tag:github.com,2024-02-10:/BirDt/bhop3d</id>
+    <link href="https://github.com/BirDt/bhop3d" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A source-like movement controller for Godot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

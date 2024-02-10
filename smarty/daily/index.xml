@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-09T01:37:18Z</updated>
+  <updated>2024-02-10T01:39:34Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>onecx/helm-quarkus-app</title>
+    <updated>2024-02-10T01:39:34Z</updated>
+    <id>tag:github.com,2024-02-10:/onecx/helm-quarkus-app</id>
+    <link href="https://github.com/onecx/helm-quarkus-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quarkus application helm template&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZordnajelA/GTAG-GA4-custom-tag-builder</title>
+    <updated>2024-02-10T01:39:34Z</updated>
+    <id>tag:github.com,2024-02-10:/ZordnajelA/GTAG-GA4-custom-tag-builder</id>
+    <link href="https://github.com/ZordnajelA/GTAG-GA4-custom-tag-builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Provide additional customization options to Google Tag&#39;s own native template&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

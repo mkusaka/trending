@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ren&#39;Py Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-09T01:35:54Z</updated>
+  <updated>2024-02-10T01:37:50Z</updated>
   <subtitle>Daily Trending of Ren&#39;Py in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HiNett/CarbonWashing</title>
+    <updated>2024-02-10T01:37:50Z</updated>
+    <id>tag:github.com,2024-02-10:/HiNett/CarbonWashing</id>
+    <link href="https://github.com/HiNett/CarbonWashing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CarbonWashing is a CYOA Game made by Students for Fun&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

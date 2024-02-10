@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-09T01:25:57Z</updated>
+  <updated>2024-02-10T01:27:25Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vishaltewatia/Rose-Day</title>
-    <updated>2024-02-09T01:25:57Z</updated>
-    <id>tag:github.com,2024-02-09:/vishaltewatia/Rose-Day</id>
-    <link href="https://github.com/vishaltewatia/Rose-Day" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Rose-Day&lt;/h1&gt;</summary>
-  </entry>
-  <entry>
-    <title>yforku/template</title>
-    <updated>2024-02-09T01:25:57Z</updated>
-    <id>tag:github.com,2024-02-09:/yforku/template</id>
-    <link href="https://github.com/yforku/template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;template.vlsm.org&lt;/h1&gt; &#xA;&lt;p&gt;This is a GitHub Page template on GitHub.com. Fill free to clone/fork/hijack/whatever it!&lt;/p&gt;</summary>
+    <title>diydiagnostics/App2-HelloWorld2024</title>
+    <updated>2024-02-10T01:27:25Z</updated>
+    <id>tag:github.com,2024-02-10:/diydiagnostics/App2-HelloWorld2024</id>
+    <link href="https://github.com/diydiagnostics/App2-HelloWorld2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;App2-HelloWorld2024&lt;/h1&gt; &#xA;&lt;p&gt;This is the repository for the App 2- Hello World assignment. The base code you will use is above (in this repository) and you will make your own copy of the code (fork the code). Then you can edit your fork without impacting the original copy.&lt;/p&gt;</summary>
   </entry>
 </feed>

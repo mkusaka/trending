@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-09T01:22:59Z</updated>
+  <updated>2024-02-10T01:24:57Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>khushal-ganani/todo-google-tasks-integration</title>
+    <updated>2024-02-10T01:24:57Z</updated>
+    <id>tag:github.com,2024-02-10:/khushal-ganani/todo-google-tasks-integration</id>
+    <link href="https://github.com/khushal-ganani/todo-google-tasks-integration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Salesforce To-Do Manager with Google Tasks Integration project which extends the capabilities of the original To-Do Manager by seamlessly integrating with the Google Tasks API. The project includes secure OAuth 2.0 authorization, robust JSON parsing, Postman testing, and Apex callouts with trigger handlers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

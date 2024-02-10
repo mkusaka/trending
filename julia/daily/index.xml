@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-09T01:31:12Z</updated>
+  <updated>2024-02-10T01:32:34Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jonocarroll/TriangulArt.jl</title>
-    <updated>2024-02-09T01:31:12Z</updated>
-    <id>tag:github.com,2024-02-09:/jonocarroll/TriangulArt.jl</id>
-    <link href="https://github.com/jonocarroll/TriangulArt.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Artify images using Delaunay Triangulation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lrnv/Copulas.jl</title>
-    <updated>2024-02-09T01:31:12Z</updated>
-    <id>tag:github.com,2024-02-09:/lrnv/Copulas.jl</id>
-    <link href="https://github.com/lrnv/Copulas.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fully `Distributions.jl`-compliant copula package&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaBinaryWrappers/OpenFOAM_com_jll.jl</title>
+    <updated>2024-02-10T01:32:34Z</updated>
+    <id>tag:github.com,2024-02-10:/JuliaBinaryWrappers/OpenFOAM_com_jll.jl</id>
+    <link href="https://github.com/JuliaBinaryWrappers/OpenFOAM_com_jll.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-09T01:23:16Z</updated>
+  <updated>2024-02-10T01:25:16Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kelindar/bitmap</title>
-    <updated>2024-02-09T01:23:16Z</updated>
-    <id>tag:github.com,2024-02-09:/kelindar/bitmap</id>
-    <link href="https://github.com/kelindar/bitmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple dense bitmap index in Go with binary operators&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hiteshchoudhary/open-source-contribution</title>
+    <updated>2024-02-10T01:25:16Z</updated>
+    <id>tag:github.com,2024-02-10:/hiteshchoudhary/open-source-contribution</id>
+    <link href="https://github.com/hiteshchoudhary/open-source-contribution" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repo to contribute in open source via README only. A dream repo for open source beginner&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dpw/asm-simd-loadn</title>
+    <updated>2024-02-10T01:25:16Z</updated>
+    <id>tag:github.com,2024-02-10:/dpw/asm-simd-loadn</id>
+    <link href="https://github.com/dpw/asm-simd-loadn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A little SIMD asm experiment&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pallavigudipati/deluminator</title>
+    <updated>2024-02-10T01:25:16Z</updated>
+    <id>tag:github.com,2024-02-10:/pallavigudipati/deluminator</id>
+    <link href="https://github.com/pallavigudipati/deluminator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

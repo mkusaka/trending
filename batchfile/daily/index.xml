@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-09T01:23:34Z</updated>
+  <updated>2024-02-10T01:25:29Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mianayang/singboxbat</title>
+    <updated>2024-02-10T01:25:29Z</updated>
+    <id>tag:github.com,2024-02-10:/mianayang/singboxbat</id>
+    <link href="https://github.com/mianayang/singboxbat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;自用&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>isc30/ryzen-7000-series-proxmox</title>
+    <updated>2024-02-10T01:25:29Z</updated>
+    <id>tag:github.com,2024-02-10:/isc30/ryzen-7000-series-proxmox</id>
+    <link href="https://github.com/isc30/ryzen-7000-series-proxmox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Get the Ryzen 7000 series processors with AMD Radeon 680M/780M integrated graphics or RDNA2/RDNA3 GPUs running with Proxmox, GPU passthrough and UEFI included.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Bhaggo/Bhaggos-Quick-Cleaner</title>
+    <updated>2024-02-10T01:25:29Z</updated>
+    <id>tag:github.com,2024-02-10:/Bhaggo/Bhaggos-Quick-Cleaner</id>
+    <link href="https://github.com/Bhaggo/Bhaggos-Quick-Cleaner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I created this lightweight program created in batch and C++ to help optimize your computer. It works with every type of computer (actual hardware, virtual machine, and computers using bootcamp.)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
