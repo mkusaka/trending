@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Classic ASP Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-11T01:42:57Z</updated>
+  <subtitle>Weekly Trending of Classic ASP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rapha22/ASP-Utils</title>
+    <updated>2024-02-11T01:42:57Z</updated>
+    <id>tag:github.com,2024-02-11:/rapha22/ASP-Utils</id>
+    <link href="https://github.com/rapha22/ASP-Utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>haithemaraissia/Done</title>
+    <updated>2024-02-11T01:42:57Z</updated>
+    <id>tag:github.com,2024-02-11:/haithemaraissia/Done</id>
+    <link href="https://github.com/haithemaraissia/Done" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Done&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:33:45Z</updated>
+  <updated>2024-02-11T01:33:39Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yzharko/spbspu-labs-2024-tp</title>
-    <updated>2024-02-10T01:33:45Z</updated>
-    <id>tag:github.com,2024-02-10:/yzharko/spbspu-labs-2024-tp</id>
-    <link href="https://github.com/yzharko/spbspu-labs-2024-tp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Лабораторные работы по дисциплине &#34;Технологии Программирования&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2</title>
+    <updated>2024-02-11T01:33:39Z</updated>
+    <id>tag:github.com,2024-02-11:/educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2</id>
+    <link href="https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Raylib C++ Starter Template for VSCODE V2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

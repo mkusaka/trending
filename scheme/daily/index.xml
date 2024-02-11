@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:38:39Z</updated>
+  <updated>2024-02-11T01:37:39Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gridcentric/openstack-salt-states</title>
-    <updated>2024-02-10T01:38:39Z</updated>
-    <id>tag:github.com,2024-02-10:/gridcentric/openstack-salt-states</id>
-    <link href="https://github.com/gridcentric/openstack-salt-states" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Salt states for deploying OpenStack.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alokyadav/TinyInterpreter</title>
-    <updated>2024-02-10T01:38:39Z</updated>
-    <id>tag:github.com,2024-02-10:/alokyadav/TinyInterpreter</id>
-    <link href="https://github.com/alokyadav/TinyInterpreter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>webyrd/relational-unifier</title>
+    <updated>2024-02-11T01:37:39Z</updated>
+    <id>tag:github.com,2024-02-11:/webyrd/relational-unifier</id>
+    <link href="https://github.com/webyrd/relational-unifier" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Relational unifier, implemented in miniKanren&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

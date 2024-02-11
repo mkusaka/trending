@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:32:50Z</updated>
+  <updated>2024-02-11T01:32:55Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>iamr0s/Dhizuku</title>
+    <updated>2024-02-11T01:32:55Z</updated>
+    <id>tag:github.com,2024-02-11:/iamr0s/Dhizuku</id>
+    <link href="https://github.com/iamr0s/Dhizuku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Android Application for share DeviceOwner&lt;/p&gt;&lt;hr&gt;&lt;p&gt;English | &lt;a href=&#34;https://raw.githubusercontent.com/iamr0s/Dhizuku/main/README_zh_rCN.md&#34;&gt;简体中文&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Dhizuku&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/iamr0s/Dhizuku/releases&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/downloads/iamr0s/Dhizuku/total?label=Downloads&#34; alt=&#34;Downloads&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/iamr0s/Dhizuku/releases/latest&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/v/release/iamr0s/Dhizuku?label=Lastest&#34; alt=&#34;Lastest&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;A tool that can share DeviceOwner permissions to other application.&lt;/p&gt; &#xA;&lt;h2&gt;Activation tutorial&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/iamr0s/Dhizuku/discussions/19&#34;&gt;Github Discussions&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Supported Versions&lt;/h2&gt; &#xA;&lt;p&gt;Android 5.0 ~ 14&lt;/p&gt; &#xA;&lt;h2&gt;For Developer（Join Dhizuku-API）&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/iamr0s/Dhizuku-API.git&#34;&gt;Dhizuku API&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Participate in translation&lt;/h2&gt; &#xA;&lt;p&gt;If you would like to get involved in translating Dhizuku, head over to &lt;a href=&#34;https://hosted.weblate.org/engage/dhizuku/&#34;&gt;Weblate&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://hosted.weblate.org/engage/dhizuku/&#34;&gt;&lt;img src=&#34;https://hosted.weblate.org/widgets/dhizuku/-/multi-auto.svg?sanitize=true&#34; alt=&#34;status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Donation support&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://qr.alipay.com/fkx18580lfpydiop04dze47&#34;&gt;Alipay&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://missuo.ru/file/fee5df1381671c996b127.png&#34;&gt;Wechat&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://missuo.ru/file/28368c28d4ff28d59ed4b.jpg&#34;&gt;Binance&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Dhizuku is licensed under the &lt;a href=&#34;http://www.gnu.org/copyleft/gpl.html&#34;&gt;&lt;strong&gt;GNU General Public License v3 (GPL-3)&lt;/strong&gt;&lt;/a&gt; , And promises to continue to keep it open source in the future.&lt;/p&gt;</summary>
+  </entry>
 </feed>

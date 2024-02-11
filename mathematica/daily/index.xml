@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:33:55Z</updated>
+  <updated>2024-02-11T01:33:44Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CSG-3813/CSG3813-24SP</title>
-    <updated>2024-02-10T01:33:55Z</updated>
-    <id>tag:github.com,2024-02-10:/CSG-3813/CSG3813-24SP</id>
-    <link href="https://github.com/CSG-3813/CSG3813-24SP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

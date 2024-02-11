@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:30:29Z</updated>
+  <updated>2024-02-11T01:31:16Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NicolasT/leveldbmgr</title>
-    <updated>2024-02-10T01:30:29Z</updated>
-    <id>tag:github.com,2024-02-10:/NicolasT/leveldbmgr</id>
-    <link href="https://github.com/NicolasT/leveldbmgr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CLI access to LevelDB&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;leveldbmgr&lt;/h1&gt; &#xA;&lt;p&gt;CLI access to LevelDB&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://travis-ci.org/NicolasT/leveldbmgr&#34;&gt;&lt;img src=&#34;https://secure.travis-ci.org/NicolasT/leveldbmgr.png&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>cmoog/traderjoes</title>
+    <updated>2024-02-11T01:31:16Z</updated>
+    <id>tag:github.com,2024-02-11:/cmoog/traderjoes</id>
+    <link href="https://github.com/cmoog/traderjoes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Price tracking program and website for Trader Joe&#39;s, updated daily.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Trader Joe&#39;s Price Tracking&lt;/h1&gt; &#xA;&lt;p&gt;Updated daily at &lt;a href=&#34;https://traderjoesprices.com&#34;&gt;traderjoesprices.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;All product prices are sourced from the Chicago South Loop location, store code &lt;code&gt;701&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;$ nix run . -- fetch&#xA;runnning&#xA;requesting page 1&#xA;requesting page 2&#xA;...&#xA;&#xA;$ sqlite3 traderjoes.db&#xA;sqlite&amp;gt; select * from items order by item_title limit 3;&#xA;093200|4.49|100% Colombian Instant Coffee|2024-01-21 22:45:30&#xA;156933|3.99|100% Mango Juice from Carabao Mangoes|2024-01-21 22:45:33&#xA;066569|3.99|100% Orange Juice No Pulp|2024-01-21 22:45:28&#xA;&#xA;$ nix run . -- gen&#xA;# generates site in ./site&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Dedication&lt;/h2&gt; &#xA;&lt;p&gt;This project is dedicated to Trader Joe&#39;s Hyde Park in Chicago. Store code &lt;code&gt;706&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/cmoog/traderjoes/assets/7585078/1d984c08-55dc-4686-8d2d-60629bfb77a2&#34; alt=&#34;trader-joes-store&#34;&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>mdsn/haskell</title>
-    <updated>2024-02-10T01:30:29Z</updated>
-    <id>tag:github.com,2024-02-10:/mdsn/haskell</id>
-    <link href="https://github.com/mdsn/haskell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;snippets of code I wrote while learning haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;haskell&lt;/h1&gt; &#xA;&lt;p&gt;Snippets of code I wrote while learning haskell. Anything and everything went here, before I paid any attention to cabal.&lt;/p&gt;</summary>
+    <title>ankeshs/numerikell</title>
+    <updated>2024-02-11T01:31:16Z</updated>
+    <id>tag:github.com,2024-02-11:/ankeshs/numerikell</id>
+    <link href="https://github.com/ankeshs/numerikell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;** Numerikell 1.0 ** Haskell for numerics &lt;a href=&#34;http://ankeshs.org/numerikell&#34;&gt;http://ankeshs.org/numerikell&lt;/a&gt; github.com/ankeshs/numerikell Credits:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Ankesh Kumar Singh&lt;/li&gt; &#xA; &lt;li&gt;Dipendra Kumar Misra&lt;/li&gt; &#xA; &lt;li&gt;Mukul Singh&lt;/li&gt; &#xA; &lt;li&gt;Rishi Singh&lt;/li&gt; &#xA; &lt;li&gt;Satyendra Patel&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;The current directory contains libraries for mathematical processing. The applications directory contains a GUI based software utilizing these libraries in a user friendly manner.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>aleator/Meanshift</title>
-    <updated>2024-02-10T01:30:29Z</updated>
-    <id>tag:github.com,2024-02-10:/aleator/Meanshift</id>
-    <link href="https://github.com/aleator/Meanshift" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple Haskell implementation of Meanshift method&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Intro&lt;/h1&gt; &#xA;&lt;p&gt;This package details a basic version of the meanshift algorithm for feature-space analysis. Mean shifting is an iterative process with fixed points that correspond to modes of kernel density estimate performed with the same bandwidth (first parameter). This can be used to, for example, to partition the data by determining which fixed point each of the samples belongs to.&lt;/p&gt; &#xA;&lt;h1&gt;Of Code Quality and Examples&lt;/h1&gt; &#xA;&lt;p&gt;There is an example in the examples directory.&lt;/p&gt; &#xA;&lt;p&gt;This code is somewhat slow, but can be used on reasonably large datasets, such as images:&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;http://github.com/aleator/Meanshift/raw/master/Examples/meanshift-filter.png&#34; alt=&#34;Using meanshift for noise reduction&#34;&gt;&lt;/p&gt;</summary>
+    <title>jiitprashant/OSSDEven2024</title>
+    <updated>2024-02-11T01:31:16Z</updated>
+    <id>tag:github.com,2024-02-11:/jiitprashant/OSSDEven2024</id>
+    <link href="https://github.com/jiitprashant/OSSDEven2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample Repo for teaching Git concepts&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OSSDEven2024&lt;/h1&gt; &#xA;&lt;p&gt;Sample Repo for teaching Git concepts very basic repo for using Git concepts.Things needs to be done will be updated here.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;clone the repo and update one page containg the enrollment number and name. by 5 Feb 2024&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;More instruction will come soon.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
   </entry>
 </feed>

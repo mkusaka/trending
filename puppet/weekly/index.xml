@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-11T01:51:36Z</updated>
+  <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WPI-ARC/drc_common</title>
+    <updated>2024-02-11T01:51:36Z</updated>
+    <id>tag:github.com,2024-02-11:/WPI-ARC/drc_common</id>
+    <link href="https://github.com/WPI-ARC/drc_common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common code for WPI&#39;s DARPA Robotics Challenge subteam&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>example42/puppet-iptables</title>
+    <updated>2024-02-11T01:51:36Z</updated>
+    <id>tag:github.com,2024-02-11:/example42/puppet-iptables</id>
+    <link href="https://github.com/example42/puppet-iptables" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Iptables Puppet Module (for host based firewalling)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>puppetlabs/puppetlabs-puppetdb</title>
+    <updated>2024-02-11T01:51:36Z</updated>
+    <id>tag:github.com,2024-02-11:/puppetlabs/puppetlabs-puppetdb</id>
+    <link href="https://github.com/puppetlabs/puppetlabs-puppetdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A puppet module for installing and managing puppetdb&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

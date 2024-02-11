@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:41:52Z</updated>
+  <updated>2024-02-11T01:40:12Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Gr33nW33n/nuxtship-template</title>
-    <updated>2024-02-10T01:41:52Z</updated>
-    <id>tag:github.com,2024-02-10:/Gr33nW33n/nuxtship-template</id>
-    <link href="https://github.com/Gr33nW33n/nuxtship-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nuxtship is a starter template for startups, marketing websites &amp; landing pages. Built with Nuxt &amp; TailwindCSS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vue-leaflet/vue-leaflet</title>
-    <updated>2024-02-10T01:41:52Z</updated>
-    <id>tag:github.com,2024-02-10:/vue-leaflet/vue-leaflet</id>
-    <link href="https://github.com/vue-leaflet/vue-leaflet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vue-leaflet compatible with vue3&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>themeselection/materio-vuetify-vuejs-admin-template-free</title>
-    <updated>2024-02-10T01:41:52Z</updated>
-    <id>tag:github.com,2024-02-10:/themeselection/materio-vuetify-vuejs-admin-template-free</id>
-    <link href="https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Production Ready, Carefully Crafted, Extensive Vuetifty Free Admin Template 🤩&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>danielroe/page-speed.dev</title>
+    <updated>2024-02-11T01:40:12Z</updated>
+    <id>tag:github.com,2024-02-11:/danielroe/page-speed.dev</id>
+    <link href="https://github.com/danielroe/page-speed.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

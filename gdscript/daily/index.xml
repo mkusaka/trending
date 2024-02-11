@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:29:31Z</updated>
+  <updated>2024-02-11T01:30:20Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BirDt/bhop3d</title>
-    <updated>2024-02-10T01:29:31Z</updated>
-    <id>tag:github.com,2024-02-10:/BirDt/bhop3d</id>
-    <link href="https://github.com/BirDt/bhop3d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A source-like movement controller for Godot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>P1X-in/tanks-of-freedom-ii</title>
+    <updated>2024-02-11T01:30:20Z</updated>
+    <id>tag:github.com,2024-02-11:/P1X-in/tanks-of-freedom-ii</id>
+    <link href="https://github.com/P1X-in/tanks-of-freedom-ii" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Indie Turn Based Strategy in Isometric Voxel Art http://tof.p1x.in&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

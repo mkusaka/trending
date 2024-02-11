@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:42:42Z</updated>
+  <updated>2024-02-11T01:40:53Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ianic/flate</title>
-    <updated>2024-02-10T01:42:42Z</updated>
-    <id>tag:github.com,2024-02-10:/ianic/flate</id>
-    <link href="https://github.com/ianic/flate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;deflate compression algorithm in Zig&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lawrence-laz/zig-enumerable</title>
-    <updated>2024-02-10T01:42:42Z</updated>
-    <id>tag:github.com,2024-02-10:/lawrence-laz/zig-enumerable</id>
-    <link href="https://github.com/lawrence-laz/zig-enumerable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Iterator tools for functional data processing.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>andrewrk/flag2struct</title>
-    <updated>2024-02-10T01:42:42Z</updated>
-    <id>tag:github.com,2024-02-10:/andrewrk/flag2struct</id>
-    <link href="https://github.com/andrewrk/flag2struct" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;simple CLI tool for converting zig source code using flags-style declarations to packed structs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

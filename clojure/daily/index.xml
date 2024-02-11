@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:26:56Z</updated>
+  <updated>2024-02-11T01:27:45Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tonsky/clj-reload</title>
-    <updated>2024-02-10T01:26:56Z</updated>
-    <id>tag:github.com,2024-02-10:/tonsky/clj-reload</id>
-    <link href="https://github.com/tonsky/clj-reload" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>grampelberg/lein-autoreload</title>
+    <updated>2024-02-11T01:27:45Z</updated>
+    <id>tag:github.com,2024-02-11:/grampelberg/lein-autoreload</id>
+    <link href="https://github.com/grampelberg/lein-autoreload" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Keep the repl up to date with source.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cleancoders/c3kit-scaffold</title>
-    <updated>2024-02-10T01:26:56Z</updated>
-    <id>tag:github.com,2024-02-10:/cleancoders/c3kit-scaffold</id>
-    <link href="https://github.com/cleancoders/c3kit-scaffold" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fulcrologic/guardrails</title>
-    <updated>2024-02-10T01:26:56Z</updated>
-    <id>tag:github.com,2024-02-10:/fulcrologic/guardrails</id>
-    <link href="https://github.com/fulcrologic/guardrails" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Efficient, hassle-free function call validation with a concise inline syntax for clojure.spec and Malli&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adamneilson/pushover-clj</title>
+    <updated>2024-02-11T01:27:45Z</updated>
+    <id>tag:github.com,2024-02-11:/adamneilson/pushover-clj</id>
+    <link href="https://github.com/adamneilson/pushover-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple wrapper for sending messages to the Pushover API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

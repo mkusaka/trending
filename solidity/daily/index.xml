@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:39:39Z</updated>
+  <updated>2024-02-11T01:38:26Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Pandora-Labs-Org/erc404</title>
-    <updated>2024-02-10T01:39:39Z</updated>
-    <id>tag:github.com,2024-02-10:/Pandora-Labs-Org/erc404</id>
-    <link href="https://github.com/Pandora-Labs-Org/erc404" rel="alternate"></link>
+    <title>Pandora-Labs-Org/erc404-legacy</title>
+    <updated>2024-02-11T01:38:26Z</updated>
+    <id>tag:github.com,2024-02-11:/Pandora-Labs-Org/erc404-legacy</id>
+    <link href="https://github.com/Pandora-Labs-Org/erc404-legacy" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>usecannon/cannon-std</title>
-    <updated>2024-02-10T01:39:39Z</updated>
-    <id>tag:github.com,2024-02-10:/usecannon/cannon-std</id>
-    <link href="https://github.com/usecannon/cannon-std" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standard library for using Cannon with Foundry&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Cyfrin/2024-02-soulmate</title>
+    <updated>2024-02-11T01:38:26Z</updated>
+    <id>tag:github.com,2024-02-11:/Cyfrin/2024-02-soulmate</id>
+    <link href="https://github.com/Cyfrin/2024-02-soulmate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Dauphine-Digital-Economics/Coinflip</title>
+    <updated>2024-02-11T01:38:26Z</updated>
+    <id>tag:github.com,2024-02-11:/Dauphine-Digital-Economics/Coinflip</id>
+    <link href="https://github.com/Dauphine-Digital-Economics/Coinflip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A coinflip game with Foundry&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

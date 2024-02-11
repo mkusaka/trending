@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-11T01:55:26Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>VueTorrent/VueTorrent</title>
+    <updated>2024-02-11T01:55:26Z</updated>
+    <id>tag:github.com,2024-02-11:/VueTorrent/VueTorrent</id>
+    <link href="https://github.com/VueTorrent/VueTorrent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The sleekest looking WEBUI for qBittorrent made with Vuejs!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jaaksii/sublink</title>
+    <updated>2024-02-11T01:55:26Z</updated>
+    <id>tag:github.com,2024-02-11:/jaaksii/sublink</id>
+    <link href="https://github.com/jaaksii/sublink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;开源节点订阅转换生成管理系统，集成前后端部署在docker&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hepengwei/visualization-collection-vue</title>
+    <updated>2024-02-11T01:55:26Z</updated>
+    <id>tag:github.com,2024-02-11:/hepengwei/visualization-collection-vue</id>
+    <link href="https://github.com/hepengwei/visualization-collection-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

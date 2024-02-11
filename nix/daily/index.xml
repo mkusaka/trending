@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:34:56Z</updated>
+  <updated>2024-02-11T01:34:36Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LudovicoPiero/dotfiles</title>
+    <updated>2024-02-11T01:34:36Z</updated>
+    <id>tag:github.com,2024-02-11:/LudovicoPiero/dotfiles</id>
+    <link href="https://github.com/LudovicoPiero/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NixOS Configuration powered by Flakes ❄️&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nix-community/robotnix</title>
+    <updated>2024-02-11T01:34:36Z</updated>
+    <id>tag:github.com,2024-02-11:/nix-community/robotnix</id>
+    <link href="https://github.com/nix-community/robotnix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Athena-OS/athena-nix</title>
+    <updated>2024-02-11T01:34:36Z</updated>
+    <id>tag:github.com,2024-02-11:/Athena-OS/athena-nix</id>
+    <link href="https://github.com/Athena-OS/athena-nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Athena OS is a NixOS-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ColdFusion Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-11T01:43:14Z</updated>
+  <subtitle>Weekly Trending of ColdFusion in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ckrebs95/ColdFusionIntro</title>
+    <updated>2024-02-11T01:43:14Z</updated>
+    <id>tag:github.com,2024-02-11:/ckrebs95/ColdFusionIntro</id>
+    <link href="https://github.com/ckrebs95/ColdFusionIntro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ColdFusion Classwork&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

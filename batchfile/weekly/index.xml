@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-11T01:41:54Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PrivacyIsFreedom/Windows</title>
+    <updated>2024-02-11T01:41:54Z</updated>
+    <id>tag:github.com,2024-02-11:/PrivacyIsFreedom/Windows</id>
+    <link href="https://github.com/PrivacyIsFreedom/Windows" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hi, i recommend you read my file: ᲼᲼᲼᲼᲼ &#34;Privacy Services List&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HamsterHelper/HamsterHelper</title>
+    <updated>2024-02-11T01:41:54Z</updated>
+    <id>tag:github.com,2024-02-11:/HamsterHelper/HamsterHelper</id>
+    <link href="https://github.com/HamsterHelper/HamsterHelper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;仓鼠助手,p站pixiv图片下载收藏管理器&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VacSsQ/BaconWare-BEST-RAGE-MP-CHEAT</title>
+    <updated>2024-02-11T01:41:54Z</updated>
+    <id>tag:github.com,2024-02-11:/VacSsQ/BaconWare-BEST-RAGE-MP-CHEAT</id>
+    <link href="https://github.com/VacSsQ/BaconWare-BEST-RAGE-MP-CHEAT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BaconWare V3 CHEAT All In One (Works on GrandRP &amp; More servers) - Aimbot, ESP, FriendlyFire, Unlimited Money &amp; more! Regularly updated.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

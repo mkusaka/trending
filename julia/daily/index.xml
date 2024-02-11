@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:32:34Z</updated>
+  <updated>2024-02-11T01:32:42Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaBinaryWrappers/OpenFOAM_com_jll.jl</title>
-    <updated>2024-02-10T01:32:34Z</updated>
-    <id>tag:github.com,2024-02-10:/JuliaBinaryWrappers/OpenFOAM_com_jll.jl</id>
-    <link href="https://github.com/JuliaBinaryWrappers/OpenFOAM_com_jll.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/GlobalSensitivity.jl</title>
+    <updated>2024-02-11T01:32:42Z</updated>
+    <id>tag:github.com,2024-02-11:/SciML/GlobalSensitivity.jl</id>
+    <link href="https://github.com/SciML/GlobalSensitivity.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Robust, Fast, and Parallel Global Sensitivity Analysis (GSA) in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaMath/Roots.jl</title>
+    <updated>2024-02-11T01:32:42Z</updated>
+    <id>tag:github.com,2024-02-11:/JuliaMath/Roots.jl</id>
+    <link href="https://github.com/JuliaMath/Roots.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Root finding functions for Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

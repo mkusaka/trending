@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-11T01:42:01Z</updated>
+  <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/enterprise-azureai</title>
+    <updated>2024-02-11T01:42:01Z</updated>
+    <id>tag:github.com,2024-02-11:/Azure/enterprise-azureai</id>
+    <link href="https://github.com/Azure/enterprise-azureai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unleash the power of Azure AI to your application developers in a secure &amp; manageable way with Azure API Management and Azure Developer CLI.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/azure-monitor-baseline-alerts</title>
+    <updated>2024-02-11T01:42:01Z</updated>
+    <id>tag:github.com,2024-02-11:/Azure/azure-monitor-baseline-alerts</id>
+    <link href="https://github.com/Azure/azure-monitor-baseline-alerts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Monitor Baseline Alerts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

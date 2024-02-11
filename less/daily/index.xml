@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:33:06Z</updated>
+  <updated>2024-02-11T01:33:09Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>car-axle-client/car-axle-client</title>
-    <updated>2024-02-10T01:33:06Z</updated>
-    <id>tag:github.com,2024-02-10:/car-axle-client/car-axle-client</id>
-    <link href="https://github.com/car-axle-client/car-axle-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A bookmarklet menu/client with bookmarklet hacks, exploits, games, scripts, and proxies. Unblocked, all in one place.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

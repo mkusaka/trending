@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-11T01:43:02Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>maxrzepka/algo</title>
+    <updated>2024-02-11T01:43:02Z</updated>
+    <id>tag:github.com,2024-02-11:/maxrzepka/algo</id>
+    <link href="https://github.com/maxrzepka/algo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Misc algorithms in clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>crisweber/term-extraction</title>
+    <updated>2024-02-11T01:43:02Z</updated>
+    <id>tag:github.com,2024-02-11:/crisweber/term-extraction</id>
+    <link href="https://github.com/crisweber/term-extraction" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Trabalho de APLN&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

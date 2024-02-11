@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-11T01:55:14Z</updated>
+  <subtitle>Weekly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IObundle/iob-uart16550</title>
+    <updated>2024-02-11T01:55:14Z</updated>
+    <id>tag:github.com,2024-02-11:/IObundle/iob-uart16550</id>
+    <link href="https://github.com/IObundle/iob-uart16550" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IObundle/iob-eth</title>
+    <updated>2024-02-11T01:55:14Z</updated>
+    <id>tag:github.com,2024-02-11:/IObundle/iob-eth</id>
+    <link href="https://github.com/IObundle/iob-eth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basic Verilog Ethernet core and C driver functions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:35:50Z</updated>
+  <updated>2024-02-11T01:35:21Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HemulGM/GameBoyFMX</title>
-    <updated>2024-02-10T01:35:50Z</updated>
-    <id>tag:github.com,2024-02-10:/HemulGM/GameBoyFMX</id>
-    <link href="https://github.com/HemulGM/GameBoyFMX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GameBoy emulator. Delph, FMX. Crossplatform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Kagamma/tparted</title>
-    <updated>2024-02-10T01:35:50Z</updated>
-    <id>tag:github.com,2024-02-10:/Kagamma/tparted</id>
-    <link href="https://github.com/Kagamma/tparted" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TUI frontend for parted: A simple, user-friendly utility for creating, reorganizing, and deleting GPT disk partitions, based on Free Vision application framework.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

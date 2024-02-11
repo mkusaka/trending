@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-10T01:38:43Z</updated>
+  <updated>2024-02-11T01:37:42Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kalmanb/gridlock</title>
-    <updated>2024-02-10T01:38:43Z</updated>
-    <id>tag:github.com,2024-02-10:/kalmanb/gridlock</id>
-    <link href="https://github.com/kalmanb/gridlock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simplified distributed locking and synchronization manager written with scala and akka. A lightweight alternative to zookeeper.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Gridlock&lt;/h1&gt; &#xA;&lt;p&gt;A simplified distributed locking and synchronization manager written with scala and akka. A lightweight alternative to zookeeper.&lt;/p&gt; &#xA;&lt;p&gt;More to come shortly&lt;/p&gt;</summary>
+    <title>zainab-ali/aquascape</title>
+    <updated>2024-02-11T01:37:42Z</updated>
+    <id>tag:github.com,2024-02-11:/zainab-ali/aquascape</id>
+    <link href="https://github.com/zainab-ali/aquascape" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Diagrams for fs2&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Diagrams for &lt;a href=&#34;https://github.com/typelevel/fs2&#34;&gt;fs2&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>mStellmann/MongoDB_NaoActor</title>
+    <updated>2024-02-11T01:37:42Z</updated>
+    <id>tag:github.com,2024-02-11:/mStellmann/MongoDB_NaoActor</id>
+    <link href="https://github.com/mStellmann/MongoDB_NaoActor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HAW SS2013 - Nao Project&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Einleitung: Bei diesem Projekt handelt es sich um ein Aktorensystem, eine NoSQL-Datenbank - MongoDB - in das bestehende Aktorensystem der NAOs einzubinden. Unser Ziel war es die vorhandenen NAO-Gateway-Befehle in der Datenbank zu loggen und jederzeit die vom User geloggten Aktionen dem NAO zu zusenden, damit dieser vorherige Befehle/Befehlsfolgen wieder ausfuehren kann. Um eine grafische Darstellung der Daten zu gewaehren, haben wir eine GUI implementiert.&lt;/p&gt; &#xA;&lt;p&gt;Designentscheidungen:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;immutable Datenbank&lt;/li&gt; &#xA; &lt;li&gt;stateless Aktoren&lt;/li&gt; &#xA; &lt;li&gt;Zeitstempel als Long seit 1970&lt;/li&gt; &#xA; &lt;li&gt;Files als Byte[]&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Einfuehrung in das Projekt: Um eine Uebersicht fuer das System zu erhalten, befindet sich die Datei &#34;Uebersicht_final_A.png&#34; im Ordner &#34;documents&#34;. Zu dieser Uebersicht gibt es Code Beispiele zur Verwendung unter &#34;src/testingFiles&#34; =&amp;gt; &#34;DBHelloWorld&#34;. Die GUI kann man unter &#34;gui/DBGuiStarter&#34; starten. Alle von uns verwendeten jars haben wir in dieses Repository hochgeladen.&lt;/p&gt; &#xA;&lt;p&gt;TODOs:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Dateisuche nach Metadaten(Tags) und Darstellung in der GUI (vllt. als Tab-Panel)&lt;/li&gt; &#xA; &lt;li&gt;Systemstart-Config anpassen, damit die Aktoren auf verschieden Rechnen lauffaehig sind&lt;/li&gt; &#xA; &lt;li&gt;Supervisor-Strategien fuer alle Aktoren festlegen und implementieren&lt;/li&gt; &#xA; &lt;li&gt;Szenarien / Befehlsabfolgen aus den Datenbankeintraegen zusammenstellen und abspeichern &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Idee: Szenarieneditor erstellen&lt;/li&gt; &#xA;   &lt;li&gt;per Drag and Drop oder Popup-Menus Daten einfuegen&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;Position und Integration des DBSystem in der NAO Umgebung festlegen&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Links: &lt;a href=&#34;https://github.com/hannibalhh/naogatewayRemoteClient&#34;&gt;https://github.com/hannibalhh/naogatewayRemoteClient&lt;/a&gt; &lt;a href=&#34;http://www.mongodb.org/&#34;&gt;http://www.mongodb.org/&lt;/a&gt; &lt;a href=&#34;http://akka.io/&#34;&gt;http://akka.io/&lt;/a&gt; &lt;a href=&#34;http://mongodb.github.io/casbah/setting_up.html&#34;&gt;http://mongodb.github.io/casbah/setting_up.html&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>
