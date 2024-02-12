@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-11T01:31:16Z</updated>
+  <updated>2024-02-12T01:29:53Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>honestbank/terraform-gcp-memstore</title>
+    <updated>2024-02-12T01:29:53Z</updated>
+    <id>tag:github.com,2024-02-12:/honestbank/terraform-gcp-memstore</id>
+    <link href="https://github.com/honestbank/terraform-gcp-memstore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;module to deploy managed memstore for gcp&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>honestbank/terraform-gcp-vpc</title>
+    <updated>2024-02-12T01:29:53Z</updated>
+    <id>tag:github.com,2024-02-12:/honestbank/terraform-gcp-vpc</id>
+    <link href="https://github.com/honestbank/terraform-gcp-vpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform-managed repo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>honestbank/terraform-gcp-iam</title>
+    <updated>2024-02-12T01:29:53Z</updated>
+    <id>tag:github.com,2024-02-12:/honestbank/terraform-gcp-iam</id>
+    <link href="https://github.com/honestbank/terraform-gcp-iam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform-managed repo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

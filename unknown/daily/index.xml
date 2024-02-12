@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-11T01:25:39Z</updated>
+  <updated>2024-02-12T01:23:08Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jixserver/free-for-dev</title>
-    <updated>2024-02-11T01:25:39Z</updated>
-    <id>tag:github.com,2024-02-11:/jixserver/free-for-dev</id>
-    <link href="https://github.com/jixserver/free-for-dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TekkenOverlay/TekkenOverlay</title>
+    <updated>2024-02-12T01:23:08Z</updated>
+    <id>tag:github.com,2024-02-12:/TekkenOverlay/TekkenOverlay</id>
+    <link href="https://github.com/TekkenOverlay/TekkenOverlay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aishwaryanr/awesome-generative-ai-guide</title>
-    <updated>2024-02-11T01:25:39Z</updated>
-    <id>tag:github.com,2024-02-11:/aishwaryanr/awesome-generative-ai-guide</id>
-    <link href="https://github.com/aishwaryanr/awesome-generative-ai-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A one stop repository for generative AI research updates, interview resources, notebooks and much more!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Dimbreath/StarRailData</title>
+    <updated>2024-02-12T01:23:08Z</updated>
+    <id>tag:github.com,2024-02-12:/Dimbreath/StarRailData</id>
+    <link href="https://github.com/Dimbreath/StarRailData" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository containing the data for the game Honkai: Star Rail.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>BurningC4/Chinese-IPTV</title>
-    <updated>2024-02-11T01:25:39Z</updated>
-    <id>tag:github.com,2024-02-11:/BurningC4/Chinese-IPTV</id>
-    <link href="https://github.com/BurningC4/Chinese-IPTV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Chinese CCTV List (IPV4)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Abdess/retroarch_system</title>
+    <updated>2024-02-12T01:23:08Z</updated>
+    <id>tag:github.com,2024-02-12:/Abdess/retroarch_system</id>
+    <link href="https://github.com/Abdess/retroarch_system" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compilation of BIOSes for various emulation platforms&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-11T01:28:52Z</updated>
+  <updated>2024-02-12T01:26:47Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>merklebot/hackathon-arm-image</title>
+    <updated>2024-02-12T01:26:47Z</updated>
+    <id>tag:github.com,2024-02-12:/merklebot/hackathon-arm-image</id>
+    <link href="https://github.com/merklebot/hackathon-arm-image" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;strong&gt;This image contains basic commands to work with camera, microphone and speaker at Spot&#39;s computer&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Image link&lt;/h2&gt; &#xA;&lt;p&gt;Image link could be acquired in &lt;strong&gt;release&lt;/strong&gt; section of the main repository page&lt;/p&gt; &#xA;&lt;h2&gt;How to use&lt;/h2&gt; &#xA;&lt;p&gt;The container for this image should be runned with flags &lt;code&gt;--device /dev/video0&lt;/code&gt; and &lt;code&gt;--device /dev/snd&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Basic example contained in &lt;em&gt;main.py&lt;/em&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>EnterpriseDB/docker-pgbouncer</title>
+    <updated>2024-02-12T01:26:47Z</updated>
+    <id>tag:github.com,2024-02-12:/EnterpriseDB/docker-pgbouncer</id>
+    <link href="https://github.com/EnterpriseDB/docker-pgbouncer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo for PgBouncer image containers&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PgBouncer Container Images by EnterpriseDB&lt;/h1&gt; &#xA;&lt;p&gt;Maintenance scripts to generate Immutable Application Containers for PgBouncer, based on UBI 8 minimal.&lt;/p&gt; &#xA;&lt;p&gt;These images are customised to work with &lt;a href=&#34;https://docs.enterprisedb.io/cloud-native-postgresql/&#34;&gt;Cloud Native PostgreSQL operators by EDB&lt;/a&gt; for Kubernetes and Red Hat Openshift.&lt;/p&gt;</summary>
+  </entry>
 </feed>

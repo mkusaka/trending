@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-11T01:39:54Z</updated>
+  <updated>2024-02-12T01:41:03Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elementary/switchboard-plug-power</title>
-    <updated>2024-02-11T01:39:54Z</updated>
-    <id>tag:github.com,2024-02-11:/elementary/switchboard-plug-power</id>
-    <link href="https://github.com/elementary/switchboard-plug-power" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Switchboard Power Plug&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Vysp3r/RetroPlus</title>
+    <updated>2024-02-12T01:41:03Z</updated>
+    <id>tag:github.com,2024-02-12:/Vysp3r/RetroPlus</id>
+    <link href="https://github.com/Vysp3r/RetroPlus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple ROM downloader&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ryonakano/pinit</title>
+    <updated>2024-02-12T01:41:03Z</updated>
+    <id>tag:github.com,2024-02-12:/ryonakano/pinit</id>
+    <link href="https://github.com/ryonakano/pinit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pin portable apps to the launcher&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>halfmexican/mingle</title>
+    <updated>2024-02-12T01:41:03Z</updated>
+    <id>tag:github.com,2024-02-12:/halfmexican/mingle</id>
+    <link href="https://github.com/halfmexican/mingle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple GTK4-Libadwaita app to play with Google&#39;s Emoji Kitchen.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

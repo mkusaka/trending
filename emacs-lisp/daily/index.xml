@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-11T01:29:36Z</updated>
+  <updated>2024-02-12T01:27:49Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rougier/nano-elfeed</title>
-    <updated>2024-02-11T01:29:36Z</updated>
-    <id>tag:github.com,2024-02-11:/rougier/nano-elfeed</id>
-    <link href="https://github.com/rougier/nano-elfeed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emacs configuration file for elfeed (news reader)&lt;/p&gt;&lt;hr&gt;&lt;p&gt;[[file:./nano-elfeed.png]]&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>jeffgran/pbcopy.el</title>
-    <updated>2024-02-11T01:29:36Z</updated>
-    <id>tag:github.com,2024-02-11:/jeffgran/pbcopy.el</id>
-    <link href="https://github.com/jeffgran/pbcopy.el" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emacs Interface to pbcopy&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;pbcopy.el - OS X clipboard integration for Emacs&lt;/h1&gt; &#xA;&lt;p&gt;Enables the Emacs kill-ring to interact with the clipboard when running Emacs from a Mac OSX terminal (without losing full kill-ring functionality).&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/kb&#34;&gt;Kyle Bolton&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Leo Shidai Liu, the author of xclip.el.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

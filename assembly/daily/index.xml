@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-11T01:26:26Z</updated>
+  <updated>2024-02-12T01:23:56Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cartesi/machine-emulator</title>
-    <updated>2024-02-11T01:26:26Z</updated>
-    <id>tag:github.com,2024-02-11:/cartesi/machine-emulator</id>
-    <link href="https://github.com/cartesi/machine-emulator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The off-chain implementation of the Cartesi Machine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lucmsilva651/asm_x86_sys</title>
+    <updated>2024-02-12T01:23:56Z</updated>
+    <id>tag:github.com,2024-02-12:/lucmsilva651/asm_x86_sys</id>
+    <link href="https://github.com/lucmsilva651/asm_x86_sys" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for a simple OS that shows the message &#34;Hello World!&#34; when booted.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-11T01:40:12Z</updated>
+  <updated>2024-02-12T01:41:26Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>danielroe/page-speed.dev</title>
-    <updated>2024-02-11T01:40:12Z</updated>
-    <id>tag:github.com,2024-02-11:/danielroe/page-speed.dev</id>
-    <link href="https://github.com/danielroe/page-speed.dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lynx-Shortener/Lynx</title>
+    <updated>2024-02-12T01:41:26Z</updated>
+    <id>tag:github.com,2024-02-12:/Lynx-Shortener/Lynx</id>
+    <link href="https://github.com/Lynx-Shortener/Lynx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fullstack application using the MEVN stack to shorten your URLs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>oku-ui/motion</title>
+    <updated>2024-02-12T01:41:26Z</updated>
+    <id>tag:github.com,2024-02-12:/oku-ui/motion</id>
+    <link href="https://github.com/oku-ui/motion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Motion One for Vue is a 5kb animation library for Vue 3 and Nuxt 3. Built on Motion One, it&#39;s capable of springs, independent transforms, and hardware accelerated animations.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

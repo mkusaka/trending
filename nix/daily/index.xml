@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-11T01:34:36Z</updated>
+  <updated>2024-02-12T01:34:12Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LudovicoPiero/dotfiles</title>
-    <updated>2024-02-11T01:34:36Z</updated>
-    <id>tag:github.com,2024-02-11:/LudovicoPiero/dotfiles</id>
-    <link href="https://github.com/LudovicoPiero/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NixOS Configuration powered by Flakes ❄️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sk4rd/jari</title>
+    <updated>2024-02-12T01:34:12Z</updated>
+    <id>tag:github.com,2024-02-12:/sk4rd/jari</id>
+    <link href="https://github.com/sk4rd/jari" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nix-community/robotnix</title>
-    <updated>2024-02-11T01:34:36Z</updated>
-    <id>tag:github.com,2024-02-11:/nix-community/robotnix</id>
-    <link href="https://github.com/nix-community/robotnix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>scorbettUM/local-dev</title>
+    <updated>2024-02-12T01:34:12Z</updated>
+    <id>tag:github.com,2024-02-12:/scorbettUM/local-dev</id>
+    <link href="https://github.com/scorbettUM/local-dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repo for testing out local development tooling and workflow.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Athena-OS/athena-nix</title>
-    <updated>2024-02-11T01:34:36Z</updated>
-    <id>tag:github.com,2024-02-11:/Athena-OS/athena-nix</id>
-    <link href="https://github.com/Athena-OS/athena-nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Athena OS is a NixOS-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lehmanator/nur-repo</title>
+    <updated>2024-02-12T01:34:12Z</updated>
+    <id>tag:github.com,2024-02-12:/lehmanator/nur-repo</id>
+    <link href="https://github.com/lehmanator/nur-repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal Nix User Repository (NUR) repo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
