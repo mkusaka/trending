@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-12T01:34:06Z</updated>
+  <updated>2024-02-13T01:33:00Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>amkrajewski/nimplex</title>
+    <updated>2024-02-13T01:33:00Z</updated>
+    <id>tag:github.com,2024-02-13:/amkrajewski/nimplex</id>
+    <link href="https://github.com/amkrajewski/nimplex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

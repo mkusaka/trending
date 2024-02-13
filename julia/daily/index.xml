@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-12T01:31:50Z</updated>
+  <updated>2024-02-13T01:30:50Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaParallel/Dagger.jl</title>
-    <updated>2024-02-12T01:31:50Z</updated>
-    <id>tag:github.com,2024-02-12:/JuliaParallel/Dagger.jl</id>
-    <link href="https://github.com/JuliaParallel/Dagger.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A framework for out-of-core and parallel execution&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaDynamics/MixedStructTypes.jl</title>
-    <updated>2024-02-12T01:31:50Z</updated>
-    <id>tag:github.com,2024-02-12:/JuliaDynamics/MixedStructTypes.jl</id>
-    <link href="https://github.com/JuliaDynamics/MixedStructTypes.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pack multiple types in a single one&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/QuasiMonteCarlo.jl</title>
+    <updated>2024-02-13T01:30:50Z</updated>
+    <id>tag:github.com,2024-02-13:/SciML/QuasiMonteCarlo.jl</id>
+    <link href="https://github.com/SciML/QuasiMonteCarlo.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight and easy generation of quasi-Monte Carlo sequences with a ton of different methods on one API for easy parameter exploration in scientific machine learning (SciML)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

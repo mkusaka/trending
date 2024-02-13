@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-12T01:23:08Z</updated>
+  <updated>2024-02-13T01:22:49Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TekkenOverlay/TekkenOverlay</title>
-    <updated>2024-02-12T01:23:08Z</updated>
-    <id>tag:github.com,2024-02-12:/TekkenOverlay/TekkenOverlay</id>
-    <link href="https://github.com/TekkenOverlay/TekkenOverlay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cpp-best-practices/cppbestpractices</title>
+    <updated>2024-02-13T01:22:49Z</updated>
+    <id>tag:github.com,2024-02-13:/cpp-best-practices/cppbestpractices</id>
+    <link href="https://github.com/cpp-best-practices/cppbestpractices" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner&#39;s collection of C++ Best Practices resources. See README.md for more information.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Dimbreath/StarRailData</title>
-    <updated>2024-02-12T01:23:08Z</updated>
-    <id>tag:github.com,2024-02-12:/Dimbreath/StarRailData</id>
-    <link href="https://github.com/Dimbreath/StarRailData" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository containing the data for the game Honkai: Star Rail.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Abdess/retroarch_system</title>
-    <updated>2024-02-12T01:23:08Z</updated>
-    <id>tag:github.com,2024-02-12:/Abdess/retroarch_system</id>
-    <link href="https://github.com/Abdess/retroarch_system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compilation of BIOSes for various emulation platforms&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AkmmusAI/LLM-Prompt-Engineering-Simplified-Book</title>
+    <updated>2024-02-13T01:22:49Z</updated>
+    <id>tag:github.com,2024-02-13:/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book</id>
+    <link href="https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LLM Prompting Engineering Simplified Book&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

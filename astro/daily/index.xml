@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-12T01:23:59Z</updated>
+  <updated>2024-02-13T01:23:48Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wearrrrr/Alu</title>
-    <updated>2024-02-12T01:23:59Z</updated>
-    <id>tag:github.com,2024-02-12:/wearrrrr/Alu</id>
-    <link href="https://github.com/wearrrrr/Alu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alu is a frontend proxy site that offers games and a clean frontend for Ultraviolet and Rammerhead&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CFC-Servers/gmodwiki</title>
+    <updated>2024-02-13T01:23:48Z</updated>
+    <id>tag:github.com,2024-02-13:/CFC-Servers/gmodwiki</id>
+    <link href="https://github.com/CFC-Servers/gmodwiki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A slimmed &amp; improved mirror of the Garry&#39;s Mod wiki, with self-hosting&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

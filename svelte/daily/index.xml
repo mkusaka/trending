@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-12T01:39:43Z</updated>
+  <updated>2024-02-13T01:37:25Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>basharovV/musicat</title>
-    <updated>2024-02-12T01:39:43Z</updated>
-    <id>tag:github.com,2024-02-12:/basharovV/musicat</id>
-    <link href="https://github.com/basharovV/musicat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A sleek desktop music player and tagger for offline music 🪕 With experimental features like map view, GPT analysis, artist toolkit. Built with Svelte and Tauri&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Svelte-Korea/learn.svelte.kr</title>
+    <updated>2024-02-13T01:37:25Z</updated>
+    <id>tag:github.com,2024-02-13:/Svelte-Korea/learn.svelte.kr</id>
+    <link href="https://github.com/Svelte-Korea/learn.svelte.kr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;스벨트 튜토리얼 한국어 번역 사이트&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

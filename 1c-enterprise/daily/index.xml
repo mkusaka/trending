@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub 1C Enterprise Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-12T01:22:59Z</updated>
+  <updated>2024-02-13T01:22:50Z</updated>
   <subtitle>Daily Trending of 1C Enterprise in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>firstBitSportivnaya/PSSL</title>
-    <updated>2024-02-12T01:22:59Z</updated>
-    <id>tag:github.com,2024-02-12:/firstBitSportivnaya/PSSL</id>
-    <link href="https://github.com/firstBitSportivnaya/PSSL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Проектная библиотека подсистем&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Bellerage-IT/bellerage-ssl</title>
-    <updated>2024-02-12T01:22:59Z</updated>
-    <id>tag:github.com,2024-02-12:/Bellerage-IT/bellerage-ssl</id>
-    <link href="https://github.com/Bellerage-IT/bellerage-ssl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bellerage standart library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

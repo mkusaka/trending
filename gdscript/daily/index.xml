@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-12T01:28:52Z</updated>
+  <updated>2024-02-13T01:28:16Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JohnMeadow1/Enterprise-splash-screen-loading</title>
-    <updated>2024-02-12T01:28:52Z</updated>
-    <id>tag:github.com,2024-02-12:/JohnMeadow1/Enterprise-splash-screen-loading</id>
-    <link href="https://github.com/JohnMeadow1/Enterprise-splash-screen-loading" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>KoBeWi/Godot-Tween-Suite</title>
-    <updated>2024-02-12T01:28:52Z</updated>
-    <id>tag:github.com,2024-02-12:/KoBeWi/Godot-Tween-Suite</id>
-    <link href="https://github.com/KoBeWi/Godot-Tween-Suite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Addon for Godot Engine that extends the built-in Tween functionality.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DAShoe1/Godot-Easy-Vehicle-Physics</title>
-    <updated>2024-02-12T01:28:52Z</updated>
-    <id>tag:github.com,2024-02-12:/DAShoe1/Godot-Easy-Vehicle-Physics</id>
-    <link href="https://github.com/DAShoe1/Godot-Easy-Vehicle-Physics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A ray cast based vehicle for Godot 4.0&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CMU-VideoGameDesignClub/godotproject</title>
+    <updated>2024-02-13T01:28:16Z</updated>
+    <id>tag:github.com,2024-02-13:/CMU-VideoGameDesignClub/godotproject</id>
+    <link href="https://github.com/CMU-VideoGameDesignClub/godotproject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TechSynergy Video Game Design&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-12T01:32:23Z</updated>
+  <updated>2024-02-13T01:31:32Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>T-Brick/c0deine</title>
-    <updated>2024-02-12T01:32:23Z</updated>
-    <id>tag:github.com,2024-02-12:/T-Brick/c0deine</id>
-    <link href="https://github.com/T-Brick/c0deine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reference compiler for c0&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nomeata/lean-wf-induct</title>
+    <updated>2024-02-13T01:31:32Z</updated>
+    <id>tag:github.com,2024-02-13:/nomeata/lean-wf-induct</id>
+    <link href="https://github.com/nomeata/lean-wf-induct" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

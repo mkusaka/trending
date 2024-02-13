@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-12T01:24:19Z</updated>
+  <updated>2024-02-13T01:24:09Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>anthony-c-martin/bicep-toolkit</title>
+    <updated>2024-02-13T01:24:09Z</updated>
+    <id>tag:github.com,2024-02-13:/anthony-c-martin/bicep-toolkit</id>
+    <link href="https://github.com/anthony-c-martin/bicep-toolkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tool to generate markdown for a Bicep file&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/azure-openai-landing-zone</title>
+    <updated>2024-02-13T01:24:09Z</updated>
+    <id>tag:github.com,2024-02-13:/Azure/azure-openai-landing-zone</id>
+    <link href="https://github.com/Azure/azure-openai-landing-zone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Open AI Landing Zones Reference Architectures Repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
