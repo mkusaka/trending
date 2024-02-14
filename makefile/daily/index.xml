@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-13T01:32:06Z</updated>
+  <updated>2024-02-14T01:32:14Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>inpyjama/c-ninja-listings</title>
-    <updated>2024-02-13T01:32:06Z</updated>
-    <id>tag:github.com,2024-02-13:/inpyjama/c-ninja-listings</id>
-    <link href="https://github.com/inpyjama/c-ninja-listings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lower level assembly and C baremetal programming on RISC-V CPUs. Source code listings from the C-Ninja, in Pyjama! book.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jetstack/google-cas-issuer</title>
+    <updated>2024-02-14T01:32:14Z</updated>
+    <id>tag:github.com,2024-02-14:/jetstack/google-cas-issuer</id>
+    <link href="https://github.com/jetstack/google-cas-issuer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cert-manager issuer for Google CA Service&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

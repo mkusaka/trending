@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-13T01:23:52Z</updated>
+  <updated>2024-02-14T01:24:14Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>decrazyo/lng-fds</title>
+    <updated>2024-02-14T01:24:14Z</updated>
+    <id>tag:github.com,2024-02-14:/decrazyo/lng-fds</id>
+    <link href="https://github.com/decrazyo/lng-fds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Famicom Disk System port of LUnix Next Generation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ytmytm/c64-lng</title>
+    <updated>2024-02-14T01:24:14Z</updated>
+    <id>tag:github.com,2024-02-14:/ytmytm/c64-lng</id>
+    <link href="https://github.com/ytmytm/c64-lng" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LUnix Next Generation - a Little Unix operating system for C64/128/Atari and any 6502-based machine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

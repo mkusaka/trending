@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-13T01:22:49Z</updated>
+  <updated>2024-02-14T01:23:11Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cpp-best-practices/cppbestpractices</title>
-    <updated>2024-02-13T01:22:49Z</updated>
-    <id>tag:github.com,2024-02-13:/cpp-best-practices/cppbestpractices</id>
-    <link href="https://github.com/cpp-best-practices/cppbestpractices" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner&#39;s collection of C++ Best Practices resources. See README.md for more information.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>andrewekhalel/MLQuestions</title>
+    <updated>2024-02-14T01:23:11Z</updated>
+    <id>tag:github.com,2024-02-14:/andrewekhalel/MLQuestions</id>
+    <link href="https://github.com/andrewekhalel/MLQuestions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Machine Learning and Computer Vision Engineer - Technical Interview Questions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AkmmusAI/LLM-Prompt-Engineering-Simplified-Book</title>
-    <updated>2024-02-13T01:22:49Z</updated>
-    <id>tag:github.com,2024-02-13:/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book</id>
-    <link href="https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LLM Prompting Engineering Simplified Book&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bjrjk/CVE-2022-4262</title>
+    <updated>2024-02-14T01:23:11Z</updated>
+    <id>tag:github.com,2024-02-14:/bjrjk/CVE-2022-4262</id>
+    <link href="https://github.com/bjrjk/CVE-2022-4262" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MiRO92/uYou-for-YouTube</title>
+    <updated>2024-02-14T01:23:11Z</updated>
+    <id>tag:github.com,2024-02-14:/MiRO92/uYou-for-YouTube</id>
+    <link href="https://github.com/MiRO92/uYou-for-YouTube" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The best tweak for the YouTube app&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

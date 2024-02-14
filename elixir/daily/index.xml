@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-13T01:27:17Z</updated>
+  <updated>2024-02-14T01:27:29Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gjaldon/ecto_enum</title>
-    <updated>2024-02-13T01:27:17Z</updated>
-    <id>tag:github.com,2024-02-13:/gjaldon/ecto_enum</id>
-    <link href="https://github.com/gjaldon/ecto_enum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ecto extension to support enums in models&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>acalejos/merquery</title>
+    <updated>2024-02-14T01:27:29Z</updated>
+    <id>tag:github.com,2024-02-14:/acalejos/merquery</id>
+    <link href="https://github.com/acalejos/merquery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interactive HTTP Client for Livebook w/ power-ups&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

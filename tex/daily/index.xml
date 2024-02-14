@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-13T01:37:54Z</updated>
+  <updated>2024-02-14T01:39:02Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jakobhviid/DataManagementBook</title>
+    <updated>2024-02-14T01:39:02Z</updated>
+    <id>tag:github.com,2024-02-14:/jakobhviid/DataManagementBook</id>
+    <link href="https://github.com/jakobhviid/DataManagementBook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A book written for the Data Management Course running at the University of southern Denmark&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Data Management: Managing Information in a Digital Era&lt;/h1&gt; &#xA;&lt;p&gt;This is a book authored and designed by Jakob Hviid, PhD &lt;a href=&#34;mailto:jakob@hviid.phd&#34;&gt;jakob@hviid.phd&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Contant and Background for the book&lt;/h2&gt; &#xA;&lt;h2&gt;Credits and Acknowledgements in a collaborative book&lt;/h2&gt; &#xA;&lt;p&gt;Jakob Hviid is the main author of this book, and has written the majority of the content. The book is written in \LaTeX, and the source code is available on GitHub at &lt;a href=&#34;https://github.com/jakobhviid/DataManagementBook&#34;&gt;https://github.com/jakobhviid/DataManagementBook&lt;/a&gt;. The book is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, which means that you are free to share and adapt the book, as long as you give credit to the author, and share the book under the same license.&lt;/p&gt; &#xA;&lt;p&gt;Other people have contributed to the book, and those with major contributions are listed in the Acknowledgements section below. A full list of contributors can be found on GitHub at &lt;a href=&#34;https://github.com/jakobhviid/DataManagementBook&#34;&gt;https://github.com/jakobhviid/DataManagementBook&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;If you feel that someone is missing from the book, feel free to become one of the contributors, and submit a pull request on GitHub. If you are unfamiliar with GitHub, you can also send an email to &lt;a href=&#34;mailto:jakob@hviid.phd&#34;&gt;jakob@hviid.phd&lt;/a&gt;. If you feel that you should be listed as a major contributor, please make this explicit in the pull request before submitting it. If your pull request is accepted, you will be listed as a major contributor in the next version of the book.&lt;/p&gt; &#xA;&lt;h1&gt;Prices&lt;/h1&gt; &#xA;&lt;h2&gt;Digital Copy&lt;/h2&gt; &#xA;&lt;h2&gt;Hardcopy&lt;/h2&gt; &#xA;&lt;h1&gt;Notes&lt;/h1&gt; &#xA;&lt;h2&gt;Format&lt;/h2&gt; &#xA;&lt;p&gt;The format is C5 and should have a sizing of 162 × 229 mm or 6.4 × 9.0 inches.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>OratorX/CV</title>
+    <updated>2024-02-14T01:39:02Z</updated>
+    <id>tag:github.com,2024-02-14:/OratorX/CV</id>
+    <link href="https://github.com/OratorX/CV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Original Template: Jake&#39;s Resume &lt;a href=&#34;https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs&#34;&gt;https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

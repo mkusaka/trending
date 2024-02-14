@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-13T01:36:35Z</updated>
+  <updated>2024-02-14T01:37:38Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AnnulusGames/UGUIAnimationSamples</title>
-    <updated>2024-02-13T01:36:35Z</updated>
-    <id>tag:github.com,2024-02-13:/AnnulusGames/UGUIAnimationSamples</id>
-    <link href="https://github.com/AnnulusGames/UGUIAnimationSamples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A sample project that includes implementation examples of UI animation for Unity UI (uGUI) using LitMotion and UniTask.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
