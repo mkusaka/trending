@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:33:29Z</updated>
+  <updated>2024-02-15T01:32:52Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Mic92/sops-nix</title>
-    <updated>2024-02-14T01:33:29Z</updated>
-    <id>tag:github.com,2024-02-14:/Mic92/sops-nix</id>
-    <link href="https://github.com/Mic92/sops-nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Atomic secret provisioning for NixOS based on sops&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fricklerhandwerk/attr-cmd</title>
+    <updated>2024-02-15T01:32:52Z</updated>
+    <id>tag:github.com,2024-02-15:/fricklerhandwerk/attr-cmd</id>
+    <link href="https://github.com/fricklerhandwerk/attr-cmd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build shell commands from Nix attribute sets.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nixos-bsd/nixbsd</title>
-    <updated>2024-02-14T01:33:29Z</updated>
-    <id>tag:github.com,2024-02-14:/nixos-bsd/nixbsd</id>
-    <link href="https://github.com/nixos-bsd/nixbsd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An unofficial NixOS fork with a FreeBSD kernel&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>redyf/Neve</title>
+    <updated>2024-02-15T01:32:52Z</updated>
+    <id>tag:github.com,2024-02-15:/redyf/Neve</id>
+    <link href="https://github.com/redyf/Neve" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nais/doc</title>
-    <updated>2024-02-14T01:33:29Z</updated>
-    <id>tag:github.com,2024-02-14:/nais/doc</id>
-    <link href="https://github.com/nais/doc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nais developer documentation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JupiterBroadcasting/nixconfigs</title>
+    <updated>2024-02-15T01:32:52Z</updated>
+    <id>tag:github.com,2024-02-15:/JupiterBroadcasting/nixconfigs</id>
+    <link href="https://github.com/JupiterBroadcasting/nixconfigs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix Configs from the Jupiter Broadcasting Crew and Community&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NWScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:33:38Z</updated>
+  <updated>2024-02-15T01:32:57Z</updated>
   <subtitle>Daily Trending of NWScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HIllya51/MuramasaHorizontal</title>
-    <updated>2024-02-14T01:33:38Z</updated>
-    <id>tag:github.com,2024-02-14:/HIllya51/MuramasaHorizontal</id>
-    <link href="https://github.com/HIllya51/MuramasaHorizontal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;装甲恶鬼村正 横向文字补丁&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

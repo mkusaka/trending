@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:31:18Z</updated>
+  <updated>2024-02-15T01:31:10Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>apple/pkl-intellij</title>
+    <updated>2024-02-15T01:31:10Z</updated>
+    <id>tag:github.com,2024-02-15:/apple/pkl-intellij</id>
+    <link href="https://github.com/apple/pkl-intellij" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JetBrains editor plugins providing Pkl language support&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Pkl IntelliJ Plugin&lt;/h1&gt; &#xA;&lt;div id=&#34;preamble&#34;&gt; &#xA; &lt;div class=&#34;sectionbody&#34;&gt; &#xA;  &lt;div class=&#34;paragraph&#34;&gt; &#xA;   &lt;p&gt;Pkl language support for the IntelliJ Platform. Compatible with &lt;strong&gt;IntelliJ 2023.1&lt;/strong&gt; or higher and &lt;strong&gt;Pkl 0.25.0&lt;/strong&gt; or higher.&lt;/p&gt; &#xA;  &lt;/div&gt; &#xA; &lt;/div&gt; &#xA;&lt;/div&gt; &#xA;&lt;div class=&#34;sect1&#34;&gt; &#xA; &lt;h2 id=&#34;_documentation&#34;&gt;Documentation&lt;/h2&gt; &#xA; &lt;div class=&#34;sectionbody&#34;&gt; &#xA;  &lt;div class=&#34;paragraph&#34;&gt; &#xA;   &lt;p&gt;Follow &lt;a href=&#34;https://pkl-lang.org/intellij/current/installation.html&#34;&gt;installation instructions&lt;/a&gt; and check out the &lt;a href=&#34;https://pkl-lang.org/intellij/current/features/&#34;&gt;feature overview&lt;/a&gt;.&lt;/p&gt; &#xA;  &lt;/div&gt; &#xA; &lt;/div&gt; &#xA;&lt;/div&gt; &#xA;&lt;div class=&#34;sect1&#34;&gt; &#xA; &lt;h2 id=&#34;_community&#34;&gt;Community&lt;/h2&gt; &#xA; &lt;div class=&#34;sectionbody&#34;&gt; &#xA;  &lt;div class=&#34;paragraph&#34;&gt; &#xA;   &lt;p&gt;We’d love to hear from you!&lt;/p&gt; &#xA;  &lt;/div&gt; &#xA;  &lt;div class=&#34;ulist&#34;&gt; &#xA;   &lt;ul&gt; &#xA;    &lt;li&gt; &lt;p&gt;Create an issue on &lt;a href=&#34;https://github.com/apple/pkl-intellij/issues/new&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA;    &lt;li&gt; &lt;p&gt;Ask a question on &lt;a href=&#34;https://github.com/apple/pkl-intellij/discussions&#34;&gt;GitHub Discussions&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA;   &lt;/ul&gt; &#xA;  &lt;/div&gt; &#xA; &lt;/div&gt; &#xA;&lt;/div&gt;</summary>
+  </entry>
 </feed>

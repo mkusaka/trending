@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:26:45Z</updated>
+  <updated>2024-02-15T01:26:26Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nhsd-exeter/sfrunner</title>
-    <updated>2024-02-14T01:26:45Z</updated>
-    <id>tag:github.com,2024-02-14:/nhsd-exeter/sfrunner</id>
-    <link href="https://github.com/nhsd-exeter/sfrunner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Docker image to run, test and deploy service finder&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;sfrunner&lt;/h1&gt; &#xA;&lt;p&gt;This is a docker image that contains everything needed to build, run, and test service finder.&lt;/p&gt; &#xA;&lt;h1&gt;Why does this exist?&lt;/h1&gt; &#xA;&lt;p&gt;Service finder was previously run through a huge series of makefiles. This was both slow to run and difficult to debug and maintain. One approach of those makefiles was to run every command inside a separate docker container.&lt;/p&gt; &#xA;&lt;p&gt;This system takes the opposite approach of that, with one docker container that contains every dependency, such that all development and testing can be done inside the container.&lt;/p&gt; &#xA;&lt;h2&gt;Prerequisites&lt;/h2&gt; &#xA;&lt;p&gt;You need to have the following installed:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.docker.com/&#34;&gt;Docker&lt;/a&gt; to build and run the docker image&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://taskfile.dev/#/installation&#34;&gt;Taskfile&lt;/a&gt; to run the tasks&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;h3&gt;List existing tasks&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;task build&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

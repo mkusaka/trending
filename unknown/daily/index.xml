@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:23:11Z</updated>
+  <updated>2024-02-15T01:22:36Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>andrewekhalel/MLQuestions</title>
-    <updated>2024-02-14T01:23:11Z</updated>
-    <id>tag:github.com,2024-02-14:/andrewekhalel/MLQuestions</id>
-    <link href="https://github.com/andrewekhalel/MLQuestions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Machine Learning and Computer Vision Engineer - Technical Interview Questions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>abhisheknaiidu/awesome-github-profile-readme</title>
+    <updated>2024-02-15T01:22:36Z</updated>
+    <id>tag:github.com,2024-02-15:/abhisheknaiidu/awesome-github-profile-readme</id>
+    <link href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;😎 A curated list of awesome GitHub Profile READMEs 📝&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bjrjk/CVE-2022-4262</title>
-    <updated>2024-02-14T01:23:11Z</updated>
-    <id>tag:github.com,2024-02-14:/bjrjk/CVE-2022-4262</id>
-    <link href="https://github.com/bjrjk/CVE-2022-4262" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>daveshap/PostLaborEconomics</title>
+    <updated>2024-02-15T01:22:36Z</updated>
+    <id>tag:github.com,2024-02-15:/daveshap/PostLaborEconomics</id>
+    <link href="https://github.com/daveshap/PostLaborEconomics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collaborative book to promote the idea of Post Labor Economics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MiRO92/uYou-for-YouTube</title>
-    <updated>2024-02-14T01:23:11Z</updated>
-    <id>tag:github.com,2024-02-14:/MiRO92/uYou-for-YouTube</id>
-    <link href="https://github.com/MiRO92/uYou-for-YouTube" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The best tweak for the YouTube app&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Nothing-Developer-Programme/Glyph-Developer-Kit</title>
+    <updated>2024-02-15T01:22:36Z</updated>
+    <id>tag:github.com,2024-02-15:/Nothing-Developer-Programme/Glyph-Developer-Kit</id>
+    <link href="https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

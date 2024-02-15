@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:30:58Z</updated>
+  <updated>2024-02-15T01:30:53Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaDynamics/IteratorSampling.jl</title>
-    <updated>2024-02-14T01:30:58Z</updated>
-    <id>tag:github.com,2024-02-14:/JuliaDynamics/IteratorSampling.jl</id>
-    <link href="https://github.com/JuliaDynamics/IteratorSampling.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sampling methods for arbitrary iterators&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>co1emi11er2/Handcalcs.jl</title>
+    <updated>2024-02-15T01:30:53Z</updated>
+    <id>tag:github.com,2024-02-15:/co1emi11er2/Handcalcs.jl</id>
+    <link href="https://github.com/co1emi11er2/Handcalcs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia package for converting Julia calculations into rendered latex.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Julia-XAI/ExplainableAI.jl</title>
-    <updated>2024-02-14T01:30:58Z</updated>
-    <id>tag:github.com,2024-02-14:/Julia-XAI/ExplainableAI.jl</id>
-    <link href="https://github.com/Julia-XAI/ExplainableAI.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Explainable AI in Julia.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaML/TableTransforms.jl</title>
-    <updated>2024-02-14T01:30:58Z</updated>
-    <id>tag:github.com,2024-02-14:/JuliaML/TableTransforms.jl</id>
-    <link href="https://github.com/JuliaML/TableTransforms.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Transforms and pipelines with tabular data in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aclai-lab/MultiData.jl</title>
+    <updated>2024-02-15T01:30:53Z</updated>
+    <id>tag:github.com,2024-02-15:/aclai-lab/MultiData.jl</id>
+    <link href="https://github.com/aclai-lab/MultiData.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multimodal datasets for Machine-Learning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:33:46Z</updated>
+  <updated>2024-02-15T01:33:04Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cgdi/DealsCentralSG</title>
-    <updated>2024-02-14T01:33:46Z</updated>
-    <id>tag:github.com,2024-02-14:/cgdi/DealsCentralSG</id>
-    <link href="https://github.com/cgdi/DealsCentralSG" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>naderhen/colonists</title>
-    <updated>2024-02-14T01:33:46Z</updated>
-    <id>tag:github.com,2024-02-14:/naderhen/colonists</id>
-    <link href="https://github.com/naderhen/colonists" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>KpwnZ/my_bugs_and_CVE_collection</title>
-    <updated>2024-02-14T01:33:46Z</updated>
-    <id>tag:github.com,2024-02-14:/KpwnZ/my_bugs_and_CVE_collection</id>
-    <link href="https://github.com/KpwnZ/my_bugs_and_CVE_collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of my bugs and CVE, with PoC or writeup&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;my_bugs_and_CVE_collection&lt;/h1&gt; &#xA;&lt;p&gt;Collection of my bugs and CVE, with PoC or writeup&lt;/p&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Vulnerabilities/Bugs&lt;/th&gt; &#xA;   &lt;th&gt;writeup&lt;/th&gt; &#xA;   &lt;th&gt;PoC&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;CVE-2022-46702&lt;/td&gt; &#xA;   &lt;td&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;Image4race&lt;/td&gt; &#xA;   &lt;td&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;ApplePMP OOB&lt;/td&gt; &#xA;   &lt;td&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt;</summary>
-  </entry>
 </feed>

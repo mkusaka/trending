@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:26:28Z</updated>
+  <updated>2024-02-15T01:25:59Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>azkadev/rest_api_dart</title>
-    <updated>2024-02-14T01:26:28Z</updated>
-    <id>tag:github.com,2024-02-14:/azkadev/rest_api_dart</id>
-    <link href="https://github.com/azkadev/rest_api_dart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple rest api dari bahasa code dart vm menggunakan frameworkd alfred&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Rest api Simple dart&lt;/h1&gt; &#xA;&lt;p&gt;Rest api simple menggunakan bahasa code dart&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;repository ini hanya untuk sumber belajar saja bagi orang yang ingin menggunakan bahasa code dart&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wRFS0iIxJBY&#34;&gt;Speed-Code&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>azkadev/telegram_userbot_dart</title>
-    <updated>2024-02-14T01:26:28Z</updated>
-    <id>tag:github.com,2024-02-14:/azkadev/telegram_userbot_dart</id>
-    <link href="https://github.com/azkadev/telegram_userbot_dart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Telegram Userbot dart simple menggunakan library telegram client dan bahasa code dart + tdlib&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Telegram Userbot dart simple&lt;/h1&gt; &#xA;&lt;p&gt;Telegram userbot dart simple,&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;repository ini hanya untuk sumber belajar saja bagi orang yang ingin menggunakan bahasa code dart&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Silahkan tonton video speed code ya:) biar userbot ini bisa jalan&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YEFM0ITlLNk&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/YEFM0ITlLNk/hqdefault.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>azkadev/telegram_bot_keep_dart</title>
-    <updated>2024-02-14T01:26:28Z</updated>
-    <id>tag:github.com,2024-02-14:/azkadev/telegram_bot_keep_dart</id>
-    <link href="https://github.com/azkadev/telegram_bot_keep_dart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Telegram Bot Keep untuk menyimpan akunbot telegram dengan jumlah unlimited&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Telegram bot keep dart&lt;/h1&gt; &#xA;&lt;p&gt;Keep Telegram bot dengan jumlah tak terhingga&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;video akan datang ya tolong subscribe channel youtube aku aja / follow akun github ini&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC928-F8HenjZD1zNdMY42vA/videos&#34;&gt;Youtube&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

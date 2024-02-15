@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:38:01Z</updated>
+  <updated>2024-02-15T01:38:05Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>giantswarm/cilium-app</title>
-    <updated>2024-02-14T01:38:01Z</updated>
-    <id>tag:github.com,2024-02-14:/giantswarm/cilium-app</id>
-    <link href="https://github.com/giantswarm/cilium-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Giant Swarm offered cilium App which can be installed in workload clusters&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>edp-dx/dx-ai-demo-app</title>
+    <updated>2024-02-15T01:38:05Z</updated>
+    <id>tag:github.com,2024-02-15:/edp-dx/dx-ai-demo-app</id>
+    <link href="https://github.com/edp-dx/dx-ai-demo-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is automatically generated repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>epam/ai-dial-helm</title>
-    <updated>2024-02-14T01:38:01Z</updated>
-    <id>tag:github.com,2024-02-14:/epam/ai-dial-helm</id>
-    <link href="https://github.com/epam/ai-dial-helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;EPAM AI DIAL Helm Repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pmint93/helm-charts</title>
+    <updated>2024-02-15T01:38:05Z</updated>
+    <id>tag:github.com,2024-02-15:/pmint93/helm-charts</id>
+    <link href="https://github.com/pmint93/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My helm charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

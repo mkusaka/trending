@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:24:10Z</updated>
+  <updated>2024-02-15T01:23:29Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aryanjha256/verve</title>
-    <updated>2024-02-14T01:24:10Z</updated>
-    <id>tag:github.com,2024-02-14:/aryanjha256/verve</id>
-    <link href="https://github.com/aryanjha256/verve" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Great Blog Theme for Astro&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ferminrp/compara-tasas</title>
-    <updated>2024-02-14T01:24:10Z</updated>
-    <id>tag:github.com,2024-02-14:/ferminrp/compara-tasas</id>
-    <link href="https://github.com/ferminrp/compara-tasas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pagina con información financiera de Argentina&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>withered-flowers/apps-valentine-showcase</title>
+    <updated>2024-02-15T01:23:29Z</updated>
+    <id>tag:github.com,2024-02-15:/withered-flowers/apps-valentine-showcase</id>
+    <link href="https://github.com/withered-flowers/apps-valentine-showcase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

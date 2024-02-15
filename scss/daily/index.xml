@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:37:36Z</updated>
+  <updated>2024-02-15T01:37:25Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>goitacademy/vite-sass-app-template</title>
-    <updated>2024-02-14T01:37:36Z</updated>
-    <id>tag:github.com,2024-02-14:/goitacademy/vite-sass-app-template</id>
-    <link href="https://github.com/goitacademy/vite-sass-app-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Starter kit for SASS mini-course&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hotwired/turbo-site</title>
+    <updated>2024-02-15T01:37:25Z</updated>
+    <id>tag:github.com,2024-02-15:/hotwired/turbo-site</id>
+    <link href="https://github.com/hotwired/turbo-site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;turbo.hotwired.dev web site&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:38:07Z</updated>
+  <updated>2024-02-15T01:38:16Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Vectorized/dn404</title>
-    <updated>2024-02-14T01:38:07Z</updated>
-    <id>tag:github.com,2024-02-14:/Vectorized/dn404</id>
-    <link href="https://github.com/Vectorized/dn404" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of a co-joined ERC20 and ERC721 pair.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SmartTokenLabs/Improved-ERC404-Integrated-ERC5169-TokenScript</title>
-    <updated>2024-02-14T01:38:07Z</updated>
-    <id>tag:github.com,2024-02-14:/SmartTokenLabs/Improved-ERC404-Integrated-ERC5169-TokenScript</id>
-    <link href="https://github.com/SmartTokenLabs/Improved-ERC404-Integrated-ERC5169-TokenScript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>oplabs/primestaked-eth</title>
-    <updated>2024-02-14T01:38:07Z</updated>
-    <id>tag:github.com,2024-02-14:/oplabs/primestaked-eth</id>
-    <link href="https://github.com/oplabs/primestaked-eth" rel="alternate"></link>
+    <title>FraxFinance/frax-standard-solidity</title>
+    <updated>2024-02-15T01:38:16Z</updated>
+    <id>tag:github.com,2024-02-15:/FraxFinance/frax-standard-solidity</id>
+    <link href="https://github.com/FraxFinance/frax-standard-solidity" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

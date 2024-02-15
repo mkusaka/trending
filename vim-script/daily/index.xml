@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-14T01:39:48Z</updated>
+  <updated>2024-02-15T01:40:08Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>errael/splice9</title>
-    <updated>2024-02-14T01:39:48Z</updated>
-    <id>tag:github.com,2024-02-14:/errael/splice9</id>
-    <link href="https://github.com/errael/splice9" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Vim9.1 plugin for managing three-way merges; pure vim9script.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sherodtaylor/sherods-dotfiles</title>
+    <updated>2024-02-15T01:40:08Z</updated>
+    <id>tag:github.com,2024-02-15:/sherodtaylor/sherods-dotfiles</id>
+    <link href="https://github.com/sherodtaylor/sherods-dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>osyo-manga/vim-sudden_valentine</title>
-    <updated>2024-02-14T01:39:48Z</updated>
-    <id>tag:github.com,2024-02-14:/osyo-manga/vim-sudden_valentine</id>
-    <link href="https://github.com/osyo-manga/vim-sudden_valentine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dhruvasagar/vim-markify</title>
+    <updated>2024-02-15T01:40:08Z</updated>
+    <id>tag:github.com,2024-02-15:/dhruvasagar/vim-markify</id>
+    <link href="https://github.com/dhruvasagar/vim-markify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VIM Plugin Markify to indicate quickfix results on buffers using Signs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
