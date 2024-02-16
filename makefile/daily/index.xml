@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-15T01:31:54Z</updated>
+  <updated>2024-02-16T01:31:06Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Volgarenok/spbspu-labs-2024-tp-a</title>
-    <updated>2024-02-15T01:31:54Z</updated>
-    <id>tag:github.com,2024-02-15:/Volgarenok/spbspu-labs-2024-tp-a</id>
-    <link href="https://github.com/Volgarenok/spbspu-labs-2024-tp-a" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>si0ls/talos-orangepi5</title>
+    <updated>2024-02-16T01:31:06Z</updated>
+    <id>tag:github.com,2024-02-16:/si0ls/talos-orangepi5</id>
+    <link href="https://github.com/si0ls/talos-orangepi5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools and patches to build Talos Linux for Orange Pi 5&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

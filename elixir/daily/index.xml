@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-15T01:27:06Z</updated>
+  <updated>2024-02-16T01:27:02Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>robconery/moebius</title>
+    <updated>2024-02-16T01:27:02Z</updated>
+    <id>tag:github.com,2024-02-16:/robconery/moebius</id>
+    <link href="https://github.com/robconery/moebius" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A functional query tool for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mbta/arrow</title>
+    <updated>2024-02-16T01:27:02Z</updated>
+    <id>tag:github.com,2024-02-16:/mbta/arrow</id>
+    <link href="https://github.com/mbta/arrow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adjustments to the Regular Right of Way&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

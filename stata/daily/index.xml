@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stata Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-15T01:38:30Z</updated>
+  <updated>2024-02-16T01:36:14Z</updated>
   <subtitle>Daily Trending of Stata in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Daniel-Pailanir/TSCB-CCV</title>
+    <updated>2024-02-16T01:36:14Z</updated>
+    <id>tag:github.com,2024-02-16:/Daniel-Pailanir/TSCB-CCV</id>
+    <link href="https://github.com/Daniel-Pailanir/TSCB-CCV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Two-Stage Cluster Bootstrap and Causal Cluster Variance for Stata&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

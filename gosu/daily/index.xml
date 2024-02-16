@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gosu Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-15T01:28:41Z</updated>
+  <updated>2024-02-16T01:28:21Z</updated>
   <subtitle>Daily Trending of Gosu in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>goteamtim/PicsForGma</title>
-    <updated>2024-02-15T01:28:41Z</updated>
-    <id>tag:github.com,2024-02-15:/goteamtim/PicsForGma</id>
-    <link href="https://github.com/goteamtim/PicsForGma" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Google script that takes emails with attachments from users and copies them to google drive. Once in Google Drive, the files will be removed and stored locally on her computer so that they can be added to her screensaver.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

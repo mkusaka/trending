@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-15T01:32:52Z</updated>
+  <updated>2024-02-16T01:32:05Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fricklerhandwerk/attr-cmd</title>
-    <updated>2024-02-15T01:32:52Z</updated>
-    <id>tag:github.com,2024-02-15:/fricklerhandwerk/attr-cmd</id>
-    <link href="https://github.com/fricklerhandwerk/attr-cmd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build shell commands from Nix attribute sets.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NotAShelf/nyxpkgs</title>
+    <updated>2024-02-16T01:32:05Z</updated>
+    <id>tag:github.com,2024-02-16:/NotAShelf/nyxpkgs</id>
+    <link href="https://github.com/NotAShelf/nyxpkgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A package overlay containing my most commonly used derivations.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>redyf/Neve</title>
-    <updated>2024-02-15T01:32:52Z</updated>
-    <id>tag:github.com,2024-02-15:/redyf/Neve</id>
-    <link href="https://github.com/redyf/Neve" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JupiterBroadcasting/nixconfigs</title>
-    <updated>2024-02-15T01:32:52Z</updated>
-    <id>tag:github.com,2024-02-15:/JupiterBroadcasting/nixconfigs</id>
-    <link href="https://github.com/JupiterBroadcasting/nixconfigs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix Configs from the Jupiter Broadcasting Crew and Community&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NixOS/infra</title>
+    <updated>2024-02-16T01:32:05Z</updated>
+    <id>tag:github.com,2024-02-16:/NixOS/infra</id>
+    <link href="https://github.com/NixOS/infra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NixOS configurations for nixos.org and its servers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

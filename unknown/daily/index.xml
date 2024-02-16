@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-15T01:22:36Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2024-02-16T01:22:39Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>abhisheknaiidu/awesome-github-profile-readme</title>
-    <updated>2024-02-15T01:22:36Z</updated>
-    <id>tag:github.com,2024-02-15:/abhisheknaiidu/awesome-github-profile-readme</id>
-    <link href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;😎 A curated list of awesome GitHub Profile READMEs 📝&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mediazona/data-wanted</title>
+    <updated>2024-02-16T01:22:39Z</updated>
+    <id>tag:github.com,2024-02-16:/mediazona/data-wanted</id>
+    <link href="https://github.com/mediazona/data-wanted" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data for research of the Russian wanted list&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>daveshap/PostLaborEconomics</title>
-    <updated>2024-02-15T01:22:36Z</updated>
-    <id>tag:github.com,2024-02-15:/daveshap/PostLaborEconomics</id>
-    <link href="https://github.com/daveshap/PostLaborEconomics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collaborative book to promote the idea of Post Labor Economics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tornetworks/darknet-markets</title>
+    <updated>2024-02-16T01:22:39Z</updated>
+    <id>tag:github.com,2024-02-16:/tornetworks/darknet-markets</id>
+    <link href="https://github.com/tornetworks/darknet-markets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verified List of Dark Web Sites&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Nothing-Developer-Programme/Glyph-Developer-Kit</title>
-    <updated>2024-02-15T01:22:36Z</updated>
-    <id>tag:github.com,2024-02-15:/Nothing-Developer-Programme/Glyph-Developer-Kit</id>
-    <link href="https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit" rel="alternate"></link>
+    <title>gcc-mirror/gcc</title>
+    <updated>2024-02-16T01:22:39Z</updated>
+    <id>tag:github.com,2024-02-16:/gcc-mirror/gcc</id>
+    <link href="https://github.com/gcc-mirror/gcc" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

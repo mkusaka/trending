@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Racket Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-15T01:35:44Z</updated>
+  <updated>2024-02-16T01:34:20Z</updated>
   <subtitle>Daily Trending of Racket in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>saltzmanjoelh/ArduinoSerialMonitor</title>
+    <updated>2024-02-16T01:34:20Z</updated>
+    <id>tag:github.com,2024-02-16:/saltzmanjoelh/ArduinoSerialMonitor</id>
+    <link href="https://github.com/saltzmanjoelh/ArduinoSerialMonitor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Allows 2 way communication with Arduino (or other boards) via Xcode&#39;s debug console.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

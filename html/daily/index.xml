@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-15T01:29:20Z</updated>
+  <updated>2024-02-16T01:28:53Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>asynchronousJavascriptor/level2</title>
-    <updated>2024-02-15T01:29:20Z</updated>
-    <id>tag:github.com,2024-02-15:/asynchronousJavascriptor/level2</id>
-    <link href="https://github.com/asynchronousJavascriptor/level2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;level 2 base code&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>amankapilak/Ask-Her-Out</title>
-    <updated>2024-02-15T01:29:20Z</updated>
-    <id>tag:github.com,2024-02-15:/amankapilak/Ask-Her-Out</id>
-    <link href="https://github.com/amankapilak/Ask-Her-Out" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;🚀 Ready to create your very own &#34;Ask Her Out&#34; website? Join me in this step-by-step HTML tutorial where we&#39;ll design and code a personalized site to help you pop the question! From layout to interactive features, I&#39;ve got you covered. No coding experience required - let&#39;s make your proposal unforgettable! 💻💘 #WebDevelopment #HTMLTutorial #LoveInTheCode&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>TheAlgorithms/TheAlgorithms.github.io</title>
-    <updated>2024-02-15T01:29:20Z</updated>
-    <id>tag:github.com,2024-02-15:/TheAlgorithms/TheAlgorithms.github.io</id>
-    <link href="https://github.com/TheAlgorithms/TheAlgorithms.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This website is deprecated. The new website is https://the-algorithms.com. You can see the old website by going to https://thealgorithms.github.io/index-old.html&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href=&#34;https://github.com/TheAlgorithms&#34;&gt;The Algorithms&lt;/a&gt; old website&lt;/h1&gt; &#xA;&lt;h3&gt;This website is deprecated.&lt;/h3&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;The new website is &lt;a href=&#34;https://the-algorithms.com&#34;&gt;https://the-algorithms.com&lt;/a&gt;. You can see the old website by going to &lt;a href=&#34;https://thealgorithms.github.io/index-old.html&#34;&gt;https://thealgorithms.github.io/index-old.html&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
-  </entry>
 </feed>
