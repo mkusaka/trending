@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-16T01:23:50Z</updated>
+  <updated>2024-02-17T01:23:07Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SucklessWindows/SucklessWindows</title>
-    <updated>2024-02-16T01:23:50Z</updated>
-    <id>tag:github.com,2024-02-16:/SucklessWindows/SucklessWindows</id>
-    <link href="https://github.com/SucklessWindows/SucklessWindows" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cgohlke/talib-build</title>
-    <updated>2024-02-16T01:23:50Z</updated>
-    <id>tag:github.com,2024-02-16:/cgohlke/talib-build</id>
-    <link href="https://github.com/cgohlke/talib-build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build TA-Lib wheels for Windows&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

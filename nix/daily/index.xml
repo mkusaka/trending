@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-16T01:32:05Z</updated>
+  <updated>2024-02-17T01:31:19Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NotAShelf/nyxpkgs</title>
-    <updated>2024-02-16T01:32:05Z</updated>
-    <id>tag:github.com,2024-02-16:/NotAShelf/nyxpkgs</id>
-    <link href="https://github.com/NotAShelf/nyxpkgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A package overlay containing my most commonly used derivations.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NixOS/infra</title>
-    <updated>2024-02-16T01:32:05Z</updated>
-    <id>tag:github.com,2024-02-16:/NixOS/infra</id>
-    <link href="https://github.com/NixOS/infra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NixOS configurations for nixos.org and its servers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

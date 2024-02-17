@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-16T01:35:31Z</updated>
+  <updated>2024-02-17T01:34:38Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lblod/frontend-vlag-poc</title>
-    <updated>2024-02-16T01:35:31Z</updated>
-    <id>tag:github.com,2024-02-16:/lblod/frontend-vlag-poc</id>
-    <link href="https://github.com/lblod/frontend-vlag-poc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>filipecarneiro/hugo-bootstrap-theme</title>
+    <updated>2024-02-17T01:34:38Z</updated>
+    <id>tag:github.com,2024-02-17:/filipecarneiro/hugo-bootstrap-theme</id>
+    <link href="https://github.com/filipecarneiro/hugo-bootstrap-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sreyounpann/HappyAnniversaryFlower</title>
-    <updated>2024-02-16T01:35:31Z</updated>
-    <id>tag:github.com,2024-02-16:/sreyounpann/HappyAnniversaryFlower</id>
-    <link href="https://github.com/sreyounpann/HappyAnniversaryFlower" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This Sunflower Project with animation for click more to see more flower pop up&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuanPa90Cap/arq-p2-projecto</title>
+    <updated>2024-02-17T01:34:38Z</updated>
+    <id>tag:github.com,2024-02-17:/JuanPa90Cap/arq-p2-projecto</id>
+    <link href="https://github.com/JuanPa90Cap/arq-p2-projecto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

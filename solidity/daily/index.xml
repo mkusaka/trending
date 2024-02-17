@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-16T01:36:03Z</updated>
+  <updated>2024-02-17T01:35:09Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ava-labs/subnet-vrf-contracts</title>
-    <updated>2024-02-16T01:36:03Z</updated>
-    <id>tag:github.com,2024-02-16:/ava-labs/subnet-vrf-contracts</id>
-    <link href="https://github.com/ava-labs/subnet-vrf-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example contracts demonstrating how a Subnet-EVM chain could use Chainlink VRF via Teleporter&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>getclave/clave-contracts</title>
+    <updated>2024-02-17T01:35:09Z</updated>
+    <id>tag:github.com,2024-02-17:/getclave/clave-contracts</id>
+    <link href="https://github.com/getclave/clave-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clave Smart Contracts on zkSync&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>berachain/guides</title>
+    <updated>2024-02-17T01:35:09Z</updated>
+    <id>tag:github.com,2024-02-17:/berachain/guides</id>
+    <link href="https://github.com/berachain/guides" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A demonstration of different contracts, languages, and libraries that work with Berachain EVM.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>security-alliance/safe-harbor</title>
+    <updated>2024-02-17T01:35:09Z</updated>
+    <id>tag:github.com,2024-02-17:/security-alliance/safe-harbor</id>
+    <link href="https://github.com/security-alliance/safe-harbor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

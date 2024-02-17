@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-16T01:28:47Z</updated>
+  <updated>2024-02-17T01:27:56Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>xHybred/Hybred-Shaders</title>
-    <updated>2024-02-16T01:28:47Z</updated>
-    <id>tag:github.com,2024-02-16:/xHybred/Hybred-Shaders</id>
-    <link href="https://github.com/xHybred/Hybred-Shaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Off-center sampling meant to exploit persistence of vision to reduce aliasing&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>keijiro/VfxGraphTestbed3</title>
-    <updated>2024-02-16T01:28:47Z</updated>
-    <id>tag:github.com,2024-02-16:/keijiro/VfxGraphTestbed3</id>
-    <link href="https://github.com/keijiro/VfxGraphTestbed3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Testbed project for Unity VFX Graph&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-16T01:32:26Z</updated>
+  <updated>2024-02-17T01:31:39Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>smondet/pbs</title>
-    <updated>2024-02-16T01:32:26Z</updated>
-    <id>tag:github.com,2024-02-16:/smondet/pbs</id>
-    <link href="https://github.com/smondet/pbs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wrapper around PBS commands, and maybe some day protocol implementation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dbcaml/dbcaml</title>
-    <updated>2024-02-16T01:32:26Z</updated>
-    <id>tag:github.com,2024-02-16:/dbcaml/dbcaml</id>
-    <link href="https://github.com/dbcaml/dbcaml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DBCaml is a database library for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jackpeck/llama2.ml</title>
+    <updated>2024-02-17T01:31:39Z</updated>
+    <id>tag:github.com,2024-02-17:/jackpeck/llama2.ml</id>
+    <link href="https://github.com/jackpeck/llama2.ml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Llama2 inference in one file of pure OCaml.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

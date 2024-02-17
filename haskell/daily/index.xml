@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-16T01:28:38Z</updated>
+  <updated>2024-02-17T01:27:50Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>skeuchel/freezing-octo-robot</title>
-    <updated>2024-02-16T01:28:38Z</updated>
-    <id>tag:github.com,2024-02-16:/skeuchel/freezing-octo-robot</id>
-    <link href="https://github.com/skeuchel/freezing-octo-robot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;==== DONE&lt;/h1&gt; &#xA;&lt;h3&gt;Brady&#39;s IDRIS Implementation&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;ported to Haskell&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;removed resource state tracking&lt;/li&gt; &#xA;   &lt;li&gt;eliminated DSL abstract syntax tree&lt;/li&gt; &#xA;   &lt;li&gt;monad instance&lt;/li&gt; &#xA;   &lt;li&gt;state, choice, I/O, unsatisfactory exceptions handlers&lt;/li&gt; &#xA;   &lt;li&gt;automatic lifting of get/put with type classes rather than IDRIS&#39;s tactic&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;partial Agda implementation&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;postulated state properties&lt;/li&gt; &#xA;   &lt;li&gt;tick fusion proof&lt;/li&gt; &#xA;   &lt;li&gt;proof of get/put, put/get and put/put laws for state handler&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;==== TODO&lt;/h1&gt; &#xA;&lt;h3&gt;Short Term&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;port implementation back to IDRIS&lt;/li&gt; &#xA; &lt;li&gt;mechanize monad laws&lt;/li&gt; &#xA; &lt;li&gt;express and enforce laws on handlers&lt;/li&gt; &#xA; &lt;li&gt;look at the impact of lifting on laws&lt;/li&gt; &#xA; &lt;li&gt;check reasoning in literature (e.g., compare to Handlers in Action)&lt;/li&gt; &#xA; &lt;li&gt;write-up&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Longer Term&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;what does the restriction to algebraic handlers buy us? in terms of modularity, reasoning, ... ?&lt;/li&gt; &#xA; &lt;li&gt;can we fix the handler implementation of a modular component and exploit it for reasoning?&lt;/li&gt; &#xA; &lt;li&gt;interaction laws for reasoning&lt;/li&gt; &#xA; &lt;li&gt;make Brady&#39;s catch more flexible&lt;/li&gt; &#xA; &lt;li&gt;expose monadic form ContT r (ReaderT e m)&lt;/li&gt; &#xA; &lt;li&gt;contrast with Eff and recover its features: &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;lack of effect typing&lt;/li&gt; &#xA;   &lt;li&gt;return/val + operations + finally (seems related to strategy trees)&lt;/li&gt; &#xA;   &lt;li&gt;layer the context m&lt;/li&gt; &#xA;   &lt;li&gt;reraise exceptions&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;write-up &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;choose semantics by reordering effects&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

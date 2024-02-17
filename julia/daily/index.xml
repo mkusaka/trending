@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-16T01:30:01Z</updated>
+  <updated>2024-02-17T01:29:13Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>microsoft/Nclusion.jl</title>
-    <updated>2024-02-16T01:30:01Z</updated>
-    <id>tag:github.com,2024-02-16:/microsoft/Nclusion.jl</id>
-    <link href="https://github.com/microsoft/Nclusion.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scalable nonparametric clustering with unified marker gene selection for single-cell RNA-seq data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sosiristseng/template-juliabook-literate</title>
-    <updated>2024-02-16T01:30:01Z</updated>
-    <id>tag:github.com,2024-02-16:/sosiristseng/template-juliabook-literate</id>
-    <link href="https://github.com/sosiristseng/template-juliabook-literate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Publishing Julia notebooks with Literate and Jupyter Book&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PumasAI/PackageBundler.jl</title>
-    <updated>2024-02-16T01:30:01Z</updated>
-    <id>tag:github.com,2024-02-16:/PumasAI/PackageBundler.jl</id>
-    <link href="https://github.com/PumasAI/PackageBundler.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental bundling of Julia packages and environments.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

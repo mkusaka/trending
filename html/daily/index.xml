@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-16T01:28:53Z</updated>
+  <updated>2024-02-17T01:28:03Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Linux-CN/archive</title>
+    <updated>2024-02-17T01:28:03Z</updated>
+    <id>tag:github.com,2024-02-17:/Linux-CN/archive</id>
+    <link href="https://github.com/Linux-CN/archive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Linux.cn Archive&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Linux Archive&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Linux-CN/archive/actions/workflows/hugo.yml&#34;&gt;&lt;img src=&#34;https://github.com/Linux-CN/archive/actions/workflows/hugo.yml/badge.svg?sanitize=true&#34; alt=&#34;Deploy Hugo&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;LICENSE&lt;/h2&gt; &#xA;&lt;p&gt;CC-BY-NC &lt;img src=&#34;https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>builtbybel/WhyNotWinAI</title>
+    <updated>2024-02-17T01:28:03Z</updated>
+    <id>tag:github.com,2024-02-17:/builtbybel/WhyNotWinAI</id>
+    <link href="https://github.com/builtbybel/WhyNotWinAI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Check if your system can handle the new AI-powered features.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;WhyNotWinAI&lt;/h1&gt; &#xA;&lt;p&gt;This app checks whether your hardware is compatible with the latest Windows builds (such as the announced Windows 11 version 24H2, and the new Windows Germanium, also known as the Hudson Valley user experience platform) and the continuously expanding AI features. CPU support relies on the current lists provided by Microsoft for Windows 11 and will be expanded accordingly as new specifications become available.&lt;/p&gt; &#xA;&lt;p&gt;Additionally, this app can perform a thorough system analysis and also detect and disable internal AI features in various Windows areas.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/builtbybel/WhyNotWinAI/assets/57478606/9ffd826b-0e71-43ac-9735-9a1f5ee5741a&#34; alt=&#34;Screenshot 2024-02-10 192632&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

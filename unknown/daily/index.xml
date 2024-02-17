@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-16T01:22:39Z</updated>
+  <updated>2024-02-17T01:22:09Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mediazona/data-wanted</title>
-    <updated>2024-02-16T01:22:39Z</updated>
-    <id>tag:github.com,2024-02-16:/mediazona/data-wanted</id>
-    <link href="https://github.com/mediazona/data-wanted" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data for research of the Russian wanted list&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mztacat/Kyoto-Chain</title>
+    <updated>2024-02-17T01:22:09Z</updated>
+    <id>tag:github.com,2024-02-17:/mztacat/Kyoto-Chain</id>
+    <link href="https://github.com/mztacat/Kyoto-Chain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kyoto chain on Arbitrum&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tornetworks/darknet-markets</title>
-    <updated>2024-02-16T01:22:39Z</updated>
-    <id>tag:github.com,2024-02-16:/tornetworks/darknet-markets</id>
-    <link href="https://github.com/tornetworks/darknet-markets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Verified List of Dark Web Sites&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>keep-starknet-strange/awesome-starknet</title>
+    <updated>2024-02-17T01:22:09Z</updated>
+    <id>tag:github.com,2024-02-17:/keep-starknet-strange/awesome-starknet</id>
+    <link href="https://github.com/keep-starknet-strange/awesome-starknet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome StarkNet resources, libraries, tools and more&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gcc-mirror/gcc</title>
-    <updated>2024-02-16T01:22:39Z</updated>
-    <id>tag:github.com,2024-02-16:/gcc-mirror/gcc</id>
-    <link href="https://github.com/gcc-mirror/gcc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/Hack-Together-Fabric-AI</title>
+    <updated>2024-02-17T01:22:09Z</updated>
+    <id>tag:github.com,2024-02-17:/microsoft/Hack-Together-Fabric-AI</id>
+    <link href="https://github.com/microsoft/Hack-Together-Fabric-AI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hack Together: The Microsoft Fabric Global AI Hack&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
