@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-18T01:44:14Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>RethinkRobotics/sawyer_robot</title>
+    <updated>2024-02-18T01:44:14Z</updated>
+    <id>tag:github.com,2024-02-18:/RethinkRobotics/sawyer_robot</id>
+    <link href="https://github.com/RethinkRobotics/sawyer_robot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sawyer-specific components for the Sawyer robot for use with the intera_sdk.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RethinkRobotics/intera_common</title>
+    <updated>2024-02-18T01:44:14Z</updated>
+    <id>tag:github.com,2024-02-18:/RethinkRobotics/intera_common</id>
+    <link href="https://github.com/RethinkRobotics/intera_common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ROS Messages and tools description files for Rethink Robotics robots.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ROCm/rocm-cmake</title>
+    <updated>2024-02-18T01:44:14Z</updated>
+    <id>tag:github.com,2024-02-18:/ROCm/rocm-cmake</id>
+    <link href="https://github.com/ROCm/rocm-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake modules used within the ROCm libraries&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-17T01:37:42Z</updated>
+  <updated>2024-02-18T01:42:13Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>castholm/zigglgen</title>
-    <updated>2024-02-17T01:37:42Z</updated>
-    <id>tag:github.com,2024-02-17:/castholm/zigglgen</id>
-    <link href="https://github.com/castholm/zigglgen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zig OpenGL binding generator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Techatrix/zig-lsp-sample</title>
+    <updated>2024-02-18T01:42:13Z</updated>
+    <id>tag:github.com,2024-02-18:/Techatrix/zig-lsp-sample</id>
+    <link href="https://github.com/Techatrix/zig-lsp-sample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An example LSP implementation in Zig&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

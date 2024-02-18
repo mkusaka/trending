@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub YAML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-18T01:59:44Z</updated>
+  <subtitle>Weekly Trending of YAML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>redhat-cop/aap_utilities</title>
+    <updated>2024-02-18T01:59:44Z</updated>
+    <id>tag:github.com,2024-02-18:/redhat-cop/aap_utilities</id>
+    <link href="https://github.com/redhat-cop/aap_utilities" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ansible Collection for automated deployment of AAP and other objects for general use&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

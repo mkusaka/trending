@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Perl Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-18T01:53:30Z</updated>
+  <subtitle>Weekly Trending of Perl in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>regru/API-CPanel</title>
+    <updated>2024-02-18T01:53:30Z</updated>
+    <id>tag:github.com,2024-02-18:/regru/API-CPanel</id>
+    <link href="https://github.com/regru/API-CPanel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;API-CPanel&lt;/h1&gt; &#xA;&lt;p&gt;The README is used to introduce the module and provide instructions on how to install the module, any machine dependencies it may have (for example C compilers and installed libraries) and any other information that should be provided before the module is installed.&lt;/p&gt; &#xA;&lt;p&gt;A README file is required for CPAN modules since CPAN extracts the README file from a module distribution so that people browsing the archive can use it get an idea of the modules uses. It is usually a good idea to provide version information here so that people can decide whether fixes for the module are worth downloading.&lt;/p&gt; &#xA;&lt;p&gt;INSTALLATION&lt;/p&gt; &#xA;&lt;p&gt;To install this module type the following:&lt;/p&gt; &#xA;&lt;p&gt;perl Makefile.PL make make test make install&lt;/p&gt; &#xA;&lt;p&gt;DEPENDENCIES&lt;/p&gt; &#xA;&lt;p&gt;This module requires these other modules and libraries:&lt;/p&gt; &#xA;&lt;p&gt;COPYRIGHT AND LICENCE&lt;/p&gt; &#xA;&lt;p&gt;Put the correct copyright and licence information here.&lt;/p&gt; &#xA;&lt;p&gt;Copyright (C) 2010 by Vlasov Konstantin&lt;/p&gt; &#xA;&lt;p&gt;This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself, either Perl version 5.10.1 or, at your option, any later version of Perl 5 you may have available.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>mbainter/momentum-tools</title>
+    <updated>2024-02-18T01:53:30Z</updated>
+    <id>tag:github.com,2024-02-18:/mbainter/momentum-tools</id>
+    <link href="https://github.com/mbainter/momentum-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools, Scripts and other Miscellaneous items useful for managing Momentum Environments&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This repository contains various (usually simple) scripts, regular expressions, nagios plugins, etc that may be useful for managing/monitoring a Message Systems Momentum cluster. This is provided as is, without warranty of any kind, or any sort of promise of support by Message Systems.&lt;/p&gt; &#xA;&lt;p&gt;All content in this repository is provided under the current BSD license. If it works, great, if it breaks you get to keep all the pieces.&lt;/p&gt; &#xA;&lt;p&gt;If you have suggestions for improvements or things to add, clone the repo, add them, and send me a pull request, with the understanding that it also must be made available under the BSD license, or I will not accept it.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>skelz0r/balembot</title>
+    <updated>2024-02-18T01:53:30Z</updated>
+    <id>tag:github.com,2024-02-18:/skelz0r/balembot</id>
+    <link href="https://github.com/skelz0r/balembot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BALEMBOY FTW!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OH MY BOT!&lt;/h1&gt; &#xA;&lt;h1&gt;Launch&lt;/h1&gt; &#xA;&lt;p&gt;Create password.txt with this syntax:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;nickname&#xA;password&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;nickname is nickname, and password is password (U DON&#39;T SAY!)&lt;/p&gt; &#xA;&lt;h1&gt;Contribute&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;SPOON IT!&lt;/li&gt; &#xA; &lt;li&gt;POULE REQUEST IT!&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;OKi?&lt;/em&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+</feed>

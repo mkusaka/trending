@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-18T01:43:00Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hiteshchoudhary/open-source-contribution</title>
+    <updated>2024-02-18T01:43:00Z</updated>
+    <id>tag:github.com,2024-02-18:/hiteshchoudhary/open-source-contribution</id>
+    <link href="https://github.com/hiteshchoudhary/open-source-contribution" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repo to contribute in open source via README only. A dream repo for open source beginner&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

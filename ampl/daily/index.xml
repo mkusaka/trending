@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AMPL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-17T01:22:31Z</updated>
+  <updated>2024-02-18T01:25:28Z</updated>
   <subtitle>Daily Trending of AMPL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SKYcat-lang/Archive_MOD</title>
-    <updated>2024-02-17T01:22:31Z</updated>
-    <id>tag:github.com,2024-02-17:/SKYcat-lang/Archive_MOD</id>
-    <link href="https://github.com/SKYcat-lang/Archive_MOD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;블루아카이브 모드 깃허브&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

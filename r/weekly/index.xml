@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub R Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-18T01:55:42Z</updated>
+  <subtitle>Weekly Trending of R in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>smarguer/GENERAL_R_SCRIPTS</title>
+    <updated>2024-02-18T01:55:42Z</updated>
+    <id>tag:github.com,2024-02-18:/smarguer/GENERAL_R_SCRIPTS</id>
+    <link href="https://github.com/smarguer/GENERAL_R_SCRIPTS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GENERAL_R_SCRIPTS&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>akastrin/drtoolbox</title>
+    <updated>2024-02-18T01:55:42Z</updated>
+    <id>tag:github.com,2024-02-18:/akastrin/drtoolbox</id>
+    <link href="https://github.com/akastrin/drtoolbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;drtoolbox&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;drtoolbox&lt;/h1&gt; &#xA;&lt;p&gt;drtoolbox is eponymous MATLAB port to R. For more info please visit &lt;a href=&#34;http://homepage.tudelft.nl/19j49/Matlab_Toolbox_for_Dimensionality_Reduction.html&#34;&gt;official webpage&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+</feed>

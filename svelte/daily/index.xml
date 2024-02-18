@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-17T01:35:31Z</updated>
+  <updated>2024-02-18T01:40:11Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dfinity/ic-docutrack</title>
-    <updated>2024-02-17T01:35:31Z</updated>
-    <id>tag:github.com,2024-02-17:/dfinity/ic-docutrack</id>
-    <link href="https://github.com/dfinity/ic-docutrack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-webui/open-webui</title>
+    <updated>2024-02-18T01:40:11Z</updated>
+    <id>tag:github.com,2024-02-18:/open-webui/open-webui</id>
+    <link href="https://github.com/open-webui/open-webui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

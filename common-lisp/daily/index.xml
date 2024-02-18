@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-17T01:24:42Z</updated>
+  <updated>2024-02-18T01:27:29Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HubPeter/work</title>
+    <updated>2024-02-18T01:27:29Z</updated>
+    <id>tag:github.com,2024-02-18:/HubPeter/work</id>
+    <link href="https://github.com/HubPeter/work" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;source file: compress.lisp: 加密的同时达到压缩的效果 en.lisp: 使用异或方式对8位bmp图像进行混沌加密&lt;/p&gt; &#xA;&lt;p&gt;image file: en.lisp： plain.bmp: 原始位图 ciper.bmp: 加密后的图像 de.bmp： 解密后的图像 compress.lisp: p_&lt;em&gt;.jpg: 原始图像 e.g. p_girl.jpg c_&lt;/em&gt;.jpg: 加密后的图像&lt;/p&gt; &#xA;&lt;p&gt;mail: &lt;a href=&#34;mailto:tecnodechina@gmail.com&#34;&gt;tecnodechina@gmail.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;安装 光盘中已有压缩包，相关问题可以访问下面的网址 lispbox: &lt;a href=&#34;http://common-lisp.net/project/lispbox/&#34;&gt;http://common-lisp.net/project/lispbox/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;运行程序 ;; 编译源文件 CL&amp;gt;(load &#34;compress.lisp&#34;) ;; 运行函数，可以用该方式运行任何函数 ;; 无参 (main) ;; 带参 (encrypt &#34;plain.bmp&#34; &#34;ciper.bmp&#34;)&lt;/p&gt;</summary>
+  </entry>
 </feed>

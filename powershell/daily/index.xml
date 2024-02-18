@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-17T01:32:45Z</updated>
+  <updated>2024-02-18T01:37:12Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>maaaaz/CrackMapExecWin</title>
-    <updated>2024-02-17T01:32:45Z</updated>
-    <id>tag:github.com,2024-02-17:/maaaaz/CrackMapExecWin</id>
-    <link href="https://github.com/maaaaz/CrackMapExecWin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The great CrackMapExec tool compiled for Windows&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CrackMapExecWin&lt;/h1&gt; &#xA;&lt;h2&gt;Description&lt;/h2&gt; &#xA;&lt;p&gt;The great &lt;code&gt;CrackMapExec&lt;/code&gt; tool compiled for Windows&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Latest &lt;code&gt;2.2&lt;/code&gt; version&lt;/li&gt; &#xA; &lt;li&gt;Compiled for &lt;code&gt;x86&lt;/code&gt; so should work on &lt;code&gt;x86&lt;/code&gt; and &lt;code&gt;x64&lt;/code&gt; platforms&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Download the &lt;a href=&#34;https://github.com/maaaaz/CrackMapExecWin/releases/download/v2.2/CrackMapExecWin_v2.2.zip&#34;&gt;whole archive&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Extract it and run &lt;code&gt;crackmapexec.exe&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Profit&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Older versions&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Browse the &lt;a href=&#34;https://github.com/maaaaz/CrackMapExecWin/releases&#34;&gt;release section&lt;/a&gt; to find some old versions&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Disclaimer &amp;amp; licence&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Do not use it for illegal purposes&lt;/li&gt; &#xA; &lt;li&gt;I don&#39;t own anything on the CrackMapExec brand&lt;/li&gt; &#xA; &lt;li&gt;Last but not least, antivirus softwares might report some binaries as hacktools or even malwares: this is a known and common issue. If you don&#39;t trust this compilation: &#xA;  &lt;ol&gt; &#xA;   &lt;li&gt;Just don&#39;t download it.&lt;/li&gt; &#xA;   &lt;li&gt;Compile it yourself with &lt;a href=&#34;https://github.com/maaaaz/CrackMapExecWin/wiki/How-to-compile-CrackMapExec-for-Windows&#34;&gt;that tutorial&lt;/a&gt;&lt;/li&gt; &#xA;  &lt;/ol&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;byt3bl33d3r for his awesome &lt;a href=&#34;https://github.com/byt3bl33d3r/CrackMapExec&#34;&gt;CrackMapExec tool&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

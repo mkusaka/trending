@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-17T01:22:09Z</updated>
+  <updated>2024-02-18T01:25:06Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mztacat/Kyoto-Chain</title>
-    <updated>2024-02-17T01:22:09Z</updated>
-    <id>tag:github.com,2024-02-17:/mztacat/Kyoto-Chain</id>
-    <link href="https://github.com/mztacat/Kyoto-Chain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kyoto chain on Arbitrum&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ChanChiChoi/awesome-Face_Recognition</title>
+    <updated>2024-02-18T01:25:06Z</updated>
+    <id>tag:github.com,2024-02-18:/ChanChiChoi/awesome-Face_Recognition</id>
+    <link href="https://github.com/ChanChiChoi/awesome-Face_Recognition" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;papers about Face Detection; Face Alignment; Face Recognition &amp;&amp; Face Identification &amp;&amp; Face Verification &amp;&amp; Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution &amp;&amp; Face Deblurring; Face Generation &amp;&amp; Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>keep-starknet-strange/awesome-starknet</title>
-    <updated>2024-02-17T01:22:09Z</updated>
-    <id>tag:github.com,2024-02-17:/keep-starknet-strange/awesome-starknet</id>
-    <link href="https://github.com/keep-starknet-strange/awesome-starknet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome StarkNet resources, libraries, tools and more&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zkSync-Community-Hub/zksync-developers</title>
+    <updated>2024-02-18T01:25:06Z</updated>
+    <id>tag:github.com,2024-02-18:/zkSync-Community-Hub/zksync-developers</id>
+    <link href="https://github.com/zkSync-Community-Hub/zksync-developers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/Hack-Together-Fabric-AI</title>
-    <updated>2024-02-17T01:22:09Z</updated>
-    <id>tag:github.com,2024-02-17:/microsoft/Hack-Together-Fabric-AI</id>
-    <link href="https://github.com/microsoft/Hack-Together-Fabric-AI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hack Together: The Microsoft Fabric Global AI Hack&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devoxx/JavaRoadmap</title>
+    <updated>2024-02-18T01:25:06Z</updated>
+    <id>tag:github.com,2024-02-18:/devoxx/JavaRoadmap</id>
+    <link href="https://github.com/devoxx/JavaRoadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The 2024 Java Developers Roadmap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

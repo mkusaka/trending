@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C++ Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-18T01:52:40Z</updated>
+  <subtitle>Weekly Trending of Objective-C++ in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Lessica/TrollRecorder</title>
+    <updated>2024-02-18T01:52:40Z</updated>
+    <id>tag:github.com,2024-02-18:/Lessica/TrollRecorder</id>
+    <link href="https://github.com/Lessica/TrollRecorder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WIP: A simple audio recorder for TrollStore.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lich4/ChargeLimiter</title>
+    <updated>2024-02-18T01:52:40Z</updated>
+    <id>tag:github.com,2024-02-18:/lich4/ChargeLimiter</id>
+    <link href="https://github.com/lich4/ChargeLimiter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AlDente rewrite for iOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-18T01:43:18Z</updated>
+  <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/azure-devops-copilot-extension</title>
+    <updated>2024-02-18T01:43:18Z</updated>
+    <id>tag:github.com,2024-02-18:/Azure-Samples/azure-devops-copilot-extension</id>
+    <link href="https://github.com/Azure-Samples/azure-devops-copilot-extension" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Azure DevOps Copilot Extension Sample&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/aks-store-demo</title>
+    <updated>2024-02-18T01:43:18Z</updated>
+    <id>tag:github.com,2024-02-18:/Azure-Samples/aks-store-demo</id>
+    <link href="https://github.com/Azure-Samples/aks-store-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample microservices app for AKS demos, tutorials, and experiments&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

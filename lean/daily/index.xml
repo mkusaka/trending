@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-17T01:29:47Z</updated>
+  <updated>2024-02-18T01:33:38Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>leanprover/LNSym</title>
+    <updated>2024-02-18T01:33:38Z</updated>
+    <id>tag:github.com,2024-02-18:/leanprover/LNSym</id>
+    <link href="https://github.com/leanprover/LNSym" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Armv8 Native Code Symbolic Simulator in Lean&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>glams-lean-2024/formal-2024</title>
+    <updated>2024-02-18T01:33:38Z</updated>
+    <id>tag:github.com,2024-02-18:/glams-lean-2024/formal-2024</id>
+    <link href="https://github.com/glams-lean-2024/formal-2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

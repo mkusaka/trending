@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-17T01:25:39Z</updated>
+  <updated>2024-02-18T01:28:35Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kraftcloud/examples</title>
+    <updated>2024-02-18T01:28:35Z</updated>
+    <id>tag:github.com,2024-02-18:/kraftcloud/examples</id>
+    <link href="https://github.com/kraftcloud/examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KraftCloud Examples and Sample Projects&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;KraftCloud Examples and Sample Projects&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains examples of how to deploy applications onto &lt;a href=&#34;https://kraft.cloud&#34;&gt;KraftCloud&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

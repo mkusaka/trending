@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-17T01:34:38Z</updated>
+  <updated>2024-02-18T01:39:17Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>filipecarneiro/hugo-bootstrap-theme</title>
-    <updated>2024-02-17T01:34:38Z</updated>
-    <id>tag:github.com,2024-02-17:/filipecarneiro/hugo-bootstrap-theme</id>
-    <link href="https://github.com/filipecarneiro/hugo-bootstrap-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuanPa90Cap/arq-p2-projecto</title>
-    <updated>2024-02-17T01:34:38Z</updated>
-    <id>tag:github.com,2024-02-17:/JuanPa90Cap/arq-p2-projecto</id>
-    <link href="https://github.com/JuanPa90Cap/arq-p2-projecto" rel="alternate"></link>
+    <title>umi-gripper/umi-gripper.github.io</title>
+    <updated>2024-02-18T01:39:17Z</updated>
+    <id>tag:github.com,2024-02-18:/umi-gripper/umi-gripper.github.io</id>
+    <link href="https://github.com/umi-gripper/umi-gripper.github.io" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

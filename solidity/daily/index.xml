@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-17T01:35:09Z</updated>
+  <updated>2024-02-18T01:39:49Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>getclave/clave-contracts</title>
-    <updated>2024-02-17T01:35:09Z</updated>
-    <id>tag:github.com,2024-02-17:/getclave/clave-contracts</id>
-    <link href="https://github.com/getclave/clave-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clave Smart Contracts on zkSync&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>noir-lang/noir-examples</title>
+    <updated>2024-02-18T01:39:49Z</updated>
+    <id>tag:github.com,2024-02-18:/noir-lang/noir-examples</id>
+    <link href="https://github.com/noir-lang/noir-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repo of example Noir projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>berachain/guides</title>
-    <updated>2024-02-17T01:35:09Z</updated>
-    <id>tag:github.com,2024-02-17:/berachain/guides</id>
-    <link href="https://github.com/berachain/guides" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A demonstration of different contracts, languages, and libraries that work with Berachain EVM.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WitnessCo/contracts-core</title>
+    <updated>2024-02-18T01:39:49Z</updated>
+    <id>tag:github.com,2024-02-18:/WitnessCo/contracts-core</id>
+    <link href="https://github.com/WitnessCo/contracts-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Core contracts for Witness&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>security-alliance/safe-harbor</title>
-    <updated>2024-02-17T01:35:09Z</updated>
-    <id>tag:github.com,2024-02-17:/security-alliance/safe-harbor</id>
-    <link href="https://github.com/security-alliance/safe-harbor" rel="alternate"></link>
+    <title>arcadia-finance/lending-v2</title>
+    <updated>2024-02-18T01:39:49Z</updated>
+    <id>tag:github.com,2024-02-18:/arcadia-finance/lending-v2</id>
+    <link href="https://github.com/arcadia-finance/lending-v2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

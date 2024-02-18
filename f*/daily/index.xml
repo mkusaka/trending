@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F* Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-17T01:26:33Z</updated>
+  <updated>2024-02-18T01:29:43Z</updated>
   <subtitle>Daily Trending of F* in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>FStarLang/pulse</title>
-    <updated>2024-02-17T01:26:33Z</updated>
-    <id>tag:github.com,2024-02-17:/FStarLang/pulse</id>
-    <link href="https://github.com/FStarLang/pulse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Pulse separation logic DSL for F*&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

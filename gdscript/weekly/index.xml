@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-18T01:46:44Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ratmarrow/GoldGdt-Legacy</title>
+    <updated>2024-02-18T01:46:44Z</updated>
+    <id>tag:github.com,2024-02-18:/ratmarrow/GoldGdt-Legacy</id>
+    <link href="https://github.com/ratmarrow/GoldGdt-Legacy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GoldSrc character controller add-on for Godot.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hugemenace/resonate</title>
+    <updated>2024-02-18T01:46:44Z</updated>
+    <id>tag:github.com,2024-02-18:/hugemenace/resonate</id>
+    <link href="https://github.com/hugemenace/resonate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An all-in-one sound and music management addon for the Godot game engine.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>don-tnowe/godot-resources-as-sheets-plugin</title>
+    <updated>2024-02-18T01:46:44Z</updated>
+    <id>tag:github.com,2024-02-18:/don-tnowe/godot-resources-as-sheets-plugin</id>
+    <link href="https://github.com/don-tnowe/godot-resources-as-sheets-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I needed to edit many Resource files, so figured someone would too.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
