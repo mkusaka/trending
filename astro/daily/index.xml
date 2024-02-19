@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-18T01:25:44Z</updated>
+  <updated>2024-02-19T01:24:55Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hilmanski/freeStuffDev</title>
-    <updated>2024-02-18T01:25:44Z</updated>
-    <id>tag:github.com,2024-02-18:/hilmanski/freeStuffDev</id>
-    <link href="https://github.com/hilmanski/freeStuffDev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;list of free stuff for developer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cesium/ares</title>
-    <updated>2024-02-18T01:25:44Z</updated>
-    <id>tag:github.com,2024-02-18:/cesium/ares</id>
-    <link href="https://github.com/cesium/ares" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🪲 BugsByte Hackathon landing page&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>evadecker/eva.town</title>
+    <updated>2024-02-19T01:24:55Z</updated>
+    <id>tag:github.com,2024-02-19:/evadecker/eva.town</id>
+    <link href="https://github.com/evadecker/eva.town" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Eva Decker is a designer and software engineer based in Brooklyn, New York. This is her digital garden.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

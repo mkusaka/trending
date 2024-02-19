@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-18T01:25:58Z</updated>
+  <updated>2024-02-19T01:25:12Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>blibdoolpoolp/Cloudflared-RDP-Tutorial-Free</title>
-    <updated>2024-02-18T01:25:58Z</updated>
-    <id>tag:github.com,2024-02-18:/blibdoolpoolp/Cloudflared-RDP-Tutorial-Free</id>
-    <link href="https://github.com/blibdoolpoolp/Cloudflared-RDP-Tutorial-Free" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This tutorial offers a comprehensive guide on setting up secure Remote Desktop (RDP) &amp; SSH connections using Cloudflare&#39;s Cloudflared service. This tutorial aims to provide users with a method to access their desktops remotely without compromising security, leveraging Cloudflare&#39;s tunneling technology to create a safe, encrypted connection path.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

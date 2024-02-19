@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-18T01:30:13Z</updated>
+  <updated>2024-02-19T01:29:49Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>viniciusgerevini/godot-clyde-dialogue</title>
-    <updated>2024-02-18T01:30:13Z</updated>
-    <id>tag:github.com,2024-02-18:/viniciusgerevini/godot-clyde-dialogue</id>
-    <link href="https://github.com/viniciusgerevini/godot-clyde-dialogue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clyde Dialogue Language Importer and interpreter for Godot.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

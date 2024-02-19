@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XQuery Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-18T01:41:59Z</updated>
+  <updated>2024-02-19T01:42:59Z</updated>
   <subtitle>Daily Trending of XQuery in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>withanage/kjc-services</title>
+    <updated>2024-02-19T01:42:59Z</updated>
+    <id>tag:github.com,2024-02-19:/withanage/kjc-services</id>
+    <link href="https://github.com/withanage/kjc-services" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

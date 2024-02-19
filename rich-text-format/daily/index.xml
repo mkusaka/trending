@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-18T01:38:22Z</updated>
+  <updated>2024-02-19T01:38:34Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Anupam-2105/Infosys-Springboard</title>
+    <updated>2024-02-19T01:38:34Z</updated>
+    <id>tag:github.com,2024-02-19:/Anupam-2105/Infosys-Springboard</id>
+    <link href="https://github.com/Anupam-2105/Infosys-Springboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Here in this repository, you can find solution to Infosys Springboard DBMS Part-1 assignments, quiz and exercises.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

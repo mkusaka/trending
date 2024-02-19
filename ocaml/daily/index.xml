@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-18T01:35:49Z</updated>
+  <updated>2024-02-19T01:35:50Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cmsc330spring24/cmsc330spring24</title>
-    <updated>2024-02-18T01:35:49Z</updated>
-    <id>tag:github.com,2024-02-18:/cmsc330spring24/cmsc330spring24</id>
-    <link href="https://github.com/cmsc330spring24/cmsc330spring24" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>serde-ml/serde</title>
-    <updated>2024-02-18T01:35:49Z</updated>
-    <id>tag:github.com,2024-02-18:/serde-ml/serde</id>
-    <link href="https://github.com/serde-ml/serde" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Serialization framework for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

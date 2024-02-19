@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-18T01:36:17Z</updated>
+  <updated>2024-02-19T01:36:22Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>URUWorks/TeroSubtitler</title>
-    <updated>2024-02-18T01:36:17Z</updated>
-    <id>tag:github.com,2024-02-18:/URUWorks/TeroSubtitler</id>
-    <link href="https://github.com/URUWorks/TeroSubtitler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tero Subtitler is an open source, cross-platform, and free subtitle editing software.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

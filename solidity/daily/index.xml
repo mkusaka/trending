@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-18T01:39:49Z</updated>
+  <updated>2024-02-19T01:40:16Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>noir-lang/noir-examples</title>
-    <updated>2024-02-18T01:39:49Z</updated>
-    <id>tag:github.com,2024-02-18:/noir-lang/noir-examples</id>
-    <link href="https://github.com/noir-lang/noir-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repo of example Noir projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>x1simka931x1/Mevbot</title>
+    <updated>2024-02-19T01:40:16Z</updated>
+    <id>tag:github.com,2024-02-19:/x1simka931x1/Mevbot</id>
+    <link href="https://github.com/x1simka931x1/Mevbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ethereum MEV Sandwich Bot: Use AI to Make Passively | MEV Bot Guide&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WitnessCo/contracts-core</title>
-    <updated>2024-02-18T01:39:49Z</updated>
-    <id>tag:github.com,2024-02-18:/WitnessCo/contracts-core</id>
-    <link href="https://github.com/WitnessCo/contracts-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core contracts for Witness&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>arcadia-finance/lending-v2</title>
-    <updated>2024-02-18T01:39:49Z</updated>
-    <id>tag:github.com,2024-02-18:/arcadia-finance/lending-v2</id>
-    <link href="https://github.com/arcadia-finance/lending-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xDel/erc-del-protocol</title>
+    <updated>2024-02-19T01:40:16Z</updated>
+    <id>tag:github.com,2024-02-19:/0xDel/erc-del-protocol</id>
+    <link href="https://github.com/0xDel/erc-del-protocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is an innovative protocol based on ERC20, which will generate significant FOMO.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
