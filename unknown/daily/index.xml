@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-19T01:24:05Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2024-02-20T01:21:45Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>goatfungus/NMSSaveEditor</title>
-    <updated>2024-02-19T01:24:05Z</updated>
-    <id>tag:github.com,2024-02-19:/goatfungus/NMSSaveEditor</id>
-    <link href="https://github.com/goatfungus/NMSSaveEditor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;No Man&#39;s Sky - Save Editor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>I-S00N/I-S00N</title>
+    <updated>2024-02-20T01:21:45Z</updated>
+    <id>tag:github.com,2024-02-20:/I-S00N/I-S00N</id>
+    <link href="https://github.com/I-S00N/I-S00N" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cristopherRR/cristopherRR1</title>
-    <updated>2024-02-19T01:24:05Z</updated>
-    <id>tag:github.com,2024-02-19:/cristopherRR/cristopherRR1</id>
-    <link href="https://github.com/cristopherRR/cristopherRR1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;1&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SeoYoungHo/SeoYoungHo1</title>
-    <updated>2024-02-19T01:24:05Z</updated>
-    <id>tag:github.com,2024-02-19:/SeoYoungHo/SeoYoungHo1</id>
-    <link href="https://github.com/SeoYoungHo/SeoYoungHo1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;1&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0x4D31/awesome-threat-detection</title>
+    <updated>2024-02-20T01:21:45Z</updated>
+    <id>tag:github.com,2024-02-20:/0x4D31/awesome-threat-detection</id>
+    <link href="https://github.com/0x4D31/awesome-threat-detection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-19T01:36:33Z</updated>
+  <updated>2024-02-20T01:32:58Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tokuhirom/OrePAN2</title>
-    <updated>2024-02-19T01:36:33Z</updated>
-    <id>tag:github.com,2024-02-19:/tokuhirom/OrePAN2</id>
-    <link href="https://github.com/tokuhirom/OrePAN2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NAME&lt;/h1&gt; &#xA;&lt;p&gt;OrePAN2 - Yet another DarkPAN manager.&lt;/p&gt; &#xA;&lt;h1&gt;DESCRIPTION&lt;/h1&gt; &#xA;&lt;p&gt;You can create your own Perl module archive with OrePAN2! It&#39;s very simple and useful.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &#xA;  &lt;ol&gt; &#xA;   &lt;li&gt;Inject tarballs from git repo or archive file via orepan2-inject.&lt;/li&gt; &#xA;  &lt;/ol&gt; &lt;/li&gt; &#xA; &lt;li&gt; &#xA;  &lt;ol start=&#34;2&#34;&gt; &#xA;   &lt;li&gt;Make 02packages.details.txt.gz via orepan2-indexer.&lt;/li&gt; &#xA;  &lt;/ol&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;TUTORIAL&lt;/h1&gt; &#xA;&lt;p&gt;Download a tarball from CPAN.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;% orepan2-inject http://cpan.metacpan.org/authors/id/M/MA/MAHITO/Acme-Hoge-0.03.tar.gz /path/to/darkpan/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Create 02packages.details.txt!&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;% orepan2-indexer /path/to/darkpan/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then you can install Acme::Hoge from DarkPAN!&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;% cpanm --mirror-only --mirror=file:///path/to/darkpan/ Acme::Hoge&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;It&#39;s pretty easy!&lt;/p&gt; &#xA;&lt;h1&gt;What&#39;s the difference between OrePAN 2 and OrePAN1?&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;OrePAN2 has a cleaner interface.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;OrePAN2 provides an OO-ish interface&lt;/p&gt; &lt;p&gt;You can use OrePAN2 as a library.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;OrePAN2 uses modern modules like &lt;a href=&#34;https://metacpan.org/pod/Parse%3A%3ALocalDistribution&#34;&gt;Parse::LocalDistribution&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;OrePAN1 did a lot of heavy lifting on its own. OrePAN2 delegates most tasks to other CPAN modules.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;OrePAN2 is active project&lt;/p&gt; &lt;p&gt;OrePAN1 is now in maintenance mode, but OrePAN2 is still under active development.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;SEE ALSO&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://metacpan.org/pod/OrePAN2%3A%3AServer&#34;&gt;OrePAN2::Server&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;LICENSE&lt;/h1&gt; &#xA;&lt;p&gt;Copyright (C) tokuhirom.&lt;/p&gt; &#xA;&lt;p&gt;This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.&lt;/p&gt; &#xA;&lt;h1&gt;AUTHOR&lt;/h1&gt; &#xA;&lt;p&gt;tokuhirom &lt;a href=&#34;mailto:tokuhirom@gmail.com&#34;&gt;tokuhirom@gmail.com&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>joshuawbrown/LabZero</title>
+    <updated>2024-02-20T01:32:58Z</updated>
+    <id>tag:github.com,2024-02-20:/joshuawbrown/LabZero</id>
+    <link href="https://github.com/joshuawbrown/LabZero" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The PERL LabZero stack for LPC&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is the LPC Project. Linux/Perl/Couch&lt;/p&gt; &#xA;&lt;p&gt;All the stuff in &#34;LabZero&#34; and &#34;DemoApp&#34; is the open source stuff. Apache 2.0 License.&lt;/p&gt; &#xA;&lt;p&gt;See sample_config_files for more on using MsgLite and Context.pm&lt;/p&gt; &#xA;&lt;p&gt;See my wiki for setup info at &lt;a href=&#34;http://http://jswiki.lab-01.com&#34;&gt;http://http://jswiki.lab-01.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;(c) 2012-2013 Joshua W Brown&lt;/p&gt;</summary>
   </entry>
 </feed>

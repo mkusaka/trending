@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-19T01:40:16Z</updated>
+  <updated>2024-02-20T01:36:11Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>x1simka931x1/Mevbot</title>
-    <updated>2024-02-19T01:40:16Z</updated>
-    <id>tag:github.com,2024-02-19:/x1simka931x1/Mevbot</id>
-    <link href="https://github.com/x1simka931x1/Mevbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ethereum MEV Sandwich Bot: Use AI to Make Passively | MEV Bot Guide&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Miner-Labs/ERC-X</title>
+    <updated>2024-02-20T01:36:11Z</updated>
+    <id>tag:github.com,2024-02-20:/Miner-Labs/ERC-X</id>
+    <link href="https://github.com/Miner-Labs/ERC-X" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>0xDel/erc-del-protocol</title>
-    <updated>2024-02-19T01:40:16Z</updated>
-    <id>tag:github.com,2024-02-19:/0xDel/erc-del-protocol</id>
-    <link href="https://github.com/0xDel/erc-del-protocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is an innovative protocol based on ERC20, which will generate significant FOMO.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>polytope-labs/solidity-merkle-trees</title>
+    <updated>2024-02-20T01:36:11Z</updated>
+    <id>tag:github.com,2024-02-20:/polytope-labs/solidity-merkle-trees</id>
+    <link href="https://github.com/polytope-labs/solidity-merkle-trees" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The most advanced solidity library for merkle (multi) proof verification of different kinds of merkle trees&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

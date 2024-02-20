@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-19T01:25:37Z</updated>
+  <updated>2024-02-20T01:23:22Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Sh3lldon/FullBypass</title>
+    <updated>2024-02-20T01:23:22Z</updated>
+    <id>tag:github.com,2024-02-20:/Sh3lldon/FullBypass</id>
+    <link href="https://github.com/Sh3lldon/FullBypass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you a FullLanguage PowerShell reverse shell. Feel free to modiy and DM if you find some bugs :)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FullBypass&lt;/h1&gt; &#xA;&lt;p&gt;A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you a FullLanguage PowerShell reverse shell. Feel free to modiy and DM if you find some bugs :)&lt;/p&gt; &#xA;&lt;p&gt;P.S Please do not use in unethical hacking and follow all rules and regulations of laws&lt;/p&gt; &#xA;&lt;p&gt;Usage:&lt;/p&gt; &#xA;&lt;p&gt;First, Download the bypass.csproj file into the victim machine (Find writeable folder such as C:\Windows\Tasks or C:\Windows\Temp). After that just execute it with msbuild.exe.&lt;/p&gt; &#xA;&lt;p&gt;Example: C:\windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe .\FullBypass.csproj&lt;/p&gt; &#xA;&lt;p&gt;After that the code will do 2 things.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Firstly code will bypass AMSI using memory hijacking method and will rewrite some instructions in AmsiScanBuffer fuction. With xor instruction the size argument will be 0 and AMSI cannot detect future scripts and command in powershell.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Sh3lldon/FullBypass/assets/78950174/4a444b4d-cfd1-47fd-9cc7-b9e2b92a2f12&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;ol start=&#34;2&#34;&gt; &#xA; &lt;li&gt;Finally it will ask you your attacker IP and port to give you a powershell FullLanguage Mode reverse shell.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Sh3lldon/FullBypass/assets/78950174/5b6e609d-30aa-49ea-9fb1-ce5f82ff082e&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Sh3lldon/FullBypass/assets/78950174/3b81ccdf-b5c9-450d-93f1-b89996a94aee&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;As you can see we catch powershell FullLanguageMode reverse shell.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ali10555/FakeRopeSimulation</title>
+    <updated>2024-02-20T01:23:22Z</updated>
+    <id>tag:github.com,2024-02-20:/Ali10555/FakeRopeSimulation</id>
+    <link href="https://github.com/Ali10555/FakeRopeSimulation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creates a fake simulated rope, connecting between 2 point.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FakeRopeSimulation&lt;/h1&gt; &#xA;&lt;p&gt;Create a fake simulated rope, connecting between 2 points.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/shorts/0fxgsKjxotA&#34;&gt;https://www.youtube.com/shorts/0fxgsKjxotA&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Ali10555/FakeRopeSimulation/assets/96617579/5c9ea09e-c418-4bba-a00f-cb7c04aec141&#34; alt=&#34;small&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Future goals (in no particular order)&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Mesh Generation.&lt;/li&gt; &#xA; &lt;li&gt;Accurate curve based on a mass hanging in the middle.&lt;/li&gt; &#xA; &lt;li&gt;Ground Detection.&lt;/li&gt; &#xA; &lt;li&gt;Cutting Rope at some point (runtime)&lt;/li&gt; &#xA; &lt;li&gt;Spring Damping in all dimensions (currently it works only on the y-axis).&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

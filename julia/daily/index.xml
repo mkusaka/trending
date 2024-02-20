@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-19T01:32:36Z</updated>
+  <updated>2024-02-20T01:29:52Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaBinaryWrappers/libjwt_jll.jl</title>
-    <updated>2024-02-19T01:32:36Z</updated>
-    <id>tag:github.com,2024-02-19:/JuliaBinaryWrappers/libjwt_jll.jl</id>
-    <link href="https://github.com/JuliaBinaryWrappers/libjwt_jll.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaArrays/StructArrays.jl</title>
+    <updated>2024-02-20T01:29:52Z</updated>
+    <id>tag:github.com,2024-02-20:/JuliaArrays/StructArrays.jl</id>
+    <link href="https://github.com/JuliaArrays/StructArrays.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Efficient implementation of struct arrays in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaBinaryWrappers/OpenVAF_jll.jl</title>
-    <updated>2024-02-19T01:32:36Z</updated>
-    <id>tag:github.com,2024-02-19:/JuliaBinaryWrappers/OpenVAF_jll.jl</id>
-    <link href="https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Astroshaper/AsteroidThermoPhysicalModels.jl</title>
+    <updated>2024-02-20T01:29:52Z</updated>
+    <id>tag:github.com,2024-02-20:/Astroshaper/AsteroidThermoPhysicalModels.jl</id>
+    <link href="https://github.com/Astroshaper/AsteroidThermoPhysicalModels.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia-based dynamical simulator for asteroids and planets.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
