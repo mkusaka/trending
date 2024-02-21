@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-20T01:24:49Z</updated>
+  <updated>2024-02-21T01:26:41Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Dinesh-Sowndar/flutter_starbucks_ui_challenge</title>
-    <updated>2024-02-20T01:24:49Z</updated>
-    <id>tag:github.com,2024-02-20:/Dinesh-Sowndar/flutter_starbucks_ui_challenge</id>
-    <link href="https://github.com/Dinesh-Sowndar/flutter_starbucks_ui_challenge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flutter Starbucks UI Challenge&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Flutter Starbucks UI Challenge&lt;/h1&gt; &#xA;&lt;p&gt;UI Inspiration: &lt;a href=&#34;https://dribbble.com/shots/18580900-Coffee-Shop-Mobile-App&#34;&gt;https://dribbble.com/shots/18580900-Coffee-Shop-Mobile-App&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Dinesh-Sowndar/flutter_starbucks_ui_challenge/assets/29474697/fff01446-1c53-42bb-90b4-86aa7e80df15&#34; alt=&#34;WhatsApp Image 2024-02-17 at 7 16 47 PM&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

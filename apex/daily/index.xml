@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-20T01:22:20Z</updated>
+  <updated>2024-02-21T01:23:20Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TheVishnuKumar/OmniStudio-Recipes</title>
+    <updated>2024-02-21T01:23:20Z</updated>
+    <id>tag:github.com,2024-02-21:/TheVishnuKumar/OmniStudio-Recipes</id>
+    <link href="https://github.com/TheVishnuKumar/OmniStudio-Recipes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains all kinds of examples with OmniStudio (Vlocity). It will get updated with more examples.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

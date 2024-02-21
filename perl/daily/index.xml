@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-20T01:32:58Z</updated>
+  <updated>2024-02-21T01:37:42Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>joshuawbrown/LabZero</title>
-    <updated>2024-02-20T01:32:58Z</updated>
-    <id>tag:github.com,2024-02-20:/joshuawbrown/LabZero</id>
-    <link href="https://github.com/joshuawbrown/LabZero" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The PERL LabZero stack for LPC&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is the LPC Project. Linux/Perl/Couch&lt;/p&gt; &#xA;&lt;p&gt;All the stuff in &#34;LabZero&#34; and &#34;DemoApp&#34; is the open source stuff. Apache 2.0 License.&lt;/p&gt; &#xA;&lt;p&gt;See sample_config_files for more on using MsgLite and Context.pm&lt;/p&gt; &#xA;&lt;p&gt;See my wiki for setup info at &lt;a href=&#34;http://http://jswiki.lab-01.com&#34;&gt;http://http://jswiki.lab-01.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;(c) 2012-2013 Joshua W Brown&lt;/p&gt;</summary>
-  </entry>
 </feed>

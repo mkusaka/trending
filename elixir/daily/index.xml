@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-20T01:25:38Z</updated>
+  <updated>2024-02-21T01:28:03Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tonydangblog/liveview-svelte-pwa</title>
-    <updated>2024-02-20T01:25:38Z</updated>
-    <id>tag:github.com,2024-02-20:/tonydangblog/liveview-svelte-pwa</id>
-    <link href="https://github.com/tonydangblog/liveview-svelte-pwa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Local-First LiveView Svelte ToDo App&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ElixiremFoco/rinha-backend-2024-q1</title>
-    <updated>2024-02-20T01:25:38Z</updated>
-    <id>tag:github.com,2024-02-20:/ElixiremFoco/rinha-backend-2024-q1</id>
-    <link href="https://github.com/ElixiremFoco/rinha-backend-2024-q1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nossa solução para a Rinha de Backend 2024-q1: https://github.com/zanfranceschi/rinha-de-backend-2024-q1&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>distu-br/csv</title>
-    <updated>2024-02-20T01:25:38Z</updated>
-    <id>tag:github.com,2024-02-20:/distu-br/csv</id>
-    <link href="https://github.com/distu-br/csv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Case de entrevista&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

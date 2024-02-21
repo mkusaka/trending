@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-20T01:23:14Z</updated>
+  <updated>2024-02-21T01:24:17Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>microsoft/Sora</title>
+    <updated>2024-02-21T01:24:17Z</updated>
+    <id>tag:github.com,2024-02-21:/microsoft/Sora</id>
+    <link href="https://github.com/microsoft/Sora" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Sora&lt;/h1&gt; &#xA;&lt;p&gt;The Microsoft Research Software Radio (Sora) is a fully programmable software radio platform based on the commodity multicore CPU in a host PC. With Sora, researchers and engineers can quickly prototype new, high-speed wireless physical and media-access-control layers with a minimum of effort. Microsoft Research Software Radio SDK provides the BRICK model for baseband programming, user mode 802.11a/b/n samples, and a full new debug plot tool. Windows 10 is fully supported.&lt;/p&gt; &#xA;&lt;p&gt;Project portal: &lt;a href=&#34;http://research.microsoft.com/en-us/projects/sora/&#34;&gt;http://research.microsoft.com/en-us/projects/sora/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Discussions: &lt;a href=&#34;http://social.microsoft.com/Forums/en-US/home?forum=sora&#34;&gt;http://social.microsoft.com/Forums/en-US/home?forum=sora&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-20T01:24:05Z</updated>
+  <updated>2024-02-21T01:25:28Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tiacsys/bridle</title>
+    <updated>2024-02-21T01:25:28Z</updated>
+    <id>tag:github.com,2024-02-21:/tiacsys/bridle</id>
+    <link href="https://github.com/tiacsys/bridle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bridle and kite line for embedded systems based on Zephyr.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>leggedrobotics/ocs2_robotic_assets</title>
+    <updated>2024-02-21T01:25:28Z</updated>
+    <id>tag:github.com,2024-02-21:/leggedrobotics/ocs2_robotic_assets</id>
+    <link href="https://github.com/leggedrobotics/ocs2_robotic_assets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Various robotic assets for OCS2 Toolbox&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>holepunchto/cmake-toolchains</title>
+    <updated>2024-02-21T01:25:28Z</updated>
+    <id>tag:github.com,2024-02-21:/holepunchto/cmake-toolchains</id>
+    <link href="https://github.com/holepunchto/cmake-toolchains" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clang-based toolchain definitions for easy cross compilation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

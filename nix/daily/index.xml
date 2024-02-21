@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-20T01:32:00Z</updated>
+  <updated>2024-02-21T01:36:31Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>juspay/services-flake</title>
-    <updated>2024-02-20T01:32:00Z</updated>
-    <id>tag:github.com,2024-02-20:/juspay/services-flake</id>
-    <link href="https://github.com/juspay/services-flake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NixOS-like services for Nix flakes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nix-community/nixpkgs-terraform-providers-bin</title>
+    <updated>2024-02-21T01:36:31Z</updated>
+    <id>tag:github.com,2024-02-21:/nix-community/nixpkgs-terraform-providers-bin</id>
+    <link href="https://github.com/nix-community/nixpkgs-terraform-providers-bin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;auto-updating terraform providers for nix [maintainer=@zimbatm]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tvlfyi/tvix</title>
-    <updated>2024-02-20T01:32:00Z</updated>
-    <id>tag:github.com,2024-02-20:/tvlfyi/tvix</id>
-    <link href="https://github.com/tvlfyi/tvix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NixOS/templates</title>
+    <updated>2024-02-21T01:36:31Z</updated>
+    <id>tag:github.com,2024-02-21:/NixOS/templates</id>
+    <link href="https://github.com/NixOS/templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flake templates&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

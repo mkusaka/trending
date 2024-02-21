@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-20T01:29:52Z</updated>
+  <updated>2024-02-21T01:33:27Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaArrays/StructArrays.jl</title>
-    <updated>2024-02-20T01:29:52Z</updated>
-    <id>tag:github.com,2024-02-20:/JuliaArrays/StructArrays.jl</id>
-    <link href="https://github.com/JuliaArrays/StructArrays.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Efficient implementation of struct arrays in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LuxDL/DocumenterVitepress.jl</title>
+    <updated>2024-02-21T01:33:27Z</updated>
+    <id>tag:github.com,2024-02-21:/LuxDL/DocumenterVitepress.jl</id>
+    <link href="https://github.com/LuxDL/DocumenterVitepress.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation with Documenter.jl and VitePress&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Astroshaper/AsteroidThermoPhysicalModels.jl</title>
-    <updated>2024-02-20T01:29:52Z</updated>
-    <id>tag:github.com,2024-02-20:/Astroshaper/AsteroidThermoPhysicalModels.jl</id>
-    <link href="https://github.com/Astroshaper/AsteroidThermoPhysicalModels.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia-based dynamical simulator for asteroids and planets.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/RootedTrees.jl</title>
+    <updated>2024-02-21T01:33:27Z</updated>
+    <id>tag:github.com,2024-02-21:/SciML/RootedTrees.jl</id>
+    <link href="https://github.com/SciML/RootedTrees.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of functionality around rooted trees to generate order conditions for Runge-Kutta methods in Julia for differential equations and scientific machine learning (SciML)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/ModelOrderReduction.jl</title>
+    <updated>2024-02-21T01:33:27Z</updated>
+    <id>tag:github.com,2024-02-21:/SciML/ModelOrderReduction.jl</id>
+    <link href="https://github.com/SciML/ModelOrderReduction.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High-level model-order reduction to automate the acceleration of large-scale simulations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

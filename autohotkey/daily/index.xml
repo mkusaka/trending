@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-20T01:22:40Z</updated>
+  <updated>2024-02-21T01:23:42Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>samfisherirl/Easy-Auto-GUI-for-AHK-v2</title>
-    <updated>2024-02-20T01:22:40Z</updated>
-    <id>tag:github.com,2024-02-20:/samfisherirl/Easy-Auto-GUI-for-AHK-v2</id>
-    <link href="https://github.com/samfisherirl/Easy-Auto-GUI-for-AHK-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alguimist&#39;s &#39;Easy AutoGUI&#39; GUI-Designer-Builder modified for Autohotkey v2.0, using mmikeww&#39;s AHKv2 converter&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

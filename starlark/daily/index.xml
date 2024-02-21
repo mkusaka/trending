@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-20T01:36:26Z</updated>
+  <updated>2024-02-21T01:41:55Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Pattern-Labs/index-registry</title>
-    <updated>2024-02-20T01:36:26Z</updated>
-    <id>tag:github.com,2024-02-20:/Pattern-Labs/index-registry</id>
-    <link href="https://github.com/Pattern-Labs/index-registry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Centralized index of Bazel dependencies.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bazel-contrib/toolchains_llvm</title>
+    <updated>2024-02-21T01:41:55Z</updated>
+    <id>tag:github.com,2024-02-21:/bazel-contrib/toolchains_llvm</id>
+    <link href="https://github.com/bazel-contrib/toolchains_llvm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LLVM toolchain for bazel&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
