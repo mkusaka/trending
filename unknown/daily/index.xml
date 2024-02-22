@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-21T01:22:39Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2024-02-22T01:22:24Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>didicodes/javascript-dev-bookmarks</title>
-    <updated>2024-02-21T01:22:39Z</updated>
-    <id>tag:github.com,2024-02-21:/didicodes/javascript-dev-bookmarks</id>
-    <link href="https://github.com/didicodes/javascript-dev-bookmarks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of articles that will help you get better at JavaScript.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mastodon-DE/blocklists</title>
+    <updated>2024-02-22T01:22:24Z</updated>
+    <id>tag:github.com,2024-02-22:/Mastodon-DE/blocklists</id>
+    <link href="https://github.com/Mastodon-DE/blocklists" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Work in progress - created hastily for the February 15th Fedi Spam Attacks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

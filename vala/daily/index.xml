@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-21T01:43:10Z</updated>
+  <updated>2024-02-22T01:39:45Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>elementary/wingpanel-indicator-sound</title>
-    <updated>2024-02-21T01:43:10Z</updated>
-    <id>tag:github.com,2024-02-21:/elementary/wingpanel-indicator-sound</id>
-    <link href="https://github.com/elementary/wingpanel-indicator-sound" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wingpanel Sound Indicator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

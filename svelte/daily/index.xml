@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-21T01:42:05Z</updated>
+  <updated>2024-02-22T01:38:42Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mainmatter/svelte-promise-modals</title>
-    <updated>2024-02-21T01:42:05Z</updated>
-    <id>tag:github.com,2024-02-21:/mainmatter/svelte-promise-modals</id>
-    <link href="https://github.com/mainmatter/svelte-promise-modals" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modals in Svelte made easy. Promised.🤞&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>svecosystem/formsnap</title>
+    <updated>2024-02-22T01:38:42Z</updated>
+    <id>tag:github.com,2024-02-22:/svecosystem/formsnap</id>
+    <link href="https://github.com/svecosystem/formsnap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functional, accessible, and powerful form components for Svelte. 🫰&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>svecosystem/mode-watcher</title>
-    <updated>2024-02-21T01:42:05Z</updated>
-    <id>tag:github.com,2024-02-21:/svecosystem/mode-watcher</id>
-    <link href="https://github.com/svecosystem/mode-watcher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple light/dark mode management for SvelteKit apps. 🌑 ←→ ☀️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>drips-network/app</title>
+    <updated>2024-02-22T01:38:42Z</updated>
+    <id>tag:github.com,2024-02-22:/drips-network/app</id>
+    <link href="https://github.com/drips-network/app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💧 Funding that flows — Drips Frontend&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-21T01:43:22Z</updated>
+  <updated>2024-02-22T01:39:59Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ruanyl/vim-gh-line</title>
-    <updated>2024-02-21T01:43:22Z</updated>
-    <id>tag:github.com,2024-02-21:/ruanyl/vim-gh-line</id>
-    <link href="https://github.com/ruanyl/vim-gh-line" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim plugin that open the link of current line on github&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tinybyte/vim73_win</title>
+    <updated>2024-02-22T01:39:59Z</updated>
+    <id>tag:github.com,2024-02-22:/tinybyte/vim73_win</id>
+    <link href="https://github.com/tinybyte/vim73_win" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim73 settings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zlbruce/dotconfig</title>
+    <updated>2024-02-22T01:39:59Z</updated>
+    <id>tag:github.com,2024-02-22:/zlbruce/dotconfig</id>
+    <link href="https://github.com/zlbruce/dotconfig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;我的一些配置文件&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alblue/vim-manifest</title>
+    <updated>2024-02-22T01:39:59Z</updated>
+    <id>tag:github.com,2024-02-22:/alblue/vim-manifest</id>
+    <link href="https://github.com/alblue/vim-manifest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Syntax highlighting support for VIM&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

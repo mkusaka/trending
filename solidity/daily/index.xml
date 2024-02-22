@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-21T01:41:37Z</updated>
+  <updated>2024-02-22T01:38:18Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>harambeai/Harambe-AI-Token</title>
-    <updated>2024-02-21T01:41:37Z</updated>
-    <id>tag:github.com,2024-02-21:/harambeai/Harambe-AI-Token</id>
-    <link href="https://github.com/harambeai/Harambe-AI-Token" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solidity contract belonging to the Harambe AI Token&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AstrolabDAO/strats</title>
-    <updated>2024-02-21T01:41:37Z</updated>
-    <id>tag:github.com,2024-02-21:/AstrolabDAO/strats</id>
-    <link href="https://github.com/AstrolabDAO/strats" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Home of Astrolab strategies&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FinTechIntro/2024-Spring-HW0</title>
+    <updated>2024-02-22T01:38:18Z</updated>
+    <id>tag:github.com,2024-02-22:/FinTechIntro/2024-Spring-HW0</id>
+    <link href="https://github.com/FinTechIntro/2024-Spring-HW0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

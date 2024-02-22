@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-21T01:35:01Z</updated>
+  <updated>2024-02-22T01:32:54Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Volgarenok/spbspu-labs-2024-aads-a</title>
-    <updated>2024-02-21T01:35:01Z</updated>
-    <id>tag:github.com,2024-02-21:/Volgarenok/spbspu-labs-2024-aads-a</id>
-    <link href="https://github.com/Volgarenok/spbspu-labs-2024-aads-a" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>giantswarm/cluster-autoscaler-app</title>
-    <updated>2024-02-21T01:35:01Z</updated>
-    <id>tag:github.com,2024-02-21:/giantswarm/cluster-autoscaler-app</id>
-    <link href="https://github.com/giantswarm/cluster-autoscaler-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm chart for cluster-autoscaler in Kubernetes tenant clusters&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nginxinc/nginx-ingress-helm-operator</title>
-    <updated>2024-02-21T01:35:01Z</updated>
-    <id>tag:github.com,2024-02-21:/nginxinc/nginx-ingress-helm-operator</id>
-    <link href="https://github.com/nginxinc/nginx-ingress-helm-operator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NGINX Ingress Operator for NGINX and NGINX Plus Ingress Controllers. Based on the Helm chart for NGINX Ingress Controller - https://github.com/nginxinc/helm-charts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

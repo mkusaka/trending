@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-21T01:40:45Z</updated>
+  <updated>2024-02-22T01:37:32Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>QualityUnit/liveagent-theme</title>
-    <updated>2024-02-21T01:40:45Z</updated>
-    <id>tag:github.com,2024-02-21:/QualityUnit/liveagent-theme</id>
-    <link href="https://github.com/QualityUnit/liveagent-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LiveAgent&#39;s WordPress Theme&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ietf-tools/meetecho-recording-player</title>
+    <updated>2024-02-22T01:37:32Z</updated>
+    <id>tag:github.com,2024-02-22:/ietf-tools/meetecho-recording-player</id>
+    <link href="https://github.com/ietf-tools/meetecho-recording-player" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Player for Meetecho recordings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>and-lz/ada-modulo-react</title>
+    <updated>2024-02-22T01:37:32Z</updated>
+    <id>tag:github.com,2024-02-22:/and-lz/ada-modulo-react</id>
+    <link href="https://github.com/and-lz/ada-modulo-react" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
