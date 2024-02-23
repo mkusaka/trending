@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-22T01:32:54Z</updated>
+  <updated>2024-02-23T01:33:01Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kagisearch/bangs</title>
+    <updated>2024-02-23T01:33:01Z</updated>
+    <id>tag:github.com,2024-02-23:/kagisearch/bangs</id>
+    <link href="https://github.com/kagisearch/bangs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository of bangs used by Kagi Search&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>remerge/ansible-role-zfs</title>
+    <updated>2024-02-23T01:33:01Z</updated>
+    <id>tag:github.com,2024-02-23:/remerge/ansible-role-zfs</id>
+    <link href="https://github.com/remerge/ansible-role-zfs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Install ZFS repository and packages with Ansible.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ELEC-331/skel-pa1</title>
+    <updated>2024-02-23T01:33:01Z</updated>
+    <id>tag:github.com,2024-02-23:/ELEC-331/skel-pa1</id>
+    <link href="https://github.com/ELEC-331/skel-pa1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

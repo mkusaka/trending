@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-22T01:36:45Z</updated>
+  <updated>2024-02-23T01:37:41Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>msg-systems/msg-local-ai-chat</title>
+    <updated>2024-02-23T01:37:41Z</updated>
+    <id>tag:github.com,2024-02-23:/msg-systems/msg-local-ai-chat</id>
+    <link href="https://github.com/msg-systems/msg-local-ai-chat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;msg Local AI: Chat&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

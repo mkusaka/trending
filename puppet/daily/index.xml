@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-22T01:35:45Z</updated>
+  <updated>2024-02-23T01:36:28Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>devopsconsulting/puppet-acpid</title>
-    <updated>2024-02-22T01:35:45Z</updated>
-    <id>tag:github.com,2024-02-22:/devopsconsulting/puppet-acpid</id>
-    <link href="https://github.com/devopsconsulting/puppet-acpid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clean shutdown and reboot of machines.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>spiette/puppet-puppet</title>
+    <updated>2024-02-23T01:36:28Z</updated>
+    <id>tag:github.com,2024-02-23:/spiette/puppet-puppet</id>
+    <link href="https://github.com/spiette/puppet-puppet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module to manage puppet agents and bootstrap a puppet master. Can work with puppetlabs-puppetdb module.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

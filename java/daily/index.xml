@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-22T01:30:53Z</updated>
+  <updated>2024-02-23T01:30:50Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>longerye/im-chat</title>
-    <updated>2024-02-22T01:30:53Z</updated>
-    <id>tag:github.com,2024-02-22:/longerye/im-chat</id>
-    <link href="https://github.com/longerye/im-chat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fake wechat chat&lt;/p&gt;&lt;hr&gt;&lt;p&gt;brief introduction: I have always had a social dream, I want to do an IM application, I have seen a lot of excellent open source projects, but there is no suitable for myself. So I used my break time to write such a system. IM-chat is a web version of chat software implemented in imitation of wechat, which is currently completely open source. Support private chat, group chat, offline message, send voice, pictures, files, emojis and other functions Video chat support (based on webrtc implementation, ssl certificate required) The backend uses springboot+netty, and the web uses vue Servers support cluster deployment, and each im-server processes only the messages of its own connected users Technology stack: Back-end frameworks: Springboot, Netty, Mybatis-plus, Swagger, Jwt Technical components: Mysql, Redis, Minio Front-end technology: Vue, Eelement-ui, Webrtc&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-22T01:36:17Z</updated>
+  <updated>2024-02-23T01:37:05Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bobflagg/Topic-Networks</title>
+    <updated>2024-02-23T01:37:05Z</updated>
+    <id>tag:github.com,2024-02-23:/bobflagg/Topic-Networks</id>
+    <link href="https://github.com/bobflagg/Topic-Networks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A demo of new approach to automatic text summarization using topic models and bipartite graphs.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Topic-Networks&lt;/h1&gt; &#xA;&lt;p&gt;A demo of new approach to automatic text summarization using topic models and bipartite graphs.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>EcoForecast/KAIYA</title>
+    <updated>2024-02-23T01:37:05Z</updated>
+    <id>tag:github.com,2024-02-23:/EcoForecast/KAIYA</id>
+    <link href="https://github.com/EcoForecast/KAIYA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;KAIYA&lt;/h1&gt; &#xA;&lt;p&gt;Katherine Rein E: &lt;a href=&#34;mailto:krein21@bu.edu&#34;&gt;krein21@bu.edu&lt;/a&gt; P: 314-467-0148 G: katherineanne21&lt;/p&gt; &#xA;&lt;p&gt;name:Yuhe Chang &lt;br&gt; email:&lt;a href=&#34;mailto:yhchang@bu.edu&#34;&gt;yhchang@bu.edu&lt;/a&gt; &lt;br&gt; github user name: yuhechang&lt;/p&gt; &#xA;&lt;p&gt;Ibbu Quraishi E: &lt;a href=&#34;mailto:quraiibr@bu.edu&#34;&gt;quraiibr@bu.edu&lt;/a&gt; P:763-923-5966&lt;/p&gt; &#xA;&lt;p&gt;Amber Crenna-Armstrong &lt;a href=&#34;mailto:acrennaa@bu.edu&#34;&gt;acrennaa@bu.edu&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Alex Coast &lt;a href=&#34;mailto:amocast@bu.edu&#34;&gt;amocast@bu.edu&lt;/a&gt; (858)776-1582 amcoast&lt;/p&gt;</summary>
+  </entry>
 </feed>

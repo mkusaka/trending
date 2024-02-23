@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elm Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-22T01:27:56Z</updated>
+  <updated>2024-02-23T01:27:18Z</updated>
   <subtitle>Daily Trending of Elm in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cachix/elm-hashcash</title>
-    <updated>2024-02-22T01:27:56Z</updated>
-    <id>tag:github.com,2024-02-22:/cachix/elm-hashcash</id>
-    <link href="https://github.com/cachix/elm-hashcash" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implements HashCash to prevent spammers abusing a resource.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

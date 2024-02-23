@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-22T01:34:43Z</updated>
+  <updated>2024-02-23T01:35:15Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>castle-engine/castle-engine</title>
-    <updated>2024-02-22T01:34:43Z</updated>
-    <id>tag:github.com,2024-02-22:/castle-engine/castle-engine</id>
-    <link href="https://github.com/castle-engine/castle-engine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform (desktop, mobile, console) 3D and 2D game engine supporting many asset formats (glTF, X3D, Spine...) and using modern Object Pascal&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

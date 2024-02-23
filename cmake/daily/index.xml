@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-22T01:25:56Z</updated>
+  <updated>2024-02-23T01:25:27Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ctu-mrs/mrs_liosam_estimator_plugin</title>
-    <updated>2024-02-22T01:25:56Z</updated>
-    <id>tag:github.com,2024-02-22:/ctu-mrs/mrs_liosam_estimator_plugin</id>
-    <link href="https://github.com/ctu-mrs/mrs_liosam_estimator_plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;State estimation plugin based on corrections from the LIO-SAM LiDAR SLAM algorithm. Can be loaded by EstimationManager to be used for state estimation in the control feedback loop.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

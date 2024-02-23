@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-22T01:38:18Z</updated>
+  <updated>2024-02-23T01:39:35Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FinTechIntro/2024-Spring-HW0</title>
-    <updated>2024-02-22T01:38:18Z</updated>
-    <id>tag:github.com,2024-02-22:/FinTechIntro/2024-Spring-HW0</id>
-    <link href="https://github.com/FinTechIntro/2024-Spring-HW0" rel="alternate"></link>
+    <title>wormhole-foundation/example-native-token-transfers</title>
+    <updated>2024-02-23T01:39:35Z</updated>
+    <id>tag:github.com,2024-02-23:/wormhole-foundation/example-native-token-transfers</id>
+    <link href="https://github.com/wormhole-foundation/example-native-token-transfers" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Instadapp/dsa-connectors</title>
+    <updated>2024-02-23T01:39:35Z</updated>
+    <id>tag:github.com,2024-02-23:/Instadapp/dsa-connectors</id>
+    <link href="https://github.com/Instadapp/dsa-connectors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DSA Connectors&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>decentxyz/decent-bridge</title>
+    <updated>2024-02-23T01:39:35Z</updated>
+    <id>tag:github.com,2024-02-23:/decentxyz/decent-bridge</id>
+    <link href="https://github.com/decentxyz/decent-bridge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Bridgoooooooor&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-22T01:37:32Z</updated>
+  <updated>2024-02-23T01:38:43Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ietf-tools/meetecho-recording-player</title>
-    <updated>2024-02-22T01:37:32Z</updated>
-    <id>tag:github.com,2024-02-22:/ietf-tools/meetecho-recording-player</id>
-    <link href="https://github.com/ietf-tools/meetecho-recording-player" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Player for Meetecho recordings&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>and-lz/ada-modulo-react</title>
-    <updated>2024-02-22T01:37:32Z</updated>
-    <id>tag:github.com,2024-02-22:/and-lz/ada-modulo-react</id>
-    <link href="https://github.com/and-lz/ada-modulo-react" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>discourse/discourse-topic-cards</title>
+    <updated>2024-02-23T01:38:43Z</updated>
+    <id>tag:github.com,2024-02-23:/discourse/discourse-topic-cards</id>
+    <link href="https://github.com/discourse/discourse-topic-cards" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This changed the topic list into cards with a modified layout, and a thumbnail if available.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

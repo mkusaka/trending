@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-22T01:38:42Z</updated>
+  <updated>2024-02-23T01:40:04Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>svecosystem/formsnap</title>
-    <updated>2024-02-22T01:38:42Z</updated>
-    <id>tag:github.com,2024-02-22:/svecosystem/formsnap</id>
-    <link href="https://github.com/svecosystem/formsnap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Functional, accessible, and powerful form components for Svelte. 🫰&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>drips-network/app</title>
-    <updated>2024-02-22T01:38:42Z</updated>
-    <id>tag:github.com,2024-02-22:/drips-network/app</id>
-    <link href="https://github.com/drips-network/app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💧 Funding that flows — Drips Frontend&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

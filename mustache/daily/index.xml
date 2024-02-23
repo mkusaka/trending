@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-22T01:33:37Z</updated>
+  <updated>2024-02-23T01:33:53Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>amzn/selling-partner-api-models</title>
-    <updated>2024-02-22T01:33:37Z</updated>
-    <id>tag:github.com,2024-02-22:/amzn/selling-partner-api-models</id>
-    <link href="https://github.com/amzn/selling-partner-api-models" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
