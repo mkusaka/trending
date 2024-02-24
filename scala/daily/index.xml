@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-23T01:38:28Z</updated>
+  <updated>2024-02-24T01:33:08Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>marcus-downing/rapture-html</title>
-    <updated>2024-02-23T01:38:28Z</updated>
-    <id>tag:github.com,2024-02-23:/marcus-downing/rapture-html</id>
-    <link href="https://github.com/marcus-downing/rapture-html" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rapture HTML library&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;rapture-html&lt;/h1&gt; &#xA;&lt;p&gt;Rapture HTML library&lt;/p&gt;</summary>
+    <title>ytaras/scala_monad_slides</title>
+    <updated>2024-02-24T01:33:08Z</updated>
+    <id>tag:github.com,2024-02-24:/ytaras/scala_monad_slides</id>
+    <link href="https://github.com/ytaras/scala_monad_slides" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;scala_monad_slides&lt;/h1&gt; &#xA;&lt;p&gt;To run samples, &lt;a href=&#34;http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html%5D&#34;&gt;install sbt&lt;/a&gt; first Then cd to project&#39;s directory and run &lt;code&gt;sbt run&lt;/code&gt; command. It will download everything needed, compile and run sample program. Now you can start digging a code trying to understand what was shown in slides.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>elision/elision</title>
-    <updated>2024-02-23T01:38:28Z</updated>
-    <id>tag:github.com,2024-02-23:/elision/elision</id>
-    <link href="https://github.com/elision/elision" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Elision Term Rewriter&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#The Elision Term Rewriter&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/elision/elision&#34;&gt;&lt;img src=&#34;https://travis-ci.org/elision/elision.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://elision.github.com&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>sajja/example-zio-webapp</title>
+    <updated>2024-02-24T01:33:08Z</updated>
+    <id>tag:github.com,2024-02-24:/sajja/example-zio-webapp</id>
+    <link href="https://github.com/sajja/example-zio-webapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ZIO Examples&lt;/h1&gt; &#xA;&lt;h2&gt;Tested on&lt;/h2&gt; &#xA;&lt;h3&gt;java&lt;/h3&gt; &#xA;&lt;p&gt;openjdk 11 2018-09-25 OpenJDK Runtime Environment 18.9 (build 11+28) OpenJDK 64-Bit Server VM 18.9 (build 11+28, mixed mode)&lt;/p&gt; &#xA;&lt;h3&gt;sbt&lt;/h3&gt; &#xA;&lt;p&gt;sbt.version=1.6.2&lt;/p&gt;</summary>
   </entry>
 </feed>

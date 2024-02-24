@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-23T01:25:24Z</updated>
+  <updated>2024-02-24T01:22:50Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rrees/ldnclj-lunar-landing-sim</title>
-    <updated>2024-02-23T01:25:24Z</updated>
-    <id>tag:github.com,2024-02-23:/rrees/ldnclj-lunar-landing-sim</id>
-    <link href="https://github.com/rrees/ldnclj-lunar-landing-sim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure dojo lunar landing sim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jerrypnz/fswatch</title>
-    <updated>2024-02-23T01:25:24Z</updated>
-    <id>tag:github.com,2024-02-23:/jerrypnz/fswatch</id>
-    <link href="https://github.com/jerrypnz/fswatch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;File system watcher powered by Java 7 FileSystem API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

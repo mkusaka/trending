@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-23T01:27:19Z</updated>
+  <updated>2024-02-24T01:24:20Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>YadlaMani/CM</title>
-    <updated>2024-02-23T01:27:19Z</updated>
-    <id>tag:github.com,2024-02-23:/YadlaMani/CM</id>
-    <link href="https://github.com/YadlaMani/CM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community based web&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>oat-sa/pci-sdk</title>
-    <updated>2024-02-23T01:27:19Z</updated>
-    <id>tag:github.com,2024-02-23:/oat-sa/pci-sdk</id>
-    <link href="https://github.com/oat-sa/pci-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PCI Software Development Kit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-23T01:25:32Z</updated>
+  <updated>2024-02-24T01:22:54Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>brikteknologier/pug-client-transport</title>
-    <updated>2024-02-23T01:25:32Z</updated>
-    <id>tag:github.com,2024-02-23:/brikteknologier/pug-client-transport</id>
-    <link href="https://github.com/brikteknologier/pug-client-transport" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;express middleware for supplying jade templates to the client&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cesare/node-rack-session</title>
-    <updated>2024-02-23T01:25:32Z</updated>
-    <id>tag:github.com,2024-02-23:/cesare/node-rack-session</id>
-    <link href="https://github.com/cesare/node-rack-session" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>balena-os/balena-kontron-mx8mm</title>
-    <updated>2024-02-23T01:25:32Z</updated>
-    <id>tag:github.com,2024-02-23:/balena-os/balena-kontron-mx8mm</id>
-    <link href="https://github.com/balena-os/balena-kontron-mx8mm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sandy98/brunch-with-puppets</title>
+    <updated>2024-02-24T01:22:54Z</updated>
+    <id>tag:github.com,2024-02-24:/sandy98/brunch-with-puppets</id>
+    <link href="https://github.com/sandy98/brunch-with-puppets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Brunch skeleton using Marionette, Bootstrap and a bit of salt&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

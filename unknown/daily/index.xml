@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-23T01:22:17Z</updated>
+  <updated>2024-02-24T01:20:29Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>systemdesign42/system-design</title>
-    <updated>2024-02-23T01:22:17Z</updated>
-    <id>tag:github.com,2024-02-23:/systemdesign42/system-design</id>
-    <link href="https://github.com/systemdesign42/system-design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Building the best system design resource in the internet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>starknet-io/provisions-data</title>
+    <updated>2024-02-24T01:20:29Z</updated>
+    <id>tag:github.com,2024-02-24:/starknet-io/provisions-data</id>
+    <link href="https://github.com/starknet-io/provisions-data" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lists of eligible identities for Starknet provisions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>weijunext/indie-hacker-tools</title>
-    <updated>2024-02-23T01:22:17Z</updated>
-    <id>tag:github.com,2024-02-23:/weijunext/indie-hacker-tools</id>
-    <link href="https://github.com/weijunext/indie-hacker-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;收录独立开发者出海技术栈和工具&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OpenMOSS/AnyGPT</title>
+    <updated>2024-02-24T01:20:29Z</updated>
+    <id>tag:github.com,2024-02-24:/OpenMOSS/AnyGPT</id>
+    <link href="https://github.com/OpenMOSS/AnyGPT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for &#34;AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mttaggart/I-S00N</title>
-    <updated>2024-02-23T01:22:17Z</updated>
-    <id>tag:github.com,2024-02-23:/mttaggart/I-S00N</id>
-    <link href="https://github.com/mttaggart/I-S00N" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Anxun Shanghai (I-SOON) Data Dump Translations (PII Redacted)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ChenHsing/Awesome-Video-Diffusion-Models</title>
+    <updated>2024-02-24T01:20:29Z</updated>
+    <id>tag:github.com,2024-02-24:/ChenHsing/Awesome-Video-Diffusion-Models</id>
+    <link href="https://github.com/ChenHsing/Awesome-Video-Diffusion-Models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[Arxiv] A Survey on Video Diffusion Models&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

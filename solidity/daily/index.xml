@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-23T01:39:35Z</updated>
+  <updated>2024-02-24T01:33:54Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wormhole-foundation/example-native-token-transfers</title>
-    <updated>2024-02-23T01:39:35Z</updated>
-    <id>tag:github.com,2024-02-23:/wormhole-foundation/example-native-token-transfers</id>
-    <link href="https://github.com/wormhole-foundation/example-native-token-transfers" rel="alternate"></link>
+    <title>jtriley-eth/ether-deck-mk2</title>
+    <updated>2024-02-24T01:33:54Z</updated>
+    <id>tag:github.com,2024-02-24:/jtriley-eth/ether-deck-mk2</id>
+    <link href="https://github.com/jtriley-eth/ether-deck-mk2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Instadapp/dsa-connectors</title>
-    <updated>2024-02-23T01:39:35Z</updated>
-    <id>tag:github.com,2024-02-23:/Instadapp/dsa-connectors</id>
-    <link href="https://github.com/Instadapp/dsa-connectors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DSA Connectors&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2024-02-wise-lending</title>
+    <updated>2024-02-24T01:33:54Z</updated>
+    <id>tag:github.com,2024-02-24:/code-423n4/2024-02-wise-lending</id>
+    <link href="https://github.com/code-423n4/2024-02-wise-lending" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>decentxyz/decent-bridge</title>
-    <updated>2024-02-23T01:39:35Z</updated>
-    <id>tag:github.com,2024-02-23:/decentxyz/decent-bridge</id>
-    <link href="https://github.com/decentxyz/decent-bridge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Bridgoooooooor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>flashbots/suave-std</title>
+    <updated>2024-02-24T01:33:54Z</updated>
+    <id>tag:github.com,2024-02-24:/flashbots/suave-std</id>
+    <link href="https://github.com/flashbots/suave-std" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of helpful smart contracts to build Suapps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

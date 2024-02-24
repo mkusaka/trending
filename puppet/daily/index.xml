@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-23T01:36:28Z</updated>
+  <updated>2024-02-24T01:31:38Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>spiette/puppet-puppet</title>
-    <updated>2024-02-23T01:36:28Z</updated>
-    <id>tag:github.com,2024-02-23:/spiette/puppet-puppet</id>
-    <link href="https://github.com/spiette/puppet-puppet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module to manage puppet agents and bootstrap a puppet master. Can work with puppetlabs-puppetdb module.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gwagner/puppet-repo_dag</title>
+    <updated>2024-02-24T01:31:38Z</updated>
+    <id>tag:github.com,2024-02-24:/gwagner/puppet-repo_dag</id>
+    <link href="https://github.com/gwagner/puppet-repo_dag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hfeeki/vagrant-warden</title>
+    <updated>2024-02-24T01:31:38Z</updated>
+    <id>tag:github.com,2024-02-24:/hfeeki/vagrant-warden</id>
+    <link href="https://github.com/hfeeki/vagrant-warden" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cloud Foundry&#39;s warden in Vagrant&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

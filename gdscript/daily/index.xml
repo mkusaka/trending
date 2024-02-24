@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-23T01:28:15Z</updated>
+  <updated>2024-02-24T01:25:08Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>H2xDev/GodotVMF</title>
-    <updated>2024-02-23T01:28:15Z</updated>
-    <id>tag:github.com,2024-02-23:/H2xDev/GodotVMF</id>
-    <link href="https://github.com/H2xDev/GodotVMF" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>catprisbrey/Cats-Godot4-Modular-Souls-like-Template</title>
+    <updated>2024-02-24T01:25:08Z</updated>
+    <id>tag:github.com,2024-02-24:/catprisbrey/Cats-Godot4-Modular-Souls-like-Template</id>
+    <link href="https://github.com/catprisbrey/Cats-Godot4-Modular-Souls-like-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cat&#39;s loosely coupled souls-like game template/asset pack for the Godot Engine.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Calinou/godot-reflection</title>
+    <updated>2024-02-24T01:25:08Z</updated>
+    <id>tag:github.com,2024-02-24:/Calinou/godot-reflection</id>
+    <link href="https://github.com/Calinou/godot-reflection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Port of Tesseract&#39;s Reflection map to Godot 4.0&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
