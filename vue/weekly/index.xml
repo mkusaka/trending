@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-25T01:56:42Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alireza0/s-ui</title>
+    <updated>2024-02-25T01:56:42Z</updated>
+    <id>tag:github.com,2024-02-25:/alireza0/s-ui</id>
+    <link href="https://github.com/alireza0/s-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An advanced Web Panel • Built for SagerNet/Sing-Box&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>matter-labs/zksync-wallet-vue</title>
+    <updated>2024-02-25T01:56:42Z</updated>
+    <id>tag:github.com,2024-02-25:/matter-labs/zksync-wallet-vue</id>
+    <link href="https://github.com/matter-labs/zksync-wallet-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;zkSync web wallet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chatpire/chatgpt-web-share</title>
+    <updated>2024-02-25T01:56:42Z</updated>
+    <id>tag:github.com,2024-02-25:/chatpire/chatgpt-web-share</id>
+    <link href="https://github.com/chatpire/chatgpt-web-share" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

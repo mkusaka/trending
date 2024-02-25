@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Racket Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-25T01:53:18Z</updated>
+  <subtitle>Weekly Trending of Racket in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hsalokor/racket-tcp-skeleton</title>
+    <updated>2024-02-25T01:53:18Z</updated>
+    <id>tag:github.com,2024-02-25:/hsalokor/racket-tcp-skeleton</id>
+    <link href="https://github.com/hsalokor/racket-tcp-skeleton" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;racket-tcp-skeleton&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Koensw/Scheme-CPP</title>
+    <updated>2024-02-25T01:53:18Z</updated>
+    <id>tag:github.com,2024-02-25:/Koensw/Scheme-CPP</id>
+    <link href="https://github.com/Koensw/Scheme-CPP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple Lisp C++ interpreter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>saltzmanjoelh/ArduinoSerialMonitor</title>
+    <updated>2024-02-25T01:53:18Z</updated>
+    <id>tag:github.com,2024-02-25:/saltzmanjoelh/ArduinoSerialMonitor</id>
+    <link href="https://github.com/saltzmanjoelh/ArduinoSerialMonitor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Allows 2 way communication with Arduino (or other boards) via Xcode&#39;s debug console.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

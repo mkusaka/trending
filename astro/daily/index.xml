@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-24T01:21:16Z</updated>
+  <updated>2024-02-25T01:25:33Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>midudev/la-velada-web-oficial</title>
-    <updated>2024-02-24T01:21:16Z</updated>
-    <id>tag:github.com,2024-02-24:/midudev/la-velada-web-oficial</id>
-    <link href="https://github.com/midudev/la-velada-web-oficial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web oficial de La Velada IV de Ibai Llanos&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

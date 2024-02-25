@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-24T01:27:47Z</updated>
+  <updated>2024-02-25T01:31:32Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JuliaDynamics/DynamicalSystemsBase.jl</title>
+    <updated>2024-02-25T01:31:32Z</updated>
+    <id>tag:github.com,2024-02-25:/JuliaDynamics/DynamicalSystemsBase.jl</id>
+    <link href="https://github.com/JuliaDynamics/DynamicalSystemsBase.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Definition of dynamical systems and integrators for DynamicalSystems.jl&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

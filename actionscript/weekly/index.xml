@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ActionScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-25T01:41:33Z</updated>
+  <subtitle>Weekly Trending of ActionScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ynglay/platform-ynglay</title>
+    <updated>2024-02-25T01:41:33Z</updated>
+    <id>tag:github.com,2024-02-25:/ynglay/platform-ynglay</id>
+    <link href="https://github.com/ynglay/platform-ynglay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iv-one/should</title>
+    <updated>2024-02-25T01:41:33Z</updated>
+    <id>tag:github.com,2024-02-25:/iv-one/should</id>
+    <link href="https://github.com/iv-one/should" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BDD style assertions for ActionScript 3 and Flex -- test framework agnostic&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

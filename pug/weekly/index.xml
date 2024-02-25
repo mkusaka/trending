@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pug Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-25T01:52:45Z</updated>
+  <subtitle>Weekly Trending of Pug in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>curso-github-cefire/deploy_github_actions_sample</title>
+    <updated>2024-02-25T01:52:45Z</updated>
+    <id>tag:github.com,2024-02-25:/curso-github-cefire/deploy_github_actions_sample</id>
+    <link href="https://github.com/curso-github-cefire/deploy_github_actions_sample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ejemplo de despliegue de aplicaciones (Despliegue Continuo) con GitHub Actions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

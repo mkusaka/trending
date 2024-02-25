@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-24T01:32:37Z</updated>
+  <updated>2024-02-25T01:36:49Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Sulstice/Cheminformatics-Teaching-Material</title>
+    <updated>2024-02-25T01:36:49Z</updated>
+    <id>tag:github.com,2024-02-25:/Sulstice/Cheminformatics-Teaching-Material</id>
+    <link href="https://github.com/Sulstice/Cheminformatics-Teaching-Material" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources, Code, and Other things I use to teach Cheminformatics.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

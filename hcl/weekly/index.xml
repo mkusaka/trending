@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-25T01:47:00Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>raushan8586/devops-2023-september</title>
+    <updated>2024-02-25T01:47:00Z</updated>
+    <id>tag:github.com,2024-02-25:/raushan8586/devops-2023-september</id>
+    <link href="https://github.com/raushan8586/devops-2023-september" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PaloAltoNetworks/prisma-cloud-devsecops-workshop</title>
+    <updated>2024-02-25T01:47:00Z</updated>
+    <id>tag:github.com,2024-02-25:/PaloAltoNetworks/prisma-cloud-devsecops-workshop</id>
+    <link href="https://github.com/PaloAltoNetworks/prisma-cloud-devsecops-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DevSecOps with Prisma Cloud&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-aws-modules/terraform-aws-sns</title>
+    <updated>2024-02-25T01:47:00Z</updated>
+    <id>tag:github.com,2024-02-25:/terraform-aws-modules/terraform-aws-sns</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-sns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to create AWS SNS resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

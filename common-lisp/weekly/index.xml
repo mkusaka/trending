@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-02-25T01:43:52Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fisxoj/cl-tga</title>
+    <updated>2024-02-25T01:43:52Z</updated>
+    <id>tag:github.com,2024-02-25:/fisxoj/cl-tga</id>
+    <link href="https://github.com/fisxoj/cl-tga" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TGA file loader in common lisp&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CL-TGA&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://quickdocs.org/cl-tga/&#34;&gt;&lt;img src=&#34;http://quickdocs.org/badge/cl-tga.svg?sanitize=true&#34; alt=&#34;Quicklisp&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Cl-tga was written to facilitate loading .tga files into OpenGL programs. It&#39;s a very simple library, and, at the moment, only supports non-RLE encoded forms of the files, though it shouldn&#39;t be hard to fix that.&lt;/p&gt; &#xA;&lt;p&gt;Cl-tga does &lt;em&gt;not&lt;/em&gt; re-order the color bytes from the file body. tga files are econded in bgr byte-order, and so loading code using cl-opengl should specify the :bgr or :bgra data format in order to not have wonky looking textures, eg.:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(gl:tex-image-2d :texture-2d 0 :rgba&#xA;&#x9;&#x9; (tga:image-width image) (tga:image-height image)&#xA;&#x9;&#x9; 0&#xA;&#x9;&#x9; (ecase (tga:image-channels image)&#xA;&#x9;&#x9;   (3 :bgr)&#xA;&#x9;  &#x9;   (4 :bgra))&#xA;&#x9;&#x9; :unsigned-byte (tga:image-data image))&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Dictionary&lt;/h2&gt; &#xA;&lt;h3&gt;read-tga &lt;em&gt;filespec&lt;/em&gt; =&amp;gt; tga&lt;/h3&gt; &#xA;&lt;p&gt;Takes a filespec and returns a cl-tga::tga instance that contains the file data&lt;/p&gt; &#xA;&lt;h3&gt;image-height, image-width, image-channels, image-bpp, image-data&lt;/h3&gt; &#xA;&lt;p&gt;All of these functions take only a cl-tga::tga instance and return properties of it:&lt;/p&gt; &#xA;&lt;p&gt;height: height of the image&lt;/p&gt; &#xA;&lt;p&gt;width: width of the image&lt;/p&gt; &#xA;&lt;p&gt;channels: 3 for rgb, 4 for rgba&lt;/p&gt; &#xA;&lt;p&gt;bpp: bytes per pixel, will be (member 16 24 32)&lt;/p&gt; &#xA;&lt;p&gt;data: The raw image data encoded as a (vector (unsigned-byte 8)) in bgr(a) color order&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>hanshuebner/cl-noritake-vfd</title>
+    <updated>2024-02-25T01:43:52Z</updated>
+    <id>tag:github.com,2024-02-25:/hanshuebner/cl-noritake-vfd</id>
+    <link href="https://github.com/hanshuebner/cl-noritake-vfd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Common Lisp library to talk to a Noritake VFD module&lt;/h1&gt; &#xA;&lt;p&gt;This library allows access to a Noritake VFD display connected through a serial port. Please see the file examples.lisp which contains almost all examples from the manual.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>HubPeter/work</title>
+    <updated>2024-02-25T01:43:52Z</updated>
+    <id>tag:github.com,2024-02-25:/HubPeter/work</id>
+    <link href="https://github.com/HubPeter/work" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;source file: compress.lisp: 加密的同时达到压缩的效果 en.lisp: 使用异或方式对8位bmp图像进行混沌加密&lt;/p&gt; &#xA;&lt;p&gt;image file: en.lisp： plain.bmp: 原始位图 ciper.bmp: 加密后的图像 de.bmp： 解密后的图像 compress.lisp: p_&lt;em&gt;.jpg: 原始图像 e.g. p_girl.jpg c_&lt;/em&gt;.jpg: 加密后的图像&lt;/p&gt; &#xA;&lt;p&gt;mail: &lt;a href=&#34;mailto:tecnodechina@gmail.com&#34;&gt;tecnodechina@gmail.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;安装 光盘中已有压缩包，相关问题可以访问下面的网址 lispbox: &lt;a href=&#34;http://common-lisp.net/project/lispbox/&#34;&gt;http://common-lisp.net/project/lispbox/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;运行程序 ;; 编译源文件 CL&amp;gt;(load &#34;compress.lisp&#34;) ;; 运行函数，可以用该方式运行任何函数 ;; 无参 (main) ;; 带参 (encrypt &#34;plain.bmp&#34; &#34;ciper.bmp&#34;)&lt;/p&gt;</summary>
+  </entry>
+</feed>

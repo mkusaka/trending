@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-24T01:31:24Z</updated>
+  <updated>2024-02-25T01:35:32Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Scrut1ny/Malwarebytes-Premium-Bypass</title>
+    <updated>2024-02-25T01:35:32Z</updated>
+    <id>tag:github.com,2024-02-25:/Scrut1ny/Malwarebytes-Premium-Bypass</id>
+    <link href="https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Confuse Malwarebytes&lt;/p&gt;&lt;hr&gt;&lt;h4&gt;The purpose of this script is to reset the 14-day trial period of Malwarebytes Premium. It achieves this by modifying a certain registry key associated with the software used for identifing its users.&lt;/h4&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[!NOTE] &lt;a href=&#34;https://www.malwarebytes.com/mwb-download/thankyou&#34;&gt;Malwarebytes Download ⬇️&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[!important]&lt;/p&gt; &#xA; &lt;h3&gt;BATCHFILE VERSION:&lt;/h3&gt; &#xA; &lt;p&gt;&lt;img src=&#34;https://github.com/Scrut1ny/Malwarebytes-Premium-Reset/assets/53458032/9a100c9c-de8e-41cf-9644-9492dbffbc00&#34; alt=&#34;image&#34;&gt; &lt;img src=&#34;https://github.com/Scrut1ny/Malwarebytes-Premium-Reset/assets/53458032/caf6cae9-fd76-4cda-85c8-ee25546a2dea&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[!IMPORTANT]&lt;/p&gt; &#xA; &lt;h3&gt;POWERSHELL VERSION:&lt;/h3&gt; &#xA; &lt;ul&gt; &#xA;  &lt;li&gt;If you get a &lt;code&gt;UnauthorizedAccess&lt;/code&gt; error when attempting to run the &lt;code&gt;.ps1&lt;/code&gt; file you must change your execution policy.&lt;/li&gt; &#xA;  &lt;li&gt;Run &lt;code&gt;Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force&lt;/code&gt; before running the &lt;code&gt;.ps1&lt;/code&gt; file.&lt;/li&gt; &#xA; &lt;/ul&gt; &#xA; &lt;p&gt;&lt;img src=&#34;https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass/assets/63854344/12f71499-8030-4e3d-8295-257203054eab&#34; alt=&#34;firstRunOfScript&#34;&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h3&gt;HOW TO:&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass/assets/53458032/64c25184-9562-40ed-b18c-81741881b841&#34;&gt;https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass/assets/53458032/64c25184-9562-40ed-b18c-81741881b841&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;EXE Virus Total&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.virustotal.com/gui/file/e4f2b9a67dec6cd8b9aab1c88a32b149f04d1df4e4127ac2273ff6005cb5236c/detection&#34;&gt;SAA-MalwareBytes-Premium.exe&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

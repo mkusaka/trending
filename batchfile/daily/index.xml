@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-24T01:21:29Z</updated>
+  <updated>2024-02-25T01:25:46Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Bhaggo/Bhaggos-Roblox-Optimizer</title>
-    <updated>2024-02-24T01:21:29Z</updated>
-    <id>tag:github.com,2024-02-24:/Bhaggo/Bhaggos-Roblox-Optimizer</id>
-    <link href="https://github.com/Bhaggo/Bhaggos-Roblox-Optimizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple batch program to create ClientSettings folder if missing, creates ClientAppSettings.json file with custom text inside of the json and has custom files from my discord.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GenP-V/CC-ToolBox</title>
-    <updated>2024-02-24T01:21:29Z</updated>
-    <id>tag:github.com,2024-02-24:/GenP-V/CC-ToolBox</id>
-    <link href="https://github.com/GenP-V/CC-ToolBox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
