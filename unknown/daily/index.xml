@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-25T01:24:53Z</updated>
+  <updated>2024-02-26T01:24:14Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ronibandini/reggaetonBeGone</title>
-    <updated>2024-02-25T01:24:53Z</updated>
-    <id>tag:github.com,2024-02-25:/ronibandini/reggaetonBeGone</id>
-    <link href="https://github.com/ronibandini/reggaetonBeGone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;detects reggaeton style with Machine Learning and sends packets to disable BT speakers (hopefully)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ByteSnipers/awesome-pentest-cheat-sheets</title>
-    <updated>2024-02-25T01:24:53Z</updated>
-    <id>tag:github.com,2024-02-25:/ByteSnipers/awesome-pentest-cheat-sheets</id>
-    <link href="https://github.com/ByteSnipers/awesome-pentest-cheat-sheets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of cheat sheets useful for pentesting&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ippscan/ippscanTEAM</title>
-    <updated>2024-02-25T01:24:53Z</updated>
-    <id>tag:github.com,2024-02-25:/ippscan/ippscanTEAM</id>
-    <link href="https://github.com/ippscan/ippscanTEAM" rel="alternate"></link>
+    <title>analoguejb/Analogue-Duo-JB</title>
+    <updated>2024-02-26T01:24:14Z</updated>
+    <id>tag:github.com,2024-02-26:/analoguejb/Analogue-Duo-JB</id>
+    <link href="https://github.com/analoguejb/Analogue-Duo-JB" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ThePBone/awesome-shizuku</title>
+    <updated>2024-02-26T01:24:14Z</updated>
+    <id>tag:github.com,2024-02-26:/ThePBone/awesome-shizuku</id>
+    <link href="https://github.com/ThePBone/awesome-shizuku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of awesome Android apps making use of Shizuku&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

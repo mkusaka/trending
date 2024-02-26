@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-25T01:38:30Z</updated>
+  <updated>2024-02-26T01:42:37Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KongkoinAirdrop/security-and-auditing-full-course</title>
-    <updated>2024-02-25T01:38:30Z</updated>
-    <id>tag:github.com,2024-02-25:/KongkoinAirdrop/security-and-auditing-full-course</id>
-    <link href="https://github.com/KongkoinAirdrop/security-and-auditing-full-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart Contract Auditing, Assembly, Security, and DeFi Ultimate Course&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>varya-volnova/Mevbot</title>
+    <updated>2024-02-26T01:42:37Z</updated>
+    <id>tag:github.com,2024-02-26:/varya-volnova/Mevbot</id>
+    <link href="https://github.com/varya-volnova/Mevbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ethereum MEV Sandwich Bot: Use AI to Make Passively | MEV Bot Guide&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NEWBSCCONTRACTOR/create-honeypot-token</title>
+    <updated>2024-02-26T01:42:37Z</updated>
+    <id>tag:github.com,2024-02-26:/NEWBSCCONTRACTOR/create-honeypot-token</id>
+    <link href="https://github.com/NEWBSCCONTRACTOR/create-honeypot-token" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tutorial on how to create your own honeypot erc20/ bep20 tokens and listing to Pancake Swap or UniSwap | Honeypot off on token | Detector Proof Honeypot Token |&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2024-02-spectra</title>
+    <updated>2024-02-26T01:42:37Z</updated>
+    <id>tag:github.com,2024-02-26:/code-423n4/2024-02-spectra</id>
+    <link href="https://github.com/code-423n4/2024-02-spectra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

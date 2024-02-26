@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-25T01:40:20Z</updated>
+  <updated>2024-02-26T01:44:41Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pages-cms/pages-cms</title>
-    <updated>2024-02-25T01:40:20Z</updated>
-    <id>tag:github.com,2024-02-25:/pages-cms/pages-cms</id>
-    <link href="https://github.com/pages-cms/pages-cms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A user-friendly CMS for static site generators.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xiaoyiweb/Yi-Ai</title>
-    <updated>2024-02-25T01:40:20Z</updated>
-    <id>tag:github.com,2024-02-25:/xiaoyiweb/Yi-Ai</id>
-    <link href="https://github.com/xiaoyiweb/Yi-Ai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于NineAi2.4.2的二开版本，含编译包和整合包，无需授权，全套源码，开箱即用，喜欢的给个Star~&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NMTuan/timeNow</title>
-    <updated>2024-02-25T01:40:20Z</updated>
-    <id>tag:github.com,2024-02-25:/NMTuan/timeNow</id>
-    <link href="https://github.com/NMTuan/timeNow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A full-screen web clock&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>simulaiofficial/simulai</title>
+    <updated>2024-02-26T01:44:41Z</updated>
+    <id>tag:github.com,2024-02-26:/simulaiofficial/simulai</id>
+    <link href="https://github.com/simulaiofficial/simulai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;simulai is a Notion-inspired open-source conversational survey builder.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

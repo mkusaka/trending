@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-25T01:30:14Z</updated>
+  <updated>2024-02-26T01:33:30Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gposingway/gposingway</title>
+    <updated>2024-02-26T01:33:30Z</updated>
+    <id>tag:github.com,2024-02-26:/gposingway/gposingway</id>
+    <link href="https://github.com/gposingway/gposingway" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A drop-in patch for ReShade installations with presets, shaders and fixes from all around the Final Fantasy XIV community and beyond&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

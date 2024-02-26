@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-25T01:28:07Z</updated>
+  <updated>2024-02-26T01:29:36Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dockersamples/buildme</title>
-    <updated>2024-02-25T01:28:07Z</updated>
-    <id>tag:github.com,2024-02-25:/dockersamples/buildme</id>
-    <link href="https://github.com/dockersamples/buildme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;buildme&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Build with Docker&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains an example Go application, used in the &lt;a href=&#34;https://docs.docker.com/build/guide&#34;&gt;Build with Docker guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This goal of this guide is to illustrate Docker Build features and best practices.&lt;/p&gt; &#xA;&lt;h2&gt;In this repository&lt;/h2&gt; &#xA;&lt;p&gt;You&#39;ll find the Go source code for the application in the &lt;code&gt;cmd&lt;/code&gt; directory. For the purpose of the Build guide, there&#39;s no need to understand or interact with the source code in any way. The guide only refers to Dockerfile changes.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;code&gt;Dockerfile&lt;/code&gt; in the root directory of this project is the starting point for this guide. It contains the unmodified version.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;code&gt;chapters&lt;/code&gt; directory contains the finished Dockerfile examples for each section of the guide. The sections are enumerated 1-8, and the Dockerfiles in this directory are named after the section that they correspond to.&lt;/p&gt; &#xA;&lt;h2&gt;Tasks&lt;/h2&gt; &#xA;&lt;p&gt;This repository implements &lt;a href=&#34;https://taskfile.dev/&#34;&gt;Task&lt;/a&gt; to make it easier to switch between stages, or reset Dockerfile.&lt;/p&gt; &#xA;&lt;p&gt;To reset your Dockerfile to a specific stage, install Task and run &lt;code&gt;task goto:&amp;lt;stage&amp;gt;&lt;/code&gt;. This overwrites the contents of the Dockerfile to the &lt;strong&gt;finished version&lt;/strong&gt; of the selected stage.&lt;/p&gt; &#xA;&lt;p&gt;For example, running &lt;code&gt;task goto:1&lt;/code&gt; resets the Dockerfile the starting point of the guide. Running &lt;code&gt;task goto:4&lt;/code&gt; resets the Dockerfile to reflect the &lt;strong&gt;finished version&lt;/strong&gt; of the 4th section of the guide.&lt;/p&gt;</summary>
+    <title>teamF-Hackathon24JAN/APP_for_Hackathon</title>
+    <updated>2024-02-26T01:29:36Z</updated>
+    <id>tag:github.com,2024-02-26:/teamF-Hackathon24JAN/APP_for_Hackathon</id>
+    <link href="https://github.com/teamF-Hackathon24JAN/APP_for_Hackathon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;チャットアプリ開発用リポジトリです 空のディレクトリを保持するため、意味のないファイル（test.txt)を作成してあります。&lt;/p&gt;</summary>
   </entry>
 </feed>

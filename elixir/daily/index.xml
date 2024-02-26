@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-25T01:28:35Z</updated>
+  <updated>2024-02-26T01:30:44Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>primait/prima_ex_logger</title>
-    <updated>2024-02-25T01:28:35Z</updated>
-    <id>tag:github.com,2024-02-25:/primait/prima_ex_logger</id>
-    <link href="https://github.com/primait/prima_ex_logger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LinkedInLearning/learning-elixir-2898718</title>
+    <updated>2024-02-26T01:30:44Z</updated>
+    <id>tag:github.com,2024-02-26:/LinkedInLearning/learning-elixir-2898718</id>
+    <link href="https://github.com/LinkedInLearning/learning-elixir-2898718" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo is for the Linkedin Learning course: Learning Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>primait/ex_fuzzywuzzy</title>
-    <updated>2024-02-25T01:28:35Z</updated>
-    <id>tag:github.com,2024-02-25:/primait/ex_fuzzywuzzy</id>
-    <link href="https://github.com/primait/ex_fuzzywuzzy" rel="alternate"></link>
+    <title>elpassion/buildel</title>
+    <updated>2024-02-26T01:30:44Z</updated>
+    <id>tag:github.com,2024-02-26:/elpassion/buildel</id>
+    <link href="https://github.com/elpassion/buildel" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

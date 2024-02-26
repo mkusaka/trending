@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-25T01:27:08Z</updated>
+  <updated>2024-02-26T01:27:54Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>wijnanb/frontend-butsers-js</title>
-    <updated>2024-02-25T01:27:08Z</updated>
-    <id>tag:github.com,2024-02-25:/wijnanb/frontend-butsers-js</id>
-    <link href="https://github.com/wijnanb/frontend-butsers-js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Butsing around with Angular.js and Backbone.js&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bobpaulin/sling-chaplin-boilerplate</title>
-    <updated>2024-02-25T01:27:08Z</updated>
-    <id>tag:github.com,2024-02-25:/bobpaulin/sling-chaplin-boilerplate</id>
-    <link href="https://github.com/bobpaulin/sling-chaplin-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

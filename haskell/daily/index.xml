@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-25T01:30:07Z</updated>
+  <updated>2024-02-26T01:33:15Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Simre1/reactimate</title>
-    <updated>2024-02-25T01:30:07Z</updated>
-    <id>tag:github.com,2024-02-25:/Simre1/reactimate</id>
-    <link href="https://github.com/Simre1/reactimate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Haskell libary for fast arrowized FRP based on signal functions&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Reactimate&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Simre1/reactimate/main/reactimate&#34;&gt;reactimate&lt;/a&gt; is a library implementing the AFRP paradigm. In contrast to other libraries, &lt;code&gt;reactimate&lt;/code&gt; uses &lt;code&gt;IO&lt;/code&gt; effects to increase performance and a concrete base type to eliminate typeclass performance problems. In addition, &lt;code&gt;reactimate&lt;/code&gt; has some support for pull-based FRP, making it possible to deal with events which happen in-between simulation cycles.&lt;/p&gt; &#xA;&lt;h1&gt;Reactimate Game&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Simre1/reactimate/main/reactimate-game&#34;&gt;reactimate-game&lt;/a&gt; is a library for basic 2D games using &lt;code&gt;SDL&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Simre1/reactimate/main/reactimate-game/screenshot.png&#34; alt=&#34;reactimate-games examples&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Reactimate Physics&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Simre1/reactimate/main/reactimate-physics&#34;&gt;reactimate-physics&lt;/a&gt; provides bindings to the &lt;code&gt;chipmunk&lt;/code&gt; 2D physics library.&lt;/p&gt; &#xA;&lt;h1&gt;Reactimate LDtk&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Simre1/reactimate/main/reactimate-ldtk&#34;&gt;reactimate-ldtk&lt;/a&gt; provides loading functionality for LDtk level files.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>k0001/hacker-rank</title>
-    <updated>2024-02-25T01:30:07Z</updated>
-    <id>tag:github.com,2024-02-25:/k0001/hacker-rank</id>
-    <link href="https://github.com/k0001/hacker-rank" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My solutions to HackerRank challenges&lt;/p&gt;&lt;hr&gt;&lt;p&gt;These are Renzo Carbonara&#39;s Haskell solutions to some programming challenges from &lt;a href=&#34;https://www.hackerrank.com&#34;&gt;HackerRank&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;How to install&lt;/h1&gt; &#xA;&lt;p&gt;Using &lt;code&gt;cabal-dev&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cabal-dev install --enable-test&#xA;./cabal-dev/bin/hr&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;That will print to standard output the list of challenge solutions available. Pick one, say &lt;code&gt;saveprincess&lt;/code&gt;, and run it as:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;./cabal-dev/bin/hr saveprincess&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;My solutions are put in the Public Domain, as explained by the &lt;code&gt;LICENSE&lt;/code&gt; file found in this repository.&lt;/p&gt;</summary>
-  </entry>
 </feed>
