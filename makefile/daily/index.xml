@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-26T01:36:28Z</updated>
+  <updated>2024-02-27T01:30:00Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wulffern/tech_sky130B</title>
-    <updated>2024-02-26T01:36:28Z</updated>
-    <id>tag:github.com,2024-02-26:/wulffern/tech_sky130B</id>
-    <link href="https://github.com/wulffern/tech_sky130B" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Technology files for sky130B, requires PDK installed&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>instill-ai/instill-core</title>
+    <updated>2024-02-27T01:30:00Z</updated>
+    <id>tag:github.com,2024-02-27:/instill-ai/instill-core</id>
+    <link href="https://github.com/instill-ai/instill-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SineVector241/VoiceCraft-MCBE_Proximity_Chat</title>
+    <updated>2024-02-27T01:30:00Z</updated>
+    <id>tag:github.com,2024-02-27:/SineVector241/VoiceCraft-MCBE_Proximity_Chat</id>
+    <link href="https://github.com/SineVector241/VoiceCraft-MCBE_Proximity_Chat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VoiceCraft software to implement proximity VC for Minecraft Bedrock Edition&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

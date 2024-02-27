@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-26T01:30:53Z</updated>
+  <updated>2024-02-27T01:25:46Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sigma/pcache</title>
+    <updated>2024-02-27T01:25:46Z</updated>
+    <id>tag:github.com,2024-02-27:/sigma/pcache</id>
+    <link href="https://github.com/sigma/pcache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;persistent caching for Emacs&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/sigma/pcache/workflows/CI/badge.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Pcache&lt;/h2&gt; &#xA;&lt;p&gt;pcache provides a persistent way of caching data, in a hashtable-like structure. It relies on `eieio-persistent&#39; in the backend, so that any object that can be serialized by EIEIO can be stored with pcache.&lt;/p&gt; &#xA;&lt;p&gt;pcache handles objects called &#34;repositories&#34; (&lt;code&gt;pcache-repository&lt;/code&gt;) and &#34;entries&#34; (&lt;code&gt;pcache-entry&lt;/code&gt;). Each repository is identified by a unique name, that defines an entry in &lt;code&gt;pcache-directory&lt;/code&gt;. Subdirectories are allowed, by the use of a directory separator in the repository name.&lt;/p&gt; &#xA;&lt;p&gt;Example:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lisp&#34;&gt;(let ((repo (pcache-repository &#39;plop)))&#xA;  (pcache-put repo &#39;foo 42) ; store value 42 with key &#39;foo&#xA;  (pcache-get repo &#39;foo) ; =&amp;gt; 42&#xA;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Keys can be pretty much any Lisp object, and are compared for equality using &lt;code&gt;eql&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Optionally, cache entries can expire:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lisp&#34;&gt;(let ((repo (pcache-repository &#39;plop)))&#xA;  (pcache-put repo &#39;foo 42 1) ; store value 42 with key &#39;foo for 1 second&#xA;  (sleep-for 1)&#xA;  (pcache-get repo &#39;foo) ; =&amp;gt; nil&#xA;)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>tianbymy/emacs23</title>
+    <updated>2024-02-27T01:25:46Z</updated>
+    <id>tag:github.com,2024-02-27:/tianbymy/emacs23</id>
+    <link href="https://github.com/tianbymy/emacs23" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;emacs23 下的配置&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;emacs23&lt;/h1&gt; &#xA;&lt;p&gt;emacs23 下的配置 install 1、 git clone &lt;a href=&#34;mailto:git@github.com&#34;&gt;git@github.com&lt;/a&gt;:tianbymy/emacs23.git 2、 mv emacs23 ~/.emacs 3、 启动emacs&lt;/p&gt;</summary>
+  </entry>
 </feed>

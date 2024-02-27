@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-26T01:32:00Z</updated>
+  <updated>2024-02-27T01:26:33Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MechanicalFlower/godot-template</title>
-    <updated>2024-02-26T01:32:00Z</updated>
-    <id>tag:github.com,2024-02-26:/MechanicalFlower/godot-template</id>
-    <link href="https://github.com/MechanicalFlower/godot-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📝 Godot template with code formatting, license tracking &amp; CI/CD&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TheDuriel/DurielUtilities</title>
-    <updated>2024-02-26T01:32:00Z</updated>
-    <id>tag:github.com,2024-02-26:/TheDuriel/DurielUtilities</id>
-    <link href="https://github.com/TheDuriel/DurielUtilities" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utilities for Godot Engine 4&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lidrial/projet_69</title>
+    <updated>2024-02-27T01:26:33Z</updated>
+    <id>tag:github.com,2024-02-27:/Lidrial/projet_69</id>
+    <link href="https://github.com/Lidrial/projet_69" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

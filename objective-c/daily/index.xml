@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-26T01:37:49Z</updated>
+  <updated>2024-02-27T01:31:10Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dimzzy/mblock</title>
+    <updated>2024-02-27T01:31:10Z</updated>
+    <id>tag:github.com,2024-02-27:/dimzzy/mblock</id>
+    <link href="https://github.com/dimzzy/mblock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Signal services send data via UDP protocol. Each packet is an array of int32_t integers and has the following structure:&lt;/p&gt; &#xA;&lt;p&gt;[0] 0x60, 0x0d, 0xf0, 0x0d aka &#39;GOODFOOD&#39; [1] timestamp (milliseconds from midnight of Jan 1, 1970) [1] signal type: 0x10 for motion, 0x20 for location, 0x30 for proximity. [2] length of the payload (rest of the packet) [3...] payload and its content depends on signal type&lt;/p&gt; &#xA;&lt;p&gt;Motion: payload contains three integers which represent roll, pitch and yaw of the device&#39;s orientation (Euler angles) followed by x, y and z components of device&#39;s acceleration. Palyload size is thus 6. Values are multiplied by 1000. Packets are sent at the specified frequency.&lt;/p&gt; &#xA;&lt;p&gt;Location: payload contains three integers which represent latitude, longitude and altitude of the device. Palyload size is thus 3. Values are multiplied by 1000. Packets are sent as location is changed or corrected.&lt;/p&gt; &#xA;&lt;p&gt;Proximity: payload contains one integer which is 1 if device is next to face and 0 otherwise. Packet is sent only when it changes.&lt;/p&gt; &#xA;&lt;p&gt;Byte order for iOS devices is little-endian.&lt;/p&gt; &#xA;&lt;p&gt;TODO&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Show when block generates signal&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Add block which shows ball in 3D&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Add TCP receiver block&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Add TCP sender block&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Allow to add nested group blocks&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Add integrator block&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Add block to rearrange signal data&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Add block which calculates constant error&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Support UDP broadcast&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Support audio in&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Support audio out&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Allow to generate target project&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Allow to generate UI&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

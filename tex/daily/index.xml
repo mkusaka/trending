@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-26T01:43:33Z</updated>
+  <updated>2024-02-27T01:35:40Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TheEngineer98/LaTeX-Vorlage-Unbranded</title>
-    <updated>2024-02-26T01:43:33Z</updated>
-    <id>tag:github.com,2024-02-26:/TheEngineer98/LaTeX-Vorlage-Unbranded</id>
-    <link href="https://github.com/TheEngineer98/LaTeX-Vorlage-Unbranded" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dies ist eine ungebrandete Version meiner LaTeX-Vorlage, die meine Studenten für Projekt- und Abschlussarbeiten ausgehändigt bekommen. Verbesserungspotenzial besteht immer, weshalb dies auch WIP ist. Viel Erfolg und Spaß beim Verwenden meiner Vorlage. Works best with Overleaf (Über eine dankende Erwähnung freue ich mich LB Fabian Wein (M.Eng.) )&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sdruskat/research-software-categories</title>
+    <updated>2024-02-27T01:35:40Z</updated>
+    <id>tag:github.com,2024-02-27:/sdruskat/research-software-categories</id>
+    <link href="https://github.com/sdruskat/research-software-categories" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Work on categorizing research software&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

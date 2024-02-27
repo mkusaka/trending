@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-26T01:44:41Z</updated>
+  <updated>2024-02-27T01:36:33Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>simulaiofficial/simulai</title>
-    <updated>2024-02-26T01:44:41Z</updated>
-    <id>tag:github.com,2024-02-26:/simulaiofficial/simulai</id>
-    <link href="https://github.com/simulaiofficial/simulai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;simulai is a Notion-inspired open-source conversational survey builder.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chenbimo/yinav</title>
+    <updated>2024-02-27T01:36:33Z</updated>
+    <id>tag:github.com,2024-02-27:/chenbimo/yinav</id>
+    <link href="https://github.com/chenbimo/yinav" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;易导航 - 随易科技 https://yicode.tech 旗下开源免费的网站导航项目&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yxhpy/Vue3-Magic-Generator</title>
+    <updated>2024-02-27T01:36:33Z</updated>
+    <id>tag:github.com,2024-02-27:/yxhpy/Vue3-Magic-Generator</id>
+    <link href="https://github.com/yxhpy/Vue3-Magic-Generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue3-Magic-Generator使用创新的大模型技术，将您口中的简短需求化作精致的Web应用。我们通过深入分析需求，转化成网站的结构模块，最终使用AI的超凡编程能力，将Vue3和Element-Plus框架的代码精确生成。从此，项目开发不再是冗长乏味的过程，而是一场激动人心的创新之旅。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

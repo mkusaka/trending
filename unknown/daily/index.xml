@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-26T01:24:14Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2024-02-27T01:21:46Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>analoguejb/Analogue-Duo-JB</title>
-    <updated>2024-02-26T01:24:14Z</updated>
-    <id>tag:github.com,2024-02-26:/analoguejb/Analogue-Duo-JB</id>
-    <link href="https://github.com/analoguejb/Analogue-Duo-JB" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prabathLK/PRABATH-MD</title>
+    <updated>2024-02-27T01:21:46Z</updated>
+    <id>tag:github.com,2024-02-27:/prabathLK/PRABATH-MD</id>
+    <link href="https://github.com/prabathLK/PRABATH-MD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🇱🇰 Multi-device whatsapp bot 🎉&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ThePBone/awesome-shizuku</title>
-    <updated>2024-02-26T01:24:14Z</updated>
-    <id>tag:github.com,2024-02-26:/ThePBone/awesome-shizuku</id>
-    <link href="https://github.com/ThePBone/awesome-shizuku" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated list of awesome Android apps making use of Shizuku&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joseadanof/awesome-cloudnative-trainings</title>
+    <updated>2024-02-27T01:21:46Z</updated>
+    <id>tag:github.com,2024-02-27:/joseadanof/awesome-cloudnative-trainings</id>
+    <link href="https://github.com/joseadanof/awesome-cloudnative-trainings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zkSync-Community-Hub/zksync-community</title>
+    <updated>2024-02-27T01:21:46Z</updated>
+    <id>tag:github.com,2024-02-27:/zkSync-Community-Hub/zksync-community</id>
+    <link href="https://github.com/zkSync-Community-Hub/zksync-community" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

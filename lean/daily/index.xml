@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-26T01:35:48Z</updated>
+  <updated>2024-02-27T01:29:25Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>T-Brick/DateTime</title>
-    <updated>2024-02-26T01:35:48Z</updated>
-    <id>tag:github.com,2024-02-26:/T-Brick/DateTime</id>
-    <link href="https://github.com/T-Brick/DateTime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DateTime package for Lean 4&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

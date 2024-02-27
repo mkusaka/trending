@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-26T01:29:36Z</updated>
+  <updated>2024-02-27T01:25:11Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>teamF-Hackathon24JAN/APP_for_Hackathon</title>
-    <updated>2024-02-26T01:29:36Z</updated>
-    <id>tag:github.com,2024-02-26:/teamF-Hackathon24JAN/APP_for_Hackathon</id>
-    <link href="https://github.com/teamF-Hackathon24JAN/APP_for_Hackathon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;チャットアプリ開発用リポジトリです 空のディレクトリを保持するため、意味のないファイル（test.txt)を作成してあります。&lt;/p&gt;</summary>
-  </entry>
 </feed>
