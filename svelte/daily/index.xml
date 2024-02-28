@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-27T01:35:12Z</updated>
+  <updated>2024-02-28T01:37:22Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>n00ki/kickoff-sveltekit</title>
-    <updated>2024-02-27T01:35:12Z</updated>
-    <id>tag:github.com,2024-02-27:/n00ki/kickoff-sveltekit</id>
-    <link href="https://github.com/n00ki/kickoff-sveltekit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KUN1007/kun-galgame-stickers-sveltekit</title>
+    <updated>2024-02-28T01:37:22Z</updated>
+    <id>tag:github.com,2024-02-28:/KUN1007/kun-galgame-stickers-sveltekit</id>
+    <link href="https://github.com/KUN1007/kun-galgame-stickers-sveltekit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KUN&#39;s Visual Novel (galgame) sticker set. To recommend games to more people. Galgame 表情包仓库&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-27T01:27:27Z</updated>
+  <updated>2024-02-28T01:28:58Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mpellouin/wolfram</title>
-    <updated>2024-02-27T01:27:27Z</updated>
-    <id>tag:github.com,2024-02-27:/mpellouin/wolfram</id>
-    <link href="https://github.com/mpellouin/wolfram" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Epitech second year project part of the functional programming module. Wolfram is an implementation of elementary cellular automaton written in Haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hpack&lt;/h1&gt;</summary>
+    <title>tfausak/saturn</title>
+    <updated>2024-02-28T01:28:58Z</updated>
+    <id>tag:github.com,2024-02-28:/tfausak/saturn</id>
+    <link href="https://github.com/tfausak/saturn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🪐 Handle POSIX cron schedules.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Saturn&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tfausak/saturn/actions/workflows/workflow.yaml&#34;&gt;&lt;img src=&#34;https://github.com/tfausak/saturn/actions/workflows/workflow.yaml/badge.svg?sanitize=true&#34; alt=&#34;Workflow&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://hackage.haskell.org/package/saturn&#34;&gt;&lt;img src=&#34;https://img.shields.io/hackage/v/saturn&#34; alt=&#34;Hackage&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.stackage.org/package/saturn&#34;&gt;&lt;img src=&#34;https://www.stackage.org/package/saturn/badge/nightly?label=stackage&#34; alt=&#34;Stackage&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;span&gt;🪐&lt;/span&gt; Handle POSIX cron schedules.&lt;/p&gt; &#xA;&lt;p&gt;See the documentation on Hackage: &lt;a href=&#34;https://hackage.haskell.org/package/saturn&#34;&gt;https://hackage.haskell.org/package/saturn&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>mattia-furlan/MasterThesisCTT</title>
+    <updated>2024-02-28T01:28:58Z</updated>
+    <id>tag:github.com,2024-02-28:/mattia-furlan/MasterThesisCTT</id>
+    <link href="https://github.com/mattia-furlan/MasterThesisCTT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Haskell implementation of a version of cubical type theory developed for my master thesis&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Haskell implementation of Cubical Type Theory&lt;/h1&gt; &#xA;&lt;h2&gt;Compile&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;make&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;./CTT file1.ctt file2.ctt ... fileN.ctt&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;The program loads and type-checks the files, then it starts a REPL.&lt;/p&gt; &#xA;&lt;p&gt;Type &lt;code&gt;:help&lt;/code&gt; to show usage.&lt;/p&gt;</summary>
   </entry>
 </feed>

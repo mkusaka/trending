@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-27T01:34:21Z</updated>
+  <updated>2024-02-28T01:36:28Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shlomif/vim-begin</title>
-    <updated>2024-02-27T01:34:21Z</updated>
-    <id>tag:github.com,2024-02-27:/shlomif/vim-begin</id>
-    <link href="https://github.com/shlomif/vim-begin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Vim Beginners’ Site&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>a-deux-pas/front-a-deux-pas</title>
-    <updated>2024-02-27T01:34:21Z</updated>
-    <id>tag:github.com,2024-02-27:/a-deux-pas/front-a-deux-pas</id>
-    <link href="https://github.com/a-deux-pas/front-a-deux-pas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

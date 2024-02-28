@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-27T01:25:40Z</updated>
+  <updated>2024-02-28T01:25:02Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>seanmor5/echo</title>
+    <updated>2024-02-28T01:25:02Z</updated>
+    <id>tag:github.com,2024-02-28:/seanmor5/echo</id>
+    <link href="https://github.com/seanmor5/echo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>abdelaz3r/sparkline_svg</title>
+    <updated>2024-02-28T01:25:02Z</updated>
+    <id>tag:github.com,2024-02-28:/abdelaz3r/sparkline_svg</id>
+    <link href="https://github.com/abdelaz3r/sparkline_svg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sparkline SVG is simple, zero-dependency, Elixir library to generate SVG sparkline charts.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

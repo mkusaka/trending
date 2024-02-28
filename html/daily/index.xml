@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-27T01:27:43Z</updated>
+  <updated>2024-02-28T01:29:14Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>taniagd/Ejercicios-Intro-CSS-CH38</title>
+    <updated>2024-02-28T01:29:14Z</updated>
+    <id>tag:github.com,2024-02-28:/taniagd/Ejercicios-Intro-CSS-CH38</id>
+    <link href="https://github.com/taniagd/Ejercicios-Intro-CSS-CH38" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;¡Hola!&lt;/p&gt; &#xA;&lt;p&gt;Revisa atentamente el contenido del index, luego revisa las indicaciones del archivo styles.css y con lo que aprendiste en la sesión, además de buscar en la documentación si es necesario, debes llegar a este resultado:&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/taniagd/Ejercicios-Intro-CSS-CH38/raw/main/assets/img/selectores-1.png&#34; alt=&#34;selectores-1&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;*Recuerda que debes aplicar las reglas de CSS en un archivo css externo.&lt;/p&gt;</summary>
+  </entry>
 </feed>

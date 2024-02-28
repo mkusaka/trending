@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-27T01:34:50Z</updated>
+  <updated>2024-02-28T01:37:00Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alchemyplatform/modular-account</title>
-    <updated>2024-02-27T01:34:50Z</updated>
-    <id>tag:github.com,2024-02-27:/alchemyplatform/modular-account</id>
-    <link href="https://github.com/alchemyplatform/modular-account" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NEWBSCCONTRACTOR/bsc-honeypot</title>
+    <updated>2024-02-28T01:37:00Z</updated>
+    <id>tag:github.com,2024-02-28:/NEWBSCCONTRACTOR/bsc-honeypot</id>
+    <link href="https://github.com/NEWBSCCONTRACTOR/bsc-honeypot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;create-honeypot-token tutorial on how to create honeypot token&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>code-423n4/2024-02-uniswap-foundation</title>
-    <updated>2024-02-27T01:34:50Z</updated>
-    <id>tag:github.com,2024-02-27:/code-423n4/2024-02-uniswap-foundation</id>
-    <link href="https://github.com/code-423n4/2024-02-uniswap-foundation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>storyprotocol/protocol-core</title>
-    <updated>2024-02-27T01:34:50Z</updated>
-    <id>tag:github.com,2024-02-27:/storyprotocol/protocol-core</id>
-    <link href="https://github.com/storyprotocol/protocol-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;core protocol repo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paradox425/ERC425</title>
+    <updated>2024-02-28T01:37:00Z</updated>
+    <id>tag:github.com,2024-02-28:/paradox425/ERC425</id>
+    <link href="https://github.com/paradox425/ERC425" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ERC425 - Too early&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

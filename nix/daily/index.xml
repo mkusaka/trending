@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-27T01:30:58Z</updated>
+  <updated>2024-02-28T01:32:40Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>imincik/geospatial-nix</title>
-    <updated>2024-02-27T01:30:58Z</updated>
-    <id>tag:github.com,2024-02-27:/imincik/geospatial-nix</id>
-    <link href="https://github.com/imincik/geospatial-nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Geospatial packages repository and environment. Check out https://geospatial-nix.today/ .&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SomeoneSerge/pkgs</title>
-    <updated>2024-02-27T01:30:58Z</updated>
-    <id>tag:github.com,2024-02-27:/SomeoneSerge/pkgs</id>
-    <link href="https://github.com/SomeoneSerge/pkgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;some-pkgs: a tiny monorepo for sci-comp things that don&#39;t fit in nixpkgs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>IntersectMBO/cardano-haskell-packages</title>
-    <updated>2024-02-27T01:30:58Z</updated>
-    <id>tag:github.com,2024-02-27:/IntersectMBO/cardano-haskell-packages</id>
-    <link href="https://github.com/IntersectMBO/cardano-haskell-packages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Metadata for Cardano&#39;s Haskell package repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>loqusion/typix</title>
+    <updated>2024-02-28T01:32:40Z</updated>
+    <id>tag:github.com,2024-02-28:/loqusion/typix</id>
+    <link href="https://github.com/loqusion/typix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deterministic Typst compilation with Nix&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-27T01:27:27Z</updated>
+  <updated>2024-02-28T01:28:56Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tntk-io/tntk-infra</title>
-    <updated>2024-02-27T01:27:27Z</updated>
-    <id>tag:github.com,2024-02-27:/tntk-io/tntk-infra</id>
-    <link href="https://github.com/tntk-io/tntk-infra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ruzickap/k8s-postgresql</title>
-    <updated>2024-02-27T01:27:27Z</updated>
-    <id>tag:github.com,2024-02-27:/ruzickap/k8s-postgresql</id>
-    <link href="https://github.com/ruzickap/k8s-postgresql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PostgreSQL on Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ruzickap/k8s-flagger-istio-flux</title>
-    <updated>2024-02-27T01:27:27Z</updated>
-    <id>tag:github.com,2024-02-27:/ruzickap/k8s-flagger-istio-flux</id>
-    <link href="https://github.com/ruzickap/k8s-flagger-istio-flux" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blue Green deployment with Flagger, Flux and Istio&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
