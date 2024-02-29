@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-28T01:25:00Z</updated>
+  <updated>2024-02-29T01:27:25Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>api-tsukasa/PhotoVoyage</title>
-    <updated>2024-02-28T01:25:00Z</updated>
-    <id>tag:github.com,2024-02-28:/api-tsukasa/PhotoVoyage</id>
-    <link href="https://github.com/api-tsukasa/PhotoVoyage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PhotoVoyage is a platform for exploring and sharing travel and adventure photos from around the world. Discover new places, share your experiences and connect with other photography lovers on an exciting visual journey.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

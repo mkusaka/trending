@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-28T01:23:55Z</updated>
+  <updated>2024-02-29T01:25:48Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kallewoof/bitcoin-faucet</title>
-    <updated>2024-02-28T01:23:55Z</updated>
-    <id>tag:github.com,2024-02-28:/kallewoof/bitcoin-faucet</id>
-    <link href="https://github.com/kallewoof/bitcoin-faucet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bitcoin Faucet&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Bitcoin Faucet&lt;/p&gt;</summary>
+    <title>janily/background-erase</title>
+    <updated>2024-02-29T01:25:48Z</updated>
+    <id>tag:github.com,2024-02-29:/janily/background-erase</id>
+    <link href="https://github.com/janily/background-erase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Remove background in seconds.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;background-erase&lt;/h1&gt; &#xA;&lt;p&gt;Remove background in seconds.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>textmate/themes.tmbundle</title>
-    <updated>2024-02-28T01:23:55Z</updated>
-    <id>tag:github.com,2024-02-28:/textmate/themes.tmbundle</id>
-    <link href="https://github.com/textmate/themes.tmbundle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Themes (for grammars and command output)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;p&gt;You can install this bundle in TextMate by opening the preferences and going to the bundles tab. After installation it will be automatically updated for you.&lt;/p&gt; &#xA;&lt;h1&gt;General&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://kb.textmate.org/bundle_styleguide&#34;&gt;Bundle Styleguide&lt;/a&gt; — &lt;em&gt;before you make changes&lt;/em&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://kb.textmate.org/commit_styleguide&#34;&gt;Commit Styleguide&lt;/a&gt; — &lt;em&gt;before you send a pull request&lt;/em&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://kb.textmate.org/writing_bug_reports&#34;&gt;Writing Bug Reports&lt;/a&gt; — &lt;em&gt;before you report an issue&lt;/em&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;If not otherwise specified (see below), files in this repository fall under the following license:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Permission to copy, use, modify, sell and distribute this&#xA;software is granted. This software is provided &#34;as is&#34; without&#xA;express or implied warranty, and with no claim as to its&#xA;suitability for any purpose.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;An exception is made for files in readable text which contain their own license information, or files where an accompanying file exists (in the same directory) with a “-license” suffix added to the base-name name of the original file, and an extension of txt, html, or similar. For example “tidy” is accompanied by “tidy-license.txt”.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>gohugoio/hugoDocs</title>
-    <updated>2024-02-28T01:23:55Z</updated>
-    <id>tag:github.com,2024-02-28:/gohugoio/hugoDocs</id>
-    <link href="https://github.com/gohugoio/hugoDocs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The source for https://gohugo.io/&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true&#34; alt=&#34;Hugo&#34; width=&#34;565&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;A fast and flexible static site generator built with love by &lt;a href=&#34;https://github.com/bep&#34;&gt;bep&lt;/a&gt;, &lt;a href=&#34;https://github.com/spf13&#34;&gt;spf13&lt;/a&gt;, and &lt;a href=&#34;https://github.com/gohugoio/hugo/graphs/contributors&#34;&gt;friends&lt;/a&gt; in &lt;a href=&#34;https://go.dev/&#34;&gt;Go&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://app.netlify.com/sites/gohugoio/deploys&#34;&gt;&lt;img src=&#34;https://api.netlify.com/api/v1/badges/e0dbbfc7-34f1-4393-a679-c16e80162705/deploy-status&#34; alt=&#34;Netlify Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://gohugo.io/contribute/documentation/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&#34; alt=&#34;PRs Welcome&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This is the repository for the &lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;Hugo&lt;/a&gt; documentation site.&lt;/p&gt; &#xA;&lt;p&gt;Please see the &lt;a href=&#34;https://gohugo.io/contribute/documentation&#34;&gt;contributing&lt;/a&gt; section for guidelines, examples, and process.&lt;/p&gt;</summary>
+    <title>MariiaH1/todo-app-starter</title>
+    <updated>2024-02-29T01:25:48Z</updated>
+    <id>tag:github.com,2024-02-29:/MariiaH1/todo-app-starter</id>
+    <link href="https://github.com/MariiaH1/todo-app-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;todo-app-starter&lt;/h1&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AGS Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-28T01:21:41Z</updated>
+  <updated>2024-02-29T01:22:47Z</updated>
   <subtitle>Daily Trending of AGS Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>psrobotics/TinyFOC_pro</title>
-    <updated>2024-02-28T01:21:41Z</updated>
-    <id>tag:github.com,2024-02-28:/psrobotics/TinyFOC_pro</id>
-    <link href="https://github.com/psrobotics/TinyFOC_pro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compact BLDC driver&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

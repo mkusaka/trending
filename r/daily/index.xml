@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-28T01:35:00Z</updated>
+  <updated>2024-02-29T01:37:15Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gvegayon/PDSR</title>
-    <updated>2024-02-28T01:35:00Z</updated>
-    <id>tag:github.com,2024-02-28:/gvegayon/PDSR</id>
-    <link href="https://github.com/gvegayon/PDSR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An R package for access and analyze NASA&#39;s Planetary Data System&lt;/p&gt;&lt;hr&gt;&lt;h3&gt;Introduction&lt;/h3&gt; &#xA;&lt;p&gt;PDSR use NASA&#39;s FTP service to smoothly access PDS. Through metadata file parsing, it helps the data-scientist downloading and describing data without using the web-browser.&lt;/p&gt; &#xA;&lt;p&gt;This package was designed during the 2013 version of the NASA&#39;s International SpaceApps Challenge&lt;/p&gt; &#xA;&lt;p&gt;Please visit the project home for more information: &lt;a href=&#34;https://github.com/gvegayon/PDSR&#34;&gt;https://github.com/gvegayon/PDSR&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;or its SpaceApps repo&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/spaceappcl/team20&#34;&gt;https://github.com/spaceappcl/team20&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;Details&lt;/h3&gt; &#xA;&lt;p&gt;The package retrieve data sets from &lt;a href=&#34;http://pds.jpl.nasa.gov/tools/dsstatus/dsidStatus.jsp?sortOpt1=di.dsid&amp;amp;sortOpt2=&amp;amp;sortOpt3=&amp;amp;sortOpt4=&amp;amp;sortOpt5=&amp;amp;nodename=ALL&amp;amp;col2=dm.msnname&amp;amp;col3=&amp;amp;col4=&amp;amp;col5=&amp;amp;Go=Submit&#34;&gt;NASA&#39;s missions&lt;/a&gt; into data.frames objects.&lt;/p&gt; &#xA;&lt;p&gt;Includes special functions for parsing lbl archives into nested lists and naming and characterizing data (tab files).&lt;/p&gt; &#xA;&lt;p&gt;Also methods for summarizing and plotting information.&lt;/p&gt; &#xA;&lt;h3&gt;Motivations&lt;/h3&gt; &#xA;&lt;p&gt;This is an project for the SpaceAppChallenge 2013 (Santiago CL)&lt;/p&gt; &#xA;&lt;h3&gt;Example&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;# library(PDSR)&#xA;&#xA;# Looking up for Apollo 17&#xA;apollo &amp;lt;- dirMissions(&#34;apollo 17&#34;)&#xA;&#xA;# What data is there&#xA;apollo.data &amp;lt;- exploreMission(apollo[1,1])&#xA;&#xA;# Download the data (will download two files called:&#xA;# a17_traverse_gravity_data.lbl &amp;amp; a17_traverse_gravity_data.tab)&#xA;downLoadMission(apollo.data)&#xA;&#xA;# Read data&#xA;apollo.df &amp;lt;- readPDStable(&#34;a17_traverse_gravity_data&#34;)&#xA;&#xA;summary(apollo.df)&#xA;&#xA;plot(apollo.df)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Authors&lt;/h3&gt; &#xA;&lt;p&gt;George G. Vega (g [dot] vegayon [at] gmail) Joshua B. Kunst (jbkunst [at] gmail)&lt;/p&gt;</summary>
+    <title>timelyportfolio/clickme_multiline_generic</title>
+    <updated>2024-02-29T01:37:15Z</updated>
+    <id>tag:github.com,2024-02-29:/timelyportfolio/clickme_multiline_generic</id>
+    <link href="https://github.com/timelyportfolio/clickme_multiline_generic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;clickme_multiline&lt;/h1&gt; &#xA;&lt;p&gt;This multiline ractive for &lt;a href=&#34;https://github.com/nachocab/clickme&#34;&gt;clickme&lt;/a&gt; produces a cumulative return d3 line chart using return data from R. See the post describing this &lt;a href=&#34;http://timelyportfolio.blogspot.com/2013/03/building-ractives-is-so-addictive-it.html&#34;&gt;here&lt;/a&gt;. The d3 code is forked from &lt;a href=&#34;http://bl.ocks.org/mbostock/3902569&#34;&gt;Mike Bostock&#39;s multiline example&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>

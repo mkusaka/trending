@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-28T01:33:37Z</updated>
+  <updated>2024-02-29T01:35:29Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>byutrg/p5-mt2tbx</title>
+    <updated>2024-02-29T01:35:29Z</updated>
+    <id>tag:github.com,2024-02-29:/byutrg/p5-mt2tbx</id>
+    <link href="https://github.com/byutrg/p5-mt2tbx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convert MultiTerm XML files to TBX&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;mt2tbx&lt;/h1&gt; &#xA;&lt;p&gt;Convert MultiTerm XML files to TBX.&lt;/p&gt; &#xA;&lt;p&gt;This project allows users to convert a MultiTerm (MT) XML file into TBX. It requires a JSON file to specify how individual elements will be rendered. If you built your MT termbase using a default template (&#34;bilingual glossary&#34; or &#34;multilingual termbase&#34;), using only default values, then we provide a mapping file and accompanying XCS file for you in the sample_mapping directory.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>jjatria/praat-updater</title>
+    <updated>2024-02-29T01:35:29Z</updated>
+    <id>tag:github.com,2024-02-29:/jjatria/praat-updater</id>
+    <link href="https://github.com/jjatria/praat-updater" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Perl script to update praat. This versions tested to work only on GNU/Linux.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;praat-updater&lt;/h1&gt; &#xA;&lt;p&gt;Perl script to update praat. This versions tested to work only on GNU/Linux.&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-28T01:31:40Z</updated>
+  <updated>2024-02-29T01:33:02Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sdf8057/packages</title>
-    <updated>2024-02-28T01:31:40Z</updated>
-    <id>tag:github.com,2024-02-28:/sdf8057/packages</id>
-    <link href="https://github.com/sdf8057/packages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gmh5225/android-kernel-driver-template</title>
-    <updated>2024-02-28T01:31:40Z</updated>
-    <id>tag:github.com,2024-02-28:/gmh5225/android-kernel-driver-template</id>
-    <link href="https://github.com/gmh5225/android-kernel-driver-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A GKI Android kernel driver(AArch64) template compiled by llvm-msvc&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ondrachwiedziuk/Kategorie</title>
-    <updated>2024-02-28T01:31:40Z</updated>
-    <id>tag:github.com,2024-02-28:/ondrachwiedziuk/Kategorie</id>
-    <link href="https://github.com/ondrachwiedziuk/Kategorie" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joaopauloaramuni/algoritmos-e-estruturas-de-dados-i</title>
+    <updated>2024-02-29T01:33:02Z</updated>
+    <id>tag:github.com,2024-02-29:/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i</id>
+    <link href="https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo Algoritmos e Estruturas de Dados I&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
