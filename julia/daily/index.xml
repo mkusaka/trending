@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-29T01:31:42Z</updated>
+  <updated>2024-03-01T01:33:29Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaGeodynamics/GeophysicalModelGenerator.jl</title>
-    <updated>2024-02-29T01:31:42Z</updated>
-    <id>tag:github.com,2024-02-29:/JuliaGeodynamics/GeophysicalModelGenerator.jl</id>
-    <link href="https://github.com/JuliaGeodynamics/GeophysicalModelGenerator.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Import, process and interpret geophysical data sets to be used in numerical models.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NREL-Sienna/InfrastructureSystems.jl</title>
-    <updated>2024-02-29T01:31:42Z</updated>
-    <id>tag:github.com,2024-02-29:/NREL-Sienna/InfrastructureSystems.jl</id>
-    <link href="https://github.com/NREL-Sienna/InfrastructureSystems.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utility package for simulation infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MIT-AI-Accelerator/MagNav.jl</title>
+    <updated>2024-03-01T01:33:29Z</updated>
+    <id>tag:github.com,2024-03-01:/MIT-AI-Accelerator/MagNav.jl</id>
+    <link href="https://github.com/MIT-AI-Accelerator/MagNav.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MagNav: airborne Magnetic anomaly Navigation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

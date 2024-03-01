@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-29T01:41:53Z</updated>
+  <updated>2024-03-01T01:41:11Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kyouryuukunn/my-Changed</title>
-    <updated>2024-02-29T01:41:53Z</updated>
-    <id>tag:github.com,2024-02-29:/kyouryuukunn/my-Changed</id>
-    <link href="https://github.com/kyouryuukunn/my-Changed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kuntoaji/kakvim</title>
+    <updated>2024-03-01T01:41:11Z</updated>
+    <id>tag:github.com,2024-03-01:/kuntoaji/kakvim</id>
+    <link href="https://github.com/kuntoaji/kakvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My Neovim configuration for Ruby (on Rails) development. Designed to work with terminal in macOS and in Ubuntu&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

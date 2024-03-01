@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-29T01:33:02Z</updated>
+  <updated>2024-03-01T01:34:29Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>joaopauloaramuni/algoritmos-e-estruturas-de-dados-i</title>
-    <updated>2024-02-29T01:33:02Z</updated>
-    <id>tag:github.com,2024-02-29:/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i</id>
-    <link href="https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo Algoritmos e Estruturas de Dados I&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>edward0181/android_device_samsung_a23xq</title>
+    <updated>2024-03-01T01:34:29Z</updated>
+    <id>tag:github.com,2024-03-01:/edward0181/android_device_samsung_a23xq</id>
+    <link href="https://github.com/edward0181/android_device_samsung_a23xq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TWRP Device Tree for Samsung Galaxy A23 5G&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-29T01:40:35Z</updated>
+  <updated>2024-03-01T01:40:02Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cs-pub-ro/SOC</title>
-    <updated>2024-02-29T01:40:35Z</updated>
-    <id>tag:github.com,2024-02-29:/cs-pub-ro/SOC</id>
-    <link href="https://github.com/cs-pub-ro/SOC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Structura și Organizarea Calculatoarelor - Universitatea Naționala de Științe și Tehnologie Politehnica București&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

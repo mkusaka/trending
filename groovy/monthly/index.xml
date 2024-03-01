@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-01T02:04:02Z</updated>
+  <subtitle>Monthly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jenkinsci-cert/SECURITY-3314-3315</title>
+    <updated>2024-03-01T02:04:02Z</updated>
+    <id>tag:github.com,2024-03-01:/jenkinsci-cert/SECURITY-3314-3315</id>
+    <link href="https://github.com/jenkinsci-cert/SECURITY-3314-3315" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Workaround for disabling the CLI to mitigate SECURITY-3314/CVE-2024-23897 and SECURITY-3315/CVE-2024-23898&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>apple/pkl-jvm-examples</title>
+    <updated>2024-03-01T02:04:02Z</updated>
+    <id>tag:github.com,2024-03-01:/apple/pkl-jvm-examples</id>
+    <link href="https://github.com/apple/pkl-jvm-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Examples for using Pkl within JVM applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wkimeria/wordPath</title>
+    <updated>2024-03-01T02:04:02Z</updated>
+    <id>tag:github.com,2024-03-01:/wkimeria/wordPath</id>
+    <link href="https://github.com/wkimeria/wordPath" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

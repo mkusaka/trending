@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-29T01:35:29Z</updated>
+  <updated>2024-03-01T01:36:20Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>byutrg/p5-mt2tbx</title>
-    <updated>2024-02-29T01:35:29Z</updated>
-    <id>tag:github.com,2024-02-29:/byutrg/p5-mt2tbx</id>
-    <link href="https://github.com/byutrg/p5-mt2tbx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Convert MultiTerm XML files to TBX&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;mt2tbx&lt;/h1&gt; &#xA;&lt;p&gt;Convert MultiTerm XML files to TBX.&lt;/p&gt; &#xA;&lt;p&gt;This project allows users to convert a MultiTerm (MT) XML file into TBX. It requires a JSON file to specify how individual elements will be rendered. If you built your MT termbase using a default template (&#34;bilingual glossary&#34; or &#34;multilingual termbase&#34;), using only default values, then we provide a mapping file and accompanying XCS file for you in the sample_mapping directory.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>jjatria/praat-updater</title>
-    <updated>2024-02-29T01:35:29Z</updated>
-    <id>tag:github.com,2024-02-29:/jjatria/praat-updater</id>
-    <link href="https://github.com/jjatria/praat-updater" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Perl script to update praat. This versions tested to work only on GNU/Linux.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;praat-updater&lt;/h1&gt; &#xA;&lt;p&gt;Perl script to update praat. This versions tested to work only on GNU/Linux.&lt;/p&gt;</summary>
+    <title>bestpractical/rt-extension-trailingsubjecttag</title>
+    <updated>2024-03-01T01:36:20Z</updated>
+    <id>tag:github.com,2024-03-01:/bestpractical/rt-extension-trailingsubjecttag</id>
+    <link href="https://github.com/bestpractical/rt-extension-trailingsubjecttag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;NAME RT-Extension-TrailingSubjectTag - Switch RT&#39;s ticket ID tag to the end of email Subjects&lt;/p&gt; &#xA;&lt;p&gt;INSTALLATION &#34;perl Makefile.PL&#34; &#34;make&#34; &#34;make install&#34; May need root permissions&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Edit your /opt/rt4/etc/RT_SiteConfig.pm&#xA;    Add this line:&#xA;&#xA;        Set(@Plugins, qw(RT::Extension::TrailingSubjectTag));&#xA;&#xA;    or add &#34;RT::Extension::TrailingSubjectTag&#34; to your existing @Plugins&#xA;    line.&#xA;&#xA;Clear your mason cache&#xA;        rm -rf /opt/rt4/var/mason_data/obj&#xA;&#xA;Restart your webserver&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;AUTHOR Thomas Sibley &lt;a href=&#34;mailto:trs@bestpractical.com&#34;&gt;trs@bestpractical.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;BUGS All bugs should be reported via email to &lt;a href=&#34;mailto:bug-RT-Extension-TrailingSubjectTag@rt.cpan.org&#34;&gt;bug-RT-Extension-TrailingSubjectTag@rt.cpan.org&lt;/a&gt; &lt;a href=&#34;mailto:bug-RT-Extension-TrailingSubjectTag@rt.cpan.org&#34;&gt;mailto:bug-RT-Extension-TrailingSubjectTag@rt.cpan.org&lt;/a&gt; or via the web at rt.cpan.org &amp;lt;&lt;a href=&#34;http://rt.cpan.org/Public/Dist/Display.html?Name=RT-Extension-TrailingS&#34;&gt;http://rt.cpan.org/Public/Dist/Display.html?Name=RT-Extension-TrailingS&lt;/a&gt; ubjectTag&amp;gt;.&lt;/p&gt; &#xA;&lt;p&gt;LICENSE AND COPYRIGHT This software is Copyright (c) 2013 by Best Practical Solutions&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;This is free software, licensed under:&#xA;&#xA;  The GNU General Public License, Version 2, June 1991&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

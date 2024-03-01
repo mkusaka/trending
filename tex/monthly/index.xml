@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TeX Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-01T02:13:17Z</updated>
+  <subtitle>Monthly Trending of TeX in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>acl-org/acl-style-files</title>
+    <updated>2024-03-01T02:13:17Z</updated>
+    <id>tag:github.com,2024-03-01:/acl-org/acl-style-files</id>
+    <link href="https://github.com/acl-org/acl-style-files" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official style files for papers submitted to venues of the Association for Computational Linguistics&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;*ACL Paper Styles&lt;/h1&gt; &#xA;&lt;p&gt;This directory contains the latest LaTeX and Word templates for *ACL conferences.&lt;/p&gt; &#xA;&lt;h2&gt;Instructions for authors&lt;/h2&gt; &#xA;&lt;p&gt;Paper submissions to *ACL conferences must use the official ACL style templates.&lt;/p&gt; &#xA;&lt;p&gt;The LaTeX style files are available&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;as an &lt;a href=&#34;https://www.overleaf.com/read/crtcwgxzjskr&#34;&gt;Overleaf template&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;in this repository, in the &lt;a href=&#34;https://github.com/acl-org/acl-style-files/raw/master/latex&#34;&gt;&lt;code&gt;latex&lt;/code&gt;&lt;/a&gt; subdirectory&lt;/li&gt; &#xA; &lt;li&gt;as a &lt;a href=&#34;https://github.com/acl-org/acl-style-files/archive/refs/heads/master.zip&#34;&gt;.zip file&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Please see &lt;a href=&#34;https://github.com/acl-org/acl-style-files/raw/master/acl_latex.tex&#34;&gt;&lt;code&gt;latex/acl_latex.tex&lt;/code&gt;&lt;/a&gt; for an example.&lt;/p&gt; &#xA;&lt;p&gt;The Microsoft Word template is available in this repository at &lt;a href=&#34;https://github.com/acl-org/acl-style-files/raw/master/word/acl.docx&#34;&gt;&lt;code&gt;word/acl.docx&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Please follow the paper formatting guidelines general to *ACL conferences:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://acl-org.github.io/ACLPUB/formatting.html&#34;&gt;Paper formatting guidelines&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Authors may not modify these style files or use templates designed for other conferences.&lt;/p&gt; &#xA;&lt;h2&gt;Instructions for publications chairs&lt;/h2&gt; &#xA;&lt;p&gt;To adapt the style files for your conference, please fork this repository and make necessary changes. Minimally, you&#39;ll need to update the name of the conference and rename the files.&lt;/p&gt; &#xA;&lt;p&gt;If you make improvements to the templates that should be propagated to future conferences, please submit a pull request. Thank you in advance!&lt;/p&gt; &#xA;&lt;p&gt;In older versions of the templates, authors were asked to fill in the START submission ID so that it would be stamped at the top of each page of the anonymized version. This is no longer needed, because it is now possible to do this stamping automatically within START. Currently, the way to do this is for the program chair to email &lt;a href=&#34;mailto:support@softconf.com&#34;&gt;support@softconf.com&lt;/a&gt; and request it.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>gadepall/ncert-signal</title>
+    <updated>2024-03-01T02:13:17Z</updated>
+    <id>tag:github.com,2024-03-01:/gadepall/ncert-signal</id>
+    <link href="https://github.com/gadepall/ncert-signal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Signal Processing fundamentals through ncert textbook problems&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ncert-signal&lt;/h1&gt; &#xA;&lt;p&gt;Signal Processing fundamentals through ncert textbook problems&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>gadepall/cbse-math</title>
+    <updated>2024-03-01T02:13:17Z</updated>
+    <id>tag:github.com,2024-03-01:/gadepall/cbse-math</id>
+    <link href="https://github.com/gadepall/cbse-math" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solved problems from CBSE math papers&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cbse-math&lt;/h1&gt; &#xA;&lt;p&gt;Solved problems from CBSE math papers&lt;/p&gt;</summary>
+  </entry>
+</feed>

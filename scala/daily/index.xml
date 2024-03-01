@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-29T01:38:42Z</updated>
+  <updated>2024-03-01T01:38:42Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>liuxd17thu/fpuv2</title>
+    <updated>2024-03-01T01:38:42Z</updated>
+    <id>tag:github.com,2024-03-01:/liuxd17thu/fpuv2</id>
+    <link href="https://github.com/liuxd17thu/fpuv2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FPU for Ventus GPGPU, version2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

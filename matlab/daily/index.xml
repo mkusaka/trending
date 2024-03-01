@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-29T01:33:11Z</updated>
+  <updated>2024-03-01T01:34:37Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>barapa/matrbm</title>
+    <updated>2024-03-01T01:34:37Z</updated>
+    <id>tag:github.com,2024-03-01:/barapa/matrbm</id>
+    <link href="https://github.com/barapa/matrbm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library by Andrej Karpathy for training RBMs. More can be found here http://karpathy.ca/portfolio/project540.php&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>101Hub/Matlab101</title>
+    <updated>2024-03-01T01:34:37Z</updated>
+    <id>tag:github.com,2024-03-01:/101Hub/Matlab101</id>
+    <link href="https://github.com/101Hub/Matlab101" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Matlab 学习指南、路线及笔记整理&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

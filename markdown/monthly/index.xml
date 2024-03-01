@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Markdown Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-01T02:07:06Z</updated>
+  <subtitle>Monthly Trending of Markdown in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JetBrains/intellij-sdk-docs</title>
+    <updated>2024-03-01T02:07:06Z</updated>
+    <id>tag:github.com,2024-03-01:/JetBrains/intellij-sdk-docs</id>
+    <link href="https://github.com/JetBrains/intellij-sdk-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IntelliJ SDK Platform Documentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

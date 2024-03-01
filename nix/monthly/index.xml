@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-01T02:08:09Z</updated>
+  <subtitle>Monthly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>librephoenix/nixos-config</title>
+    <updated>2024-03-01T02:08:09Z</updated>
+    <id>tag:github.com,2024-03-01:/librephoenix/nixos-config</id>
+    <link href="https://github.com/librephoenix/nixos-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix noob trying to build his system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Mic92/sops-nix</title>
+    <updated>2024-03-01T02:08:09Z</updated>
+    <id>tag:github.com,2024-03-01:/Mic92/sops-nix</id>
+    <link href="https://github.com/Mic92/sops-nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Atomic secret provisioning for NixOS based on sops&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pjones/plasma-manager</title>
+    <updated>2024-03-01T02:08:09Z</updated>
+    <id>tag:github.com,2024-03-01:/pjones/plasma-manager</id>
+    <link href="https://github.com/pjones/plasma-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage KDE Plasma with Home Manager&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

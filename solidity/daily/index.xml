@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-29T01:39:37Z</updated>
+  <updated>2024-03-01T01:39:21Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tiss-7/Mevbot</title>
-    <updated>2024-02-29T01:39:37Z</updated>
-    <id>tag:github.com,2024-02-29:/tiss-7/Mevbot</id>
-    <link href="https://github.com/tiss-7/Mevbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ethereum MEV Sandwich Bot: Use AI to Make Passively | MEV Bot Guide&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>erc7579/erc7579-implementation</title>
+    <updated>2024-03-01T01:39:21Z</updated>
+    <id>tag:github.com,2024-03-01:/erc7579/erc7579-implementation</id>
+    <link href="https://github.com/erc7579/erc7579-implementation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reference implementation for ERC-7579&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>axieinfinity/foundry-deployment-kit</title>
+    <updated>2024-03-01T01:39:21Z</updated>
+    <id>tag:github.com,2024-03-01:/axieinfinity/foundry-deployment-kit</id>
+    <link href="https://github.com/axieinfinity/foundry-deployment-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The collections of smart contracts that support writing foundry deployment scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>InternetMaximalism/plasma-next</title>
+    <updated>2024-03-01T01:39:21Z</updated>
+    <id>tag:github.com,2024-03-01:/InternetMaximalism/plasma-next</id>
+    <link href="https://github.com/InternetMaximalism/plasma-next" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Plasma Next&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

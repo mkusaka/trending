@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-29T01:25:26Z</updated>
+  <updated>2024-03-01T01:28:45Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jbromley/brownian</title>
+    <updated>2024-03-01T01:28:45Z</updated>
+    <id>tag:github.com,2024-03-01:/jbromley/brownian</id>
+    <link href="https://github.com/jbromley/brownian" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple Brownian motion simulation.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Brownian&lt;/p&gt; &#xA;&lt;p&gt;This project is a simple simulation of random motion. The user adds particles with the mouse buttons and can adjust the size and speed of new particles. This is meant as a benchmark to compare a Common Lisp/SDL game with versions in other languages.&lt;/p&gt;</summary>
+  </entry>
 </feed>

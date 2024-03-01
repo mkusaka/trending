@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-29T01:23:17Z</updated>
+  <updated>2024-03-01T01:26:59Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cojocaru-david/cojocarudavid.me</title>
-    <updated>2024-02-29T01:23:17Z</updated>
-    <id>tag:github.com,2024-02-29:/cojocaru-david/cojocarudavid.me</id>
-    <link href="https://github.com/cojocaru-david/cojocarudavid.me" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My portfolio built with Astro.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Punto-Coma/Punto-Coma</title>
-    <updated>2024-02-29T01:23:17Z</updated>
-    <id>tag:github.com,2024-02-29:/Punto-Coma/Punto-Coma</id>
-    <link href="https://github.com/Punto-Coma/Punto-Coma" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;¡Únete a la Comunidad Punto&amp;Coma en Discord y Potencia Tu Carrera en IT!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pyconau/2024-website</title>
-    <updated>2024-02-29T01:23:17Z</updated>
-    <id>tag:github.com,2024-02-29:/pyconau/2024-website</id>
-    <link href="https://github.com/pyconau/2024-website" rel="alternate"></link>
+    <title>michalina-graczyk/michalinqa.dev</title>
+    <updated>2024-03-01T01:26:59Z</updated>
+    <id>tag:github.com,2024-03-01:/michalina-graczyk/michalinqa.dev</id>
+    <link href="https://github.com/michalina-graczyk/michalinqa.dev" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elrax/elrax</title>
+    <updated>2024-03-01T01:26:59Z</updated>
+    <id>tag:github.com,2024-03-01:/elrax/elrax</id>
+    <link href="https://github.com/elrax/elrax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source video crowdfunding platform, powered by Cloudflare Workers and React Native&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

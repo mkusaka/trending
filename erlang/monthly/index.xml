@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-01T02:02:55Z</updated>
+  <subtitle>Monthly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Nypias/Groupy-Erlang</title>
+    <updated>2024-03-01T02:02:55Z</updated>
+    <id>tag:github.com,2024-03-01:/Nypias/Groupy-Erlang</id>
+    <link href="https://github.com/Nypias/Groupy-Erlang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A group membership service that provides atomic multicast (Academic project)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kivra/context</title>
+    <updated>2024-03-01T02:02:55Z</updated>
+    <id>tag:github.com,2024-03-01:/kivra/context</id>
+    <link href="https://github.com/kivra/context" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang Standard Context&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>processone/mysql</title>
+    <updated>2024-03-01T02:02:55Z</updated>
+    <id>tag:github.com,2024-03-01:/processone/mysql</id>
+    <link href="https://github.com/processone/mysql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang MySQL driver&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

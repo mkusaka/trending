@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-02-29T01:34:30Z</updated>
+  <updated>2024-03-01T01:35:38Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rbramley/GroovyMagFreemind</title>
+    <updated>2024-03-01T01:35:38Z</updated>
+    <id>tag:github.com,2024-03-01:/rbramley/GroovyMagFreemind</id>
+    <link href="https://github.com/rbramley/GroovyMagFreemind" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This code accompanies the &lt;strong&gt;Free your mind (map) with Groovy&lt;/strong&gt; article in the February 2013 edition of &lt;a href=&#34;http://www.groovymag.com&#34;&gt;GroovyMag&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;You will require &lt;a href=&#34;http://freemind.sourceforge.net/&#34;&gt;Freemind&lt;/a&gt; version 0.9 to be able to follow the examples.&lt;/p&gt; &#xA;&lt;p&gt;The first example in the article relates to Foo.mm and walk_and_count.groovy.&lt;/p&gt; &#xA;&lt;p&gt;The second example relates to Bar.mm and walk_and_sum_leaf_atts.groovy.&lt;/p&gt;</summary>
+  </entry>
 </feed>

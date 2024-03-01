@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown Languages Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-01T01:59:07Z</updated>
+  <subtitle>Monthly Trending of Unknown Languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Awesome-Windows/Awesome</title>
+    <updated>2024-03-01T01:59:07Z</updated>
+    <id>tag:github.com,2024-03-01:/Awesome-Windows/Awesome</id>
+    <link href="https://github.com/Awesome-Windows/Awesome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💻 🎉 An awesome &amp; curated list of best applications and tools for Windows.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>YueChan/Live</title>
+    <updated>2024-03-01T01:59:07Z</updated>
+    <id>tag:github.com,2024-03-01:/YueChan/Live</id>
+    <link href="https://github.com/YueChan/Live" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;收集于互联网的一些高清直播源。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Meroser/IPTV</title>
+    <updated>2024-03-01T01:59:07Z</updated>
+    <id>tag:github.com,2024-03-01:/Meroser/IPTV</id>
+    <link href="https://github.com/Meroser/IPTV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📺IPTV电视直播，IPv6源[全网可用]，完善的台标，几近完美的EPG节目预告🎈[强迫症福音]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
