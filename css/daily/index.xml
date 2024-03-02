@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-01T01:29:03Z</updated>
+  <updated>2024-03-02T01:23:18Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>diydiagnostics/DesktopTestRepository</title>
-    <updated>2024-03-01T01:29:03Z</updated>
-    <id>tag:github.com,2024-03-01:/diydiagnostics/DesktopTestRepository</id>
-    <link href="https://github.com/diydiagnostics/DesktopTestRepository" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;this is a test repository for practicing using GitHub Desktop&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Test repository for using the Github Desktop IDE setup.&lt;/h1&gt; &#xA;&lt;p&gt;The base code you will use is above (in this repository) and you will make your own copy of the code (fork the code). Then you can edit your fork without impacting the original copy.&lt;/p&gt;</summary>
+    <title>bluenex/baansuan_prannok</title>
+    <updated>2024-03-02T01:23:18Z</updated>
+    <id>tag:github.com,2024-03-02:/bluenex/baansuan_prannok</id>
+    <link href="https://github.com/bluenex/baansuan_prannok" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Baan Suan Prannok&lt;/h1&gt; &#xA;&lt;p&gt;Improvement of former apartment website &lt;a href=&#34;http://www.baansuanprannok.com/&#34;&gt;http://www.baansuanprannok.com/&lt;/a&gt; to the new one.&lt;/p&gt; &#xA;&lt;h2&gt;Members&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Tulakan Ruangrong&lt;/li&gt; &#xA; &lt;li&gt;Titipat Achakulvisut&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

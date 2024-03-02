@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-01T01:29:47Z</updated>
+  <updated>2024-03-02T01:23:55Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>getindata/hive-metastore</title>
-    <updated>2024-03-01T01:29:47Z</updated>
-    <id>tag:github.com,2024-03-01:/getindata/hive-metastore</id>
-    <link href="https://github.com/getindata/hive-metastore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hive-metastore helm chart&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hive-metastore&lt;/h1&gt; &#xA;&lt;p&gt;Hive-metastore helm chart&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Hive metastore requires Postgres DB. It can be configured with values e.g.:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;postgres:&#xA;  host: &#34;postgresql&#34;&#xA;  port: 5432&#xA;  db: metastore&#xA;  username: admin&#xA;  password: pass&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The docker image is published on github repository (ghcr.io). Login to github repository to pull image:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker login ghcr.io -u [github_username]&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;To install hive-metastore:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;helm repo add getindata-hms https://getindata.github.io/hive-metastore&#xA;helm install hms getindata-hms/hive-metastore&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-01T01:38:51Z</updated>
+  <updated>2024-03-02T01:32:40Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rayexbomx/bancodelapeseta-frontend</title>
-    <updated>2024-03-01T01:38:51Z</updated>
-    <id>tag:github.com,2024-03-01:/rayexbomx/bancodelapeseta-frontend</id>
-    <link href="https://github.com/rayexbomx/bancodelapeseta-frontend" rel="alternate"></link>
+    <title>anunna/blackarch-wiki</title>
+    <updated>2024-03-02T01:32:40Z</updated>
+    <id>tag:github.com,2024-03-02:/anunna/blackarch-wiki</id>
+    <link href="https://github.com/anunna/blackarch-wiki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official BlackArch Linux Wiki&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>adobe/aem-forms-theme-canvas</title>
+    <updated>2024-03-02T01:32:40Z</updated>
+    <id>tag:github.com,2024-03-02:/adobe/aem-forms-theme-canvas</id>
+    <link href="https://github.com/adobe/aem-forms-theme-canvas" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TampaDevs/tampadevs</title>
-    <updated>2024-03-01T01:38:51Z</updated>
-    <id>tag:github.com,2024-03-01:/TampaDevs/tampadevs</id>
-    <link href="https://github.com/TampaDevs/tampadevs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Tampa Devs website, built on Eleventy.js&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hao-ai-lab/dsc204a-w24</title>
-    <updated>2024-03-01T01:38:51Z</updated>
-    <id>tag:github.com,2024-03-01:/hao-ai-lab/dsc204a-w24</id>
-    <link href="https://github.com/hao-ai-lab/dsc204a-w24" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Website for DSC 204a, Winter 2024&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

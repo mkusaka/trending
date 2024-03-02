@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-01T01:26:45Z</updated>
+  <updated>2024-03-02T01:21:23Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>amarskulkarni/EGit-InterOrgComparer</title>
-    <updated>2024-03-01T01:26:45Z</updated>
-    <id>tag:github.com,2024-03-01:/amarskulkarni/EGit-InterOrgComparer</id>
-    <link href="https://github.com/amarskulkarni/EGit-InterOrgComparer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
