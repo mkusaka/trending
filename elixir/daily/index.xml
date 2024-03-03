@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-02T01:24:27Z</updated>
+  <updated>2024-03-03T01:28:05Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>appcues/exconstructor</title>
-    <updated>2024-03-02T01:24:27Z</updated>
-    <id>tag:github.com,2024-03-02:/appcues/exconstructor</id>
-    <link href="https://github.com/appcues/exconstructor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Elixir library for generating struct constructors that handle external data with ease.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dealloc/helldivers2-api</title>
-    <updated>2024-03-02T01:24:27Z</updated>
-    <id>tag:github.com,2024-03-02:/dealloc/helldivers2-api</id>
-    <link href="https://github.com/dealloc/helldivers2-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A community driven API for Helldivers 2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thmsmlr/kino_livereload</title>
-    <updated>2024-03-02T01:24:27Z</updated>
-    <id>tag:github.com,2024-03-02:/thmsmlr/kino_livereload</id>
-    <link href="https://github.com/thmsmlr/kino_livereload" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Live reload Livebook cells when underlying modules change&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

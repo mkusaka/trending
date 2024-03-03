@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-02T01:23:36Z</updated>
+  <updated>2024-03-03T01:27:11Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nikhil7299/smart_home</title>
+    <updated>2024-03-03T01:27:11Z</updated>
+    <id>tag:github.com,2024-03-03:/nikhil7299/smart_home</id>
+    <link href="https://github.com/nikhil7299/smart_home" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;smart_home&lt;/h1&gt; &#xA;&lt;p&gt;A new Flutter project.&lt;/p&gt;</summary>
+  </entry>
 </feed>

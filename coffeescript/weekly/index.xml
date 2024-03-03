@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-03T01:41:44Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>machine-cloud/mc-device</title>
+    <updated>2024-03-03T01:41:44Z</updated>
+    <id>tag:github.com,2024-03-03:/machine-cloud/mc-device</id>
+    <link href="https://github.com/machine-cloud/mc-device" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Raspberry PI Device Simulator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>informjs/inform-plugin-twilio-sms</title>
+    <updated>2024-03-03T01:41:44Z</updated>
+    <id>tag:github.com,2024-03-03:/informjs/inform-plugin-twilio-sms</id>
+    <link href="https://github.com/informjs/inform-plugin-twilio-sms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leverage the power of Twilio to send SMS notifications over InformJS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>younglaker/Escort-form-validation</title>
+    <updated>2024-03-03T01:41:44Z</updated>
+    <id>tag:github.com,2024-03-03:/younglaker/Escort-form-validation</id>
+    <link href="https://github.com/younglaker/Escort-form-validation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A JavaScript、CoffeeScript form validation plugin for Bootstrap2/3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

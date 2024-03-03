@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-02T01:33:11Z</updated>
+  <updated>2024-03-03T01:37:02Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LaqiraProtocol/Laqira-Collectibles-and-NFT-Marketplace</title>
-    <updated>2024-03-02T01:33:11Z</updated>
-    <id>tag:github.com,2024-03-02:/LaqiraProtocol/Laqira-Collectibles-and-NFT-Marketplace</id>
-    <link href="https://github.com/LaqiraProtocol/Laqira-Collectibles-and-NFT-Marketplace" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JerryFireman/poolmanager</title>
+    <updated>2024-03-03T01:37:02Z</updated>
+    <id>tag:github.com,2024-03-03:/JerryFireman/poolmanager</id>
+    <link href="https://github.com/JerryFireman/poolmanager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creates and manages Balancer smart pools&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LaqiraProtocol/LaqiraTokenSwap</title>
-    <updated>2024-03-02T01:33:11Z</updated>
-    <id>tag:github.com,2024-03-02:/LaqiraProtocol/LaqiraTokenSwap</id>
-    <link href="https://github.com/LaqiraProtocol/LaqiraTokenSwap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LaqiraProtocol/LaqiraTimeLockWallet</title>
-    <updated>2024-03-02T01:33:11Z</updated>
-    <id>tag:github.com,2024-03-02:/LaqiraProtocol/LaqiraTimeLockWallet</id>
-    <link href="https://github.com/LaqiraProtocol/LaqiraTimeLockWallet" rel="alternate"></link>
+    <title>NFTX-project/nftx-protocol-v3</title>
+    <updated>2024-03-03T01:37:02Z</updated>
+    <id>tag:github.com,2024-03-03:/NFTX-project/nftx-protocol-v3</id>
+    <link href="https://github.com/NFTX-project/nftx-protocol-v3" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

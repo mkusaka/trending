@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-03T01:40:27Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cgohlke/talib-build</title>
+    <updated>2024-03-03T01:40:27Z</updated>
+    <id>tag:github.com,2024-03-03:/cgohlke/talib-build</id>
+    <link href="https://github.com/cgohlke/talib-build" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build TA-Lib wheels for Windows&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Zuntan03/EasySdxlWebUi</title>
+    <updated>2024-03-03T01:40:27Z</updated>
+    <id>tag:github.com,2024-03-03:/Zuntan03/EasySdxlWebUi</id>
+    <link href="https://github.com/Zuntan03/EasySdxlWebUi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ANIMAGINE XL 3.0 を Stable Diffusion web UI で使えるようにする簡単なインストーラーです。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bbggname/dedic-top</title>
+    <updated>2024-03-03T01:40:27Z</updated>
+    <id>tag:github.com,2024-03-03:/bbggname/dedic-top</id>
+    <link href="https://github.com/bbggname/dedic-top" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

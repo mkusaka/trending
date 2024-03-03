@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-02T01:34:49Z</updated>
+  <updated>2024-03-03T01:38:35Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Puja0708/Library-Management-System</title>
-    <updated>2024-03-02T01:34:49Z</updated>
-    <id>tag:github.com,2024-03-02:/Puja0708/Library-Management-System</id>
-    <link href="https://github.com/Puja0708/Library-Management-System" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Library Management System,made as our third semester project in college!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Super169/ibuka</title>
+    <updated>2024-03-03T01:38:35Z</updated>
+    <id>tag:github.com,2024-03-03:/Super169/ibuka</id>
+    <link href="https://github.com/Super169/ibuka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows based ibuka client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

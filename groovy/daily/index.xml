@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-02T01:25:47Z</updated>
+  <updated>2024-03-03T01:29:36Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SeenDigital/grails-pretty-numbers</title>
-    <updated>2024-03-02T01:25:47Z</updated>
-    <id>tag:github.com,2024-03-02:/SeenDigital/grails-pretty-numbers</id>
-    <link href="https://github.com/SeenDigital/grails-pretty-numbers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>liquibase/liquibase-neo4j</title>
-    <updated>2024-03-02T01:25:47Z</updated>
-    <id>tag:github.com,2024-03-02:/liquibase/liquibase-neo4j</id>
-    <link href="https://github.com/liquibase/liquibase-neo4j" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Neo4j extension for Liquibase&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>djangofan/GradleProps</title>
+    <updated>2024-03-03T01:29:36Z</updated>
+    <id>tag:github.com,2024-03-03:/djangofan/GradleProps</id>
+    <link href="https://github.com/djangofan/GradleProps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Test of gradle system properties.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

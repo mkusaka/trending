@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-02T01:20:51Z</updated>
+  <updated>2024-03-03T01:24:10Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>layerdiffusion/LayerDiffusion</title>
-    <updated>2024-03-02T01:20:51Z</updated>
-    <id>tag:github.com,2024-03-02:/layerdiffusion/LayerDiffusion</id>
-    <link href="https://github.com/layerdiffusion/LayerDiffusion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Transparent Image Layer Diffusion using Latent Transparency&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>memorysafety/river</title>
+    <updated>2024-03-03T01:24:10Z</updated>
+    <id>tag:github.com,2024-03-03:/memorysafety/river</id>
+    <link href="https://github.com/memorysafety/river" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>amusi/CVPR2024-Papers-with-Code</title>
-    <updated>2024-03-02T01:20:51Z</updated>
-    <id>tag:github.com,2024-03-02:/amusi/CVPR2024-Papers-with-Code</id>
-    <link href="https://github.com/amusi/CVPR2024-Papers-with-Code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CVPR 2024 论文和开源项目合集&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lichao-sun/SoraReview</title>
+    <updated>2024-03-03T01:24:10Z</updated>
+    <id>tag:github.com,2024-03-03:/lichao-sun/SoraReview</id>
+    <link href="https://github.com/lichao-sun/SoraReview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official GitHub page for the review paper &#34;Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>blast-io/deployment</title>
-    <updated>2024-03-02T01:20:51Z</updated>
-    <id>tag:github.com,2024-03-02:/blast-io/deployment</id>
-    <link href="https://github.com/blast-io/deployment" rel="alternate"></link>
+    <title>h9-tect/Arabic_NLP_resources</title>
+    <updated>2024-03-03T01:24:10Z</updated>
+    <id>tag:github.com,2024-03-03:/h9-tect/Arabic_NLP_resources</id>
+    <link href="https://github.com/h9-tect/Arabic_NLP_resources" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
