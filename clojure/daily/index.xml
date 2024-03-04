@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-03T01:26:30Z</updated>
+  <updated>2024-03-04T01:25:32Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>phronmophobic/cloogle</title>
+    <updated>2024-03-04T01:25:32Z</updated>
+    <id>tag:github.com,2024-03-04:/phronmophobic/cloogle</id>
+    <link href="https://github.com/phronmophobic/cloogle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>onionpancakes/chassis</title>
+    <updated>2024-03-04T01:25:32Z</updated>
+    <id>tag:github.com,2024-03-04:/onionpancakes/chassis</id>
+    <link href="https://github.com/onionpancakes/chassis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast HTML5 serialization for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>paintparty/fireworks</title>
+    <updated>2024-03-04T01:25:32Z</updated>
+    <id>tag:github.com,2024-03-04:/paintparty/fireworks</id>
+    <link href="https://github.com/paintparty/fireworks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fireworks is a color printer for Clojure, ClojureScript, and Babashka.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

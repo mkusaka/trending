@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-03T01:24:10Z</updated>
+  <updated>2024-03-04T01:23:33Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>memorysafety/river</title>
-    <updated>2024-03-03T01:24:10Z</updated>
-    <id>tag:github.com,2024-03-03:/memorysafety/river</id>
-    <link href="https://github.com/memorysafety/river" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lmmlzn/Awesome-LLMs-Datasets</title>
+    <updated>2024-03-04T01:23:33Z</updated>
+    <id>tag:github.com,2024-03-04:/lmmlzn/Awesome-LLMs-Datasets</id>
+    <link href="https://github.com/lmmlzn/Awesome-LLMs-Datasets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Summarize existing representative LLMs text datasets.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lichao-sun/SoraReview</title>
-    <updated>2024-03-03T01:24:10Z</updated>
-    <id>tag:github.com,2024-03-03:/lichao-sun/SoraReview</id>
-    <link href="https://github.com/lichao-sun/SoraReview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official GitHub page for the review paper &#34;Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>h9-tect/Arabic_NLP_resources</title>
-    <updated>2024-03-03T01:24:10Z</updated>
-    <id>tag:github.com,2024-03-03:/h9-tect/Arabic_NLP_resources</id>
-    <link href="https://github.com/h9-tect/Arabic_NLP_resources" rel="alternate"></link>
+    <title>gg-daddy/ebooks</title>
+    <updated>2024-03-04T01:23:33Z</updated>
+    <id>tag:github.com,2024-03-04:/gg-daddy/ebooks</id>
+    <link href="https://github.com/gg-daddy/ebooks" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-03T01:27:11Z</updated>
+  <updated>2024-03-04T01:26:19Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nikhil7299/smart_home</title>
-    <updated>2024-03-03T01:27:11Z</updated>
-    <id>tag:github.com,2024-03-03:/nikhil7299/smart_home</id>
-    <link href="https://github.com/nikhil7299/smart_home" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;smart_home&lt;/h1&gt; &#xA;&lt;p&gt;A new Flutter project.&lt;/p&gt;</summary>
+    <title>KabaDH/belks_yt_explorer</title>
+    <updated>2024-03-04T01:26:19Z</updated>
+    <id>tag:github.com,2024-03-04:/KabaDH/belks_yt_explorer</id>
+    <link href="https://github.com/KabaDH/belks_yt_explorer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;yes.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;A minimalistic application to browse youtube videos. Application developed with YouTube (API services)&lt;/p&gt; &#xA;&lt;p&gt;Promoted modules: flutter_native_splash, youtube_player_flutter, shared_preferences, url_launcher, flutter_fgbg, android_window, pod_player Promoted widgets: APIservice (async http), Spacer, cascade actions(...), CustomScrollView, Divider&lt;/p&gt; &#xA;&lt;p&gt;============================================================================== MIT License&lt;/p&gt; &#xA;&lt;p&gt;Copyright (c) [2022] [KabaDH]&lt;/p&gt; &#xA;&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &#34;Software&#34;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;/p&gt; &#xA;&lt;p&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;/p&gt; &#xA;&lt;p&gt;THE SOFTWARE IS PROVIDED &#34;AS IS&#34;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;</summary>
   </entry>
 </feed>

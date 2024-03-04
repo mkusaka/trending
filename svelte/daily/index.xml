@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-03T01:37:25Z</updated>
+  <updated>2024-03-04T01:36:35Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Levminer/authme</title>
-    <updated>2024-03-03T01:37:25Z</updated>
-    <id>tag:github.com,2024-03-03:/Levminer/authme</id>
-    <link href="https://github.com/Levminer/authme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple cross-platform two-factor (2FA) authenticator app for desktop.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ekzhang/ekzhang.github.io</title>
+    <updated>2024-03-04T01:36:35Z</updated>
+    <id>tag:github.com,2024-03-04:/ekzhang/ekzhang.github.io</id>
+    <link href="https://github.com/ekzhang/ekzhang.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code for my personal website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

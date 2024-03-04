@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-03T01:28:10Z</updated>
+  <updated>2024-03-04T01:27:23Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>manateelazycat/trekker</title>
-    <updated>2024-03-03T01:28:10Z</updated>
-    <id>tag:github.com,2024-03-03:/manateelazycat/trekker</id>
-    <link href="https://github.com/manateelazycat/trekker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A hackable browser for Emacs&lt;/p&gt;&lt;hr&gt;&lt;h3&gt;Trekker&lt;/h3&gt; &#xA;&lt;p&gt;Trekker 是一个基于 PyQt 的 Emacs 浏览器， 核心代码来源于 &lt;a href=&#34;https://github.com/emacs-eaf/emacs-application-framework/&#34;&gt;EAF&lt;/a&gt;, Trekker 的设计目标如下：&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;全功能浏览器： 支持最新的浏览器技术， 而不仅仅只是纯文本浏览器&lt;/li&gt; &#xA; &lt;li&gt;高性能： 基于多进程和多线程技术开发， 多线程保证不会卡住 Emacs， 多进程可以充分利用多核性能， 避免打开太多网页后， 网页渲染速度降低， 这也是和 eaf-browser 最主要的区别&lt;/li&gt; &#xA; &lt;li&gt;可扩展性： 可以通过 Qt、 Python 和 JavaScript 三种技术来扩展浏览器的功能&lt;/li&gt; &#xA; &lt;li&gt;插件体系： 用户可以选择加载的 JS 插件， 来自由的平衡速度和功能&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;安装&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;安装 Python 依赖: epc, sexpdata, six: &lt;code&gt;pip3 install epc sexpdata six&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;用 &lt;code&gt;git clone&lt;/code&gt; 下载此仓库， 并替换下面配置中的 load-path 路径&lt;/li&gt; &#xA; &lt;li&gt;把下面代码加入到你的配置文件 ~/.emacs 中：&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;(add-to-list &#39;load-path &#34;&amp;lt;path-to-trekker&amp;gt;&#34;)&#xA;&#xA;(require &#39;trekker)&#xA;(trekker-enable)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;为什么叫 Trekker 这个名字？&lt;/h3&gt; &#xA;&lt;p&gt;在很多 Emacser 眼中我是异教徒， 很多 Emacser 追求 &#34;All in Emacs&#34;, 但是却不切实际的要求所有代码都需要用 Elisp 来实现， 当我实现了 EAF 和 lsp-bridge 以后， 我已经实现了 &#34;All in Emacs&#34;, 而且我认为多语言扩展 Emacs 是一种非常务实， 而且未来无限的道路， 因为它不需要修改 Emacs 代码就可以实现多线程编程和多媒体功能。&lt;/p&gt; &#xA;&lt;p&gt;这条路我已经走了很多年， 但是参与开发的 Emacser 人数依然不多， 所以， 我把新的浏览器取名叫作 Trekker, 寓意旅行者、 徒步者， 开拓更多的可能性。&lt;/p&gt; &#xA;&lt;h3&gt;为什么用 PyQt 去实现？&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;首先， 用 Qt 可以很好的在 Linux X11 和 Windows 平台实现跨进程嵌入和多实例镜像， 体验更好一点&lt;/li&gt; &#xA; &lt;li&gt;其二， Qt 现代语言绑定中， 只有 Python 绑定比较完备， Rust 和 Golang 等性能更高的语言， 绑定都非常不成熟&lt;/li&gt; &#xA; &lt;li&gt;最后， 目前只有 Chromium 内核的引擎比较快， 有 CEF 和 QtWebEngine 两种方式， 而 QtWebEngine 这种方式和 Qt 结合更好一点&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+    <title>mickeynp/html-ts-mode</title>
+    <updated>2024-03-04T01:27:23Z</updated>
+    <id>tag:github.com,2024-03-04:/mickeynp/html-ts-mode</id>
+    <link href="https://github.com/mickeynp/html-ts-mode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tree-sitter enabled HTML support for Emacs&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;================================= HTML Tree-sitter mode for Emacs&lt;/h1&gt; &#xA;&lt;p&gt;A simple tree-sitter major mode for HTML and Emacs 29.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: Please make sure you&#39;re using the tagged release &lt;code&gt;v0.20.1&lt;/code&gt;. &lt;code&gt;Direct link to it here &amp;lt;https://github.com/tree-sitter/tree-sitter-html/releases/tag/v0.20.1&amp;gt;&lt;/code&gt;__. The grammar has changed substantially in the last couple of months, and the code in this repository reflects that.&lt;/p&gt; &#xA;&lt;p&gt;It&#39;s a meant to demonstrate -- though it works well -- how to write your own tree-sitter-enabled major modes.&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;My article on writing this major mode &amp;lt;https://www.masteringemacs.org/article/lets-write-a-treesitter-major-mode&amp;gt;&lt;/code&gt;__ should help you write your own tree-sitter enabled major mode.&lt;/p&gt;</summary>
   </entry>
 </feed>

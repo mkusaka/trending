@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-03T01:31:37Z</updated>
+  <updated>2024-03-04T01:30:55Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JADekker/LeanBourbaki</title>
+    <updated>2024-03-04T01:30:55Z</updated>
+    <id>tag:github.com,2024-03-04:/JADekker/LeanBourbaki</id>
+    <link href="https://github.com/JADekker/LeanBourbaki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Formalisation of N. Bourbaki, Topologie Générale in Lean4.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hhu-adam/lean-i18n</title>
+    <updated>2024-03-04T01:30:55Z</updated>
+    <id>tag:github.com,2024-03-04:/hhu-adam/lean-i18n</id>
+    <link href="https://github.com/hhu-adam/lean-i18n" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;i18n library for Lean.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-03T01:25:02Z</updated>
+  <updated>2024-03-04T01:24:16Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tcdw/koi</title>
+    <updated>2024-03-04T01:24:16Z</updated>
+    <id>tag:github.com,2024-03-04:/tcdw/koi</id>
+    <link href="https://github.com/tcdw/koi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;为我不存在的女儿制作的 Astro 静态博客模板&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

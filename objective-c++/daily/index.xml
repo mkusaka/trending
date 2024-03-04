@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-03T01:33:29Z</updated>
+  <updated>2024-03-04T01:32:46Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Cannathea/afc2d-arm64</title>
-    <updated>2024-03-03T01:33:29Z</updated>
-    <id>tag:github.com,2024-03-03:/Cannathea/afc2d-arm64</id>
-    <link href="https://github.com/Cannathea/afc2d-arm64" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
