@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-04T01:36:35Z</updated>
+  <updated>2024-03-05T01:34:42Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ekzhang/ekzhang.github.io</title>
-    <updated>2024-03-04T01:36:35Z</updated>
-    <id>tag:github.com,2024-03-04:/ekzhang/ekzhang.github.io</id>
-    <link href="https://github.com/ekzhang/ekzhang.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code for my personal website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>your-papa/obsidian-Smart2Brain</title>
+    <updated>2024-03-05T01:34:42Z</updated>
+    <id>tag:github.com,2024-03-05:/your-papa/obsidian-Smart2Brain</id>
+    <link href="https://github.com/your-papa/obsidian-Smart2Brain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interact with your privacy focused assistant, leveraging Ollama or OpenAI, making your second brain even smarter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LynanBreeze/simple-resume</title>
+    <updated>2024-03-05T01:34:42Z</updated>
+    <id>tag:github.com,2024-03-05:/LynanBreeze/simple-resume</id>
+    <link href="https://github.com/LynanBreeze/simple-resume" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generate your own responsive resume page.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

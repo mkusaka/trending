@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-04T01:23:33Z</updated>
+  <updated>2024-03-05T01:21:44Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lmmlzn/Awesome-LLMs-Datasets</title>
-    <updated>2024-03-04T01:23:33Z</updated>
-    <id>tag:github.com,2024-03-04:/lmmlzn/Awesome-LLMs-Datasets</id>
-    <link href="https://github.com/lmmlzn/Awesome-LLMs-Datasets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Summarize existing representative LLMs text datasets.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>merill/awesome-entra</title>
+    <updated>2024-03-05T01:21:44Z</updated>
+    <id>tag:github.com,2024-03-05:/merill/awesome-entra</id>
+    <link href="https://github.com/merill/awesome-entra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;😎 Awesome list of all things related to Microsoft Entra&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gg-daddy/ebooks</title>
-    <updated>2024-03-04T01:23:33Z</updated>
-    <id>tag:github.com,2024-03-04:/gg-daddy/ebooks</id>
-    <link href="https://github.com/gg-daddy/ebooks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ItIsMeCall911/Awesome-Telegram-OSINT</title>
+    <updated>2024-03-05T01:21:44Z</updated>
+    <id>tag:github.com,2024-03-05:/ItIsMeCall911/Awesome-Telegram-OSINT</id>
+    <link href="https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 A Curated List of Awesome Telegram OSINT Tools, Sites &amp; Resources&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>daveshap/David_Shapiro_Reading_List</title>
+    <updated>2024-03-05T01:21:44Z</updated>
+    <id>tag:github.com,2024-03-05:/daveshap/David_Shapiro_Reading_List</id>
+    <link href="https://github.com/daveshap/David_Shapiro_Reading_List" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public repo of the most influential books I&#39;ve read&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

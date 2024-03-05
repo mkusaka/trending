@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-04T01:25:38Z</updated>
+  <updated>2024-03-05T01:23:57Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AndersDJohnson/eyes-cli</title>
-    <updated>2024-03-04T01:25:38Z</updated>
-    <id>tag:github.com,2024-03-04:/AndersDJohnson/eyes-cli</id>
-    <link href="https://github.com/AndersDJohnson/eyes-cli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CLI JSON inspector with eyes.js&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Clever/understream</title>
+    <updated>2024-03-05T01:23:57Z</updated>
+    <id>tag:github.com,2024-03-05:/Clever/understream</id>
+    <link href="https://github.com/Clever/understream" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;stream all the things&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

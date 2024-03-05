@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-04T01:24:18Z</updated>
+  <updated>2024-03-05T01:22:29Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wexi/amforth-shadow</title>
-    <updated>2024-03-04T01:24:18Z</updated>
-    <id>tag:github.com,2024-03-04:/wexi/amforth-shadow</id>
-    <link href="https://github.com/wexi/amforth-shadow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Forth system for Atmel AVR microcontrollers. See:&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>netspooky/golfclub</title>
+    <updated>2024-03-05T01:22:29Z</updated>
+    <id>tag:github.com,2024-03-05:/netspooky/golfclub</id>
+    <link href="https://github.com/netspooky/golfclub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Binary Golf Examples and Resources&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dragonbytes/Apple2CoCo</title>
+    <updated>2024-03-05T01:22:29Z</updated>
+    <id>tag:github.com,2024-03-05:/dragonbytes/Apple2CoCo</id>
+    <link href="https://github.com/dragonbytes/Apple2CoCo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple Apple II emulator written for the Tandy Color Computer 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

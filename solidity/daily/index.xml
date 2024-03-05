@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-04T01:36:13Z</updated>
+  <updated>2024-03-05T01:34:19Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tel003/Mevbot</title>
-    <updated>2024-03-04T01:36:13Z</updated>
-    <id>tag:github.com,2024-03-04:/tel003/Mevbot</id>
-    <link href="https://github.com/tel003/Mevbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-Source .eth .sol MEV Bot Framework: Harnessing AI for Enhanced Ethereum Network (Sandwich/Frontrun)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ora-io/opml</title>
+    <updated>2024-03-05T01:34:19Z</updated>
+    <id>tag:github.com,2024-03-05:/ora-io/opml</id>
+    <link href="https://github.com/ora-io/opml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OPML: OPtimistic Machine Learning on Blockchain&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>coinbase/smart-wallet</title>
-    <updated>2024-03-04T01:36:13Z</updated>
-    <id>tag:github.com,2024-03-04:/coinbase/smart-wallet</id>
-    <link href="https://github.com/coinbase/smart-wallet" rel="alternate"></link>
+    <title>SocketDotTech/command-center</title>
+    <updated>2024-03-05T01:34:19Z</updated>
+    <id>tag:github.com,2024-03-05:/SocketDotTech/command-center</id>
+    <link href="https://github.com/SocketDotTech/command-center" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>base-org/webauthn-sol</title>
-    <updated>2024-03-04T01:36:13Z</updated>
-    <id>tag:github.com,2024-03-04:/base-org/webauthn-sol</id>
-    <link href="https://github.com/base-org/webauthn-sol" rel="alternate"></link>
+    <title>SocketDotTech/socket-DL</title>
+    <updated>2024-03-05T01:34:19Z</updated>
+    <id>tag:github.com,2024-03-05:/SocketDotTech/socket-DL</id>
+    <link href="https://github.com/SocketDotTech/socket-DL" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

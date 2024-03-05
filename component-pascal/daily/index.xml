@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Component Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-04T01:25:46Z</updated>
+  <updated>2024-03-05T01:24:04Z</updated>
   <subtitle>Daily Trending of Component Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ringmaster/trayrestore</title>
-    <updated>2024-03-04T01:25:46Z</updated>
-    <id>tag:github.com,2024-03-04:/ringmaster/trayrestore</id>
-    <link href="https://github.com/ringmaster/trayrestore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A small command-line application that restores tray icons after Windows Explorer crashes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

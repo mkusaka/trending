@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-04T01:33:37Z</updated>
+  <updated>2024-03-05T01:31:37Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TyCoding/lang-sora</title>
-    <updated>2024-03-04T01:33:37Z</updated>
-    <id>tag:github.com,2024-03-04:/TyCoding/lang-sora</id>
-    <link href="https://github.com/TyCoding/lang-sora" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sora AI Video Preview Case Sora AI 视频模版项目，React全栈快速部署&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kurtosis-tech/awesome-kurtosis</title>
-    <updated>2024-03-04T01:33:37Z</updated>
-    <id>tag:github.com,2024-03-04:/kurtosis-tech/awesome-kurtosis</id>
-    <link href="https://github.com/kurtosis-tech/awesome-kurtosis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official Awesome Kurtosis page. Code examples using Kurtosis&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
