@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-05T01:27:03Z</updated>
+  <updated>2024-03-06T01:28:12Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DanielG/hipo</title>
+    <updated>2024-03-06T01:28:12Z</updated>
+    <id>tag:github.com,2024-03-06:/DanielG/hipo</id>
+    <link href="https://github.com/DanielG/hipo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hipo&lt;/h1&gt; &#xA;&lt;p&gt;Parser of a mad file format for keeping track of Hostname, MAC, IP mappings, private subnet allocation and domain names.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>YoshikuniJujo/x11-xim_haskell</title>
+    <updated>2024-03-06T01:28:12Z</updated>
+    <id>tag:github.com,2024-03-06:/YoshikuniJujo/x11-xim_haskell</id>
+    <link href="https://github.com/YoshikuniJujo/x11-xim_haskell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;haskell library to use xim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

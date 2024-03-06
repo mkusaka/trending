@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-05T01:29:13Z</updated>
+  <updated>2024-03-06T01:30:33Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>34306/watched</title>
-    <updated>2024-03-05T01:29:13Z</updated>
-    <id>tag:github.com,2024-03-05:/34306/watched</id>
-    <link href="https://github.com/34306/watched" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open source tweak that help end-users can paired your own Apple Watch on new watchOS version with old iOS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-05T01:27:02Z</updated>
+  <updated>2024-03-06T01:28:12Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kasturenishant/Jenkins-Terraform</title>
-    <updated>2024-03-05T01:27:02Z</updated>
-    <id>tag:github.com,2024-03-05:/kasturenishant/Jenkins-Terraform</id>
-    <link href="https://github.com/kasturenishant/Jenkins-Terraform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-google-modules/terraform-google-bootstrap</title>
-    <updated>2024-03-05T01:27:02Z</updated>
-    <id>tag:github.com,2024-03-05:/terraform-google-modules/terraform-google-bootstrap</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-bootstrap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstraps Terraform usage and related CI/CD in a new Google Cloud organization&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

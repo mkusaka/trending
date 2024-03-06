@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-05T01:28:31Z</updated>
+  <updated>2024-03-06T01:29:48Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LilithHafner/Chairmarks.jl</title>
+    <updated>2024-03-06T01:29:48Z</updated>
+    <id>tag:github.com,2024-03-06:/LilithHafner/Chairmarks.jl</id>
+    <link href="https://github.com/LilithHafner/Chairmarks.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Benchmarks with back support&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Deltares/Ribasim</title>
+    <updated>2024-03-06T01:29:48Z</updated>
+    <id>tag:github.com,2024-03-06:/Deltares/Ribasim</id>
+    <link href="https://github.com/Deltares/Ribasim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Water resources modeling&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/DataInterpolations.jl</title>
+    <updated>2024-03-06T01:29:48Z</updated>
+    <id>tag:github.com,2024-03-06:/SciML/DataInterpolations.jl</id>
+    <link href="https://github.com/SciML/DataInterpolations.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library of data interpolation and smoothing functions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-05T01:29:34Z</updated>
+  <updated>2024-03-06T01:30:57Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>masebb/openwrt-WAB-I1750-PS</title>
-    <updated>2024-03-05T01:29:34Z</updated>
-    <id>tag:github.com,2024-03-05:/masebb/openwrt-WAB-I1750-PS</id>
-    <link href="https://github.com/masebb/openwrt-WAB-I1750-PS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ustclug/Linux101-docs</title>
+    <updated>2024-03-06T01:30:57Z</updated>
+    <id>tag:github.com,2024-03-06:/ustclug/Linux101-docs</id>
+    <link href="https://github.com/ustclug/Linux101-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Linux 101 学生课程教材与讲义&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>instill-ai/deprecated-core</title>
+    <updated>2024-03-06T01:30:57Z</updated>
+    <id>tag:github.com,2024-03-06:/instill-ai/deprecated-core</id>
+    <link href="https://github.com/instill-ai/deprecated-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔮 Instill Core contains components for supporting Instill VDP and Instill Model&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

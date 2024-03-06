@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-05T01:22:44Z</updated>
+  <updated>2024-03-06T01:23:26Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>whiteblackgang12/RO-Exec-Roblox</title>
-    <updated>2024-03-05T01:22:44Z</updated>
-    <id>tag:github.com,2024-03-05:/whiteblackgang12/RO-Exec-Roblox</id>
-    <link href="https://github.com/whiteblackgang12/RO-Exec-Roblox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;No need to pay | creds @20XX.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

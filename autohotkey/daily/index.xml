@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-05T01:22:36Z</updated>
+  <updated>2024-03-06T01:23:19Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Robin0248/valotriggerbot</title>
-    <updated>2024-03-05T01:22:36Z</updated>
-    <id>tag:github.com,2024-03-05:/Robin0248/valotriggerbot</id>
-    <link href="https://github.com/Robin0248/valotriggerbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple valorant trigger bot made for Auto Hot Key (Download: https://www.autohotkey.com/download/ahk-install.exe), read the &#34;readme.md&#34; file for more infos.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

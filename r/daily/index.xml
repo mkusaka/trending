@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-05T01:32:37Z</updated>
+  <updated>2024-03-06T01:34:27Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bayesianops/ssac24</title>
-    <updated>2024-03-05T01:32:37Z</updated>
-    <id>tag:github.com,2024-03-05:/bayesianops/ssac24</id>
-    <link href="https://github.com/bayesianops/ssac24" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bayesian modeling workshop at MIT SSAC 2024. March 2, 2024&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Bayesian Modeling Workshop: Building Statistical Models,&lt;/h1&gt; &#xA;&lt;p&gt;Understanding When To Use Bayesian Inference&lt;/p&gt; &#xA;&lt;p&gt;Bayesian modeling workshop at MIT SSAC 2024. March 2, 2024&lt;/p&gt; &#xA;&lt;p&gt;Abstract:&lt;/p&gt; &#xA;&lt;p&gt;Bayesian inference is used a lot in sports analytics. This is a practical, hands-on workshop for people wanting to spend an hour working with data and iterating over statistical models. If you&#39;re interested in how to work with sports data, have already worked with a few models and want to understand how to interpret the results, or have questions about reparametrization for MCMC efficiency, please join! We&#39;ll estimate the parameters of a simple model using Bayesian and frequentist techniques, discuss the differences, then move on to a hierarchical model that requires Bayesian inference to fit.&lt;/p&gt; &#xA;&lt;p&gt;The example will most likely be an adjusted plus minus model applied to NBA data.&lt;/p&gt; &#xA;&lt;p&gt;This workshop will use Stan (&lt;a href=&#34;https://mc-stan.org&#34;&gt;https://mc-stan.org&lt;/a&gt;), a statistical modeling language, for the model building; feel free to use Python or R for data manipulation and processing.&lt;/p&gt;</summary>
-  </entry>
 </feed>
