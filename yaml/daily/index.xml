@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:38:29Z</updated>
+  <updated>2024-03-07T01:29:39Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>szepeviktor/byte-level-care</title>
-    <updated>2024-03-06T01:38:29Z</updated>
-    <id>tag:github.com,2024-03-06:/szepeviktor/byte-level-care</id>
-    <link href="https://github.com/szepeviktor/byte-level-care" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Living with zero problems while developing your web application&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

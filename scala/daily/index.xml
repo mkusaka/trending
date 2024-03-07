@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:35:33Z</updated>
+  <updated>2024-03-07T01:26:49Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>utcompling/fieldspring</title>
-    <updated>2024-03-06T01:35:33Z</updated>
-    <id>tag:github.com,2024-03-06:/utcompling/fieldspring</id>
-    <link href="https://github.com/utcompling/fieldspring" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A system for disambiguating toponyms (placenames) given textual context and creating visualizations of the locations referenced in a given text or corpus.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;fieldspring&lt;/h1&gt; &#xA;&lt;p&gt;A system for disambiguating toponyms (placenames) given textual context and creating visualizations of the locations referenced in a given text or corpus.&lt;/p&gt;</summary>
+    <title>leobispo/zip</title>
+    <updated>2024-03-07T01:26:49Z</updated>
+    <id>tag:github.com,2024-03-07:/leobispo/zip</id>
+    <link href="https://github.com/leobispo/zip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>speedcom/SnakeScala</title>
-    <updated>2024-03-06T01:35:33Z</updated>
-    <id>tag:github.com,2024-03-06:/speedcom/SnakeScala</id>
-    <link href="https://github.com/speedcom/SnakeScala" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ezhulenev/shortener</title>
+    <updated>2024-03-07T01:26:49Z</updated>
+    <id>tag:github.com,2024-03-07:/ezhulenev/shortener</id>
+    <link href="https://github.com/ezhulenev/shortener" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;URL shortener Play application&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Shortener Play App&lt;/p&gt;</summary>
   </entry>
 </feed>

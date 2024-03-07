@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:26:32Z</updated>
+  <updated>2024-03-07T01:18:29Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>amirrezaask/dotfiles</title>
-    <updated>2024-03-06T01:26:32Z</updated>
-    <id>tag:github.com,2024-03-06:/amirrezaask/dotfiles</id>
-    <link href="https://github.com/amirrezaask/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;AmirrezaAsk Configs&lt;/h1&gt; &#xA;&lt;h2&gt;Configs&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/amirrezaask/dotfiles/raw/master/nvim/init.lua&#34;&gt;Neovim&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/amirrezaask/dotfiles/raw/master/init.el&#34;&gt;Emacs&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/amirrezaask/dotfiles/raw/master/sublimetext&#34;&gt;Sublime&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/amirrezaask/dotfiles/raw/master/vscodium&#34;&gt;VSCodium&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/amirrezaask/dotfiles/raw/master/wezterm.lua&#34;&gt;Wezterm: Cross platform, blazingly fast terminal&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/amirrezaask/dotfiles/raw/master/tmux&#34;&gt;Tmux&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/amirrezaask/dotfiles/raw/master/zshrc&#34;&gt;Zshrc&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Resources&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://ftp.gnu.org/gnu/emacs/&#34;&gt;Emacs Download&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/neovim/neovim/releases/&#34;&gt;Neovim Download&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/neovim/neovim/wiki/Building-Neovim&#34;&gt;Neovim Building Docs&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/neovide/neovide&#34;&gt;Neovide: Amazing Neovim GUI which is cross platform&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>cjkvi/cjkvi-emacs</title>
-    <updated>2024-03-06T01:26:32Z</updated>
-    <id>tag:github.com,2024-03-06:/cjkvi/cjkvi-emacs</id>
-    <link href="https://github.com/cjkvi/cjkvi-emacs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emacs Tools for handling CJKV Ideographs.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This directory provides Emacs utilities for CJKV Ideographs.&lt;/p&gt; &#xA;&lt;p&gt;It is strongly recommended that these elisp files to be byte-compiled before use them.&lt;/p&gt;</summary>
-  </entry>
 </feed>

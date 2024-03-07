@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:28:02Z</updated>
+  <updated>2024-03-07T01:19:54Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kasturenishant/Jenikins-shared-library</title>
+    <updated>2024-03-07T01:19:54Z</updated>
+    <id>tag:github.com,2024-03-07:/kasturenishant/Jenikins-shared-library</id>
+    <link href="https://github.com/kasturenishant/Jenikins-shared-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gonzalob/source-changes-trac-notifier</title>
+    <updated>2024-03-07T01:19:54Z</updated>
+    <id>tag:github.com,2024-03-07:/gonzalob/source-changes-trac-notifier</id>
+    <link href="https://github.com/gonzalob/source-changes-trac-notifier" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An SVN hook to check commited files for a tag, and update a Trac ticket when it appears.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

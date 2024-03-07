@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:33:38Z</updated>
+  <updated>2024-03-07T01:25:09Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LoicVeirman/HardenAD</title>
-    <updated>2024-03-06T01:33:38Z</updated>
-    <id>tag:github.com,2024-03-06:/LoicVeirman/HardenAD</id>
-    <link href="https://github.com/LoicVeirman/HardenAD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hardening Active Directory version 2&lt;/p&gt;&lt;hr&gt;&lt;img src=&#34;https://hardenad.net/wp-content/uploads/2021/12/Logo-HARDEN-AD-Horizontal-RVB@4x-300x86.png&#34; align=&#34;center&#34;&gt; This is the version 2 of the Hardening Active Directory project by then Harden Community. Feel free to use it and adapt following your needs! &#xA;&lt;h2&gt;Just a word...&lt;/h2&gt; &#xA;&lt;p&gt;Welcome to our GitHub Repo dedicated to enhance the security of Active Directory. We both believe in a world were knowledge have to be shared, especialy when we are talking of protecting companies against cyber attacks. Our IT journey drove us to many situation in which we had to harden an existing directory hierarchy, most oftenly lacking of a security posture due to a lack of technical knowledge or usefull guidance.&lt;/p&gt; &#xA;&lt;p&gt;This script is intended to assist you in setting-up a hardened directory, based on a strategy derivated from the Microsoft&#39;s red-forest model (also known as ESEA).&lt;/p&gt;</summary>
-  </entry>
 </feed>

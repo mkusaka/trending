@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:37:23Z</updated>
+  <updated>2024-03-07T01:28:33Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>OXID-eSales/twig-admin-theme</title>
-    <updated>2024-03-06T01:37:23Z</updated>
-    <id>tag:github.com,2024-03-06:/OXID-eSales/twig-admin-theme</id>
-    <link href="https://github.com/OXID-eSales/twig-admin-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The admin theme for twig engine&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

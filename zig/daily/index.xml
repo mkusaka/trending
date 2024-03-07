@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:38:38Z</updated>
+  <updated>2024-03-07T01:29:48Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Cloudef/zig-budoux</title>
-    <updated>2024-03-06T01:38:38Z</updated>
-    <id>tag:github.com,2024-03-06:/Cloudef/zig-budoux</id>
-    <link href="https://github.com/Cloudef/zig-budoux" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Budoux for Zig and C&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fulcrum-so/fastlanez</title>
+    <updated>2024-03-07T01:29:48Z</updated>
+    <id>tag:github.com,2024-03-07:/fulcrum-so/fastlanez</id>
+    <link href="https://github.com/fulcrum-so/fastlanez" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Zig implementation of the paper Decoding &gt;100 Billion Integers per Second with Scalar Code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

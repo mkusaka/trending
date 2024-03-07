@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:37:59Z</updated>
+  <updated>2024-03-07T01:29:06Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sugarforever/chat-ollama</title>
-    <updated>2024-03-06T01:37:59Z</updated>
-    <id>tag:github.com,2024-03-06:/sugarforever/chat-ollama</id>
-    <link href="https://github.com/sugarforever/chat-ollama" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ryujinx/Ryujinx-Website</title>
+    <updated>2024-03-07T01:29:06Z</updated>
+    <id>tag:github.com,2024-03-07:/Ryujinx/Ryujinx-Website</id>
+    <link href="https://github.com/Ryujinx/Ryujinx-Website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ryujinx website source code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xzh1730932805/TimeSlotSelector</title>
+    <updated>2024-03-07T01:29:06Z</updated>
+    <id>tag:github.com,2024-03-07:/xzh1730932805/TimeSlotSelector</id>
+    <link href="https://github.com/xzh1730932805/TimeSlotSelector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于Vue 3.0的拖拽式时间槽选择器，让你畅享终极时间管理体验&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

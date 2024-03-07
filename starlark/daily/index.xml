@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:36:27Z</updated>
+  <updated>2024-03-07T01:27:43Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tfynes-pivotal/tdemo1</title>
-    <updated>2024-03-06T01:36:27Z</updated>
-    <id>tag:github.com,2024-03-06:/tfynes-pivotal/tdemo1</id>
-    <link href="https://github.com/tfynes-pivotal/tdemo1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kurtosis-tech/postgres-package</title>
-    <updated>2024-03-06T01:36:27Z</updated>
-    <id>tag:github.com,2024-03-06:/kurtosis-tech/postgres-package</id>
-    <link href="https://github.com/kurtosis-tech/postgres-package" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Postgres Kurtosis package&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

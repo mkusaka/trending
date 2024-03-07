@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pug Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:34:01Z</updated>
+  <updated>2024-03-07T01:25:25Z</updated>
   <subtitle>Daily Trending of Pug in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>taichunmin/liff-businesscard</title>
-    <updated>2024-03-06T01:34:01Z</updated>
-    <id>tag:github.com,2024-03-06:/taichunmin/liff-businesscard</id>
-    <link href="https://github.com/taichunmin/liff-businesscard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Bussiness Card For LINE Using LINE Front-end Framework (LIFF) API. 基於 LINE LIFF 技術所開發的數位版名片。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

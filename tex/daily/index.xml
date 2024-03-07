@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:37:02Z</updated>
+  <updated>2024-03-07T01:28:15Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SonTG/mlmed2024</title>
+    <updated>2024-03-07T01:28:15Z</updated>
+    <id>tag:github.com,2024-03-07:/SonTG/mlmed2024</id>
+    <link href="https://github.com/SonTG/mlmed2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;USTH DS 2024 Machine Learning in Medicine&lt;/h1&gt; &#xA;&lt;p&gt;Students are expected to:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fork this repository to your github account&lt;/li&gt; &#xA; &lt;li&gt;Update student name and ID to this README file&lt;/li&gt; &#xA; &lt;li&gt;Push your commits regularly, with proper commit messages&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Student Info&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Name: &lt;em&gt;YourNameHere&lt;/em&gt;&lt;/li&gt; &#xA; &lt;li&gt;ID: &lt;em&gt;YourIdHere&lt;/em&gt;&lt;/li&gt; &#xA; &lt;li&gt;Group ID: &lt;em&gt;Your Group ID here&lt;/em&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>mengpq/codelibrary</title>
+    <updated>2024-03-07T01:28:15Z</updated>
+    <id>tag:github.com,2024-03-07:/mengpq/codelibrary</id>
+    <link href="https://github.com/mengpq/codelibrary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;codelibrary&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:22:24Z</updated>
+  <updated>2024-03-07T01:14:09Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure/migration</title>
-    <updated>2024-03-06T01:22:24Z</updated>
-    <id>tag:github.com,2024-03-06:/Azure/migration</id>
-    <link href="https://github.com/Azure/migration" rel="alternate"></link>
+    <title>wdndev/llm_interview_note</title>
+    <updated>2024-03-07T01:14:09Z</updated>
+    <id>tag:github.com,2024-03-07:/wdndev/llm_interview_note</id>
+    <link href="https://github.com/wdndev/llm_interview_note" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;大模型面试题及答案，大模型八股文&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Meituan-AutoML/VisionLLaMA</title>
+    <updated>2024-03-07T01:14:09Z</updated>
+    <id>tag:github.com,2024-03-07:/Meituan-AutoML/VisionLLaMA</id>
+    <link href="https://github.com/Meituan-AutoML/VisionLLaMA" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Honei/bookshelf</title>
-    <updated>2024-03-06T01:22:24Z</updated>
-    <id>tag:github.com,2024-03-06:/Honei/bookshelf</id>
-    <link href="https://github.com/Honei/bookshelf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 books&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FuelLabs/fuel-specs</title>
-    <updated>2024-03-06T01:22:24Z</updated>
-    <id>tag:github.com,2024-03-06:/FuelLabs/fuel-specs</id>
-    <link href="https://github.com/FuelLabs/fuel-specs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gaurangsaini/sipser-computation-3rd-solutions</title>
+    <updated>2024-03-07T01:14:09Z</updated>
+    <id>tag:github.com,2024-03-07:/gaurangsaini/sipser-computation-3rd-solutions</id>
+    <link href="https://github.com/gaurangsaini/sipser-computation-3rd-solutions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solutions to all questions of the book Introduction to the Theory of Computation, 3rd edition by Michael Sipser&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

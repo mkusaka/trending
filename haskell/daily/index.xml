@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:28:12Z</updated>
+  <updated>2024-03-07T01:20:04Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DanielG/hipo</title>
-    <updated>2024-03-06T01:28:12Z</updated>
-    <id>tag:github.com,2024-03-06:/DanielG/hipo</id>
-    <link href="https://github.com/DanielG/hipo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hipo&lt;/h1&gt; &#xA;&lt;p&gt;Parser of a mad file format for keeping track of Hostname, MAC, IP mappings, private subnet allocation and domain names.&lt;/p&gt;</summary>
+    <title>DanRyba253/smh</title>
+    <updated>2024-03-07T01:20:04Z</updated>
+    <id>tag:github.com,2024-03-07:/DanRyba253/smh</id>
+    <link href="https://github.com/DanRyba253/smh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;String manipulation tool written in haskell&lt;/p&gt;&lt;hr&gt;&lt;h1 align=&#34;center&#34;&gt; smh &lt;/h1&gt; &#xA;&lt;p align=&#34;center&#34;&gt; A string manipulation tool written in haskell. &lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;smh aims to bring the power of optics into the command line. It provides a terse, domain specific language for various string manipulation tasks.&lt;/p&gt; &#xA;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;a href=&#34;https://danryba253.github.io/smh-docs&#34;&gt;Documentation&lt;/a&gt; &#xA; &lt;a href=&#34;https://danryba253.github.io/smh-docs/getting-started&#34;&gt;Getting Started&lt;/a&gt; &#xA; &lt;a href=&#34;https://danryba253.github.io/smh-docs/user-guide&#34;&gt;User Guide&lt;/a&gt; &#xA;&lt;/div&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;Intalling&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;h3&gt;Arch linux&lt;/h3&gt; &lt;p&gt;&lt;code&gt;yay -S smh-bin&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;h3&gt;With cabal&lt;/h3&gt; &lt;p&gt;&lt;code&gt;cabal install smh&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;h3&gt;Any x86_64 linux&lt;/h3&gt; &lt;p&gt;Download the latest &lt;a href=&#34;https://github.com/DanRyba253/smh/releases/latest&#34;&gt;release&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Building&lt;/h2&gt; &#xA;&lt;p&gt;Refer to the &lt;a href=&#34;https://danryba253.github.io/smh-docs/getting-started/#building&#34;&gt;building instructions&lt;/a&gt; in the docs.&lt;/p&gt; &#xA;&lt;h2&gt;Examples of usage&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;smh &#39;words.if len&amp;gt;3|get&#39; &amp;lt; input_file&lt;/code&gt; - display all words longer than 3 characters&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;smh &#39;words.[0]|over upper&#39; &#34;hello world&#34;&lt;/code&gt; - capitalize all words&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;smh &#39;lines.if startsWith &#34;*&#34;.&amp;lt;words&amp;gt;.[2]|get&#39; &amp;lt; input_file&lt;/code&gt; - display the third word in lines that start with an asterisk&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Before contributing, visit the &lt;a href=&#34;https://danryba253.github.io/smh-docs/contributing/&#34;&gt;Contributing&lt;/a&gt; page in the docs.&lt;/p&gt; &#xA;&lt;h2&gt;Acknowledgements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Haskell, for being an awesome language&lt;/li&gt; &#xA; &lt;li&gt;lens library authors, for inspiring this whole ordeal&lt;/li&gt; &#xA; &lt;li&gt;mkdocs team, for making an awesome static documentation site generator&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
   <entry>
-    <title>YoshikuniJujo/x11-xim_haskell</title>
-    <updated>2024-03-06T01:28:12Z</updated>
-    <id>tag:github.com,2024-03-06:/YoshikuniJujo/x11-xim_haskell</id>
-    <link href="https://github.com/YoshikuniJujo/x11-xim_haskell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;haskell library to use xim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DanAlbert/dcdl</title>
+    <updated>2024-03-07T01:20:04Z</updated>
+    <id>tag:github.com,2024-03-07:/DanAlbert/dcdl</id>
+    <link href="https://github.com/DanAlbert/dcdl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Digital Circuit Design Language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>deepflowinc/hs-bash-script</title>
+    <updated>2024-03-07T01:20:04Z</updated>
+    <id>tag:github.com,2024-03-07:/deepflowinc/hs-bash-script</id>
+    <link href="https://github.com/deepflowinc/hs-bash-script" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Haskell utility library to generate Bash script.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cmark-combinators - Simple utility around CMark for Haskell&lt;/h1&gt; &#xA;&lt;p&gt;A light-weight Haskell utility library for generating Bash scripts.&lt;/p&gt; &#xA;&lt;h2&gt;Contribution&lt;/h2&gt; &#xA;&lt;p&gt;Please feel free to open an issue, but also please search for existing issues to check if there already is a similar one.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://raw.githubusercontent.com/deepflowinc/hs-bash-script/main/CONTRIBUTING.md&#34;&gt;CONTRIBUTING.md&lt;/a&gt; for more details.&lt;/p&gt; &#xA;&lt;h2&gt;Matrix Build&lt;/h2&gt; &#xA;&lt;p&gt;To add/remove a specific ghc version to/from the tested versions, you can just add/remove cabal&#39;s freeze file as &lt;code&gt;ci/configs/ghc-X.X.X.project&lt;/code&gt; and add the following to the header:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-cabal&#34;&gt;import: ../../cabal.project&#xA;-- FIXME: Use Appropriate timestamp for index-state&#xA;index-state: hackage.haskell.org 2024-02-05T22:44:18Z&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Note that the actual value of &lt;code&gt;index-state&lt;/code&gt; should be sufficiently new.&lt;/p&gt; &#xA;&lt;p&gt;Except this, no modification to Action worklow file is needed in general. The following is the example command to add the &lt;code&gt;ghc-9.8.1&lt;/code&gt; with the most recent Stackage Nightly:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;curl --location https://www.stackage.org/nightly/cabal.config &amp;gt; ./ci/configs/ghc-9.8.1.project&#xA;cat &amp;lt;&amp;lt;EOF &amp;gt;&amp;gt;./ci/configs/ghc-9.8.1.project&#xA;import: ../../cabal.project&#xA;-- FIXME: Use an appropriate timestamp for index-state&#xA;index-state: hackage.haskell.org 2024-02-05T22:44:18Z&#xA;EOF&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Note that we might have to edit &lt;code&gt;with-compiler&lt;/code&gt; stanza of the downloaded freeze file when you want to test GHC version different from Stackage&#39;s default version.&lt;/p&gt; &#xA;&lt;p&gt;If you want to test some breeding-edge version of GHC but to allow failure, name freeze file as &lt;code&gt;ghc-X.X.X-head.project&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;curl --location https://www.stackage.org/nightly/cabal.config &amp;gt; ./ci/configs/ghc-9.10.1-head.project&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Copyright&lt;/h2&gt; &#xA;&lt;p&gt;2024 (c) DeepFlow, Inc.&lt;/p&gt;</summary>
   </entry>
 </feed>

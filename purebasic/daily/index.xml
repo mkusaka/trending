@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureBasic Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-06T01:33:58Z</updated>
+  <updated>2024-03-07T01:25:26Z</updated>
   <subtitle>Daily Trending of PureBasic in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PlasmaControl/TearingAvoidance</title>
-    <updated>2024-03-06T01:33:58Z</updated>
-    <id>tag:github.com,2024-03-06:/PlasmaControl/TearingAvoidance</id>
-    <link href="https://github.com/PlasmaControl/TearingAvoidance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Python scripts for training the ML models for tearing prediction &amp; avoidance&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
