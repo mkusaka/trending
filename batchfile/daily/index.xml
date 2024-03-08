@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-07T01:15:17Z</updated>
+  <updated>2024-03-08T01:23:31Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Sandrolaxx/poo-terceiro-periodo-turma-b</title>
-    <updated>2024-03-07T01:15:17Z</updated>
-    <id>tag:github.com,2024-03-07:/Sandrolaxx/poo-terceiro-periodo-turma-b</id>
-    <link href="https://github.com/Sandrolaxx/poo-terceiro-periodo-turma-b" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo compartilhado utilizado na matéria de Desenvolvimento Orientado a Objetos do curso de engenharia de software do Centro Universitário FAG.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

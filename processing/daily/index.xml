@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-07T01:25:06Z</updated>
+  <updated>2024-03-08T01:34:55Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mettt/MPM407_finalproject</title>
-    <updated>2024-03-07T01:25:06Z</updated>
-    <id>tag:github.com,2024-03-07:/mettt/MPM407_finalproject</id>
-    <link href="https://github.com/mettt/MPM407_finalproject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;for Steve Daniels&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

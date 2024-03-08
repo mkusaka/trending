@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-07T01:23:33Z</updated>
+  <updated>2024-03-08T01:32:38Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>genepi/mtdna-server-2</title>
-    <updated>2024-03-07T01:23:33Z</updated>
-    <id>tag:github.com,2024-03-07:/genepi/mtdna-server-2</id>
-    <link href="https://github.com/genepi/mtdna-server-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;mtDNA-Server 2: Mitochondrial Variant Calling&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

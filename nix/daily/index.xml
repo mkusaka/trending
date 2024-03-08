@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-07T01:23:41Z</updated>
+  <updated>2024-03-08T01:32:51Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RGBCube/HTMNIX</title>
-    <updated>2024-03-07T01:23:41Z</updated>
-    <id>tag:github.com,2024-03-07:/RGBCube/HTMNIX</id>
-    <link href="https://github.com/RGBCube/HTMNIX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTML for Nix to rule them all.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jnsgruk/nixos-config</title>
+    <updated>2024-03-08T01:32:51Z</updated>
+    <id>tag:github.com,2024-03-08:/jnsgruk/nixos-config</id>
+    <link href="https://github.com/jnsgruk/nixos-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;jnsgruk&#39;s NixOS configuration flake ❄️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rasmus-kirk/nixarr</title>
-    <updated>2024-03-07T01:23:41Z</updated>
-    <id>tag:github.com,2024-03-07:/rasmus-kirk/nixarr</id>
-    <link href="https://github.com/rasmus-kirk/nixarr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Media Server Nixos Module&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ifd3f/infra</title>
+    <updated>2024-03-08T01:32:51Z</updated>
+    <id>tag:github.com,2024-03-08:/ifd3f/infra</id>
+    <link href="https://github.com/ifd3f/infra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal cloud, dotfiles, and configurations omnirepo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

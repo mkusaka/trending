@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-07T01:16:58Z</updated>
+  <updated>2024-03-08T01:25:26Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>marcgarciamo/entrega05-m8-uf5</title>
-    <updated>2024-03-07T01:16:58Z</updated>
-    <id>tag:github.com,2024-03-07:/marcgarciamo/entrega05-m8-uf5</id>
-    <link href="https://github.com/marcgarciamo/entrega05-m8-uf5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;WebTemplateEntrega3&lt;/h1&gt; &#xA;&lt;p&gt;Repositori per la pràctica 3 de M8-UF2 Repositori per finalitats educatives, destinat als alumnes de SMX2 del Educem Hola MX2B QUE TAL ESTAIS&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>pineappleEA/pineappleEA.github.io</title>
-    <updated>2024-03-07T01:16:58Z</updated>
-    <id>tag:github.com,2024-03-07:/pineappleEA/pineappleEA.github.io</id>
-    <link href="https://github.com/pineappleEA/pineappleEA.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Website made to store EA links for Yuzu&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;pineappleEA.github.io&lt;/h1&gt; &#xA;&lt;p&gt;A website for a Discord server&lt;/p&gt;</summary>
-  </entry>
 </feed>

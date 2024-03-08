@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-07T01:16:33Z</updated>
+  <updated>2024-03-08T01:24:57Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>emersonmello/libprg</title>
+    <updated>2024-03-08T01:24:57Z</updated>
+    <id>tag:github.com,2024-03-08:/emersonmello/libprg</id>
+    <link href="https://github.com/emersonmello/libprg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal C library template using Modern CMake&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gioanateora/PCS2024_Exercises</title>
+    <updated>2024-03-08T01:24:57Z</updated>
+    <id>tag:github.com,2024-03-08:/gioanateora/PCS2024_Exercises</id>
+    <link href="https://github.com/gioanateora/PCS2024_Exercises" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains exercises for the PCS course.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>autowarefoundation/autoware_internal_msgs</title>
+    <updated>2024-03-08T01:24:57Z</updated>
+    <id>tag:github.com,2024-03-08:/autowarefoundation/autoware_internal_msgs</id>
+    <link href="https://github.com/autowarefoundation/autoware_internal_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

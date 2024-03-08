@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-07T01:16:31Z</updated>
+  <updated>2024-03-08T01:24:54Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>WiseMaestro/PriorityQueue</title>
-    <updated>2024-03-07T01:16:31Z</updated>
-    <id>tag:github.com,2024-03-07:/WiseMaestro/PriorityQueue</id>
-    <link href="https://github.com/WiseMaestro/PriorityQueue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A persistent Heap implemented for clojure. Probably will expand to a larger data structures project.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>frenchy64/cljs-test</title>
-    <updated>2024-03-07T01:16:31Z</updated>
-    <id>tag:github.com,2024-03-07:/frenchy64/cljs-test</id>
-    <link href="https://github.com/frenchy64/cljs-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Typed ClojureScript demo/test&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

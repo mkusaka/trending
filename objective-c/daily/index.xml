@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-07T01:23:52Z</updated>
+  <updated>2024-03-08T01:33:07Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mdyoke/iosAppsWinter2013</title>
-    <updated>2024-03-07T01:23:52Z</updated>
-    <id>tag:github.com,2024-03-07:/mdyoke/iosAppsWinter2013</id>
-    <link href="https://github.com/mdyoke/iosAppsWinter2013" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My repo for the Developing iPhone and iPad Apps class (CS193p) offered at Stanford Winter 2013&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Overview&lt;/h1&gt; &#xA;&lt;p&gt;This project tracks my progress through the iTunes U course Developing Apps for iPhone and iPad (Stanford CS193p Winter 2013).&lt;/p&gt;</summary>
-  </entry>
 </feed>

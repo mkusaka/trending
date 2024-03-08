@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-07T01:18:24Z</updated>
+  <updated>2024-03-08T01:26:44Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>membraneframework/unifex</title>
-    <updated>2024-03-07T01:18:24Z</updated>
-    <id>tag:github.com,2024-03-07:/membraneframework/unifex</id>
-    <link href="https://github.com/membraneframework/unifex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tool for generating interfaces between native C code and Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

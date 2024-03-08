@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-07T01:22:42Z</updated>
+  <updated>2024-03-08T01:31:36Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cs2i-p18/php-pg-docker</title>
-    <updated>2024-03-07T01:22:42Z</updated>
-    <id>tag:github.com,2024-03-07:/cs2i-p18/php-pg-docker</id>
-    <link href="https://github.com/cs2i-p18/php-pg-docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Docker Compose for PHP and PostgreSQL&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kahowang/Livox_Color_View_And_Mpping</title>
-    <updated>2024-03-07T01:22:42Z</updated>
-    <id>tag:github.com,2024-03-07:/kahowang/Livox_Color_View_And_Mpping</id>
-    <link href="https://github.com/kahowang/Livox_Color_View_And_Mpping" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A module to color the Livox Frame and FASTLIO2&#39;s map, inorder to checkout our extrinsicT ~&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sbwml/packages_lang_golang</title>
+    <updated>2024-03-08T01:31:36Z</updated>
+    <id>tag:github.com,2024-03-08:/sbwml/packages_lang_golang</id>
+    <link href="https://github.com/sbwml/packages_lang_golang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

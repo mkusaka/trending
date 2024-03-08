@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-07T01:28:15Z</updated>
+  <updated>2024-03-08T01:38:53Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SonTG/mlmed2024</title>
-    <updated>2024-03-07T01:28:15Z</updated>
-    <id>tag:github.com,2024-03-07:/SonTG/mlmed2024</id>
-    <link href="https://github.com/SonTG/mlmed2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;USTH DS 2024 Machine Learning in Medicine&lt;/h1&gt; &#xA;&lt;p&gt;Students are expected to:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fork this repository to your github account&lt;/li&gt; &#xA; &lt;li&gt;Update student name and ID to this README file&lt;/li&gt; &#xA; &lt;li&gt;Push your commits regularly, with proper commit messages&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Student Info&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Name: &lt;em&gt;YourNameHere&lt;/em&gt;&lt;/li&gt; &#xA; &lt;li&gt;ID: &lt;em&gt;YourIdHere&lt;/em&gt;&lt;/li&gt; &#xA; &lt;li&gt;Group ID: &lt;em&gt;Your Group ID here&lt;/em&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>mengpq/codelibrary</title>
-    <updated>2024-03-07T01:28:15Z</updated>
-    <id>tag:github.com,2024-03-07:/mengpq/codelibrary</id>
-    <link href="https://github.com/mengpq/codelibrary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;codelibrary&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VincentGranville/Large-Language-Models</title>
+    <updated>2024-03-08T01:38:53Z</updated>
+    <id>tag:github.com,2024-03-08:/VincentGranville/Large-Language-Models</id>
+    <link href="https://github.com/VincentGranville/Large-Language-Models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Large language Models (LLM)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LLM&lt;/h1&gt; &#xA;&lt;p&gt;Large language Models (LLM). Browse the &lt;a href=&#34;https://mathworld.wolfram.com/&#34;&gt;Wolfram directory&lt;/a&gt; and associated URLs (directory and content pages), to create the category structure and good word embeddings. The goal is to generate enriched prompts for GPT, Wikipedia, ArXiv, Google Scholar, Stack Exchange or Google search. The focus is on one subdiretory: Probability &amp;amp; Statistics.&lt;/p&gt; &#xA;&lt;p&gt; Documentation is in my project textbook &lt;code&gt;Projects4.pdf&lt;/code&gt;, &lt;a href=&#34;https://github.com/VincentGranville/Large-Language-Models/raw/main/Projects4.pdf&#34;&gt;here&lt;/a&gt; in this folder. I strongly encourage you to download the document and browse your local copy with Chrome, Edge, or other viewers. Unlike on GitHub, you will be able to click on all the links and follow the internal navigation features. Look for projects related to NLP and LLM / xLLM. The best starting point is project 7.2.2. It&#39;s the core project on this topic, with references to all satellite projects. &lt;/p&gt; The project textbook (with my solutions to all projects) is the core document needed to participate in the free course (deep tech dive) called &#xA;&lt;b&gt;GenAI Fellowship&lt;/b&gt;. For details about the fellowhip, &#xA;&lt;a href=&#34;https://mltblog.com/48GebAG&#34;&gt;follow this link&lt;/a&gt;.</summary>
   </entry>
 </feed>

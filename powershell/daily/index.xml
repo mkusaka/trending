@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-07T01:25:09Z</updated>
+  <updated>2024-03-08T01:34:58Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ValaxyConsultancy/ezlearngithulab</title>
+    <updated>2024-03-08T01:34:58Z</updated>
+    <id>tag:github.com,2024-03-08:/ValaxyConsultancy/ezlearngithulab</id>
+    <link href="https://github.com/ValaxyConsultancy/ezlearngithulab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ezlearngithulab&lt;/h1&gt; &#xA;&lt;h1&gt;Testing branching&lt;/h1&gt;</summary>
+  </entry>
 </feed>
