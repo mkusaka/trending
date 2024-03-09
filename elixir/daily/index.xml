@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-08T01:26:44Z</updated>
+  <updated>2024-03-09T01:23:26Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>danielbergholz/techschool.dev</title>
+    <updated>2024-03-09T01:23:26Z</updated>
+    <id>tag:github.com,2024-03-09:/danielbergholz/techschool.dev</id>
+    <link href="https://github.com/danielbergholz/techschool.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TechSchool is a collection of free programming courses from YouTube&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>evilmarty/oban_live_dashboard</title>
+    <updated>2024-03-09T01:23:26Z</updated>
+    <id>tag:github.com,2024-03-09:/evilmarty/oban_live_dashboard</id>
+    <link href="https://github.com/evilmarty/oban_live_dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple Phoenix Live Dashboard for Oban jobs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-08T01:22:23Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2024-03-09T01:19:55Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yuzu-mirror/yuzu-downloads</title>
-    <updated>2024-03-08T01:22:23Z</updated>
-    <id>tag:github.com,2024-03-08:/yuzu-mirror/yuzu-downloads</id>
-    <link href="https://github.com/yuzu-mirror/yuzu-downloads" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Archived releases of yuzu (not part of the original organization)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xszyou/Fay</title>
+    <updated>2024-03-09T01:19:55Z</updated>
+    <id>tag:github.com,2024-03-09:/xszyou/Fay</id>
+    <link href="https://github.com/xszyou/Fay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>josejesusguzman/acordeon-sc900</title>
-    <updated>2024-03-08T01:22:23Z</updated>
-    <id>tag:github.com,2024-03-08:/josejesusguzman/acordeon-sc900</id>
-    <link href="https://github.com/josejesusguzman/acordeon-sc900" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Acordeón para pasar la certificación SC-900 e iniciar tu camino en la ciberseguridad&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0voice/linux_kernel_wiki</title>
+    <updated>2024-03-09T01:19:55Z</updated>
+    <id>tag:github.com,2024-03-09:/0voice/linux_kernel_wiki</id>
+    <link href="https://github.com/0voice/linux_kernel_wiki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>RemoteWLB/remote-jobs</title>
-    <updated>2024-03-08T01:22:23Z</updated>
-    <id>tag:github.com,2024-03-08:/RemoteWLB/remote-jobs</id>
-    <link href="https://github.com/RemoteWLB/remote-jobs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A project for collecting remote jobs, updated daily 👩‍💻&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>XiaoxinHe/Awesome-Graph-LLM</title>
+    <updated>2024-03-09T01:19:55Z</updated>
+    <id>tag:github.com,2024-03-09:/XiaoxinHe/Awesome-Graph-LLM</id>
+    <link href="https://github.com/XiaoxinHe/Awesome-Graph-LLM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of AWESOME things about Graph-Related LLMs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

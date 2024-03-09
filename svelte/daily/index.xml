@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-08T01:38:26Z</updated>
+  <updated>2024-03-09T01:32:37Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sbondCo/Watcharr</title>
+    <updated>2024-03-09T01:32:37Z</updated>
+    <id>tag:github.com,2024-03-09:/sbondCo/Watcharr</id>
+    <link href="https://github.com/sbondCo/Watcharr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Futino/aitino</title>
+    <updated>2024-03-09T01:32:37Z</updated>
+    <id>tag:github.com,2024-03-09:/Futino/aitino</id>
+    <link href="https://github.com/Futino/aitino" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aitino is a platform that allows for the creation of crews of AI Agents to help you automate tasks and solve complex problems.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maxjerry0107/sveltekit-weather-app</title>
+    <updated>2024-03-09T01:32:37Z</updated>
+    <id>tag:github.com,2024-03-09:/maxjerry0107/sveltekit-weather-app</id>
+    <link href="https://github.com/maxjerry0107/sveltekit-weather-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sveltekit Weather App&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

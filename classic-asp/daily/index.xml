@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-08T01:24:47Z</updated>
+  <updated>2024-03-09T01:21:44Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>estrategycode/Terra_Cotta_150069695</title>
-    <updated>2024-03-08T01:24:47Z</updated>
-    <id>tag:github.com,2024-03-08:/estrategycode/Terra_Cotta_150069695</id>
-    <link href="https://github.com/estrategycode/Terra_Cotta_150069695" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

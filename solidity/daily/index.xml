@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-08T01:38:03Z</updated>
+  <updated>2024-03-09T01:32:15Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>metfi/metfi-contracts</title>
-    <updated>2024-03-08T01:38:03Z</updated>
-    <id>tag:github.com,2024-03-08:/metfi/metfi-contracts</id>
-    <link href="https://github.com/metfi/metfi-contracts" rel="alternate"></link>
+    <title>Elpacos/mastering-fuzzing</title>
+    <updated>2024-03-09T01:32:15Z</updated>
+    <id>tag:github.com,2024-03-09:/Elpacos/mastering-fuzzing</id>
+    <link href="https://github.com/Elpacos/mastering-fuzzing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Practical fuzzing examples for the mastering fuzzing talk&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2024-03-zksync</title>
+    <updated>2024-03-09T01:32:15Z</updated>
+    <id>tag:github.com,2024-03-09:/code-423n4/2024-03-zksync</id>
+    <link href="https://github.com/code-423n4/2024-03-zksync" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

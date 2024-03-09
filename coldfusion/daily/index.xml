@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ColdFusion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-08T01:25:06Z</updated>
+  <updated>2024-03-09T01:21:56Z</updated>
   <subtitle>Daily Trending of ColdFusion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Vin65-Designers/Vin65-Template-Mobile</title>
-    <updated>2024-03-08T01:25:06Z</updated>
-    <id>tag:github.com,2024-03-08:/Vin65-Designers/Vin65-Template-Mobile</id>
-    <link href="https://github.com/Vin65-Designers/Vin65-Template-Mobile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Default Mobile for template sites&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

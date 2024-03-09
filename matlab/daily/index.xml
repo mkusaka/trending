@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-08T01:31:47Z</updated>
+  <updated>2024-03-09T01:27:34Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>acampbel/Mass-Spring-Damper-PFT-2024</title>
-    <updated>2024-03-08T01:31:47Z</updated>
-    <id>tag:github.com,2024-03-08:/acampbel/Mass-Spring-Damper-PFT-2024</id>
-    <link href="https://github.com/acampbel/Mass-Spring-Damper-PFT-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Warwick-Aerospace-Drone-Software/Search-and-rescue-drones</title>
+    <updated>2024-03-09T01:27:34Z</updated>
+    <id>tag:github.com,2024-03-09:/Warwick-Aerospace-Drone-Software/Search-and-rescue-drones</id>
+    <link href="https://github.com/Warwick-Aerospace-Drone-Software/Search-and-rescue-drones" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;simulate (and in the future control) search and rescue drones. The intention is to connect the search &amp; rescue pathfinding with ardupilot in future.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

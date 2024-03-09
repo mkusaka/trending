@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-08T01:33:23Z</updated>
+  <updated>2024-03-09T01:28:44Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NathanReb/ocaml-api-watch</title>
-    <updated>2024-03-08T01:33:23Z</updated>
-    <id>tag:github.com,2024-03-08:/NathanReb/ocaml-api-watch</id>
-    <link href="https://github.com/NathanReb/ocaml-api-watch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Libraries and tools to keep watch on you OCaml lib&#39;s API changes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>suri-framework/nomad</title>
-    <updated>2024-03-08T01:33:23Z</updated>
-    <id>tag:github.com,2024-03-08:/suri-framework/nomad</id>
-    <link href="https://github.com/suri-framework/nomad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pure OCaml HTTP 1.1/2 &amp; WebSocket server for Riot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-08T01:34:42Z</updated>
+  <updated>2024-03-09T01:29:39Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DataDog/storedog</title>
-    <updated>2024-03-08T01:34:42Z</updated>
-    <id>tag:github.com,2024-03-08:/DataDog/storedog</id>
-    <link href="https://github.com/DataDog/storedog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jchester/spc-kit</title>
+    <updated>2024-03-09T01:29:39Z</updated>
+    <id>tag:github.com,2024-03-09:/jchester/spc-kit</id>
+    <link href="https://github.com/jchester/spc-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toolkit for statistical process control using SQL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cybertec-postgresql/pgwatch3</title>
+    <updated>2024-03-09T01:29:39Z</updated>
+    <id>tag:github.com,2024-03-09:/cybertec-postgresql/pgwatch3</id>
+    <link href="https://github.com/cybertec-postgresql/pgwatch3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚠️PGWATCH3 DEV: PostgreSQL metrics monitor/dashboard&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
