@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub StringTemplate Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-09T01:32:32Z</updated>
+  <updated>2024-03-10T01:42:27Z</updated>
   <subtitle>Daily Trending of StringTemplate in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>feenkcom/gt4p3</title>
-    <updated>2024-03-09T01:32:32Z</updated>
-    <id>tag:github.com,2024-03-09:/feenkcom/gt4p3</id>
-    <link href="https://github.com/feenkcom/gt4p3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous Toolkit for the P3 client&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

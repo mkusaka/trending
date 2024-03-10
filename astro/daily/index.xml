@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-09T01:20:34Z</updated>
+  <updated>2024-03-10T01:26:31Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>EseToni/Portfolio-Template</title>
-    <updated>2024-03-09T01:20:34Z</updated>
-    <id>tag:github.com,2024-03-09:/EseToni/Portfolio-Template</id>
-    <link href="https://github.com/EseToni/Portfolio-Template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Portfolio-Template minimalist for community&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sccsbsaot/sc_web</title>
-    <updated>2024-03-09T01:20:34Z</updated>
-    <id>tag:github.com,2024-03-09:/sccsbsaot/sc_web</id>
-    <link href="https://github.com/sccsbsaot/sc_web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>piotrkulpinski/openalternative</title>
+    <updated>2024-03-10T01:26:31Z</updated>
+    <id>tag:github.com,2024-03-10:/piotrkulpinski/openalternative</id>
+    <link href="https://github.com/piotrkulpinski/openalternative" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A community driven list of open source alternatives to proprietary software and applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

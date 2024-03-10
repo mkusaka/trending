@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-10T01:48:23Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nubank/vessel</title>
+    <updated>2024-03-10T01:48:23Z</updated>
+    <id>tag:github.com,2024-03-10:/nubank/vessel</id>
+    <link href="https://github.com/nubank/vessel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A containerization tool for Clojure applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ClickHouse/metabase-clickhouse-driver</title>
+    <updated>2024-03-10T01:48:23Z</updated>
+    <id>tag:github.com,2024-03-10:/ClickHouse/metabase-clickhouse-driver</id>
+    <link href="https://github.com/ClickHouse/metabase-clickhouse-driver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ClickHouse database driver for the Metabase business intelligence front-end&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WiseMaestro/PriorityQueue</title>
+    <updated>2024-03-10T01:48:23Z</updated>
+    <id>tag:github.com,2024-03-10:/WiseMaestro/PriorityQueue</id>
+    <link href="https://github.com/WiseMaestro/PriorityQueue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A persistent Heap implemented for clojure. Probably will expand to a larger data structures project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

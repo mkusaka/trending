@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-09T01:28:16Z</updated>
+  <updated>2024-03-10T01:36:48Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nf-core/spinningjenny</title>
-    <updated>2024-03-09T01:28:16Z</updated>
-    <id>tag:github.com,2024-03-09:/nf-core/spinningjenny</id>
-    <link href="https://github.com/nf-core/spinningjenny" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pipeline for simulating the first industrial revolution using Agent Based Models.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nf-core/callingcards</title>
-    <updated>2024-03-09T01:28:16Z</updated>
-    <id>tag:github.com,2024-03-09:/nf-core/callingcards</id>
-    <link href="https://github.com/nf-core/callingcards" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A pipeline for processing calling cards data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nf-core/rangeland</title>
-    <updated>2024-03-09T01:28:16Z</updated>
-    <id>tag:github.com,2024-03-09:/nf-core/rangeland</id>
-    <link href="https://github.com/nf-core/rangeland" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pipeline for remotely sensed imagery. The pipeline processes satellite imagery alongside auxiliary data in multiple steps to arrive at a set of trend files related to land-cover changes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

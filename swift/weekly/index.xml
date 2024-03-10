@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Swift Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-10T02:02:38Z</updated>
+  <subtitle>Weekly Trending of Swift in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TheResonanceTeam/TrollApps</title>
+    <updated>2024-03-10T02:02:38Z</updated>
+    <id>tag:github.com,2024-03-10:/TheResonanceTeam/TrollApps</id>
+    <link href="https://github.com/TheResonanceTeam/TrollApps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;App Store alternative for TrollStore&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/ResonanceStoreIcon.png&#34; alt=&#34;Logo&#34; width=&#34;70&#34; height=&#34;70&#34;&gt; &lt;/p&gt; &#xA;&lt;h1 align=&#34;center&#34;&gt;TrollApps&lt;/h1&gt; &#xA;&lt;h6 align=&#34;center&#34;&gt;An App Store alternative for TrollStore.&lt;/h6&gt; &#xA;&lt;h1&gt;What is TrollApps?&lt;/h1&gt; &#xA;&lt;p&gt;TrollApps is an alternative to the iOS App Store for TrollStore users. TrollApps allows users to download apps from repositories and install them directly in TrollStore. &lt;strong&gt;TrollApps works on iOS 14.0 and up; make sure to be on the latest version of TrollStore.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Requirements&lt;/h1&gt; &#xA;&lt;p&gt;You require a TrollStore 1.0 / 2.0 compatible device, and TrollStore must be installed to use this application. It is also required that you enable schema urls within TrollStore.&lt;/p&gt; &#xA;&lt;h1&gt;&lt;/h1&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;img width=&#34;256&#34; height=&#34;auto&#34; src=&#34;https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/Screenshot-1.png&#34;&gt; &lt;img width=&#34;256&#34; height=&#34;auto&#34; src=&#34;https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/Screenshot-2.png&#34;&gt; &lt;img width=&#34;256&#34; height=&#34;auto&#34; src=&#34;https://raw.githubusercontent.com/TheResonanceTeam/TrollApps/main/assets/Screenshot-3.png&#34;&gt; &lt;/p&gt; &#xA;&lt;h1&gt;Check out our documentation!&lt;/h1&gt; &#xA;&lt;p&gt;Information on TrollApps sources and our URL Scheme can be found &lt;a href=&#34;https://github.com/TheResonanceTeam/TrollApps/raw/main/assets/Docs/DOCUMENTATION.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;&lt;/h1&gt; &#xA;&lt;h1&gt;Found a bug / want to send feedback?&lt;/h1&gt; &#xA;&lt;h3&gt;Join our &lt;a href=&#34;https://discord.gg/PrF6XqpGgX&#34;&gt;Discord&lt;/a&gt;!&lt;/h3&gt;</summary>
+  </entry>
+</feed>

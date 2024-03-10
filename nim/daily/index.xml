@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-09T01:28:19Z</updated>
+  <updated>2024-03-10T01:36:52Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>amkrajewski/nimCSO</title>
+    <updated>2024-03-10T01:36:52Z</updated>
+    <id>tag:github.com,2024-03-10:/amkrajewski/nimCSO</id>
+    <link href="https://github.com/amkrajewski/nimCSO" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nim Composition Space Optimization is a high-performance tool leveraging metaprogramming to implement several methods for selecting components (data dimensions) in compositional datasets, as to optimize the data availability and density for applications such as machine learning.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

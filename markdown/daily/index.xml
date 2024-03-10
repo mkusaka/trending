@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-09T01:27:29Z</updated>
+  <updated>2024-03-10T01:35:50Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>selwynpolit/d9book</title>
-    <updated>2024-03-09T01:27:29Z</updated>
-    <id>tag:github.com,2024-03-09:/selwynpolit/d9book</id>
-    <link href="https://github.com/selwynpolit/d9book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Drupal at your Fingertips: A developers quick reference for Drupal 9 and 10&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>open-math/ru.omath</title>
-    <updated>2024-03-09T01:27:29Z</updated>
-    <id>tag:github.com,2024-03-09:/open-math/ru.omath</id>
-    <link href="https://github.com/open-math/ru.omath" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Математика без границ!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JReyesPetroil/upptime</title>
+    <updated>2024-03-10T01:35:50Z</updated>
+    <id>tag:github.com,2024-03-10:/JReyesPetroil/upptime</id>
+    <link href="https://github.com/JReyesPetroil/upptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for JReyesPetroil, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

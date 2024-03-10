@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-09T01:23:31Z</updated>
+  <updated>2024-03-10T01:30:25Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dimp-gh/configs</title>
-    <updated>2024-03-09T01:23:31Z</updated>
-    <id>tag:github.com,2024-03-09:/dimp-gh/configs</id>
-    <link href="https://github.com/dimp-gh/configs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Preferable configs for various software.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-10T02:04:06Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hannahwhy/vimfiles</title>
+    <updated>2024-03-10T02:04:06Z</updated>
+    <id>tag:github.com,2024-03-10:/hannahwhy/vimfiles</id>
+    <link href="https://github.com/hannahwhy/vimfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mirror of https://code.ninjawedding.org/git/vimfiles.git&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jacoborus/tender.vim</title>
+    <updated>2024-03-10T02:04:06Z</updated>
+    <id>tag:github.com,2024-03-10:/jacoborus/tender.vim</id>
+    <link href="https://github.com/jacoborus/tender.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A 24bit colorscheme for Vim, Airline and Lightline&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terryma/vim-expand-region</title>
+    <updated>2024-03-10T02:04:06Z</updated>
+    <id>tag:github.com,2024-03-10:/terryma/vim-expand-region</id>
+    <link href="https://github.com/terryma/vim-expand-region" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

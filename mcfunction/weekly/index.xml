@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub mcfunction Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-10T01:56:08Z</updated>
+  <subtitle>Weekly Trending of mcfunction in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Hatchibombotar/graves-addon</title>
+    <updated>2024-03-10T01:56:08Z</updated>
+    <id>tag:github.com,2024-03-10:/Hatchibombotar/graves-addon</id>
+    <link href="https://github.com/Hatchibombotar/graves-addon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source graves addon for Minecraft: Bedrock Edition&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

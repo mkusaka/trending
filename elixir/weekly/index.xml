@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-10T01:50:19Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mozilla/reticulum</title>
+    <updated>2024-03-10T01:50:19Z</updated>
+    <id>tag:github.com,2024-03-10:/mozilla/reticulum</id>
+    <link href="https://github.com/mozilla/reticulum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Phoenix web server for hubs.mozilla.com&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jellyfish-dev/membrane_rtc_engine</title>
+    <updated>2024-03-10T01:50:19Z</updated>
+    <id>tag:github.com,2024-03-10:/jellyfish-dev/membrane_rtc_engine</id>
+    <link href="https://github.com/jellyfish-dev/membrane_rtc_engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Customizable Real-time Communication Engine/SFU library focused on WebRTC.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cbh123/stickerbaker</title>
+    <updated>2024-03-10T01:50:19Z</updated>
+    <id>tag:github.com,2024-03-10:/cbh123/stickerbaker</id>
+    <link href="https://github.com/cbh123/stickerbaker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Let&#39;s bake some (AI) stickers!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

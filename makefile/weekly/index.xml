@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-10T01:55:53Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Vadimohka/Fundamentals-of-algorithmization-and-programming</title>
+    <updated>2024-03-10T01:55:53Z</updated>
+    <id>tag:github.com,2024-03-10:/Vadimohka/Fundamentals-of-algorithmization-and-programming</id>
+    <link href="https://github.com/Vadimohka/Fundamentals-of-algorithmization-and-programming" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Labs work first course of BSUIR&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bouffalolab/bl_iot_sdk_tiny</title>
+    <updated>2024-03-10T01:55:53Z</updated>
+    <id>tag:github.com,2024-03-10:/bouffalolab/bl_iot_sdk_tiny</id>
+    <link href="https://github.com/bouffalolab/bl_iot_sdk_tiny" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IoT SDK only for Matter (no toolchain, Matter-specific, non-universal SDK)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sbwml/packages_lang_golang</title>
+    <updated>2024-03-10T01:55:53Z</updated>
+    <id>tag:github.com,2024-03-10:/sbwml/packages_lang_golang</id>
+    <link href="https://github.com/sbwml/packages_lang_golang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
