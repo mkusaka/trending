@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-10T01:42:04Z</updated>
+  <updated>2024-03-11T01:35:30Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SocketDotTech/socket-plugs</title>
-    <updated>2024-03-10T01:42:04Z</updated>
-    <id>tag:github.com,2024-03-10:/SocketDotTech/socket-plugs</id>
-    <link href="https://github.com/SocketDotTech/socket-plugs" rel="alternate"></link>
+    <title>open-ibc/vibc-core-smart-contracts</title>
+    <updated>2024-03-11T01:35:30Z</updated>
+    <id>tag:github.com,2024-03-11:/open-ibc/vibc-core-smart-contracts</id>
+    <link href="https://github.com/open-ibc/vibc-core-smart-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Brechtpd/base64</title>
+    <updated>2024-03-11T01:35:30Z</updated>
+    <id>tag:github.com,2024-03-11:/Brechtpd/base64</id>
+    <link href="https://github.com/Brechtpd/base64" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-10T01:32:38Z</updated>
+  <updated>2024-03-11T01:28:10Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms</title>
+    <updated>2024-03-11T01:28:10Z</updated>
+    <id>tag:github.com,2024-03-11:/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms</id>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module for creating alarms for tracking important changes and occurrences from cloudtrail.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-key-pair</title>
+    <updated>2024-03-11T01:28:10Z</updated>
+    <id>tag:github.com,2024-03-11:/cloudposse/terraform-aws-key-pair</id>
+    <link href="https://github.com/cloudposse/terraform-aws-key-pair" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Module to Automatically Generate SSH Key Pairs (Public/Private Keys)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-10T01:32:38Z</updated>
+  <updated>2024-03-11T01:28:10Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ruby0x1/hx-simple-events</title>
-    <updated>2024-03-10T01:32:38Z</updated>
-    <id>tag:github.com,2024-03-10:/ruby0x1/hx-simple-events</id>
-    <link href="https://github.com/ruby0x1/hx-simple-events" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple event (signal/slot) system for haxe&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Simple event system&lt;/h1&gt; &#xA;&lt;p&gt;A simple event (signal/slot) system for &lt;a href=&#34;http://haxe.org/&#34;&gt;Haxe&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Simple Usage, connect listeners to an event :&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haxe&#34;&gt;class Example {&#xA;&#xA;    function explain() {&#xA;        //connect listener function&#xA;&#xA;        var id1 = events.connect( &#39;event1&#39;, function(e){ //first handler } );&#xA;        var id2 = events.connect( &#39;event1&#39;, function(e){ //second handler } );&#xA;&#xA;            //disconnect handler 1&#xA;        events.disconnect(id1);&#xA;&#xA;            //trigger the events at some time&#xA;        events.fire(&#39;event1&#39;, { somedata:&#39;a message!&#39;} );&#xA;&#xA;            //you can schedule events in the future&#xA;        var sched = events.schedule( 10.0, &#39;event1&#39;, { somedata:&#39;A message 10s from now!&#39;} );&#xA;&#xA;            //you can also queue events for the next events.update()&#xA;            //this can be used as an overall message queue but explicit control&#xA;    }&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

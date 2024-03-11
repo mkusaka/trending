@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-10T01:44:21Z</updated>
+  <updated>2024-03-11T01:37:08Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>holochain/launcher</title>
+    <updated>2024-03-11T01:37:08Z</updated>
+    <id>tag:github.com,2024-03-11:/holochain/launcher</id>
+    <link href="https://github.com/holochain/launcher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Desktop launcher to install and use Holochain apps locally&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Holo-Host/host-console-ui</title>
+    <updated>2024-03-11T01:37:08Z</updated>
+    <id>tag:github.com,2024-03-11:/Holo-Host/host-console-ui</id>
+    <link href="https://github.com/Holo-Host/host-console-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

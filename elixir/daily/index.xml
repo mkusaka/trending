@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-10T01:30:19Z</updated>
+  <updated>2024-03-11T01:26:13Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tv-labs/lua</title>
-    <updated>2024-03-10T01:30:19Z</updated>
-    <id>tag:github.com,2024-03-10:/tv-labs/lua</id>
-    <link href="https://github.com/tv-labs/lua" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The most ergomonic interface to Luerl in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elixirmoney/money</title>
-    <updated>2024-03-10T01:30:19Z</updated>
-    <id>tag:github.com,2024-03-10:/elixirmoney/money</id>
-    <link href="https://github.com/elixirmoney/money" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir library for working with Money safer, easier, and fun... Is an interpretation of the Fowler&#39;s Money pattern in fun.prog.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hexpm/search</title>
-    <updated>2024-03-10T01:30:19Z</updated>
-    <id>tag:github.com,2024-03-10:/hexpm/search</id>
-    <link href="https://github.com/hexpm/search" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;search.hex.pm&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mbta/screens</title>
+    <updated>2024-03-11T01:26:13Z</updated>
+    <id>tag:github.com,2024-03-11:/mbta/screens</id>
+    <link href="https://github.com/mbta/screens" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Screens&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

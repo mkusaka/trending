@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JSON Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-10T01:34:11Z</updated>
+  <updated>2024-03-11T01:29:23Z</updated>
   <subtitle>Daily Trending of JSON in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jscmidt/upptime</title>
+    <updated>2024-03-11T01:29:23Z</updated>
+    <id>tag:github.com,2024-03-11:/jscmidt/upptime</id>
+    <link href="https://github.com/jscmidt/upptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for JSAnyone, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Zxce3/status</title>
+    <updated>2024-03-11T01:29:23Z</updated>
+    <id>tag:github.com,2024-03-11:/Zxce3/status</id>
+    <link href="https://github.com/Zxce3/status" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Status monitor for *.zxce3.net&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Lwnlcks/namgall-status</title>
+    <updated>2024-03-11T01:29:23Z</updated>
+    <id>tag:github.com,2024-03-11:/Lwnlcks/namgall-status</id>
+    <link href="https://github.com/Lwnlcks/namgall-status" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Lwnlcks, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

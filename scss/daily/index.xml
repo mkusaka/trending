@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-10T01:41:16Z</updated>
+  <updated>2024-03-11T01:34:59Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>shyamjos/wedding-website</title>
-    <updated>2024-03-10T01:41:16Z</updated>
-    <id>tag:github.com,2024-03-10:/shyamjos/wedding-website</id>
-    <link href="https://github.com/shyamjos/wedding-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code for our wedding website 👫.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mmssolutionsio/mms-livingdocs-library</title>
-    <updated>2024-03-10T01:41:16Z</updated>
-    <id>tag:github.com,2024-03-10:/mmssolutionsio/mms-livingdocs-library</id>
-    <link href="https://github.com/mmssolutionsio/mms-livingdocs-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>spinkube/documentation</title>
-    <updated>2024-03-10T01:41:16Z</updated>
-    <id>tag:github.com,2024-03-10:/spinkube/documentation</id>
-    <link href="https://github.com/spinkube/documentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Docs for the SpinKube community project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shlinkio/shlink.io</title>
+    <updated>2024-03-11T01:34:59Z</updated>
+    <id>tag:github.com,2024-03-11:/shlinkio/shlink.io</id>
+    <link href="https://github.com/shlinkio/shlink.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shlink project website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-10T01:37:00Z</updated>
+  <updated>2024-03-11T01:31:46Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nix-open-org/org</title>
-    <updated>2024-03-10T01:37:00Z</updated>
-    <id>tag:github.com,2024-03-10:/nix-open-org/org</id>
-    <link href="https://github.com/nix-open-org/org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Prototype for a declarative NixOS organization&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>m15a/flake-fennel-tools</title>
-    <updated>2024-03-10T01:37:00Z</updated>
-    <id>tag:github.com,2024-03-10:/m15a/flake-fennel-tools</id>
-    <link href="https://github.com/m15a/flake-fennel-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix flake of Fennel development tools.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>StuDocu/nixpkgs</title>
-    <updated>2024-03-10T01:37:00Z</updated>
-    <id>tag:github.com,2024-03-10:/StuDocu/nixpkgs</id>
-    <link href="https://github.com/StuDocu/nixpkgs" rel="alternate"></link>
+    <title>holochain/holochain-infra</title>
+    <updated>2024-03-11T01:31:46Z</updated>
+    <id>tag:github.com,2024-03-11:/holochain/holochain-infra</id>
+    <link href="https://github.com/holochain/holochain-infra" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>holochain/holonix</title>
+    <updated>2024-03-11T01:31:46Z</updated>
+    <id>tag:github.com,2024-03-11:/holochain/holonix</id>
+    <link href="https://github.com/holochain/holonix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NixOS &amp;&amp; Holochain&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
