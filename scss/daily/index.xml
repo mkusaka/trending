@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-11T01:34:59Z</updated>
+  <updated>2024-03-12T01:40:14Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>shlinkio/shlink.io</title>
-    <updated>2024-03-11T01:34:59Z</updated>
-    <id>tag:github.com,2024-03-11:/shlinkio/shlink.io</id>
-    <link href="https://github.com/shlinkio/shlink.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shlink project website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>UCLAdeepvision/CS188-Projects-2024Winter</title>
+    <updated>2024-03-12T01:40:14Z</updated>
+    <id>tag:github.com,2024-03-12:/UCLAdeepvision/CS188-Projects-2024Winter</id>
+    <link href="https://github.com/UCLAdeepvision/CS188-Projects-2024Winter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gohugoio/hugo-mod-bootstrap-scss</title>
+    <updated>2024-03-12T01:40:14Z</updated>
+    <id>tag:github.com,2024-03-12:/gohugoio/hugo-mod-bootstrap-scss</id>
+    <link href="https://github.com/gohugoio/hugo-mod-bootstrap-scss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Packages Bootstrap SCSS (v4 and v5) as a Hugo Module&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

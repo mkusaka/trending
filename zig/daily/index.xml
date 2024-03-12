@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-11T01:37:49Z</updated>
+  <updated>2024-03-12T01:44:31Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zfl9/chinadns-ng</title>
-    <updated>2024-03-11T01:37:49Z</updated>
-    <id>tag:github.com,2024-03-11:/zfl9/chinadns-ng</id>
-    <link href="https://github.com/zfl9/chinadns-ng" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;chinadns 重构增强版，支持黑白名单，ipset/nftset&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

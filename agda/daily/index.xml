@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Agda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-11T01:22:55Z</updated>
+  <updated>2024-03-12T01:22:58Z</updated>
   <subtitle>Daily Trending of Agda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>agda/agda2hs</title>
-    <updated>2024-03-11T01:22:55Z</updated>
-    <id>tag:github.com,2024-03-11:/agda/agda2hs</id>
-    <link href="https://github.com/agda/agda2hs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compiling Agda code to readable Haskell&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

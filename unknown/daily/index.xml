@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-11T01:22:37Z</updated>
+  <updated>2024-03-12T01:22:27Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>moonbitlang/core</title>
-    <updated>2024-03-11T01:22:37Z</updated>
-    <id>tag:github.com,2024-03-11:/moonbitlang/core</id>
-    <link href="https://github.com/moonbitlang/core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MoonBit&#39;s standard library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nenalukic/free-datasets-APIs</title>
+    <updated>2024-03-12T01:22:27Z</updated>
+    <id>tag:github.com,2024-03-12:/nenalukic/free-datasets-APIs</id>
+    <link href="https://github.com/nenalukic/free-datasets-APIs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Dr-TSNG/ZygiskNext</title>
-    <updated>2024-03-11T01:22:37Z</updated>
-    <id>tag:github.com,2024-03-11:/Dr-TSNG/ZygiskNext</id>
-    <link href="https://github.com/Dr-TSNG/ZygiskNext" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standalone implementation of Zygisk&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ruesandora/Polymer</title>
+    <updated>2024-03-12T01:22:27Z</updated>
+    <id>tag:github.com,2024-03-12:/ruesandora/Polymer</id>
+    <link href="https://github.com/ruesandora/Polymer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ruesandora/AO</title>
+    <updated>2024-03-12T01:22:27Z</updated>
+    <id>tag:github.com,2024-03-12:/ruesandora/AO</id>
+    <link href="https://github.com/ruesandora/AO" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-11T01:23:52Z</updated>
+  <updated>2024-03-12T01:24:18Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ginsudev/YTMusicUltimate</title>
-    <updated>2024-03-11T01:23:52Z</updated>
-    <id>tag:github.com,2024-03-11:/ginsudev/YTMusicUltimate</id>
-    <link href="https://github.com/ginsudev/YTMusicUltimate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The best tweak for YouTube Music iOS.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;YTMusicUltimate&lt;/h1&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true)&#34;&gt; &lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/38832025/235781207-6d1ad44e-0c32-4aec-9c75-cb928ca8a0d3.png?raw=true)&#34;&gt; &lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; The best tweak for the YouTube Music on iOS. &lt;/p&gt; &#xA;&lt;h2&gt;Download Links&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;Jailbreak:&lt;/strong&gt; Add &lt;strong&gt;&lt;a href=&#34;https://ginsu.dev/repo&#34;&gt;https://ginsu.dev/repo&lt;/a&gt;&lt;/strong&gt; to your favorite installer and download latest version from there, or from &lt;strong&gt;&lt;a href=&#34;https://github.com/ginsudev/YTMusicUltimate/releases&#34;&gt;Releases&lt;/a&gt;&lt;/strong&gt; page.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;(arm.deb version for Rootful and arm64.deb version for Rootless devices)&lt;/p&gt; &#xA;&lt;h2&gt;How to build the package by yourself on your device&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Install &lt;strong&gt;&lt;a href=&#34;https://theos.dev/docs/installation&#34;&gt;Theos&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Clone this repo &lt;strong&gt;&lt;a href=&#34;https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository&#34;&gt;using git&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Cd your YTMusicUltimate folder and run:&lt;/p&gt; &lt;p&gt;• &#39;&lt;strong&gt;make clean package&lt;/strong&gt;&#39; to build deb for rootful device&lt;/p&gt; &lt;p&gt;• &#39;&lt;strong&gt;make clean package ROOTLESS=1&lt;/strong&gt;&#39; to build deb for rootless device&lt;/p&gt; &lt;p&gt;• &#39;&lt;strong&gt;make clean package SIDELOADING=1&lt;/strong&gt;&#39; to build deb for injecting in to ipa&lt;/p&gt; &lt;p&gt;• To learn how to inject tweaks in to ipa visit &lt;strong&gt;&lt;a href=&#34;https://github.com/Al4ise/Azule&#34;&gt;here (Azule)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Made with ❤ by Ginsu and Dayanch96&lt;/p&gt;</summary>
-  </entry>
 </feed>

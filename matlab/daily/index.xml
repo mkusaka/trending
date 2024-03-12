@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-11T01:30:54Z</updated>
+  <updated>2024-03-12T01:34:21Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mathworks/awesome-matlab-students</title>
-    <updated>2024-03-11T01:30:54Z</updated>
-    <id>tag:github.com,2024-03-11:/mathworks/awesome-matlab-students</id>
-    <link href="https://github.com/mathworks/awesome-matlab-students" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An awesome list of helpful resources for students learning MATLAB &amp; Simulink. List includes tips &amp; tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB &amp; Simulink.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

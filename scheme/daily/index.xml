@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-11T01:34:46Z</updated>
+  <updated>2024-03-12T01:39:52Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mighty-gerbils/gerbil-persist</title>
-    <updated>2024-03-11T01:34:46Z</updated>
-    <id>tag:github.com,2024-03-11:/mighty-gerbils/gerbil-persist</id>
-    <link href="https://github.com/mighty-gerbils/gerbil-persist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Persistence of concurrent activities for Gerbil Scheme&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rzukic/zed-matlab</title>
-    <updated>2024-03-11T01:34:46Z</updated>
-    <id>tag:github.com,2024-03-11:/rzukic/zed-matlab</id>
-    <link href="https://github.com/rzukic/zed-matlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

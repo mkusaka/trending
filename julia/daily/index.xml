@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-11T01:29:30Z</updated>
+  <updated>2024-03-12T01:32:41Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaPackaging/Preferences.jl</title>
-    <updated>2024-03-11T01:29:30Z</updated>
-    <id>tag:github.com,2024-03-11:/JuliaPackaging/Preferences.jl</id>
-    <link href="https://github.com/JuliaPackaging/Preferences.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project Preferences Package&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>exanauts/ExaModels.jl</title>
+    <updated>2024-03-12T01:32:41Z</updated>
+    <id>tag:github.com,2024-03-12:/exanauts/ExaModels.jl</id>
+    <link href="https://github.com/exanauts/ExaModels.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An algebraic modeling and automatic differentiation tool in Julia Language, specialized for SIMD abstraction of nonlinear programs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

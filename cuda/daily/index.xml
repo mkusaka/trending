@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-11T01:24:57Z</updated>
+  <updated>2024-03-12T01:25:38Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tspeterkim/flash-attention-minimal</title>
-    <updated>2024-03-11T01:24:57Z</updated>
-    <id>tag:github.com,2024-03-11:/tspeterkim/flash-attention-minimal</id>
-    <link href="https://github.com/tspeterkim/flash-attention-minimal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flash Attention in ~100 lines of CUDA (forward pass only)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

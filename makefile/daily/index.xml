@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-11T01:30:46Z</updated>
+  <updated>2024-03-12T01:34:10Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>wulffern/aicex</title>
-    <updated>2024-03-11T01:30:46Z</updated>
-    <id>tag:github.com,2024-03-11:/wulffern/aicex</id>
-    <link href="https://github.com/wulffern/aicex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Files for Advanced Integrated Circuits&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>duckdb/extension-ci-tools</title>
-    <updated>2024-03-11T01:30:46Z</updated>
-    <id>tag:github.com,2024-03-11:/duckdb/extension-ci-tools</id>
-    <link href="https://github.com/duckdb/extension-ci-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository containing reusable workflows / actions for building DuckDB extensions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-11T01:28:13Z</updated>
+  <updated>2024-03-12T01:30:29Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>freuk/iter</title>
+    <updated>2024-03-12T01:30:29Z</updated>
+    <id>tag:github.com,2024-03-12:/freuk/iter</id>
+    <link href="https://github.com/freuk/iter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔁 Code iteration tool running on Groq&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;iter 🔁&lt;/h1&gt; &#xA;&lt;p&gt;A code iteration tool running on the &lt;a href=&#34;https://console.groq.com&#34;&gt;Groq API&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This is an UX experiment and demo for code iteration with &lt;a href=&#34;https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback&#34;&gt;RHLF-based&lt;/a&gt; LLMs. It takes the form of a &lt;a href=&#34;https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop&#34;&gt;REPL&lt;/a&gt; with free-form text that lets the user quickly iterate on diffs and pipe feedback (e.g. compilers and test suites) into the LLM before triggering &lt;a href=&#34;https://github.com/rxlqn/awesome-llm-self-reflection&#34;&gt;self-reflection&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=eR855VNPjhk&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/eR855VNPjhk/0.jpg&#34; alt=&#34;Video demo&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;usage&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://console.groq.com&#34;&gt;Create an account and generate your API key&lt;/a&gt; from Groq!&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Install &lt;a href=&#34;https://nixos.org/&#34;&gt;Nix&lt;/a&gt;.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Install &lt;code&gt;iter&lt;/code&gt; via:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;nix profile install github:freuk/iter#iter&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Or directly run the &lt;code&gt;iter&lt;/code&gt; binary via &lt;code&gt;nix run github:freuk/iter#iter&lt;/code&gt;.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;By default, &lt;code&gt;iter&lt;/code&gt; uses &lt;code&gt;mixtral-8x7b-32768&lt;/code&gt;, a 32k sequence length MoE of 7b parameter language models from &lt;a href=&#34;https://mistral.ai/&#34;&gt;Mistral AI&lt;/a&gt;. Use &lt;code&gt;--config&lt;/code&gt; (see &lt;code&gt;demos/&lt;/code&gt; for examples) to change this choice to one of the other available models.&lt;/p&gt; &#xA;&lt;h2&gt;development&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;nix-shell&lt;/code&gt; will give you a development environment for &lt;code&gt;iter&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;ghcid&lt;/code&gt;: live GHC feedback&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;just&lt;/code&gt;: useful commands for interactive development&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>
