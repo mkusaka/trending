@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-12T01:35:30Z</updated>
+  <updated>2024-03-13T01:32:58Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tcarrio/nix-config</title>
-    <updated>2024-03-12T01:35:30Z</updated>
-    <id>tag:github.com,2024-03-12:/tcarrio/nix-config</id>
-    <link href="https://github.com/tcarrio/nix-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix configurations for various home laptops, desktops, and servers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adisbladis/kakapo</title>
+    <updated>2024-03-13T01:32:58Z</updated>
+    <id>tag:github.com,2024-03-13:/adisbladis/kakapo</id>
+    <link href="https://github.com/adisbladis/kakapo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Nix web bundler because why not&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>caarlos0/dotfiles</title>
+    <updated>2024-03-13T01:32:58Z</updated>
+    <id>tag:github.com,2024-03-13:/caarlos0/dotfiles</id>
+    <link href="https://github.com/caarlos0/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;dotfiles (home-manager), nixOS, and nix-darwin configurations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nix-community/docker-nixpkgs</title>
+    <updated>2024-03-13T01:32:58Z</updated>
+    <id>tag:github.com,2024-03-13:/nix-community/docker-nixpkgs</id>
+    <link href="https://github.com/nix-community/docker-nixpkgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;docker images from nixpkgs [maintainer=@zimbatm]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

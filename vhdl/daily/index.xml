@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-12T01:43:17Z</updated>
+  <updated>2024-03-13T01:38:34Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>naavaneetha/BOOLEAN_FUNCTION_MINIMIZATION</title>
-    <updated>2024-03-12T01:43:17Z</updated>
-    <id>tag:github.com,2024-03-12:/naavaneetha/BOOLEAN_FUNCTION_MINIMIZATION</id>
-    <link href="https://github.com/naavaneetha/BOOLEAN_FUNCTION_MINIMIZATION" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hdl-modules/hdl-modules</title>
+    <updated>2024-03-13T01:38:34Z</updated>
+    <id>tag:github.com,2024-03-13:/hdl-modules/hdl-modules</id>
+    <link href="https://github.com/hdl-modules/hdl-modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of reusable, high-quality, peer-reviewed VHDL building blocks.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

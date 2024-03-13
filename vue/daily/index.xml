@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-12T01:43:31Z</updated>
+  <updated>2024-03-13T01:38:46Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>wizarrrr/wizarr</title>
-    <updated>2024-03-12T01:43:31Z</updated>
-    <id>tag:github.com,2024-03-12:/wizarrrr/wizarr</id>
-    <link href="https://github.com/wizarrrr/wizarr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ad-on-is/resticity</title>
-    <updated>2024-03-12T01:43:31Z</updated>
-    <id>tag:github.com,2024-03-12:/ad-on-is/resticity</id>
-    <link href="https://github.com/ad-on-is/resticity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>YangMr/elm-ui</title>
-    <updated>2024-03-12T01:43:31Z</updated>
-    <id>tag:github.com,2024-03-12:/YangMr/elm-ui</id>
-    <link href="https://github.com/YangMr/elm-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ui组件库&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

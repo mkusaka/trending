@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Component Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-12T01:25:23Z</updated>
+  <updated>2024-03-13T01:25:57Z</updated>
   <subtitle>Daily Trending of Component Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>reinaldorauch/exerProva230413</title>
-    <updated>2024-03-12T01:25:23Z</updated>
-    <id>tag:github.com,2024-03-12:/reinaldorauch/exerProva230413</id>
-    <link href="https://github.com/reinaldorauch/exerProva230413" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;exerProva230413&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

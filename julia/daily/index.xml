@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-12T01:32:41Z</updated>
+  <updated>2024-03-13T01:30:59Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>exanauts/ExaModels.jl</title>
-    <updated>2024-03-12T01:32:41Z</updated>
-    <id>tag:github.com,2024-03-12:/exanauts/ExaModels.jl</id>
-    <link href="https://github.com/exanauts/ExaModels.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An algebraic modeling and automatic differentiation tool in Julia Language, specialized for SIMD abstraction of nonlinear programs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AtelierArith/OkinawaCompPhysFoodSurvey2024.jl</title>
+    <updated>2024-03-13T01:30:59Z</updated>
+    <id>tag:github.com,2024-03-13:/AtelierArith/OkinawaCompPhysFoodSurvey2024.jl</id>
+    <link href="https://github.com/AtelierArith/OkinawaCompPhysFoodSurvey2024.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;計算物理春の学校の教材: みんなで作る WordCloud&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sintefmath/SurfaceWaterIntegratedModeling.jl</title>
+    <updated>2024-03-13T01:30:59Z</updated>
+    <id>tag:github.com,2024-03-13:/sintefmath/SurfaceWaterIntegratedModeling.jl</id>
+    <link href="https://github.com/sintefmath/SurfaceWaterIntegratedModeling.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SWIM - Surface Water Integrated Modeling&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

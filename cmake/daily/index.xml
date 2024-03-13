@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-12T01:25:08Z</updated>
+  <updated>2024-03-13T01:25:46Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>friendlyanon/pimpl-but-the-p-is-silent</title>
+    <updated>2024-03-13T01:25:46Z</updated>
+    <id>tag:github.com,2024-03-13:/friendlyanon/pimpl-but-the-p-is-silent</id>
+    <link href="https://github.com/friendlyanon/pimpl-but-the-p-is-silent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C++ PIMPL idiom without an allocation involved&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

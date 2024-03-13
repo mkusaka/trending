@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-12T01:37:09Z</updated>
+  <updated>2024-03-13T01:34:19Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tembo-io/pg_timeseries</title>
-    <updated>2024-03-12T01:37:09Z</updated>
-    <id>tag:github.com,2024-03-12:/tembo-io/pg_timeseries</id>
-    <link href="https://github.com/tembo-io/pg_timeseries" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple and focused time-series tables for PostgreSQL, from Tembo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PascalSun/DW_2024</title>
-    <updated>2024-03-12T01:37:09Z</updated>
-    <id>tag:github.com,2024-03-12:/PascalSun/DW_2024</id>
-    <link href="https://github.com/PascalSun/DW_2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

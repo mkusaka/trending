@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AppleScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-12T01:23:15Z</updated>
+  <updated>2024-03-13T01:24:11Z</updated>
   <subtitle>Daily Trending of AppleScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>milligramme/prepare_dotjs_chrome</title>
+    <updated>2024-03-13T01:24:11Z</updated>
+    <id>tag:github.com,2024-03-13:/milligramme/prepare_dotjs_chrome</id>
+    <link href="https://github.com/milligramme/prepare_dotjs_chrome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;setup script for dotjs+chrome&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ummmmm&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/milligramme/prepare_dotjs_chrome/master/localhostssl.png&#34; alt=&#34;Localhostssl&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;description&lt;/h2&gt; &#xA;&lt;p&gt;dotjs + chrome setup script&lt;/p&gt; &#xA;&lt;h2&gt;require&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/defunkt/dotjs&#34;&gt;defunkt/dotjs · GitHub&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://www.bluem.net/de/mac/cliclick/&#34;&gt;cliclick v2 or later&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;usage&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;run prepare_dotjs_chrome.app (compile prepare_dotjs_chrome.applescript)&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;run with shellscript&lt;/p&gt; &lt;pre&gt;&lt;code&gt;  $ osascript /path/to/prepare_dotjs_chrome.applescipt&#xA;  or &#xA;  $ sh prepare_dotjs.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;set prepare_dotjs_chrome.app to login item for auto setup&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

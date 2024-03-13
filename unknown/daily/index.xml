@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-12T01:22:27Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2024-03-13T01:23:28Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nenalukic/free-datasets-APIs</title>
-    <updated>2024-03-12T01:22:27Z</updated>
-    <id>tag:github.com,2024-03-12:/nenalukic/free-datasets-APIs</id>
-    <link href="https://github.com/nenalukic/free-datasets-APIs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shashankrustagi/DSA-IITD-NaveenGarg</title>
+    <updated>2024-03-13T01:23:28Z</updated>
+    <id>tag:github.com,2024-03-13:/shashankrustagi/DSA-IITD-NaveenGarg</id>
+    <link href="https://github.com/shashankrustagi/DSA-IITD-NaveenGarg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DSA notes of Dr Naveen Garg, IIT Delhi, NPTEL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ruesandora/Polymer</title>
-    <updated>2024-03-12T01:22:27Z</updated>
-    <id>tag:github.com,2024-03-12:/ruesandora/Polymer</id>
-    <link href="https://github.com/ruesandora/Polymer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pilcrowOnPaper/copenhagen</title>
+    <updated>2024-03-13T01:23:28Z</updated>
+    <id>tag:github.com,2024-03-13:/pilcrowOnPaper/copenhagen</id>
+    <link href="https://github.com/pilcrowOnPaper/copenhagen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A basic guideline on implementing auth for the web&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ruesandora/AO</title>
-    <updated>2024-03-12T01:22:27Z</updated>
-    <id>tag:github.com,2024-03-12:/ruesandora/AO</id>
-    <link href="https://github.com/ruesandora/AO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PixArt-alpha/PixArt-sigma</title>
+    <updated>2024-03-13T01:23:28Z</updated>
+    <id>tag:github.com,2024-03-13:/PixArt-alpha/PixArt-sigma</id>
+    <link href="https://github.com/PixArt-alpha/PixArt-sigma" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;New PixArt Model, Faster, Stronger, Better&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
