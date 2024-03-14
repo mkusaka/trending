@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-13T01:36:29Z</updated>
+  <updated>2024-03-14T01:34:53Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>strato-emu/strato-emu.github.io</title>
-    <updated>2024-03-13T01:36:29Z</updated>
-    <id>tag:github.com,2024-03-13:/strato-emu/strato-emu.github.io</id>
-    <link href="https://github.com/strato-emu/strato-emu.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The website for Strato emulator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chrisowen491/tranmere-web</title>
-    <updated>2024-03-13T01:36:29Z</updated>
-    <id>tag:github.com,2024-03-13:/chrisowen491/tranmere-web</id>
-    <link href="https://github.com/chrisowen491/tranmere-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code for Tranmere-Web.com&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adobe/aem-site-template-standard</title>
+    <updated>2024-03-14T01:34:53Z</updated>
+    <id>tag:github.com,2024-03-14:/adobe/aem-site-template-standard</id>
+    <link href="https://github.com/adobe/aem-site-template-standard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basic site template for AEM that allows non-Java experts to create new sites by customizing CSS and JS only.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

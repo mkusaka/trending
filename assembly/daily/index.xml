@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-13T01:24:22Z</updated>
+  <updated>2024-03-14T01:23:10Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>WKL-Sec/FuncAddressPro</title>
-    <updated>2024-03-13T01:24:22Z</updated>
-    <id>tag:github.com,2024-03-13:/WKL-Sec/FuncAddressPro</id>
-    <link href="https://github.com/WKL-Sec/FuncAddressPro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A stealthy, assembly-based tool for secure function address resolution, offering a robust alternative to GetProcAddress.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GBirkel/merryo_trolls</title>
-    <updated>2024-03-13T01:24:22Z</updated>
-    <id>tag:github.com,2024-03-13:/GBirkel/merryo_trolls</id>
-    <link href="https://github.com/GBirkel/merryo_trolls" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Super Merryo Trolls, an Apple IIgs game abandoned in 1994, then recovered 30 years later with modern tools.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

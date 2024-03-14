@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-13T01:37:00Z</updated>
+  <updated>2024-03-14T01:35:30Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ava-labs/teleporter-starter-kit</title>
-    <updated>2024-03-13T01:37:00Z</updated>
-    <id>tag:github.com,2024-03-13:/ava-labs/teleporter-starter-kit</id>
-    <link href="https://github.com/ava-labs/teleporter-starter-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nrxschool/bootcamp-optimism</title>
+    <updated>2024-03-14T01:35:30Z</updated>
+    <id>tag:github.com,2024-03-14:/nrxschool/bootcamp-optimism</id>
+    <link href="https://github.com/nrxschool/bootcamp-optimism" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template about Optimism Hackathon by NearX&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-13T01:31:59Z</updated>
+  <updated>2024-03-14T01:30:12Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eyeseast/self-hosted-maps-codespace</title>
+    <updated>2024-03-14T01:30:12Z</updated>
+    <id>tag:github.com,2024-03-14:/eyeseast/self-hosted-maps-codespace</id>
+    <link href="https://github.com/eyeseast/self-hosted-maps-codespace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An example self-hosted map with all dependencies included&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-13T01:38:46Z</updated>
+  <updated>2024-03-14T01:37:19Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>unilei/image-watermark-tool</title>
+    <updated>2024-03-14T01:37:19Z</updated>
+    <id>tag:github.com,2024-03-14:/unilei/image-watermark-tool</id>
+    <link href="https://github.com/unilei/image-watermark-tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;图片水印打码工具 - 我们提供一种安全的方法，让您可以在本地设备上为您的图片添加水印，无需任何网络连接。这是保护您敏感证件（如身份证、驾照、护照等）隐私的理想选择。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>YangMr/v3-ts-project</title>
+    <updated>2024-03-14T01:37:19Z</updated>
+    <id>tag:github.com,2024-03-14:/YangMr/v3-ts-project</id>
+    <link href="https://github.com/YangMr/v3-ts-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;v3-ts开发的通用后台管理系统化&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-13T01:23:28Z</updated>
+  <updated>2024-03-14T01:22:17Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>shashankrustagi/DSA-IITD-NaveenGarg</title>
-    <updated>2024-03-13T01:23:28Z</updated>
-    <id>tag:github.com,2024-03-13:/shashankrustagi/DSA-IITD-NaveenGarg</id>
-    <link href="https://github.com/shashankrustagi/DSA-IITD-NaveenGarg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DSA notes of Dr Naveen Garg, IIT Delhi, NPTEL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ai-boost/awesome-prompts</title>
+    <updated>2024-03-14T01:22:17Z</updated>
+    <id>tag:github.com,2024-03-14:/ai-boost/awesome-prompts</id>
+    <link href="https://github.com/ai-boost/awesome-prompts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack &amp; prompt protect. Advanced Prompt Engineering papers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pilcrowOnPaper/copenhagen</title>
-    <updated>2024-03-13T01:23:28Z</updated>
-    <id>tag:github.com,2024-03-13:/pilcrowOnPaper/copenhagen</id>
-    <link href="https://github.com/pilcrowOnPaper/copenhagen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A basic guideline on implementing auth for the web&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>subat0mik/Misconfiguration-Manager</title>
+    <updated>2024-03-14T01:22:17Z</updated>
+    <id>tag:github.com,2024-03-14:/subat0mik/Misconfiguration-Manager</id>
+    <link href="https://github.com/subat0mik/Misconfiguration-Manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PixArt-alpha/PixArt-sigma</title>
-    <updated>2024-03-13T01:23:28Z</updated>
-    <id>tag:github.com,2024-03-13:/PixArt-alpha/PixArt-sigma</id>
-    <link href="https://github.com/PixArt-alpha/PixArt-sigma" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;New PixArt Model, Faster, Stronger, Better&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>armankhondker/best-system-design-resources</title>
+    <updated>2024-03-14T01:22:17Z</updated>
+    <id>tag:github.com,2024-03-14:/armankhondker/best-system-design-resources</id>
+    <link href="https://github.com/armankhondker/best-system-design-resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains System Design Interview resources to design large-scale distributed systems.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

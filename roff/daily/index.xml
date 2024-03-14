@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-13T01:35:46Z</updated>
+  <updated>2024-03-14T01:33:58Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DevSwanson/how-to-create-honeypot-token</title>
-    <updated>2024-03-13T01:35:46Z</updated>
-    <id>tag:github.com,2024-03-13:/DevSwanson/how-to-create-honeypot-token</id>
-    <link href="https://github.com/DevSwanson/how-to-create-honeypot-token" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tutorial on how to create your own honeypot erc20/ bep20 tokens and listing to Uniswap&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DevSwanson/create-honeypot-token</title>
-    <updated>2024-03-13T01:35:46Z</updated>
-    <id>tag:github.com,2024-03-13:/DevSwanson/create-honeypot-token</id>
-    <link href="https://github.com/DevSwanson/create-honeypot-token" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;tutorial on how to create honeypot token&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DevSwanson/smart-contract-honeypot</title>
-    <updated>2024-03-13T01:35:46Z</updated>
-    <id>tag:github.com,2024-03-13:/DevSwanson/smart-contract-honeypot</id>
-    <link href="https://github.com/DevSwanson/smart-contract-honeypot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tutorial on how to create honeypot tokens&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LexouilleTM/yuzu-mods-archive</title>
+    <updated>2024-03-14T01:33:58Z</updated>
+    <id>tag:github.com,2024-03-14:/LexouilleTM/yuzu-mods-archive</id>
+    <link href="https://github.com/LexouilleTM/yuzu-mods-archive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All mods on the official yuzu page but archived&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

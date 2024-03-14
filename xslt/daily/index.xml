@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-13T01:39:16Z</updated>
+  <updated>2024-03-14T01:37:51Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>KONDE-AT/maechtekongresse-static</title>
-    <updated>2024-03-13T01:39:16Z</updated>
-    <id>tag:github.com,2024-03-13:/KONDE-AT/maechtekongresse-static</id>
-    <link href="https://github.com/KONDE-AT/maechtekongresse-static" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;dse-static-cookiecutter application for maechtekongresse&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Mächtekongresse 1818-1822&lt;/h1&gt; &#xA;&lt;p&gt;Repository for a DSE-Static-Cookiecutter version of the &lt;strong&gt;maechtekongresse&lt;/strong&gt; edition.&lt;/p&gt; &#xA;&lt;p&gt;Migration to static site approach: March 2024. TEI XML Data remains unchanged.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;data is fetched from &lt;a href=&#34;https://github.com/KONDE-AT/maechtekongresse&#34;&gt;https://github.com/KONDE-AT/maechtekongresse&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;build with &lt;a href=&#34;https://github.com/acdh-oeaw/dse-static-cookiecutter&#34;&gt;DSE-Static-Cookiecutter&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;--&lt;/p&gt; &#xA;&lt;p&gt;This is the public Repository for the digital scholarly edition of the Mächtekongresse Edition by Karin Schneider and Stephan Kurz, Austrian Academy of Sciences, Institute for Modern and Contemporary Historical Research (since 2020, renamed to &lt;a href=&#34;https://www.oeaw.ac.at/ihb/&#34;&gt;Institute for Habsburg and Balkan Studies&lt;/a&gt;).&lt;/p&gt; &#xA;&lt;p&gt;The web application curated here is deployed at &lt;a href=&#34;https://maechtekongresse.acdh.oeaw.ac.at/&#34;&gt;https://maechtekongresse.acdh.oeaw.ac.at/&lt;/a&gt;, which has the following registered ISBN: 978-3-9504783-0-3.&lt;/p&gt; &#xA;&lt;p&gt;An additional copy of the TEI data is kept at the Austrian Academy of Sciences’ long term research data repository ARCHE under the identifier &lt;a href=&#34;http://hdl.handle.net/21.11115/0000-000C-2093-9&#34;&gt;http://hdl.handle.net/21.11115/0000-000C-2093-9&lt;/a&gt;/&lt;a href=&#34;https://id.acdh.oeaw.ac.at/maechtekongresse&#34;&gt;https://id.acdh.oeaw.ac.at/maechtekongresse&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The web application derived from an earlier version of &lt;a href=&#34;https://github.com/KONDE-AT/dsebaseapp&#34;&gt;https://github.com/KONDE-AT/dsebaseapp&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Data in &lt;code&gt;data&lt;/code&gt; is licenced under CC-BY-SA 4.0 as stated in the TEI files.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.4590269&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/DOI/10.5281/zenodo.4590269.svg?sanitize=true&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-13T01:36:19Z</updated>
+  <updated>2024-03-14T01:34:41Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>randyunger/blankPlayAkkaCouch</title>
-    <updated>2024-03-13T01:36:19Z</updated>
-    <id>tag:github.com,2024-03-13:/randyunger/blankPlayAkkaCouch</id>
-    <link href="https://github.com/randyunger/blankPlayAkkaCouch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A skeleton Play project&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;This is your new Play 2.0 application&lt;/h1&gt; &#xA;&lt;p&gt;This file will be packaged with your application, when using &lt;code&gt;play dist&lt;/code&gt;.&lt;/p&gt;</summary>
+    <title>hmrc/platform-test-example-ui-journey-tests</title>
+    <updated>2024-03-14T01:34:41Z</updated>
+    <id>tag:github.com,2024-03-14:/hmrc/platform-test-example-ui-journey-tests</id>
+    <link href="https://github.com/hmrc/platform-test-example-ui-journey-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;platform-test-example-ui-journey-tests&lt;/h1&gt; &#xA;&lt;p&gt;Example UI journey tests.&lt;/p&gt; &#xA;&lt;h2&gt;Pre-requisites&lt;/h2&gt; &#xA;&lt;h3&gt;Services&lt;/h3&gt; &#xA;&lt;p&gt;Start Mongo Docker container as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;docker run --rm -d -p 27017:27017 --name mongo percona/percona-server-mongodb:5.0&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Start &lt;code&gt;PLATFORM_TEST_EXAMPLE_UI_JOURNEY_TESTS&lt;/code&gt; services as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sm2 --start PLATFORM_TEST_EXAMPLE_UI_JOURNEY_TESTS&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Docker Selenium Grid&lt;/h3&gt; &#xA;&lt;p&gt;Confirm that &lt;a href=&#34;https://github.com/hmrc/docker-selenium-grid&#34;&gt;docker-selenium-grid&lt;/a&gt; is up-to-date and follow the provided &lt;a href=&#34;https://github.com/hmrc/docker-selenium-grid/raw/main/README.md&#34;&gt;instructions&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Tests&lt;/h2&gt; &#xA;&lt;p&gt;Run tests as follows:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Argument &lt;code&gt;&amp;lt;browser&amp;gt;&lt;/code&gt; must be &lt;code&gt;chrome&lt;/code&gt;, &lt;code&gt;edge&lt;/code&gt;, or &lt;code&gt;firefox&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Argument &lt;code&gt;&amp;lt;environment&amp;gt;&lt;/code&gt; must be &lt;code&gt;local&lt;/code&gt;, &lt;code&gt;dev&lt;/code&gt;, &lt;code&gt;qa&lt;/code&gt; or &lt;code&gt;staging&lt;/code&gt;.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;./run-tests.sh &amp;lt;browser&amp;gt; &amp;lt;environment&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Scalafmt&lt;/h2&gt; &#xA;&lt;p&gt;Check all project files are formatted as expected as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt scalafmtCheckAll scalafmtCheck&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Format &lt;code&gt;*.sbt&lt;/code&gt; and &lt;code&gt;project/*.scala&lt;/code&gt; files as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt scalafmtSbt&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Format all project files as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt scalafmtAll&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;This code is open source software licensed under the &lt;a href=&#34;https://raw.githubusercontent.com/hmrc/platform-test-example-ui-journey-tests/main/%22http://www.apache.org/licenses/LICENSE-2.0.html%22&#34;&gt;Apache 2.0 License&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>
