@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-14T01:35:30Z</updated>
+  <updated>2024-03-15T01:36:44Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nrxschool/bootcamp-optimism</title>
-    <updated>2024-03-14T01:35:30Z</updated>
-    <id>tag:github.com,2024-03-14:/nrxschool/bootcamp-optimism</id>
-    <link href="https://github.com/nrxschool/bootcamp-optimism" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template about Optimism Hackathon by NearX&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Web3-Ethiopia/Web3-Class-Code</title>
+    <updated>2024-03-15T01:36:44Z</updated>
+    <id>tag:github.com,2024-03-15:/Web3-Ethiopia/Web3-Class-Code</id>
+    <link href="https://github.com/Web3-Ethiopia/Web3-Class-Code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenSpace100/blockchain-tasks</title>
+    <updated>2024-03-15T01:36:44Z</updated>
+    <id>tag:github.com,2024-03-15:/OpenSpace100/blockchain-tasks</id>
+    <link href="https://github.com/OpenSpace100/blockchain-tasks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pancakeswap/pancake-smart-contracts</title>
+    <updated>2024-03-15T01:36:44Z</updated>
+    <id>tag:github.com,2024-03-15:/pancakeswap/pancake-smart-contracts</id>
+    <link href="https://github.com/pancakeswap/pancake-smart-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PancakeSwap Smart Contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-14T01:24:26Z</updated>
+  <updated>2024-03-15T01:25:22Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fdhenard/cli-reporting</title>
-    <updated>2024-03-14T01:24:26Z</updated>
-    <id>tag:github.com,2024-03-14:/fdhenard/cli-reporting</id>
-    <link href="https://github.com/fdhenard/cli-reporting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Command Line Reporting - old, broken, and dead&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>artifice-cc/geppetto</title>
-    <updated>2024-03-14T01:24:26Z</updated>
-    <id>tag:github.com,2024-03-14:/artifice-cc/geppetto</id>
-    <link href="https://github.com/artifice-cc/geppetto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental support for engineering intelligent systems.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

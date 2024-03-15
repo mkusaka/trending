@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gleam Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-14T01:27:07Z</updated>
+  <updated>2024-03-15T01:28:18Z</updated>
   <subtitle>Daily Trending of Gleam in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rawhat/mist</title>
-    <updated>2024-03-14T01:27:07Z</updated>
-    <id>tag:github.com,2024-03-14:/rawhat/mist</id>
-    <link href="https://github.com/rawhat/mist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;gleam HTTP server. because it glistens on a web&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rawhat/stratus</title>
+    <updated>2024-03-15T01:28:18Z</updated>
+    <id>tag:github.com,2024-03-15:/rawhat/stratus</id>
+    <link href="https://github.com/rawhat/stratus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A gleam websocket client&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gleam-lang/example-todomvc</title>
+    <updated>2024-03-15T01:28:18Z</updated>
+    <id>tag:github.com,2024-03-15:/gleam-lang/example-todomvc</id>
+    <link href="https://github.com/gleam-lang/example-todomvc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📝 An example web application in Gleam&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

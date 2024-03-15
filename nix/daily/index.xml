@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-14T01:31:09Z</updated>
+  <updated>2024-03-15T01:32:43Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Holo-Host/hds-releases</title>
-    <updated>2024-03-14T01:31:09Z</updated>
-    <id>tag:github.com,2024-03-14:/Holo-Host/hds-releases</id>
-    <link href="https://github.com/Holo-Host/hds-releases" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;For public releases of Holo-dev-server&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NixOS-Users-Against-MIC-Sponsorship/NixOS-Users-Against-MIC-Sponsorship.github.io</title>
+    <updated>2024-03-15T01:32:43Z</updated>
+    <id>tag:github.com,2024-03-15:/NixOS-Users-Against-MIC-Sponsorship/NixOS-Users-Against-MIC-Sponsorship.github.io</id>
+    <link href="https://github.com/NixOS-Users-Against-MIC-Sponsorship/NixOS-Users-Against-MIC-Sponsorship.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kampka/nix-flake-crowdsec</title>
-    <updated>2024-03-14T01:31:09Z</updated>
-    <id>tag:github.com,2024-03-14:/kampka/nix-flake-crowdsec</id>
-    <link href="https://github.com/kampka/nix-flake-crowdsec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A nix flake for running Crowdsec on NixOS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>holochain/holochain-nixpkgs</title>
+    <updated>2024-03-15T01:32:43Z</updated>
+    <id>tag:github.com,2024-03-15:/holochain/holochain-nixpkgs</id>
+    <link href="https://github.com/holochain/holochain-nixpkgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>krebs/spora</title>
+    <updated>2024-03-15T01:32:43Z</updated>
+    <id>tag:github.com,2024-03-15:/krebs/spora</id>
+    <link href="https://github.com/krebs/spora" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mycelium subnetwork&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

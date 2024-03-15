@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-14T01:33:22Z</updated>
+  <updated>2024-03-15T01:34:58Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hadley/talk-httr2</title>
-    <updated>2024-03-14T01:33:22Z</updated>
-    <id>tag:github.com,2024-03-14:/hadley/talk-httr2</id>
-    <link href="https://github.com/hadley/talk-httr2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Web APIs in R with httr2&lt;/h1&gt; &#xA;&lt;p&gt;httr2 is an R package that helps you generate and perform HTTP requests then process the responses. In this talk, I&#39;ll introduce you to httr2 and the basics of HTTP, so you can learn what powers so much of the modern internet, and how you can work with it from R.&lt;/p&gt; &#xA;&lt;p&gt;httr2 is the successor to httr and has been under development for around two years. Compared to httr, httr2 has an explicit request object which leads to a more familiar interface where you can iteratively build up complex requests with the pipe. There&#39;s no need to stop using httr, as we&#39;ll continue to maintain it for many years to come, but for new projects, I&#39;d highly recommend giving httr2 a shot.&lt;/p&gt; &#xA;&lt;p&gt;Presented at:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/hadley/talk-httr2/main/httr2-1-seattle.pdf&#34;&gt;Seattle useR meetup&lt;/a&gt;, Seattle, December 2023.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/hadley/talk-httr2/main/httr2-2-nicar.pdf&#34;&gt;NICAR&lt;/a&gt;, Baltimore, March 2024.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>aki-nishimura/hiperglm</title>
+    <updated>2024-03-15T01:34:58Z</updated>
+    <id>tag:github.com,2024-03-15:/aki-nishimura/hiperglm</id>
+    <link href="https://github.com/aki-nishimura/hiperglm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;For demonstrating effective development of high-performance stats software (JHSPH Biostatistics 140.778)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>STAT325-S24/HistoryAmherstCollege</title>
+    <updated>2024-03-15T01:34:58Z</updated>
+    <id>tag:github.com,2024-03-15:/STAT325-S24/HistoryAmherstCollege</id>
+    <link href="https://github.com/STAT325-S24/HistoryAmherstCollege" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Text and analysis related to Williams S. Tyler&#39;s &#34;History of Amherst College&#34; (1873)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HistoryAmherstCollege&lt;/h1&gt; &#xA;&lt;p&gt;Text and analysis related to Williams S. Tyler&#39;s &#34;History of Amherst College&#34; (1873)&lt;/p&gt; &#xA;&lt;p&gt;This repo provides the curated text from the book entitled &lt;em&gt;History of Amherst College during the First Half Century&lt;/em&gt;.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://archive.org/details/historyofamherst00tyleiala&#34;&gt;https://archive.org/details/historyofamherst00tyleiala&lt;/a&gt; for the book in a variety of formats.&lt;/p&gt; &#xA;&lt;p&gt;Our mission is to take the text file for this historic text and make it accessible more broadly. We will be using scrum/agile to organize our shared work.&lt;/p&gt;</summary>
   </entry>
 </feed>

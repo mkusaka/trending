@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-14T01:34:55Z</updated>
+  <updated>2024-03-15T01:36:15Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>STARasGAMES/tmpro-dynamic-data-cleaner</title>
-    <updated>2024-03-14T01:34:55Z</updated>
-    <id>tag:github.com,2024-03-14:/STARasGAMES/tmpro-dynamic-data-cleaner</id>
-    <link href="https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clears TextMeshPro dynamic font data whenever Unity tries to save font asset to disk. This data is binary and generative so there is no need to store it on disk.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jvarelaaloisio/TSDV-3C-2024-Clase1</title>
+    <updated>2024-03-15T01:36:15Z</updated>
+    <id>tag:github.com,2024-03-15:/jvarelaaloisio/TSDV-3C-2024-Clase1</id>
+    <link href="https://github.com/jvarelaaloisio/TSDV-3C-2024-Clase1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GameDevMew/Multiplayer2024-Week9-2023.1.11f1</title>
-    <updated>2024-03-14T01:34:55Z</updated>
-    <id>tag:github.com,2024-03-14:/GameDevMew/Multiplayer2024-Week9-2023.1.11f1</id>
-    <link href="https://github.com/GameDevMew/Multiplayer2024-Week9-2023.1.11f1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>popote1/PopoteAnimationCours</title>
+    <updated>2024-03-15T01:36:15Z</updated>
+    <id>tag:github.com,2024-03-15:/popote1/PopoteAnimationCours</id>
+    <link href="https://github.com/popote1/PopoteAnimationCours" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unity Project for educational purposes with exercises for the students to practice&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

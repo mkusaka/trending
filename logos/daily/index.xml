@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-14T01:29:51Z</updated>
+  <updated>2024-03-15T01:31:21Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>XLsn0w/Cydiapps</title>
+    <updated>2024-03-15T01:31:21Z</updated>
+    <id>tag:github.com,2024-03-15:/XLsn0w/Cydiapps</id>
+    <link href="https://github.com/XLsn0w/Cydiapps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥🔥🔥微信公众号:Cydiapps🔥🔥🔥 =&gt; Cydia插件 Logos语言 开发Tweak.xm Cydia Substrate 注入dylib iOS逆向工程开发 越狱Jailbreak deb插件 - fishhook / Frida / iOSOpenDev / Cycript / MachOView / IDA / Hopper Disassembler / MonkeyDev / Class-dump / Theos / Reveal / Dumpdecryptd / FLEX / 汇编Assembly / CaptainHook / lldb/LLVM/XNU/Darwin/iOS Reverse&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub FreeMarker Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-14T01:26:43Z</updated>
+  <updated>2024-03-15T01:27:45Z</updated>
   <subtitle>Daily Trending of FreeMarker in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>apache/logging-parent</title>
-    <updated>2024-03-14T01:26:43Z</updated>
-    <id>tag:github.com,2024-03-14:/apache/logging-parent</id>
-    <link href="https://github.com/apache/logging-parent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parent project internally used in Maven-based projects of the Apache Logging Services&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

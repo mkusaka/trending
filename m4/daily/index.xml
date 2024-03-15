@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub M4 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-14T01:30:09Z</updated>
+  <updated>2024-03-15T01:31:39Z</updated>
   <subtitle>Daily Trending of M4 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mlinux-project/minimal</title>
-    <updated>2024-03-14T01:30:09Z</updated>
-    <id>tag:github.com,2024-03-14:/mlinux-project/minimal</id>
-    <link href="https://github.com/mlinux-project/minimal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MLinux Minimal is a minimalized Linux distro.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

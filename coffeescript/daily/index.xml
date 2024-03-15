@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-14T01:24:31Z</updated>
+  <updated>2024-03-15T01:25:30Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>markryall/markryall.github.io</title>
-    <updated>2024-03-14T01:24:31Z</updated>
-    <id>tag:github.com,2024-03-14:/markryall/markryall.github.io</id>
-    <link href="https://github.com/markryall/markryall.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ttencate/aranami</title>
+    <updated>2024-03-15T01:25:30Z</updated>
+    <id>tag:github.com,2024-03-15:/ttencate/aranami</id>
+    <link href="https://github.com/ttencate/aranami" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ludum Dare 26 entry, a zen puzzle game&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mvc-works/calabash</title>
-    <updated>2024-03-14T01:24:31Z</updated>
-    <id>tag:github.com,2024-03-14:/mvc-works/calabash</id>
-    <link href="https://github.com/mvc-works/calabash" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[Deprecated] please use ShellJS instead&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>felixrabe-attic/felixrabe--ffhs-swe-chat</title>
+    <updated>2024-03-15T01:25:30Z</updated>
+    <id>tag:github.com,2024-03-15:/felixrabe-attic/felixrabe--ffhs-swe-chat</id>
+    <link href="https://github.com/felixrabe-attic/felixrabe--ffhs-swe-chat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple small chat prototype.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>slackapi/hubot-slack</title>
+    <updated>2024-03-15T01:25:30Z</updated>
+    <id>tag:github.com,2024-03-15:/slackapi/hubot-slack</id>
+    <link href="https://github.com/slackapi/hubot-slack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Slack Developer Kit for Hubot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
