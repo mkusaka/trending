@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-15T01:25:17Z</updated>
+  <updated>2024-03-16T01:23:00Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>estrategycode/Synergy_150069682</title>
-    <updated>2024-03-15T01:25:17Z</updated>
-    <id>tag:github.com,2024-03-15:/estrategycode/Synergy_150069682</id>
-    <link href="https://github.com/estrategycode/Synergy_150069682" rel="alternate"></link>
+    <title>willread/Sprung</title>
+    <updated>2024-03-16T01:23:00Z</updated>
+    <id>tag:github.com,2024-03-16:/willread/Sprung</id>
+    <link href="https://github.com/willread/Sprung" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jetpack-powered platform game in outer space, my April 2013 One Game A Month entry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>estrategycode/Savannah_Blue_150017444</title>
+    <updated>2024-03-16T01:23:00Z</updated>
+    <id>tag:github.com,2024-03-16:/estrategycode/Savannah_Blue_150017444</id>
+    <link href="https://github.com/estrategycode/Savannah_Blue_150017444" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

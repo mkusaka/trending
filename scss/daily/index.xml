@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-15T01:36:11Z</updated>
+  <updated>2024-03-16T01:33:10Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gelos-icmc/site</title>
-    <updated>2024-03-15T01:36:11Z</updated>
-    <id>tag:github.com,2024-03-15:/gelos-icmc/site</id>
-    <link href="https://github.com/gelos-icmc/site" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Site institucional, blog, e atas.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TJUMMG/tjummg_site</title>
+    <updated>2024-03-16T01:33:10Z</updated>
+    <id>tag:github.com,2024-03-16:/TJUMMG/tjummg_site</id>
+    <link href="https://github.com/TJUMMG/tjummg_site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TJUMMG网页的源代码&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

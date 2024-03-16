@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-15T01:25:25Z</updated>
+  <updated>2024-03-16T01:23:06Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>holepunchto/cmake-gn</title>
+    <updated>2024-03-16T01:23:06Z</updated>
+    <id>tag:github.com,2024-03-16:/holepunchto/cmake-gn</id>
+    <link href="https://github.com/holepunchto/cmake-gn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bridging CMake and GN, the meta-build system from Google&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

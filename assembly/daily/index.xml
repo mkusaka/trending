@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-15T01:23:46Z</updated>
+  <updated>2024-03-16T01:21:45Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ZacharyZcR/Maestro</title>
-    <updated>2024-03-15T01:23:46Z</updated>
-    <id>tag:github.com,2024-03-15:/ZacharyZcR/Maestro</id>
-    <link href="https://github.com/ZacharyZcR/Maestro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Assembly backdoor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fakenickels/LearnAssembly</title>
+    <updated>2024-03-16T01:21:45Z</updated>
+    <id>tag:github.com,2024-03-16:/fakenickels/LearnAssembly</id>
+    <link href="https://github.com/fakenickels/LearnAssembly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Trying Assembly a bit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

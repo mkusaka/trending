@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-15T01:24:10Z</updated>
+  <updated>2024-03-16T01:22:05Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>openbmc/openbmc</title>
+    <updated>2024-03-16T01:22:05Z</updated>
+    <id>tag:github.com,2024-03-16:/openbmc/openbmc</id>
+    <link href="https://github.com/openbmc/openbmc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenBMC Distribution&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mendersoftware/meta-mender-community</title>
+    <updated>2024-03-16T01:22:05Z</updated>
+    <id>tag:github.com,2024-03-16:/mendersoftware/meta-mender-community</id>
+    <link href="https://github.com/mendersoftware/meta-mender-community" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community supported integration layers for Mender on various boards&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

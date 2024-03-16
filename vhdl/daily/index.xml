@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-15T01:38:12Z</updated>
+  <updated>2024-03-16T01:35:21Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>USAFA-ECE/ece281-lab3</title>
-    <updated>2024-03-15T01:38:12Z</updated>
-    <id>tag:github.com,2024-03-15:/USAFA-ECE/ece281-lab3</id>
-    <link href="https://github.com/USAFA-ECE/ece281-lab3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Thunderbird Turn Signal&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

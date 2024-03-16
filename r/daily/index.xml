@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-15T01:34:58Z</updated>
+  <updated>2024-03-16T01:31:52Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>aki-nishimura/hiperglm</title>
-    <updated>2024-03-15T01:34:58Z</updated>
-    <id>tag:github.com,2024-03-15:/aki-nishimura/hiperglm</id>
-    <link href="https://github.com/aki-nishimura/hiperglm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;For demonstrating effective development of high-performance stats software (JHSPH Biostatistics 140.778)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>STAT325-S24/HistoryAmherstCollege</title>
-    <updated>2024-03-15T01:34:58Z</updated>
-    <id>tag:github.com,2024-03-15:/STAT325-S24/HistoryAmherstCollege</id>
-    <link href="https://github.com/STAT325-S24/HistoryAmherstCollege" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Text and analysis related to Williams S. Tyler&#39;s &#34;History of Amherst College&#34; (1873)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HistoryAmherstCollege&lt;/h1&gt; &#xA;&lt;p&gt;Text and analysis related to Williams S. Tyler&#39;s &#34;History of Amherst College&#34; (1873)&lt;/p&gt; &#xA;&lt;p&gt;This repo provides the curated text from the book entitled &lt;em&gt;History of Amherst College during the First Half Century&lt;/em&gt;.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://archive.org/details/historyofamherst00tyleiala&#34;&gt;https://archive.org/details/historyofamherst00tyleiala&lt;/a&gt; for the book in a variety of formats.&lt;/p&gt; &#xA;&lt;p&gt;Our mission is to take the text file for this historic text and make it accessible more broadly. We will be using scrum/agile to organize our shared work.&lt;/p&gt;</summary>
-  </entry>
 </feed>
