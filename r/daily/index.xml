@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-16T01:31:52Z</updated>
+  <updated>2024-03-17T01:36:49Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>guangchunhan/LUAD_Code</title>
+    <updated>2024-03-17T01:36:49Z</updated>
+    <id>tag:github.com,2024-03-17:/guangchunhan/LUAD_Code</id>
+    <link href="https://github.com/guangchunhan/LUAD_Code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LUAD&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains matadata and codes necessary for analysis of the scRNA data of human lung adenocarcinoma (LUAD) presented in Han and Sinjab etal. Nature, in revision (2022).&lt;/p&gt; &#xA;&lt;p&gt;Cells with low complexity libraries or likely cell debris have been removed. Batch effect was corrected by Harmony when analyzing the no-malignant cells.&lt;/p&gt; &#xA;&lt;p&gt;Please contact &lt;a href=&#34;mailto:hkadara@mdanderson.org&#34;&gt;hkadara@mdanderson.org&lt;/a&gt; and &lt;a href=&#34;mailto:LWang22@mdanderson.org&#34;&gt;LWang22@mdanderson.org&lt;/a&gt; with any questions.&lt;/p&gt; &#xA;&lt;h2&gt;Downloading the data&lt;/h2&gt; &#xA;&lt;p&gt;Cell level metadata as well as the further level quantification data is available in the /Input_data folder, with detailed annotation in the corresponding codes parts&lt;/p&gt; &#xA;&lt;p&gt;Sequencing data for P1-P5 were previously generated and deposited in the European Genome–phenome Archive (EGA) under the accession number EGAS00001005021. Sequencing data generated in this study including human scRNA-seq data (P6 – P16) and human spatial transcriptomics data will be deposited in EGA under the same accession number (EGAS00001005021) or be deposited in NCBI GEO (mouse scRNA-seq data and mouse spatial transcriptomics data) and made publicly available with the final version of this article.&lt;/p&gt; &#xA;&lt;h3&gt;Requirements&lt;/h3&gt; &#xA;&lt;p&gt;##Tested on macOS Monterey (12.6.1)&lt;/p&gt; &#xA;&lt;p&gt;##R packages:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;ggplot2&lt;/li&gt; &#xA; &lt;li&gt;data.table&lt;/li&gt; &#xA; &lt;li&gt;Seurat&lt;/li&gt; &#xA; &lt;li&gt;dplyr&lt;/li&gt; &#xA; &lt;li&gt;tidyr&lt;/li&gt; &#xA; &lt;li&gt;ggpubr&lt;/li&gt; &#xA; &lt;li&gt;RColorBrewer&lt;/li&gt; &#xA; &lt;li&gt;monocle&lt;/li&gt; &#xA; &lt;li&gt;smoother&lt;/li&gt; &#xA; &lt;li&gt;pheatmap&lt;/li&gt; &#xA; &lt;li&gt;Hmisc&lt;/li&gt; &#xA; &lt;li&gt;monocle3&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;-InferCNV(v1.3.2) -CytoTRACE(v0.3.3)&lt;/p&gt;</summary>
+  </entry>
 </feed>

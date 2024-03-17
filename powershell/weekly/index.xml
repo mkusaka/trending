@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PowerShell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-17T01:51:22Z</updated>
+  <subtitle>Weekly Trending of PowerShell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MicrosoftDocs/intellicode</title>
+    <updated>2024-03-17T01:51:22Z</updated>
+    <id>tag:github.com,2024-03-17:/MicrosoftDocs/intellicode</id>
+    <link href="https://github.com/MicrosoftDocs/intellicode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Visual Studio IntelliCode - AI-enhanced development tools. 👋Want to submit an issue to MicrosoftDocs/intellicode? If you have a bug or an idea, read the contributing guidelines before opening an issue. For FAQ&#39;s see&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Microsoft Open Source Code of Conduct&lt;/h2&gt; &#xA;&lt;p&gt;This project has adopted the &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/&#34;&gt;Microsoft Open Source Code of Conduct&lt;/a&gt;. For more information see the &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/faq/&#34;&gt;Code of Conduct FAQ&lt;/a&gt; or contact &lt;a href=&#34;mailto:opencode@microsoft.com&#34;&gt;opencode@microsoft.com&lt;/a&gt; with any additional questions or comments.&lt;/p&gt;</summary>
+  </entry>
+</feed>

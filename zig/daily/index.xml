@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-16T01:36:13Z</updated>
+  <updated>2024-03-17T01:40:55Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xataio/pgzx</title>
+    <updated>2024-03-17T01:40:55Z</updated>
+    <id>tag:github.com,2024-03-17:/xataio/pgzx</id>
+    <link href="https://github.com/xataio/pgzx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create PostgreSQL extensions using Zig.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

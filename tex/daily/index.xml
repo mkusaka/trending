@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-16T01:34:36Z</updated>
+  <updated>2024-03-17T01:39:21Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Project-DARC/DARC-whitepaper</title>
+    <updated>2024-03-17T01:39:21Z</updated>
+    <id>tag:github.com,2024-03-17:/Project-DARC/DARC-whitepaper</id>
+    <link href="https://github.com/Project-DARC/DARC-whitepaper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The DARC Whitepaper&lt;/h1&gt; &#xA;&lt;h3&gt;Download&lt;/h3&gt; &#xA;&lt;p&gt;English version: &lt;a href=&#34;https://raw.githubusercontent.com/Project-DARC/DARC-whitepaper/release/darc-whitepaper.pdf&#34;&gt;darc-whitepaper.pdf&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Chinese version(中文版本): &lt;a href=&#34;https://raw.githubusercontent.com/Project-DARC/DARC-whitepaper/release/darc-whitepaper-cn.pdf&#34;&gt;darc-whitepaper-cn.pdf&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;(Thanks for &lt;a href=&#34;https://github.com/yuntianlong2002&#34;&gt;@yuntianlong2002&lt;/a&gt; translation) （感谢 &lt;a href=&#34;https://github.com/yuntianlong2002&#34;&gt;@yuntianlong2002&lt;/a&gt; 提供的翻译）&lt;/p&gt; &#xA;&lt;h3&gt;Compile&lt;/h3&gt; &#xA;&lt;p&gt;Type below command in the terminal to compile the LaTeX file.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd ./source&#xA;latexmk -pdf main&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenHUTB/PFC</title>
+    <updated>2024-03-17T01:39:21Z</updated>
+    <id>tag:github.com,2024-03-17:/OpenHUTB/PFC</id>
+    <link href="https://github.com/OpenHUTB/PFC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;前额叶皮层&lt;/h1&gt; &#xA;&lt;p&gt;翻译科技书籍：PFC.pdf。&lt;/p&gt; &#xA;&lt;h2&gt;贡献指南&lt;/h2&gt; &#xA;&lt;p&gt;在进行更改之前，请阅读 &lt;a href=&#34;https://github.com/OpenHUTB/bazaar/raw/master/CONTRIBUTING.md&#34;&gt;贡献指南&lt;/a&gt; 文档，翻译方法请参考&lt;a href=&#34;https://github.com/OpenHUTB/bazaar/raw/master/translation.md&#34;&gt;链接&lt;/a&gt; 。&lt;/p&gt; &#xA;&lt;h2&gt;参与人&lt;/h2&gt; &#xA;&lt;p&gt;总编辑 ---- 王海东、段金焱 &lt;a href=&#34;https://github.com/Duan359&#34;&gt;Duan359&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;第一章 ---- 陈文宇 &lt;a href=&#34;https://github.com/cwycwy299&#34;&gt;cwycwy299&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;第二章 ---- 吴佳妮 &lt;a href=&#34;https://github.com/jianiwuoo&#34;&gt;jianiwuoo&lt;/a&gt; ---尹璐 [lulu7795] &lt;a href=&#34;https://github.com/lulu7795/neuro&#34;&gt;https://github.com/lulu7795/neuro&lt;/a&gt; ----万薇[12oneway]&lt;a href=&#34;https://github.com/12oneway/neuro&#34;&gt;https://github.com/12oneway/neuro&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;第三章 ---- 周金爽 &lt;a href=&#34;https://github.com/superzeroT&#34;&gt;superzeroT&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;第四章 ---- 陈艺琳 &lt;a href=&#34;https://github.com/chenyl111&#34;&gt;chenyl111&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;第五章 ---- 刘家琪 &lt;a href=&#34;https://github.com/AwooDancer&#34;&gt;AwooDancer&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;第六章 ---- 文沛然 &lt;a href=&#34;https://github.com/wpr123&#34;&gt;wpr123&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;第七章 ---- 张洋铨 &lt;a href=&#34;https://github.com/Purpleashes&#34;&gt;Purpleashes&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;第八章 ---- 谢恩坪 &lt;a href=&#34;https://github.com/half-white&#34;&gt;half-white&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;第九章 ---- 吴玉庭 &lt;a href=&#34;https://github.com/Sandra2Ha&#34;&gt;Sandra2Ha&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;第十章 ---- 雷利民 &lt;a href=&#34;https://github.com/Shadow0714&#34;&gt;Shadow0714&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-16T01:26:09Z</updated>
+  <updated>2024-03-17T01:31:18Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iam-veeramalla/Azure-zero-to-hero</title>
-    <updated>2024-03-16T01:26:09Z</updated>
-    <id>tag:github.com,2024-03-16:/iam-veeramalla/Azure-zero-to-hero</id>
-    <link href="https://github.com/iam-veeramalla/Azure-zero-to-hero" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CMS-Enterprise/batcave-tf-dynamodb</title>
+    <updated>2024-03-17T01:31:18Z</updated>
+    <id>tag:github.com,2024-03-17:/CMS-Enterprise/batcave-tf-dynamodb</id>
+    <link href="https://github.com/CMS-Enterprise/batcave-tf-dynamodb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;batCAVE DynamoDB Terraform module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CMS-Enterprise/batcave-tf-irsa</title>
+    <updated>2024-03-17T01:31:18Z</updated>
+    <id>tag:github.com,2024-03-17:/CMS-Enterprise/batcave-tf-irsa</id>
+    <link href="https://github.com/CMS-Enterprise/batcave-tf-irsa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;batCAVE IRSA Terraform module&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-17T01:48:46Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kciter/react-barcode</title>
+    <updated>2024-03-17T01:48:46Z</updated>
+    <id>tag:github.com,2024-03-17:/kciter/react-barcode</id>
+    <link href="https://github.com/kciter/react-barcode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A &lt;Barcode/&gt; component for use with React.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

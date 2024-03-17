@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-16T01:23:09Z</updated>
+  <updated>2024-03-17T01:27:40Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>d9su/saasy</title>
-    <updated>2024-03-16T01:23:09Z</updated>
-    <id>tag:github.com,2024-03-16:/d9su/saasy</id>
-    <link href="https://github.com/d9su/saasy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A testing repo for storing version controlled docpad documents.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>garbados/fwords</title>
+    <updated>2024-03-17T01:27:40Z</updated>
+    <id>tag:github.com,2024-03-17:/garbados/fwords</id>
+    <link href="https://github.com/garbados/fwords" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of function words for different languages.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>japboy/grunt-jade-sample</title>
+    <updated>2024-03-17T01:27:40Z</updated>
+    <id>tag:github.com,2024-03-17:/japboy/grunt-jade-sample</id>
+    <link href="https://github.com/japboy/grunt-jade-sample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is just an exmaple how Grunt handles Jade JST and how awesome it is!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yuya/sudachi</title>
+    <updated>2024-03-17T01:27:40Z</updated>
+    <id>tag:github.com,2024-03-17:/yuya/sudachi</id>
+    <link href="https://github.com/yuya/sudachi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

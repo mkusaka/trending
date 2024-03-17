@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-16T01:35:33Z</updated>
+  <updated>2024-03-17T01:40:15Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>timb-103/saas-starter-stack</title>
-    <updated>2024-03-16T01:35:33Z</updated>
-    <id>tag:github.com,2024-03-16:/timb-103/saas-starter-stack</id>
-    <link href="https://github.com/timb-103/saas-starter-stack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free and Affordable Tools for Building a SaaS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vis-three/scene-editor</title>
-    <updated>2024-03-16T01:35:33Z</updated>
-    <id>tag:github.com,2024-03-16:/vis-three/scene-editor</id>
-    <link href="https://github.com/vis-three/scene-editor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vis-three框架衍生出的全自定义web3D场景编辑器&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ecomfe/tempad-dev</title>
+    <updated>2024-03-17T01:40:15Z</updated>
+    <id>tag:github.com,2024-03-17:/ecomfe/tempad-dev</id>
+    <link href="https://github.com/ecomfe/tempad-dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dev Mode brought by TemPad.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

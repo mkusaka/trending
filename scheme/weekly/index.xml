@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scheme Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-17T01:53:22Z</updated>
+  <subtitle>Weekly Trending of Scheme in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mighty-gerbils/gerbil-persist</title>
+    <updated>2024-03-17T01:53:22Z</updated>
+    <id>tag:github.com,2024-03-17:/mighty-gerbils/gerbil-persist</id>
+    <link href="https://github.com/mighty-gerbils/gerbil-persist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Persistence of concurrent activities for Gerbil Scheme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IndianBoy42/tree-sitter-just</title>
+    <updated>2024-03-17T01:53:22Z</updated>
+    <id>tag:github.com,2024-03-17:/IndianBoy42/tree-sitter-just</id>
+    <link href="https://github.com/IndianBoy42/tree-sitter-just" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Treesitter grammar for Justfiles (casey/just)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>11bit/zed-extension-graphql</title>
+    <updated>2024-03-17T01:53:22Z</updated>
+    <id>tag:github.com,2024-03-17:/11bit/zed-extension-graphql</id>
+    <link href="https://github.com/11bit/zed-extension-graphql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GraphQL support for Zed editor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

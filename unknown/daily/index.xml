@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-16T01:21:04Z</updated>
+  <updated>2024-03-17T01:25:21Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>decodingml/llm-twin-course</title>
-    <updated>2024-03-16T01:21:04Z</updated>
-    <id>tag:github.com,2024-03-16:/decodingml/llm-twin-course</id>
-    <link href="https://github.com/decodingml/llm-twin-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>telegram-sgk/SGK_Sites_and_Bots</title>
-    <updated>2024-03-16T01:21:04Z</updated>
-    <id>tag:github.com,2024-03-16:/telegram-sgk/SGK_Sites_and_Bots</id>
-    <link href="https://github.com/telegram-sgk/SGK_Sites_and_Bots" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;免费在线社工库，免费Telegram社工库&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OceanNg529/allAI</title>
-    <updated>2024-03-16T01:21:04Z</updated>
-    <id>tag:github.com,2024-03-16:/OceanNg529/allAI</id>
-    <link href="https://github.com/OceanNg529/allAI" rel="alternate"></link>
+    <title>lsc4719/MyViewOfLinuxSystems</title>
+    <updated>2024-03-17T01:25:21Z</updated>
+    <id>tag:github.com,2024-03-17:/lsc4719/MyViewOfLinuxSystems</id>
+    <link href="https://github.com/lsc4719/MyViewOfLinuxSystems" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ianand/spreadsheets-are-all-you-need</title>
+    <updated>2024-03-17T01:25:21Z</updated>
+    <id>tag:github.com,2024-03-17:/ianand/spreadsheets-are-all-you-need</id>
+    <link href="https://github.com/ianand/spreadsheets-are-all-you-need" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cipher387/cheatsheets</title>
+    <updated>2024-03-17T01:25:21Z</updated>
+    <id>tag:github.com,2024-03-17:/cipher387/cheatsheets</id>
+    <link href="https://github.com/cipher387/cheatsheets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High quality and text versions of cheat sheets from Cyber Detective Twitter&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

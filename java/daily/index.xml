@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-16T01:26:47Z</updated>
+  <updated>2024-03-17T01:31:59Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>marcushellberg/java-ai-playground</title>
+    <updated>2024-03-17T01:31:59Z</updated>
+    <id>tag:github.com,2024-03-17:/marcushellberg/java-ai-playground</id>
+    <link href="https://github.com/marcushellberg/java-ai-playground" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Java AI library comparison app&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/marcushellberg/java-ai-playground/main/screenshot.jpg&#34; alt=&#34;A browser window with a chatbot and a data grid displaying flight booking details&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;This app is an AI-powered customer support application that:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Has access to terms and conditions (retrieval augmented generation, RAG)&lt;/li&gt; &#xA; &lt;li&gt;Can access tools (Java methods) to perform actions&lt;/li&gt; &#xA; &lt;li&gt;Uses an LLM to interact with the user&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;The application includes implementations for:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/langchain4j/langchain4j&#34;&gt;LangChain4j&lt;/a&gt; in the &lt;code&gt;langchain4j&lt;/code&gt; package&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://spring.io/projects/spring-ai/&#34;&gt;Spring AI&lt;/a&gt; in the &lt;code&gt;springai&lt;/code&gt; package (thanks to &lt;a href=&#34;https://github.com/tzolov&#34;&gt;@tzolov&lt;/a&gt;!)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;The UI is built using &lt;a href=&#34;https://vaadin.com&#34;&gt;Vaadin Hilla&lt;/a&gt; and the backend is built using Spring Boot.&lt;/p&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Java 17+&lt;/li&gt; &#xA; &lt;li&gt;OpenAI API key in &lt;code&gt;OPENAI_API_KEY&lt;/code&gt; environment variable&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Running&lt;/h2&gt; &#xA;&lt;p&gt;Run the app by running &lt;code&gt;Application.java&lt;/code&gt; in your IDE or &lt;code&gt;mvn&lt;/code&gt; in the command line.&lt;/p&gt; &#xA;&lt;h2&gt;Thanks&lt;/h2&gt; &#xA;&lt;p&gt;This demo was inspired by the &lt;a href=&#34;https://github.com/langchain4j/langchain4j-examples/tree/main/spring-boot-example/src/main/java/dev/example&#34;&gt;LangChain4jCustomer Support Agent example&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;I want to thank the LangChain4j and Spring AI teams for their support in building this demo. Especially, I want to thank &lt;a href=&#34;https://github.com/tzolov&#34;&gt;@tzolov&lt;/a&gt; from The Spring AI team for his help in building the Spring AI implementation.&lt;/p&gt;</summary>
+  </entry>
 </feed>
