@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-17T01:33:52Z</updated>
+  <updated>2024-03-18T01:33:22Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>abap34/slide-template</title>
-    <updated>2024-03-17T01:33:52Z</updated>
-    <id>tag:github.com,2024-03-17:/abap34/slide-template</id>
-    <link href="https://github.com/abap34/slide-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Slide Template with marp.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SWI-Prolog/distro-debian</title>
+    <updated>2024-03-18T01:33:22Z</updated>
+    <id>tag:github.com,2024-03-18:/SWI-Prolog/distro-debian</id>
+    <link href="https://github.com/SWI-Prolog/distro-debian" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configuration files for creating a Debian package&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fichenx/Actions-OpenWrt</title>
+    <updated>2024-03-18T01:33:22Z</updated>
+    <id>tag:github.com,2024-03-18:/fichenx/Actions-OpenWrt</id>
+    <link href="https://github.com/fichenx/Actions-OpenWrt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;自动编译OpenWrt固件，每周四定时编译。现支持红米AX6、Newifi-D2、S905D、S905X3!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Infinix-Devices-Series/android_device_infinix_X695C</title>
+    <updated>2024-03-18T01:33:22Z</updated>
+    <id>tag:github.com,2024-03-18:/Infinix-Devices-Series/android_device_infinix_X695C</id>
+    <link href="https://github.com/Infinix-Devices-Series/android_device_infinix_X695C" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-17T01:32:44Z</updated>
+  <updated>2024-03-18T01:31:43Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tecosaur/About.jl</title>
-    <updated>2024-03-17T01:32:44Z</updated>
-    <id>tag:github.com,2024-03-17:/tecosaur/About.jl</id>
-    <link href="https://github.com/tecosaur/About.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of https://code.tecosaur.net/tec/About.jl&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>albertomercurio/QuantumToolbox.jl</title>
-    <updated>2024-03-17T01:32:44Z</updated>
-    <id>tag:github.com,2024-03-17:/albertomercurio/QuantumToolbox.jl</id>
-    <link href="https://github.com/albertomercurio/QuantumToolbox.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia Package for Quantum Optics and Quantum Physics&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

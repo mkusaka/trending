@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-17T01:36:22Z</updated>
+  <updated>2024-03-18T01:36:31Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SWI-Prolog/packages-RDF</title>
+    <updated>2024-03-18T01:36:31Z</updated>
+    <id>tag:github.com,2024-03-18:/SWI-Prolog/packages-RDF</id>
+    <link href="https://github.com/SWI-Prolog/packages-RDF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The SWI-Prolog RDF/XML parser&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SWI-Prolog/packages-inclpr</title>
+    <updated>2024-03-18T01:36:31Z</updated>
+    <id>tag:github.com,2024-03-18:/SWI-Prolog/packages-inclpr</id>
+    <link href="https://github.com/SWI-Prolog/packages-inclpr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Constraint solver for nonlinear (polynomial) constraints over reals&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

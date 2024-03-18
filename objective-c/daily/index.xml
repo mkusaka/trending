@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-17T01:35:03Z</updated>
+  <updated>2024-03-18T01:34:48Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>verygoodsecurity/CardIOSDK-iOS</title>
+    <updated>2024-03-18T01:34:48Z</updated>
+    <id>tag:github.com,2024-03-18:/verygoodsecurity/CardIOSDK-iOS</id>
+    <link href="https://github.com/verygoodsecurity/CardIOSDK-iOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wrapper around original card.io iOS library to bring easy integration into Swift projects&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CardIOSDK&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;CardIOSDK&lt;/strong&gt; - wrapper around the original &lt;a href=&#34;https://github.com/card-io/card.io-iOS-source&#34;&gt;card.io&lt;/a&gt; iOS library that provide the possibility to easily integrate card.io into Swift frameworks.&lt;/p&gt; &#xA;&lt;h1&gt;Additional features&lt;/h1&gt; &#xA;&lt;p&gt;This wrappers containes additional functionality - possibility to set preferred camera position for &lt;code&gt;CardIOPaymentViewController&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;CardIOPaymentViewController&#xA;&#xA;- (id)initWithPaymentDelegate:(id&amp;lt;CardIOPaymentViewControllerDelegate&amp;gt;)aDelegate scanningEnabled:(BOOL)scanningEnabled preferredDevicePosition:(AVCaptureDevicePosition)preferredDevicePosition;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Integration&lt;/h1&gt; &#xA;&lt;h3&gt;If you use &lt;a href=&#34;https://cocoapods.org&#34;&gt;CocoaPods&lt;/a&gt;, then add this line to your podfile:&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-ruby&#34;&gt;pod &#39;CardIOSDK&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Useful links&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;Original card.io&lt;/strong&gt; iOS library - &lt;a href=&#34;https://github.com/card-io/card.io-iOS-SDK&#34;&gt;https://github.com/card-io/card.io-iOS-SDK&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Original card.io&lt;/strong&gt; iOS source code - &lt;a href=&#34;https://github.com/card-io/card.io-iOS-source&#34;&gt;https://github.com/card-io/card.io-iOS-source&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;CardIOSDK&lt;/strong&gt; source code - &lt;a href=&#34;https://github.com/verygoodsecurity/card.io-iOS-source&#34;&gt;https://github.com/verygoodsecurity/card.io-iOS-source&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;VGSCollectSDK&lt;/strong&gt; - scan and collect creadit cards data securelly - &lt;a href=&#34;https://github.com/verygoodsecurity/vgs-collect-ios&#34;&gt;https://github.com/verygoodsecurity/vgs-collect-ios&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;em&gt;Pull requests with new features are welcome!&lt;/em&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>expkzb/DoubleTouchesToScroll</title>
+    <updated>2024-03-18T01:34:48Z</updated>
+    <id>tag:github.com,2024-03-18:/expkzb/DoubleTouchesToScroll</id>
+    <link href="https://github.com/expkzb/DoubleTouchesToScroll" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;autoscroll the UIScrollView(also tableview) when touch the screen with two finger.The scrolling speed refers to the coremotion&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DoubleTouchesToScroll&lt;/h1&gt; &#xA;&lt;p&gt;Autoscroll the UIScrollView(also tableview) when touch the screen with two finger.The scrolling speed refers to the coremotion&lt;/p&gt; &#xA;&lt;p&gt;两指点按视图时，上下倾斜设备，自动滚动视图。速度的快慢根据&#39;倾角&#39;来确定&lt;/p&gt; &#xA;&lt;p&gt;目前仅实现了功能，比较粗糙&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-17T01:26:03Z</updated>
+  <updated>2024-03-18T01:24:04Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>natemoo-re/astro-remote</title>
-    <updated>2024-03-17T01:26:03Z</updated>
-    <id>tag:github.com,2024-03-17:/natemoo-re/astro-remote</id>
-    <link href="https://github.com/natemoo-re/astro-remote" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Render remote HTML or Markdown content in Astro with full control over the output&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stefangrage/webfeature</title>
-    <updated>2024-03-17T01:26:03Z</updated>
-    <id>tag:github.com,2024-03-17:/stefangrage/webfeature</id>
-    <link href="https://github.com/stefangrage/webfeature" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;webfeature/scrollytelling eksempel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Vencord/vencord.dev</title>
-    <updated>2024-03-17T01:26:03Z</updated>
-    <id>tag:github.com,2024-03-17:/Vencord/vencord.dev</id>
-    <link href="https://github.com/Vencord/vencord.dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vencord&#39;s official website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

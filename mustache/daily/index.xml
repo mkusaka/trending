@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-17T01:34:30Z</updated>
+  <updated>2024-03-18T01:34:07Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eea/rn3-charts</title>
-    <updated>2024-03-17T01:34:30Z</updated>
-    <id>tag:github.com,2024-03-17:/eea/rn3-charts</id>
-    <link href="https://github.com/eea/rn3-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;New Reportnet 3 charts for Rancher 2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

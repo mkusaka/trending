@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-17T01:38:55Z</updated>
+  <updated>2024-03-18T01:39:52Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fahreziadh/typehere</title>
-    <updated>2024-03-17T01:38:55Z</updated>
-    <id>tag:github.com,2024-03-17:/fahreziadh/typehere</id>
-    <link href="https://github.com/fahreziadh/typehere" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source Super clean &amp; simple Form building &amp; Survey 🍕&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>suyu-emu/website</title>
+    <updated>2024-03-18T01:39:52Z</updated>
+    <id>tag:github.com,2024-03-18:/suyu-emu/website</id>
+    <link href="https://github.com/suyu-emu/website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>goniszewski/grimoire-web-extension</title>
+    <updated>2024-03-18T01:39:52Z</updated>
+    <id>tag:github.com,2024-03-18:/goniszewski/grimoire-web-extension</id>
+    <link href="https://github.com/goniszewski/grimoire-web-extension" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Companion extension for Grimoire - the bookmark manager for the wizards 🧙&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

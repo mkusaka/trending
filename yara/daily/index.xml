@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YARA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-17T01:40:48Z</updated>
+  <updated>2024-03-18T01:42:10Z</updated>
   <subtitle>Daily Trending of YARA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chainguard-dev/bincapz</title>
+    <updated>2024-03-18T01:42:10Z</updated>
+    <id>tag:github.com,2024-03-18:/chainguard-dev/bincapz</id>
+    <link href="https://github.com/chainguard-dev/bincapz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;enumerate binary capabilities, including malicious behaviors&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

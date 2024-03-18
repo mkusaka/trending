@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-17T01:33:56Z</updated>
+  <updated>2024-03-18T01:33:26Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tbenthompson/microdeform</title>
+    <updated>2024-03-18T01:33:26Z</updated>
+    <id>tag:github.com,2024-03-18:/tbenthompson/microdeform</id>
+    <link href="https://github.com/tbenthompson/microdeform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for analyzing microscale deformation images of rocks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
