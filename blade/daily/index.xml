@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-18T01:24:33Z</updated>
+  <updated>2024-03-19T01:24:12Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>saputra-tolol/absensi_siswa</title>
-    <updated>2024-03-18T01:24:33Z</updated>
-    <id>tag:github.com,2024-03-18:/saputra-tolol/absensi_siswa</id>
-    <link href="https://github.com/saputra-tolol/absensi_siswa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;projek kelulusan&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cedar2025/xboard-user</title>
-    <updated>2024-03-18T01:24:33Z</updated>
-    <id>tag:github.com,2024-03-18:/cedar2025/xboard-user</id>
-    <link href="https://github.com/cedar2025/xboard-user" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a xboard user frontend&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

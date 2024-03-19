@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-18T01:27:55Z</updated>
+  <updated>2024-03-19T01:27:15Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ecomplus/storefront-starter</title>
+    <updated>2024-03-19T01:27:15Z</updated>
+    <id>tag:github.com,2024-03-19:/ecomplus/storefront-starter</id>
+    <link href="https://github.com/ecomplus/storefront-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🛍️ ⚡ PWA &amp; JAMstack (ISG) eCommerce quickstart with totally customizable yet upgradable template&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

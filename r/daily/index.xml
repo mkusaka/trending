@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-18T01:37:15Z</updated>
+  <updated>2024-03-19T01:35:37Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>umd-cgs/gcam-china</title>
-    <updated>2024-03-18T01:37:15Z</updated>
-    <id>tag:github.com,2024-03-18:/umd-cgs/gcam-china</id>
-    <link href="https://github.com/umd-cgs/gcam-china" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GCAM-China - The Global Change Analysis Model with China provincial-level details&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Global Change Analysis Model with China provincial-level details (GCAM-China)&lt;/h2&gt; &#xA;&lt;p&gt;Documentation including requested citations, guides to get started, and community resources all found at:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://umd-cgs.github.io/metarepo_gcam-china/index.html&#34;&gt;GCAM-China Landing Page&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-18T01:23:18Z</updated>
+  <updated>2024-03-19T01:23:02Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>StefanTheCode/dotnet_interview_questions</title>
-    <updated>2024-03-18T01:23:18Z</updated>
-    <id>tag:github.com,2024-03-18:/StefanTheCode/dotnet_interview_questions</id>
-    <link href="https://github.com/StefanTheCode/dotnet_interview_questions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Deeksha2501/Data-Structures-and-Algorithms-Notes</title>
+    <updated>2024-03-19T01:23:02Z</updated>
+    <id>tag:github.com,2024-03-19:/Deeksha2501/Data-Structures-and-Algorithms-Notes</id>
+    <link href="https://github.com/Deeksha2501/Data-Structures-and-Algorithms-Notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;It contains all the data structures and computer fundamentals notes I made while preparing for placements.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>maximal/http-267</title>
-    <updated>2024-03-18T01:23:18Z</updated>
-    <id>tag:github.com,2024-03-18:/maximal/http-267</id>
-    <link href="https://github.com/maximal/http-267" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTTP 267 Doubtful But Okay&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>crisbusquets/aprende-diseno-uxui</title>
+    <updated>2024-03-19T01:23:02Z</updated>
+    <id>tag:github.com,2024-03-19:/crisbusquets/aprende-diseno-uxui</id>
+    <link href="https://github.com/crisbusquets/aprende-diseno-uxui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Este repositorio contiene una lista seleccionada de recursos para ayudarte a aprender sobre el diseño de interfaces y de experiencia del usuario. Incluye recursos como artículos, tutoriales, vídeos y cursos. Todo en español :)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ihmily/ip-info-api</title>
-    <updated>2024-03-18T01:23:18Z</updated>
-    <id>tag:github.com,2024-03-18:/ihmily/ip-info-api</id>
-    <link href="https://github.com/ihmily/ip-info-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free IP information query APIs / 免费IP信息查询API接口&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PeachTeaaa/Aviator-Prediction-Tool</title>
+    <updated>2024-03-19T01:23:02Z</updated>
+    <id>tag:github.com,2024-03-19:/PeachTeaaa/Aviator-Prediction-Tool</id>
+    <link href="https://github.com/PeachTeaaa/Aviator-Prediction-Tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Best prediction tool for Aviator, requests USB cable and PC for installation on your device&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

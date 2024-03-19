@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-18T01:29:52Z</updated>
+  <updated>2024-03-19T01:29:15Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ellamental2/DaggerHeartForFoundry</title>
-    <updated>2024-03-18T01:29:52Z</updated>
-    <id>tag:github.com,2024-03-18:/Ellamental2/DaggerHeartForFoundry</id>
-    <link href="https://github.com/Ellamental2/DaggerHeartForFoundry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is my foundry project for the Daggerheart system, character sheet and mechanics.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mufeedvh/code2prompt</title>
+    <updated>2024-03-19T01:29:15Z</updated>
+    <id>tag:github.com,2024-03-19:/mufeedvh/code2prompt</id>
+    <link href="https://github.com/mufeedvh/code2prompt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
