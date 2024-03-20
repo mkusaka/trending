@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-19T01:36:04Z</updated>
+  <updated>2024-03-20T01:34:11Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>coronasafe/citizen</title>
+    <updated>2024-03-20T01:34:11Z</updated>
+    <id>tag:github.com,2024-03-20:/coronasafe/citizen</id>
+    <link href="https://github.com/coronasafe/citizen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Citizen portal for coronasafe&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

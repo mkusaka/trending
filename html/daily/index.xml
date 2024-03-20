@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-19T01:29:39Z</updated>
+  <updated>2024-03-20T01:28:33Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>codediodeio/rembg-webapp-tutorial</title>
-    <updated>2024-03-19T01:29:39Z</updated>
-    <id>tag:github.com,2024-03-19:/codediodeio/rembg-webapp-tutorial</id>
-    <link href="https://github.com/codediodeio/rembg-webapp-tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a simple webapp with rembg&lt;/p&gt;&lt;hr&gt;&lt;p&gt;A simple flask app to remove the background of an image with &lt;a href=&#34;https://github.com/danielgatis/rembg&#34;&gt;Rembg&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Watch the &lt;a href=&#34;https://youtu.be/cw34KMPSt4k&#34;&gt;tutorial&lt;/a&gt; on YouTube&lt;/p&gt; &#xA;&lt;h2&gt;Run it&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;pip install -r requirements.txt&#xA;python app.py&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>zhugezifang/ai_timeline</title>
+    <updated>2024-03-20T01:28:33Z</updated>
+    <id>tag:github.com,2024-03-20:/zhugezifang/ai_timeline</id>
+    <link href="https://github.com/zhugezifang/ai_timeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI时间线，产品地址：http://www.ai-timeline.top&lt;/p&gt;&lt;hr&gt;&lt;p&gt;产品介绍： AI时间线&lt;/p&gt; &#xA;&lt;p&gt;产品地址： &lt;a href=&#34;http://www.ai-timeline.top&#34;&gt;http://www.ai-timeline.top&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;使用教程：使用教程可以看右上角“使用教程”&lt;/p&gt; &#xA;&lt;p&gt;Github AI时间线：&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/zhugezifang/ai_timeline/master/github.jpeg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;AI时间线开发、变现、运营历程分享(持续更新中)：&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://note.mowen.cn/note/detail?noteUuid=mfcz25BdfCb895Hk31Lsl&#34;&gt;https://note.mowen.cn/note/detail?noteUuid=mfcz25BdfCb895Hk31Lsl&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;技术篇：&lt;a href=&#34;https://note.mowen.cn/note/detail?noteUuid=RGXfh4tOmCk7COzDakmsE&#34;&gt;https://note.mowen.cn/note/detail?noteUuid=RGXfh4tOmCk7COzDakmsE&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;商业篇：&lt;a href=&#34;https://note.mowen.cn/note/detail?noteUuid=Msqnuz5c4B_bOF3AETdzc&#34;&gt;https://note.mowen.cn/note/detail?noteUuid=Msqnuz5c4B_bOF3AETdzc&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;营销篇：&lt;a href=&#34;https://note.mowen.cn/note/detail?noteUuid=KQE4YSMmMb2ybj4yJmKEQ&#34;&gt;https://note.mowen.cn/note/detail?noteUuid=KQE4YSMmMb2ybj4yJmKEQ&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;代码比较混乱，主要实现业务逻辑，各位轻拍哈&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;商业化使用请注明出处&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;twitter: &lt;a href=&#34;https://twitter.com/zhugezifang&#34;&gt;https://twitter.com/zhugezifang&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;交流群和联系方式(备注AI时间线)&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/zhugezifang/ai_timeline/assets/28300167/18f81a23-0534-4309-88ed-457c5864806d&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>niikhiljha/Impressing-your-crush</title>
-    <updated>2024-03-19T01:29:39Z</updated>
-    <id>tag:github.com,2024-03-19:/niikhiljha/Impressing-your-crush</id>
-    <link href="https://github.com/niikhiljha/Impressing-your-crush" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Mojang/bedrock-protocol-docs</title>
-    <updated>2024-03-19T01:29:39Z</updated>
-    <id>tag:github.com,2024-03-19:/Mojang/bedrock-protocol-docs</id>
-    <link href="https://github.com/Mojang/bedrock-protocol-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation of the Bedrock network protocol. Protocol is subject to change release over release.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The Minecraft: Bedrock Edition Network Protocol Documentation&lt;/h1&gt; &#xA;&lt;p&gt;We share our Network Protocol with server partners so they can write their own Minecraft servers with their own code. This documentation compiles a series of tree diagrams that define the structure of the packets used by the Protocol, as well as related classes and enums. Protocol is subject to change release over release.&lt;/p&gt; &#xA;&lt;p&gt;Current Release - r/20_u7&lt;/p&gt;</summary>
+    <title>square/retrofit</title>
+    <updated>2024-03-20T01:28:33Z</updated>
+    <id>tag:github.com,2024-03-20:/square/retrofit</id>
+    <link href="https://github.com/square/retrofit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A type-safe HTTP client for Android and the JVM&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Retrofit&lt;/h1&gt; &#xA;&lt;p&gt;A type-safe HTTP client for Android and Java.&lt;/p&gt; &#xA;&lt;p&gt;For more information please see &lt;a href=&#34;https://square.github.io/retrofit/&#34;&gt;the website&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Download&lt;/h2&gt; &#xA;&lt;p&gt;Download &lt;a href=&#34;https://search.maven.org/remote_content?g=com.squareup.retrofit2&amp;amp;a=retrofit&amp;amp;v=LATEST&#34;&gt;the latest JAR&lt;/a&gt; or grab from Maven central at the coordinates &lt;code&gt;com.squareup.retrofit2:retrofit:2.10.0&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Snapshots of the development version are available in &lt;a href=&#34;https://s01.oss.sonatype.org/content/repositories/snapshots/&#34;&gt;Sonatype&#39;s &lt;code&gt;snapshots&lt;/code&gt; repository&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Retrofit requires at minimum Java 8+ or Android API 21+.&lt;/p&gt; &#xA;&lt;h2&gt;R8 / ProGuard&lt;/h2&gt; &#xA;&lt;p&gt;If you are using R8 the shrinking and obfuscation rules are included automatically.&lt;/p&gt; &#xA;&lt;p&gt;ProGuard users must manually add the options from &lt;a href=&#34;https://github.com/square/retrofit/raw/master/retrofit/src/main/resources/META-INF/proguard/retrofit2.pro&#34;&gt;retrofit2.pro&lt;/a&gt;. You might also need &lt;a href=&#34;https://square.github.io/okhttp/r8_proguard/&#34;&gt;rules for OkHttp&lt;/a&gt; and &lt;a href=&#34;https://square.github.io/okio/#r8-proguard&#34;&gt;Okio&lt;/a&gt; which are dependencies of this library.&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;Copyright 2013 Square, Inc.&#xA;&#xA;Licensed under the Apache License, Version 2.0 (the &#34;License&#34;);&#xA;you may not use this file except in compliance with the License.&#xA;You may obtain a copy of the License at&#xA;&#xA;   http://www.apache.org/licenses/LICENSE-2.0&#xA;&#xA;Unless required by applicable law or agreed to in writing, software&#xA;distributed under the License is distributed on an &#34;AS IS&#34; BASIS,&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xA;See the License for the specific language governing permissions and&#xA;limitations under the License.&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

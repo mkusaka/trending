@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-19T01:32:11Z</updated>
+  <updated>2024-03-20T01:30:51Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>majidrezarahnavard/way_of_freedom</title>
-    <updated>2024-03-19T01:32:11Z</updated>
-    <id>tag:github.com,2024-03-19:/majidrezarahnavard/way_of_freedom</id>
-    <link href="https://github.com/majidrezarahnavard/way_of_freedom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;methods to access free internet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>giantswarm/cluster-api-ipam-provider-in-cluster-app</title>
+    <updated>2024-03-20T01:30:51Z</updated>
+    <id>tag:github.com,2024-03-20:/giantswarm/cluster-api-ipam-provider-in-cluster-app</id>
+    <link href="https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;simple controller for IpAddressClaim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ResilientGroup/MavenSetup</title>
-    <updated>2024-03-19T01:32:11Z</updated>
-    <id>tag:github.com,2024-03-19:/ResilientGroup/MavenSetup</id>
-    <link href="https://github.com/ResilientGroup/MavenSetup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A basic setup for all maven projects containing a build and tools for java.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adrienbrault/ollama-nous-hermes2pro</title>
-    <updated>2024-03-19T01:32:11Z</updated>
-    <id>tag:github.com,2024-03-19:/adrienbrault/ollama-nous-hermes2pro</id>
-    <link href="https://github.com/adrienbrault/ollama-nous-hermes2pro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ollama models of NousResearch/Hermes-2-Pro-Mistral-7B-GGUF&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>linkease/openwrt-app-meta</title>
+    <updated>2024-03-20T01:30:51Z</updated>
+    <id>tag:github.com,2024-03-20:/linkease/openwrt-app-meta</id>
+    <link href="https://github.com/linkease/openwrt-app-meta" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ipk元数据，用于istore的软件列表&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

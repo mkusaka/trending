@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-19T01:33:00Z</updated>
+  <updated>2024-03-20T01:31:42Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NationalGenomicsInfrastructure/seqinspector</title>
+    <updated>2024-03-20T01:31:42Z</updated>
+    <id>tag:github.com,2024-03-20:/NationalGenomicsInfrastructure/seqinspector</id>
+    <link href="https://github.com/NationalGenomicsInfrastructure/seqinspector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(hopefully nf-core) pipeline to inspect your sequences&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uclahs-cds/pipeline-call-sSNV</title>
+    <updated>2024-03-20T01:31:42Z</updated>
+    <id>tag:github.com,2024-03-20:/uclahs-cds/pipeline-call-sSNV</id>
+    <link href="https://github.com/uclahs-cds/pipeline-call-sSNV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Nextflow pipeline to identify the somatic single nucleotide variants (sSNVs) by comparing a pair of tumor/normal samples.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

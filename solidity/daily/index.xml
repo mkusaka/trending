@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-19T01:37:43Z</updated>
+  <updated>2024-03-20T01:35:38Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2024-03-dittoeth</title>
-    <updated>2024-03-19T01:37:43Z</updated>
-    <id>tag:github.com,2024-03-19:/code-423n4/2024-03-dittoeth</id>
-    <link href="https://github.com/code-423n4/2024-03-dittoeth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>delvtech/hyperdrive</title>
-    <updated>2024-03-19T01:37:43Z</updated>
-    <id>tag:github.com,2024-03-19:/delvtech/hyperdrive</id>
-    <link href="https://github.com/delvtech/hyperdrive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An automated market maker for fixed and variable yield with on-demand terms.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>omniaprotocol/disperse.app</title>
+    <updated>2024-03-20T01:35:38Z</updated>
+    <id>tag:github.com,2024-03-20:/omniaprotocol/disperse.app</id>
+    <link href="https://github.com/omniaprotocol/disperse.app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Distribute ETH (or EVM based currency) or ERC20 tokens to multiple addresses.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

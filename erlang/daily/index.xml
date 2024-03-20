@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-19T01:27:47Z</updated>
+  <updated>2024-03-20T01:26:55Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>novaframework/nova</title>
-    <updated>2024-03-19T01:27:47Z</updated>
-    <id>tag:github.com,2024-03-19:/novaframework/nova</id>
-    <link href="https://github.com/novaframework/nova" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web framework for Erlang.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

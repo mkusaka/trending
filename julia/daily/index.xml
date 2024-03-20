@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-19T01:30:54Z</updated>
+  <updated>2024-03-20T01:29:50Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JuliaIO/TranscodingStreams.jl</title>
+    <updated>2024-03-20T01:29:50Z</updated>
+    <id>tag:github.com,2024-03-20:/JuliaIO/TranscodingStreams.jl</id>
+    <link href="https://github.com/JuliaIO/TranscodingStreams.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple, consistent interfaces for any codec.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>legend-exp/LegendDataManagement.jl</title>
+    <updated>2024-03-20T01:29:50Z</updated>
+    <id>tag:github.com,2024-03-20:/legend-exp/LegendDataManagement.jl</id>
+    <link href="https://github.com/legend-exp/LegendDataManagement.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LegendMetadata access in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gdalle/DifferentiationInterface.jl</title>
+    <updated>2024-03-20T01:29:50Z</updated>
+    <id>tag:github.com,2024-03-20:/gdalle/DifferentiationInterface.jl</id>
+    <link href="https://github.com/gdalle/DifferentiationInterface.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An interface to various automatic differentiation backends in Julia.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

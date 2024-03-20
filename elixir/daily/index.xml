@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-19T01:27:17Z</updated>
+  <updated>2024-03-20T01:26:41Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>andromeda-fie/elixar</title>
-    <updated>2024-03-19T01:27:17Z</updated>
-    <id>tag:github.com,2024-03-19:/andromeda-fie/elixar</id>
-    <link href="https://github.com/andromeda-fie/elixar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Programação Funcional com Elixir! 💧&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>benitezhm/excribe</title>
+    <updated>2024-03-20T01:26:41Z</updated>
+    <id>tag:github.com,2024-03-20:/benitezhm/excribe</id>
+    <link href="https://github.com/benitezhm/excribe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;text paragraph library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jerel/ecto_fields</title>
-    <updated>2024-03-19T01:27:17Z</updated>
-    <id>tag:github.com,2024-03-19:/jerel/ecto_fields</id>
-    <link href="https://github.com/jerel/ecto_fields" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Provides common fields for Ecto&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>underjord/entrace_live_dashboard</title>
+    <updated>2024-03-20T01:26:41Z</updated>
+    <id>tag:github.com,2024-03-20:/underjord/entrace_live_dashboard</id>
+    <link href="https://github.com/underjord/entrace_live_dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tracing experiments with live dashboard&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
