@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-20T01:34:16Z</updated>
+  <updated>2024-03-21T01:34:22Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>WargaLab-Information-Systems/pemrograman-berbasis-objek-2C-2024</title>
-    <updated>2024-03-20T01:34:16Z</updated>
-    <id>tag:github.com,2024-03-20:/WargaLab-Information-Systems/pemrograman-berbasis-objek-2C-2024</id>
-    <link href="https://github.com/WargaLab-Information-Systems/pemrograman-berbasis-objek-2C-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

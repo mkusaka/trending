@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-20T01:26:39Z</updated>
+  <updated>2024-03-21T01:26:44Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>phongnd1203/jsclub-gen12-cm4-project</title>
-    <updated>2024-03-20T01:26:39Z</updated>
-    <id>tag:github.com,2024-03-20:/phongnd1203/jsclub-gen12-cm4-project</id>
-    <link href="https://github.com/phongnd1203/jsclub-gen12-cm4-project" rel="alternate"></link>
+    <title>iamodh/smart-busan-gallery</title>
+    <updated>2024-03-21T01:26:44Z</updated>
+    <id>tag:github.com,2024-03-21:/iamodh/smart-busan-gallery</id>
+    <link href="https://github.com/iamodh/smart-busan-gallery" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Zeldruck/Albion-Online-ZQRadar</title>
-    <updated>2024-03-20T01:26:39Z</updated>
-    <id>tag:github.com,2024-03-20:/Zeldruck/Albion-Online-ZQRadar</id>
-    <link href="https://github.com/Zeldruck/Albion-Online-ZQRadar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free Albion Online Radar&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sothx/mipad-magic-window</title>
-    <updated>2024-03-20T01:26:39Z</updated>
-    <id>tag:github.com,2024-03-20:/sothx/mipad-magic-window</id>
-    <link href="https://github.com/sothx/mipad-magic-window" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hyper OS For Pad/Fold 完美横屏应用计划&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

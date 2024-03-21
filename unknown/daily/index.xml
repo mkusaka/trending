@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-20T01:22:24Z</updated>
+  <updated>2024-03-21T01:23:12Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO</title>
-    <updated>2024-03-20T01:22:24Z</updated>
-    <id>tag:github.com,2024-03-20:/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO</id>
-    <link href="https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;我的 ComfyUI 工作流合集 | My ComfyUI workflows collection&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NanmiCoder/MediaCrawler</title>
+    <updated>2024-03-21T01:23:12Z</updated>
+    <id>tag:github.com,2024-03-21:/NanmiCoder/MediaCrawler</id>
+    <link href="https://github.com/NanmiCoder/MediaCrawler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>laylavish/uBlockOrigin-HUGE-AI-Blocklist</title>
-    <updated>2024-03-20T01:22:24Z</updated>
-    <id>tag:github.com,2024-03-20:/laylavish/uBlockOrigin-HUGE-AI-Blocklist</id>
-    <link href="https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A huge blocklist of sites that contain AI generated content for uBlock Origin &amp; uBlacklist.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dotnet-smartcomponents/smartcomponents</title>
+    <updated>2024-03-21T01:23:12Z</updated>
+    <id>tag:github.com,2024-03-21:/dotnet-smartcomponents/smartcomponents</id>
+    <link href="https://github.com/dotnet-smartcomponents/smartcomponents" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experimental, end-to-end AI features for .NET apps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mayuelala/FollowYourClick</title>
-    <updated>2024-03-20T01:22:24Z</updated>
-    <id>tag:github.com,2024-03-20:/mayuelala/FollowYourClick</id>
-    <link href="https://github.com/mayuelala/FollowYourClick" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[arXiv 2024] Follow-Your-Click: This repo is the official implementation of &#34;Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mims-harvard/UniTS</title>
+    <updated>2024-03-21T01:23:12Z</updated>
+    <id>tag:github.com,2024-03-21:/mims-harvard/UniTS</id>
+    <link href="https://github.com/mims-harvard/UniTS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A unified time series model.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

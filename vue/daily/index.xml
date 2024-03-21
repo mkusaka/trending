@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-20T01:37:19Z</updated>
+  <updated>2024-03-21T01:37:18Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>unjs/runtime-compat</title>
-    <updated>2024-03-20T01:37:19Z</updated>
-    <id>tag:github.com,2024-03-20:/unjs/runtime-compat</id>
-    <link href="https://github.com/unjs/runtime-compat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Display APIs compatibility across different JavaScript runtimes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>calderonperaza/ejemplotareasfrontend</title>
-    <updated>2024-03-20T01:37:19Z</updated>
-    <id>tag:github.com,2024-03-20:/calderonperaza/ejemplotareasfrontend</id>
-    <link href="https://github.com/calderonperaza/ejemplotareasfrontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Front End de las tareas&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

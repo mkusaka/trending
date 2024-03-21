@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-20T01:26:41Z</updated>
+  <updated>2024-03-21T01:26:46Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>benitezhm/excribe</title>
-    <updated>2024-03-20T01:26:41Z</updated>
-    <id>tag:github.com,2024-03-20:/benitezhm/excribe</id>
-    <link href="https://github.com/benitezhm/excribe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;text paragraph library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>underjord/entrace_live_dashboard</title>
-    <updated>2024-03-20T01:26:41Z</updated>
-    <id>tag:github.com,2024-03-20:/underjord/entrace_live_dashboard</id>
-    <link href="https://github.com/underjord/entrace_live_dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tracing experiments with live dashboard&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

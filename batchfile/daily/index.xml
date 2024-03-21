@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-20T01:23:23Z</updated>
+  <updated>2024-03-21T01:24:06Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Whitecat18/Windows-Activator</title>
-    <updated>2024-03-20T01:23:23Z</updated>
-    <id>tag:github.com,2024-03-20:/Whitecat18/Windows-Activator</id>
-    <link href="https://github.com/Whitecat18/Windows-Activator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Activate your windows machines in one step.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheMMC/In-Place_Upgrade_Helper</title>
+    <updated>2024-03-21T01:24:06Z</updated>
+    <id>tag:github.com,2024-03-21:/TheMMC/In-Place_Upgrade_Helper</id>
+    <link href="https://github.com/TheMMC/In-Place_Upgrade_Helper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helper-Tool für Windows 10/11 Inplace-Upgrades und Editionswechsel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kexue-aihao/changdingyun-Blog</title>
+    <updated>2024-03-21T01:24:06Z</updated>
+    <id>tag:github.com,2024-03-21:/kexue-aihao/changdingyun-Blog</id>
+    <link href="https://github.com/kexue-aihao/changdingyun-Blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TiggerT/LogAnalysisAssistant</title>
+    <updated>2024-03-21T01:24:06Z</updated>
+    <id>tag:github.com,2024-03-21:/TiggerT/LogAnalysisAssistant</id>
+    <link href="https://github.com/TiggerT/LogAnalysisAssistant" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;应急响应、取证过程中的Windows日志辅助分析工具&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
