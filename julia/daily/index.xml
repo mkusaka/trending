@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-21T01:29:50Z</updated>
+  <updated>2024-03-22T01:27:47Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>legend-exp/LegendSpecFits.jl</title>
-    <updated>2024-03-21T01:29:50Z</updated>
-    <id>tag:github.com,2024-03-21:/legend-exp/LegendSpecFits.jl</id>
-    <link href="https://github.com/legend-exp/LegendSpecFits.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LEGEND tools to fit spectra&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GenXProject/GenX.jl</title>
+    <updated>2024-03-22T01:27:47Z</updated>
+    <id>tag:github.com,2024-03-22:/GenXProject/GenX.jl</id>
+    <link href="https://github.com/GenXProject/GenX.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GenX: a configurable power system capacity expansion model for studying low-carbon energy futures. More details at : https://genx.mit.edu&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PumasAI/WriteDocx.jl</title>
+    <updated>2024-03-22T01:27:47Z</updated>
+    <id>tag:github.com,2024-03-22:/PumasAI/WriteDocx.jl</id>
+    <link href="https://github.com/PumasAI/WriteDocx.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia package to create docx files for Microsoft Word from scratch&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bhftbootcamp/Serde.jl</title>
+    <updated>2024-03-22T01:27:47Z</updated>
+    <id>tag:github.com,2024-03-22:/bhftbootcamp/Serde.jl</id>
+    <link href="https://github.com/bhftbootcamp/Serde.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Serde is a Julia library for (de)serializing data to/from various formats. The library offers a simple and concise API for defining custom (de)serialization behavior for user-defined types&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

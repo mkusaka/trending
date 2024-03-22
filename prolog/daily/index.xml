@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-21T01:33:29Z</updated>
+  <updated>2024-03-22T01:31:21Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SWI-Prolog/packages-pengines</title>
-    <updated>2024-03-21T01:33:29Z</updated>
-    <id>tag:github.com,2024-03-21:/SWI-Prolog/packages-pengines</id>
-    <link href="https://github.com/SWI-Prolog/packages-pengines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pengines: Prolog engines&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SWI-Prolog/bench</title>
+    <updated>2024-03-22T01:31:21Z</updated>
+    <id>tag:github.com,2024-03-22:/SWI-Prolog/bench</id>
+    <link href="https://github.com/SWI-Prolog/bench" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Prolog benchmarks (`van Roy&#39; set)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SWI-Prolog/packages-stomp</title>
+    <updated>2024-03-22T01:31:21Z</updated>
+    <id>tag:github.com,2024-03-22:/SWI-Prolog/packages-stomp</id>
+    <link href="https://github.com/SWI-Prolog/packages-stomp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;STOMP client for message brokers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SWI-Prolog/packages-pcre</title>
+    <updated>2024-03-22T01:31:21Z</updated>
+    <id>tag:github.com,2024-03-22:/SWI-Prolog/packages-pcre</id>
+    <link href="https://github.com/SWI-Prolog/packages-pcre" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SWI-Prolog package for access to Perl Regular Expressions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

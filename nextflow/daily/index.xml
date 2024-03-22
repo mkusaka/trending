@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-21T01:31:48Z</updated>
+  <updated>2024-03-22T01:29:43Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nf-core/phaseimpute</title>
-    <updated>2024-03-21T01:31:48Z</updated>
-    <id>tag:github.com,2024-03-21:/nf-core/phaseimpute</id>
-    <link href="https://github.com/nf-core/phaseimpute" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nf-core/bacass</title>
+    <updated>2024-03-22T01:29:43Z</updated>
+    <id>tag:github.com,2024-03-22:/nf-core/bacass</id>
+    <link href="https://github.com/nf-core/bacass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple bacterial assembly and annotation pipeline&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nf-core/metaboigniter</title>
-    <updated>2024-03-21T01:31:48Z</updated>
-    <id>tag:github.com,2024-03-21:/nf-core/metaboigniter</id>
-    <link href="https://github.com/nf-core/metaboigniter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pre-processing of mass spectrometry-based metabolomics data with quantification and identification based on MS1 and MS2 data.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nf-core/tfactivity</title>
-    <updated>2024-03-21T01:31:48Z</updated>
-    <id>tag:github.com,2024-03-21:/nf-core/tfactivity</id>
-    <link href="https://github.com/nf-core/tfactivity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bioinformatics pipeline that makes use of expression and open chromatin data to identify differentially active transcription factors across conditions.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nf-core/multiplesequencealign</title>
+    <updated>2024-03-22T01:29:43Z</updated>
+    <id>tag:github.com,2024-03-22:/nf-core/multiplesequencealign</id>
+    <link href="https://github.com/nf-core/multiplesequencealign" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pipeline to run and systematically evaluate Multiple Sequence Alignment (MSA) methods.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

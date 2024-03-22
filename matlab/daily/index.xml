@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-21T01:31:03Z</updated>
+  <updated>2024-03-22T01:28:50Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tomsitter/HypPo_Lung</title>
-    <updated>2024-03-21T01:31:03Z</updated>
-    <id>tag:github.com,2024-03-21:/tomsitter/HypPo_Lung</id>
-    <link href="https://github.com/tomsitter/HypPo_Lung" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lung image analysis GUI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tinawunderlich/MultichannelGPR</title>
+    <updated>2024-03-22T01:28:50Z</updated>
+    <id>tag:github.com,2024-03-22:/tinawunderlich/MultichannelGPR</id>
+    <link href="https://github.com/tinawunderlich/MultichannelGPR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of MATLAB scripts for proccesing and visualization of (Multichannel) GPR data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ulmangt/csi740</title>
+    <updated>2024-03-22T01:28:50Z</updated>
+    <id>tag:github.com,2024-03-22:/ulmangt/csi740</id>
+    <link href="https://github.com/ulmangt/csi740" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CSI740 Numerical Linear Algebra&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-21T01:28:33Z</updated>
+  <updated>2024-03-22T01:26:49Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>teenboyring/Listonline</title>
-    <updated>2024-03-21T01:28:33Z</updated>
-    <id>tag:github.com,2024-03-21:/teenboyring/Listonline</id>
-    <link href="https://github.com/teenboyring/Listonline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bradtraversy/react-crash-2024</title>
-    <updated>2024-03-21T01:28:33Z</updated>
-    <id>tag:github.com,2024-03-21:/bradtraversy/react-crash-2024</id>
-    <link href="https://github.com/bradtraversy/react-crash-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;React jobs project from YouTube crash course&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;React Jobs Project (YouTube)&lt;/h1&gt; &#xA;&lt;p&gt;This is the jobs listing project from the &lt;a href=&#34;https://youtu.be/LDB4uaJ87e0&#34;&gt;YouTube crash course&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/bradtraversy/react-crash-2024/main/public/screen.png&#34;&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;This project uses JSON-Server for a mock backend.&lt;/p&gt; &#xA;&lt;h3&gt;Install Dependencies&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;npm install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Run JSON Server&lt;/h3&gt; &#xA;&lt;p&gt;The server will run on &lt;a href=&#34;http://localhost:8000&#34;&gt;http://localhost:8000&lt;/a&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;npm run server&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Run Vite Frontend&lt;/h3&gt; &#xA;&lt;p&gt;React will run on &lt;a href=&#34;http://localhost:3000&#34;&gt;http://localhost:3000&lt;/a&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;npm run dev&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Build for Production&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;npm run build&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Preview Production Build&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;npm run preview&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

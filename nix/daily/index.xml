@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-21T01:31:53Z</updated>
+  <updated>2024-03-22T01:29:47Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lilyinstarlight/bottom-nix</title>
-    <updated>2024-03-21T01:31:53Z</updated>
-    <id>tag:github.com,2024-03-21:/lilyinstarlight/bottom-nix</id>
-    <link href="https://github.com/lilyinstarlight/bottom-nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An implementation of the Bottom encoding format in Nix&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aanderse/teraflops</title>
+    <updated>2024-03-22T01:29:47Z</updated>
+    <id>tag:github.com,2024-03-22:/aanderse/teraflops</id>
+    <link href="https://github.com/aanderse/teraflops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a terraform ops tool which is sure to be a flop&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

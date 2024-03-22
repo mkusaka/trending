@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-21T01:27:30Z</updated>
+  <updated>2024-03-22T01:25:49Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>face-hh/griddycode</title>
+    <updated>2024-03-22T01:25:49Z</updated>
+    <id>tag:github.com,2024-03-22:/face-hh/griddycode</id>
+    <link href="https://github.com/face-hh/griddycode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A code editor made with Godot. Code has never been more lit!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>miskatonicstudio/godot-experiments</title>
+    <updated>2024-03-22T01:25:49Z</updated>
+    <id>tag:github.com,2024-03-22:/miskatonicstudio/godot-experiments</id>
+    <link href="https://github.com/miskatonicstudio/godot-experiments" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

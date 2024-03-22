@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-21T01:35:55Z</updated>
+  <updated>2024-03-22T01:33:25Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hdl/bazel_rules_hdl</title>
-    <updated>2024-03-21T01:35:55Z</updated>
-    <id>tag:github.com,2024-03-21:/hdl/bazel_rules_hdl</id>
-    <link href="https://github.com/hdl/bazel_rules_hdl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hardware Description Language (Verilog, VHDL, Chisel, nMigen, etc) with open tools (Yosys, Verilator, OpenROAD, etc) rules for Bazel (https://bazel.build)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>0xPolygon/kurtosis-cdk</title>
-    <updated>2024-03-21T01:35:55Z</updated>
-    <id>tag:github.com,2024-03-21:/0xPolygon/kurtosis-cdk</id>
-    <link href="https://github.com/0xPolygon/kurtosis-cdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openconfig/gnsi</title>
-    <updated>2024-03-21T01:35:55Z</updated>
-    <id>tag:github.com,2024-03-21:/openconfig/gnsi</id>
-    <link href="https://github.com/openconfig/gnsi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

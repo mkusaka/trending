@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-21T01:36:27Z</updated>
+  <updated>2024-03-22T01:33:54Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gaoxiang12/slam-in-ad-en</title>
-    <updated>2024-03-21T01:36:27Z</updated>
-    <id>tag:github.com,2024-03-21:/gaoxiang12/slam-in-ad-en</id>
-    <link href="https://github.com/gaoxiang12/slam-in-ad-en" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;English version of slam in autunomous driving&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;The English version of SLAM in autonomous driving and robotics.&lt;/h2&gt; &#xA;&lt;p&gt;Code: &lt;a href=&#34;https://github.com/gaoxiang12/slam_in_autonomous_driving&#34;&gt;https://github.com/gaoxiang12/slam_in_autonomous_driving&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Update&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;3.20 2.2.6&lt;/li&gt; &#xA; &lt;li&gt;3.18 template and front matter&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>Hhhyouy/Notes-of-mathematics</title>
-    <updated>2024-03-21T01:36:27Z</updated>
-    <id>tag:github.com,2024-03-21:/Hhhyouy/Notes-of-mathematics</id>
-    <link href="https://github.com/Hhhyouy/Notes-of-mathematics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;这是本人考研数学三笔记&lt;/p&gt;&lt;hr&gt;&lt;p&gt;本来这篇前言或者说README洋洋洒洒落笔千言，最后删减到现在的三言两语，我还是决定把最纯粹的内容奉献给大家。我写这份笔记，一方面是个人学习的总结，便于不断地复习回顾；另一方面也是希望能够给那些在学习数学上遇到困难的同道中人一些微不足道的帮助；最后，比较详尽的公式让那些有教学、科研需要的朋友们可以到源文件内直接复制粘贴，大大减轻了他们的工作量，也能更加美观。本笔记错误、疏漏在所难免，希望大家谅解。 使用时直接对Notes for Mathematics.tex编译一次即可。为了方便预览，本人将事先编译过的文件上传到此，也可以直接打开Notes for Mathematics.pdf阅读。&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>zheyuye/resume-chinese</title>
-    <updated>2024-03-21T01:36:27Z</updated>
-    <id>tag:github.com,2024-03-21:/zheyuye/resume-chinese</id>
-    <link href="https://github.com/zheyuye/resume-chinese" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;中文LaTeX简历模板&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;resume-chinese&lt;/h1&gt; &#xA;&lt;p&gt;中文LaTeX简历模板&lt;/p&gt; &#xA;&lt;p&gt;主要参考：&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/billryan/resume&#34;&gt;billryan/resume&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.wondercv.com/zh-CN/resume_templates&#34;&gt;WonderCV 学生求职模板&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Htallone/myCV&#34;&gt;Htallone/myCV&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/hijiangtao/resume&#34;&gt;hijiangtao/resume&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;LaTex语法内容以及框架基本上参照&lt;a href=&#34;https://github.com/Htallone/myCV&#34;&gt;Htallone/myCV&lt;/a&gt;, 宏主要参照&lt;a href=&#34;https://github.com/hijiangtao/resume&#34;&gt;hijiangtao/resume&lt;/a&gt;, 集各家之所长后做了些小修改, 方便直接从overleaf编译.&lt;/p&gt; &#xA;&lt;h3&gt;使用步骤&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Download ZIP&lt;/li&gt; &#xA; &lt;li&gt;Overleaf -&amp;gt; New Project -&amp;gt; Upload Project&lt;/li&gt; &#xA; &lt;li&gt;Do your own editing&lt;/li&gt; &#xA; &lt;li&gt;选择complier为&lt;code&gt;XeLaTeX&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;或者&lt;/p&gt; &#xA;&lt;ol start=&#34;0&#34;&gt; &#xA; &lt;li&gt;直接使用&lt;a href=&#34;https://www.overleaf.com/latex/templates/resume-chinese/vbrmnfrgbscv&#34;&gt;Overleaf模板&lt;/a&gt;, 开始你的编辑&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;宏(newcommand)&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;\name&lt;/code&gt;: 姓名&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;\contactInfo&lt;/code&gt;{邮箱}{手机号}{个人主页}`: 个人信息三元组&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;\basicContactInfo&lt;/code&gt;{邮箱}{手机号}: 个人信息两元组, 没有个人主页的可以用这个&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;\logosection{fontawesome command}{小节}&lt;/code&gt;: 用于分节, 如教育背景, 实习项目经历等&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;\dateRange{起始日期}{终止日期}&lt;/code&gt;: 时间区间, 其中使用了特殊对齐策略, 便于在&lt;code&gt;终止日期&lt;/code&gt;处填写&lt;strong&gt;至今&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;\datedline{内容}{日期}&lt;/code&gt;: 第二项自动右对齐, 广泛使用于简历中, 嵌套&lt;code&gt;\dateRange&lt;/code&gt;使用效果更佳&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;\biInfo{}{}&lt;/code&gt;: 两元组信息填充, 以&lt;code&gt;\quad&lt;/code&gt;分割&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;tripleInfo{}{}{}&lt;/code&gt;: 三元组信息填充, 以&lt;code&gt;\quad&lt;/code&gt;分割&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;\itemize&lt;/code&gt;: 清单列表，简历中应用最广&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;\enumerate&lt;/code&gt;: 枚举列表，数字标号&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;效果示例&lt;/h3&gt; &#xA;&lt;p&gt;&lt;strong&gt;纯享版:&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://zheyuye-image-1257819557.cos.ap-shanghai.myqcloud.com/img/resume.png&#34; alt=&#34;resume&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;照片版:&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;页眉个人照片+学校logo:&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://zheyuye-image-1257819557.cos.ap-shanghai.myqcloud.com/img/image-20210408152658206.png&#34; alt=&#34;head&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;页脚个人信息:&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://zheyuye-image-1257819557.cos.ap-shanghai.myqcloud.com/img/image-20210408152718217.png&#34; alt=&#34;footer&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

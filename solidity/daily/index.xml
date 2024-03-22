@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-21T01:35:44Z</updated>
+  <updated>2024-03-22T01:33:14Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OpenZeppelin/ctf-2024</title>
-    <updated>2024-03-21T01:35:44Z</updated>
-    <id>tag:github.com,2024-03-21:/OpenZeppelin/ctf-2024</id>
-    <link href="https://github.com/OpenZeppelin/ctf-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡️ Ethernaut CTF 2024 Challenges &amp; Solutions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fiveoutofnine/555</title>
+    <updated>2024-03-22T01:33:14Z</updated>
+    <id>tag:github.com,2024-03-22:/fiveoutofnine/555</id>
+    <link href="https://github.com/fiveoutofnine/555" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A ⁵⁄₉-themed NFT to commemorate me running 10000km in 555 days of running everyday.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

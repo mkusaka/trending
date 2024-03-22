@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-21T01:32:39Z</updated>
+  <updated>2024-03-22T01:30:33Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>integrated-application-development/delphilint</title>
+    <updated>2024-03-22T01:30:33Z</updated>
+    <id>tag:github.com,2024-03-22:/integrated-application-development/delphilint</id>
+    <link href="https://github.com/integrated-application-development/delphilint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delphi IDE package providing on-the-fly code analysis and linting, powered by SonarDelphi&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

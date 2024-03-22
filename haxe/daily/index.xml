@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-21T01:28:20Z</updated>
+  <updated>2024-03-22T01:26:40Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Masadow/dungeonkeeper</title>
-    <updated>2024-03-21T01:28:20Z</updated>
-    <id>tag:github.com,2024-03-21:/Masadow/dungeonkeeper</id>
-    <link href="https://github.com/Masadow/dungeonkeeper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This project is a game strongly inspired from Dungeon Keeper&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dungeonkeeper&lt;/h1&gt; &#xA;&lt;p&gt;V1.0&lt;/p&gt; &#xA;&lt;p&gt;This project is a game strongly inspired from Dungeon Keeper&lt;/p&gt; &#xA;&lt;p&gt;What you can do:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Build/Move 3 sorts of trap &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;A hole where heroes fall&lt;/li&gt; &#xA;   &lt;li&gt;A boulder to erase those adventurers&lt;/li&gt; &#xA;   &lt;li&gt;A wall which continueously fire arrows&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;Kill adventurers !&lt;/li&gt; &#xA; &lt;li&gt;Build more treasure chests to bring more adventurers&lt;/li&gt; &#xA; &lt;li&gt;Save one game&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;What you will able to do:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Recruit an army to defend your dungeon&lt;/li&gt; &#xA; &lt;li&gt;Rotate your blocks&lt;/li&gt; &#xA; &lt;li&gt;Build even more deadly traps&lt;/li&gt; &#xA; &lt;li&gt;Multi-floor level dungeon&lt;/li&gt; &#xA; &lt;li&gt;Multiple dungeon entrances&lt;/li&gt; &#xA; &lt;li&gt;Lead your hero through dungeon and launch spells&lt;/li&gt; &#xA; &lt;li&gt;Manage multiple savegames&lt;/li&gt; &#xA; &lt;li&gt;More than one adventurer at once&lt;/li&gt; &#xA; &lt;li&gt;More human adventurers (they actually know where the chest is, weird isn&#39;t it ?)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Known bugs:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;None yet&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
