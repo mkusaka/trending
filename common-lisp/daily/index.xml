@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-22T01:23:59Z</updated>
+  <updated>2024-03-23T01:23:15Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>postamar/cl-rational-simplex</title>
-    <updated>2024-03-22T01:23:59Z</updated>
-    <id>tag:github.com,2024-03-22:/postamar/cl-rational-simplex</id>
-    <link href="https://github.com/postamar/cl-rational-simplex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a dual simplex algorithm implementation with rational arithmetic in common lisp&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Quick solver instructions:&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Create LP object instance&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;either enerate new LP object instance with lp-make-new,&lt;/li&gt; &#xA; &lt;li&gt;or load from MPS file with lp-load-from-mps&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ol start=&#34;2&#34;&gt; &#xA; &lt;li&gt;Modify&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;add new constraint with lp-add-constraint&lt;/li&gt; &#xA; &lt;li&gt;add new variable with lp-add-variable (adding all constraints before adding all variables is most efficient)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ol start=&#34;3&#34;&gt; &#xA; &lt;li&gt;Solve&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;if desired and in single-threaded mode (i.e. +thread-system+ is NIL), run single-threaded-profiling to enable profiling of important functions&lt;/li&gt; &#xA; &lt;li&gt;run lp-solve to find an optimal basis&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ol start=&#34;4&#34;&gt; &#xA; &lt;li&gt;Analyze&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;get primal solution values with lp-primal-solution and lp-slack-values&lt;/li&gt; &#xA; &lt;li&gt;get dual solution values wih lp-dual-solution and lp-reduced-costs&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Function arguments and return values are documented more extensively in their doc strings.&lt;/p&gt;</summary>
-  </entry>
 </feed>

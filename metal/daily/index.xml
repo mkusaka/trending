@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Metal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-22T01:29:03Z</updated>
+  <updated>2024-03-23T01:29:02Z</updated>
   <subtitle>Daily Trending of Metal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shu223/Metal-SDF-Examples</title>
+    <updated>2024-03-23T01:29:02Z</updated>
+    <id>tag:github.com,2024-03-23:/shu223/Metal-SDF-Examples</id>
+    <link href="https://github.com/shu223/Metal-SDF-Examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shape Animation Examples using SDF with MSL (Metal Shader Language)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

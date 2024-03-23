@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-22T01:26:31Z</updated>
+  <updated>2024-03-23T01:26:06Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sunface/beat-ai</title>
-    <updated>2024-03-22T01:26:31Z</updated>
-    <id>tag:github.com,2024-03-22:/sunface/beat-ai</id>
-    <link href="https://github.com/sunface/beat-ai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;专属于软件开发工程师的 AI 入门圣经。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>doch4472/Group-6-Project</title>
-    <updated>2024-03-22T01:26:31Z</updated>
-    <id>tag:github.com,2024-03-22:/doch4472/Group-6-Project</id>
-    <link href="https://github.com/doch4472/Group-6-Project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BlackBeltTechnology/judo-jsl-fullstack-karaf-project-template</title>
+    <updated>2024-03-23T01:26:06Z</updated>
+    <id>tag:github.com,2024-03-23:/BlackBeltTechnology/judo-jsl-fullstack-karaf-project-template</id>
+    <link href="https://github.com/BlackBeltTechnology/judo-jsl-fullstack-karaf-project-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JUDO JSL Karaf fullstack project template&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

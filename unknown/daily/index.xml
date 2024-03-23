@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-22T01:22:03Z</updated>
+  <updated>2024-03-23T01:21:05Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CS-BAOYAN/CSSummerCamp2024</title>
-    <updated>2024-03-22T01:22:03Z</updated>
-    <id>tag:github.com,2024-03-22:/CS-BAOYAN/CSSummerCamp2024</id>
-    <link href="https://github.com/CS-BAOYAN/CSSummerCamp2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DataExpert-io/data-engineer-handbook</title>
+    <updated>2024-03-23T01:21:05Z</updated>
+    <id>tag:github.com,2024-03-23:/DataExpert-io/data-engineer-handbook</id>
+    <link href="https://github.com/DataExpert-io/data-engineer-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a repo with links to everything you&#39;d ever want to learn about data engineering&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>meituan/Meituan-INFORMS-TSL-Research-Challenge</title>
-    <updated>2024-03-22T01:22:03Z</updated>
-    <id>tag:github.com,2024-03-22:/meituan/Meituan-INFORMS-TSL-Research-Challenge</id>
-    <link href="https://github.com/meituan/Meituan-INFORMS-TSL-Research-Challenge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Boiledcrabs/Aviator-Prediction-Tool</title>
+    <updated>2024-03-23T01:21:05Z</updated>
+    <id>tag:github.com,2024-03-23:/Boiledcrabs/Aviator-Prediction-Tool</id>
+    <link href="https://github.com/Boiledcrabs/Aviator-Prediction-Tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Best prediction tool for Aviator, requests USB cable and PC for install on your device.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sk3pp3r/cheat-sheet-pdf</title>
+    <updated>2024-03-23T01:21:05Z</updated>
+    <id>tag:github.com,2024-03-23:/sk3pp3r/cheat-sheet-pdf</id>
+    <link href="https://github.com/sk3pp3r/cheat-sheet-pdf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📜 A Cheat-Sheet Collection from the WWW&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

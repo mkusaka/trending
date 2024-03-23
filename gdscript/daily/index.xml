@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-22T01:25:49Z</updated>
+  <updated>2024-03-23T01:25:25Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>face-hh/griddycode</title>
-    <updated>2024-03-22T01:25:49Z</updated>
-    <id>tag:github.com,2024-03-22:/face-hh/griddycode</id>
-    <link href="https://github.com/face-hh/griddycode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A code editor made with Godot. Code has never been more lit!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Semt1k/MiscritsBackBeta</title>
+    <updated>2024-03-23T01:25:25Z</updated>
+    <id>tag:github.com,2024-03-23:/Semt1k/MiscritsBackBeta</id>
+    <link href="https://github.com/Semt1k/MiscritsBackBeta" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code of the beta version of Misrits Offline Return! Engine - Godot 3.5.2 Join the official Discord!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>miskatonicstudio/godot-experiments</title>
-    <updated>2024-03-22T01:25:49Z</updated>
-    <id>tag:github.com,2024-03-22:/miskatonicstudio/godot-experiments</id>
-    <link href="https://github.com/miskatonicstudio/godot-experiments" rel="alternate"></link>
+    <title>func-godot/func_godot_plugin</title>
+    <updated>2024-03-23T01:25:25Z</updated>
+    <id>tag:github.com,2024-03-23:/func-godot/func_godot_plugin</id>
+    <link href="https://github.com/func-godot/func_godot_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quake .map support for Godot 4.2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>majikayogames/SimpleDungeons</title>
+    <updated>2024-03-23T01:25:25Z</updated>
+    <id>tag:github.com,2024-03-23:/majikayogames/SimpleDungeons</id>
+    <link href="https://github.com/majikayogames/SimpleDungeons" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

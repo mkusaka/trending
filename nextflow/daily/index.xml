@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-22T01:29:43Z</updated>
+  <updated>2024-03-23T01:29:35Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nf-core/bacass</title>
-    <updated>2024-03-22T01:29:43Z</updated>
-    <id>tag:github.com,2024-03-22:/nf-core/bacass</id>
-    <link href="https://github.com/nf-core/bacass" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple bacterial assembly and annotation pipeline&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nf-core/multiplesequencealign</title>
-    <updated>2024-03-22T01:29:43Z</updated>
-    <id>tag:github.com,2024-03-22:/nf-core/multiplesequencealign</id>
-    <link href="https://github.com/nf-core/multiplesequencealign" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A pipeline to run and systematically evaluate Multiple Sequence Alignment (MSA) methods.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-22T01:33:14Z</updated>
+  <updated>2024-03-23T01:33:53Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fiveoutofnine/555</title>
-    <updated>2024-03-22T01:33:14Z</updated>
-    <id>tag:github.com,2024-03-22:/fiveoutofnine/555</id>
-    <link href="https://github.com/fiveoutofnine/555" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A ⁵⁄₉-themed NFT to commemorate me running 10000km in 555 days of running everyday.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AmphorProtocol/asynchronous-vault</title>
+    <updated>2024-03-23T01:33:53Z</updated>
+    <id>tag:github.com,2024-03-23:/AmphorProtocol/asynchronous-vault</id>
+    <link href="https://github.com/AmphorProtocol/asynchronous-vault" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ion-Protocol/ion-protocol</title>
+    <updated>2024-03-23T01:33:53Z</updated>
+    <id>tag:github.com,2024-03-23:/Ion-Protocol/ion-protocol</id>
+    <link href="https://github.com/Ion-Protocol/ion-protocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

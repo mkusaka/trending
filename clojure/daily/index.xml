@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-22T01:23:52Z</updated>
+  <updated>2024-03-23T01:23:08Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>igrishaev/pg2</title>
-    <updated>2024-03-22T01:23:52Z</updated>
-    <id>tag:github.com,2024-03-22:/igrishaev/pg2</id>
-    <link href="https://github.com/igrishaev/pg2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast PostgreSQL driver for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hulunote/hulunote</title>
+    <updated>2024-03-23T01:23:08Z</updated>
+    <id>tag:github.com,2024-03-23:/hulunote/hulunote</id>
+    <link href="https://github.com/hulunote/hulunote" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;hulunote, a tool for networked thought, think different&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>YesSql/Clojure-RDBMS</title>
+    <updated>2024-03-23T01:23:08Z</updated>
+    <id>tag:github.com,2024-03-23:/YesSql/Clojure-RDBMS</id>
+    <link href="https://github.com/YesSql/Clojure-RDBMS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample code to see how to work with RDBMS in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

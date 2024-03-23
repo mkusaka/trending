@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elm Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-22T01:25:07Z</updated>
+  <updated>2024-03-23T01:24:38Z</updated>
   <subtitle>Daily Trending of Elm in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gampleman/elm-visualization</title>
-    <updated>2024-03-22T01:25:07Z</updated>
-    <id>tag:github.com,2024-03-22:/gampleman/elm-visualization</id>
-    <link href="https://github.com/gampleman/elm-visualization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A data visualization library for Elm&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

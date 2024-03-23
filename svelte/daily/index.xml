@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-22T01:33:36Z</updated>
+  <updated>2024-03-23T01:34:17Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tzezar/table</title>
-    <updated>2024-03-22T01:33:36Z</updated>
-    <id>tag:github.com,2024-03-22:/tzezar/table</id>
-    <link href="https://github.com/tzezar/table" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Table component made in svelte&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shibing624/ChatPilot</title>
+    <updated>2024-03-23T01:34:17Z</updated>
+    <id>tag:github.com,2024-03-23:/shibing624/ChatPilot</id>
+    <link href="https://github.com/shibing624/ChatPilot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Chat with Agent. 基于Agent实现了联网搜索，文件、网址对话功能（类kimi chat，文件，拖进来；网址，发出来），支持OpenAI API。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
