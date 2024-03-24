@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-23T01:26:06Z</updated>
+  <updated>2024-03-24T01:31:41Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BlackBeltTechnology/judo-jsl-fullstack-karaf-project-template</title>
-    <updated>2024-03-23T01:26:06Z</updated>
-    <id>tag:github.com,2024-03-23:/BlackBeltTechnology/judo-jsl-fullstack-karaf-project-template</id>
-    <link href="https://github.com/BlackBeltTechnology/judo-jsl-fullstack-karaf-project-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JUDO JSL Karaf fullstack project template&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Gleam Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-24T01:45:55Z</updated>
+  <subtitle>Weekly Trending of Gleam in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gleam-wisp/wisp</title>
+    <updated>2024-03-24T01:45:55Z</updated>
+    <id>tag:github.com,2024-03-24:/gleam-wisp/wisp</id>
+    <link href="https://github.com/gleam-wisp/wisp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧚 A practical web framework for Gleam&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rawhat/mist</title>
+    <updated>2024-03-24T01:45:55Z</updated>
+    <id>tag:github.com,2024-03-24:/rawhat/mist</id>
+    <link href="https://github.com/rawhat/mist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;gleam HTTP server. because it glistens on a web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gleam-lang/otp</title>
+    <updated>2024-03-24T01:45:55Z</updated>
+    <id>tag:github.com,2024-03-24:/gleam-lang/otp</id>
+    <link href="https://github.com/gleam-lang/otp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📫 Fault tolerant multicore programs with actors&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

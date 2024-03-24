@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cuda Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-24T01:43:47Z</updated>
+  <subtitle>Weekly Trending of Cuda in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tspeterkim/flash-attention-minimal</title>
+    <updated>2024-03-24T01:43:47Z</updated>
+    <id>tag:github.com,2024-03-24:/tspeterkim/flash-attention-minimal</id>
+    <link href="https://github.com/tspeterkim/flash-attention-minimal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flash Attention in ~100 lines of CUDA (forward pass only)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rmurai0610/diff-gaussian-rasterization-w-pose</title>
+    <updated>2024-03-24T01:43:47Z</updated>
+    <id>tag:github.com,2024-03-24:/rmurai0610/diff-gaussian-rasterization-w-pose</id>
+    <link href="https://github.com/rmurai0610/diff-gaussian-rasterization-w-pose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

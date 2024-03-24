@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Inno Setup Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-24T01:47:18Z</updated>
+  <subtitle>Weekly Trending of Inno Setup in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ManlyMarco/HC-HF_Patch</title>
+    <updated>2024-03-24T01:47:18Z</updated>
+    <id>tag:github.com,2024-03-24:/ManlyMarco/HC-HF_Patch</id>
+    <link href="https://github.com/ManlyMarco/HC-HF_Patch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automatically translate, uncensor and update HoneyCome!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

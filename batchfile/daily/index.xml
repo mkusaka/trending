@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-23T01:21:58Z</updated>
+  <updated>2024-03-24T01:27:32Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OptiJuegos/RobLauncher</title>
-    <updated>2024-03-23T01:21:58Z</updated>
-    <id>tag:github.com,2024-03-23:/OptiJuegos/RobLauncher</id>
-    <link href="https://github.com/OptiJuegos/RobLauncher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ZKBitcoinToken/Windows-CPU-GPU-zkBitcoin-Miner</title>
+    <updated>2024-03-24T01:27:32Z</updated>
+    <id>tag:github.com,2024-03-24:/ZKBitcoinToken/Windows-CPU-GPU-zkBitcoin-Miner</id>
+    <link href="https://github.com/ZKBitcoinToken/Windows-CPU-GPU-zkBitcoin-Miner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Miner for zkBitcoin for the Windows opperating system.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>makara-dev369/Navicat-Premium16</title>
+    <updated>2024-03-24T01:27:32Z</updated>
+    <id>tag:github.com,2024-03-24:/makara-dev369/Navicat-Premium16</id>
+    <link href="https://github.com/makara-dev369/Navicat-Premium16" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;For development only ,&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

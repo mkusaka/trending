@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-23T01:22:07Z</updated>
+  <updated>2024-03-24T01:27:41Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OSSystems/meta-browser</title>
-    <updated>2024-03-23T01:22:07Z</updated>
-    <id>tag:github.com,2024-03-23:/OSSystems/meta-browser</id>
-    <link href="https://github.com/OSSystems/meta-browser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenEmbedded/Yocto BSP layer for Web Browsers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mendersoftware/meta-mender</title>
+    <updated>2024-03-24T01:27:41Z</updated>
+    <id>tag:github.com,2024-03-24:/mendersoftware/meta-mender</id>
+    <link href="https://github.com/mendersoftware/meta-mender" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yocto Project meta layer for the Mender client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sbabic/meta-swupdate</title>
-    <updated>2024-03-23T01:22:07Z</updated>
-    <id>tag:github.com,2024-03-23:/sbabic/meta-swupdate</id>
-    <link href="https://github.com/sbabic/meta-swupdate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yocto receipes to generate a swupdate rootfilesystem as initrd&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>balena-os/balena-odroid</title>
+    <updated>2024-03-24T01:27:41Z</updated>
+    <id>tag:github.com,2024-03-24:/balena-os/balena-odroid</id>
+    <link href="https://github.com/balena-os/balena-odroid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Balena support for ODROID boards&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

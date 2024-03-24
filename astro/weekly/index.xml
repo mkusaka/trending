@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-24T01:42:04Z</updated>
+  <subtitle>Weekly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>himakom-gen-17/web-himakom-frontend</title>
+    <updated>2024-03-24T01:42:04Z</updated>
+    <id>tag:github.com,2024-03-24:/himakom-gen-17/web-himakom-frontend</id>
+    <link href="https://github.com/himakom-gen-17/web-himakom-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NixOS/nixos-homepage</title>
+    <updated>2024-03-24T01:42:04Z</updated>
+    <id>tag:github.com,2024-03-24:/NixOS/nixos-homepage</id>
+    <link href="https://github.com/NixOS/nixos-homepage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sources for nixos.org&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>arandaschimpf/astroproject</title>
+    <updated>2024-03-24T01:42:04Z</updated>
+    <id>tag:github.com,2024-03-24:/arandaschimpf/astroproject</id>
+    <link href="https://github.com/arandaschimpf/astroproject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

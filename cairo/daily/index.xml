@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-23T01:22:48Z</updated>
+  <updated>2024-03-24T01:28:24Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cienicera/Koji</title>
-    <updated>2024-03-23T01:22:48Z</updated>
-    <id>tag:github.com,2024-03-23:/cienicera/Koji</id>
-    <link href="https://github.com/cienicera/Koji" rel="alternate"></link>
+    <title>carbonable-labs/carbon-protocol-v3</title>
+    <updated>2024-03-24T01:28:24Z</updated>
+    <id>tag:github.com,2024-03-24:/carbonable-labs/carbon-protocol-v3</id>
+    <link href="https://github.com/carbonable-labs/carbon-protocol-v3" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>starknet-io/starkgate-contracts</title>
-    <updated>2024-03-23T01:22:48Z</updated>
-    <id>tag:github.com,2024-03-23:/starknet-io/starkgate-contracts</id>
-    <link href="https://github.com/starknet-io/starkgate-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>keep-starknet-strange/vault</title>
-    <updated>2024-03-23T01:22:48Z</updated>
-    <id>tag:github.com,2024-03-23:/keep-starknet-strange/vault</id>
-    <link href="https://github.com/keep-starknet-strange/vault" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Empower Your Assets, Redefine Control.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

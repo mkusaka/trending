@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GLSL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-24T01:45:56Z</updated>
+  <subtitle>Weekly Trending of GLSL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Null-MC/Shrimple</title>
+    <updated>2024-03-24T01:45:56Z</updated>
+    <id>tag:github.com,2024-03-24:/Null-MC/Shrimple</id>
+    <link href="https://github.com/Null-MC/Shrimple" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple Minecraft Java shader that attempts to maintain the vanilla aesthetic while adding optional shadows &amp; colored lighting.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GabeRundlett/gvox_engine</title>
+    <updated>2024-03-24T01:45:56Z</updated>
+    <id>tag:github.com,2024-03-24:/GabeRundlett/gvox_engine</id>
+    <link href="https://github.com/GabeRundlett/gvox_engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

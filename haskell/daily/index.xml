@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-23T01:26:10Z</updated>
+  <updated>2024-03-24T01:31:47Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MIMUW-Inf-2002/JPP_testy</title>
-    <updated>2024-03-23T01:26:10Z</updated>
-    <id>tag:github.com,2024-03-23:/MIMUW-Inf-2002/JPP_testy</id>
-    <link href="https://github.com/MIMUW-Inf-2002/JPP_testy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Testy do zadań z JPP 2023/24&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;JPP_testy&lt;/h1&gt; &#xA;&lt;h2&gt;Zadanie 1 - Zbiory i grafy&lt;/h2&gt; &#xA;&lt;h3&gt;Uruchamianie testów&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Zainstaluj QuickCheck: &lt;code&gt;cabal install --lib QuickCheck&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Umieść pliki &lt;code&gt;Graph.hs&lt;/code&gt; oraz &lt;code&gt;Set.hs&lt;/code&gt; z rozwiązaniem w katalogu &lt;code&gt;zad01/&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Odpal &lt;code&gt;make&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Wykonaj &lt;code&gt;TestAll&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Dodawanie testów&lt;/h3&gt; &#xA;&lt;p&gt;(Fork)&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Dodaj własny plik z testami do katalogu &lt;code&gt;zad01&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Dodaj w pliku z testami funkcję main - tak jak w testach oficjalnych&lt;/li&gt; &#xA; &lt;li&gt;Dodaj do &lt;code&gt;TestAll.hs&lt;/code&gt; wywołanie funkcji &lt;code&gt;main&lt;/code&gt; z Twoich testów&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;(Pull request)&lt;/p&gt;</summary>
-  </entry>
 </feed>

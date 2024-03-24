@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-23T01:33:53Z</updated>
+  <updated>2024-03-24T01:38:52Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AmphorProtocol/asynchronous-vault</title>
-    <updated>2024-03-23T01:33:53Z</updated>
-    <id>tag:github.com,2024-03-23:/AmphorProtocol/asynchronous-vault</id>
-    <link href="https://github.com/AmphorProtocol/asynchronous-vault" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Cyfrin/ctf</title>
+    <updated>2024-03-24T01:38:52Z</updated>
+    <id>tag:github.com,2024-03-24:/Cyfrin/ctf</id>
+    <link href="https://github.com/Cyfrin/ctf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal repo to create EVM/solidity capture the flags&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Ion-Protocol/ion-protocol</title>
-    <updated>2024-03-23T01:33:53Z</updated>
-    <id>tag:github.com,2024-03-23:/Ion-Protocol/ion-protocol</id>
-    <link href="https://github.com/Ion-Protocol/ion-protocol" rel="alternate"></link>
+    <title>GenerationSoftware/pt-v5-claimer</title>
+    <updated>2024-03-24T01:38:52Z</updated>
+    <id>tag:github.com,2024-03-24:/GenerationSoftware/pt-v5-claimer</id>
+    <link href="https://github.com/GenerationSoftware/pt-v5-claimer" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

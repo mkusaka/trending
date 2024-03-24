@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-23T01:21:50Z</updated>
+  <updated>2024-03-24T01:27:22Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tukeshwar/automation-with-chatgpt</title>
-    <updated>2024-03-23T01:21:50Z</updated>
-    <id>tag:github.com,2024-03-23:/tukeshwar/automation-with-chatgpt</id>
-    <link href="https://github.com/tukeshwar/automation-with-chatgpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

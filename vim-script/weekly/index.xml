@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-24T01:55:46Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shumphrey/fugitive-gitlab.vim</title>
+    <updated>2024-03-24T01:55:46Z</updated>
+    <id>tag:github.com,2024-03-24:/shumphrey/fugitive-gitlab.vim</id>
+    <link href="https://github.com/shumphrey/fugitive-gitlab.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A vim extension to fugitive.vim for GitLab support&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>othree/html5.vim</title>
+    <updated>2024-03-24T01:55:46Z</updated>
+    <id>tag:github.com,2024-03-24:/othree/html5.vim</id>
+    <link href="https://github.com/othree/html5.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTML5 omnicomplete and syntax&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hsucht/dot_files</title>
+    <updated>2024-03-24T01:55:46Z</updated>
+    <id>tag:github.com,2024-03-24:/hsucht/dot_files</id>
+    <link href="https://github.com/hsucht/dot_files" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

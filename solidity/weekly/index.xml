@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-24T01:54:05Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nrxschool/hackathon-op-template</title>
+    <updated>2024-03-24T01:54:05Z</updated>
+    <id>tag:github.com,2024-03-24:/nrxschool/hackathon-op-template</id>
+    <link href="https://github.com/nrxschool/hackathon-op-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template for build professional web3 projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ora-io/opml</title>
+    <updated>2024-03-24T01:54:05Z</updated>
+    <id>tag:github.com,2024-03-24:/ora-io/opml</id>
+    <link href="https://github.com/ora-io/opml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OPML: OPtimistic Machine Learning on Blockchain&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2024-03-coinbase</title>
+    <updated>2024-03-24T01:54:05Z</updated>
+    <id>tag:github.com,2024-03-24:/code-423n4/2024-03-coinbase</id>
+    <link href="https://github.com/code-423n4/2024-03-coinbase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

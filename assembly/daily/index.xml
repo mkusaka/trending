@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-23T01:21:45Z</updated>
+  <updated>2024-03-24T01:27:20Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KenKenMkIISR/MISSION98</title>
-    <updated>2024-03-23T01:21:45Z</updated>
-    <id>tag:github.com,2024-03-23:/KenKenMkIISR/MISSION98</id>
-    <link href="https://github.com/KenKenMkIISR/MISSION98" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PC-9801用3Dシューティングゲーム MISSION&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tomohikoseven/GASFor</title>
+    <updated>2024-03-24T01:27:20Z</updated>
+    <id>tag:github.com,2024-03-24:/tomohikoseven/GASFor</id>
+    <link href="https://github.com/tomohikoseven/GASFor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yousefkotp/8086-Assembly-Projects</title>
+    <updated>2024-03-24T01:27:20Z</updated>
+    <id>tag:github.com,2024-03-24:/yousefkotp/8086-Assembly-Projects</id>
+    <link href="https://github.com/yousefkotp/8086-Assembly-Projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of 8086 assembly projects solutions for Microprocessors course (CC421N) at Faculty of Engineering, Alexandria University.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
