@@ -4,11 +4,4 @@
   <updated>2024-03-24T01:39:03Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>keith/rules_multirun</title>
-    <updated>2024-03-24T01:39:03Z</updated>
-    <id>tag:github.com,2024-03-24:/keith/rules_multirun</id>
-    <link href="https://github.com/keith/rules_multirun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel rules for running multiple commands in parallel in a single bazel invocation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

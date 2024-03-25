@@ -4,11 +4,4 @@
   <updated>2024-03-24T01:41:05Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AliciaBytes/aliciabytes.com</title>
-    <updated>2024-03-24T01:41:05Z</updated>
-    <id>tag:github.com,2024-03-24:/AliciaBytes/aliciabytes.com</id>
-    <link href="https://github.com/AliciaBytes/aliciabytes.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Website&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href=&#34;https://www.aliciabytes.com&#34;&gt;www.aliciabytes.com&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;This will be my homepage, blog and digital garden. Feel welcome to look through the code and suggest changes&lt;/p&gt; &#xA;&lt;h2&gt;Licensing&lt;/h2&gt; &#xA;&lt;p&gt;Different parts of this repository are licensed under different licenses. For a general rule:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Website content in &lt;code&gt;*.md&lt;/code&gt; or &lt;code&gt;*.mdx&lt;/code&gt; files is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY&lt;/a&gt; license.&lt;/li&gt; &#xA; &lt;li&gt;Source code of the website in &lt;code&gt;*.astro&lt;/code&gt; or &lt;code&gt;*.css&lt;/code&gt; files is licensed under the &lt;a href=&#34;https://spdx.org/licenses/MIT.html&#34;&gt;MIT License&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;This doesn&#39;t apply to items not created by me or which explicitly mention a different license, they all have their own license, please check the respective details.&lt;/p&gt;</summary>
-  </entry>
 </feed>

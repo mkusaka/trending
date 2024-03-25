@@ -4,18 +4,4 @@
   <updated>2024-03-24T01:27:41Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mendersoftware/meta-mender</title>
-    <updated>2024-03-24T01:27:41Z</updated>
-    <id>tag:github.com,2024-03-24:/mendersoftware/meta-mender</id>
-    <link href="https://github.com/mendersoftware/meta-mender" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yocto Project meta layer for the Mender client&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>balena-os/balena-odroid</title>
-    <updated>2024-03-24T01:27:41Z</updated>
-    <id>tag:github.com,2024-03-24:/balena-os/balena-odroid</id>
-    <link href="https://github.com/balena-os/balena-odroid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Balena support for ODROID boards&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
