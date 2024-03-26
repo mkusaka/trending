@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-24T01:30:08Z</updated>
+  <updated>2024-03-26T01:26:01Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lucasvegi/Elixir-Refactorings</title>
+    <updated>2024-03-26T01:26:01Z</updated>
+    <id>tag:github.com,2024-03-26:/lucasvegi/Elixir-Refactorings</id>
+    <link href="https://github.com/lucasvegi/Elixir-Refactorings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Catalog of Elixir Refactorings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

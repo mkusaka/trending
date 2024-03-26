@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-24T01:33:12Z</updated>
+  <updated>2024-03-26T01:29:30Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>QuantumSavory/QuantumClifford.jl</title>
+    <updated>2024-03-26T01:29:30Z</updated>
+    <id>tag:github.com,2024-03-26:/QuantumSavory/QuantumClifford.jl</id>
+    <link href="https://github.com/QuantumSavory/QuantumClifford.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clifford circuits, graph states, and other quantum Stabilizer formalism tools.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bhftbootcamp/CryptoAPIs.jl</title>
+    <updated>2024-03-26T01:29:30Z</updated>
+    <id>tag:github.com,2024-03-26:/bhftbootcamp/CryptoAPIs.jl</id>
+    <link href="https://github.com/bhftbootcamp/CryptoAPIs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CryptoAPIs is a library written in Julia that combines API wrappers from various exchanges, simplifying access to market 💹 data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DEEPDIP-project/CoupledNODE.jl</title>
+    <updated>2024-03-26T01:29:30Z</updated>
+    <id>tag:github.com,2024-03-26:/DEEPDIP-project/CoupledNODE.jl</id>
+    <link href="https://github.com/DEEPDIP-project/CoupledNODE.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-24T01:26:32Z</updated>
+  <updated>2024-03-26T01:22:20Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zorazrw/awesome-tool-llm</title>
-    <updated>2024-03-24T01:26:32Z</updated>
-    <id>tag:github.com,2024-03-24:/zorazrw/awesome-tool-llm</id>
-    <link href="https://github.com/zorazrw/awesome-tool-llm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ezerear/gog-games.to_backup</title>
+    <updated>2024-03-26T01:22:20Z</updated>
+    <id>tag:github.com,2024-03-26:/ezerear/gog-games.to_backup</id>
+    <link href="https://github.com/ezerear/gog-games.to_backup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;gog-games.to games backup&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>awesome-foss/awesome-sysadmin</title>
+    <updated>2024-03-26T01:22:20Z</updated>
+    <id>tag:github.com,2024-03-26:/awesome-foss/awesome-sysadmin</id>
+    <link href="https://github.com/awesome-foss/awesome-sysadmin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of amazingly awesome open-source sysadmin resources.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>YerongAI/Office-Tool</title>
+    <updated>2024-03-26T01:22:20Z</updated>
+    <id>tag:github.com,2024-03-26:/YerongAI/Office-Tool</id>
+    <link href="https://github.com/YerongAI/Office-Tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Office Tool Plus localization projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
