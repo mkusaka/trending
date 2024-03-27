@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-26T01:24:52Z</updated>
+  <updated>2024-03-27T01:25:15Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lindsaymarkward/theadviceshop</title>
-    <updated>2024-03-26T01:24:52Z</updated>
-    <id>tag:github.com,2024-03-26:/lindsaymarkward/theadviceshop</id>
-    <link href="https://github.com/lindsaymarkward/theadviceshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Advice Shop Website (Example PHP Site for IT@JCU)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;theadviceshop&lt;/h1&gt; &#xA;&lt;p&gt;&lt;em&gt;The Advice Shop Website&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;This is an Example Site for Web Design (CP1406, CP3402) at JCU&lt;/p&gt; &#xA;&lt;p&gt;First created for the 2015 class in Townsville, by Lindsay Ward&lt;/p&gt; &#xA;&lt;p&gt;Demonstrates a few useful things like:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Navigation highlights the current page&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;SQLite&lt;/strong&gt; database integration (just read) for quotes&lt;/li&gt; &#xA; &lt;li&gt;List of quotes -&amp;gt; link to individual quotes&lt;/li&gt; &#xA; &lt;li&gt;Super-basic &#34;login&#34; form demonstrates PHP &lt;strong&gt;sessions&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;Login form processing page redirects (never shows in browser)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>Chotifz/Hotel-harisenin</title>
-    <updated>2024-03-26T01:24:52Z</updated>
-    <id>tag:github.com,2024-03-26:/Chotifz/Hotel-harisenin</id>
-    <link href="https://github.com/Chotifz/Hotel-harisenin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Setup direktori&lt;/h1&gt;</summary>
+    <title>phamvulinh18/thutinh</title>
+    <updated>2024-03-27T01:25:15Z</updated>
+    <id>tag:github.com,2024-03-27:/phamvulinh18/thutinh</id>
+    <link href="https://github.com/phamvulinh18/thutinh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

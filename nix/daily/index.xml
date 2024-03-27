@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-26T01:31:54Z</updated>
+  <updated>2024-03-27T01:32:05Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>0fie/Dotfiles</title>
-    <updated>2024-03-26T01:31:54Z</updated>
-    <id>tag:github.com,2024-03-26:/0fie/Dotfiles</id>
-    <link href="https://github.com/0fie/Dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My ultra-simple NixOS config, perfect for my media consumption and software development needs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

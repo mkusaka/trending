@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-26T01:27:57Z</updated>
+  <updated>2024-03-27T01:28:03Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>aws-ia/terraform-aws-eks-data-addons</title>
-    <updated>2024-03-26T01:27:57Z</updated>
-    <id>tag:github.com,2024-03-26:/aws-ia/terraform-aws-eks-data-addons</id>
-    <link href="https://github.com/aws-ia/terraform-aws-eks-data-addons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Module: Deploy Data/ML Addons Helm Charts on EKS 🚀&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>devops0014/devops18</title>
-    <updated>2024-03-26T01:27:57Z</updated>
-    <id>tag:github.com,2024-03-26:/devops0014/devops18</id>
-    <link href="https://github.com/devops0014/devops18" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lacework/terraform-gcp-pub-sub-audit-log</title>
-    <updated>2024-03-26T01:27:57Z</updated>
-    <id>tag:github.com,2024-03-26:/lacework/terraform-gcp-pub-sub-audit-log</id>
-    <link href="https://github.com/lacework/terraform-gcp-pub-sub-audit-log" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Terraform Module to configuring an integration with Google Cloud Platform Pub Sub Audit Logs with Lacework for analysis.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

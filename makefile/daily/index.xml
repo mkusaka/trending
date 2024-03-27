@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-26T01:30:56Z</updated>
+  <updated>2024-03-27T01:31:07Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dmitriy-0297/5130904_3000_7_1</title>
-    <updated>2024-03-26T01:30:56Z</updated>
-    <id>tag:github.com,2024-03-26:/dmitriy-0297/5130904_3000_7_1</id>
-    <link href="https://github.com/dmitriy-0297/5130904_3000_7_1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ece362-purdue/riscv-lab-8.0</title>
+    <updated>2024-03-27T01:31:07Z</updated>
+    <id>tag:github.com,2024-03-27:/ece362-purdue/riscv-lab-8.0</id>
+    <link href="https://github.com/ece362-purdue/riscv-lab-8.0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RISC-V Lab Template: Intro to RISC-V Assembly&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thomaslegg/uwsgi-stable-modular-port</title>
+    <updated>2024-03-27T01:31:07Z</updated>
+    <id>tag:github.com,2024-03-27:/thomaslegg/uwsgi-stable-modular-port</id>
+    <link href="https://github.com/thomaslegg/uwsgi-stable-modular-port" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FreeBSD port skeleon for a modular build of uwsgi-stable&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

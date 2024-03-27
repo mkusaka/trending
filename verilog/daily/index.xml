@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-26T01:36:57Z</updated>
+  <updated>2024-03-27T01:37:34Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>algofoogle/raybox-zero</title>
+    <updated>2024-03-27T01:37:34Z</updated>
+    <id>tag:github.com,2024-03-27:/algofoogle/raybox-zero</id>
+    <link href="https://github.com/algofoogle/raybox-zero" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimal implementation of Raybox HDL ray caster concept&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
