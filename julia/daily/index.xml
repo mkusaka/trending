@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-27T01:29:57Z</updated>
+  <updated>2024-03-28T01:29:46Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>JuliaEarth/CoordRefSystems.jl</title>
-    <updated>2024-03-27T01:29:57Z</updated>
-    <id>tag:github.com,2024-03-27:/JuliaEarth/CoordRefSystems.jl</id>
-    <link href="https://github.com/JuliaEarth/CoordRefSystems.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unitful coordinate reference systems for geographic maps in Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GeoscienceAustralia/HiQGA.jl</title>
-    <updated>2024-03-27T01:29:57Z</updated>
-    <id>tag:github.com,2024-03-27:/GeoscienceAustralia/HiQGA.jl</id>
-    <link href="https://github.com/GeoscienceAustralia/HiQGA.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High Quality Geophysical Analysis provides a general purpose Bayesian and deterministic inversion framework for various geophysical methods and spatially distributed / timeseries data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

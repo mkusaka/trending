@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-27T01:36:25Z</updated>
+  <updated>2024-03-28T01:36:21Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sanity-io/sanity-template-sveltekit-clean</title>
-    <updated>2024-03-27T01:36:25Z</updated>
-    <id>tag:github.com,2024-03-27:/sanity-io/sanity-template-sveltekit-clean</id>
-    <link href="https://github.com/sanity-io/sanity-template-sveltekit-clean" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clean starter template with SvelteKit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

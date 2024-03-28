@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-27T01:26:26Z</updated>
+  <updated>2024-03-28T01:26:12Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Clivern/Lynx</title>
-    <updated>2024-03-27T01:26:26Z</updated>
-    <id>tag:github.com,2024-03-27:/Clivern/Lynx</id>
-    <link href="https://github.com/Clivern/Lynx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>helldivers-2/helldivers2-api</title>
-    <updated>2024-03-27T01:26:26Z</updated>
-    <id>tag:github.com,2024-03-27:/helldivers-2/helldivers2-api</id>
-    <link href="https://github.com/helldivers-2/helldivers2-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A community driven API for Helldivers 2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
