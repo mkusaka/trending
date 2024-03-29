@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-28T01:25:13Z</updated>
+  <updated>2024-03-29T01:26:46Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DixitPatel/wiselib</title>
+    <updated>2024-03-29T01:26:46Z</updated>
+    <id>tag:github.com,2024-03-29:/DixitPatel/wiselib</id>
+    <link href="https://github.com/DixitPatel/wiselib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

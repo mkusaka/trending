@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-28T01:25:02Z</updated>
+  <updated>2024-03-29T01:26:34Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>a9fm/a9fm.github.io</title>
+    <updated>2024-03-29T01:26:34Z</updated>
+    <id>tag:github.com,2024-03-29:/a9fm/a9fm.github.io</id>
+    <link href="https://github.com/a9fm/a9fm.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Сурсы сайта &lt;a href=&#34;https://a9fm.github.io&#34;&gt;a9fm.github.io&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;h2&gt;by &lt;a href=&#34;https://github.com/A9FM&#34;&gt;@a9fm&lt;/a&gt;&lt;/h2&gt;</summary>
+  </entry>
+  <entry>
+    <title>prs-teacher/LayoutParts-Part2</title>
+    <updated>2024-03-29T01:26:34Z</updated>
+    <id>tag:github.com,2024-03-29:/prs-teacher/LayoutParts-Part2</id>
+    <link href="https://github.com/prs-teacher/LayoutParts-Part2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
