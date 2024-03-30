@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:39:30Z</updated>
+  <updated>2024-03-30T01:41:41Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>WebAssembly/custom-page-sizes</title>
-    <updated>2024-03-29T01:39:30Z</updated>
-    <id>tag:github.com,2024-03-29:/WebAssembly/custom-page-sizes</id>
-    <link href="https://github.com/WebAssembly/custom-page-sizes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

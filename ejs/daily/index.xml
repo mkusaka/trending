@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:27:47Z</updated>
+  <updated>2024-03-30T01:27:09Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nightwatchjs/nightwatch-docs</title>
-    <updated>2024-03-29T01:27:47Z</updated>
-    <id>tag:github.com,2024-03-29:/nightwatchjs/nightwatch-docs</id>
-    <link href="https://github.com/nightwatchjs/nightwatch-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation source for https://nightwatchjs.org website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jhipster/generator-jhipster-react-native</title>
-    <updated>2024-03-29T01:27:47Z</updated>
-    <id>tag:github.com,2024-03-29:/jhipster/generator-jhipster-react-native</id>
-    <link href="https://github.com/jhipster/generator-jhipster-react-native" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A React Native blueprint for JHipster&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

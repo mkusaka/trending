@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:28:48Z</updated>
+  <updated>2024-03-30T01:28:13Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OrigamiDev-Pete/TODO_Manager</title>
-    <updated>2024-03-29T01:28:48Z</updated>
-    <id>tag:github.com,2024-03-29:/OrigamiDev-Pete/TODO_Manager</id>
-    <link href="https://github.com/OrigamiDev-Pete/TODO_Manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot plugin that adds a TODO list to the editor dock.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elixs/multiplayer_example</title>
+    <updated>2024-03-30T01:28:13Z</updated>
+    <id>tag:github.com,2024-03-30:/elixs/multiplayer_example</id>
+    <link href="https://github.com/elixs/multiplayer_example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>russmatney/log.gd</title>
+    <updated>2024-03-30T01:28:13Z</updated>
+    <id>tag:github.com,2024-03-30:/russmatney/log.gd</id>
+    <link href="https://github.com/russmatney/log.gd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pretty-printer for Godot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

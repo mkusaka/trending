@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gleam Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:29:03Z</updated>
+  <updated>2024-03-30T01:28:30Z</updated>
   <subtitle>Daily Trending of Gleam in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lpil/antigone</title>
-    <updated>2024-03-29T01:29:03Z</updated>
-    <id>tag:github.com,2024-03-29:/lpil/antigone</id>
-    <link href="https://github.com/lpil/antigone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Argon2 password hashing for Gleam.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

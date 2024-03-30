@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:32:39Z</updated>
+  <updated>2024-03-30T01:33:01Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dreamfairy/Unity_URP_Planear_Shadowmap</title>
-    <updated>2024-03-29T01:32:39Z</updated>
-    <id>tag:github.com,2024-03-29:/dreamfairy/Unity_URP_Planear_Shadowmap</id>
-    <link href="https://github.com/dreamfairy/Unity_URP_Planear_Shadowmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unity 主相机范围 扁平阴影&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

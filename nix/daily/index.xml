@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:33:31Z</updated>
+  <updated>2024-03-30T01:34:01Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LudovicoPiero/nixpackages</title>
-    <updated>2024-03-29T01:33:31Z</updated>
-    <id>tag:github.com,2024-03-29:/LudovicoPiero/nixpackages</id>
-    <link href="https://github.com/LudovicoPiero/nixpackages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lilyinstarlight/nixos-cosmic</title>
+    <updated>2024-03-30T01:34:01Z</updated>
+    <id>tag:github.com,2024-03-30:/lilyinstarlight/nixos-cosmic</id>
+    <link href="https://github.com/lilyinstarlight/nixos-cosmic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flake for testing COSMIC on NixOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>juspay/colmena-flake</title>
+    <updated>2024-03-30T01:34:01Z</updated>
+    <id>tag:github.com,2024-03-30:/juspay/colmena-flake</id>
+    <link href="https://github.com/juspay/colmena-flake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A `flake-parts` module for colmena deployment tool&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:34:23Z</updated>
+  <updated>2024-03-30T01:35:12Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>archstar/iTiVo-CookiePatch</title>
+    <updated>2024-03-30T01:35:12Z</updated>
+    <id>tag:github.com,2024-03-30:/archstar/iTiVo-CookiePatch</id>
+    <link href="https://github.com/archstar/iTiVo-CookiePatch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fix for iTiVo https://code.google.com/p/itivo/&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;iTiVo-CookiePatch&lt;/h1&gt; &#xA;&lt;p&gt;Fix for iTiVo &lt;a href=&#34;https://code.google.com/p/itivo/&#34;&gt;https://code.google.com/p/itivo/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Right click on iTiVo in finder and choose &#34;Show package contents&#34;&lt;/li&gt; &#xA; &lt;li&gt;Goto Contents/Resources/&lt;/li&gt; &#xA; &lt;li&gt;Rename or delete http-fetcher.pl from the Resources directory and add the one from here.&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>

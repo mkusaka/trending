@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:29:45Z</updated>
+  <updated>2024-03-30T01:29:12Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Course/HaskDB</title>
-    <updated>2024-03-29T01:29:45Z</updated>
-    <id>tag:github.com,2024-03-29:/Course/HaskDB</id>
-    <link href="https://github.com/Course/HaskDB" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ekmett/placeholder</title>
-    <updated>2024-03-29T01:29:45Z</updated>
-    <id>tag:github.com,2024-03-29:/ekmett/placeholder</id>
-    <link href="https://github.com/ekmett/placeholder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;todo and unimplemented, robustly implemented&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;placeholder&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://hackage.haskell.org/package/placeholder&#34;&gt;&lt;img src=&#34;https://img.shields.io/hackage/v/placeholder.svg?sanitize=true&#34; alt=&#34;Hackage&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/ekmett/placeholder/actions/workflows/ci.yml&#34;&gt;&lt;img src=&#34;https://github.com/ekmett/placeholder/actions/workflows/ci.yml/badge.svg?sanitize=true&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This package provides spiritual equivalents to rust&#39;s &lt;code&gt;todo!&lt;/code&gt; and &lt;code&gt;unimplemented!&lt;/code&gt; macros.&lt;/p&gt; &#xA;&lt;h2&gt;Contact Information&lt;/h2&gt; &#xA;&lt;p&gt;Contributions and bug reports are welcome!&lt;/p&gt; &#xA;&lt;p&gt;Please feel free to contact me through github or on the #haskell IRC channel on irc.freenode.net.&lt;/p&gt; &#xA;&lt;p&gt;-Edward Kmett&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:33:24Z</updated>
+  <updated>2024-03-30T01:33:56Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Niminem/CSS3Selectors</title>
-    <updated>2024-03-29T01:33:24Z</updated>
-    <id>tag:github.com,2024-03-29:/Niminem/CSS3Selectors</id>
-    <link href="https://github.com/Niminem/CSS3Selectors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Nim CSS Selectors library for the WHATWG standard compliant Chame HTML parser. Query HTML using CSS selectors with Nim just like you can with JavaScript.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

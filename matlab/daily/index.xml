@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:32:40Z</updated>
+  <updated>2024-03-30T01:32:58Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kruggles7/RAJAN</title>
-    <updated>2024-03-29T01:32:40Z</updated>
-    <id>tag:github.com,2024-03-29:/kruggles7/RAJAN</id>
-    <link href="https://github.com/kruggles7/RAJAN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elkorn/wkiro</title>
+    <updated>2024-03-30T01:32:58Z</updated>
+    <id>tag:github.com,2024-03-30:/elkorn/wkiro</id>
+    <link href="https://github.com/elkorn/wkiro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An implementation of a parameterless empiric Bayesian classifier with kernel density estimation and bandwidth selection.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

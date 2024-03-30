@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:24:20Z</updated>
+  <updated>2024-03-30T01:22:59Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>facebookincubator/haberdashery</title>
-    <updated>2024-03-29T01:24:20Z</updated>
-    <id>tag:github.com,2024-03-29:/facebookincubator/haberdashery</id>
-    <link href="https://github.com/facebookincubator/haberdashery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of high-performance crypto implementations.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>meribold/btry</title>
+    <updated>2024-03-30T01:22:59Z</updated>
+    <id>tag:github.com,2024-03-30:/meribold/btry</id>
+    <link href="https://github.com/meribold/btry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Monoplatform battery info program written in unportable x86 assembly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

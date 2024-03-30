@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AppleScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:24:09Z</updated>
+  <updated>2024-03-30T01:22:47Z</updated>
   <subtitle>Daily Trending of AppleScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tnwinc/SublimeSpecRunner</title>
-    <updated>2024-03-29T01:24:09Z</updated>
-    <id>tag:github.com,2024-03-29:/tnwinc/SublimeSpecRunner</id>
-    <link href="https://github.com/tnwinc/SublimeSpecRunner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Run specs with keyboard shortcuts right from Sublime Text&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Sublime Text Spec Runner&lt;/h1&gt; &#xA;&lt;p&gt;Adds commands for running specs in iTerm with keyboard shortcuts.&lt;/p&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;OSX&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/robbyrussell/oh-my-zsh&#34;&gt;zsh&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://www.iterm2.com/&#34;&gt;iTerm&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;h3&gt;Sublime Text 2&lt;/h3&gt; &#xA;&lt;p&gt;Open Terminal and run the following:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages &amp;amp;&amp;amp; git clone git@github.com:tnwinc/SublimeSpecRunner.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Sublime Text 3&lt;/h3&gt; &#xA;&lt;p&gt;Open Terminal and run the following:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages &amp;amp;&amp;amp; git clone git@github.com:tnwinc/SublimeSpecRunner.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Key Bindings&lt;/h2&gt; &#xA;&lt;p&gt;The default key bindings are:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Run all specs: &lt;code&gt;cmd&lt;/code&gt; + &lt;code&gt;option&lt;/code&gt; + &lt;code&gt;ctrl&lt;/code&gt; + &lt;code&gt;y&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Run local specs: &lt;code&gt;cmd&lt;/code&gt; + &lt;code&gt;option&lt;/code&gt; + &lt;code&gt;ctrl&lt;/code&gt; + &lt;code&gt;u&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Run current spec: &lt;code&gt;cmd&lt;/code&gt; + &lt;code&gt;option&lt;/code&gt; + &lt;code&gt;ctrl&lt;/code&gt; + &lt;code&gt;i&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Debug all specs: &lt;code&gt;cmd&lt;/code&gt; + &lt;code&gt;option&lt;/code&gt; + &lt;code&gt;ctrl&lt;/code&gt; + &lt;code&gt;h&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Debug local specs: &lt;code&gt;cmd&lt;/code&gt; + &lt;code&gt;option&lt;/code&gt; + &lt;code&gt;ctrl&lt;/code&gt; + &lt;code&gt;j&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Debug current spec: &lt;code&gt;cmd&lt;/code&gt; + &lt;code&gt;option&lt;/code&gt; + &lt;code&gt;ctrl&lt;/code&gt; + &lt;code&gt;k&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Re-run last spec(s): &lt;code&gt;cmd&lt;/code&gt; + &lt;code&gt;option&lt;/code&gt; + &lt;code&gt;ctrl&lt;/code&gt; + &lt;code&gt;l&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

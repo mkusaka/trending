@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Glyph Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:29:06Z</updated>
+  <updated>2024-03-30T01:28:31Z</updated>
   <subtitle>Daily Trending of Glyph in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pointwise/ConEllipse</title>
-    <updated>2024-03-29T01:29:06Z</updated>
-    <id>tag:github.com,2024-03-29:/pointwise/ConEllipse</id>
-    <link href="https://github.com/pointwise/ConEllipse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This Glyph script creates an elliptic connector given the origin and semi-major and semi-minor axes. A Tk interface is provided for setting the parameters.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

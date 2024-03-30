@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-29T01:34:46Z</updated>
+  <updated>2024-03-30T01:35:48Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>adjust/pg-mvtbl</title>
-    <updated>2024-03-29T01:34:46Z</updated>
-    <id>tag:github.com,2024-03-29:/adjust/pg-mvtbl</id>
-    <link href="https://github.com/adjust/pg-mvtbl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A postgres Extension to easily move tables around tablespaces&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adjust/pg_lock_pool</title>
-    <updated>2024-03-29T01:34:46Z</updated>
-    <id>tag:github.com,2024-03-29:/adjust/pg_lock_pool</id>
-    <link href="https://github.com/adjust/pg_lock_pool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A postgres Extension to wait on a lock pool&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
