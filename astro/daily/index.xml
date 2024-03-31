@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:22:56Z</updated>
+  <updated>2024-03-31T01:27:19Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ladit/astro-blog-zozo</title>
-    <updated>2024-03-30T01:22:56Z</updated>
-    <id>tag:github.com,2024-03-30:/ladit/astro-blog-zozo</id>
-    <link href="https://github.com/ladit/astro-blog-zozo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An opinionated and neat blog template built with Astro.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>markhorn-dev/astro-nano</title>
+    <updated>2024-03-31T01:27:19Z</updated>
+    <id>tag:github.com,2024-03-31:/markhorn-dev/astro-nano</id>
+    <link href="https://github.com/markhorn-dev/astro-nano" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GDGCochabamba/build-with-ai-website</title>
+    <updated>2024-03-31T01:27:19Z</updated>
+    <id>tag:github.com,2024-03-31:/GDGCochabamba/build-with-ai-website</id>
+    <link href="https://github.com/GDGCochabamba/build-with-ai-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

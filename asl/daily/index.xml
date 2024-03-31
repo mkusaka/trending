@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:22:50Z</updated>
+  <updated>2024-03-31T01:27:13Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HSG-WAS-SS24/exercise-6</title>
-    <updated>2024-03-30T01:22:50Z</updated>
-    <id>tag:github.com,2024-03-30:/HSG-WAS-SS24/exercise-6</id>
-    <link href="https://github.com/HSG-WAS-SS24/exercise-6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Everything required for exercise 6 in the FS23 Web-based Autonomous Systems course&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

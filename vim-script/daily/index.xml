@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:41:24Z</updated>
+  <updated>2024-03-31T01:41:50Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>osharma/dotfiles</title>
-    <updated>2024-03-30T01:41:24Z</updated>
-    <id>tag:github.com,2024-03-30:/osharma/dotfiles</id>
-    <link href="https://github.com/osharma/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>m-pilia/vim-ccls</title>
+    <updated>2024-03-31T01:41:50Z</updated>
+    <id>tag:github.com,2024-03-31:/m-pilia/vim-ccls</id>
+    <link href="https://github.com/m-pilia/vim-ccls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin for the ccls language server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mengelbrecht/lightline-bufferline</title>
-    <updated>2024-03-30T01:41:24Z</updated>
-    <id>tag:github.com,2024-03-30:/mengelbrecht/lightline-bufferline</id>
-    <link href="https://github.com/mengelbrecht/lightline-bufferline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight plugin to display the list of buffers in the lightline vim plugin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hotoo/pangu.vim</title>
+    <updated>2024-03-31T01:41:50Z</updated>
+    <id>tag:github.com,2024-03-31:/hotoo/pangu.vim</id>
+    <link href="https://github.com/hotoo/pangu.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;『盘古之白』中文排版自动规范化的 Vim 插件&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

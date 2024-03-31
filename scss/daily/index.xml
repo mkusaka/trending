@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:38:39Z</updated>
+  <updated>2024-03-31T01:39:33Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>quarto-examples/quarto-business-report</title>
-    <updated>2024-03-30T01:38:39Z</updated>
-    <id>tag:github.com,2024-03-30:/quarto-examples/quarto-business-report</id>
-    <link href="https://github.com/quarto-examples/quarto-business-report" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo of a customized business report with email update built with Quarto.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:38:25Z</updated>
+  <updated>2024-03-31T01:39:22Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Baccata/smithy4s-deriving</title>
-    <updated>2024-03-30T01:38:25Z</updated>
-    <id>tag:github.com,2024-03-30:/Baccata/smithy4s-deriving</id>
-    <link href="https://github.com/Baccata/smithy4s-deriving" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;smithy4s-deriving&lt;/h1&gt; &#xA;&lt;p&gt;This is a proof of concept for an alternative way to code-generators of interacting with Smithy4s, using typeclass derivation.&lt;/p&gt; &#xA;&lt;p&gt;The goals are :&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Scala 3 only&lt;/li&gt; &#xA; &lt;li&gt;derivation of &lt;code&gt;smithy4s.schema.Schema&lt;/code&gt; for scala 3 case classes and enums (including recursive ones)&lt;/li&gt; &#xA; &lt;li&gt;derivation of a &lt;code&gt;smithy4s.Service&lt;/code&gt;-adjacent construct for monomorphic traits/classes (for different &#34;effects&#34;, including direct-style interfaces), allowing to use the existing routers/clients implementations without any change in the upstream library&lt;/li&gt; &#xA; &lt;li&gt;support for hints reflecting smithy-traits on types/fields/methods/method parameters by means of a &lt;code&gt;@Smithy&lt;/code&gt; annotation&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;NB&lt;/h2&gt; &#xA;&lt;p&gt;In its current state, this is not a library, this is just code. It may make its way to Smithy4s once the feature it uses reach a Scala 3 LTS version, or I may decide to publish it as a side-library in other repo.&lt;/p&gt; &#xA;&lt;h2&gt;Inspiration&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Jamie Thompson&#39;s &lt;a href=&#34;https://github.com/bishabosha/ops-mirror&#34;&gt;https://github.com/bishabosha/ops-mirror&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Jakub Kozlowski&#39;s &lt;a href=&#34;https://github.com/polyvariant/respectfully/&#34;&gt;https://github.com/polyvariant/respectfully/&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>tylerOrMe/sample-play-crud</title>
+    <updated>2024-03-31T01:39:22Z</updated>
+    <id>tag:github.com,2024-03-31:/tylerOrMe/sample-play-crud</id>
+    <link href="https://github.com/tylerOrMe/sample-play-crud" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample crud using Play framework 2.x&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Sample crud using Play framework 2.x&lt;/h1&gt; &#xA;&lt;p&gt;This project is a super-simple tutorial for using play 2.x based on computer database play official sample&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:29:23Z</updated>
+  <updated>2024-03-31T01:32:00Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iam-veeramalla/terraform-eks</title>
-    <updated>2024-03-30T01:29:23Z</updated>
-    <id>tag:github.com,2024-03-30:/iam-veeramalla/terraform-eks</id>
-    <link href="https://github.com/iam-veeramalla/terraform-eks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A sample repository to create EKS with VPC on AWS using Terraform.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-google-modules/terraform-google-scheduled-function</title>
+    <updated>2024-03-31T01:32:00Z</updated>
+    <id>tag:github.com,2024-03-31:/terraform-google-modules/terraform-google-scheduled-function</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-scheduled-function" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sets up a scheduled job to trigger events and run functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

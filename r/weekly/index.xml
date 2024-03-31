@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub R Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-31T01:53:36Z</updated>
+  <subtitle>Weekly Trending of R in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nimmicv/CmpE272ProjectTeam2</title>
+    <updated>2024-03-31T01:53:36Z</updated>
+    <id>tag:github.com,2024-03-31:/nimmicv/CmpE272ProjectTeam2</id>
+    <link href="https://github.com/nimmicv/CmpE272ProjectTeam2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CmpE272ProjectTeam2&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CmpE272ProjectTeam2&lt;/h1&gt; &#xA;&lt;p&gt;CmpE272ProjectTeam2&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>greentheo/kaggle</title>
+    <updated>2024-03-31T01:53:36Z</updated>
+    <id>tag:github.com,2024-03-31:/greentheo/kaggle</id>
+    <link href="https://github.com/greentheo/kaggle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;repository for kaggle work&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;kaggle&lt;/h1&gt; &#xA;&lt;p&gt;repository for kaggle work&lt;/p&gt;</summary>
+  </entry>
+</feed>

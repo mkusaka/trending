@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:21:48Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2024-03-31T01:26:35Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fuckpiracyshield/fuckpiracyshield</title>
-    <updated>2024-03-30T01:21:48Z</updated>
-    <id>tag:github.com,2024-03-30:/fuckpiracyshield/fuckpiracyshield</id>
-    <link href="https://github.com/fuckpiracyshield/fuckpiracyshield" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Readme&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>soufianetahiri/TeamsNTLMLeak</title>
+    <updated>2024-03-31T01:26:35Z</updated>
+    <id>tag:github.com,2024-03-31:/soufianetahiri/TeamsNTLMLeak</id>
+    <link href="https://github.com/soufianetahiri/TeamsNTLMLeak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leak NTLM via Website tab in teams via MS Office&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>polymerdevs/Quest-Into-The-Polyverse-Phase-1</title>
-    <updated>2024-03-30T01:21:48Z</updated>
-    <id>tag:github.com,2024-03-30:/polymerdevs/Quest-Into-The-Polyverse-Phase-1</id>
-    <link href="https://github.com/polymerdevs/Quest-Into-The-Polyverse-Phase-1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All information related to phase 1 of the polymer incentivized testnet (PIT)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KushalVijay/GetHiredRoadmap2024</title>
+    <updated>2024-03-31T01:26:35Z</updated>
+    <id>tag:github.com,2024-03-31:/KushalVijay/GetHiredRoadmap2024</id>
+    <link href="https://github.com/KushalVijay/GetHiredRoadmap2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>IDKiro/sdxs</title>
-    <updated>2024-03-30T01:21:48Z</updated>
-    <id>tag:github.com,2024-03-30:/IDKiro/sdxs</id>
-    <link href="https://github.com/IDKiro/sdxs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official repo of paper &#34;SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DefTruth/Awesome-LLM-Inference</title>
+    <updated>2024-03-31T01:26:35Z</updated>
+    <id>tag:github.com,2024-03-31:/DefTruth/Awesome-LLM-Inference</id>
+    <link href="https://github.com/DefTruth/Awesome-LLM-Inference" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📖A curated list of Awesome LLM Inference Paper with codes, TensorRT-LLM, vLLM, streaming-llm, AWQ, SmoothQuant, WINT8/4, Continuous Batching, FlashAttention, PagedAttention etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:34:01Z</updated>
+  <updated>2024-03-31T01:35:51Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lilyinstarlight/nixos-cosmic</title>
-    <updated>2024-03-30T01:34:01Z</updated>
-    <id>tag:github.com,2024-03-30:/lilyinstarlight/nixos-cosmic</id>
-    <link href="https://github.com/lilyinstarlight/nixos-cosmic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flake for testing COSMIC on NixOS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0fie/Maika</title>
+    <updated>2024-03-31T01:35:51Z</updated>
+    <id>tag:github.com,2024-03-31:/0fie/Maika</id>
+    <link href="https://github.com/0fie/Maika" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My ultra-simple NixOS dotfiles.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>juspay/colmena-flake</title>
-    <updated>2024-03-30T01:34:01Z</updated>
-    <id>tag:github.com,2024-03-30:/juspay/colmena-flake</id>
-    <link href="https://github.com/juspay/colmena-flake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A `flake-parts` module for colmena deployment tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cachix/git-hooks.nix</title>
+    <updated>2024-03-31T01:35:51Z</updated>
+    <id>tag:github.com,2024-03-31:/cachix/git-hooks.nix</id>
+    <link href="https://github.com/cachix/git-hooks.nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Seamless integration of https://pre-commit.com git hooks with Nix.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

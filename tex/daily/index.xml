@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:40:27Z</updated>
+  <updated>2024-03-31T01:41:04Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mgbarsky/cs1503-math-hypothesis</title>
-    <updated>2024-03-30T01:40:27Z</updated>
-    <id>tag:github.com,2024-03-30:/mgbarsky/cs1503-math-hypothesis</id>
-    <link href="https://github.com/mgbarsky/cs1503-math-hypothesis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Questions for assignment about hypothesis testing.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cs1503-math-hypothesis&lt;/h1&gt; &#xA;&lt;p&gt;Questions for assignment about hypothesis testing.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>mike42/tex-examples</title>
-    <updated>2024-03-30T01:40:27Z</updated>
-    <id>tag:github.com,2024-03-30:/mike42/tex-examples</id>
-    <link href="https://github.com/mike42/tex-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Random snippets of TeX&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TeX Examples&lt;/h1&gt; &#xA;&lt;p&gt;Random snippets of TeX.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Each of these examples is written in LaTeX, and compiles with XeTeX on TeX Live. If you wish to contribute an example to this repository, please simply issue a pull request:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Include a Makefile for compilation&lt;/li&gt; &#xA; &lt;li&gt;Include a PDF of the output&lt;/li&gt; &#xA; &lt;li&gt;Name the subfolder after the package or technique you are demonstrating&lt;/li&gt; &#xA; &lt;li&gt;Include a README listing dependencies, if something more than LaTeX and Make are needed to compile&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Licence&lt;/h2&gt; &#xA;&lt;p&gt;These snippets are released under the LaTeX Project Public License (LPPL). Please see indicidual source files for authorship details.&lt;/p&gt;</summary>
+    <title>DatabaseLabcs260/DBMS_LAB_CS260_2024</title>
+    <updated>2024-03-31T01:41:04Z</updated>
+    <id>tag:github.com,2024-03-31:/DatabaseLabcs260/DBMS_LAB_CS260_2024</id>
+    <link href="https://github.com/DatabaseLabcs260/DBMS_LAB_CS260_2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DBMS_LAB_CS260_2024&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DBMS_LAB_CS260_2024&lt;/h1&gt; &#xA;&lt;p&gt;DBMS_LAB_CS260_2024&lt;/p&gt;</summary>
   </entry>
 </feed>

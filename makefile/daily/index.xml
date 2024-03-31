@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:32:56Z</updated>
+  <updated>2024-03-31T01:34:49Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cockpit-project/starter-kit</title>
-    <updated>2024-03-30T01:32:56Z</updated>
-    <id>tag:github.com,2024-03-30:/cockpit-project/starter-kit</id>
-    <link href="https://github.com/cockpit-project/starter-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Everything you need to develop, test and deploy your own cockpit plugin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

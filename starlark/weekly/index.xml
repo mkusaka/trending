@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-31T01:55:29Z</updated>
+  <subtitle>Weekly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bookingcom/rules_pitest</title>
+    <updated>2024-03-31T01:55:29Z</updated>
+    <id>tag:github.com,2024-03-31:/bookingcom/rules_pitest</id>
+    <link href="https://github.com/bookingcom/rules_pitest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rules to wrap pitest.org&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

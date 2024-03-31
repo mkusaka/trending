@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-31T01:46:58Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>the-mirror-gdp/the-mirror</title>
+    <updated>2024-03-31T01:46:58Z</updated>
+    <id>tag:github.com,2024-03-31:/the-mirror-gdp/the-mirror</id>
+    <link href="https://github.com/the-mirror-gdp/the-mirror" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The open-source Roblox &amp; UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>face-hh/griddycode</title>
+    <updated>2024-03-31T01:46:58Z</updated>
+    <id>tag:github.com,2024-03-31:/face-hh/griddycode</id>
+    <link href="https://github.com/face-hh/griddycode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A code editor made with Godot. Code has never been more lit!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>func-godot/func_godot_plugin</title>
+    <updated>2024-03-31T01:46:58Z</updated>
+    <id>tag:github.com,2024-03-31:/func-godot/func_godot_plugin</id>
+    <link href="https://github.com/func-godot/func_godot_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quake .map support for Godot 4.2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

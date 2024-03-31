@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-31T01:49:34Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TDA283-compiler-construction/project</title>
+    <updated>2024-03-31T01:49:34Z</updated>
+    <id>tag:github.com,2024-03-31:/TDA283-compiler-construction/project</id>
+    <link href="https://github.com/TDA283-compiler-construction/project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material for TDA283 / DIT300 Compiler Construction&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

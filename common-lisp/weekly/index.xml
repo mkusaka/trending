@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-31T01:45:01Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pdelong42/ANSI_Common_Lisp-solutions</title>
+    <updated>2024-03-31T01:45:01Z</updated>
+    <id>tag:github.com,2024-03-31:/pdelong42/ANSI_Common_Lisp-solutions</id>
+    <link href="https://github.com/pdelong42/ANSI_Common_Lisp-solutions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;solutions to the end-chapter exercises in Paul Graham&#39;s &#34;ANSI Common Lisp&#34;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&#34;ANSI Common Lisp&#34; solutions&lt;/h1&gt; &#xA;&lt;p&gt;Solutions to the end-chapter exercises in Paul Graham&#39;s &#34;ANSI Common Lisp&#34;.&lt;/p&gt; &#xA;&lt;h2&gt;Warnings and Disclaimers&lt;/h2&gt; &#xA;&lt;p&gt;Since I&#39;m paranoid of being accused of plagiarism, or using execerpts of someone else&#39;s copyrighted work without permission, in any case where I&#39;ve reproduced code from the text, I&#39;ve done my best to &#34;make it my own&#34;. So I&#39;ve adapted it to my own style and sensibility, which others may find offensive or hard to follow (though I hope not).&lt;/p&gt; &#xA;&lt;p&gt;One thing that I &lt;em&gt;do&lt;/em&gt; know seasoned Lisp programmers will find distasteful about my style is that, coming largely from a C and Perl background, I&#39;ve carried over their de-facto conventions for curly-braces, and applied it to the way I use parentheses in Lisp. I know, you&#39;re supposed to put all trailing parens on the same line whenever possible, but I just haven&#39;t been able to retrain myself to do that just get.&lt;/p&gt; &#xA;&lt;h2&gt;ToDo&lt;/h2&gt; &#xA;&lt;p&gt;I&#39;ve completed the exercises for the first seven chapters, but have yet to add anything past Chapter 6 to this repository. I&#39;m going through them one-by-one to sanitize them, and make sure I&#39;m not ripping-off Paul Graham&#39;s code verbatim. There were no exercises for Chapter 1, so naturally I&#39;ve included no solutions for it. And for Chapter 2, I only have the solutions for one exercise so far, because the rest didn&#39;t entail writing code; but I may go back and include the answers to the rest anyway, for completeness&#39; sake.&lt;/p&gt; &#xA;&lt;p&gt;As part of the cleanup, I&#39;m adding code to make the presentation a little neater, so that someone who runs the example files doesn&#39;t get a mess of output with no context whatsoever. It may evolve into a unit testing framework down the road a bit. We&#39;ll see.&lt;/p&gt;</summary>
+  </entry>
+</feed>

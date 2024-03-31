@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PHP Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-31T01:52:34Z</updated>
+  <subtitle>Weekly Trending of PHP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>smarty-php/smarty</title>
+    <updated>2024-03-31T01:52:34Z</updated>
+    <id>tag:github.com,2024-03-31:/smarty-php/smarty</id>
+    <link href="https://github.com/smarty-php/smarty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Smarty template engine&lt;/h1&gt; &#xA;&lt;p&gt;Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/smarty-php/smarty/workflows/CI/badge.svg?sanitize=true&#34; alt=&#34;CI&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;Read the &lt;a href=&#34;https://smarty-php.github.io/smarty/&#34;&gt;documentation&lt;/a&gt; to find out how to use it.&lt;/p&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;p&gt;Smarty v5 can be run with PHP 7.2 to PHP 8.3.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Smarty versions 3.1.11 or later can be installed with &lt;a href=&#34;https://getcomposer.org/&#34;&gt;Composer&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;To get the latest stable version of Smarty use:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;composer require smarty/smarty&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;More in the &lt;a href=&#34;https://raw.githubusercontent.com/smarty-php/smarty/master/docs/getting-started.md&#34;&gt;Getting Started&lt;/a&gt; section of the docs.&lt;/p&gt;</summary>
+  </entry>
+</feed>

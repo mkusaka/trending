@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:27:34Z</updated>
+  <updated>2024-03-31T01:30:24Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>WhatsApp/tree-sitter-erlang</title>
-    <updated>2024-03-30T01:27:34Z</updated>
-    <id>tag:github.com,2024-03-30:/WhatsApp/tree-sitter-erlang</id>
-    <link href="https://github.com/WhatsApp/tree-sitter-erlang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tree-sitter Grammar for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

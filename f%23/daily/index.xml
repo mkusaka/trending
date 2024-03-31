@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:27:38Z</updated>
+  <updated>2024-03-31T01:30:28Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>waf/firebrand</title>
-    <updated>2024-03-30T01:27:38Z</updated>
-    <id>tag:github.com,2024-03-30:/waf/firebrand</id>
-    <link href="https://github.com/waf/firebrand" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;F# IRC Library and Bot&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;firebrand&lt;/h1&gt; &#xA;&lt;p&gt;F# IRC Library and Bot&lt;/p&gt;</summary>
-  </entry>
 </feed>

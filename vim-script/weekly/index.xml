@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-03-31T01:56:53Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tmux-plugins/vim-tmux</title>
+    <updated>2024-03-31T01:56:53Z</updated>
+    <id>tag:github.com,2024-03-31:/tmux-plugins/vim-tmux</id>
+    <link href="https://github.com/tmux-plugins/vim-tmux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim plugin for tmux.conf&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>runningskull/dotfiles</title>
+    <updated>2024-03-31T01:56:53Z</updated>
+    <id>tag:github.com,2024-03-31:/runningskull/dotfiles</id>
+    <link href="https://github.com/runningskull/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;bootstrap ye ol&#39; env&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tetsuwo/dotfiles-lightweight</title>
+    <updated>2024-03-31T01:56:53Z</updated>
+    <id>tag:github.com,2024-03-31:/tetsuwo/dotfiles-lightweight</id>
+    <link href="https://github.com/tetsuwo/dotfiles-lightweight" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight version&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-30T01:32:25Z</updated>
+  <updated>2024-03-31T01:34:27Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sunapi386/rmtctrl</title>
-    <updated>2024-03-30T01:32:25Z</updated>
-    <id>tag:github.com,2024-03-30:/sunapi386/rmtctrl</id>
-    <link href="https://github.com/sunapi386/rmtctrl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
