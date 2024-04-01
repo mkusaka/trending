@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-01T02:07:48Z</updated>
+  <subtitle>Monthly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework</title>
+    <updated>2024-04-01T02:07:48Z</updated>
+    <id>tag:github.com,2024-04-01:/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework</id>
+    <link href="https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The European Digital Identity Wallet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chaseSpace/k8s-tutorial-cn</title>
+    <updated>2024-04-01T02:07:48Z</updated>
+    <id>tag:github.com,2024-04-01:/chaseSpace/k8s-tutorial-cn</id>
+    <link href="https://github.com/chaseSpace/k8s-tutorial-cn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The most(might be) detailed Kubernetes tutorials in Chinese. 全网最（可能）详细的Kubernetes中文教程。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>prometheus/client_model</title>
+    <updated>2024-04-01T02:07:48Z</updated>
+    <id>tag:github.com,2024-04-01:/prometheus/client_model</id>
+    <link href="https://github.com/prometheus/client_model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data model artifacts for Prometheus.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

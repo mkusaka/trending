@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-01T02:04:43Z</updated>
+  <subtitle>Monthly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vert-x/mod-lang-groovy</title>
+    <updated>2024-04-01T02:04:43Z</updated>
+    <id>tag:github.com,2024-04-01:/vert-x/mod-lang-groovy</id>
+    <link href="https://github.com/vert-x/mod-lang-groovy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vert.x 2.x is deprecated - use instead&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gravitee-io/issues</title>
+    <updated>2024-04-01T02:04:43Z</updated>
+    <id>tag:github.com,2024-04-01:/gravitee-io/issues</id>
+    <link href="https://github.com/gravitee-io/issues" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gravitee.io - API Platform - Issues&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

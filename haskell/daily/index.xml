@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-31T01:31:49Z</updated>
+  <updated>2024-04-01T01:33:07Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>necrobious/uuid-aeson</title>
-    <updated>2024-03-31T01:31:49Z</updated>
-    <id>tag:github.com,2024-03-31:/necrobious/uuid-aeson</id>
-    <link href="https://github.com/necrobious/uuid-aeson" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Aeson types for UUID instances.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;uuid-aeson&lt;/h1&gt; &#xA;&lt;p&gt;Aeson types for UUID instances.&lt;/p&gt; &#xA;&lt;h1&gt;example&lt;/h1&gt; &#xA;&lt;p&gt;Data.UUID.Aeson Data.UUID.V4 Data.Aeson Control.Monad&amp;gt; liftM (fromJSON .toJSON) nextRandom :: IO (Result UUID)&lt;/p&gt; &#xA;&lt;p&gt;Success 99644d7c-298c-44a9-b9bb-d0ca9940cc4e&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>rzeszut/simple-scheme</title>
-    <updated>2024-03-31T01:31:49Z</updated>
-    <id>tag:github.com,2024-03-31:/rzeszut/simple-scheme</id>
-    <link href="https://github.com/rzeszut/simple-scheme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple Scheme interpreter written in Haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;simple-scheme&lt;/h1&gt; &#xA;&lt;p&gt;A simple Scheme interpreter, written in Haskell.&lt;/p&gt; &#xA;&lt;p&gt;To build:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cabal configure --prefix=$HOME --user&#xA;cabal build&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;To install&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cabal install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;To run (after installation):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;~/.cabal/bin/simple-scheme&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;or&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;dist/build/simple-scheme/simple-scheme&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Prerequisites&lt;/h2&gt; &#xA;&lt;p&gt;You need to have cabal (and some libraries: parsec and mtl) installed:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sudo apt-get install cabal-install&#xA;cabal update&#xA;cabal install mtl split array alex happy&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Warning! GHC is in conflict with binutils-gold, don&#39;t install it, or you will get an error like that:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;/usr/bin/ld: --hash-size=31: unknown option&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

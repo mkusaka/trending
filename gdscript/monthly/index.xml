@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-01T02:03:55Z</updated>
+  <subtitle>Monthly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Rhythia/Rhythia</title>
+    <updated>2024-04-01T02:03:55Z</updated>
+    <id>tag:github.com,2024-04-01:/Rhythia/Rhythia</id>
+    <link href="https://github.com/Rhythia/Rhythia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rhythia is an aim-based rhythm game&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>derkork/godot-statecharts</title>
+    <updated>2024-04-01T02:03:55Z</updated>
+    <id>tag:github.com,2024-04-01:/derkork/godot-statecharts</id>
+    <link href="https://github.com/derkork/godot-statecharts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A state charts extension for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ShadowBlip/OpenGamepadUI</title>
+    <updated>2024-04-01T02:03:55Z</updated>
+    <id>tag:github.com,2024-04-01:/ShadowBlip/OpenGamepadUI</id>
+    <link href="https://github.com/ShadowBlip/OpenGamepadUI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source gamepad-native game launcher and overlay&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

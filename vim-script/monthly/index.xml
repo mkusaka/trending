@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-01T02:14:44Z</updated>
+  <subtitle>Monthly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tpope/vim-sleuth</title>
+    <updated>2024-04-01T02:14:44Z</updated>
+    <id>tag:github.com,2024-04-01:/tpope/vim-sleuth</id>
+    <link href="https://github.com/tpope/vim-sleuth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;sleuth.vim: Heuristically set buffer options&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shumphrey/fugitive-gitlab.vim</title>
+    <updated>2024-04-01T02:14:44Z</updated>
+    <id>tag:github.com,2024-04-01:/shumphrey/fugitive-gitlab.vim</id>
+    <link href="https://github.com/shumphrey/fugitive-gitlab.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A vim extension to fugitive.vim for GitLab support&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lambdalisue/fern.vim</title>
+    <updated>2024-04-01T02:14:44Z</updated>
+    <id>tag:github.com,2024-04-01:/lambdalisue/fern.vim</id>
+    <link href="https://github.com/lambdalisue/fern.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌿 General purpose asynchronous tree viewer written in Pure Vim script&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-31T01:26:35Z</updated>
+  <updated>2024-04-01T01:27:17Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>soufianetahiri/TeamsNTLMLeak</title>
-    <updated>2024-03-31T01:26:35Z</updated>
-    <id>tag:github.com,2024-03-31:/soufianetahiri/TeamsNTLMLeak</id>
-    <link href="https://github.com/soufianetahiri/TeamsNTLMLeak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Leak NTLM via Website tab in teams via MS Office&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>h4x0r-dz/Leaked-Credentials</title>
+    <updated>2024-04-01T01:27:17Z</updated>
+    <id>tag:github.com,2024-04-01:/h4x0r-dz/Leaked-Credentials</id>
+    <link href="https://github.com/h4x0r-dz/Leaked-Credentials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;how to look for Leaked Credentials !&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>KushalVijay/GetHiredRoadmap2024</title>
-    <updated>2024-03-31T01:26:35Z</updated>
-    <id>tag:github.com,2024-03-31:/KushalVijay/GetHiredRoadmap2024</id>
-    <link href="https://github.com/KushalVijay/GetHiredRoadmap2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HFUT-CHEATER/HFUTCheaterCollection</title>
+    <updated>2024-04-01T01:27:17Z</updated>
+    <id>tag:github.com,2024-04-01:/HFUT-CHEATER/HFUTCheaterCollection</id>
+    <link href="https://github.com/HFUT-CHEATER/HFUTCheaterCollection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HFUT-Cheater-Collection 合肥工业大学作弊学生名单、行政包庇人员名单——合肥工业大学作弊封神榜&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DefTruth/Awesome-LLM-Inference</title>
-    <updated>2024-03-31T01:26:35Z</updated>
-    <id>tag:github.com,2024-03-31:/DefTruth/Awesome-LLM-Inference</id>
-    <link href="https://github.com/DefTruth/Awesome-LLM-Inference" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📖A curated list of Awesome LLM Inference Paper with codes, TensorRT-LLM, vLLM, streaming-llm, AWQ, SmoothQuant, WINT8/4, Continuous Batching, FlashAttention, PagedAttention etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>knassar702/awesome-linux-minimalism</title>
+    <updated>2024-04-01T01:27:17Z</updated>
+    <id>tag:github.com,2024-04-01:/knassar702/awesome-linux-minimalism</id>
+    <link href="https://github.com/knassar702/awesome-linux-minimalism" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;awesome linux minimalism suggestions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

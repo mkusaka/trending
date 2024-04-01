@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-31T01:33:37Z</updated>
+  <updated>2024-04-01T01:34:33Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PumasAI/SummaryTables.jl</title>
-    <updated>2024-03-31T01:33:37Z</updated>
-    <id>tag:github.com,2024-03-31:/PumasAI/SummaryTables.jl</id>
-    <link href="https://github.com/PumasAI/SummaryTables.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia package for creating publication-ready summary tables in HTML, docx, LaTeX and Typst&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CliMA/ClimaUtilities.jl</title>
-    <updated>2024-03-31T01:33:37Z</updated>
-    <id>tag:github.com,2024-03-31:/CliMA/ClimaUtilities.jl</id>
-    <link href="https://github.com/CliMA/ClimaUtilities.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shared utilities for the CliMA project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>withbayes/Tapir.jl</title>
+    <updated>2024-04-01T01:34:33Z</updated>
+    <id>tag:github.com,2024-04-01:/withbayes/Tapir.jl</id>
+    <link href="https://github.com/withbayes/Tapir.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

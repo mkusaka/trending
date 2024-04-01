@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Logos Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-01T02:07:22Z</updated>
+  <subtitle>Monthly Trending of Logos in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>YTLitePlus/YTLitePlus</title>
+    <updated>2024-04-01T02:07:22Z</updated>
+    <id>tag:github.com,2024-04-01:/YTLitePlus/YTLitePlus</id>
+    <link href="https://github.com/YTLitePlus/YTLitePlus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modified version of Youtube for iOS supercharged with YTLite (by @dayanch96) and +20 tweaks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

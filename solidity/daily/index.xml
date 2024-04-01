@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-31T01:40:08Z</updated>
+  <updated>2024-04-01T01:40:32Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PatrickAlphaC/rwa-creator</title>
-    <updated>2024-03-31T01:40:08Z</updated>
-    <id>tag:github.com,2024-03-31:/PatrickAlphaC/rwa-creator</id>
-    <link href="https://github.com/PatrickAlphaC/rwa-creator" rel="alternate"></link>
+    <title>code-423n4/2024-03-ondo-finance</title>
+    <updated>2024-04-01T01:40:32Z</updated>
+    <id>tag:github.com,2024-04-01:/code-423n4/2024-03-ondo-finance</id>
+    <link href="https://github.com/code-423n4/2024-03-ondo-finance" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tzhaar-own/Mevbot.sol</title>
+    <updated>2024-04-01T01:40:32Z</updated>
+    <id>tag:github.com,2024-04-01:/tzhaar-own/Mevbot.sol</id>
+    <link href="https://github.com/tzhaar-own/Mevbot.sol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;New MEV Slippage Bot Uniswap with AI Chat GPT-4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tatyanakhavanskayathearlo/mevbot.sol</title>
+    <updated>2024-04-01T01:40:32Z</updated>
+    <id>tag:github.com,2024-04-01:/tatyanakhavanskayathearlo/mevbot.sol</id>
+    <link href="https://github.com/tatyanakhavanskayathearlo/mevbot.sol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Step-by-Step Guide: Configuring Your MEV Bot for Passive Income on Ethereum (ETH) &amp; Binance Smart Chain (BSC) Networks 💰🚀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-01T02:09:30Z</updated>
+  <subtitle>Monthly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>emilybache/Theatrical-Players-Refactoring-Kata</title>
+    <updated>2024-04-01T02:09:30Z</updated>
+    <id>tag:github.com,2024-04-01:/emilybache/Theatrical-Players-Refactoring-Kata</id>
+    <link href="https://github.com/emilybache/Theatrical-Players-Refactoring-Kata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example from first chapter of &#39;Refactoring&#39; by Martin Fowler, with tests and translations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

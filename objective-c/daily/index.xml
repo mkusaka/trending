@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-31T01:36:08Z</updated>
+  <updated>2024-04-01T01:36:50Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tancred/ObjcUnitPrototype</title>
-    <updated>2024-03-31T01:36:08Z</updated>
-    <id>tag:github.com,2024-03-31:/tancred/ObjcUnitPrototype</id>
-    <link href="https://github.com/tancred/ObjcUnitPrototype" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I&#39;m prototyping a new version of ObjcUnit. Let&#39;s see if something useful comes out eventually.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Prototyping a new version of ObjcUnit&lt;/h1&gt; &#xA;&lt;p&gt;I&#39;m experimenting with a new version of ObjcUnit, a unit test framwork for Objective-C that I wrote back in 2001/2002 together with my friend and co-worker Peter Lindberg. ObjcUnit was an adaption (almost a direct translation) of jUnit to Objective-C.&lt;/p&gt; &#xA;&lt;p&gt;I haven&#39;t touched ObjcUnit in years. When testing on the mac today I usually go with OCUnit/SenTestingKit because it&#39;s bundled with the dev tools, but I often get frustrated with the whole setup. Testing code on the mac is cumbersome.&lt;/p&gt; &#xA;&lt;p&gt;I have a few ideas on how to improve the situation. Well, I have a few ideas on &lt;em&gt;how to do things differently&lt;/em&gt;. Perhaps when realized, they will also turn out to improve the state of testing on the mac. We&#39;ll see.&lt;/p&gt;</summary>
+    <title>gnustep/apps-gorm</title>
+    <updated>2024-04-01T01:36:50Z</updated>
+    <id>tag:github.com,2024-04-01:/gnustep/apps-gorm</id>
+    <link href="https://github.com/gnustep/apps-gorm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gorm is a clone of the Cocoa (OpenStep/NeXTSTEP) `Interface Builder&#39; application for GNUstep&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;apps-gorm&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/gnustep/apps-gorm/actions/workflows/main.yml?query=branch%3Amaster&#34;&gt;&lt;img src=&#34;https://github.com/gnustep/apps-gorm/actions/workflows/main.yml/badge.svg?sanitize=true&#34; alt=&#34;CI&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Gorm is an acronym for Graphic Object Relationship modeler (or perhaps GNUstep Object Relationship Modeler).&lt;/li&gt; &#xA; &lt;li&gt;Gorm is a clone of the Cocoa (OpenStep/NeXTSTEP) &#39;Interface Builder&#39; application for GNUstep.&lt;/li&gt; &#xA; &lt;li&gt;Gorm is part of the GNUstep project, and is copyrighted by the Free Software Foundation.&lt;/li&gt; &#xA; &lt;li&gt;Gorm is released under the GPL - see the file &#39;COPYING&#39; for details.&lt;/li&gt; &#xA; &lt;li&gt;Documentation for Gorm is located in the Documentation directory.&lt;/li&gt; &#xA; &lt;li&gt;Please see the README files in each of the subdirectories for more complete information.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Organization&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Gorm is comprised of the GormCore, InterfaceBuilder, and GormObjCHeaderParser libraries/frameworks as well as the Gorm application and gormtool&lt;/li&gt; &#xA; &lt;li&gt;The purpose of this organization is so that Gorm&#39;s functionality can be re-used in other applications.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Status&lt;/h2&gt; &#xA;&lt;p&gt;Gorm is usable and stable. Please report bugs &lt;a href=&#34;https://github.com/gnustep/apps-gorm/issues&#34;&gt;here&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Acknowledgements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Icons - Mostly by Andrew Lindsay. Gorm application icon by Jesse Ross.&lt;/li&gt; &#xA; &lt;li&gt;Code - GormViewKnobs.m adapted from code by Gerrit van Dyk.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

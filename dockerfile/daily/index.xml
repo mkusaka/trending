@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-31T01:29:40Z</updated>
+  <updated>2024-04-01T01:30:42Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>devopscoacht/docker</title>
-    <updated>2024-03-31T01:29:40Z</updated>
-    <id>tag:github.com,2024-03-31:/devopscoacht/docker</id>
-    <link href="https://github.com/devopscoacht/docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wy580477/musicn-container</title>
-    <updated>2024-03-31T01:29:40Z</updated>
-    <id>tag:github.com,2024-03-31:/wy580477/musicn-container</id>
-    <link href="https://github.com/wy580477/musicn-container" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;播放及下载高品质音乐的命令行工具 musicn 容器&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;鸣谢&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/zonemeen/musicn&#34;&gt;zonemeen/musicn&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;概述&lt;/h2&gt; &#xA;&lt;p&gt;可播放及下载高品质音乐的命令行工具 &lt;a href=&#34;https://github.com/zonemeen/musicn&#34;&gt;musicn&lt;/a&gt; 的容器版本，支持 amd64/arm64 架构。&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/98247050/230909773-52d95ba7-e42e-4612-86dd-7cb363bc3f2f.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;部署&lt;/h2&gt; &#xA;&lt;p&gt;命令行 + Web 模式&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker run -d --name=musicn --restart=unless-stopped -v ${PWD}/musicn:/data -p 7478:7478 ghcr.io/wy580477/musicn-container:latest msc -q&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;仅命令行模式 （空闲时几乎不耗内存）&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker run -d --name=musicn --restart=unless-stopped -v ${PWD}/musicn:/data ghcr.io/wy580477/musicn-container:latest tail -f&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;${PWD}/musicn 为命令行模式下载文件存放目录，默认当前目录下 musicn 文件夹。&lt;/p&gt; &#xA;&lt;p&gt;执行 musicn 命令:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker exec -it musicn msc 周杰伦&#xA;&#xA;# 设置 bash 命令别名方便使用，重新登陆 shell 后生效&#xA;echo &#34;alias msc=&#39;docker exec -it musicn msc&#39;&#34; &amp;gt;&amp;gt; ~/.bashrc&#xA;&#xA;# 查看命令帮助&#xA;msc -h&#xA;&#xA;# 指定子目录 test 为下载目录&#xA;msc 周杰伦 -p ./test&#xA;&#xA;# 升级版本&#xA;docker container rm musicn --force &amp;amp;&amp;amp; docker pull ghcr.io/wy580477/musicn-container:latest&#xA;# 然后重新执行安装命令&#xA;&#xA;# 容器内升级 （不推荐，万一我以后弃坑不更新 image 版本，可以用这个方法更新）&#xA;docker exec -it musicn npm i musicn -g&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;更多命令用法详见： &lt;a href=&#34;https://github.com/zonemeen/musicn#%E6%90%9C%E7%B4%A2%E7%9A%84%E9%A1%B5%E7%A0%81%E6%95%B0%E9%BB%98%E8%AE%A4%E6%98%AF%E7%AC%AC1%E9%A1%B5&#34;&gt;musicn 文档&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;访问 http://&amp;lt;宿主机 ip&amp;gt;:7478 可到达 Web 搜索和下载界面。(扫码访问功能不可用, 请手动输入网址访问)&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/98247050/230908384-99c5d283-26f6-4a9b-aa9f-104ccf7e4702.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Docker-Compose 部署&lt;/h3&gt; &#xA;&lt;p&gt;命令行 + Web 模式&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;version: &#39;3.4&#39;&#xA;services:&#xA;&#xA;  musicn:&#xA;    image: ghcr.io/wy580477/musicn-container:latest&#xA;    container_name: musicn&#xA;    restart: unless-stopped&#xA;    entrypoint: [&#34;/sbin/tini&#34;, &#34;--&#34;, &#34;msc&#34;, &#34;-q&#34;]&#xA;    ports:&#xA;      - &#34;7478:7478&#34;&#xA;    volumes:&#xA;      - ./musicn:/data&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;仅命令行模式&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;version: &#39;3.4&#39;&#xA;services:&#xA;&#xA;  musicn:&#xA;    image: ghcr.io/wy580477/musicn-container:latest&#xA;    container_name: musicn&#xA;    restart: unless-stopped&#xA;    entrypoint: [&#34;/sbin/tini&#34;, &#34;--&#34;, &#34;tail&#34;, &#34;-f&#34;]&#xA;    volumes:&#xA;      - ./musicn:/data&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>jianyicheng/mase-docker</title>
+    <updated>2024-04-01T01:30:42Z</updated>
+    <id>tag:github.com,2024-04-01:/jianyicheng/mase-docker</id>
+    <link href="https://github.com/jianyicheng/mase-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dockerfile for the MASE container&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MASE Docker&lt;/h1&gt; &#xA;&lt;p&gt;The docker container used to run MASE&lt;/p&gt;</summary>
   </entry>
 </feed>

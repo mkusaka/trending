@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-31T01:39:22Z</updated>
+  <updated>2024-04-01T01:39:50Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tylerOrMe/sample-play-crud</title>
-    <updated>2024-03-31T01:39:22Z</updated>
-    <id>tag:github.com,2024-03-31:/tylerOrMe/sample-play-crud</id>
-    <link href="https://github.com/tylerOrMe/sample-play-crud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample crud using Play framework 2.x&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Sample crud using Play framework 2.x&lt;/h1&gt; &#xA;&lt;p&gt;This project is a super-simple tutorial for using play 2.x based on computer database play official sample&lt;/p&gt;</summary>
-  </entry>
 </feed>

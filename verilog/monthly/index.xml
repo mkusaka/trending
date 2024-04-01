@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-01T02:14:38Z</updated>
+  <subtitle>Monthly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AlSaqr-platform/sdio_vip</title>
+    <updated>2024-04-01T02:14:38Z</updated>
+    <id>tag:github.com,2024-04-01:/AlSaqr-platform/sdio_vip</id>
+    <link href="https://github.com/AlSaqr-platform/sdio_vip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;sdiovip&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OSCPU/ysyxSoC</title>
+    <updated>2024-04-01T02:14:38Z</updated>
+    <id>tag:github.com,2024-04-01:/OSCPU/ysyxSoC</id>
+    <link href="https://github.com/OSCPU/ysyxSoC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>budude2/openfpga-GBC</title>
+    <updated>2024-04-01T02:14:38Z</updated>
+    <id>tag:github.com,2024-04-01:/budude2/openfpga-GBC</id>
+    <link href="https://github.com/budude2/openfpga-GBC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

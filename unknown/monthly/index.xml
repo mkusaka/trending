@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-01T01:59:38Z</updated>
+  <subtitle>Monthly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xszyou/Fay</title>
+    <updated>2024-04-01T01:59:38Z</updated>
+    <id>tag:github.com,2024-04-01:/xszyou/Fay</id>
+    <link href="https://github.com/xszyou/Fay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aishwaryanr/awesome-generative-ai-guide</title>
+    <updated>2024-04-01T01:59:38Z</updated>
+    <id>tag:github.com,2024-04-01:/aishwaryanr/awesome-generative-ai-guide</id>
+    <link href="https://github.com/aishwaryanr/awesome-generative-ai-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A one stop repository for generative AI research updates, interview resources, notebooks and much more!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ai-boost/awesome-prompts</title>
+    <updated>2024-04-01T01:59:38Z</updated>
+    <id>tag:github.com,2024-04-01:/ai-boost/awesome-prompts</id>
+    <link href="https://github.com/ai-boost/awesome-prompts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack &amp; prompt protect. Advanced Prompt Engineering papers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

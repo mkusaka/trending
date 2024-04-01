@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-31T01:34:02Z</updated>
+  <updated>2024-04-01T01:34:54Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>j-hc/zygisk-detach-app</title>
+    <updated>2024-04-01T01:34:54Z</updated>
+    <id>tag:github.com,2024-04-01:/j-hc/zygisk-detach-app</id>
+    <link href="https://github.com/j-hc/zygisk-detach-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The app for zygisk-detach&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;zygisk-detach-app&lt;/h2&gt; &#xA;&lt;p&gt;Meant to be used with &lt;a href=&#34;https://github.com/j-hc/zygisk-detach&#34;&gt;zygisk-detach&lt;/a&gt; module&lt;/p&gt; &#xA;&lt;img src=&#34;https://github.com/j-hc/revanced-magisk-module/assets/25510067/03a19b7f-fb19-4b21-abff-a6bea512359e&#34; height=&#34;600&#34; style=&#34;display: block; margin-left: auto; margin-right: auto&#34;&gt;</summary>
+  </entry>
 </feed>

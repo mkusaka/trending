@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-01T02:01:45Z</updated>
+  <subtitle>Monthly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dongbin/smart_go</title>
+    <updated>2024-04-01T02:01:45Z</updated>
+    <id>tag:github.com,2024-04-01:/dongbin/smart_go</id>
+    <link href="https://github.com/dongbin/smart_go" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A smart Go game engine that has AI using UCT and MC&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;smart_go&lt;/h1&gt; &#xA;&lt;p&gt;A smart Go game engine that has AI using UCT and MC&lt;/p&gt;</summary>
+  </entry>
+</feed>

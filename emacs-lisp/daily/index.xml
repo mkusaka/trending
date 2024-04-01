@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-31T01:30:13Z</updated>
+  <updated>2024-04-01T01:31:29Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>protesilaos/consult-denote</title>
-    <updated>2024-03-31T01:30:13Z</updated>
-    <id>tag:github.com,2024-03-31:/protesilaos/consult-denote</id>
-    <link href="https://github.com/protesilaos/consult-denote" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use Consult in tandem with Denote (WORK-IN-PROGRESS)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;code&gt;consult-denote&lt;/code&gt; for GNU Emacs&lt;/h1&gt; &#xA;&lt;p&gt;PROOF-OF-CONCEPT to integrate Denote with Consult:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/minad/consult&#34;&gt;https://github.com/minad/consult&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/protesilaos/denote&#34;&gt;https://github.com/protesilaos/denote&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;I am not documenting anything for the time being. I am sharing this for developers or those who want to help discover bugs.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-31T01:41:04Z</updated>
+  <updated>2024-04-01T01:41:16Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DatabaseLabcs260/DBMS_LAB_CS260_2024</title>
-    <updated>2024-03-31T01:41:04Z</updated>
-    <id>tag:github.com,2024-03-31:/DatabaseLabcs260/DBMS_LAB_CS260_2024</id>
-    <link href="https://github.com/DatabaseLabcs260/DBMS_LAB_CS260_2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DBMS_LAB_CS260_2024&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DBMS_LAB_CS260_2024&lt;/h1&gt; &#xA;&lt;p&gt;DBMS_LAB_CS260_2024&lt;/p&gt;</summary>
+    <title>CS-MATH-113-Spring-2024/wc12</title>
+    <updated>2024-04-01T01:41:16Z</updated>
+    <id>tag:github.com,2024-04-01:/CS-MATH-113-Spring-2024/wc12</id>
+    <link href="https://github.com/CS-MATH-113-Spring-2024/wc12" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Weekly Challenge 12: Strong Induction&lt;/h1&gt; &#xA;&lt;h1&gt;CS/MATH 113 Discrete Mathematics, Spring 2024&lt;/h1&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Each Weekly Challenge (WC) invites you to critically engage with the topics covered up to that week. They may take on a variety of formats and be available and attempted through diverse platforms as the semester progresses. They may be attempted individually or in teams as indicated.&lt;/p&gt; &#xA;&lt;h1&gt;Purpose&lt;/h1&gt; &#xA;&lt;p&gt;This WC provides practice in strong induction.&lt;/p&gt; &#xA;&lt;h1&gt;Background and Requirements&lt;/h1&gt; &#xA;&lt;p&gt;To attempt and submit the task you will need&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;to recall and apply the method of proof by strong induction&lt;/li&gt; &#xA; &lt;li&gt;to recall and apply recurrence relations&lt;/li&gt; &#xA; &lt;li&gt;to imagine geometric constructions&lt;/li&gt; &#xA; &lt;li&gt;the time, patience, and perseverance to work through the problem&lt;/li&gt; &#xA; &lt;li&gt;the willingness to work through the LaTeX source&lt;/li&gt; &#xA; &lt;li&gt;comfort with GitHub and LaTeX&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Grading&lt;/h1&gt; &#xA;&lt;p&gt;Grading is as per the rubric shared on Canvas.&lt;/p&gt; &#xA;&lt;h1&gt;Task&lt;/h1&gt; &#xA;&lt;p&gt;The task for this WC is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file.&lt;/p&gt; &#xA;&lt;h1&gt;Deadline and discussion&lt;/h1&gt; &#xA;&lt;p&gt;The deadline is mentioned on Canvas.&lt;/p&gt; &#xA;&lt;p&gt;For discussion on the WC, please use the related Canvas discussion thread.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;viel Spass!&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Acwuld/LouAnalysis</title>
+    <updated>2024-04-01T01:41:16Z</updated>
+    <id>tag:github.com,2024-04-01:/Acwuld/LouAnalysis</id>
+    <link href="https://github.com/Acwuld/LouAnalysis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;楼红卫老师《数学分析》的答案.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Hello.&lt;/p&gt; &#xA;&lt;p&gt;这是楼红卫《数学分析》的答案.&lt;/p&gt; &#xA;&lt;p&gt;使用的主要字体是&lt;a href=&#34;https://github.com/lxgw/LxgwWenKai&#34;&gt;霞鹜文楷&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>CS-MATH-113-Spring-2024/pset12</title>
+    <updated>2024-04-01T01:41:16Z</updated>
+    <id>tag:github.com,2024-04-01:/CS-MATH-113-Spring-2024/pset12</id>
+    <link href="https://github.com/CS-MATH-113-Spring-2024/pset12" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Problem Set 12: Strong induction&lt;/h1&gt; &#xA;&lt;h1&gt;CS/MATH 113 Discrete Mathematics, Spring 2024&lt;/h1&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Each Problem Set (PSet) contains problems on recently covered material for you to practice. These prepare you for upcoming assessments and later topics.&lt;/p&gt; &#xA;&lt;h1&gt;Purpose&lt;/h1&gt; &#xA;&lt;p&gt;This PSet provides practice in proof by strong induction.&lt;/p&gt; &#xA;&lt;h1&gt;Background and requirement&lt;/h1&gt; &#xA;&lt;p&gt;To attempt and submit this PSet you will need&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;to recall and apply the method of proof by strong induction&lt;/li&gt; &#xA; &lt;li&gt;familiarity with basic mathematical concepts: inequality, factorial.&lt;/li&gt; &#xA; &lt;li&gt;familiarity with standard sets and set operations: product.&lt;/li&gt; &#xA; &lt;li&gt;to make logical arguments as required for a proof&lt;/li&gt; &#xA; &lt;li&gt;comfort with GitHub and LaTeX&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Grading&lt;/h1&gt; &#xA;&lt;p&gt;Grading is described on Canvas.&lt;/p&gt; &#xA;&lt;h1&gt;Task&lt;/h1&gt; &#xA;&lt;p&gt;The task for this PSet is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file.&lt;/p&gt; &#xA;&lt;h1&gt;Deadline and discussion&lt;/h1&gt; &#xA;&lt;p&gt;The deadline is mentioned on Canvas.&lt;/p&gt; &#xA;&lt;p&gt;For discussion on the PSet, please use the related Canvas discussion thread.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;viel Spass!&lt;/p&gt;</summary>
   </entry>
 </feed>

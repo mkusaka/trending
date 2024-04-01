@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-31T01:34:55Z</updated>
+  <updated>2024-04-01T01:35:42Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jgebbie/gebbie-utils</title>
-    <updated>2024-03-31T01:34:55Z</updated>
-    <id>tag:github.com,2024-03-31:/jgebbie/gebbie-utils</id>
-    <link href="https://github.com/jgebbie/gebbie-utils" rel="alternate"></link>
+    <title>rhk12/flagshyp</title>
+    <updated>2024-04-01T01:35:42Z</updated>
+    <id>tag:github.com,2024-04-01:/rhk12/flagshyp</id>
+    <link href="https://github.com/rhk12/flagshyp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Custom implementation based on Bonet and Wood&#39;s Nonlinear FEM book http://www.flagshyp.com&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>avnishks/gps_ins_integration</title>
+    <updated>2024-04-01T01:35:42Z</updated>
+    <id>tag:github.com,2024-04-01:/avnishks/gps_ins_integration</id>
+    <link href="https://github.com/avnishks/gps_ins_integration" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

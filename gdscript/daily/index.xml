@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-03-31T01:30:55Z</updated>
+  <updated>2024-04-01T01:32:13Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LingLing40Hours/2048isyou</title>
-    <updated>2024-03-31T01:30:55Z</updated>
-    <id>tag:github.com,2024-03-31:/LingLing40Hours/2048isyou</id>
-    <link href="https://github.com/LingLing40Hours/2048isyou" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a practice game&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>missionpinball/mpf-gmc</title>
+    <updated>2024-04-01T01:32:13Z</updated>
+    <id>tag:github.com,2024-04-01:/missionpinball/mpf-gmc</id>
+    <link href="https://github.com/missionpinball/mpf-gmc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot-based Media Controller for the MPF pinball framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

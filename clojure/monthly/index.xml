@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-01T02:01:35Z</updated>
+  <subtitle>Monthly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zen-lang/zen</title>
+    <updated>2024-04-01T02:01:35Z</updated>
+    <id>tag:github.com,2024-04-01:/zen-lang/zen</id>
+    <link href="https://github.com/zen-lang/zen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for model driven systems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/vessel</title>
+    <updated>2024-04-01T02:01:35Z</updated>
+    <id>tag:github.com,2024-04-01:/nubank/vessel</id>
+    <link href="https://github.com/nubank/vessel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A containerization tool for Clojure applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elastic/puppet-crate</title>
+    <updated>2024-04-01T02:01:35Z</updated>
+    <id>tag:github.com,2024-04-01:/elastic/puppet-crate</id>
+    <link href="https://github.com/elastic/puppet-crate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bootstrap puppet manifests with pallet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

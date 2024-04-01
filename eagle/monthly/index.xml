@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Eagle Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-01T02:02:57Z</updated>
+  <subtitle>Monthly Trending of Eagle in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sparkfun/L6470-AutoDriver</title>
+    <updated>2024-04-01T02:02:57Z</updated>
+    <id>tag:github.com,2024-04-01:/sparkfun/L6470-AutoDriver</id>
+    <link href="https://github.com/sparkfun/L6470-AutoDriver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BabyDriver stepper board. SPI driven 3A 8-45V, based on L6470 part from Linear&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
