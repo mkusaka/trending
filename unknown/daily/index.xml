@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-01T01:27:17Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2024-04-02T01:25:19Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>h4x0r-dz/Leaked-Credentials</title>
-    <updated>2024-04-01T01:27:17Z</updated>
-    <id>tag:github.com,2024-04-01:/h4x0r-dz/Leaked-Credentials</id>
-    <link href="https://github.com/h4x0r-dz/Leaked-Credentials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;how to look for Leaked Credentials !&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>billmei/every-chatgpt-gui</title>
+    <updated>2024-04-02T01:25:19Z</updated>
+    <id>tag:github.com,2024-04-02:/billmei/every-chatgpt-gui</id>
+    <link href="https://github.com/billmei/every-chatgpt-gui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Every front-end GUI client for ChatGPT&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>HFUT-CHEATER/HFUTCheaterCollection</title>
-    <updated>2024-04-01T01:27:17Z</updated>
-    <id>tag:github.com,2024-04-01:/HFUT-CHEATER/HFUTCheaterCollection</id>
-    <link href="https://github.com/HFUT-CHEATER/HFUTCheaterCollection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HFUT-Cheater-Collection 合肥工业大学作弊学生名单、行政包庇人员名单——合肥工业大学作弊封神榜&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PandaBearLab/prompt-tutorial</title>
+    <updated>2024-04-02T01:25:19Z</updated>
+    <id>tag:github.com,2024-04-02:/PandaBearLab/prompt-tutorial</id>
+    <link href="https://github.com/PandaBearLab/prompt-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>knassar702/awesome-linux-minimalism</title>
-    <updated>2024-04-01T01:27:17Z</updated>
-    <id>tag:github.com,2024-04-01:/knassar702/awesome-linux-minimalism</id>
-    <link href="https://github.com/knassar702/awesome-linux-minimalism" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;awesome linux minimalism suggestions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews</title>
+    <updated>2024-04-02T01:25:19Z</updated>
+    <id>tag:github.com,2024-04-02:/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews</id>
+    <link href="https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Several Coding Patterns for Solving Data Structures and Algorithms Problems during Interviews&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

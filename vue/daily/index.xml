@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-01T01:42:13Z</updated>
+  <updated>2024-04-02T01:40:07Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>york11122/quasar-admin-vue3-typescript</title>
-    <updated>2024-04-01T01:42:13Z</updated>
-    <id>tag:github.com,2024-04-01:/york11122/quasar-admin-vue3-typescript</id>
-    <link href="https://github.com/york11122/quasar-admin-vue3-typescript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Quasar Admin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eslint/config-inspector</title>
-    <updated>2024-04-01T01:42:13Z</updated>
-    <id>tag:github.com,2024-04-01:/eslint/config-inspector</id>
-    <link href="https://github.com/eslint/config-inspector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A visual tool for inspecting and understanding your ESLint flat configs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
