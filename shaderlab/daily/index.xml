@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-02T01:37:56Z</updated>
+  <updated>2024-04-03T01:35:34Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Stormlolwut/VampireCastleSurvivors</title>
-    <updated>2024-04-02T01:37:56Z</updated>
-    <id>tag:github.com,2024-04-02:/Stormlolwut/VampireCastleSurvivors</id>
-    <link href="https://github.com/Stormlolwut/VampireCastleSurvivors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vampire survivors x Castle vs Castle&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

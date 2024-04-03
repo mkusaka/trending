@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-02T01:40:39Z</updated>
+  <updated>2024-04-03T01:38:30Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>secureblue/secureblue</title>
-    <updated>2024-04-02T01:40:39Z</updated>
-    <id>tag:github.com,2024-04-02:/secureblue/secureblue</id>
-    <link href="https://github.com/secureblue/secureblue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fedora Atomic images for GNOME, KDE Plasma, Bluefin, Sway, Cinnamon, Wayfire, River, and Hyprland with some hardening applied&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

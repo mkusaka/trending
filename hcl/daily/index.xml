@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-02T01:31:09Z</updated>
+  <updated>2024-04-03T01:28:30Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AmanPathak-DevOps/End-to-End-Azure-DevSecOps-Project</title>
-    <updated>2024-04-02T01:31:09Z</updated>
-    <id>tag:github.com,2024-04-02:/AmanPathak-DevOps/End-to-End-Azure-DevSecOps-Project</id>
-    <link href="https://github.com/AmanPathak-DevOps/End-to-End-Azure-DevSecOps-Project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rancherfederal/rke2-ansible</title>
-    <updated>2024-04-02T01:31:09Z</updated>
-    <id>tag:github.com,2024-04-02:/rancherfederal/rke2-ansible</id>
-    <link href="https://github.com/rancherfederal/rke2-ansible" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RKE2 cluster provisioning via Ansible.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

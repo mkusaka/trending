@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-02T01:37:53Z</updated>
+  <updated>2024-04-03T01:35:31Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pianfan/pianfan.github.io</title>
-    <updated>2024-04-02T01:37:53Z</updated>
-    <id>tag:github.com,2024-04-02:/pianfan/pianfan.github.io</id>
-    <link href="https://github.com/pianfan/pianfan.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pianfan&#39;s Personal Blog via GitHub&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>asorn/asorn-open</title>
-    <updated>2024-04-02T01:37:53Z</updated>
-    <id>tag:github.com,2024-04-02:/asorn/asorn-open</id>
-    <link href="https://github.com/asorn/asorn-open" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;个人博客开源版&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>andresjosehr/andresjosehr-portfolio</title>
+    <updated>2024-04-03T01:35:31Z</updated>
+    <id>tag:github.com,2024-04-03:/andresjosehr/andresjosehr-portfolio</id>
+    <link href="https://github.com/andresjosehr/andresjosehr-portfolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I have developed this theme as a personal proyect. I have taked the inspiration (and basically all the design) from the wonderful work of Britanny Chiang.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
