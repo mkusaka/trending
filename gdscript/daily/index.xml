@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-03T01:27:17Z</updated>
+  <updated>2024-04-04T01:30:00Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>thegatesbrowser/godot-multiplayer</title>
-    <updated>2024-04-03T01:27:17Z</updated>
-    <id>tag:github.com,2024-04-03:/thegatesbrowser/godot-multiplayer</id>
-    <link href="https://github.com/thegatesbrowser/godot-multiplayer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot 4 multiplayer template with voip&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Maaack/Godot-Game-Template</title>
+    <updated>2024-04-04T01:30:00Z</updated>
+    <id>tag:github.com,2024-04-04:/Maaack/Godot-Game-Template</id>
+    <link href="https://github.com/Maaack/Godot-Game-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template for new Godot games. Handles main menu, options menu, credits, and config files.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

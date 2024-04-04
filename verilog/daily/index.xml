@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-03T01:37:44Z</updated>
+  <updated>2024-04-04T01:44:28Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>navaneethans/VLSI-LAB-EXP-2</title>
-    <updated>2024-04-03T01:37:44Z</updated>
-    <id>tag:github.com,2024-04-03:/navaneethans/VLSI-LAB-EXP-2</id>
-    <link href="https://github.com/navaneethans/VLSI-LAB-EXP-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RESMIRNAIR/SR_FLIPFLOP</title>
-    <updated>2024-04-03T01:37:44Z</updated>
-    <id>tag:github.com,2024-04-03:/RESMIRNAIR/SR_FLIPFLOP</id>
-    <link href="https://github.com/RESMIRNAIR/SR_FLIPFLOP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RESMIRNAIR/JK_FLIPFLOP</title>
-    <updated>2024-04-03T01:37:44Z</updated>
-    <id>tag:github.com,2024-04-03:/RESMIRNAIR/JK_FLIPFLOP</id>
-    <link href="https://github.com/RESMIRNAIR/JK_FLIPFLOP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chaimleib/UARTecho</title>
+    <updated>2024-04-04T01:44:28Z</updated>
+    <id>tag:github.com,2024-04-04:/chaimleib/UARTecho</id>
+    <link href="https://github.com/chaimleib/UARTecho" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;basic UART that retransmits its input&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

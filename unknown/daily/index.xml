@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-03T01:22:43Z</updated>
+  <updated>2024-04-04T01:24:17Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xiaoxinxing66/Sivan_Cache</title>
-    <updated>2024-04-03T01:22:43Z</updated>
-    <id>tag:github.com,2024-04-03:/xiaoxinxing66/Sivan_Cache</id>
-    <link href="https://github.com/xiaoxinxing66/Sivan_Cache" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 推出 SivanCacheFramework！一款轻量级、高效的 缓存框架，让 缓存操作 变得不再复杂，提升数据处理速度，为开发者节约宝贵时间。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bbolker/gLLMglnlmvlvMMM</title>
+    <updated>2024-04-04T01:24:17Z</updated>
+    <id>tag:github.com,2024-04-04:/bbolker/gLLMglnlmvlvMMM</id>
+    <link href="https://github.com/bbolker/gLLMglnlmvlvMMM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a generative Large Language Model for generalized linear and nonlinear multivariate latent-variable multilevel/mixed modelling&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SwiftGGTeam/letsvisionos24-files</title>
-    <updated>2024-04-03T01:22:43Z</updated>
-    <id>tag:github.com,2024-04-03:/SwiftGGTeam/letsvisionos24-files</id>
-    <link href="https://github.com/SwiftGGTeam/letsvisionos24-files" rel="alternate"></link>
+    <title>coinbase/solidity-style-guide</title>
+    <updated>2024-04-04T01:24:17Z</updated>
+    <id>tag:github.com,2024-04-04:/coinbase/solidity-style-guide</id>
+    <link href="https://github.com/coinbase/solidity-style-guide" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sbwml/TrollStore_zh_Hans</title>
-    <updated>2024-04-03T01:22:43Z</updated>
-    <id>tag:github.com,2024-04-03:/sbwml/TrollStore_zh_Hans</id>
-    <link href="https://github.com/sbwml/TrollStore_zh_Hans" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TrollStore 简体/繁体中文&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nera-nikolayeva/r-six-s</title>
+    <updated>2024-04-04T01:24:17Z</updated>
+    <id>tag:github.com,2024-04-04:/nera-nikolayeva/r-six-s</id>
+    <link href="https://github.com/nera-nikolayeva/r-six-s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PASS - 1234&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

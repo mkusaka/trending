@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-03T01:37:58Z</updated>
+  <updated>2024-04-04T01:44:46Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yetanotherco/aligned_layer_tendermint</title>
-    <updated>2024-04-03T01:37:58Z</updated>
-    <id>tag:github.com,2024-04-03:/yetanotherco/aligned_layer_tendermint</id>
-    <link href="https://github.com/yetanotherco/aligned_layer_tendermint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A zkSNARK verifier blockchain for our internal bootcamp&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zyronon/douyin</title>
-    <updated>2024-04-03T01:37:58Z</updated>
-    <id>tag:github.com,2024-04-03:/zyronon/douyin</id>
-    <link href="https://github.com/zyronon/douyin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TikTok 抖音 Vue.js&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chansee97/nova-admin</title>
+    <updated>2024-04-04T01:44:46Z</updated>
+    <id>tag:github.com,2024-04-04:/chansee97/nova-admin</id>
+    <link href="https://github.com/chansee97/nova-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple and flexible admin template based on Vue3, Vite, TypeScript, NaiveUI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

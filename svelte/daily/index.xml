@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-03T01:36:29Z</updated>
+  <updated>2024-04-04T01:42:48Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SevenSeas-team/SevenSeas</title>
-    <updated>2024-04-03T01:36:29Z</updated>
-    <id>tag:github.com,2024-04-03:/SevenSeas-team/SevenSeas</id>
-    <link href="https://github.com/SevenSeas-team/SevenSeas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dive into SevenSeas, where a vast selection of games meets community-driven enhancements. Experience seamless, secure gaming, tailored for pc gaming&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>QuarticCat/detypify</title>
+    <updated>2024-04-04T01:42:48Z</updated>
+    <id>tag:github.com,2024-04-04:/QuarticCat/detypify</id>
+    <link href="https://github.com/QuarticCat/detypify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Typst symbol classifier&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>amalshaji/portr</title>
-    <updated>2024-04-03T01:36:29Z</updated>
-    <id>tag:github.com,2024-04-03:/amalshaji/portr</id>
-    <link href="https://github.com/amalshaji/portr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source ngrok alternative designed for teams&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>intel/GenAIExamples</title>
+    <updated>2024-04-04T01:42:48Z</updated>
+    <id>tag:github.com,2024-04-04:/intel/GenAIExamples</id>
+    <link href="https://github.com/intel/GenAIExamples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Intel Generative AI Examples (e.g., ChatQnA with RAG) on Xeon and Gaudi2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>joysofcode/flip-animation-library</title>
-    <updated>2024-04-03T01:36:29Z</updated>
-    <id>tag:github.com,2024-04-03:/joysofcode/flip-animation-library</id>
-    <link href="https://github.com/joysofcode/flip-animation-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🪄 Simple FLIP animation library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WardPearce/Materialious</title>
+    <updated>2024-04-04T01:42:48Z</updated>
+    <id>tag:github.com,2024-04-04:/WardPearce/Materialious</id>
+    <link href="https://github.com/WardPearce/Materialious" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern material design for Invidious.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

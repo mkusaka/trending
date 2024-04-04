@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-03T01:36:57Z</updated>
+  <updated>2024-04-04T01:43:29Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OCEANOFANYTHINGOFFICIAL/Adobe-Photoshop-7.0-With-Serial-key</title>
-    <updated>2024-04-03T01:36:57Z</updated>
-    <id>tag:github.com,2024-04-03:/OCEANOFANYTHINGOFFICIAL/Adobe-Photoshop-7.0-With-Serial-key</id>
-    <link href="https://github.com/OCEANOFANYTHINGOFFICIAL/Adobe-Photoshop-7.0-With-Serial-key" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Adobe Photoshop 7.0 With Serial key&lt;/h1&gt;</summary>
+    <title>aeyakovenko/bunker_coin</title>
+    <updated>2024-04-04T01:43:29Z</updated>
+    <id>tag:github.com,2024-04-04:/aeyakovenko/bunker_coin</id>
+    <link href="https://github.com/aeyakovenko/bunker_coin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;bunker coin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>patrickherrmann/resume</title>
+    <updated>2024-04-04T01:43:29Z</updated>
+    <id>tag:github.com,2024-04-04:/patrickherrmann/resume</id>
+    <link href="https://github.com/patrickherrmann/resume" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A general purpose resume in LaTeX&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

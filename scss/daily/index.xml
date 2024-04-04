@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-03T01:35:31Z</updated>
+  <updated>2024-04-04T01:41:33Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>andresjosehr/andresjosehr-portfolio</title>
-    <updated>2024-04-03T01:35:31Z</updated>
-    <id>tag:github.com,2024-04-03:/andresjosehr/andresjosehr-portfolio</id>
-    <link href="https://github.com/andresjosehr/andresjosehr-portfolio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I have developed this theme as a personal proyect. I have taked the inspiration (and basically all the design) from the wonderful work of Britanny Chiang.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TiuTalk/tiutalk.github.io</title>
+    <updated>2024-04-04T01:41:33Z</updated>
+    <id>tag:github.com,2024-04-04:/TiuTalk/tiutalk.github.io</id>
+    <link href="https://github.com/TiuTalk/tiutalk.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

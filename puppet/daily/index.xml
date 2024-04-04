@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-03T01:33:48Z</updated>
+  <updated>2024-04-04T01:39:07Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eeaston/puppet-eclipse</title>
+    <updated>2024-04-04T01:39:07Z</updated>
+    <id>tag:github.com,2024-04-04:/eeaston/puppet-eclipse</id>
+    <link href="https://github.com/eeaston/puppet-eclipse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Eclipse plugin for Puppet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bodepd/vagrant-coe</title>
+    <updated>2024-04-04T01:39:07Z</updated>
+    <id>tag:github.com,2024-04-04:/bodepd/vagrant-coe</id>
+    <link href="https://github.com/bodepd/vagrant-coe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vagrant tooling for testing COE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

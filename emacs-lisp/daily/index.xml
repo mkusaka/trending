@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-03T01:26:38Z</updated>
+  <updated>2024-04-04T01:29:08Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gamesun/Emacs-Options</title>
-    <updated>2024-04-03T01:26:38Z</updated>
-    <id>tag:github.com,2024-04-03:/gamesun/Emacs-Options</id>
-    <link href="https://github.com/gamesun/Emacs-Options" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My &#34;.emacs&#34; file&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Emacs-Options&lt;/h1&gt; &#xA;&lt;p&gt;My &#34;.emacs&#34; file&lt;/p&gt;</summary>
-  </entry>
 </feed>

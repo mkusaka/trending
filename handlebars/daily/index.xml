@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-03T01:28:15Z</updated>
+  <updated>2024-04-04T01:31:24Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>loong-ai/beat-ai</title>
-    <updated>2024-04-03T01:28:15Z</updated>
-    <id>tag:github.com,2024-04-03:/loong-ai/beat-ai</id>
-    <link href="https://github.com/loong-ai/beat-ai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;专属于软件开发工程师的 AI 入门圣经。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rk0775/Online-food-ordering-system</title>
-    <updated>2024-04-03T01:28:15Z</updated>
-    <id>tag:github.com,2024-04-03:/rk0775/Online-food-ordering-system</id>
-    <link href="https://github.com/rk0775/Online-food-ordering-system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is simple online food ordering website . Technologys : nodeJs, express , HTML , CSS , Bootstrap , JavaScript, mongodb&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>smaranjitghose/ParulUniversityMEAN</title>
-    <updated>2024-04-03T01:28:15Z</updated>
-    <id>tag:github.com,2024-04-03:/smaranjitghose/ParulUniversityMEAN</id>
-    <link href="https://github.com/smaranjitghose/ParulUniversityMEAN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Full-Stack Web Development with the MEAN Stack course taught by Mr. Smaranjit Ghose at Parul University for Fall 2023&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
