@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-04T01:26:06Z</updated>
+  <updated>2024-04-05T01:24:25Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MaxWasUnavailable/Virality</title>
+    <updated>2024-04-05T01:24:25Z</updated>
+    <id>tag:github.com,2024-04-05:/MaxWasUnavailable/Virality</id>
+    <link href="https://github.com/MaxWasUnavailable/Virality" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A bigger lobby mod for Content Warning.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Virality&lt;/h1&gt; &#xA;&lt;p&gt;&lt;em&gt;A better multiplayer mod for Content Warning&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/MaxWasUnavailable/Virality/actions/workflows/build.yml&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/actions/workflow/status/MaxWasUnavailable/Virality/build.yml?style=for-the-badge&amp;amp;logo=github&amp;amp;branch=master&#34; alt=&#34;Build&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality&#34;&gt;&lt;img src=&#34;https://img.shields.io/thunderstore/v/MaxWasUnavailable/Virality?style=for-the-badge&amp;amp;logo=thunderstore&amp;amp;logoColor=white&#34; alt=&#34;Latest Version&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://thunderstore.io/c/content-warning/p/MaxWasUnavailable/Virality&#34;&gt;&lt;img src=&#34;https://img.shields.io/thunderstore/dt/MaxWasUnavailable/Virality?style=for-the-badge&amp;amp;logo=thunderstore&amp;amp;logoColor=white&#34; alt=&#34;Thunderstore Downloads&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Bigger lobby sizes (configurable limit)&lt;/li&gt; &#xA; &lt;li&gt;Late joining (configurable on/off)&lt;/li&gt; &#xA; &lt;li&gt;Right click Steam join (configurable on/off)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Notes&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Required by all players to work properly!&lt;/li&gt; &#xA; &lt;li&gt;Supports all vanilla player features (i.e. showing up in video comments, hospital bills, etc...)&lt;/li&gt; &#xA; &lt;li&gt;Only 4 players need to sleep to progress the day&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;BepInEx LTS (5.4.22)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Day -- Bed patches, support, testing&lt;/li&gt; &#xA; &lt;li&gt;sovenance -- Mod name idea&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

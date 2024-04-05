@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-04T01:35:39Z</updated>
+  <updated>2024-04-05T01:31:17Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jona-sassenhagen/charvis-analysis</title>
-    <updated>2024-04-04T01:35:39Z</updated>
-    <id>tag:github.com,2024-04-04:/jona-sassenhagen/charvis-analysis</id>
-    <link href="https://github.com/jona-sassenhagen/charvis-analysis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public Charvis analysis scripts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>herohuyongtao/Adaboost-FaceDetection</title>
-    <updated>2024-04-04T01:35:39Z</updated>
-    <id>tag:github.com,2024-04-04:/herohuyongtao/Adaboost-FaceDetection</id>
-    <link href="https://github.com/herohuyongtao/Adaboost-FaceDetection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project for Computer Vision at UNO - Adaboost Facial Detection&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

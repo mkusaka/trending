@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-04T01:39:47Z</updated>
+  <updated>2024-04-05T01:34:28Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jumpingrivers/meetingsR</title>
+    <updated>2024-04-05T01:34:28Z</updated>
+    <id>tag:github.com,2024-04-05:/jumpingrivers/meetingsR</id>
+    <link href="https://github.com/jumpingrivers/meetingsR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of R conferences and user groups&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;R meetings and conferences&lt;/h1&gt; &#xA;&lt;p&gt;This site attempts to list R conferences and local useR groups.&lt;/p&gt; &#xA;&lt;p&gt;For instance:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jumpingrivers/meetingsR/raw/main/02_useR_groups_asia.Rmd&#34;&gt;Asia&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jumpingrivers/meetingsR/raw/main/02_useR_groups_middle_east_africa.Rmd&#34;&gt;Middle East/Africa&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jumpingrivers/meetingsR/raw/main/02_useR_groups_north_america.Rmd&#34;&gt;North America&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jumpingrivers/meetingsR/raw/main/02_useR_groups_south_america.Rmd&#34;&gt;South America&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jumpingrivers/meetingsR/raw/main/02_useR_groups_europe.Rmd&#34;&gt;Europe&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jumpingrivers/meetingsR/raw/main/02_useR_groups_oceania.Rmd&#34;&gt;Oceania&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Also consider:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jumpingrivers/meetingsR/raw/main/03-Rladies.Rmd&#34;&gt;Rladies&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jumpingrivers/meetingsR/raw/main/01-events.Rmd&#34;&gt;Events&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jumpingrivers/meetingsR/raw/main/04-virtual.Rmd&#34;&gt;Virtual Events&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Please feel free to add any missing group or conference.&lt;/p&gt; &#xA;&lt;p&gt;To propose a change, just click the pencil icon in the top left hand corner of the &lt;a href=&#34;https://jumpingrivers.github.io/meetingsR/&#34;&gt;web&lt;/a&gt; version.&lt;/p&gt; &#xA;&lt;p&gt;Keep up to date with &lt;a href=&#34;https://twitter.com/rstats_meetings&#34;&gt;@rstats_meetings&lt;/a&gt;&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;This page is maintained by &lt;a href=&#34;https://twitter.com/jumping_uk&#34;&gt;@jumping_uk&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>pmaddi/Salary_Prediction</title>
+    <updated>2024-04-05T01:34:28Z</updated>
+    <id>tag:github.com,2024-04-05:/pmaddi/Salary_Prediction</id>
+    <link href="https://github.com/pmaddi/Salary_Prediction" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Using job descriptions from UK, we predict the salaries for the job using text and data mining techniques&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Salary_Prediction&lt;/h1&gt; &#xA;&lt;p&gt;Patrick Chase&lt;/p&gt; &#xA;&lt;p&gt;Pranav Maddi&lt;/p&gt; &#xA;&lt;p&gt;STAT 365&lt;/p&gt; &#xA;&lt;p&gt;04-2013&lt;/p&gt; &#xA;&lt;p&gt;Using job descriptions from UK, we predict the salaries for the job using text and data mining techniques&lt;/p&gt;</summary>
+  </entry>
 </feed>

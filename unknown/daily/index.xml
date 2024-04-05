@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-04T01:24:17Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2024-04-05T01:22:59Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bbolker/gLLMglnlmvlvMMM</title>
-    <updated>2024-04-04T01:24:17Z</updated>
-    <id>tag:github.com,2024-04-04:/bbolker/gLLMglnlmvlvMMM</id>
-    <link href="https://github.com/bbolker/gLLMglnlmvlvMMM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a generative Large Language Model for generalized linear and nonlinear multivariate latent-variable multilevel/mixed modelling&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HuanCheng65/TiebaLite</title>
+    <updated>2024-04-05T01:22:59Z</updated>
+    <id>tag:github.com,2024-04-05:/HuanCheng65/TiebaLite</id>
+    <link href="https://github.com/HuanCheng65/TiebaLite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;贴吧 Lite&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>coinbase/solidity-style-guide</title>
-    <updated>2024-04-04T01:24:17Z</updated>
-    <id>tag:github.com,2024-04-04:/coinbase/solidity-style-guide</id>
-    <link href="https://github.com/coinbase/solidity-style-guide" rel="alternate"></link>
+    <title>sdg-1/data-team-handbook</title>
+    <updated>2024-04-05T01:22:59Z</updated>
+    <id>tag:github.com,2024-04-05:/sdg-1/data-team-handbook</id>
+    <link href="https://github.com/sdg-1/data-team-handbook" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nera-nikolayeva/r-six-s</title>
-    <updated>2024-04-04T01:24:17Z</updated>
-    <id>tag:github.com,2024-04-04:/nera-nikolayeva/r-six-s</id>
-    <link href="https://github.com/nera-nikolayeva/r-six-s" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PASS - 1234&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

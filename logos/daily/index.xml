@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-04T01:35:07Z</updated>
+  <updated>2024-04-05T01:30:48Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>level3tjg/TwitchAdBlock</title>
-    <updated>2024-04-04T01:35:07Z</updated>
-    <id>tag:github.com,2024-04-04:/level3tjg/TwitchAdBlock</id>
-    <link href="https://github.com/level3tjg/TwitchAdBlock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ad blocker for Twitch iOS app&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CS583/FinalProject</title>
-    <updated>2024-04-04T01:35:07Z</updated>
-    <id>tag:github.com,2024-04-04:/CS583/FinalProject</id>
-    <link href="https://github.com/CS583/FinalProject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-04T01:29:08Z</updated>
+  <updated>2024-04-05T01:26:49Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>marchdown/.emacs.d</title>
+    <updated>2024-04-05T01:26:49Z</updated>
+    <id>tag:github.com,2024-04-05:/marchdown/.emacs.d</id>
+    <link href="https://github.com/marchdown/.emacs.d" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jgpaiva/dotfiles</title>
+    <updated>2024-04-05T01:26:49Z</updated>
+    <id>tag:github.com,2024-04-05:/jgpaiva/dotfiles</id>
+    <link href="https://github.com/jgpaiva/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My config files&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;My Dot Files&lt;/h1&gt; &#xA;&lt;p&gt;My config files&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-04T01:41:18Z</updated>
+  <updated>2024-04-05T01:35:35Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>scala-php/scala-php</title>
-    <updated>2024-04-04T01:41:18Z</updated>
-    <id>tag:github.com,2024-04-04:/scala-php/scala-php</id>
-    <link href="https://github.com/scala-php/scala-php" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(April Fools joke) Your favorite language... transpiled from Scala!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;scala-php&lt;/h1&gt; &#xA;&lt;p&gt;Source code for the Scala.php compiler.&lt;/p&gt; &#xA;&lt;p&gt;This was an April Fools&#39; joke for 2024.&lt;/p&gt; &#xA;&lt;p&gt;Find out more on &lt;a href=&#34;https://scala-php.org&#34;&gt;the website&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

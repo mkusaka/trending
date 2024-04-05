@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-04T01:31:30Z</updated>
+  <updated>2024-04-05T01:28:28Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AccelerateHS/accelerate-fft</title>
-    <updated>2024-04-04T01:31:30Z</updated>
-    <id>tag:github.com,2024-04-04:/AccelerateHS/accelerate-fft</id>
-    <link href="https://github.com/AccelerateHS/accelerate-fft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FFT library for Haskell based on the embedded array language Accelerate&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;img width=&#34;450&#34; src=&#34;https://github.com/AccelerateHS/accelerate/raw/master/images/accelerate-logo-text-v.png?raw=true&#34; alt=&#34;henlo, my name is Theia&#34;&gt; &#xA; &lt;h1&gt;FFT components for the Accelerate language&lt;/h1&gt; &#xA; &lt;p&gt;&lt;a href=&#34;https://github.com/tmcdonell/accelerate-fft/actions&#34;&gt;&lt;img src=&#34;https://github.com/tmcdonell/accelerate-fft/workflows/CI/badge.svg?sanitize=true&#34; alt=&#34;GitHub CI&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://gitter.im/AccelerateHS/Lobby&#34;&gt;&lt;img src=&#34;https://img.shields.io/gitter/room/nwjs/nw.js.svg?sanitize=true&#34; alt=&#34;Gitter&#34;&gt;&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://stackage.org/lts/package/accelerate-fft&#34;&gt;&lt;img src=&#34;https://stackage.org/package/accelerate-fft/badge/lts&#34; alt=&#34;Stackage LTS&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://stackage.org/nightly/package/accelerate-fft&#34;&gt;&lt;img src=&#34;https://stackage.org/package/accelerate-fft/badge/nightly&#34; alt=&#34;Stackage Nightly&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://hackage.haskell.org/package/accelerate-fft&#34;&gt;&lt;img src=&#34;https://img.shields.io/hackage/v/accelerate-fft.svg?sanitize=true&#34; alt=&#34;Hackage&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/div&gt; &#xA;&lt;p&gt;FFT library for the embedded array language Accelerate. For details on Accelerate, refer to the &lt;a href=&#34;https://github.com/AccelerateHS/accelerate&#34;&gt;main repository&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The following build flags control whether optimised implementations are used. Note that enabling these (which is the default) will require the corresponding Accelerate backend as a dependency:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;llvm-ptx&lt;/code&gt;: For NVIDIA GPUs&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;llvm-cpu&lt;/code&gt;: For multicore CPUs&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Contributions and bug reports are welcome!&lt;br&gt; Please feel free to contact me through GitHub or &lt;a href=&#34;https://gitter.im/AccelerateHS/Lobby&#34;&gt;gitter.im&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>mauke/data-default</title>
-    <updated>2024-04-04T01:31:30Z</updated>
-    <id>tag:github.com,2024-04-04:/mauke/data-default</id>
-    <link href="https://github.com/mauke/data-default" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A class for types with a default value&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-04T01:31:27Z</updated>
+  <updated>2024-04-05T01:28:28Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MAJigsaw77/extension-androidtools</title>
+    <updated>2024-04-05T01:28:28Z</updated>
+    <id>tag:github.com,2024-04-05:/MAJigsaw77/extension-androidtools</id>
+    <link href="https://github.com/MAJigsaw77/extension-androidtools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Haxe/Lime extension that add&#39;s some functions from Java to Haxe using JNI.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;extension-androidtools&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/github/repo-size/MAJigsaw77/extension-androidtools&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;https://badgen.net/github/open-issues/MAJigsaw77/extension-androidtools&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;https://badgen.net/badge/license/MIT/green&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;A Haxe/&lt;a href=&#34;https://lime.openfl.org&#34;&gt;Lime&lt;/a&gt; extension that add&#39;s some functions from Java to Haxe using &lt;a href=&#34;https://en.m.wikipedia.org/wiki/Java_Native_Interface&#34;&gt;JNI&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;Installation&lt;/h3&gt; &#xA;&lt;p&gt;You can install it through &lt;code&gt;Haxelib&lt;/code&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;haxelib install extension-androidtools&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Or through &lt;code&gt;Git&lt;/code&gt;, if you want the latest updates&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;haxelib git extension-androidtools https://github.com/MAJigsaw77/extension-androidtools.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Usage&lt;/h3&gt; &#xA;&lt;p&gt;Read code to find cool things, I can&#39;t write all of them here &lt;img alt=&#34;trollface&#34; src=&#34;https://github.githubassets.com/images/icons/emoji/trollface.png?v8&#34;&gt;).&lt;/p&gt;</summary>
+  </entry>
 </feed>

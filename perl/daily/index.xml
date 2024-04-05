@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-04T01:37:54Z</updated>
+  <updated>2024-04-05T01:33:12Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pbtifo/opennms_plugin</title>
-    <updated>2024-04-04T01:37:54Z</updated>
-    <id>tag:github.com,2024-04-04:/pbtifo/opennms_plugin</id>
-    <link href="https://github.com/pbtifo/opennms_plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenNMS plugin pour le wiki de Réseau Libre&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Installation du plugin OpenNMS&lt;/p&gt; &#xA;&lt;p&gt;1- Copier le contenu du dossier plugin dans le dossier spécifié par le paramètre libdir dans ikiwiki.setup. Exemple: cp -r plugin/* /home/r-wiki/.ikiwiki 2- Ajouter les information de configurations relatives au plugin dans ikiwiki.setup: ikiwiki --changesetup ikiwiki.setup --plugin opennms_mon 3- Spécifier les adresses et les authentifications des serveurs OpenNMS actifs (dans la section opennms_mon du nouveau ikiwiki.setup) 4- Recompiler le wiki ikiwiki --setup ikiwiki.setup&lt;/p&gt;</summary>
-  </entry>
 </feed>

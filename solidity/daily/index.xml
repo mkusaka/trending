@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-04T01:42:17Z</updated>
+  <updated>2024-04-05T01:36:25Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DSC-IIITL/Contract-Combat</title>
-    <updated>2024-04-04T01:42:17Z</updated>
-    <id>tag:github.com,2024-04-04:/DSC-IIITL/Contract-Combat</id>
-    <link href="https://github.com/DSC-IIITL/Contract-Combat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MetaTrustLabs/falcon-metatrust</title>
+    <updated>2024-04-05T01:36:25Z</updated>
+    <id>tag:github.com,2024-04-05:/MetaTrustLabs/falcon-metatrust</id>
+    <link href="https://github.com/MetaTrustLabs/falcon-metatrust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Metatrust fork of Slither Analyzer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>etherfi-protocol/smart-contracts</title>
+    <updated>2024-04-05T01:36:25Z</updated>
+    <id>tag:github.com,2024-04-05:/etherfi-protocol/smart-contracts</id>
+    <link href="https://github.com/etherfi-protocol/smart-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ether.fi&#39;s smart contracts repo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Maddiaa0/honk-verifier</title>
+    <updated>2024-04-05T01:36:25Z</updated>
+    <id>tag:github.com,2024-04-05:/Maddiaa0/honk-verifier</id>
+    <link href="https://github.com/Maddiaa0/honk-verifier" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Honk Verifier in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
