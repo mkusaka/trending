@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-05T01:27:28Z</updated>
+  <updated>2024-04-06T01:28:18Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ItsKorin/Godot-Post-Process-Plugin</title>
-    <updated>2024-04-05T01:27:28Z</updated>
-    <id>tag:github.com,2024-04-05:/ItsKorin/Godot-Post-Process-Plugin</id>
-    <link href="https://github.com/ItsKorin/Godot-Post-Process-Plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple godot 4.2 plugin that adds shader based &#34;post processing&#34;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

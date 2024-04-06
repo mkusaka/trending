@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-05T01:38:06Z</updated>
+  <updated>2024-04-06T01:41:21Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>antonreshetov/timefall</title>
-    <updated>2024-04-05T01:38:06Z</updated>
-    <id>tag:github.com,2024-04-05:/antonreshetov/timefall</id>
-    <link href="https://github.com/antonreshetov/timefall" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tracks and Records Your Work Time Accurately&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ExpTechTW/TREM-tauri</title>
+    <updated>2024-04-06T01:41:21Z</updated>
+    <id>tag:github.com,2024-04-06:/ExpTechTW/TREM-tauri</id>
+    <link href="https://github.com/ExpTechTW/TREM-tauri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Taiwan Real-time Earthquake Monitoring（臺灣即時地震監測）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fjykTec/ModernWMS</title>
-    <updated>2024-04-05T01:38:06Z</updated>
-    <id>tag:github.com,2024-04-05:/fjykTec/ModernWMS</id>
-    <link href="https://github.com/fjykTec/ModernWMS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The open source simple and complete warehouse management system is derived from our many years of experience in implementing erp projects. We stripped the original commercial system wms function and opened it up for free, hoping to help the majority of small and medium-sized enterprises. At present, the system supports cross-platform。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stephenjason89/NuxtVGP</title>
+    <updated>2024-04-06T01:41:21Z</updated>
+    <id>tag:github.com,2024-04-06:/stephenjason89/NuxtVGP</id>
+    <link href="https://github.com/stephenjason89/NuxtVGP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nuxt 3 / Vuetify / Graphql / Pinia Starter Template&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>OnZeng/chatgpt-allai-client</title>
-    <updated>2024-04-05T01:38:06Z</updated>
-    <id>tag:github.com,2024-04-05:/OnZeng/chatgpt-allai-client</id>
-    <link href="https://github.com/OnZeng/chatgpt-allai-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;简约版chatgpt 使用 SSR 渲染，项目上线后可在各大搜索引擎搜索到，欢迎 star 后续会接入世界上所有 ai 接口，国内支付宝和微信支付，国外 PayPal，采用 JavaScript 编写全栈项目 此项目没有过度封装，小白都能看懂，主打简洁，可不断完善！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tranxuanthang/lrcget</title>
+    <updated>2024-04-06T01:41:21Z</updated>
+    <id>tag:github.com,2024-04-06:/tranxuanthang/lrcget</id>
+    <link href="https://github.com/tranxuanthang/lrcget" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utility for mass-downloading LRC synced lyrics for your offline music library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

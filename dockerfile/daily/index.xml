@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-05T01:26:08Z</updated>
+  <updated>2024-04-06T01:26:47Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zimmra/docker-noi</title>
+    <updated>2024-04-06T01:26:47Z</updated>
+    <id>tag:github.com,2024-04-06:/zimmra/docker-noi</id>
+    <link href="https://github.com/zimmra/docker-noi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KasmVNC Accessible Noi Browser&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Work-In-Progress&lt;/h1&gt; &#xA;&lt;h2&gt;Use at Your Own Risk&lt;/h2&gt; &#xA;&lt;p&gt;Can be found at &lt;a href=&#34;https://hub.docker.com/r/pzubuntu593/docker-noi&#34;&gt;https://hub.docker.com/r/pzubuntu593/docker-noi&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Based off LSIO&#39;s implementation of &lt;a href=&#34;https://github.com/linuxserver/docker-audacity&#34;&gt;KasmVNC w/ Audacity&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Docker Compose Example&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-yaml&#34;&gt;---&#xA;version: &#34;2.1&#34;&#xA;services:&#xA;  freecad:&#xA;    image: pzubuntu593/docker-noi:latest&#xA;    container_name: Noi&#xA;    privileged: true&#xA;    security_opt:&#xA;      - seccomp:unconfined #optional&#xA;    environment:&#xA;      - PUID=1000&#xA;      - PGID=1000&#xA;      - TZ=America/New_York&#xA;      - TITLE=Noi&#xA;    volumes:&#xA;      - /media/docker/configs/noi:/config&#xA;    devices:&#xA;      - /dev/dri:/dev/dri &#xA;    ports:&#xA;      - 3000:3000&#xA;    restart: unless-stopped&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Also can be used seamlessly with Kasm Workspaces due to using the kasm-vnc base image&lt;/p&gt;</summary>
+  </entry>
 </feed>

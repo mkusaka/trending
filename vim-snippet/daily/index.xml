@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Snippet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-05T01:37:53Z</updated>
+  <updated>2024-04-06T01:41:02Z</updated>
   <subtitle>Daily Trending of Vim Snippet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kzy52/dotfiles</title>
+    <updated>2024-04-06T01:41:02Z</updated>
+    <id>tag:github.com,2024-04-06:/kzy52/dotfiles</id>
+    <link href="https://github.com/kzy52/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

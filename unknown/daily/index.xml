@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-05T01:22:59Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2024-04-06T01:22:32Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HuanCheng65/TiebaLite</title>
-    <updated>2024-04-05T01:22:59Z</updated>
-    <id>tag:github.com,2024-04-05:/HuanCheng65/TiebaLite</id>
-    <link href="https://github.com/HuanCheng65/TiebaLite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;贴吧 Lite&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Leymore/ruozhiba</title>
+    <updated>2024-04-06T01:22:32Z</updated>
+    <id>tag:github.com,2024-04-06:/Leymore/ruozhiba</id>
+    <link href="https://github.com/Leymore/ruozhiba" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sdg-1/data-team-handbook</title>
-    <updated>2024-04-05T01:22:59Z</updated>
-    <id>tag:github.com,2024-04-05:/sdg-1/data-team-handbook</id>
-    <link href="https://github.com/sdg-1/data-team-handbook" rel="alternate"></link>
+    <title>DataTalksClub/llm-zoomcamp</title>
+    <updated>2024-04-06T01:22:32Z</updated>
+    <id>tag:github.com,2024-04-06:/DataTalksClub/llm-zoomcamp</id>
+    <link href="https://github.com/DataTalksClub/llm-zoomcamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LLM Zoomcamp - a free online course about building an AI bot that can answer questions about your knowledge base&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>solddead/V1.4M</title>
+    <updated>2024-04-06T01:22:32Z</updated>
+    <id>tag:github.com,2024-04-06:/solddead/V1.4M</id>
+    <link href="https://github.com/solddead/V1.4M" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

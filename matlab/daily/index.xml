@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-05T01:31:17Z</updated>
+  <updated>2024-04-06T01:32:38Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jet-pilot/stanford_ml</title>
+    <updated>2024-04-06T01:32:38Z</updated>
+    <id>tag:github.com,2024-04-06:/jet-pilot/stanford_ml</id>
+    <link href="https://github.com/jet-pilot/stanford_ml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Programming assignments for Stanford&#39;s course on Coursera - &#34;Machine Learning&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

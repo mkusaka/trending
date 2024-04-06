@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-05T01:31:14Z</updated>
+  <updated>2024-04-06T01:32:31Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Infineon/OT-Matter-BSP</title>
-    <updated>2024-04-05T01:31:14Z</updated>
-    <id>tag:github.com,2024-04-05:/Infineon/OT-Matter-BSP</id>
-    <link href="https://github.com/Infineon/OT-Matter-BSP" rel="alternate"></link>
+    <title>runs-on/runs-on</title>
+    <updated>2024-04-06T01:32:31Z</updated>
+    <id>tag:github.com,2024-04-06:/runs-on/runs-on</id>
+    <link href="https://github.com/runs-on/runs-on" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;10x cheaper GitHub Action runners. 5x faster caches. On premise.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LineageOS/android_device_mediatek_sepolicy_vndr</title>
+    <updated>2024-04-06T01:32:31Z</updated>
+    <id>tag:github.com,2024-04-06:/LineageOS/android_device_mediatek_sepolicy_vndr</id>
+    <link href="https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LineageOS/android_device_generic_common</title>
+    <updated>2024-04-06T01:32:31Z</updated>
+    <id>tag:github.com,2024-04-06:/LineageOS/android_device_generic_common</id>
+    <link href="https://github.com/LineageOS/android_device_generic_common" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

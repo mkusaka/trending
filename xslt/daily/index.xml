@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-05T01:38:36Z</updated>
+  <updated>2024-04-06T01:42:02Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bodleian/balladspec</title>
-    <updated>2024-04-05T01:38:36Z</updated>
-    <id>tag:github.com,2024-04-05:/bodleian/balladspec</id>
-    <link href="https://github.com/bodleian/balladspec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;balladspec: an RDF vocabulary for broadside ballads&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;balladspec&lt;/h1&gt; &#xA;&lt;p&gt;balladspec: an RDF vocabulary for broadside ballads&lt;/p&gt; &#xA;&lt;p&gt;This vocabulary describes printed broadside ballads. It relates the content-elements of printed ballads (such as verses, tunes, and illustrations) to responsible agents (such as authors, printers and publishers) through events (such as publication and performance). Broadside sheets in library and digital collections can be associated with copies of the same or related editions through a FRBR-like structure.&lt;/p&gt; &#xA;&lt;p&gt;An outcome of the Integrating Broadside Ballads Archives project funded by JISC, it was created at the Bodleian Libraries at the University of Oxford.&lt;/p&gt;</summary>
-  </entry>
 </feed>

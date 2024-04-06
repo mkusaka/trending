@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-05T01:23:57Z</updated>
+  <updated>2024-04-06T01:23:39Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>StingerTeam/CTFNotes</title>
-    <updated>2024-04-05T01:23:57Z</updated>
-    <id>tag:github.com,2024-04-05:/StingerTeam/CTFNotes</id>
-    <link href="https://github.com/StingerTeam/CTFNotes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>illsk1lls/ZipRipper</title>
+    <updated>2024-04-06T01:23:39Z</updated>
+    <id>tag:github.com,2024-04-06:/illsk1lls/ZipRipper</id>
+    <link href="https://github.com/illsk1lls/ZipRipper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A CMD script to crack password protected ZIP, RAR, 7z and PDF files, using JohnTheRipper&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

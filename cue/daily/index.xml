@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CUE Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-05T01:25:24Z</updated>
+  <updated>2024-04-06T01:25:48Z</updated>
   <subtitle>Daily Trending of CUE in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>linktimecloud/kubernetes-data-platform</title>
-    <updated>2024-04-05T01:25:24Z</updated>
-    <id>tag:github.com,2024-04-05:/linktimecloud/kubernetes-data-platform</id>
-    <link href="https://github.com/linktimecloud/kubernetes-data-platform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;KDP(Kubernetes Data Platform) delivers a modern, hybrid and cloud-native data platform based on Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
