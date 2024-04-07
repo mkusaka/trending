@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Eiffel Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-07T01:52:55Z</updated>
+  <subtitle>Weekly Trending of Eiffel in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wolandscat/EOMF</title>
+    <updated>2024-04-07T01:52:55Z</updated>
+    <id>tag:github.com,2024-04-07:/wolandscat/EOMF</id>
+    <link href="https://github.com/wolandscat/EOMF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Application framework for Eiffel apps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ColdFusion Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-07T01:51:02Z</updated>
+  <subtitle>Weekly Trending of ColdFusion in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jmohler1970/PHP-Language-File-in-ColdFusion</title>
+    <updated>2024-04-07T01:51:02Z</updated>
+    <id>tag:github.com,2024-04-07:/jmohler1970/PHP-Language-File-in-ColdFusion</id>
+    <link href="https://github.com/jmohler1970/PHP-Language-File-in-ColdFusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reads PHP Language files into ColdFusion&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

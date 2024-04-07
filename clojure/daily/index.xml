@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-06T01:25:16Z</updated>
+  <updated>2024-04-07T01:30:18Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>filipesilva/fdb</title>
-    <updated>2024-04-06T01:25:16Z</updated>
-    <id>tag:github.com,2024-04-06:/filipesilva/fdb</id>
-    <link href="https://github.com/filipesilva/fdb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reactive database environment for your files.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zmaril/pssst</title>
+    <updated>2024-04-07T01:30:18Z</updated>
+    <id>tag:github.com,2024-04-07:/zmaril/pssst</id>
+    <link href="https://github.com/zmaril/pssst" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Your functions have some secrets to tell you.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>codedreams/formula</title>
-    <updated>2024-04-06T01:25:16Z</updated>
-    <id>tag:github.com,2024-04-06:/codedreams/formula</id>
-    <link href="https://github.com/codedreams/formula" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Formula is a clojure library for html forms&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>haruyama/nlp-programming-ja</title>
+    <updated>2024-04-07T01:30:18Z</updated>
+    <id>tag:github.com,2024-04-07:/haruyama/nlp-programming-ja</id>
+    <link href="https://github.com/haruyama/nlp-programming-ja" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;http://www.phontron.com/teaching.php?lang=ja&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>galdolber/gwt-plugin</title>
+    <updated>2024-04-07T01:30:18Z</updated>
+    <id>tag:github.com,2024-04-07:/galdolber/gwt-plugin</id>
+    <link href="https://github.com/galdolber/gwt-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leiningen plugin for GWT apps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-06T01:38:56Z</updated>
+  <updated>2024-04-07T01:44:28Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pdebruic/amber-slime-rules</title>
-    <updated>2024-04-06T01:38:56Z</updated>
-    <id>tag:github.com,2024-04-06:/pdebruic/amber-slime-rules</id>
-    <link href="https://github.com/pdebruic/amber-slime-rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Slime refactorings for porting Smalltalk code from other dialects to Amber&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

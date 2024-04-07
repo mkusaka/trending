@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-07T01:49:20Z</updated>
+  <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/azure-sql-db-azd</title>
+    <updated>2024-04-07T01:49:20Z</updated>
+    <id>tag:github.com,2024-04-07:/Azure-Samples/azure-sql-db-azd</id>
+    <link href="https://github.com/Azure-Samples/azure-sql-db-azd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deploy an Azure SQL database using Dacpac and AZD&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

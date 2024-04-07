@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-06T01:32:38Z</updated>
+  <updated>2024-04-07T01:38:20Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jet-pilot/stanford_ml</title>
-    <updated>2024-04-06T01:32:38Z</updated>
-    <id>tag:github.com,2024-04-06:/jet-pilot/stanford_ml</id>
-    <link href="https://github.com/jet-pilot/stanford_ml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Programming assignments for Stanford&#39;s course on Coursera - &#34;Machine Learning&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jinwar/GSDF_webservice</title>
+    <updated>2024-04-07T01:38:20Z</updated>
+    <id>tag:github.com,2024-04-07:/jinwar/GSDF_webservice</id>
+    <link href="https://github.com/jinwar/GSDF_webservice" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Matlab and shell codes to maintain gsdf web service&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>matlab-deep-learning/constrained-deep-learning</title>
+    <updated>2024-04-07T01:38:20Z</updated>
+    <id>tag:github.com,2024-04-07:/matlab-deep-learning/constrained-deep-learning</id>
+    <link href="https://github.com/matlab-deep-learning/constrained-deep-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Constrained deep learning is an advanced approach to training deep neural networks by incorporating domain-specific constraints into the learning process.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

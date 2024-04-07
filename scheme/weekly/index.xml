@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scheme Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-07T02:03:56Z</updated>
+  <subtitle>Weekly Trending of Scheme in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>6cdh/tree-sitter-scheme</title>
+    <updated>2024-04-07T02:03:56Z</updated>
+    <id>tag:github.com,2024-04-07:/6cdh/tree-sitter-scheme</id>
+    <link href="https://github.com/6cdh/tree-sitter-scheme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scheme grammar for tree-sitter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>scalameta/metals-zed</title>
+    <updated>2024-04-07T02:03:56Z</updated>
+    <id>tag:github.com,2024-04-07:/scalameta/metals-zed</id>
+    <link href="https://github.com/scalameta/metals-zed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zed plugin for Metals&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maitria/scheme-stuff</title>
+    <updated>2024-04-07T02:03:56Z</updated>
+    <id>tag:github.com,2024-04-07:/maitria/scheme-stuff</id>
+    <link href="https://github.com/maitria/scheme-stuff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jason&#39;s eclectic library of Gambit scheme junk&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DIGITAL Command Language Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-06T01:26:35Z</updated>
+  <updated>2024-04-07T01:31:21Z</updated>
   <subtitle>Daily Trending of DIGITAL Command Language in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>romainmarcoux/malicious-domains</title>
+    <updated>2024-04-07T01:31:21Z</updated>
+    <id>tag:github.com,2024-04-07:/romainmarcoux/malicious-domains</id>
+    <link href="https://github.com/romainmarcoux/malicious-domains" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aggregation of lists of malicious domains (phishing) that can be integrated into FortiGate firewalls and other products.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

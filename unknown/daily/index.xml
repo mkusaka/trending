@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-06T01:22:32Z</updated>
+  <updated>2024-04-07T01:27:21Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Leymore/ruozhiba</title>
-    <updated>2024-04-06T01:22:32Z</updated>
-    <id>tag:github.com,2024-04-06:/Leymore/ruozhiba</id>
-    <link href="https://github.com/Leymore/ruozhiba" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DataTalksClub/llm-zoomcamp</title>
-    <updated>2024-04-06T01:22:32Z</updated>
-    <id>tag:github.com,2024-04-06:/DataTalksClub/llm-zoomcamp</id>
-    <link href="https://github.com/DataTalksClub/llm-zoomcamp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LLM Zoomcamp - a free online course about building an AI bot that can answer questions about your knowledge base&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>solddead/V1.4M</title>
-    <updated>2024-04-06T01:22:32Z</updated>
-    <id>tag:github.com,2024-04-06:/solddead/V1.4M</id>
-    <link href="https://github.com/solddead/V1.4M" rel="alternate"></link>
+    <title>avito-tech/backend-trainee-assignment-2024</title>
+    <updated>2024-04-07T01:27:21Z</updated>
+    <id>tag:github.com,2024-04-07:/avito-tech/backend-trainee-assignment-2024</id>
+    <link href="https://github.com/avito-tech/backend-trainee-assignment-2024" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-06T01:23:21Z</updated>
+  <updated>2024-04-07T01:28:30Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>scash-project/cpuminer-scash</title>
+    <updated>2024-04-07T01:28:30Z</updated>
+    <id>tag:github.com,2024-04-07:/scash-project/cpuminer-scash</id>
+    <link href="https://github.com/scash-project/cpuminer-scash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RandomX CPU miner for Scash&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

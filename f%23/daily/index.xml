@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-06T01:27:48Z</updated>
+  <updated>2024-04-07T01:32:48Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alexander-myltsev/Sapientum</title>
-    <updated>2024-04-06T01:27:48Z</updated>
-    <id>tag:github.com,2024-04-06:/alexander-myltsev/Sapientum</id>
-    <link href="https://github.com/alexander-myltsev/Sapientum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sape.API crawling helper&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Sape.API crawling helper&lt;/p&gt;</summary>
-  </entry>
 </feed>

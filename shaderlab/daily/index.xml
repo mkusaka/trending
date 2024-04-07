@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-06T01:38:27Z</updated>
+  <updated>2024-04-07T01:44:02Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>broliveLSC/FPS_Inheritance_1343</title>
-    <updated>2024-04-06T01:38:27Z</updated>
-    <id>tag:github.com,2024-04-06:/broliveLSC/FPS_Inheritance_1343</id>
-    <link href="https://github.com/broliveLSC/FPS_Inheritance_1343" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fsi-hack4autism/augmented-reality-skills-training</title>
-    <updated>2024-04-06T01:38:27Z</updated>
-    <id>tag:github.com,2024-04-06:/fsi-hack4autism/augmented-reality-skills-training</id>
-    <link href="https://github.com/fsi-hack4autism/augmented-reality-skills-training" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository will host code bases focusing on the use of Augmented Reality for teaching job skills to people with Autism, particularly those aging out of the supports provided in the school environment&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

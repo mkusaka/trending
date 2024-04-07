@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-06T01:27:21Z</updated>
+  <updated>2024-04-07T01:32:21Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cbh123/shinstagram</title>
-    <updated>2024-04-06T01:27:21Z</updated>
-    <id>tag:github.com,2024-04-06:/cbh123/shinstagram</id>
-    <link href="https://github.com/cbh123/shinstagram" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>scripbox/flume</title>
-    <updated>2024-04-06T01:27:21Z</updated>
-    <id>tag:github.com,2024-04-06:/scripbox/flume</id>
-    <link href="https://github.com/scripbox/flume" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A blazing fast job processing system backed by GenStage &amp; Redis.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>groxio-learning/rv_otp_2</title>
+    <updated>2024-04-07T01:32:21Z</updated>
+    <id>tag:github.com,2024-04-07:/groxio-learning/rv_otp_2</id>
+    <link href="https://github.com/groxio-learning/rv_otp_2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Groxio OTP and Elixir Training&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

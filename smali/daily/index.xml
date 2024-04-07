@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smali Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-06T01:38:52Z</updated>
+  <updated>2024-04-07T01:44:25Z</updated>
   <subtitle>Daily Trending of Smali in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GodkuHacking/Dragon-Ball-Legends</title>
-    <updated>2024-04-06T01:38:52Z</updated>
-    <id>tag:github.com,2024-04-06:/GodkuHacking/Dragon-Ball-Legends</id>
-    <link href="https://github.com/GodkuHacking/Dragon-Ball-Legends" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a apk decompilation of Dragon Ball legends with tweaks and tutorials on how to compile and more.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

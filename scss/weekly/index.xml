@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-07T02:03:59Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pages-themes/leap-day</title>
+    <updated>2024-04-07T02:03:59Z</updated>
+    <id>tag:github.com,2024-04-07:/pages-themes/leap-day</id>
+    <link href="https://github.com/pages-themes/leap-day" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leap day is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pianfan/pianfan.github.io</title>
+    <updated>2024-04-07T02:03:59Z</updated>
+    <id>tag:github.com,2024-04-07:/pianfan/pianfan.github.io</id>
+    <link href="https://github.com/pianfan/pianfan.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pianfan&#39;s Personal Blog via GitHub&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TiuTalk/tiutalk.github.io</title>
+    <updated>2024-04-07T02:03:59Z</updated>
+    <id>tag:github.com,2024-04-07:/TiuTalk/tiutalk.github.io</id>
+    <link href="https://github.com/TiuTalk/tiutalk.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
