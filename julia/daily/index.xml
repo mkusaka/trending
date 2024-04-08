@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-07T01:36:40Z</updated>
+  <updated>2024-04-08T01:30:42Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ranocha/SummationByPartsOperators.jl</title>
-    <updated>2024-04-07T01:36:40Z</updated>
-    <id>tag:github.com,2024-04-07:/ranocha/SummationByPartsOperators.jl</id>
-    <link href="https://github.com/ranocha/SummationByPartsOperators.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia library of summation-by-parts (SBP) operators used in finite difference, Fourier pseudospectral, continuous Galerkin, and discontinuous Galerkin methods to get provably stable semidiscretizations, paying special attention to boundary conditions.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaSymbolics/Metatheory.jl</title>
+    <updated>2024-04-08T01:30:42Z</updated>
+    <id>tag:github.com,2024-04-08:/JuliaSymbolics/Metatheory.jl</id>
+    <link href="https://github.com/JuliaSymbolics/Metatheory.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;General purpose algebraic metaprogramming and symbolic computation library for the Julia programming language: E-Graphs &amp; equality saturation, term rewriting and more.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bhftbootcamp/CcyConv.jl</title>
+    <updated>2024-04-08T01:30:42Z</updated>
+    <id>tag:github.com,2024-04-08:/bhftbootcamp/CcyConv.jl</id>
+    <link href="https://github.com/bhftbootcamp/CcyConv.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CcyConv is a Julia package for performing currency conversions. It allows for direct and multi-step conversions using the latest exchange 💱 rates&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

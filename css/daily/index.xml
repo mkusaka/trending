@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-07T01:30:45Z</updated>
+  <updated>2024-04-08T01:26:28Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CyanVoxel/Obsidian-Colored-Sidebar</title>
-    <updated>2024-04-07T01:30:45Z</updated>
-    <id>tag:github.com,2024-04-07:/CyanVoxel/Obsidian-Colored-Sidebar</id>
-    <link href="https://github.com/CyanVoxel/Obsidian-Colored-Sidebar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Colored Sidebar CSS Snippet for Obsidian.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Obsidian-Colored-Sidebar v2.0.0&lt;/h1&gt; &#xA;&lt;h2&gt;A Colored Sidebar CSS Snippet for Obsidian.&lt;/h2&gt; &#xA;&lt;h3&gt;&lt;em&gt;Create a &lt;a href=&#34;https://youtu.be/rAkerV8rlow&#34;&gt;colorfully cascading&lt;/a&gt; Obsidian sidebar!&lt;/em&gt;&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/CyanVoxel/Obsidian-Colored-Sidebar/main/example.png&#34; alt=&#34;Example&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;This snippet targets folders beginning with numbered prefixes, and applies full color formatting based on the root colors listed inside the snippet. The prefixes are both customizable and extensible; feel free to change, add, and remove them based on your own titles and vault structure! By default I have a range of 8+1 colors, however I&#39;ve provided some other common colors as a starting point for your own customization. Just swap out the color variable names in the prefix groups.&lt;/p&gt; &#xA;&lt;p&gt;Goes great with the &lt;a href=&#34;https://github.com/FlorianWoelki/obsidian-iconize&#34;&gt;Iconize&lt;/a&gt; plugin!&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;Inspired by the &#34;Coloured Folders&#34; snippet by Lithou.&lt;/em&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Miderson/3c_Sexta</title>
-    <updated>2024-04-07T01:30:45Z</updated>
-    <id>tag:github.com,2024-04-07:/Miderson/3c_Sexta</id>
-    <link href="https://github.com/Miderson/3c_Sexta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;seunome3c&lt;/h1&gt;</summary>
-  </entry>
-  <entry>
-    <title>itscodenation/int-u4l6-23-24-student-exercises</title>
-    <updated>2024-04-07T01:30:45Z</updated>
-    <id>tag:github.com,2024-04-07:/itscodenation/int-u4l6-23-24-student-exercises</id>
-    <link href="https://github.com/itscodenation/int-u4l6-23-24-student-exercises" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Student README: Lesson 4.6 - Review&lt;/h1&gt; &#xA;&lt;h2&gt;Review&lt;/h2&gt; &#xA;&lt;h3&gt;Saving User Input&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Retrieve a user’s input using &lt;code&gt;.value&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Save it inside a variable.&lt;/li&gt; &#xA; &lt;li&gt;Display the input on a page.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Example&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Typing in an input box on a website for login or sharing content.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Steps to Store/Use User Input&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;strong&gt;Create a Variable:&lt;/strong&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Use &lt;code&gt;let&lt;/code&gt; to declare a variable to save user input.&lt;/li&gt; &#xA;   &lt;li&gt;Example: &lt;code&gt;let userInput;&lt;/code&gt;&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Store the Input with &lt;code&gt;.value&lt;/code&gt;:&lt;/strong&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Use &lt;code&gt;.value&lt;/code&gt; to get the value from an input field.&lt;/li&gt; &#xA;   &lt;li&gt;Example: &lt;code&gt;let userInput = document.querySelector(&#34;input&#34;).value;&lt;/code&gt;&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Display on Page with &lt;code&gt;.innerHTML&lt;/code&gt;:&lt;/strong&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Use &lt;code&gt;.innerHTML&lt;/code&gt; to show the user input on the webpage.&lt;/li&gt; &#xA;   &lt;li&gt;Example: &lt;pre&gt;&lt;code class=&#34;language-javascript&#34;&gt;button.addEventListener(&#34;click&#34;, function() {&#xA;    let userInput = document.querySelector(&#34;input&#34;).value;&#xA;    document.querySelector(&#34;div&#34;).innerHTML = userInput;&#xA;});&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Key Questions&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Why create a variable first? &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;To store the user input for later use.&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;What gets saved in &lt;code&gt;userInput&lt;/code&gt;? &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Whatever the user types in the input field, like &#34;coding is fun!&#34;&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Recap: Saving User Input&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;Three Steps:&lt;/strong&gt; Create variable, store with &lt;code&gt;.value&lt;/code&gt;, display with &lt;code&gt;.innerHTML&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Console Usage:&lt;/strong&gt; Use &lt;code&gt;console.log()&lt;/code&gt; to check the value stored in variables during development.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Happy coding! 😊&lt;/p&gt;</summary>
+    <title>techeonn/lifeline-Shradha-kapoor</title>
+    <updated>2024-04-08T01:26:28Z</updated>
+    <id>tag:github.com,2024-04-08:/techeonn/lifeline-Shradha-kapoor</id>
+    <link href="https://github.com/techeonn/lifeline-Shradha-kapoor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

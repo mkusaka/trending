@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-07T01:45:39Z</updated>
+  <updated>2024-04-08T01:37:23Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CS-MATH-113-Spring-2024/pset13</title>
+    <updated>2024-04-08T01:37:23Z</updated>
+    <id>tag:github.com,2024-04-08:/CS-MATH-113-Spring-2024/pset13</id>
+    <link href="https://github.com/CS-MATH-113-Spring-2024/pset13" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Problem Set 13: Structural induction&lt;/h1&gt; &#xA;&lt;h1&gt;CS/MATH 113 Discrete Mathematics, Spring 2024&lt;/h1&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Each Problem Set (PSet) contains problems on recently covered material for you to practice. These prepare you for upcoming assessments and later topics.&lt;/p&gt; &#xA;&lt;h1&gt;Purpose&lt;/h1&gt; &#xA;&lt;p&gt;This PSet present problems to be solved using proof by structural induction.&lt;/p&gt; &#xA;&lt;h1&gt;Background and requirement&lt;/h1&gt; &#xA;&lt;p&gt;To attempt and submit this PSet you will need&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;to recall and apply the method of proof by structural induction&lt;/li&gt; &#xA; &lt;li&gt;to recall and apply other proof methods covered previously in class&lt;/li&gt; &#xA; &lt;li&gt;to recall and apply recursive definitions of sets and operations&lt;/li&gt; &#xA; &lt;li&gt;to be familiar with the concept of a string&lt;/li&gt; &#xA; &lt;li&gt;to be familiar with concepts, notation, and operations related to sets, e.g., pair, product&lt;/li&gt; &#xA; &lt;li&gt;to make logical arguments as required for a proof&lt;/li&gt; &#xA; &lt;li&gt;comfort with GitHub and LaTeX&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Grading&lt;/h1&gt; &#xA;&lt;p&gt;Grading is described on Canvas.&lt;/p&gt; &#xA;&lt;h1&gt;Task&lt;/h1&gt; &#xA;&lt;p&gt;The task for this PSet is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file.&lt;/p&gt; &#xA;&lt;h1&gt;Deadline and discussion&lt;/h1&gt; &#xA;&lt;p&gt;The deadline is mentioned on Canvas.&lt;/p&gt; &#xA;&lt;p&gt;For discussion on the PSet, please use the related Canvas discussion thread.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;viel Spass!&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ChristofferDahlen/Pathfinder-Cheatsheet</title>
+    <updated>2024-04-08T01:37:23Z</updated>
+    <id>tag:github.com,2024-04-08:/ChristofferDahlen/Pathfinder-Cheatsheet</id>
+    <link href="https://github.com/ChristofferDahlen/Pathfinder-Cheatsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is a cheatsheet for Pathfinder 2nd Edition created in latex. Hope you like it.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;To get the pdf:&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Go to releases.&lt;/li&gt; &#xA; &lt;li&gt;Select desired version&lt;/li&gt; &#xA; &lt;li&gt;Download the CheatSheet.pdf file under assets&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;There is also a low saturation version of it called CheatSheet-LS.pdf&lt;/p&gt; &#xA;&lt;p&gt;Any updates are of the friendly whim of the mantainers do not expect any updates other then that based of the energy/time etc of the maintainers.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>les-amateurs/AmateursCTF-Public</title>
+    <updated>2024-04-08T01:37:23Z</updated>
+    <id>tag:github.com,2024-04-08:/les-amateurs/AmateursCTF-Public</id>
+    <link href="https://github.com/les-amateurs/AmateursCTF-Public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;AmateursCTF Public Challenge Repository&lt;/h1&gt; &#xA;&lt;p&gt;Public repository containing all the challenges for AmateursCTF.&lt;/p&gt;</summary>
+  </entry>
 </feed>

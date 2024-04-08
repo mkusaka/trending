@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-07T01:39:23Z</updated>
+  <updated>2024-04-08T01:32:41Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oddlama/nix-topology</title>
-    <updated>2024-04-07T01:39:23Z</updated>
-    <id>tag:github.com,2024-04-07:/oddlama/nix-topology</id>
-    <link href="https://github.com/oddlama/nix-topology" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🍁 Generate infrastructure and network diagrams directly from your NixOS configurations&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>oddlama/nix-config</title>
-    <updated>2024-04-07T01:39:23Z</updated>
-    <id>tag:github.com,2024-04-07:/oddlama/nix-config</id>
-    <link href="https://github.com/oddlama/nix-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;❄️ My nix config and dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NixOS/nix.dev</title>
-    <updated>2024-04-07T01:39:23Z</updated>
-    <id>tag:github.com,2024-04-07:/NixOS/nix.dev</id>
-    <link href="https://github.com/NixOS/nix.dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official documentation for getting things done with Nix.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DanNixon/dotfiles</title>
+    <updated>2024-04-08T01:32:41Z</updated>
+    <id>tag:github.com,2024-04-08:/DanNixon/dotfiles</id>
+    <link href="https://github.com/DanNixon/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My Nix flavoured configs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

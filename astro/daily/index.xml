@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-07T01:28:27Z</updated>
+  <updated>2024-04-08T01:24:49Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bitwarden/passkeys-index</title>
-    <updated>2024-04-07T01:28:27Z</updated>
-    <id>tag:github.com,2024-04-07:/bitwarden/passkeys-index</id>
-    <link href="https://github.com/bitwarden/passkeys-index" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of sites and services that support passkeys&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hust-open-atom-club/TranslateProject</title>
-    <updated>2024-04-07T01:28:27Z</updated>
-    <id>tag:github.com,2024-04-07:/hust-open-atom-club/TranslateProject</id>
-    <link href="https://github.com/hust-open-atom-club/TranslateProject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;参考 Linux 中国翻译项目，设计我们开源俱乐部的翻译项目 HCTT TranslateProject。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>titaniumnetwork-dev/Alu</title>
-    <updated>2024-04-07T01:28:27Z</updated>
-    <id>tag:github.com,2024-04-07:/titaniumnetwork-dev/Alu</id>
-    <link href="https://github.com/titaniumnetwork-dev/Alu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alu is a frontend proxy site that offers games and a clean frontend for Ultraviolet and Rammerhead&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>christian-luntok/astro-nutritrack</title>
+    <updated>2024-04-08T01:24:49Z</updated>
+    <id>tag:github.com,2024-04-08:/christian-luntok/astro-nutritrack</id>
+    <link href="https://github.com/christian-luntok/astro-nutritrack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple landing page template built with AstroJS and TailwindCSS for you!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

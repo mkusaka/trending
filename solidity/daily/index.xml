@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-07T01:44:40Z</updated>
+  <updated>2024-04-08T01:36:34Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AmphorProtocol/synthetic-vault</title>
-    <updated>2024-04-07T01:44:40Z</updated>
-    <id>tag:github.com,2024-04-07:/AmphorProtocol/synthetic-vault</id>
-    <link href="https://github.com/AmphorProtocol/synthetic-vault" rel="alternate"></link>
+    <title>code-423n4/2024-04-panoptic</title>
+    <updated>2024-04-08T01:36:34Z</updated>
+    <id>tag:github.com,2024-04-08:/code-423n4/2024-04-panoptic</id>
+    <link href="https://github.com/code-423n4/2024-04-panoptic" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OpenZeppelin/ethernaut</title>
-    <updated>2024-04-07T01:44:40Z</updated>
-    <id>tag:github.com,2024-04-07:/OpenZeppelin/ethernaut</id>
-    <link href="https://github.com/OpenZeppelin/ethernaut" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web3/Solidity based wargame&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

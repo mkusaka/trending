@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-07T01:45:11Z</updated>
+  <updated>2024-04-08T01:36:56Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KoesterJannik/sveltekit-repo-starter</title>
-    <updated>2024-04-07T01:45:11Z</updated>
-    <id>tag:github.com,2024-04-07:/KoesterJannik/sveltekit-repo-starter</id>
-    <link href="https://github.com/KoesterJannik/sveltekit-repo-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Betarena/scores</title>
+    <updated>2024-04-08T01:36:56Z</updated>
+    <id>tag:github.com,2024-04-08:/Betarena/scores</id>
+    <link href="https://github.com/Betarena/scores" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;We are building the first open-source live results and statistics platform with community involvement features for data insertion. The project includes a blockchain component that will allow participants to receive rewards based on their participation and also to stake the future Token of the platform.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

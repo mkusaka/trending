@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-07T01:45:19Z</updated>
+  <updated>2024-04-08T01:37:04Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BogieBogard/Deep-Dream-Xcode</title>
+    <updated>2024-04-08T01:37:04Z</updated>
+    <id>tag:github.com,2024-04-08:/BogieBogard/Deep-Dream-Xcode</id>
+    <link href="https://github.com/BogieBogard/Deep-Dream-Xcode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Swift code for an interactive story iOS app.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Deep-Dream&lt;/h1&gt; &#xA;&lt;h2&gt;Swift code for an interactive story iOS app&lt;/h2&gt; &#xA;&lt;p&gt;Demo of the application:&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/BogieBogard/Deep-Dream-Xcode/master/assets/GitHub-GIF/README.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Choose Your Own Adventure&lt;/h2&gt; &#xA;&lt;p&gt;A modern implementation of a timeless story format--allowing users to shape the direction and ending of a narrative through their own choices really first became popular on iOS devices with the release of &lt;strong&gt;Lifeline&lt;/strong&gt;. The attention of this successful interactive story by 3 Minute Games in 2015 sparked a series as well as many competing &#34;Choose Your Own Adventure&#34; games.&lt;/p&gt; &#xA;&lt;p&gt;This app showcases how such a game could be built using Apple&#39;s programming language, Swift.&lt;/p&gt;</summary>
+  </entry>
 </feed>

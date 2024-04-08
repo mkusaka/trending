@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-07T01:34:43Z</updated>
+  <updated>2024-04-08T01:29:13Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>depressed-pho/HsOpenSSL</title>
-    <updated>2024-04-07T01:34:43Z</updated>
-    <id>tag:github.com,2024-04-07:/depressed-pho/HsOpenSSL</id>
-    <link href="https://github.com/depressed-pho/HsOpenSSL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenSSL binding for Haskell&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This repository has been archived but got a new maintainer: &lt;a href=&#34;https://github.com/vshabanov/HsOpenSSL&#34;&gt;https://github.com/vshabanov/HsOpenSSL&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>haskell-suite/base</title>
+    <updated>2024-04-08T01:29:13Z</updated>
+    <id>tag:github.com,2024-04-08:/haskell-suite/base</id>
+    <link href="https://github.com/haskell-suite/base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;To compile with haskell-names do&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cabal install --haskell-suite -w hs-gen-iface --gcc-option=-I/usr/lib/ghc/include --extra-include-dirs=/usr/lib/ghc/include --solver=topdown -f include-ghc-prim&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

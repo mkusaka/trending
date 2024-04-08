@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Component Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-07T01:30:28Z</updated>
+  <updated>2024-04-08T01:26:16Z</updated>
   <subtitle>Daily Trending of Component Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jackpato77/bioscar</title>
-    <updated>2024-04-07T01:30:28Z</updated>
-    <id>tag:github.com,2024-04-07:/jackpato77/bioscar</id>
-    <link href="https://github.com/jackpato77/bioscar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Biometric Log System&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-07T01:35:41Z</updated>
+  <updated>2024-04-08T01:30:08Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rkkr/simple-keyboard</title>
+    <updated>2024-04-08T01:30:08Z</updated>
+    <id>tag:github.com,2024-04-08:/rkkr/simple-keyboard</id>
+    <link href="https://github.com/rkkr/simple-keyboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Simple Keyboard&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://crowdin.com/project/simple-keyboard&#34;&gt;&lt;img src=&#34;https://d322cqt584bo4o.cloudfront.net/simple-keyboard/localized.svg?sanitize=true&#34; alt=&#34;Crowdin&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/rkkr/simple-keyboard/master/images/screenshot-0.png&#34; alt=&#34;closeup&#34; width=&#34;500&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;About&lt;/h2&gt; &#xA;&lt;p&gt;Features:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Small size (&amp;lt;1MB)&lt;/li&gt; &#xA; &lt;li&gt;Adjustable keyboard height for more screen space&lt;/li&gt; &#xA; &lt;li&gt;Number row&lt;/li&gt; &#xA; &lt;li&gt;Swipe space to move pointer&lt;/li&gt; &#xA; &lt;li&gt;Delete swipe&lt;/li&gt; &#xA; &lt;li&gt;Custom theme colors&lt;/li&gt; &#xA; &lt;li&gt;Minimal permissions (only Vibrate)&lt;/li&gt; &#xA; &lt;li&gt;Ads-free&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Feature it doesn&#39;t have and probably will never have:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Emojis&lt;/li&gt; &#xA; &lt;li&gt;GIFs&lt;/li&gt; &#xA; &lt;li&gt;Spell checker&lt;/li&gt; &#xA; &lt;li&gt;Swipe typing&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Downloads&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://f-droid.org/packages/rkr.simplekeyboard.inputmethod/&#34;&gt;&lt;img src=&#34;https://f-droid.org/badge/get-it-on.png&#34; alt=&#34;Get it on F-Droid&#34; height=&#34;80&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod&#34;&gt;&lt;img src=&#34;https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png&#34; alt=&#34;Get it on Google Play&#34; height=&#34;80&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;p&gt;Licensed under Apache License Version 2&lt;/p&gt; &#xA;&lt;p&gt;This keyboard is based on AOSP LatinIME keyboard. You can get the original source code in &lt;a href=&#34;https://android.googlesource.com/platform/packages/inputmethods/LatinIME/&#34;&gt;https://android.googlesource.com/platform/packages/inputmethods/LatinIME/&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
