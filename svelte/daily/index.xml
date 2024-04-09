@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-08T01:36:56Z</updated>
+  <updated>2024-04-09T01:42:18Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Betarena/scores</title>
-    <updated>2024-04-08T01:36:56Z</updated>
-    <id>tag:github.com,2024-04-08:/Betarena/scores</id>
-    <link href="https://github.com/Betarena/scores" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;We are building the first open-source live results and statistics platform with community involvement features for data insertion. The project includes a blockchain component that will allow participants to receive rewards based on their participation and also to stake the future Token of the platform.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheDahoom/Sveltekit-seo</title>
+    <updated>2024-04-09T01:42:18Z</updated>
+    <id>tag:github.com,2024-04-09:/TheDahoom/Sveltekit-seo</id>
+    <link href="https://github.com/TheDahoom/Sveltekit-seo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sveltekit SEO component to save your time&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

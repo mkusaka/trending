@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-08T01:28:27Z</updated>
+  <updated>2024-04-09T01:30:01Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>David20122/sound-space-plus</title>
-    <updated>2024-04-08T01:28:27Z</updated>
-    <id>tag:github.com,2024-04-08:/David20122/sound-space-plus</id>
-    <link href="https://github.com/David20122/sound-space-plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rhythm-based aim game&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LucyLavend/GodotPrintRichExamples</title>
+    <updated>2024-04-09T01:30:01Z</updated>
+    <id>tag:github.com,2024-04-09:/LucyLavend/GodotPrintRichExamples</id>
+    <link href="https://github.com/LucyLavend/GodotPrintRichExamples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Examples of how you can use print_rich() in Godot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WhoStoleMyCoffee/ComponentsDemo</title>
-    <updated>2024-04-08T01:28:27Z</updated>
-    <id>tag:github.com,2024-04-08:/WhoStoleMyCoffee/ComponentsDemo</id>
-    <link href="https://github.com/WhoStoleMyCoffee/ComponentsDemo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo showcasing the use of components in the Godot game engine&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>krmeet/RhythiaRewrite</title>
-    <updated>2024-04-08T01:28:27Z</updated>
-    <id>tag:github.com,2024-04-08:/krmeet/RhythiaRewrite</id>
-    <link href="https://github.com/krmeet/RhythiaRewrite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rhythia is an aim-based rhythm game&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>crowplexus/Funkin-Raven</title>
+    <updated>2024-04-09T01:30:01Z</updated>
+    <id>tag:github.com,2024-04-09:/crowplexus/Funkin-Raven</id>
+    <link href="https://github.com/crowplexus/Funkin-Raven" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Remake of the Core Components and Gameplay loop of Friday Night Funkin&#39;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

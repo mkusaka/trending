@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-08T01:31:05Z</updated>
+  <updated>2024-04-09T01:34:06Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pyoncord/PyoncordXposed</title>
-    <updated>2024-04-08T01:31:05Z</updated>
-    <id>tag:github.com,2024-04-08:/pyoncord/PyoncordXposed</id>
-    <link href="https://github.com/pyoncord/PyoncordXposed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Xposed module dedicated to injecting Pyoncord&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zjyzip/AdClose</title>
+    <updated>2024-04-09T01:34:06Z</updated>
+    <id>tag:github.com,2024-04-09:/zjyzip/AdClose</id>
+    <link href="https://github.com/zjyzip/AdClose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Block ads and remove app limit for Xposed.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;AdClose&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;AdClose&lt;/strong&gt; 是一个基于Xposed框架的Android广告屏蔽工具，致力于提供一个无广告的应用浏览体验，旨在优化用户体验并减少干扰。请在LSPosed框架环境中使用。&lt;/p&gt; &#xA;&lt;p&gt;AdClose的核心功能是阻止应用内的广告SDK初始化加载，并拦截应用广告请求以屏蔽广告。&lt;/p&gt; &#xA;&lt;h2&gt;主要特性&lt;/h2&gt; &#xA;&lt;p&gt;功能支持(顺序)：&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;精准处理&lt;/strong&gt;：阻止应用内广告SDK初始化。&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;广告请求拦截&lt;/strong&gt;：拦截屏蔽应用的网络广告请求。&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;截图录屏限制移除&lt;/strong&gt;：允许在应用中自由截图和录屏。&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;VPN与代理检测移除&lt;/strong&gt;：去除应用内的VPN和系统代理检测。&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;传感器监听移除&lt;/strong&gt;：用于禁用摇一摇等基于传感器的广告跳转。&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Root检测规避&lt;/strong&gt;：去除应用内的一般性Root，Magisk和Xposed框架检测。&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;支持的应用范围&lt;/h2&gt; &#xA;&lt;p&gt;AdClose支持众多流行的Android应用，包括但不限于：&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;视频播放应用&lt;/li&gt; &#xA; &lt;li&gt;阅读和新闻应用&lt;/li&gt; &#xA; &lt;li&gt;工具和便捷应用&lt;/li&gt; &#xA; &lt;li&gt;商务办公应用&lt;/li&gt; &#xA; &lt;li&gt;社交和通讯应用&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;广告SDK处理(此部分内容并不开放)&lt;/h2&gt; &#xA;&lt;h2&gt;使用指南&lt;/h2&gt; &#xA;&lt;p&gt;在安装AdClose之前，请确保您的设备已经安装LSPosed框架。&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;下载并安装AdClose模块。&lt;/li&gt; &#xA; &lt;li&gt;在LSPosed模块管理器中激活AdClose模块。&lt;/li&gt; &#xA; &lt;li&gt;在模块作用域中选择您希望去除广告的应用。&lt;/li&gt; &#xA; &lt;li&gt;启动AdClose模块，选择并点击应用列表，启用相应的Hook功能。&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;如何贡献&lt;/h2&gt; &#xA;&lt;p&gt;如果您对AdClose有改进建议，或发现Bug，欢迎通过Issues反馈。&lt;/p&gt; &#xA;&lt;h2&gt;支持我们&lt;/h2&gt; &#xA;&lt;p&gt;如果AdClose对您有帮助，请给予我们Star支持！这是我们持续改进的最大动力。&lt;/p&gt; &#xA;&lt;h2&gt;关注我们&lt;/h2&gt; &#xA;&lt;p&gt;获取更多更新和帮助，请关注我们的Telegram频道：&lt;/p&gt; &#xA;&lt;p&gt;🌟 &lt;strong&gt;频道入口&lt;/strong&gt;: @AdClose&lt;/p&gt;</summary>
   </entry>
 </feed>

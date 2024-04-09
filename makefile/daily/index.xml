@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-08T01:31:47Z</updated>
+  <updated>2024-04-09T01:35:06Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TheMuppets/proprietary_vendor_google_raven</title>
-    <updated>2024-04-08T01:31:47Z</updated>
-    <id>tag:github.com,2024-04-08:/TheMuppets/proprietary_vendor_google_raven</id>
-    <link href="https://github.com/TheMuppets/proprietary_vendor_google_raven" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>qclaogui/codelab-monitoring</title>
-    <updated>2024-04-08T01:31:47Z</updated>
-    <id>tag:github.com,2024-04-08:/qclaogui/codelab-monitoring</id>
-    <link href="https://github.com/qclaogui/codelab-monitoring" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Little helper to run Grafana LGTMP Stack(Loki Grafana Tempo Mimir Pyroscope) in Docker or Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yumemi-inc/daigirin-tbf16</title>
+    <updated>2024-04-09T01:35:06Z</updated>
+    <id>tag:github.com,2024-04-09:/yumemi-inc/daigirin-tbf16</id>
+    <link href="https://github.com/yumemi-inc/daigirin-tbf16" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ゆめみ大技林 24&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

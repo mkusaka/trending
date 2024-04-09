@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-08T01:23:58Z</updated>
+  <updated>2024-04-09T01:24:00Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>krishnaik06/AI-Engineer-Roadmap-2024</title>
-    <updated>2024-04-08T01:23:58Z</updated>
-    <id>tag:github.com,2024-04-08:/krishnaik06/AI-Engineer-Roadmap-2024</id>
-    <link href="https://github.com/krishnaik06/AI-Engineer-Roadmap-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anu0012/awesome-computer-science-opportunities</title>
+    <updated>2024-04-09T01:24:00Z</updated>
+    <id>tag:github.com,2024-04-09:/anu0012/awesome-computer-science-opportunities</id>
+    <link href="https://github.com/anu0012/awesome-computer-science-opportunities" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An awesome list of events and fellowship opportunities for Computer Science students&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Hakhka/kakaakak</title>
-    <updated>2024-04-08T01:23:58Z</updated>
-    <id>tag:github.com,2024-04-08:/Hakhka/kakaakak</id>
-    <link href="https://github.com/Hakhka/kakaakak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>niucnet/jinri-cp</title>
+    <updated>2024-04-09T01:24:00Z</updated>
+    <id>tag:github.com,2024-04-09:/niucnet/jinri-cp</id>
+    <link href="https://github.com/niucnet/jinri-cp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;jinricp | 韩国BJ | 韩国女主播 | pandatv | 진리컴퍼니 | jinri company&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nera-nikolayeva/Rainbow6s</title>
-    <updated>2024-04-08T01:23:58Z</updated>
-    <id>tag:github.com,2024-04-08:/nera-nikolayeva/Rainbow6s</id>
-    <link href="https://github.com/nera-nikolayeva/Rainbow6s" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PASS - 1234&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>geekcompany/ResumeSample</title>
+    <updated>2024-04-09T01:24:00Z</updated>
+    <id>tag:github.com,2024-04-09:/geekcompany/ResumeSample</id>
+    <link href="https://github.com/geekcompany/ResumeSample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

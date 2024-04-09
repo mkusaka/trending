@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-08T01:26:28Z</updated>
+  <updated>2024-04-09T01:27:20Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KemengHuang/GPU_IPC</title>
+    <updated>2024-04-09T01:27:20Z</updated>
+    <id>tag:github.com,2024-04-09:/KemengHuang/GPU_IPC</id>
+    <link href="https://github.com/KemengHuang/GPU_IPC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the first fully GPU Optimized IPC framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

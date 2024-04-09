@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-08T01:24:49Z</updated>
+  <updated>2024-04-09T01:25:02Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>christian-luntok/astro-nutritrack</title>
-    <updated>2024-04-08T01:24:49Z</updated>
-    <id>tag:github.com,2024-04-08:/christian-luntok/astro-nutritrack</id>
-    <link href="https://github.com/christian-luntok/astro-nutritrack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple landing page template built with AstroJS and TailwindCSS for you!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-08T01:34:12Z</updated>
+  <updated>2024-04-09T01:38:20Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lflare/golden-image-finalizer</title>
+    <updated>2024-04-09T01:38:20Z</updated>
+    <id>tag:github.com,2024-04-09:/lflare/golden-image-finalizer</id>
+    <link href="https://github.com/lflare/golden-image-finalizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a magic powershell script for windows VDI sealing&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Golden Image Finalizer&lt;/h1&gt; &#xA;&lt;p&gt;Shamelessly forked and modified on the original wonderful work by @jzavcer at his &lt;a href=&#34;https://github.com/jzavcer/VDI-Windows-Finalizer&#34;&gt;repository&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;h3&gt;Normal&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-powershell&#34;&gt;./Golden-Image-Finalizer.ps1&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Note that some parts of the process may require user input (&lt;em&gt;e.g. the prompt for disk cleanup seems to require some form of user input&lt;/em&gt;).&lt;/p&gt; &#xA;&lt;h3&gt;Via &lt;code&gt;iex&lt;/code&gt;&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-powershell&#34;&gt;Set-ExecutionPolicy -Scope CurrentUser Unrestricted&#xA;iex (iwr &#39;https://github.com/lflare/golden-image-finalizer/raw/master/Golden-Image-Finalizer.ps1&#39;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Note that execution policy has to allow for the execution of scripts or the above will fail.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/lflare/golden-image-finalizer/master/LICENSE&#34;&gt;AGPLv3&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>dotnet/AspNetApiDocs</title>
+    <updated>2024-04-09T01:38:20Z</updated>
+    <id>tag:github.com,2024-04-09:/dotnet/AspNetApiDocs</id>
+    <link href="https://github.com/dotnet/AspNetApiDocs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reference documentation for ASP.NET Core APIs&lt;/p&gt;&lt;hr&gt;&lt;p&gt;API PR&#39;s ( &lt;em&gt;api/autoapi/...&lt;/em&gt; ) should not be made here. Changes to API documentation should be made in the source repository against the triple slash /// comments.&lt;/p&gt;</summary>
+  </entry>
 </feed>

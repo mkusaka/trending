@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-08T01:30:42Z</updated>
+  <updated>2024-04-09T01:33:29Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaSymbolics/Metatheory.jl</title>
-    <updated>2024-04-08T01:30:42Z</updated>
-    <id>tag:github.com,2024-04-08:/JuliaSymbolics/Metatheory.jl</id>
-    <link href="https://github.com/JuliaSymbolics/Metatheory.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;General purpose algebraic metaprogramming and symbolic computation library for the Julia programming language: E-Graphs &amp; equality saturation, term rewriting and more.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bhftbootcamp/CcyConv.jl</title>
-    <updated>2024-04-08T01:30:42Z</updated>
-    <id>tag:github.com,2024-04-08:/bhftbootcamp/CcyConv.jl</id>
-    <link href="https://github.com/bhftbootcamp/CcyConv.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CcyConv is a Julia package for performing currency conversions. It allows for direct and multi-step conversions using the latest exchange 💱 rates&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shareloqs/MPSDynamics</title>
+    <updated>2024-04-09T01:33:29Z</updated>
+    <id>tag:github.com,2024-04-09:/shareloqs/MPSDynamics</id>
+    <link href="https://github.com/shareloqs/MPSDynamics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tensor network simulations for finite temperature, open quantum system dynamics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
