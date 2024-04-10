@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-09T01:36:19Z</updated>
+  <updated>2024-04-10T01:32:38Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NixOS/nixos-wiki-infra</title>
-    <updated>2024-04-09T01:36:19Z</updated>
-    <id>tag:github.com,2024-04-09:/NixOS/nixos-wiki-infra</id>
-    <link href="https://github.com/NixOS/nixos-wiki-infra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This project contains the setup of https://wiki.nixos.org&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>catppuccin/nix</title>
+    <updated>2024-04-10T01:32:38Z</updated>
+    <id>tag:github.com,2024-04-10:/catppuccin/nix</id>
+    <link href="https://github.com/catppuccin/nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;❄️ Soothing pastel theme for Nix&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

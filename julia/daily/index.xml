@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-09T01:33:29Z</updated>
+  <updated>2024-04-10T01:30:28Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>shareloqs/MPSDynamics</title>
-    <updated>2024-04-09T01:33:29Z</updated>
-    <id>tag:github.com,2024-04-09:/shareloqs/MPSDynamics</id>
-    <link href="https://github.com/shareloqs/MPSDynamics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tensor network simulations for finite temperature, open quantum system dynamics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BooBSD/Tsetlin.jl</title>
+    <updated>2024-04-10T01:30:28Z</updated>
+    <id>tag:github.com,2024-04-10:/BooBSD/Tsetlin.jl</id>
+    <link href="https://github.com/BooBSD/Tsetlin.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Tsetlin Machine library with zero external dependencies performs quite well.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/UDEComponents.jl</title>
+    <updated>2024-04-10T01:30:28Z</updated>
+    <id>tag:github.com,2024-04-10:/SciML/UDEComponents.jl</id>
+    <link href="https://github.com/SciML/UDEComponents.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily embed neural networks in MTK models&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

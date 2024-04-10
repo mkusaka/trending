@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-09T01:42:18Z</updated>
+  <updated>2024-04-10T01:37:23Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TheDahoom/Sveltekit-seo</title>
-    <updated>2024-04-09T01:42:18Z</updated>
-    <id>tag:github.com,2024-04-09:/TheDahoom/Sveltekit-seo</id>
-    <link href="https://github.com/TheDahoom/Sveltekit-seo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sveltekit SEO component to save your time&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0x2E/fusion</title>
+    <updated>2024-04-10T01:37:23Z</updated>
+    <id>tag:github.com,2024-04-10:/0x2E/fusion</id>
+    <link href="https://github.com/0x2E/fusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight, self-hosted friendly RSS aggregator and reader&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aidan-neel/neel-ui</title>
+    <updated>2024-04-10T01:37:23Z</updated>
+    <id>tag:github.com,2024-04-10:/aidan-neel/neel-ui</id>
+    <link href="https://github.com/aidan-neel/neel-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;shadcn inspired UI components for sveltekit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

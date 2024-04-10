@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-09T01:24:00Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2024-04-10T01:22:59Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>anu0012/awesome-computer-science-opportunities</title>
-    <updated>2024-04-09T01:24:00Z</updated>
-    <id>tag:github.com,2024-04-09:/anu0012/awesome-computer-science-opportunities</id>
-    <link href="https://github.com/anu0012/awesome-computer-science-opportunities" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An awesome list of events and fellowship opportunities for Computer Science students&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>netsecfish/dlink</title>
+    <updated>2024-04-10T01:22:59Z</updated>
+    <id>tag:github.com,2024-04-10:/netsecfish/dlink</id>
+    <link href="https://github.com/netsecfish/dlink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>niucnet/jinri-cp</title>
-    <updated>2024-04-09T01:24:00Z</updated>
-    <id>tag:github.com,2024-04-09:/niucnet/jinri-cp</id>
-    <link href="https://github.com/niucnet/jinri-cp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;jinricp | 韩国BJ | 韩国女主播 | pandatv | 진리컴퍼니 | jinri company&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jeinlee1991/chinese-llm-benchmark</title>
+    <updated>2024-04-10T01:22:59Z</updated>
+    <id>tag:github.com,2024-04-10:/jeinlee1991/chinese-llm-benchmark</id>
+    <link href="https://github.com/jeinlee1991/chinese-llm-benchmark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;中文大模型能力评测榜单：覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>geekcompany/ResumeSample</title>
-    <updated>2024-04-09T01:24:00Z</updated>
-    <id>tag:github.com,2024-04-09:/geekcompany/ResumeSample</id>
-    <link href="https://github.com/geekcompany/ResumeSample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>plausible/community-edition</title>
+    <updated>2024-04-10T01:22:59Z</updated>
+    <id>tag:github.com,2024-04-10:/plausible/community-edition</id>
+    <link href="https://github.com/plausible/community-edition" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example docker-compose setups for hosting Plausible Community Edition&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

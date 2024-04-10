@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-09T01:25:00Z</updated>
+  <updated>2024-04-10T01:23:53Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ArTicZera/AcidOS</title>
+    <updated>2024-04-10T01:23:53Z</updated>
+    <id>tag:github.com,2024-04-10:/ArTicZera/AcidOS</id>
+    <link href="https://github.com/ArTicZera/AcidOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Small Real Mode OS made in Assembly&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

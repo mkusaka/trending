@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-09T01:37:33Z</updated>
+  <updated>2024-04-10T01:33:37Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hisecu/securitysnippets</title>
+    <updated>2024-04-10T01:33:37Z</updated>
+    <id>tag:github.com,2024-04-10:/hisecu/securitysnippets</id>
+    <link href="https://github.com/hisecu/securitysnippets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Snippets of security-related code&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;securitysnippets&lt;/h1&gt; &#xA;&lt;p&gt;HiSeCu Security related code snippets&lt;/p&gt; &#xA;&lt;p&gt;Often, software is too tailor-made to be useful for others, but snippets of the code could be useful.&lt;/p&gt; &#xA;&lt;p&gt;This repo contains Security related code snippets&lt;/p&gt; &#xA;&lt;p&gt;(C) 2014 Nomeka [tm] / HiSeCU, CC-By-SA 3.0&lt;/p&gt; &#xA;&lt;p&gt;Feel free to use this code in your software, it is free, as long as you keep the comments in place, including the copyright notice&lt;/p&gt; &#xA;&lt;p&gt;C Fenijn&lt;/p&gt;</summary>
+  </entry>
 </feed>

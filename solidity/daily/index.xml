@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-09T01:41:49Z</updated>
+  <updated>2024-04-10T01:36:59Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BradMoonUESTC/trickPrompt-engine</title>
+    <updated>2024-04-10T01:36:59Z</updated>
+    <id>tag:github.com,2024-04-10:/BradMoonUESTC/trickPrompt-engine</id>
+    <link href="https://github.com/BradMoonUESTC/trickPrompt-engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI engine for smart contract audit&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vdutts7/ai-generated-nfts</title>
+    <updated>2024-04-10T01:36:59Z</updated>
+    <id>tag:github.com,2024-04-10:/vdutts7/ai-generated-nfts</id>
+    <link href="https://github.com/vdutts7/ai-generated-nfts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generate 1000+ piece NFT collections using AI and Smart Contracts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

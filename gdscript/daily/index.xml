@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-09T01:30:01Z</updated>
+  <updated>2024-04-10T01:27:57Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LucyLavend/GodotPrintRichExamples</title>
-    <updated>2024-04-09T01:30:01Z</updated>
-    <id>tag:github.com,2024-04-09:/LucyLavend/GodotPrintRichExamples</id>
-    <link href="https://github.com/LucyLavend/GodotPrintRichExamples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Examples of how you can use print_rich() in Godot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>crowplexus/Funkin-Raven</title>
-    <updated>2024-04-09T01:30:01Z</updated>
-    <id>tag:github.com,2024-04-09:/crowplexus/Funkin-Raven</id>
-    <link href="https://github.com/crowplexus/Funkin-Raven" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Remake of the Core Components and Gameplay loop of Friday Night Funkin&#39;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
