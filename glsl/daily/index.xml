@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-10T01:28:13Z</updated>
+  <updated>2024-04-11T01:28:46Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jabadiagm/MSXgoauld_tn20k</title>
-    <updated>2024-04-10T01:28:13Z</updated>
-    <id>tag:github.com,2024-04-10:/jabadiagm/MSXgoauld_tn20k</id>
-    <link href="https://github.com/jabadiagm/MSXgoauld_tn20k" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MSX Goa&#39;uld board with Tang Nano 20k&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

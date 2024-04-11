@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-10T01:24:08Z</updated>
+  <updated>2024-04-11T01:24:52Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Rdmo12/Neptune</title>
-    <updated>2024-04-10T01:24:08Z</updated>
-    <id>tag:github.com,2024-04-10:/Rdmo12/Neptune</id>
-    <link href="https://github.com/Rdmo12/Neptune" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Neptune Multi Tool that take advantage to weak API&#39;s. ( previous GitHub account was terminated `Rdmo1` )&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>XenosShell/FreeRDP</title>
-    <updated>2024-04-10T01:24:08Z</updated>
-    <id>tag:github.com,2024-04-10:/XenosShell/FreeRDP</id>
-    <link href="https://github.com/XenosShell/FreeRDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free RDP 6 HOURS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Zuntan03/EasyLightChatAssistant</title>
-    <updated>2024-04-10T01:24:08Z</updated>
-    <id>tag:github.com,2024-04-10:/Zuntan03/EasyLightChatAssistant</id>
-    <link href="https://github.com/Zuntan03/EasyLightChatAssistant" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;EasyLightChatAssistant は軽量で検閲や規制のないローカル日本語モデルのLightChatAssistant を、KoboldCpp で簡単にお試しする環境です。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>conda-forge/libdispatch-feedstock</title>
+    <updated>2024-04-11T01:24:52Z</updated>
+    <id>tag:github.com,2024-04-11:/conda-forge/libdispatch-feedstock</id>
+    <link href="https://github.com/conda-forge/libdispatch-feedstock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conda-smithy repository for libdispatch.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

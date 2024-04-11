@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Lua Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-11T01:32:02Z</updated>
+  <subtitle>Daily Trending of Lua in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Copiums/Copium</title>
+    <updated>2024-04-11T01:32:02Z</updated>
+    <id>tag:github.com,2024-04-11:/Copiums/Copium</id>
+    <link href="https://github.com/Copiums/Copium" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Just another configuration and Installer for Roblox Vape&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Velocity Copium&lt;/h1&gt; &#xA;&lt;p&gt;Just another configuration and Installer for Roblox Vape. THIS SHIT IS STILL IN BETA, MORE UPDATES TO COME.&lt;/p&gt; &#xA;&lt;h2&gt;a Configuration AND a collection of &lt;em&gt;good&lt;/em&gt; render configs Of Vape V4&lt;/h2&gt; &#xA;&lt;h1&gt;IF YOU&#39;RE INSTALLING VELOCITY:&lt;/h1&gt; &#xA;&lt;p&gt;First step, please follow the youtube video. IT&#39;S BASED ON THE YOUTUBE VIDEO SO GO WATCH IT BEFORE INSTALLING.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;loadstring(game:HttpGet(&#34;https://raw.githubusercontent.com/Copiums/Velocity/main/NewMainScript.lua&#34;, true))()&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;After executing first script, UNINJECT. Now for the Second step, please follow the youtube video. Configs -&amp;gt; Velocity&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;loadstring(game:HttpGet(&#34;https://raw.githubusercontent.com/Copiums/Copium/main/Installer.lua&#34;, true))()&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Thrid step, please follow the youtube video. Execute this loadstring ONLY.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;loadstring(game:HttpGet(&#34;https://raw.githubusercontent.com/Copiums/Velocity/main/NewMainScript.lua&#34;, true))()&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Check these out too! The other best scripts and configs!&lt;/h1&gt; &#xA;&lt;h3&gt;Render Red Server: &lt;a href=&#34;https://discord.gg/qH2WC6PCFk&#34;&gt;https://discord.gg/qH2WC6PCFk&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;h3&gt;Render Etruia Server: &lt;a href=&#34;https://discord.gg/A9gkTFYX&#34;&gt;https://discord.gg/A9gkTFYX&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;h3&gt;Normal Render Server: &lt;a href=&#34;https://discord.gg/render&#34;&gt;https://discord.gg/render&lt;/a&gt;&lt;/h3&gt;</summary>
+  </entry>
+</feed>

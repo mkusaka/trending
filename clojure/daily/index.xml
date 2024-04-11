@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-10T01:25:24Z</updated>
+  <updated>2024-04-11T01:26:09Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>scicloj/noj</title>
-    <updated>2024-04-10T01:25:24Z</updated>
-    <id>tag:github.com,2024-04-10:/scicloj/noj</id>
-    <link href="https://github.com/scicloj/noj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A clojure framework for data science&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>geodrome/entity-graph</title>
-    <updated>2024-04-10T01:25:24Z</updated>
-    <id>tag:github.com,2024-04-10:/geodrome/entity-graph</id>
-    <link href="https://github.com/geodrome/entity-graph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Immutable data store with pull query support for for Clojure, ClojureScript.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

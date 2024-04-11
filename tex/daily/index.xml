@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-10T01:37:50Z</updated>
+  <updated>2024-04-11T01:38:02Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hunsa/sc24-repro</title>
-    <updated>2024-04-10T01:37:50Z</updated>
-    <id>tag:github.com,2024-04-10:/hunsa/sc24-repro</id>
-    <link href="https://github.com/hunsa/sc24-repro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;SC24 Reproducibility Initiative&lt;/h1&gt; &#xA;&lt;h2&gt;About&lt;/h2&gt; &#xA;&lt;p&gt;This repository functions as an extra source of information on topics associated with the &lt;a href=&#34;https://sc24.supercomputing.org/program/papers/reproducibility-initiative/&#34;&gt;Reproducibility Initiative at SC24.&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;For SC24 Paper Authors&lt;/h2&gt; &#xA;&lt;p&gt;A LaTeX template for the AD/AE Appendices is provided in &lt;a href=&#34;https://raw.githubusercontent.com/hunsa/sc24-repro/main/for-paper-authors&#34;&gt;for-paper-authors&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Paper authors should carefully read the instructions on the &lt;a href=&#34;https://sc24.supercomputing.org/program/papers/reproducibility-appendices-badges/&#34;&gt;SC24 AD/AE Process &amp;amp; Badges page&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;For AE Reviewers (Reproducibility / SC24 Planning Committee)&lt;/h2&gt;</summary>
+    <title>sysprog21/concurrency-primer</title>
+    <updated>2024-04-11T01:38:02Z</updated>
+    <id>tag:github.com,2024-04-11:/sysprog21/concurrency-primer</id>
+    <link href="https://github.com/sysprog21/concurrency-primer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Concurrency Primer&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Concurrency Primer&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains the LaTeX source for a pretentiously-named, but hopefully concise, introduction to low-level concurrency.&lt;/p&gt; &#xA;&lt;h2&gt;How do I build it?&lt;/h2&gt; &#xA;&lt;p&gt;Install a modern, Unicode-aware LaTeX, such as LuaLaTeX. On Linux, this is usually as simple as installing the system TeX Live package, e.g., &lt;code&gt;texlive-base&lt;/code&gt; or &lt;code&gt;texlive-core&lt;/code&gt;. The same package should also provide the &lt;code&gt;latexmk&lt;/code&gt; script. (See below)&lt;/p&gt; &#xA;&lt;p&gt;Install &lt;a href=&#34;http://pygments.org/&#34;&gt;pygments&lt;/a&gt;, a Python syntax highlighter. This is used by the LaTeX package &lt;a href=&#34;https://ctan.org/tex-archive/macros/latex/contrib/minted/&#34;&gt;minted&lt;/a&gt; to handle our syntax highlighting.&lt;/p&gt; &#xA;&lt;p&gt;Build the document using&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;$ make&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Note that &lt;code&gt;latexmk&lt;/code&gt; will run LuaLaTeX multiple times, since TeX generates cross references in one pass, then links them in a second.&lt;/p&gt; &#xA;&lt;p&gt;If you can&#39;t use &lt;code&gt;latexmk&lt;/code&gt; for some reason, you can manually invoke&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;$ lualatex -halt-on-error -shell-escape concurrency-primer.tex&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;until it no longer warns, &#34;Label(s) may have changed. Rerun to get cross-references right.&#34;&lt;/p&gt; &#xA;&lt;p&gt;Enjoy a typeset &lt;code&gt;concurrency-primer.pdf&lt;/code&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>

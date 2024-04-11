@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-10T01:28:49Z</updated>
+  <updated>2024-04-11T01:29:20Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>osnr/pinhole</title>
-    <updated>2024-04-10T01:28:49Z</updated>
-    <id>tag:github.com,2024-04-10:/osnr/pinhole</id>
-    <link href="https://github.com/osnr/pinhole" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚪ Falling ball toy. See the future!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

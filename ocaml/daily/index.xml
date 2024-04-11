@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-10T01:33:06Z</updated>
+  <updated>2024-04-11T01:33:37Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JoshCooper417/TetrisInOat</title>
+    <updated>2024-04-11T01:33:37Z</updated>
+    <id>tag:github.com,2024-04-11:/JoshCooper417/TetrisInOat</id>
+    <link href="https://github.com/JoshCooper417/TetrisInOat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thomas-moulard/mpri-reecriture</title>
+    <updated>2024-04-11T01:33:37Z</updated>
+    <id>tag:github.com,2024-04-11:/thomas-moulard/mpri-reecriture</id>
+    <link href="https://github.com/thomas-moulard/mpri-reecriture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jewelltaylor/camlgrad</title>
+    <updated>2024-04-11T01:33:37Z</updated>
+    <id>tag:github.com,2024-04-11:/jewelltaylor/camlgrad</id>
+    <link href="https://github.com/jewelltaylor/camlgrad" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Toy autograd engine in OCaml with Apple Accelerate backend&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
