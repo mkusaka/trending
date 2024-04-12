@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-11T01:32:15Z</updated>
+  <updated>2024-04-12T01:35:18Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wbuntu/images</title>
+    <updated>2024-04-12T01:35:18Z</updated>
+    <id>tag:github.com,2024-04-12:/wbuntu/images</id>
+    <link href="https://github.com/wbuntu/images" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;custom image collections&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iagosilvestre/Driver-Booster-cracked</title>
+    <updated>2024-04-12T01:35:18Z</updated>
+    <id>tag:github.com,2024-04-12:/iagosilvestre/Driver-Booster-cracked</id>
+    <link href="https://github.com/iagosilvestre/Driver-Booster-cracked" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Driver Booster can quickly check, download and install device drivers in Thanks to the quick fix , your PC&#39;s system and external devices will work smoothly again. Driver Booster can install drivers for graphics cards and much more, and you can download it from us via the link-button.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PretendoNetwork/Nimble</title>
+    <updated>2024-04-12T01:35:18Z</updated>
+    <id>tag:github.com,2024-04-12:/PretendoNetwork/Nimble</id>
+    <link href="https://github.com/PretendoNetwork/Nimble" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wii U Pretendo Network BOSS setup module (Aroma)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

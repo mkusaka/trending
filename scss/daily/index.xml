@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-11T01:36:31Z</updated>
+  <updated>2024-04-12T01:41:31Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SublimeText/Sass</title>
-    <updated>2024-04-11T01:36:31Z</updated>
-    <id>tag:github.com,2024-04-11:/SublimeText/Sass</id>
-    <link href="https://github.com/SublimeText/Sass" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sass and SCSS syntax for Sublime Text&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AI4ALL-Offical/GitHub_Pages_Template</title>
+    <updated>2024-04-12T01:41:31Z</updated>
+    <id>tag:github.com,2024-04-12:/AI4ALL-Offical/GitHub_Pages_Template</id>
+    <link href="https://github.com/AI4ALL-Offical/GitHub_Pages_Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This README template provides a structured format for creating comprehensive and professional project documentation for AI projects developed within the AI4ALL program. It includes essential sections to effectively present project overviews, usage instructions, technologies used, key features, and more.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>theopenconversationkit/tock-vue-kit</title>
-    <updated>2024-04-11T01:36:31Z</updated>
-    <id>tag:github.com,2024-04-11:/theopenconversationkit/tock-vue-kit</id>
-    <link href="https://github.com/theopenconversationkit/tock-vue-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue app to embed Tock chatbots into web interfaces.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Loredana-Lungu/Ice-Cream-project-team-no1</title>
+    <updated>2024-04-12T01:41:31Z</updated>
+    <id>tag:github.com,2024-04-12:/Loredana-Lungu/Ice-Cream-project-team-no1</id>
+    <link href="https://github.com/Loredana-Lungu/Ice-Cream-project-team-no1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

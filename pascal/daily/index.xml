@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-11T01:34:01Z</updated>
+  <updated>2024-04-12T01:37:42Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>havrlisan/zx-skiacomponents</title>
-    <updated>2024-04-11T01:34:01Z</updated>
-    <id>tag:github.com,2024-04-11:/havrlisan/zx-skiacomponents</id>
-    <link href="https://github.com/havrlisan/zx-skiacomponents" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Delphi components based on the Skia framework.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DokkaUbik/Pascale</title>
+    <updated>2024-04-12T01:37:42Z</updated>
+    <id>tag:github.com,2024-04-12:/DokkaUbik/Pascale</id>
+    <link href="https://github.com/DokkaUbik/Pascale" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Задачи паскаль&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

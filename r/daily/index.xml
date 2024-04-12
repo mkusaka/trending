@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-11T01:35:20Z</updated>
+  <updated>2024-04-12T01:39:50Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>naomitague/ESM232_Examples_S24</title>
-    <updated>2024-04-11T01:35:20Z</updated>
-    <id>tag:github.com,2024-04-11:/naomitague/ESM232_Examples_S24</id>
-    <link href="https://github.com/naomitague/ESM232_Examples_S24" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material for ESM232 Course&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Used to transfer material to students in the course&lt;/p&gt;</summary>
+    <title>yhat/yhatr</title>
+    <updated>2024-04-12T01:39:50Z</updated>
+    <id>tag:github.com,2024-04-12:/yhat/yhatr</id>
+    <link href="https://github.com/yhat/yhatr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;wrapper for the yhat API&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;yhatr&lt;/h1&gt; &#xA;&lt;p&gt;For documentation see: &lt;a href=&#34;http://docs.yhathq.com/r/&#34;&gt;http://docs.yhathq.com/r/&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

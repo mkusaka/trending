@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-11T01:32:53Z</updated>
+  <updated>2024-04-12T01:36:08Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kubeslice/kubeslice</title>
-    <updated>2024-04-11T01:32:53Z</updated>
-    <id>tag:github.com,2024-04-11:/kubeslice/kubeslice</id>
-    <link href="https://github.com/kubeslice/kubeslice" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Applications provided by Avesha Systems, ready to launch on Kubernetes using Kubernetes Helm.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>puppetlabs/puppetserver-helm-chart</title>
-    <updated>2024-04-11T01:32:53Z</updated>
-    <id>tag:github.com,2024-04-11:/puppetlabs/puppetserver-helm-chart</id>
-    <link href="https://github.com/puppetlabs/puppetserver-helm-chart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Helm Chart for Puppet Server&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DEL-ORG/s6-revive-chart-repo</title>
-    <updated>2024-04-11T01:32:53Z</updated>
-    <id>tag:github.com,2024-04-11:/DEL-ORG/s6-revive-chart-repo</id>
-    <link href="https://github.com/DEL-ORG/s6-revive-chart-repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;helm charts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
