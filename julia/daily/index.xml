@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-12T01:33:42Z</updated>
+  <updated>2024-04-13T01:25:39Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>byuflowlab/VortexLattice.jl</title>
-    <updated>2024-04-12T01:33:42Z</updated>
-    <id>tag:github.com,2024-04-12:/byuflowlab/VortexLattice.jl</id>
-    <link href="https://github.com/byuflowlab/VortexLattice.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Comprehensive Julia implementation of the Vortex Lattice Method&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaHealth/KomaMRI.jl</title>
+    <updated>2024-04-13T01:25:39Z</updated>
+    <id>tag:github.com,2024-04-13:/JuliaHealth/KomaMRI.jl</id>
+    <link href="https://github.com/JuliaHealth/KomaMRI.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Koma is a Pulseq-compatible framework to efficiently simulate Magnetic Resonance Imaging (MRI) acquisitions. The main focus of this package is to simulate general scenarios that could arise in pulse sequence development.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TidierOrg/TidierDB.jl</title>
-    <updated>2024-04-12T01:33:42Z</updated>
-    <id>tag:github.com,2024-04-12:/TidierOrg/TidierDB.jl</id>
-    <link href="https://github.com/TidierOrg/TidierDB.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tidier database analysis in Julia, modeled after the dbplyr R package.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ferrite-FEM/FerriteInterfaceElements.jl</title>
+    <updated>2024-04-13T01:25:39Z</updated>
+    <id>tag:github.com,2024-04-13:/Ferrite-FEM/FerriteInterfaceElements.jl</id>
+    <link href="https://github.com/Ferrite-FEM/FerriteInterfaceElements.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interface elements (aka cohesive elements) for Ferrite.jl&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EnzymeAD/Reactant.jl</title>
+    <updated>2024-04-13T01:25:39Z</updated>
+    <id>tag:github.com,2024-04-13:/EnzymeAD/Reactant.jl</id>
+    <link href="https://github.com/EnzymeAD/Reactant.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

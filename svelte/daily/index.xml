@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-12T01:42:57Z</updated>
+  <updated>2024-04-13T01:34:19Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>opea-project/GenAIExamples</title>
-    <updated>2024-04-12T01:42:57Z</updated>
-    <id>tag:github.com,2024-04-12:/opea-project/GenAIExamples</id>
-    <link href="https://github.com/opea-project/GenAIExamples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hugoycj/3dgs-library</title>
+    <updated>2024-04-13T01:34:19Z</updated>
+    <id>tag:github.com,2024-04-13:/hugoycj/3dgs-library</id>
+    <link href="https://github.com/hugoycj/3dgs-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An awesome 3DGS models library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>9KicksXCUmart/9KicksShop</title>
-    <updated>2024-04-12T01:42:57Z</updated>
-    <id>tag:github.com,2024-04-12:/9KicksXCUmart/9KicksShop</id>
-    <link href="https://github.com/9KicksXCUmart/9KicksShop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DorielRivalet/wycademy</title>
+    <updated>2024-04-13T01:34:19Z</updated>
+    <id>tag:github.com,2024-04-13:/DorielRivalet/wycademy</id>
+    <link href="https://github.com/DorielRivalet/wycademy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A compendium of resources for Monster Hunter Frontier Z (MHF-Z).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

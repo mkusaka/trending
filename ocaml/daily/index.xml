@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-12T01:37:09Z</updated>
+  <updated>2024-04-13T01:28:46Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>art-w/granular_marshal</title>
+    <updated>2024-04-13T01:28:46Z</updated>
+    <id>tag:github.com,2024-04-13:/art-w/granular_marshal</id>
+    <link href="https://github.com/art-w/granular_marshal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>suri-framework/trail</title>
+    <updated>2024-04-13T01:28:46Z</updated>
+    <id>tag:github.com,2024-04-13:/suri-framework/trail</id>
+    <link href="https://github.com/suri-framework/trail" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimal composable server framework for Riot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

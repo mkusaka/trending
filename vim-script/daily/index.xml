@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-12T01:44:45Z</updated>
+  <updated>2024-04-13T01:36:05Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DVD/vimfiles</title>
-    <updated>2024-04-12T01:44:45Z</updated>
-    <id>tag:github.com,2024-04-12:/DVD/vimfiles</id>
-    <link href="https://github.com/DVD/vimfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim configuration&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chase/vim-ansible-yaml</title>
-    <updated>2024-04-12T01:44:45Z</updated>
-    <id>tag:github.com,2024-04-12:/chase/vim-ansible-yaml</id>
-    <link href="https://github.com/chase/vim-ansible-yaml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Add additional support for Ansible in VIM&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

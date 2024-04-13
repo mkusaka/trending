@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-12T01:37:49Z</updated>
+  <updated>2024-04-13T01:29:24Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>limitusus/Data-Compare-Module</title>
+    <updated>2024-04-13T01:29:24Z</updated>
+    <id>tag:github.com,2024-04-13:/limitusus/Data-Compare-Module</id>
+    <link href="https://github.com/limitusus/Data-Compare-Module" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NAME&lt;/h1&gt; &#xA;&lt;p&gt;Data::Compare::Module - compare perl module namespaces&lt;/p&gt; &#xA;&lt;h1&gt;SYNOPSIS&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;use Data::Compare::Module;&#xA;&#xA;&#xA;my ($only_a, $only_b) = Data::Compare::Module::compare(&#34;Module::A&#34;, &#34;Module::B&#34;);&#xA;&#xA;&#xA;### Objective manner&#xA;my $c = Data::Compare::Module-&amp;gt;new;&#xA;my ($only_a, $only_b) = $c-&amp;gt;compare(&#39;Module::A&#39;, &#39;Module::B&#39;);&#xA;&#xA;&#xA;my $c = Data::Compare::Module-&amp;gt;new(&#39;Module::A&#39;, &#39;Module::B&#39;);&#xA;my ($only_a, $only_b) = $c-&amp;gt;compare;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;DESCRIPTION&lt;/h1&gt; &#xA;&lt;p&gt;Data::Compare::Module is to compare two modules&#39; namespaces.&lt;/p&gt; &#xA;&lt;h1&gt;AUTHOR&lt;/h1&gt; &#xA;&lt;p&gt;Tomoya KABE &lt;a href=&#34;mailto:limitusus@cpan.org&#34;&gt;limitusus@cpan.org&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;COPYRIGHT&lt;/h1&gt; &#xA;&lt;p&gt;Copyright 2013- Tomoya KABE&lt;/p&gt; &#xA;&lt;h1&gt;LICENSE&lt;/h1&gt; &#xA;&lt;p&gt;This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.&lt;/p&gt; &#xA;&lt;h1&gt;SEE ALSO&lt;/h1&gt;</summary>
+  </entry>
 </feed>

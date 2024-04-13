@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-12T01:24:11Z</updated>
+  <updated>2024-04-13T01:15:55Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zhuima/awesome-cloudflare</title>
-    <updated>2024-04-12T01:24:11Z</updated>
-    <id>tag:github.com,2024-04-12:/zhuima/awesome-cloudflare</id>
-    <link href="https://github.com/zhuima/awesome-cloudflare" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WUYANXIUSHI/BLACK_NEWS</title>
+    <updated>2024-04-13T01:15:55Z</updated>
+    <id>tag:github.com,2024-04-13:/WUYANXIUSHI/BLACK_NEWS</id>
+    <link href="https://github.com/WUYANXIUSHI/BLACK_NEWS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;北京邮电大学郑凤事件完整pdf&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ga642381/speech-trident</title>
-    <updated>2024-04-12T01:24:11Z</updated>
-    <id>tag:github.com,2024-04-12:/ga642381/speech-trident</id>
-    <link href="https://github.com/ga642381/speech-trident" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome speech/audio LLMs, representation learning, and codec models&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Edr4/XSS-Bypass-Filters</title>
+    <updated>2024-04-13T01:15:55Z</updated>
+    <id>tag:github.com,2024-04-13:/Edr4/XSS-Bypass-Filters</id>
+    <link href="https://github.com/Edr4/XSS-Bypass-Filters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eric-ai-lab/swap-anything</title>
+    <updated>2024-04-13T01:15:55Z</updated>
+    <id>tag:github.com,2024-04-13:/eric-ai-lab/swap-anything</id>
+    <link href="https://github.com/eric-ai-lab/swap-anything" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

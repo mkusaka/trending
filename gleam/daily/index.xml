@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gleam Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-12T01:30:32Z</updated>
+  <updated>2024-04-13T01:22:27Z</updated>
   <subtitle>Daily Trending of Gleam in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aosasona/dotenv</title>
-    <updated>2024-04-12T01:30:32Z</updated>
-    <id>tag:github.com,2024-04-12:/aosasona/dotenv</id>
-    <link href="https://github.com/aosasona/dotenv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Gleam port of the popular JavaScript DotEnv package that helps you load environment variables from .env (or other) files.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bcpeinhardt/code_review</title>
+    <updated>2024-04-13T01:22:27Z</updated>
+    <id>tag:github.com,2024-04-13:/bcpeinhardt/code_review</id>
+    <link href="https://github.com/bcpeinhardt/code_review" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A linter for Gleam, written in Gleam&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

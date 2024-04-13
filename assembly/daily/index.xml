@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-12T01:25:15Z</updated>
+  <updated>2024-04-13T01:17:05Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rbmm/ARL</title>
-    <updated>2024-04-12T01:25:15Z</updated>
-    <id>tag:github.com,2024-04-12:/rbmm/ARL</id>
-    <link href="https://github.com/rbmm/ARL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ReferTV/Assembly-Calculator</title>
-    <updated>2024-04-12T01:25:15Z</updated>
-    <id>tag:github.com,2024-04-12:/ReferTV/Assembly-Calculator</id>
-    <link href="https://github.com/ReferTV/Assembly-Calculator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Simple Calculator project is a demonstration of basic arithmetic operations implemented in x86_64 assembly language. This project serves as an educational resource for those interested in learning about low-level programming and computer architecture.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>unicornx/mystudynotes</title>
+    <updated>2024-04-13T01:17:05Z</updated>
+    <id>tag:github.com,2024-04-13:/unicornx/mystudynotes</id>
+    <link href="https://github.com/unicornx/mystudynotes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;To archive all my study notes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
