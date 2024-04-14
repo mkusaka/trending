@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-14T01:51:52Z</updated>
+  <subtitle>Weekly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>m4b/cloaked-robot</title>
+    <updated>2024-04-14T01:51:52Z</updated>
+    <id>tag:github.com,2024-04-14:/m4b/cloaked-robot</id>
+    <link href="https://github.com/m4b/cloaked-robot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;compilers final project --- Data Flow&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cloaked-robot&lt;/h1&gt; &#xA;&lt;p&gt;compilers final project --- Data Flow&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>necrobious/uuid-aeson</title>
+    <updated>2024-04-14T01:51:52Z</updated>
+    <id>tag:github.com,2024-04-14:/necrobious/uuid-aeson</id>
+    <link href="https://github.com/necrobious/uuid-aeson" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aeson types for UUID instances.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;uuid-aeson&lt;/h1&gt; &#xA;&lt;p&gt;Aeson types for UUID instances.&lt;/p&gt; &#xA;&lt;h1&gt;example&lt;/h1&gt; &#xA;&lt;p&gt;Data.UUID.Aeson Data.UUID.V4 Data.Aeson Control.Monad&amp;gt; liftM (fromJSON .toJSON) nextRandom :: IO (Result UUID)&lt;/p&gt; &#xA;&lt;p&gt;Success 99644d7c-298c-44a9-b9bb-d0ca9940cc4e&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>haskell-suite/base</title>
+    <updated>2024-04-14T01:51:52Z</updated>
+    <id>tag:github.com,2024-04-14:/haskell-suite/base</id>
+    <link href="https://github.com/haskell-suite/base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;To compile with haskell-names do&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cabal install --haskell-suite -w hs-gen-iface --gcc-option=-I/usr/lib/ghc/include --extra-include-dirs=/usr/lib/ghc/include --solver=topdown -f include-ghc-prim&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+</feed>

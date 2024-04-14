@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Stata Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-14T01:59:38Z</updated>
+  <subtitle>Weekly Trending of Stata in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sergiocorreia/ivreghdfe</title>
+    <updated>2024-04-14T01:59:38Z</updated>
+    <id>tag:github.com,2024-04-14:/sergiocorreia/ivreghdfe</id>
+    <link href="https://github.com/sergiocorreia/ivreghdfe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run IV/2SLS with many levels of fixed effects (i.e. ivreg2+reghdfe)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-13T01:34:59Z</updated>
+  <updated>2024-04-14T01:44:13Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PetarV-/TikZ</title>
-    <updated>2024-04-13T01:34:59Z</updated>
-    <id>tag:github.com,2024-04-13:/PetarV-/TikZ</id>
-    <link href="https://github.com/PetarV-/TikZ" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Complete collection of my PGF/TikZ figures.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ti&lt;em&gt;k&lt;/em&gt;Z&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;&lt;em&gt;TikZ ist kein Zeichnenprogramm&lt;/em&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Complete collection of my PGF/TikZ figures. I will do my best to keep it updated as soon as new figures are published.&lt;/p&gt; &#xA;&lt;h2&gt;Thanks&lt;/h2&gt; &#xA;&lt;p&gt;This collection could not have been made possible without the help of the following resources:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://www.texample.net&#34;&gt;TeXample&lt;/a&gt;; the figures from here often provide a solid starting point.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://tex.stackexchange.com&#34;&gt;LaTeX Stack Exchange&lt;/a&gt;; threads from here are typically the first results that pop up when googling for a particular technique/problem.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;MIT&lt;/p&gt;</summary>
+    <title>FrogGuaGuaGua/HighSchoolMathematics</title>
+    <updated>2024-04-14T01:44:13Z</updated>
+    <id>tag:github.com,2024-04-14:/FrogGuaGuaGua/HighSchoolMathematics</id>
+    <link href="https://github.com/FrogGuaGuaGua/HighSchoolMathematics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High school mathematics.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;High school mathematics from an engineer&#39;s perspective. 注意把“矢量PDF图形”文件夹中的PDF文件取出来，与tex文件放在同一文件夹下才能编译。等我哪天有时间了，把tex文件中\includegraphics后面的路径用“全部替换”大法通通加上文件夹名称，就不用把pdf文件取出文件夹了。&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>alaarman/taiwan-2024</title>
-    <updated>2024-04-13T01:34:59Z</updated>
-    <id>tag:github.com,2024-04-13:/alaarman/taiwan-2024</id>
-    <link href="https://github.com/alaarman/taiwan-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;beamer-universiteit-leiden&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/TAdeJong/beamer-universiteit-leiden/raw/master/graphics/example.png&#34; alt=&#34;example image&#34;&gt; An unofficial LaTeX beamer template for scientific presentations in Universiteit Leiden layout, as described on &lt;a href=&#34;https://huisstijl.leidenuniv.nl/en/&#34;&gt;their website&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;A working example showcasing some of the functionality is provided in &lt;a href=&#34;https://raw.githubusercontent.com/alaarman/taiwan-2024/master/minimal.tex&#34;&gt;minimal.tex&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;A &lt;a href=&#34;https://raw.githubusercontent.com/alaarman/taiwan-2024/master/leidenuniv.mplstyle&#34;&gt;matplotlib-style file&lt;/a&gt; is provided. Put the file in the same directory as you plotting code and add the following to the plot script to use:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;import matplotlib.pyplot as plt&#xA;plt.style.use(&#39;./leidenuniv.mplstyle&#39;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Any presentation needs to be compiled using &lt;code&gt;xelatex&lt;/code&gt; in order to support the fonts.&lt;/li&gt; &#xA; &lt;li&gt;Recent version of FontSpec to enable font-fallback.&lt;/li&gt; &#xA; &lt;li&gt;The fonts &lt;em&gt;Vestula&lt;/em&gt; or &lt;em&gt;Minion&lt;/em&gt; are recommended for layout, but can not be redistributed.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>masa-finance/whitepaper</title>
+    <updated>2024-04-14T01:44:13Z</updated>
+    <id>tag:github.com,2024-04-14:/masa-finance/whitepaper</id>
+    <link href="https://github.com/masa-finance/whitepaper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Masa Protocol whitepaper&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Masa V3&lt;/h1&gt;</summary>
   </entry>
   <entry>
-    <title>cs573-24s/prospectus</title>
-    <updated>2024-04-13T01:34:59Z</updated>
-    <id>tag:github.com,2024-04-13:/cs573-24s/prospectus</id>
-    <link href="https://github.com/cs573-24s/prospectus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Research project prospectus&lt;/h1&gt; &#xA;&lt;p&gt;Files &amp;amp; examples you&#39;ll need to create a good prospectus.&lt;/p&gt;</summary>
+    <title>tddg/project_latex_template</title>
+    <updated>2024-04-14T01:44:13Z</updated>
+    <id>tag:github.com,2024-04-14:/tddg/project_latex_template</id>
+    <link href="https://github.com/tddg/project_latex_template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Template of DS5110/CS5501 Project Report&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.latex-project.org/&#34;&gt;Latex&lt;/a&gt; is a software system for document preparation. When writing, the writer uses plain text as opposed to the formatted text found in &lt;a href=&#34;https://en.wikipedia.org/wiki/WYSIWYG&#34;&gt;WYSIWYG&lt;/a&gt; (what you see is what you get) word processors like Microsoft Word and Google Doc.&lt;/p&gt; &#xA;&lt;p&gt;For Checkpoint #2 report, you may comment out &lt;code&gt;\input{metadata}&lt;/code&gt; in &lt;code&gt;paper.tex&lt;/code&gt; as &lt;code&gt;metadata.tex&lt;/code&gt; will only be used for the final report.&lt;/p&gt; &#xA;&lt;p&gt;The repo includes a makefile so you can directly &lt;code&gt;make&lt;/code&gt; the PDF locally if your computer has latex installed..&lt;/p&gt; &#xA;&lt;p&gt;More conveniently, you could use hosted Latex service such as Overleaf (&lt;a href=&#34;https://www.overleaf.com/&#34;&gt;https://www.overleaf.com/&lt;/a&gt;) for collaborative latex editing with your teammates.&lt;/p&gt;</summary>
   </entry>
 </feed>

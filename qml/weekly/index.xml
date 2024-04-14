@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub QML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-14T01:57:48Z</updated>
+  <subtitle>Weekly Trending of QML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>qgisau/QGISAU-Resources</title>
+    <updated>2024-04-14T01:57:48Z</updated>
+    <id>tag:github.com,2024-04-14:/qgisau/QGISAU-Resources</id>
+    <link href="https://github.com/qgisau/QGISAU-Resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Models created by the QGIS AU community&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

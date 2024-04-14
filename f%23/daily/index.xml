@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-13T01:21:38Z</updated>
+  <updated>2024-04-14T01:34:23Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>akimboyko/DojoConwaysGameOfLife</title>
-    <updated>2024-04-13T01:21:38Z</updated>
-    <id>tag:github.com,2024-04-13:/akimboyko/DojoConwaysGameOfLife</id>
-    <link href="https://github.com/akimboyko/DojoConwaysGameOfLife" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Yet another Conway&#39;s Game of Life&lt;/h1&gt; &#xA;&lt;h2&gt;Coderetreat 20130427&lt;/h2&gt; &#xA;&lt;p&gt;Implementation details&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Inspired by CodeRetreat session at Kiev 27th of April&lt;/li&gt; &#xA; &lt;li&gt;All collections are immutable, implemented by&lt;code&gt;Microsoft.Bcl.Immutable&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;ImmutableHashSet&lt;/code&gt;, &lt;code&gt;ImmutableQueue&lt;/code&gt; and &lt;code&gt;ImmutableList&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Using of ex-&lt;code&gt;builder&lt;/code&gt; concept like &lt;code&gt;ImmutableQueue.Create(collection)&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;All game related algorithms are implemented using &lt;code&gt;LINQ to Objects&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Game itself is running from console using ScriptCS script&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Coderetreat 20131214&lt;/h2&gt; &#xA;&lt;p&gt;Scala based implementation&lt;/p&gt;</summary>
-  </entry>
 </feed>

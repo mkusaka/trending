@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-14T01:48:19Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tier4/tier4_autoware_msgs</title>
+    <updated>2024-04-14T01:48:19Z</updated>
+    <id>tag:github.com,2024-04-14:/tier4/tier4_autoware_msgs</id>
+    <link href="https://github.com/tier4/tier4_autoware_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TIER IV&#39;s extension messages for Autoware&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

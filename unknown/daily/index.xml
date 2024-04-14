@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-13T01:15:55Z</updated>
+  <updated>2024-04-14T01:30:10Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WUYANXIUSHI/BLACK_NEWS</title>
-    <updated>2024-04-13T01:15:55Z</updated>
-    <id>tag:github.com,2024-04-13:/WUYANXIUSHI/BLACK_NEWS</id>
-    <link href="https://github.com/WUYANXIUSHI/BLACK_NEWS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;北京邮电大学郑凤事件完整pdf&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Abhay5855/Mission-frontend</title>
+    <updated>2024-04-14T01:30:10Z</updated>
+    <id>tag:github.com,2024-04-14:/Abhay5855/Mission-frontend</id>
+    <link href="https://github.com/Abhay5855/Mission-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of Javascript, React, Machine coding problems, Pattern questions, basic backend knowledge and fundamentals questions all in one.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Edr4/XSS-Bypass-Filters</title>
-    <updated>2024-04-13T01:15:55Z</updated>
-    <id>tag:github.com,2024-04-13:/Edr4/XSS-Bypass-Filters</id>
-    <link href="https://github.com/Edr4/XSS-Bypass-Filters" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SamurAIGPT/Best-AI-Agents</title>
+    <updated>2024-04-14T01:30:10Z</updated>
+    <id>tag:github.com,2024-04-14:/SamurAIGPT/Best-AI-Agents</id>
+    <link href="https://github.com/SamurAIGPT/Best-AI-Agents" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of top AI agents&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>eric-ai-lab/swap-anything</title>
-    <updated>2024-04-13T01:15:55Z</updated>
-    <id>tag:github.com,2024-04-13:/eric-ai-lab/swap-anything</id>
-    <link href="https://github.com/eric-ai-lab/swap-anything" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DEBAGanov/interview_questions</title>
+    <updated>2024-04-14T01:30:10Z</updated>
+    <id>tag:github.com,2024-04-14:/DEBAGanov/interview_questions</id>
+    <link href="https://github.com/DEBAGanov/interview_questions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Java Developer Interview Preparation Materials&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

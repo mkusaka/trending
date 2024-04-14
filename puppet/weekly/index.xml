@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-14T01:57:21Z</updated>
+  <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>netmanagers/puppet-fail2ban</title>
+    <updated>2024-04-14T01:57:21Z</updated>
+    <id>tag:github.com,2024-04-14:/netmanagers/puppet-fail2ban</id>
+    <link href="https://github.com/netmanagers/puppet-fail2ban" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[UNMAINTAINED] Puppet module to manage fail2ban&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

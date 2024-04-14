@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-13T01:25:39Z</updated>
+  <updated>2024-04-14T01:37:09Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaHealth/KomaMRI.jl</title>
-    <updated>2024-04-13T01:25:39Z</updated>
-    <id>tag:github.com,2024-04-13:/JuliaHealth/KomaMRI.jl</id>
-    <link href="https://github.com/JuliaHealth/KomaMRI.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Koma is a Pulseq-compatible framework to efficiently simulate Magnetic Resonance Imaging (MRI) acquisitions. The main focus of this package is to simulate general scenarios that could arise in pulse sequence development.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>simone-silvestri/NESAPOceananigans.jl</title>
+    <updated>2024-04-14T01:37:09Z</updated>
+    <id>tag:github.com,2024-04-14:/simone-silvestri/NESAPOceananigans.jl</id>
+    <link href="https://github.com/simone-silvestri/NESAPOceananigans.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Performance tests for Oceananigans&#39; NESAP project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Ferrite-FEM/FerriteInterfaceElements.jl</title>
-    <updated>2024-04-13T01:25:39Z</updated>
-    <id>tag:github.com,2024-04-13:/Ferrite-FEM/FerriteInterfaceElements.jl</id>
-    <link href="https://github.com/Ferrite-FEM/FerriteInterfaceElements.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interface elements (aka cohesive elements) for Ferrite.jl&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CliMA/LazyBroadcast.jl</title>
+    <updated>2024-04-14T01:37:09Z</updated>
+    <id>tag:github.com,2024-04-14:/CliMA/LazyBroadcast.jl</id>
+    <link href="https://github.com/CliMA/LazyBroadcast.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A package for constructing Broadcasted objects from broadcast expressions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EnzymeAD/Reactant.jl</title>
-    <updated>2024-04-13T01:25:39Z</updated>
-    <id>tag:github.com,2024-04-13:/EnzymeAD/Reactant.jl</id>
-    <link href="https://github.com/EnzymeAD/Reactant.jl" rel="alternate"></link>
+    <title>CliMA/OceananigansArtifacts.jl-new</title>
+    <updated>2024-04-14T01:37:09Z</updated>
+    <id>tag:github.com,2024-04-14:/CliMA/OceananigansArtifacts.jl-new</id>
+    <link href="https://github.com/CliMA/OceananigansArtifacts.jl-new" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

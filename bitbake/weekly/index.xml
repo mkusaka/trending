@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub BitBake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-14T01:47:18Z</updated>
+  <subtitle>Weekly Trending of BitBake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TimesysGit/meta-timesys</title>
+    <updated>2024-04-14T01:47:18Z</updated>
+    <id>tag:github.com,2024-04-14:/TimesysGit/meta-timesys</id>
+    <link href="https://github.com/TimesysGit/meta-timesys" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vulnerability management tool that provides Yocto SBOM generation and CVE Analysis of target images.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>STMicroelectronics/meta-st-stm32mp</title>
+    <updated>2024-04-14T01:47:18Z</updated>
+    <id>tag:github.com,2024-04-14:/STMicroelectronics/meta-st-stm32mp</id>
+    <link href="https://github.com/STMicroelectronics/meta-st-stm32mp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;meta-st-stm32mp&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
