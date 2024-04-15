@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-14T01:35:26Z</updated>
+  <updated>2024-04-15T02:52:00Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jbrisbin/spring-riak</title>
+    <updated>2024-04-15T02:52:00Z</updated>
+    <id>tag:github.com,2024-04-15:/jbrisbin/spring-riak</id>
+    <link href="https://github.com/jbrisbin/spring-riak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Riak support from Groovy and/or Java&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>katalon-studio-samples/bigquery-json-demo</title>
+    <updated>2024-04-15T02:52:00Z</updated>
+    <id>tag:github.com,2024-04-15:/katalon-studio-samples/bigquery-json-demo</id>
+    <link href="https://github.com/katalon-studio-samples/bigquery-json-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demonstration of BigQuery JDBC usage and JsonUnit&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>machacjozef/MKSR-register-kulturnych-subjektov-backend</title>
+    <updated>2024-04-15T02:52:00Z</updated>
+    <id>tag:github.com,2024-04-15:/machacjozef/MKSR-register-kulturnych-subjektov-backend</id>
+    <link href="https://github.com/machacjozef/MKSR-register-kulturnych-subjektov-backend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

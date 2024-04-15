@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-14T01:35:34Z</updated>
+  <updated>2024-04-15T02:52:12Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>henehefu/HaskellSandbox</title>
-    <updated>2024-04-14T01:35:34Z</updated>
-    <id>tag:github.com,2024-04-14:/henehefu/HaskellSandbox</id>
-    <link href="https://github.com/henehefu/HaskellSandbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ad-si/TaskLite</title>
+    <updated>2024-04-15T02:52:12Z</updated>
+    <id>tag:github.com,2024-04-15:/ad-si/TaskLite</id>
+    <link href="https://github.com/ad-si/TaskLite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The CLI task manager for power users&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://tasklite.org&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ad-si/TaskLite/master/docs-source/images/banner@2.png&#34; alt=&#34;Banner of TaskLite&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;TaskLite&lt;/h1&gt; &#xA;&lt;p&gt;CLI task manager built with &lt;a href=&#34;https://haskell.org&#34;&gt;Haskell&lt;/a&gt; and &lt;a href=&#34;https://sqlite.org&#34;&gt;SQLite&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ad-si/TaskLite/master/tasklite-core/screenshots/withtag.svg?sanitize=true&#34; alt=&#34;Screenshot of all TaskLite related tasks in the maintainer&#39;s database&#34; width=&#34;600&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://tasklite.org/introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://tasklite.org/installation&#34;&gt;Installation&lt;/a&gt;&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;&lt;a href=&#34;https://tasklite.org/installation/cli&#34;&gt;CLI&lt;/a&gt;&lt;/li&gt; &#xA;   &lt;li&gt;&lt;a href=&#34;https://tasklite.org/installation/desktop_app&#34;&gt;Desktop App&lt;/a&gt;&lt;/li&gt; &#xA;   &lt;li&gt;&lt;a href=&#34;https://tasklite.org/installation/web_app&#34;&gt;Web App&lt;/a&gt;&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://tasklite.org/concepts&#34;&gt;Concepts&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://tasklite.org/usage&#34;&gt;Usage&lt;/a&gt;&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;&lt;a href=&#34;https://tasklite.org/usage/cli&#34;&gt;CLI&lt;/a&gt;&lt;/li&gt; &#xA;   &lt;li&gt;&lt;a href=&#34;https://tasklite.org/usage/desktop_app&#34;&gt;Desktop App&lt;/a&gt;&lt;/li&gt; &#xA;   &lt;li&gt;&lt;a href=&#34;https://tasklite.org/usage/web_app&#34;&gt;Web App&lt;/a&gt;&lt;/li&gt; &#xA;   &lt;li&gt;&lt;a href=&#34;https://tasklite.org/usage/rest_api&#34;&gt;REST API&lt;/a&gt;&lt;/li&gt; &#xA;   &lt;li&gt;&lt;a href=&#34;https://tasklite.org/usage/haskell_api&#34;&gt;Haskell API&lt;/a&gt;&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://tasklite.org/differences_taskwarrior&#34;&gt;Differences to Taskwarrior&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://tasklite.org/performance&#34;&gt;Performance&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://tasklite.org/development&#34;&gt;Development&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://tasklite.org/changelog&#34;&gt;Changelog&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://tasklite.org/related&#34;&gt;Related&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>pdepjm/2024-f-repoBase</title>
+    <updated>2024-04-15T02:52:12Z</updated>
+    <id>tag:github.com,2024-04-15:/pdepjm/2024-f-repoBase</id>
+    <link href="https://github.com/pdepjm/2024-f-repoBase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositorio base para Funcional (Haskell con Pdepreludat)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ejercicio-alumno&lt;/h1&gt; &#xA;&lt;h2&gt;Integrantes&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;integrante1 (usuario github)&lt;/li&gt; &#xA; &lt;li&gt;integrante2 (usuario github) ...&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>DKISTDC/telescope.hs</title>
+    <updated>2024-04-15T02:52:12Z</updated>
+    <id>tag:github.com,2024-04-15:/DKISTDC/telescope.hs</id>
+    <link href="https://github.com/DKISTDC/telescope.hs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Process modern astronomical observations in Haskell (FITS, ASDF, WCS)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-14T01:44:13Z</updated>
+  <updated>2024-04-15T03:01:11Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>FrogGuaGuaGua/HighSchoolMathematics</title>
-    <updated>2024-04-14T01:44:13Z</updated>
-    <id>tag:github.com,2024-04-14:/FrogGuaGuaGua/HighSchoolMathematics</id>
-    <link href="https://github.com/FrogGuaGuaGua/HighSchoolMathematics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High school mathematics.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;High school mathematics from an engineer&#39;s perspective. 注意把“矢量PDF图形”文件夹中的PDF文件取出来，与tex文件放在同一文件夹下才能编译。等我哪天有时间了，把tex文件中\includegraphics后面的路径用“全部替换”大法通通加上文件夹名称，就不用把pdf文件取出文件夹了。&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>masa-finance/whitepaper</title>
-    <updated>2024-04-14T01:44:13Z</updated>
-    <id>tag:github.com,2024-04-14:/masa-finance/whitepaper</id>
-    <link href="https://github.com/masa-finance/whitepaper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Masa Protocol whitepaper&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Masa V3&lt;/h1&gt;</summary>
-  </entry>
-  <entry>
-    <title>tddg/project_latex_template</title>
-    <updated>2024-04-14T01:44:13Z</updated>
-    <id>tag:github.com,2024-04-14:/tddg/project_latex_template</id>
-    <link href="https://github.com/tddg/project_latex_template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Template of DS5110/CS5501 Project Report&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.latex-project.org/&#34;&gt;Latex&lt;/a&gt; is a software system for document preparation. When writing, the writer uses plain text as opposed to the formatted text found in &lt;a href=&#34;https://en.wikipedia.org/wiki/WYSIWYG&#34;&gt;WYSIWYG&lt;/a&gt; (what you see is what you get) word processors like Microsoft Word and Google Doc.&lt;/p&gt; &#xA;&lt;p&gt;For Checkpoint #2 report, you may comment out &lt;code&gt;\input{metadata}&lt;/code&gt; in &lt;code&gt;paper.tex&lt;/code&gt; as &lt;code&gt;metadata.tex&lt;/code&gt; will only be used for the final report.&lt;/p&gt; &#xA;&lt;p&gt;The repo includes a makefile so you can directly &lt;code&gt;make&lt;/code&gt; the PDF locally if your computer has latex installed..&lt;/p&gt; &#xA;&lt;p&gt;More conveniently, you could use hosted Latex service such as Overleaf (&lt;a href=&#34;https://www.overleaf.com/&#34;&gt;https://www.overleaf.com/&lt;/a&gt;) for collaborative latex editing with your teammates.&lt;/p&gt;</summary>
-  </entry>
 </feed>

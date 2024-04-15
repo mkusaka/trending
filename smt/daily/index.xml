@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SMT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-14T01:43:11Z</updated>
+  <updated>2024-04-15T02:59:46Z</updated>
   <subtitle>Daily Trending of SMT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SMT-LIB/benchmark-submission</title>
+    <updated>2024-04-15T02:59:46Z</updated>
+    <id>tag:github.com,2024-04-15:/SMT-LIB/benchmark-submission</id>
+    <link href="https://github.com/SMT-LIB/benchmark-submission" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for the submission of SMT-LIB benchmarks for the 2024 release.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>epfl-lara/LongMap-SMT-queries</title>
+    <updated>2024-04-15T02:59:46Z</updated>
+    <id>tag:github.com,2024-04-15:/epfl-lara/LongMap-SMT-queries</id>
+    <link href="https://github.com/epfl-lara/LongMap-SMT-queries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository containing the SMT queries generated during the verification of the `LongMap`.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

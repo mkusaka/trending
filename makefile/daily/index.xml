@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-14T01:38:20Z</updated>
+  <updated>2024-04-15T02:55:03Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>EngineerGuy314/pico-WSPRer</title>
-    <updated>2024-04-14T01:38:20Z</updated>
-    <id>tag:github.com,2024-04-14:/EngineerGuy314/pico-WSPRer</id>
-    <link href="https://github.com/EngineerGuy314/pico-WSPRer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;minimalist WSPR tracker for pico-balloons utilizing Raspberry Pi Pico as the RF generator. Uses U4B/Traquito protocol for 6 char grid, voltage and temperature from the RP2040&#39;s internal sensor.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wmucs2230/rev</title>
-    <updated>2024-04-14T01:38:20Z</updated>
-    <id>tag:github.com,2024-04-14:/wmucs2230/rev</id>
-    <link href="https://github.com/wmucs2230/rev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>linkease/iStoreNAS</title>
+    <updated>2024-04-15T02:55:03Z</updated>
+    <id>tag:github.com,2024-04-15:/linkease/iStoreNAS</id>
+    <link href="https://github.com/linkease/iStoreNAS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;为了一个插件，而单独定义了新的一个NAS固件。大家想定义自己的系统，请参考这个项目！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
