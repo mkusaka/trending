@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T03:00:33Z</updated>
+  <updated>2024-04-16T01:41:05Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chientrm/xtuber</title>
-    <updated>2024-04-15T03:00:33Z</updated>
-    <id>tag:github.com,2024-04-15:/chientrm/xtuber</id>
-    <link href="https://github.com/chientrm/xtuber" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple YouTube Downloader. Native apps for Windows, MacOS, Linux&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sandwichfarm/myrelay.page</title>
+    <updated>2024-04-16T01:41:05Z</updated>
+    <id>tag:github.com,2024-04-16:/sandwichfarm/myrelay.page</id>
+    <link href="https://github.com/sandwichfarm/myrelay.page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;your relay is awesome, its canonical should be too&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

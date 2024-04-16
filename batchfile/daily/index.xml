@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:46:37Z</updated>
+  <updated>2024-04-16T01:24:59Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bigtreetech/PandaTouch</title>
+    <updated>2024-04-16T01:24:59Z</updated>
+    <id>tag:github.com,2024-04-16:/bigtreetech/PandaTouch</id>
+    <link href="https://github.com/bigtreetech/PandaTouch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bebasid/KominFudge</title>
+    <updated>2024-04-16T01:24:59Z</updated>
+    <id>tag:github.com,2024-04-16:/bebasid/KominFudge</id>
+    <link href="https://github.com/bebasid/KominFudge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KominFudge adalah isi terdaftar cara dan aplikasi untuk membuka blokir sensor dari Kominfo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

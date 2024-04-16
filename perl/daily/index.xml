@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:56:51Z</updated>
+  <updated>2024-04-16T01:36:44Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gbxyz/p5-xml-ietf</title>
+    <updated>2024-04-16T01:36:44Z</updated>
+    <id>tag:github.com,2024-04-16:/gbxyz/p5-xml-ietf</id>
+    <link href="https://github.com/gbxyz/p5-xml-ietf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An interface to the IETF XML Registry.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;code&gt;XML::IETF&lt;/code&gt; provides a simple interface to the IETF XML Registry, specified in &lt;a href=&#34;https://www.rfc-editor.org/rfc/rfc3688.html&#34;&gt;RFC 3688&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This permits for example, dynamically retrieve and load XML schema files using only their target namespace or mnemonic name. This is quite useful for schema- heavy protocols such as &lt;a href=&#34;https://metacpan.org/pod/Net%3A%3AEPP&#34;&gt;EPP&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

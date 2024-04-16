@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:53:43Z</updated>
+  <updated>2024-04-16T01:32:58Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DislikePineapple/Julia-HydrodynamicStability.jl</title>
-    <updated>2024-04-15T02:53:43Z</updated>
-    <id>tag:github.com,2024-04-15:/DislikePineapple/Julia-HydrodynamicStability.jl</id>
-    <link href="https://github.com/DislikePineapple/Julia-HydrodynamicStability.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia code for Base use for hydrodynamic stability.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nathanaelbosch/ChaoticDynamicalSystemLibrary.jl</title>
+    <updated>2024-04-16T01:32:58Z</updated>
+    <id>tag:github.com,2024-04-16:/nathanaelbosch/ChaoticDynamicalSystemLibrary.jl</id>
+    <link href="https://github.com/nathanaelbosch/ChaoticDynamicalSystemLibrary.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of chaotic ODEs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

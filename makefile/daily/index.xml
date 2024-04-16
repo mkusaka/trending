@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:55:03Z</updated>
+  <updated>2024-04-16T01:34:21Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>linkease/iStoreNAS</title>
-    <updated>2024-04-15T02:55:03Z</updated>
-    <id>tag:github.com,2024-04-15:/linkease/iStoreNAS</id>
-    <link href="https://github.com/linkease/iStoreNAS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;为了一个插件，而单独定义了新的一个NAS固件。大家想定义自己的系统，请参考这个项目！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tree-sitter-grammars/tree-sitter-cuda</title>
+    <updated>2024-04-16T01:34:21Z</updated>
+    <id>tag:github.com,2024-04-16:/tree-sitter-grammars/tree-sitter-cuda</id>
+    <link href="https://github.com/tree-sitter-grammars/tree-sitter-cuda" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CUDA grammar for tree-sitter&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

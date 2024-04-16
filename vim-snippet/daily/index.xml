@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Snippet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T03:02:17Z</updated>
+  <updated>2024-04-16T01:42:34Z</updated>
   <subtitle>Daily Trending of Vim Snippet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>luestr/CrazyRule</title>
-    <updated>2024-04-15T03:02:17Z</updated>
-    <id>tag:github.com,2024-04-15:/luestr/CrazyRule</id>
-    <link href="https://github.com/luestr/CrazyRule" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

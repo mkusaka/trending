@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:51:10Z</updated>
+  <updated>2024-04-16T01:29:49Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hunttis/ld-55</title>
-    <updated>2024-04-15T02:51:10Z</updated>
-    <id>tag:github.com,2024-04-15:/hunttis/ld-55</id>
-    <link href="https://github.com/hunttis/ld-55" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ludum Dare 55&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WCGH/Dragonsong-Sim</title>
+    <updated>2024-04-16T01:29:49Z</updated>
+    <id>tag:github.com,2024-04-16:/WCGH/Dragonsong-Sim</id>
+    <link href="https://github.com/WCGH/Dragonsong-Sim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An FFXIV simulator.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DigiDuncan/DPNJam1</title>
-    <updated>2024-04-15T02:51:10Z</updated>
-    <id>tag:github.com,2024-04-15:/DigiDuncan/DPNJam1</id>
-    <link href="https://github.com/DigiDuncan/DPNJam1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The first time we&#39;re jamming.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apples/ludum-dare-55</title>
+    <updated>2024-04-16T01:29:49Z</updated>
+    <id>tag:github.com,2024-04-16:/apples/ludum-dare-55</id>
+    <link href="https://github.com/apples/ludum-dare-55" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>BoopEnthusiast/Mini-Jam-156-Jame-Gam-29</title>
-    <updated>2024-04-15T02:51:10Z</updated>
-    <id>tag:github.com,2024-04-15:/BoopEnthusiast/Mini-Jam-156-Jame-Gam-29</id>
-    <link href="https://github.com/BoopEnthusiast/Mini-Jam-156-Jame-Gam-29" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A game for both the Mini Jam 156 and Jame Gam 29&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lambdaBoost/d-17b_simulator</title>
+    <updated>2024-04-16T01:29:49Z</updated>
+    <id>tag:github.com,2024-04-16:/lambdaBoost/d-17b_simulator</id>
+    <link href="https://github.com/lambdaBoost/d-17b_simulator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simulating the Minuteman D-17b computer in Godot.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:52:24Z</updated>
+  <updated>2024-04-16T01:30:57Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>terraform-ibm-modules/terraform-ibm-kms-all-inclusive</title>
-    <updated>2024-04-15T02:52:24Z</updated>
-    <id>tag:github.com,2024-04-15:/terraform-ibm-modules/terraform-ibm-kms-all-inclusive</id>
-    <link href="https://github.com/terraform-ibm-modules/terraform-ibm-kms-all-inclusive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Supports creating a Key Protect instance, KMS Key Rings and Keys.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>recardolabs/backend-app</title>
+    <updated>2024-04-16T01:30:57Z</updated>
+    <id>tag:github.com,2024-04-16:/recardolabs/backend-app</id>
+    <link href="https://github.com/recardolabs/backend-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>canonical/packer-maas</title>
-    <updated>2024-04-15T02:52:24Z</updated>
-    <id>tag:github.com,2024-04-15:/canonical/packer-maas</id>
-    <link href="https://github.com/canonical/packer-maas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Packer templates to create MAAS deployable images&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alibabacloud-automation/terraform-alicloud-ram-role</title>
+    <updated>2024-04-16T01:30:57Z</updated>
+    <id>tag:github.com,2024-04-16:/alibabacloud-automation/terraform-alicloud-ram-role</id>
+    <link href="https://github.com/alibabacloud-automation/terraform-alicloud-ram-role" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which create RAM roles on Alibaba Cloud.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mevijays/training-terraform</title>
-    <updated>2024-04-15T02:52:24Z</updated>
-    <id>tag:github.com,2024-04-15:/mevijays/training-terraform</id>
-    <link href="https://github.com/mevijays/training-terraform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform training contents required for 003 Hashicorp certified terraform associate.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/terraform-azurerm-avm-res-network-virtualnetwork</title>
+    <updated>2024-04-16T01:30:57Z</updated>
+    <id>tag:github.com,2024-04-16:/Azure/terraform-azurerm-avm-res-network-virtualnetwork</id>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-res-network-virtualnetwork" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:50:03Z</updated>
+  <updated>2024-04-16T01:28:53Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elixir-webrtc/apps</title>
+    <updated>2024-04-16T01:28:53Z</updated>
+    <id>tag:github.com,2024-04-16:/elixir-webrtc/apps</id>
+    <link href="https://github.com/elixir-webrtc/apps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example apps built on top of Elixir WebRTC&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jackpocket/flagship</title>
+    <updated>2024-04-16T01:28:53Z</updated>
+    <id>tag:github.com,2024-04-16:/jackpocket/flagship</id>
+    <link href="https://github.com/jackpocket/flagship" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for working with and testing feature flags&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:59:15Z</updated>
+  <updated>2024-04-16T01:39:50Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>anglesen1120/HDNXUdemy_Admin</title>
-    <updated>2024-04-15T02:59:15Z</updated>
-    <id>tag:github.com,2024-04-15:/anglesen1120/HDNXUdemy_Admin</id>
-    <link href="https://github.com/anglesen1120/HDNXUdemy_Admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>anglesen1120/HDNXUdemy_Web</title>
-    <updated>2024-04-15T02:59:15Z</updated>
-    <id>tag:github.com,2024-04-15:/anglesen1120/HDNXUdemy_Web</id>
-    <link href="https://github.com/anglesen1120/HDNXUdemy_Web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pelican-dev/docs</title>
+    <updated>2024-04-16T01:39:50Z</updated>
+    <id>tag:github.com,2024-04-16:/pelican-dev/docs</id>
+    <link href="https://github.com/pelican-dev/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation site for Pelican Panel&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

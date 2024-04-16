@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:46:48Z</updated>
+  <updated>2024-04-16T01:25:12Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>STMicroelectronics/meta-st-stm32mp</title>
+    <updated>2024-04-16T01:25:12Z</updated>
+    <id>tag:github.com,2024-04-16:/STMicroelectronics/meta-st-stm32mp</id>
+    <link href="https://github.com/STMicroelectronics/meta-st-stm32mp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;meta-st-stm32mp&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

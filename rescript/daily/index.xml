@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:58:25Z</updated>
+  <updated>2024-04-16T01:38:47Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>RegalKing/C-PROG2-FRI-UNI-LJ</title>
-    <updated>2024-04-15T02:58:25Z</updated>
-    <id>tag:github.com,2024-04-15:/RegalKing/C-PROG2-FRI-UNI-LJ</id>
-    <link href="https://github.com/RegalKing/C-PROG2-FRI-UNI-LJ" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My code for the &#34;Programming 2&#34; course in C at the University of Ljubljana, Faculty of Computer and Information Science.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

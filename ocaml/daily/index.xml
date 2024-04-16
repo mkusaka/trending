@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:56:22Z</updated>
+  <updated>2024-04-16T01:36:06Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ocaml-mlx/mlx</title>
-    <updated>2024-04-15T02:56:22Z</updated>
-    <id>tag:github.com,2024-04-15:/ocaml-mlx/mlx</id>
-    <link href="https://github.com/ocaml-mlx/mlx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OCaml syntax dialect which adds JSX syntax expressions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>suri-framework/atacama</title>
-    <updated>2024-04-15T02:56:22Z</updated>
-    <id>tag:github.com,2024-04-15:/suri-framework/atacama</id>
-    <link href="https://github.com/suri-framework/atacama" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern, pure OCaml socket pool for Riot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>riot-ml/bytestring</title>
-    <updated>2024-04-15T02:56:22Z</updated>
-    <id>tag:github.com,2024-04-15:/riot-ml/bytestring</id>
-    <link href="https://github.com/riot-ml/bytestring" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Efficient, immutable, UTF friendly byte strings with Elixir-style pattern matching for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imandra-ai/imandrakit</title>
+    <updated>2024-04-16T01:36:06Z</updated>
+    <id>tag:github.com,2024-04-16:/imandra-ai/imandrakit</id>
+    <link href="https://github.com/imandra-ai/imandrakit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Core utils library for Imandra&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

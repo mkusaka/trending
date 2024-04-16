@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:48:27Z</updated>
+  <updated>2024-04-16T01:27:00Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DefTruth/CUDA-Learn-Notes</title>
-    <updated>2024-04-15T02:48:27Z</updated>
-    <id>tag:github.com,2024-04-15:/DefTruth/CUDA-Learn-Notes</id>
-    <link href="https://github.com/DefTruth/CUDA-Learn-Notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎉CUDA 笔记 / 大模型手撕CUDA / C++笔记，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aredden/torch-cublas-hgemm</title>
-    <updated>2024-04-15T02:48:27Z</updated>
-    <id>tag:github.com,2024-04-15:/aredden/torch-cublas-hgemm</id>
-    <link href="https://github.com/aredden/torch-cublas-hgemm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PyTorch half precision gemm lib w/ fused optional bias + optional relu/gelu&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

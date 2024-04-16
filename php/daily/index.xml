@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-15T02:57:03Z</updated>
+  <updated>2024-04-16T01:36:53Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pelican-dev/panel</title>
-    <updated>2024-04-15T02:57:03Z</updated>
-    <id>tag:github.com,2024-04-15:/pelican-dev/panel</id>
-    <link href="https://github.com/pelican-dev/panel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/pelican-dev/panel/assets/1296882/6c545ae3-24b9-4d30-af21-d08d2e53b673&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Pelican Panel&lt;/h1&gt; &#xA;&lt;p&gt;Pelican Panel is an open-source, web-based application designed for easy management of game servers. It offers a user-friendly interface for deploying, configuring, and managing servers, with features like real-time resource monitoring, Docker container isolation, and extensive customization options. Ideal for both individual gamers and hosting companies, it simplifies server administration without requiring deep technical knowledge.&lt;/p&gt; &#xA;&lt;p&gt;Fly High, Game On: Pelican&#39;s pledge for unrivaled game servers.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://pelican.dev/panel/1.0/getting_started.html&#34;&gt;Panel Documentation&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://pelican.dev/wings/1.0/installing.html&#34;&gt;Wings Documentation&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://pelican.dev/community/about.html&#34;&gt;Community Guides&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://pelican.dev/discord&#34;&gt;Official Discord&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Supported Games&lt;/h3&gt; &#xA;&lt;p&gt;Pelican supports a wide variety of games by utilizing Docker containers to isolate each instance. This gives you the power to run game servers without bloating machines with a host of additional dependencies.&lt;/p&gt; &#xA;&lt;p&gt;Some of our core supported games include:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Minecraft — including Paper, Sponge, Bungeecord, Waterfall, and more&lt;/li&gt; &#xA; &lt;li&gt;Rust&lt;/li&gt; &#xA; &lt;li&gt;Terraria&lt;/li&gt; &#xA; &lt;li&gt;Teamspeak&lt;/li&gt; &#xA; &lt;li&gt;Mumble&lt;/li&gt; &#xA; &lt;li&gt;Team Fortress 2&lt;/li&gt; &#xA; &lt;li&gt;Counter Strike: Global Offensive&lt;/li&gt; &#xA; &lt;li&gt;Garry&#39;s Mod&lt;/li&gt; &#xA; &lt;li&gt;ARK: Survival Evolved&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;In addition to our standard nest of supported games, our community is constantly pushing the limits of this software and there are plenty more games available provided by the community. Some of these games include:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Factorio&lt;/li&gt; &#xA; &lt;li&gt;San Andreas: MP&lt;/li&gt; &#xA; &lt;li&gt;Pocketmine MP&lt;/li&gt; &#xA; &lt;li&gt;Squad&lt;/li&gt; &#xA; &lt;li&gt;Xonotic&lt;/li&gt; &#xA; &lt;li&gt;Starmade&lt;/li&gt; &#xA; &lt;li&gt;Discord ATLBot, and most other Node.js/Python discord bots&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/parkervcp/eggs&#34;&gt;and many more...&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Copyright Pelican® 2024&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>damoang/theme</title>
-    <updated>2024-04-15T02:57:03Z</updated>
-    <id>tag:github.com,2024-04-15:/damoang/theme</id>
-    <link href="https://github.com/damoang/theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;damoang&lt;/h1&gt;</summary>
-  </entry>
 </feed>
