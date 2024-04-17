@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-16T01:26:32Z</updated>
+  <updated>2024-04-17T01:25:55Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rm-hull/nvd-clojure</title>
-    <updated>2024-04-16T01:26:32Z</updated>
-    <id>tag:github.com,2024-04-16:/rm-hull/nvd-clojure</id>
-    <link href="https://github.com/rm-hull/nvd-clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;National Vulnerability Database dependency checker for Clojure projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>testcontainers/testcontainers-clj</title>
-    <updated>2024-04-16T01:26:32Z</updated>
-    <id>tag:github.com,2024-04-16:/testcontainers/testcontainers-clj</id>
-    <link href="https://github.com/testcontainers/testcontainers-clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Control Docker containers from your test lifecycle for Clojure integration tests.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

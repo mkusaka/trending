@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-16T01:39:09Z</updated>
+  <updated>2024-04-17T01:36:55Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>taipulin/brunch</title>
-    <updated>2024-04-16T01:39:09Z</updated>
-    <id>tag:github.com,2024-04-16:/taipulin/brunch</id>
-    <link href="https://github.com/taipulin/brunch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>human-se/limeriq-f23</title>
-    <updated>2024-04-16T01:39:09Z</updated>
-    <id>tag:github.com,2024-04-16:/human-se/limeriq-f23</id>
-    <link href="https://github.com/human-se/limeriq-f23" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LimerIQ&lt;/h1&gt; &#xA;&lt;p&gt;A &lt;a href=&#34;https://en.wikipedia.org/wiki/Limerick_(poetry)&#34;&gt;limerick (poem)&lt;/a&gt; authoring and sharing app.&lt;/p&gt; &#xA;&lt;h2&gt;How to Initialize and Run the App&lt;/h2&gt; &#xA;&lt;h3&gt;Prerequisites&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;RVM&lt;/strong&gt; is assumed (see &lt;a href=&#34;https://rails-demos-n-deets-2023.herokuapp.com/demos/development-environment&#34;&gt;Rails Demos-n-Deets&lt;/a&gt; for setup instructions).&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Ruby version 3.1.2&lt;/strong&gt; is required. &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;&lt;code&gt;rvm install 3.1.2&lt;/code&gt; - Install Ruby 3.1.2 using RVM.&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Bundler&lt;/strong&gt; is required (see &lt;a href=&#34;https://rails-demos-n-deets-2023.herokuapp.com/demos/development-environment&#34;&gt;Rails Demos-n-Deets&lt;/a&gt; for setup instructions).&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;PostgreSQL&lt;/strong&gt; is required (see &lt;a href=&#34;https://rails-demos-n-deets-2023.herokuapp.com/demos/development-environment&#34;&gt;Rails Demos-n-Deets&lt;/a&gt; for setup instructions).&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;NodeJS&lt;/strong&gt; is required (see &lt;a href=&#34;https://rails-demos-n-deets-2023.herokuapp.com/demos/development-environment&#34;&gt;Rails Demos-n-Deets&lt;/a&gt; for setup instructions).&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Initializing the App&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;bundle install&lt;/code&gt; - Install all the necessary gems.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;rails db:migrate:reset&lt;/code&gt; - Reset and initialize the database.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;rails db:seed&lt;/code&gt; - Save seed data to the database (see &lt;code&gt;db/seeds.rb&lt;/code&gt;). &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;No seed data is included in the base app.&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Running the App&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;rails server&lt;/code&gt; - Run the development web server.&lt;/li&gt; &#xA; &lt;li&gt;Open &lt;a href=&#34;http://localhost:3000/&#34;&gt;http://localhost:3000/&lt;/a&gt; in the browser to launch the app (root page).&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

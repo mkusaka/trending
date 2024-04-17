@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-16T01:43:30Z</updated>
+  <updated>2024-04-17T01:40:34Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>syzygy333/sample_app</title>
+    <updated>2024-04-17T01:40:34Z</updated>
+    <id>tag:github.com,2024-04-17:/syzygy333/sample_app</id>
+    <link href="https://github.com/syzygy333/sample_app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ruby on Rails Tutorial: sample application&lt;/h1&gt; &#xA;&lt;p&gt;This is the sample application for &lt;a href=&#34;http://railstutorial.org/&#34;&gt;&lt;em&gt;Ruby on Rails Tutorial: Learn Rails by Example&lt;/em&gt;&lt;/a&gt; by &lt;a href=&#34;http://michaelhartl.com/&#34;&gt;Michael Hartl&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

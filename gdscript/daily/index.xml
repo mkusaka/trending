@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-16T01:29:49Z</updated>
+  <updated>2024-04-17T01:28:27Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WCGH/Dragonsong-Sim</title>
-    <updated>2024-04-16T01:29:49Z</updated>
-    <id>tag:github.com,2024-04-16:/WCGH/Dragonsong-Sim</id>
-    <link href="https://github.com/WCGH/Dragonsong-Sim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An FFXIV simulator.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>apples/ludum-dare-55</title>
-    <updated>2024-04-16T01:29:49Z</updated>
-    <id>tag:github.com,2024-04-16:/apples/ludum-dare-55</id>
-    <link href="https://github.com/apples/ludum-dare-55" rel="alternate"></link>
+    <title>baconandgames/godot4-game-template</title>
+    <updated>2024-04-17T01:28:27Z</updated>
+    <id>tag:github.com,2024-04-17:/baconandgames/godot4-game-template</id>
+    <link href="https://github.com/baconandgames/godot4-game-template" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lambdaBoost/d-17b_simulator</title>
-    <updated>2024-04-16T01:29:49Z</updated>
-    <id>tag:github.com,2024-04-16:/lambdaBoost/d-17b_simulator</id>
-    <link href="https://github.com/lambdaBoost/d-17b_simulator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simulating the Minuteman D-17b computer in Godot.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NitroxNova/Humanizer</title>
+    <updated>2024-04-17T01:28:27Z</updated>
+    <id>tag:github.com,2024-04-17:/NitroxNova/Humanizer</id>
+    <link href="https://github.com/NitroxNova/Humanizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;convert MPFB2 to Godot4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LuisEscorza/GodotLabelFontAutoSizer</title>
+    <updated>2024-04-17T01:28:27Z</updated>
+    <id>tag:github.com,2024-04-17:/LuisEscorza/GodotLabelFontAutoSizer</id>
+    <link href="https://github.com/LuisEscorza/GodotLabelFontAutoSizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot tool that adds Labels with text autosizing capabilities&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-16T01:30:57Z</updated>
+  <updated>2024-04-17T01:29:33Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>recardolabs/backend-app</title>
-    <updated>2024-04-16T01:30:57Z</updated>
-    <id>tag:github.com,2024-04-16:/recardolabs/backend-app</id>
-    <link href="https://github.com/recardolabs/backend-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alibabacloud-automation/terraform-alicloud-ram-role</title>
-    <updated>2024-04-16T01:30:57Z</updated>
-    <id>tag:github.com,2024-04-16:/alibabacloud-automation/terraform-alicloud-ram-role</id>
-    <link href="https://github.com/alibabacloud-automation/terraform-alicloud-ram-role" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which create RAM roles on Alibaba Cloud.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/terraform-azurerm-avm-res-network-virtualnetwork</title>
-    <updated>2024-04-16T01:30:57Z</updated>
-    <id>tag:github.com,2024-04-16:/Azure/terraform-azurerm-avm-res-network-virtualnetwork</id>
-    <link href="https://github.com/Azure/terraform-azurerm-avm-res-network-virtualnetwork" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dazzyddos/HSC24RedTeamInfra</title>
+    <updated>2024-04-17T01:29:33Z</updated>
+    <id>tag:github.com,2024-04-17:/dazzyddos/HSC24RedTeamInfra</id>
+    <link href="https://github.com/dazzyddos/HSC24RedTeamInfra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Slides and Codes used for the workshop Red Team Infrastructure Automation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
