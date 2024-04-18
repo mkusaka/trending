@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:27:34Z</updated>
+  <updated>2024-04-18T01:28:55Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bokner/fixpoint</title>
-    <updated>2024-04-17T01:27:34Z</updated>
-    <id>tag:github.com,2024-04-17:/bokner/fixpoint</id>
-    <link href="https://github.com/bokner/fixpoint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Constraint programming solver&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kim-company/deepl</title>
-    <updated>2024-04-17T01:27:34Z</updated>
-    <id>tag:github.com,2024-04-17:/kim-company/deepl</id>
-    <link href="https://github.com/kim-company/deepl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Batteries-included Elixir client for Deepl&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kim-company/membrane_translate_plugin</title>
-    <updated>2024-04-17T01:27:34Z</updated>
-    <id>tag:github.com,2024-04-17:/kim-company/membrane_translate_plugin</id>
-    <link href="https://github.com/kim-company/membrane_translate_plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Membrane Filter for translating sentences with Deepl&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

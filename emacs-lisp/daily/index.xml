@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:27:40Z</updated>
+  <updated>2024-04-18T01:29:03Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gintas/emacs-config</title>
-    <updated>2024-04-17T01:27:40Z</updated>
-    <id>tag:github.com,2024-04-17:/gintas/emacs-config</id>
-    <link href="https://github.com/gintas/emacs-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emacs configuration files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mhayashi1120/japanlaw.el</title>
-    <updated>2024-04-17T01:27:40Z</updated>
-    <id>tag:github.com,2024-04-17:/mhayashi1120/japanlaw.el</id>
-    <link href="https://github.com/mhayashi1120/japanlaw.el" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emacs 電子六法&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;em&gt;e-gov.go.jp サイトの大幅な書式変更に伴い、このリポジトリは obsolete とします。&lt;/em&gt;&lt;/p&gt; &#xA;&lt;h1&gt;japanlaw.el&lt;/h1&gt; &#xA;&lt;p&gt;日本の法律 (&lt;a href=&#34;http://law.e-gov.go.jp/&#34;&gt;http://law.e-gov.go.jp/&lt;/a&gt;) を Emacs で browse するための elisp です。 laws.el から fork しました。&lt;/p&gt; &#xA;&lt;p&gt;元開発者である Kazushi NODA さんのご厚意により、パッケージ名を変更して github, melpa で公開する許可をいただきました。 ありがとうございます。&lt;/p&gt; &#xA;&lt;p&gt;詳しい説明は以下の URL を参考にしてください。&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://www.ne.jp/asahi/alpha/kazu/laws.html&#34;&gt;http://www.ne.jp/asahi/alpha/kazu/laws.html&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

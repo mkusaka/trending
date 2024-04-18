@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:39:58Z</updated>
+  <updated>2024-04-18T01:45:47Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cangcimen/numText</title>
-    <updated>2024-04-17T01:39:58Z</updated>
-    <id>tag:github.com,2024-04-17:/cangcimen/numText</id>
-    <link href="https://github.com/cangcimen/numText" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Numeric textboc, accept only numeric with denomination. VB.Net&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yanaitamon/vba_test</title>
-    <updated>2024-04-17T01:39:58Z</updated>
-    <id>tag:github.com,2024-04-17:/yanaitamon/vba_test</id>
-    <link href="https://github.com/yanaitamon/vba_test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AreebaAroosh/VB6-FileProperties</title>
-    <updated>2024-04-17T01:39:58Z</updated>
-    <id>tag:github.com,2024-04-17:/AreebaAroosh/VB6-FileProperties</id>
-    <link href="https://github.com/AreebaAroosh/VB6-FileProperties" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

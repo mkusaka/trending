@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:31:16Z</updated>
+  <updated>2024-04-18T01:34:08Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SciML/SciMLStyle</title>
-    <updated>2024-04-17T01:31:16Z</updated>
-    <id>tag:github.com,2024-04-17:/SciML/SciMLStyle</id>
-    <link href="https://github.com/SciML/SciMLStyle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A style guide for stylish Julia developers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CliMA/Cloudy.jl</title>
+    <updated>2024-04-18T01:34:08Z</updated>
+    <id>tag:github.com,2024-04-18:/CliMA/Cloudy.jl</id>
+    <link href="https://github.com/CliMA/Cloudy.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌧️ Multi-moment cloud microphysics toy model&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ranocha/BSeries.jl</title>
-    <updated>2024-04-17T01:31:16Z</updated>
-    <id>tag:github.com,2024-04-17:/ranocha/BSeries.jl</id>
-    <link href="https://github.com/ranocha/BSeries.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Computing with B-series in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaDynamics/StreamSampling.jl</title>
+    <updated>2024-04-18T01:34:08Z</updated>
+    <id>tag:github.com,2024-04-18:/JuliaDynamics/StreamSampling.jl</id>
+    <link href="https://github.com/JuliaDynamics/StreamSampling.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sampling methods for data streams&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LilithHafner/BasicAutoloads.jl</title>
-    <updated>2024-04-17T01:31:16Z</updated>
-    <id>tag:github.com,2024-04-17:/LilithHafner/BasicAutoloads.jl</id>
-    <link href="https://github.com/LilithHafner/BasicAutoloads.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&#34;whenever I type this in the REPL, run that for me&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaGeo/GeometryOps.jl</title>
+    <updated>2024-04-18T01:34:08Z</updated>
+    <id>tag:github.com,2024-04-18:/JuliaGeo/GeometryOps.jl</id>
+    <link href="https://github.com/JuliaGeo/GeometryOps.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GeoInterface-based geometry operations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

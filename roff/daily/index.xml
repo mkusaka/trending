@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:36:44Z</updated>
+  <updated>2024-04-18T01:41:29Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cryptopia-com/unity-client</title>
-    <updated>2024-04-17T01:36:44Z</updated>
-    <id>tag:github.com,2024-04-17:/cryptopia-com/unity-client</id>
-    <link href="https://github.com/cryptopia-com/unity-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Untiy3d client for the Cryptopia World&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>emmakopp1/kd_looms</title>
-    <updated>2024-04-17T01:36:44Z</updated>
-    <id>tag:github.com,2024-04-17:/emmakopp1/kd_looms</id>
-    <link href="https://github.com/emmakopp1/kd_looms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

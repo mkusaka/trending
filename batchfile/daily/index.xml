@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:24:38Z</updated>
+  <updated>2024-04-18T01:25:04Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>afosne/DNS-Unlock</title>
-    <updated>2024-04-17T01:24:38Z</updated>
-    <id>tag:github.com,2024-04-17:/afosne/DNS-Unlock</id>
-    <link href="https://github.com/afosne/DNS-Unlock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;加速网络解析速度，解锁Netflix、hulu、disney等网页&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MrShailandra/Microsoft-Activator</title>
-    <updated>2024-04-17T01:24:38Z</updated>
-    <id>tag:github.com,2024-04-17:/MrShailandra/Microsoft-Activator</id>
-    <link href="https://github.com/MrShailandra/Microsoft-Activator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Microsoft products activator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

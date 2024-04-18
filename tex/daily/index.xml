@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:39:06Z</updated>
+  <updated>2024-04-18T01:44:44Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>marks2ai/tesisESANtemplatelatex</title>
+    <updated>2024-04-18T01:44:44Z</updated>
+    <id>tag:github.com,2024-04-18:/marks2ai/tesisESANtemplatelatex</id>
+    <link href="https://github.com/marks2ai/tesisESANtemplatelatex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>satlecture/kit2024</title>
+    <updated>2024-04-18T01:44:44Z</updated>
+    <id>tag:github.com,2024-04-18:/satlecture/kit2024</id>
+    <link href="https://github.com/satlecture/kit2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lecture: Practical SAT Solving (ST 2024)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lecture: Practical SAT Solving&lt;/h1&gt; &#xA;&lt;p&gt;Summer Term 2024&lt;/p&gt; &#xA;&lt;h1&gt;Slides&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/satlecture/kit2024/main/slides/l01-introduction.pdf&#34;&gt;Monday, April 15: Organisation, Introduction, Applications, Encodings, IPASIR&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Code&lt;/h1&gt; &#xA;&lt;p&gt;The &lt;code&gt;code/src/util&lt;/code&gt; directory contains a CNF file parser that is called when instantiating the class in &lt;code&gt;CNFFormula.h&lt;/code&gt;, which can also read packed CNF files. To unpack CNF files, the parser uses `libarchive&#39;, so to use it you need to &lt;strong&gt;install libarchive&lt;/strong&gt; like this:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;For Ubuntu: &lt;code&gt;apt install libarchive-dev&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;For macOS: &lt;code&gt;brew install libarchive&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Using the included cmake build script &lt;code&gt;CMakeLists.txt&lt;/code&gt;, you can build the programs we provide in the &lt;code&gt;code/&lt;/code&gt; directory as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cmake -S code -B code/build&#xA;cmake --build code/build&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This builds the program &lt;code&gt;code/build/essential&lt;/code&gt; from our last slide in the first lecture.&lt;/p&gt;</summary>
+  </entry>
 </feed>

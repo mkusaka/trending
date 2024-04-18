@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:34:31Z</updated>
+  <updated>2024-04-18T01:38:17Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>apikler/ScrabbleAI</title>
-    <updated>2024-04-17T01:34:31Z</updated>
-    <id>tag:github.com,2024-04-17:/apikler/ScrabbleAI</id>
-    <link href="https://github.com/apikler/ScrabbleAI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Scrabble game for Linux against an AI opponent&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;ScrabbleAI&lt;/h2&gt; &#xA;&lt;p&gt;An application for Linux that lets you play the popular word game against a computer opponent at varying difficulties.&lt;/p&gt; &#xA;&lt;h3&gt;Usage&lt;/h3&gt; &#xA;&lt;p&gt;On Debian/Ubuntu/Linux Mint, first install the dependencies:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ sudo apt-get install libgtk2-perl libgnome2-canvas-perl&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Alternatively, on Fedora:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ sudo yum install perl-Gtk2 perl-Gnome2-Canvas&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Once you have installed the dependencies, run:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ perl scrabbleai.pl&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Note that the first time you start a new game, it will take longer than usual to launch as the dictionary is cached for future use. Subsequent games (even after relaunching the program) will be able to skip this step and start up faster.&lt;/p&gt; &#xA;&lt;h3&gt;Screenshots&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;The &lt;a href=&#34;http://apikler.github.io/ScrabbleAI/intro_screen.png&#34;&gt;intro screen&lt;/a&gt;, where you can choose the difficulty&lt;/li&gt; &#xA; &lt;li&gt;The main &lt;a href=&#34;http://apikler.github.io/ScrabbleAI/game_screen.png&#34;&gt;game screen&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;A &lt;a href=&#34;http://apikler.github.io/ScrabbleAI/finished_game.png&#34;&gt;completed game&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;The &lt;a href=&#34;http://apikler.github.io/ScrabbleAI/help_dialog.png&#34;&gt;help dialog&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Videos&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;The AI &lt;a href=&#34;http://apikler.github.io/ScrabbleAI/ai_move.html&#34;&gt;makes a move&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://apikler.github.io/ScrabbleAI/resize.html&#34;&gt;Resizing the window&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;The AI&lt;/h3&gt; &#xA;&lt;p&gt;The AI is based on an algorithm from a paper written by Andrew W. Appel and Guy J. Jacobson, which you can find &lt;a href=&#34;http://www.cs.cmu.edu/afs/cs/academic/class/15451-s06/www/lectures/scrabble.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;Disclaimer&lt;/b&gt;&lt;br&gt; &lt;sub&gt; This program is free, not for profit, and for educational purposes only. Any usage of elements from the Scrabble board game is provided only to illustrate the functioning of the AI. Scrabble is a registered trademark belonging to Hasbro Inc in the US, and to J.W. Spear &amp;amp; Sons Ltd., a subsidiary of Mattel Inc., throughout the rest of the world. Neither the author nor this program are affiliated with the Scrabble Crossword Game, Hasbro, Spear &amp;amp; Sons, or Mattel in any fashion. &lt;/sub&gt;&lt;/p&gt;</summary>
+    <title>ssm-incredible/database</title>
+    <updated>2024-04-18T01:38:17Z</updated>
+    <id>tag:github.com,2024-04-18:/ssm-incredible/database</id>
+    <link href="https://github.com/ssm-incredible/database" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mysql, mongdb, etc...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

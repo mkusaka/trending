@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:26:03Z</updated>
+  <updated>2024-04-18T01:26:37Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lblod/app-poc-future-loket-hoofdloket</title>
-    <updated>2024-04-17T01:26:03Z</updated>
-    <id>tag:github.com,2024-04-17:/lblod/app-poc-future-loket-hoofdloket</id>
-    <link href="https://github.com/lblod/app-poc-future-loket-hoofdloket" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;POC application for future hoofdloket&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;mu-project&lt;/h1&gt; &#xA;&lt;p&gt;Bootstrap a mu.semte.ch microservices environment in three easy steps.&lt;/p&gt; &#xA;&lt;h2&gt;Quickstart an mu-project&lt;/h2&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[INFO] This project was created by running &lt;code&gt;mu project new awesome-project-name&lt;/code&gt;. If read on GitHub under mu-semtech/mu-project then it is the template repository for a new project, use &lt;code&gt;mu project new&lt;/code&gt; instead.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;Setting up your environment is done in three easy steps:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;First configure the running microservices and their names in &lt;code&gt;docker-compose.yml&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Then, configure how requests are dispatched in &lt;code&gt;config/dispatcher.ex&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Lastly, simply start the docker-compose.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Hooking things up with docker-compose&lt;/h3&gt; &#xA;&lt;p&gt;Alter the &lt;code&gt;docker-compose.yml&lt;/code&gt; file so it contains all microservices you need. The example content should be clear, but you can find more information in the &lt;a href=&#34;https://docs.docker.com/compose/&#34;&gt;Docker Compose documentation&lt;/a&gt;. Don&#39;t remove the &lt;code&gt;identifier&lt;/code&gt; and &lt;code&gt;db&lt;/code&gt; container, they are respectively the entry-point and the database of your application. Don&#39;t forget to link the necessary microservices to the dispatcher and the database to the microservices.&lt;/p&gt; &#xA;&lt;h3&gt;Configure the dispatcher&lt;/h3&gt; &#xA;&lt;p&gt;Next, alter the file &lt;code&gt;config/dispatcher/dispatcher.ex&lt;/code&gt; based on the example that is there by default. Dispatch requests to the necessary microservices based on the names you used for the microservice.&lt;/p&gt; &#xA;&lt;h3&gt;Boot up the system&lt;/h3&gt; &#xA;&lt;p&gt;Boot your microservices-enabled system using docker-compose.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cd /path/to/mu-project&#xA;docker-compose up&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You can shut down using &lt;code&gt;docker-compose stop&lt;/code&gt; and remove everything using &lt;code&gt;docker-compose rm&lt;/code&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

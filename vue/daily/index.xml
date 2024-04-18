@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:40:03Z</updated>
+  <updated>2024-04-18T01:45:56Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pinky-pig/arvin</title>
+    <updated>2024-04-18T01:45:56Z</updated>
+    <id>tag:github.com,2024-04-18:/pinky-pig/arvin</id>
+    <link href="https://github.com/pinky-pig/arvin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;个人网站&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Easterok/telegram-onboarding-kit</title>
+    <updated>2024-04-18T01:45:56Z</updated>
+    <id>tag:github.com,2024-04-18:/Easterok/telegram-onboarding-kit</id>
+    <link href="https://github.com/Easterok/telegram-onboarding-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple-to-use tool for crafting onboardings and paywalls for Telegram Bots&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

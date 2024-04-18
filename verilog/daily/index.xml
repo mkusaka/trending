@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:39:49Z</updated>
+  <updated>2024-04-18T01:45:36Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Practical-UVM-Step-By-Step/Practical-UVM-IEEE-Edition</title>
-    <updated>2024-04-17T01:39:49Z</updated>
-    <id>tag:github.com,2024-04-17:/Practical-UVM-Step-By-Step/Practical-UVM-IEEE-Edition</id>
-    <link href="https://github.com/Practical-UVM-Step-By-Step/Practical-UVM-IEEE-Edition" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the repository for the IEEE version of the book&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Obijuan/open-fpga-verilog-tutorial</title>
-    <updated>2024-04-17T01:39:49Z</updated>
-    <id>tag:github.com,2024-04-17:/Obijuan/open-fpga-verilog-tutorial</id>
-    <link href="https://github.com/Obijuan/open-fpga-verilog-tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn how to design digital systems and synthesize them into an FPGA using only opensource tools&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>navaneethans/VLSI-LAB-EXP-5</title>
+    <updated>2024-04-18T01:45:36Z</updated>
+    <id>tag:github.com,2024-04-18:/navaneethans/VLSI-LAB-EXP-5</id>
+    <link href="https://github.com/navaneethans/VLSI-LAB-EXP-5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

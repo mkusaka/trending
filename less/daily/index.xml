@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:31:43Z</updated>
+  <updated>2024-04-18T01:34:56Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GeovannyB/proyectofinal_pw2</title>
+    <updated>2024-04-18T01:34:56Z</updated>
+    <id>tag:github.com,2024-04-18:/GeovannyB/proyectofinal_pw2</id>
+    <link href="https://github.com/GeovannyB/proyectofinal_pw2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

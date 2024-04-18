@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-17T01:25:22Z</updated>
+  <updated>2024-04-18T01:25:53Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CocoaBob/GBA4iOS</title>
+    <updated>2024-04-18T01:25:53Z</updated>
+    <id>tag:github.com,2024-04-18:/CocoaBob/GBA4iOS</id>
+    <link href="https://github.com/CocoaBob/GBA4iOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fork of https://bitbucket.org/rileytestut/gba4ios&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GBA4iOS&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;http://www.gba4iosapp.com/images/download/gba4ios2_devices.png&#34; alt=&#34;GBA4iOS&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;The number one Game Boy Advance emulator for iOS is back, and has been rewritten from the ground up for iOS 7.&lt;/p&gt; &#xA;&lt;h3&gt;New Features&lt;/h3&gt; &#xA;&lt;p&gt;• Completely new emulator core based on VBA-M&lt;br&gt; • iPad Support&lt;br&gt; • Full GBC game compatibility&lt;br&gt; • Cheat Codes&lt;br&gt; • Dropbox Sync&lt;br&gt; • Customizable Skins&lt;br&gt; • Sustain Button&lt;br&gt; • Event Distribution&lt;br&gt; • Wario Ware: Twisted Support&lt;br&gt; • iOS 7 Controller support&lt;br&gt; • URL Scheme support (gba4ios://ROM%20Name%20Here)&lt;br&gt; • Dark Mode&lt;/p&gt; &#xA;&lt;h3&gt;Classic Features&lt;/h3&gt; &#xA;&lt;p&gt;• Save States&lt;br&gt; • Portrait + Landscape layouts&lt;br&gt; • Frameskip&lt;br&gt; • iTunes File Sharing Support&lt;br&gt; • Fast Forward&lt;/p&gt; &#xA;&lt;h1&gt;Getting Started&lt;/h1&gt; &#xA;&lt;p&gt;GBA4iOS can be opened in Xcode and deployed to an iOS device just like an other app, but there are a few steps that need to be completed first:&lt;/p&gt; &#xA;&lt;p&gt;• Download and install &lt;a href=&#34;http://cocoapods.org/&#34;&gt;Cocoapods&lt;/a&gt;&lt;br&gt; • From the root directory, run the following command in terminal: &lt;code&gt;pod install&lt;/code&gt;&lt;br&gt; • Open up the .xcworkspace file, and deploy to your device!&lt;/p&gt; &#xA;&lt;h1&gt;Requirements&lt;/h1&gt; &#xA;&lt;p&gt;• GBA4iOS 2.0 requires Xcode 5 or later, targeting iOS 7.0 and above.&lt;br&gt; • For deployment to iOS 6 devices, use the project in the 1.x branch.&lt;/p&gt; &#xA;&lt;h1&gt;Contact&lt;/h1&gt; &#xA;&lt;p&gt;GBA4iOS was created by developer &lt;a href=&#34;http://twitter.com/rileytestut&#34;&gt;Riley Testut&lt;/a&gt; and graphic designer &lt;a href=&#34;http://twitter.com/pau1thor&#34;&gt;Paul Thorsen&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Questions about GBA4iOS? Check &lt;a href=&#34;http://gba4iosapp.com/faq/&#34;&gt;http://gba4iosapp.com/faq/&lt;/a&gt; or email &lt;a href=&#34;mailto:support@gba4iosapp.com&#34;&gt;support@gba4iosapp.com&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
