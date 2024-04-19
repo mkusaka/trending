@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-18T01:23:50Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2024-04-19T01:23:58Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LLMBook-zh/LLMBook-zh.github.io</title>
-    <updated>2024-04-18T01:23:50Z</updated>
-    <id>tag:github.com,2024-04-18:/LLMBook-zh/LLMBook-zh.github.io</id>
-    <link href="https://github.com/LLMBook-zh/LLMBook-zh.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CryingMan666/eternal-nodes</title>
+    <updated>2024-04-19T01:23:58Z</updated>
+    <id>tag:github.com,2024-04-19:/CryingMan666/eternal-nodes</id>
+    <link href="https://github.com/CryingMan666/eternal-nodes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👇 手机往下滑 📱 一个能每天自动生成高速机场的小站&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DKWDRV/DKWDRV</title>
-    <updated>2024-04-18T01:23:50Z</updated>
-    <id>tag:github.com,2024-04-18:/DKWDRV/DKWDRV</id>
-    <link href="https://github.com/DKWDRV/DKWDRV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SoilZhu/CookLikeHOC</title>
+    <updated>2024-04-19T01:23:58Z</updated>
+    <id>tag:github.com,2024-04-19:/SoilZhu/CookLikeHOC</id>
+    <link href="https://github.com/SoilZhu/CookLikeHOC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ton-society/ecosystem-map</title>
+    <updated>2024-04-19T01:23:58Z</updated>
+    <id>tag:github.com,2024-04-19:/ton-society/ecosystem-map</id>
+    <link href="https://github.com/ton-society/ecosystem-map" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TON Ecosystem Map&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

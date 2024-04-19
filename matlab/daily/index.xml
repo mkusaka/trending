@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-18T01:35:47Z</updated>
+  <updated>2024-04-19T01:32:20Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cameronraysmith/simpop</title>
-    <updated>2024-04-18T01:35:47Z</updated>
-    <id>tag:github.com,2024-04-18:/cameronraysmith/simpop</id>
-    <link href="https://github.com/cameronraysmith/simpop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mofas/mal</title>
-    <updated>2024-04-18T01:35:47Z</updated>
-    <id>tag:github.com,2024-04-18:/mofas/mal</id>
-    <link href="https://github.com/mofas/mal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;machine learning&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OpenPET-LBNL/GitHubDemo</title>
+    <updated>2024-04-19T01:32:20Z</updated>
+    <id>tag:github.com,2024-04-19:/OpenPET-LBNL/GitHubDemo</id>
+    <link href="https://github.com/OpenPET-LBNL/GitHubDemo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shi Han&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-18T01:34:08Z</updated>
+  <updated>2024-04-19T01:31:08Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CliMA/Cloudy.jl</title>
-    <updated>2024-04-18T01:34:08Z</updated>
-    <id>tag:github.com,2024-04-18:/CliMA/Cloudy.jl</id>
-    <link href="https://github.com/CliMA/Cloudy.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌧️ Multi-moment cloud microphysics toy model&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>glwagner/OceananigansArtifacts.jl</title>
+    <updated>2024-04-19T01:31:08Z</updated>
+    <id>tag:github.com,2024-04-19:/glwagner/OceananigansArtifacts.jl</id>
+    <link href="https://github.com/glwagner/OceananigansArtifacts.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaDynamics/StreamSampling.jl</title>
-    <updated>2024-04-18T01:34:08Z</updated>
-    <id>tag:github.com,2024-04-18:/JuliaDynamics/StreamSampling.jl</id>
-    <link href="https://github.com/JuliaDynamics/StreamSampling.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sampling methods for data streams&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HPI-Artificial-Intelligence-Teaching/pml-sose2024</title>
+    <updated>2024-04-19T01:31:08Z</updated>
+    <id>tag:github.com,2024-04-19:/HPI-Artificial-Intelligence-Teaching/pml-sose2024</id>
+    <link href="https://github.com/HPI-Artificial-Intelligence-Teaching/pml-sose2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All lectures and scripts for the BSc course &#34;Introduction to Probabilistic Machine Learning&#34; at the Hasso-Plattner Institute&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaGeo/GeometryOps.jl</title>
-    <updated>2024-04-18T01:34:08Z</updated>
-    <id>tag:github.com,2024-04-18:/JuliaGeo/GeometryOps.jl</id>
-    <link href="https://github.com/JuliaGeo/GeometryOps.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GeoInterface-based geometry operations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qojulia/QuantumCumulants.jl</title>
+    <updated>2024-04-19T01:31:08Z</updated>
+    <id>tag:github.com,2024-04-19:/qojulia/QuantumCumulants.jl</id>
+    <link href="https://github.com/qojulia/QuantumCumulants.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generalized mean-field equations in open quantum systems&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

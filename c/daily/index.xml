@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-18T01:25:31Z</updated>
+  <updated>2024-04-19T01:25:32Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Thehepta/androidGRPC</title>
-    <updated>2024-04-18T01:25:31Z</updated>
-    <id>tag:github.com,2024-04-18:/Thehepta/androidGRPC</id>
-    <link href="https://github.com/Thehepta/androidGRPC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;androidGRPC&lt;/h1&gt; &#xA;&lt;p&gt;项目搞得仓促，但是也能用，不过手续比较复杂&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;1.先脱dex,dumpDexToPC&lt;/li&gt; &#xA; &lt;li&gt;2.dump code_item ,会形成一个修复文件&lt;/li&gt; &#xA; &lt;li&gt;3.用baksmali 将dex和修复文件一起调用，会反编译为经过修复的smali工程&lt;/li&gt; &#xA; &lt;li&gt;4.用smali将smali工程回编译为dex&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;写时候需要一个类一个类的搞，可能有点费劲，也可以自己写遍历 grpc用9091端口通讯，只能同时打开1个apk,不能开两个，端口占用会崩溃 不用测试grpc本身，debug的dex好像有优化容易出错。 目前只是类加载脱壳哦，不是函数主动调用，比fart差一点的&lt;/p&gt; &#xA;&lt;p&gt;确实不够优雅，准备用c++重写android 端，优化调用框架，重开一个c++语言分支&lt;/p&gt;</summary>
+    <title>hakaioffsec/CVE-2024-21338</title>
+    <updated>2024-04-19T01:25:32Z</updated>
+    <id>tag:github.com,2024-04-19:/hakaioffsec/CVE-2024-21338</id>
+    <link href="https://github.com/hakaioffsec/CVE-2024-21338" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CVE-2024-21338&lt;/h1&gt; &#xA;&lt;p&gt;Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled.&lt;/p&gt; &#xA;&lt;h2&gt;Compiling&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Use Microsoft Visual Studio with the C++ package to successfully compile the PoC on both &lt;code&gt;Release&lt;/code&gt; and &lt;code&gt;Debug&lt;/code&gt; modes.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Post&lt;/h2&gt; &#xA;&lt;p&gt;Original blog post: &lt;a href=&#34;https://hakaisecurity.io/cve-2024-21338-from-admin-to-kernel-through-token-manipulation-and-windows-kernel-exploitation/research-blog/&#34;&gt;https://hakaisecurity.io/cve-2024-21338-from-admin-to-kernel-through-token-manipulation-and-windows-kernel-exploitation/research-blog/&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

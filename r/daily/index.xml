@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-18T01:40:48Z</updated>
+  <updated>2024-04-19T01:35:23Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>STAT380/hw6</title>
-    <updated>2024-04-18T01:40:48Z</updated>
-    <id>tag:github.com,2024-04-18:/STAT380/hw6</id>
-    <link href="https://github.com/STAT380/hw6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hw6&lt;/h1&gt;</summary>
-  </entry>
-  <entry>
-    <title>RMI-PACTA/pacta.data.preparation</title>
-    <updated>2024-04-18T01:40:48Z</updated>
-    <id>tag:github.com,2024-04-18:/RMI-PACTA/pacta.data.preparation</id>
-    <link href="https://github.com/RMI-PACTA/pacta.data.preparation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The goal of {pacta.data.preparation} is to prepare and format all input datasets required to run the PACTA for investors tools.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;pacta.data.preparation &lt;img src=&#34;https://raw.githubusercontent.com/RMI-PACTA/pacta.data.preparation/main/man/figures/logo.png&#34; align=&#34;right&#34; width=&#34;120&#34;&gt;&lt;/h1&gt; &#xA;&lt;!-- badges: start --&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://lifecycle.r-lib.org/articles/stages.html#experimental&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/lifecycle-experimental-orange.svg?sanitize=true&#34; alt=&#34;Lifecycle: experimental&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/RMI-PACTA/pacta.data.preparation/actions/workflows/R-CMD-check.yaml&#34;&gt;&lt;img src=&#34;https://github.com/RMI-PACTA/pacta.data.preparation/actions/workflows/R-CMD-check.yaml/badge.svg?sanitize=true&#34; alt=&#34;R-CMD-check&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://CRAN.R-project.org/package=pacta.data.preparation&#34;&gt;&lt;img src=&#34;https://www.r-pkg.org/badges/version/pacta.data.preparation&#34; alt=&#34;CRAN status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://rmi-pacta.r-universe.dev/ui#package:pacta.data.preparation&#34;&gt;&lt;img src=&#34;https://rmi-pacta.r-universe.dev/badges/pacta.data.preparation&#34; alt=&#34;pacta.data.preparation status badge&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;!-- badges: end --&gt; &#xA;&lt;p&gt;The &lt;code&gt;pacta.data.preparation&lt;/code&gt; R package provides utilities and functions used to process various data files into data required to run the PACTA for investors tools, such as &lt;a href=&#34;https://github.com/RMI-PACTA/workflow.transition.monitor&#34;&gt;RMI-PACTA/workflow.transition.monitor&lt;/a&gt; or &lt;a href=&#34;https://github.com/RMI-PACTA/workflow.pacta&#34;&gt;RMI-PACTA/workflow.pacta&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;You can install the development version of pacta.data.preparation from &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; with:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;# install.packages(&#34;pak&#34;)&#xA;pak::pak(&#34;RMI-PACTA/pacta.data.preparation&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Running data preparation&lt;/h2&gt; &#xA;&lt;p&gt;The primary way this package is intended to be used is through the &lt;a href=&#34;https://github.com/RMI-PACTA/workflow.data.preparation&#34;&gt;workflow.data.preparation&lt;/a&gt; repo. See there for an example workflow of how to use the functions of this package to complete a data preparation process properly.&lt;/p&gt;</summary>
-  </entry>
 </feed>

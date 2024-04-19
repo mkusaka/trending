@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-18T01:28:49Z</updated>
+  <updated>2024-04-19T01:28:13Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>RaddyTheBrand/Notes-NodeJs-CRUD-MongoDB</title>
-    <updated>2024-04-18T01:28:49Z</updated>
-    <id>tag:github.com,2024-04-18:/RaddyTheBrand/Notes-NodeJs-CRUD-MongoDB</id>
-    <link href="https://github.com/RaddyTheBrand/Notes-NodeJs-CRUD-MongoDB" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

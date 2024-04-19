@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-18T01:35:45Z</updated>
+  <updated>2024-04-19T01:32:19Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HEUOpenResource/heu-icicles</title>
-    <updated>2024-04-18T01:35:45Z</updated>
-    <id>tag:github.com,2024-04-18:/HEUOpenResource/heu-icicles</id>
-    <link href="https://github.com/HEUOpenResource/heu-icicles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;哈尔滨工程大学课程攻略共享计划&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

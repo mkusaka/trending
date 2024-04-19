@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-18T01:31:25Z</updated>
+  <updated>2024-04-19T01:29:49Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kaaveland/praktisk-haskell</title>
-    <updated>2024-04-18T01:31:25Z</updated>
-    <id>tag:github.com,2024-04-18:/kaaveland/praktisk-haskell</id>
-    <link href="https://github.com/kaaveland/praktisk-haskell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Faggruppe for haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Faggruppe for Haskell.&lt;/h1&gt; &#xA;&lt;h2&gt;A monad is just a monoid in the category of endofunctors, what&#39;s the problem?&lt;/h2&gt;</summary>
+    <title>iand675/argo</title>
+    <updated>2024-04-19T01:29:49Z</updated>
+    <id>tag:github.com,2024-04-19:/iand675/argo</id>
+    <link href="https://github.com/iand675/argo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; a task list item&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; list syntax required&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; normal &lt;strong&gt;formatting&lt;/strong&gt;, @mentions, #1234 refs&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; incomplete&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; completed&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>
