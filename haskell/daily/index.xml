@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-19T01:29:49Z</updated>
+  <updated>2024-04-20T01:32:00Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iand675/argo</title>
-    <updated>2024-04-19T01:29:49Z</updated>
-    <id>tag:github.com,2024-04-19:/iand675/argo</id>
-    <link href="https://github.com/iand675/argo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; a task list item&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; list syntax required&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; normal &lt;strong&gt;formatting&lt;/strong&gt;, @mentions, #1234 refs&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; incomplete&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; completed&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>GaloisInc/curl</title>
+    <updated>2024-04-20T01:32:00Z</updated>
+    <id>tag:github.com,2024-04-20:/GaloisInc/curl</id>
+    <link href="https://github.com/GaloisInc/curl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Haskell binding to the curl library&lt;/p&gt;&lt;hr&gt;&lt;p&gt;A Haskell binding to libcurl.&lt;/p&gt;</summary>
   </entry>
 </feed>

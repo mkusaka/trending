@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-19T01:38:57Z</updated>
+  <updated>2024-04-20T01:45:33Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NiGSan/Fallout-New-Vegas-FONV-Japanese-Patch</title>
-    <updated>2024-04-19T01:38:57Z</updated>
-    <id>tag:github.com,2024-04-19:/NiGSan/Fallout-New-Vegas-FONV-Japanese-Patch</id>
-    <link href="https://github.com/NiGSan/Fallout-New-Vegas-FONV-Japanese-Patch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&#34;Fallout New Vegas&#34; Japanese Patch! 日本語化パッチです。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

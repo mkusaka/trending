@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-19T01:32:20Z</updated>
+  <updated>2024-04-20T01:36:17Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OpenPET-LBNL/GitHubDemo</title>
-    <updated>2024-04-19T01:32:20Z</updated>
-    <id>tag:github.com,2024-04-19:/OpenPET-LBNL/GitHubDemo</id>
-    <link href="https://github.com/OpenPET-LBNL/GitHubDemo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shi Han&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LiZhengXiao99/Navigation-Learning</title>
+    <updated>2024-04-20T01:36:17Z</updated>
+    <id>tag:github.com,2024-04-20:/LiZhengXiao99/Navigation-Learning</id>
+    <link href="https://github.com/LiZhengXiao99/Navigation-Learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、SoftGNSS、KF-GINS、ORB-SLAM3 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令、以及我作为安理导航工程本科生对于导航学习的思考感悟；本仓库会长期更新，分享出来，希望有人用得上，也激励着自己坚持学下去；所有内容都可以随意转载，可用于任何目的，不必征求我的意见；如果您觉得内容有价值，推荐用 Github-Desktop 下载并保持更新。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-19T01:28:15Z</updated>
+  <updated>2024-04-20T01:29:34Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adopt-liveview/adopt-liveview</title>
+    <updated>2024-04-20T01:29:34Z</updated>
+    <id>tag:github.com,2024-04-20:/adopt-liveview/adopt-liveview</id>
+    <link href="https://github.com/adopt-liveview/adopt-liveview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn how to use Phoenix LiveView with no prior Elixir or Phoenix knowledge&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

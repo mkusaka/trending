@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-19T01:35:52Z</updated>
+  <updated>2024-04-20T01:41:17Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AntiKippi/UEB-Testsuite-2024S</title>
-    <updated>2024-04-19T01:35:52Z</updated>
-    <id>tag:github.com,2024-04-19:/AntiKippi/UEB-Testsuite-2024S</id>
-    <link href="https://github.com/AntiKippi/UEB-Testsuite-2024S" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A student created testsuite for the Übersetzterbau (compilers) VU at TU Wien in 2024S.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mariadomenech/SQLEnLlamas2024_2.0</title>
-    <updated>2024-04-19T01:35:52Z</updated>
-    <id>tag:github.com,2024-04-19:/mariadomenech/SQLEnLlamas2024_2.0</id>
-    <link href="https://github.com/mariadomenech/SQLEnLlamas2024_2.0" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

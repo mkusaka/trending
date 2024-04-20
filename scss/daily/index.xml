@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-19T01:36:38Z</updated>
+  <updated>2024-04-20T01:42:19Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>primary-theme/obsidian</title>
-    <updated>2024-04-19T01:36:38Z</updated>
-    <id>tag:github.com,2024-04-19:/primary-theme/obsidian</id>
-    <link href="https://github.com/primary-theme/obsidian" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Comfy, playful but productive theme for Obsidian. &#34;Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,&#34;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ParvinAlasgar/Sass-7.1Pattern</title>
-    <updated>2024-04-19T01:36:38Z</updated>
-    <id>tag:github.com,2024-04-19:/ParvinAlasgar/Sass-7.1Pattern</id>
-    <link href="https://github.com/ParvinAlasgar/Sass-7.1Pattern" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The 7-1 pattern&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ParvinAlasgar/Car-Animation</title>
-    <updated>2024-04-19T01:36:38Z</updated>
-    <id>tag:github.com,2024-04-19:/ParvinAlasgar/Car-Animation</id>
-    <link href="https://github.com/ParvinAlasgar/Car-Animation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Animations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>platzi/laboratorio-landing-perf-angular</title>
+    <updated>2024-04-20T01:42:19Z</updated>
+    <id>tag:github.com,2024-04-20:/platzi/laboratorio-landing-perf-angular</id>
+    <link href="https://github.com/platzi/laboratorio-landing-perf-angular" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

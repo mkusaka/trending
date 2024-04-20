@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-19T01:35:00Z</updated>
+  <updated>2024-04-20T01:40:03Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hunner/pe_scaling</title>
-    <updated>2024-04-19T01:35:00Z</updated>
-    <id>tag:github.com,2024-04-19:/hunner/pe_scaling</id>
-    <link href="https://github.com/hunner/pe_scaling" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vagrant setup with haproxy PMs and other stuff&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dvargek/vagrant-dev-env</title>
+    <updated>2024-04-20T01:40:03Z</updated>
+    <id>tag:github.com,2024-04-20:/dvargek/vagrant-dev-env</id>
+    <link href="https://github.com/dvargek/vagrant-dev-env" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Test development environment for vagrant + puppet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Puppet-Finland/ansible-collection-puppeteers-puppet</title>
-    <updated>2024-04-19T01:35:00Z</updated>
-    <id>tag:github.com,2024-04-19:/Puppet-Finland/ansible-collection-puppeteers-puppet</id>
-    <link href="https://github.com/Puppet-Finland/ansible-collection-puppeteers-puppet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ansible roles for managing Puppet servers, PuppetDB and Puppet Agents&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>russCloak/SublimePuppet</title>
+    <updated>2024-04-20T01:40:03Z</updated>
+    <id>tag:github.com,2024-04-20:/russCloak/SublimePuppet</id>
+    <link href="https://github.com/russCloak/SublimePuppet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet (puppetlabs.com) highlighting, snippets and completion for Sublime Text 2 or 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

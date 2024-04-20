@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-19T01:37:56Z</updated>
+  <updated>2024-04-20T01:44:10Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>geohot/tt06-fp4-mac</title>
-    <updated>2024-04-19T01:37:56Z</updated>
-    <id>tag:github.com,2024-04-19:/geohot/tt06-fp4-mac</id>
-    <link href="https://github.com/geohot/tt06-fp4-mac" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FP4 MAC Array&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
