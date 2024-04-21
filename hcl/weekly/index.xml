@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-21T03:28:42Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>iam-veeramalla/Azure-zero-to-hero</title>
+    <updated>2024-04-21T03:28:42Z</updated>
+    <id>tag:github.com,2024-04-21:/iam-veeramalla/Azure-zero-to-hero</id>
+    <link href="https://github.com/iam-veeramalla/Azure-zero-to-hero" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

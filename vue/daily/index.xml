@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-20T01:45:38Z</updated>
+  <updated>2024-04-21T03:22:50Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xunlu129/teriteri-client</title>
-    <updated>2024-04-20T01:45:38Z</updated>
-    <id>tag:github.com,2024-04-20:/xunlu129/teriteri-client</id>
-    <link href="https://github.com/xunlu129/teriteri-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个基于 vue3 搭建的视频网站平台客户端&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xunlu129/teriteri-admin</title>
-    <updated>2024-04-20T01:45:38Z</updated>
-    <id>tag:github.com,2024-04-20:/xunlu129/teriteri-admin</id>
-    <link href="https://github.com/xunlu129/teriteri-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个基于 vue3 搭建的视频网站平台管理员端&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>classfang/AIHub</title>
-    <updated>2024-04-20T01:45:38Z</updated>
-    <id>tag:github.com,2024-04-20:/classfang/AIHub</id>
-    <link href="https://github.com/classfang/AIHub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一款集合多家大模型能力的客户端。可以快速、低门槛搭建你的专属AI助手；支持自定义插件，扩展无限可能。 ✨✨&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kingwrcy/moments</title>
+    <updated>2024-04-21T03:22:50Z</updated>
+    <id>tag:github.com,2024-04-21:/kingwrcy/moments</id>
+    <link href="https://github.com/kingwrcy/moments" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;极简朋友圈&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

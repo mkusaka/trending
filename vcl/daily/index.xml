@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-20T01:45:17Z</updated>
+  <updated>2024-04-21T03:22:41Z</updated>
   <subtitle>Daily Trending of VCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shopware/varnish-shopware</title>
-    <updated>2024-04-20T01:45:17Z</updated>
-    <id>tag:github.com,2024-04-20:/shopware/varnish-shopware</id>
-    <link href="https://github.com/shopware/varnish-shopware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ready to go Varnish image for Shopware 6&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

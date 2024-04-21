@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-20T01:23:55Z</updated>
+  <updated>2024-04-21T03:09:13Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ronakganatra/awesome-marketing</title>
-    <updated>2024-04-20T01:23:55Z</updated>
-    <id>tag:github.com,2024-04-20:/ronakganatra/awesome-marketing</id>
-    <link href="https://github.com/ronakganatra/awesome-marketing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A living document of hand-picked resources for marketers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tldrsec/awesome-secure-defaults</title>
+    <updated>2024-04-21T03:09:13Z</updated>
+    <id>tag:github.com,2024-04-21:/tldrsec/awesome-secure-defaults</id>
+    <link href="https://github.com/tldrsec/awesome-secure-defaults" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Awesome secure by default libraries to help you eliminate bug classes!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yonggekkk/x-ui-yg</title>
-    <updated>2024-04-20T01:23:55Z</updated>
-    <id>tag:github.com,2024-04-20:/yonggekkk/x-ui-yg</id>
-    <link href="https://github.com/yonggekkk/x-ui-yg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;x-ui精简修改版脚本，集成argo隧道，默认节点即可解锁ChatGPT，xray配置已添加支持warp-socks5与wireguard warp出站分流，实现多IP出站分流共存&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>315386775/DeepLearing-Interview-Awesome-2024</title>
+    <updated>2024-04-21T03:09:13Z</updated>
+    <id>tag:github.com,2024-04-21:/315386775/DeepLearing-Interview-Awesome-2024</id>
+    <link href="https://github.com/315386775/DeepLearing-Interview-Awesome-2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Cisco-Talos/IOCs</title>
-    <updated>2024-04-20T01:23:55Z</updated>
-    <id>tag:github.com,2024-04-20:/Cisco-Talos/IOCs</id>
-    <link href="https://github.com/Cisco-Talos/IOCs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Indicators of Compromise&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Psmths/windows-forensic-artifacts</title>
+    <updated>2024-04-21T03:09:13Z</updated>
+    <id>tag:github.com,2024-04-21:/Psmths/windows-forensic-artifacts</id>
+    <link href="https://github.com/Psmths/windows-forensic-artifacts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Handbook of windows forensic artifacts across multiple Windows version with interpretation tips with some examples. Work in progress!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

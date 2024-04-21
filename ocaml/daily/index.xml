@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-20T01:38:03Z</updated>
+  <updated>2024-04-21T03:17:46Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mikeshulman/narya</title>
+    <updated>2024-04-21T03:17:46Z</updated>
+    <id>tag:github.com,2024-04-21:/mikeshulman/narya</id>
+    <link href="https://github.com/mikeshulman/narya" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A proof assistant for higher-dimensional type theory&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

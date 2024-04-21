@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-20T01:34:23Z</updated>
+  <updated>2024-04-21T03:15:32Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>EnergyModelsX/EnergyModelsBase.jl</title>
-    <updated>2024-04-20T01:34:23Z</updated>
-    <id>tag:github.com,2024-04-20:/EnergyModelsX/EnergyModelsBase.jl</id>
-    <link href="https://github.com/EnergyModelsX/EnergyModelsBase.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DonggeJia/LDPMLab</title>
+    <updated>2024-04-21T03:15:32Z</updated>
+    <id>tag:github.com,2024-04-21:/DonggeJia/LDPMLab</id>
+    <link href="https://github.com/DonggeJia/LDPMLab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LDPM developement laboratory&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CliMA/ClimaDiagnostics.jl</title>
+    <updated>2024-04-21T03:15:32Z</updated>
+    <id>tag:github.com,2024-04-21:/CliMA/ClimaDiagnostics.jl</id>
+    <link href="https://github.com/CliMA/ClimaDiagnostics.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Diagnostics support for CliMA ESM component models&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kalmarek/Arblib.jl</title>
+    <updated>2024-04-21T03:15:32Z</updated>
+    <id>tag:github.com,2024-04-21:/kalmarek/Arblib.jl</id>
+    <link href="https://github.com/kalmarek/Arblib.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Thin, efficient wrapper around Arb library (http://arblib.org/)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

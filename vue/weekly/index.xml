@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-21T03:37:43Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>inovector/mixpost</title>
+    <updated>2024-04-21T03:37:43Z</updated>
+    <id>tag:github.com,2024-04-21:/inovector/mixpost</id>
+    <link href="https://github.com/inovector/mixpost" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mixpost - Self-hosted social media management software (Buffer alternative)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nuxt-ui-pro/dashboard</title>
+    <updated>2024-04-21T03:37:43Z</updated>
+    <id>tag:github.com,2024-04-21:/nuxt-ui-pro/dashboard</id>
+    <link href="https://github.com/nuxt-ui-pro/dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dashboard template made with Vue and Nuxt UI Pro.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Zhouqluo/bilidown-web</title>
+    <updated>2024-04-21T03:37:43Z</updated>
+    <id>tag:github.com,2024-04-21:/Zhouqluo/bilidown-web</id>
+    <link href="https://github.com/Zhouqluo/bilidown-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;在线下载b站视频&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

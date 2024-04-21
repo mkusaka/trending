@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-20T01:36:17Z</updated>
+  <updated>2024-04-21T03:16:37Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LiZhengXiao99/Navigation-Learning</title>
-    <updated>2024-04-20T01:36:17Z</updated>
-    <id>tag:github.com,2024-04-20:/LiZhengXiao99/Navigation-Learning</id>
-    <link href="https://github.com/LiZhengXiao99/Navigation-Learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、SoftGNSS、KF-GINS、ORB-SLAM3 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令、以及我作为安理导航工程本科生对于导航学习的思考感悟；本仓库会长期更新，分享出来，希望有人用得上，也激励着自己坚持学下去；所有内容都可以随意转载，可用于任何目的，不必征求我的意见；如果您觉得内容有价值，推荐用 Github-Desktop 下载并保持更新。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bnaecker/bayes-modeling</title>
+    <updated>2024-04-21T03:16:37Z</updated>
+    <id>tag:github.com,2024-04-21:/bnaecker/bayes-modeling</id>
+    <link href="https://github.com/bnaecker/bayes-modeling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bayesian ideal observer modeling for psychophysical data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sysbiolux/MidbrainOrganoid_Miro1_scMetabMod</title>
+    <updated>2024-04-21T03:16:37Z</updated>
+    <id>tag:github.com,2024-04-21:/sysbiolux/MidbrainOrganoid_Miro1_scMetabMod</id>
+    <link href="https://github.com/sysbiolux/MidbrainOrganoid_Miro1_scMetabMod" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multi-cell population modelling predicts metabolic activity of midbrain organoids&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>richnguyen/age_progression</title>
+    <updated>2024-04-21T03:16:37Z</updated>
+    <id>tag:github.com,2024-04-21:/richnguyen/age_progression</id>
+    <link href="https://github.com/richnguyen/age_progression" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Age Progression via Image Morphing - Your whole life span in 10 seconds.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

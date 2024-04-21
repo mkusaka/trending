@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-20T01:32:00Z</updated>
+  <updated>2024-04-21T03:14:14Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GaloisInc/curl</title>
-    <updated>2024-04-20T01:32:00Z</updated>
-    <id>tag:github.com,2024-04-20:/GaloisInc/curl</id>
-    <link href="https://github.com/GaloisInc/curl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Haskell binding to the curl library&lt;/p&gt;&lt;hr&gt;&lt;p&gt;A Haskell binding to libcurl.&lt;/p&gt;</summary>
+    <title>Jiggins/Odd-bits-of-code</title>
+    <updated>2024-04-21T03:14:14Z</updated>
+    <id>tag:github.com,2024-04-21:/Jiggins/Odd-bits-of-code</id>
+    <link href="https://github.com/Jiggins/Odd-bits-of-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Just some odd bits of code I leave thrown about the place.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Odd-bits-of-code&lt;/h1&gt; &#xA;&lt;p&gt;Just some odd bits of code I leave thrown about the place.&lt;/p&gt;</summary>
   </entry>
 </feed>

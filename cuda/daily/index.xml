@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-20T01:27:22Z</updated>
+  <updated>2024-04-21T03:11:44Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>XuezheMax/megalodon</title>
-    <updated>2024-04-20T01:27:22Z</updated>
-    <id>tag:github.com,2024-04-20:/XuezheMax/megalodon</id>
-    <link href="https://github.com/XuezheMax/megalodon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reference implementation of Megalodon 7B model&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NVIDIA/cuda-checkpoint</title>
+    <updated>2024-04-21T03:11:44Z</updated>
+    <id>tag:github.com,2024-04-21:/NVIDIA/cuda-checkpoint</id>
+    <link href="https://github.com/NVIDIA/cuda-checkpoint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CUDA checkpoint and restore utility&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

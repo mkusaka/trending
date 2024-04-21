@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-20T01:27:36Z</updated>
+  <updated>2024-04-21T03:11:50Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>baryluk/wrt</title>
+    <updated>2024-04-21T03:11:50Z</updated>
+    <id>tag:github.com,2024-04-21:/baryluk/wrt</id>
+    <link href="https://github.com/baryluk/wrt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Real-time raytracing engine in D&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jctemkin/3pi-utils</title>
+    <updated>2024-04-21T03:11:50Z</updated>
+    <id>tag:github.com,2024-04-21:/jctemkin/3pi-utils</id>
+    <link href="https://github.com/jctemkin/3pi-utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utilities for Pololu&#39;s 3pi robot platform.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

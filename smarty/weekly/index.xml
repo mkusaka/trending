@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-21T03:36:04Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>supabase-community/supabase-kubernetes</title>
+    <updated>2024-04-21T03:36:04Z</updated>
+    <id>tag:github.com,2024-04-21:/supabase-community/supabase-kubernetes</id>
+    <link href="https://github.com/supabase-community/supabase-kubernetes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm 3 charts to deploy a Supabase on Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giantswarm/teleport-plugin-event-handler-app</title>
+    <updated>2024-04-21T03:36:04Z</updated>
+    <id>tag:github.com,2024-04-21:/giantswarm/teleport-plugin-event-handler-app</id>
+    <link href="https://github.com/giantswarm/teleport-plugin-event-handler-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seedtag/gtm-server-tag</title>
+    <updated>2024-04-21T03:36:04Z</updated>
+    <id>tag:github.com,2024-04-21:/seedtag/gtm-server-tag</id>
+    <link href="https://github.com/seedtag/gtm-server-tag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

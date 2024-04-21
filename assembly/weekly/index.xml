@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-21T03:24:14Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>grimdoomer/Halo-2-HD</title>
+    <updated>2024-04-21T03:24:14Z</updated>
+    <id>tag:github.com,2024-04-21:/grimdoomer/Halo-2-HD</id>
+    <link href="https://github.com/grimdoomer/Halo-2-HD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HD patch for Halo 2 on the original Xbox&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hicder/spimbot</title>
+    <updated>2024-04-21T03:24:14Z</updated>
+    <id>tag:github.com,2024-04-21:/hicder/spimbot</id>
+    <link href="https://github.com/hicder/spimbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spimbot contest for CS 398&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

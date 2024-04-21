@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-20T01:43:49Z</updated>
+  <updated>2024-04-21T03:21:32Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>anselm94/cf-challenge-ai-storycard</title>
-    <updated>2024-04-20T01:43:49Z</updated>
-    <id>tag:github.com,2024-04-20:/anselm94/cf-challenge-ai-storycard</id>
-    <link href="https://github.com/anselm94/cf-challenge-ai-storycard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create Stories in a card with illustrations using AI. Created as part of Cloudflare AI Dev Challenge&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cosmoart/Freesets</title>
-    <updated>2024-04-20T01:43:49Z</updated>
-    <id>tag:github.com,2024-04-20:/cosmoart/Freesets</id>
-    <link href="https://github.com/cosmoart/Freesets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📋Collection of free resources like icons, images, illustrations, components, libraries and more!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rcb123/ToggleMind</title>
-    <updated>2024-04-20T01:43:49Z</updated>
-    <id>tag:github.com,2024-04-20:/rcb123/ToggleMind</id>
-    <link href="https://github.com/rcb123/ToggleMind" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Language comprehension learning platform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stordahl/svelte-cookbook</title>
+    <updated>2024-04-21T03:21:32Z</updated>
+    <id>tag:github.com,2024-04-21:/stordahl/svelte-cookbook</id>
+    <link href="https://github.com/stordahl/svelte-cookbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A community built resource, for productive Svelte Development&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

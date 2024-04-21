@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-20T01:43:35Z</updated>
+  <updated>2024-04-21T03:21:22Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thisissoon/tilt-sample</title>
+    <updated>2024-04-21T03:21:22Z</updated>
+    <id>tag:github.com,2024-04-21:/thisissoon/tilt-sample</id>
+    <link href="https://github.com/thisissoon/tilt-sample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A sample of using Tilt for non-docker-focused repos.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>googleapis/googleapis-discovery</title>
+    <updated>2024-04-21T03:21:22Z</updated>
+    <id>tag:github.com,2024-04-21:/googleapis/googleapis-discovery</id>
+    <link href="https://github.com/googleapis/googleapis-discovery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

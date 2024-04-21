@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-20T01:42:19Z</updated>
+  <updated>2024-04-21T03:20:41Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>platzi/laboratorio-landing-perf-angular</title>
-    <updated>2024-04-20T01:42:19Z</updated>
-    <id>tag:github.com,2024-04-20:/platzi/laboratorio-landing-perf-angular</id>
-    <link href="https://github.com/platzi/laboratorio-landing-perf-angular" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>digitoimistodude/air-light</title>
+    <updated>2024-04-21T03:20:41Z</updated>
+    <id>tag:github.com,2024-04-21:/digitoimistodude/air-light</id>
+    <link href="https://github.com/digitoimistodude/air-light" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💨 WordPress starter theme - designed to be minimal, ultra-lightweight (&lt; 20 kB) and easy for all kinds of WordPress projects. 7+years/1000+hours of development and still updating daily! We prefer the original WordPress way of doing things so no strange templating languages or frameworks here.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
