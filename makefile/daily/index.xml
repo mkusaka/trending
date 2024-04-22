@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-21T03:16:32Z</updated>
+  <updated>2024-04-22T01:40:45Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>stdlib-js/math-base-special-kernel-log1p</title>
-    <updated>2024-04-21T03:16:32Z</updated>
-    <id>tag:github.com,2024-04-21:/stdlib-js/math-base-special-kernel-log1p</id>
-    <link href="https://github.com/stdlib-js/math-base-special-kernel-log1p" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compute log(1+f) - f for 1+f in ~[sqrt(2)/2, sqrt(2)].&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pulumi/pulumi-ns1</title>
+    <updated>2024-04-22T01:40:45Z</updated>
+    <id>tag:github.com,2024-04-22:/pulumi/pulumi-ns1</id>
+    <link href="https://github.com/pulumi/pulumi-ns1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A NS1 Pulumi resource package, providing multi-language access to NS1&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>stdlib-js/napi-create-complex-like</title>
-    <updated>2024-04-21T03:16:32Z</updated>
-    <id>tag:github.com,2024-04-21:/stdlib-js/napi-create-complex-like</id>
-    <link href="https://github.com/stdlib-js/napi-create-complex-like" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create a Node-API value representing a complex number-like object.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Snapchain/zkValidium-quickstart</title>
-    <updated>2024-04-21T03:16:32Z</updated>
-    <id>tag:github.com,2024-04-21:/Snapchain/zkValidium-quickstart</id>
-    <link href="https://github.com/Snapchain/zkValidium-quickstart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pulumi/pulumi-kong</title>
+    <updated>2024-04-22T01:40:45Z</updated>
+    <id>tag:github.com,2024-04-22:/pulumi/pulumi-kong</id>
+    <link href="https://github.com/pulumi/pulumi-kong" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Kong Pulumi resource package, providing multi-language access to Kong&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

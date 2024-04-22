@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-21T03:12:55Z</updated>
+  <updated>2024-04-22T01:34:59Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cloudant/rebar_knit_appups_plugin</title>
-    <updated>2024-04-21T03:12:55Z</updated>
-    <id>tag:github.com,2024-04-21:/cloudant/rebar_knit_appups_plugin</id>
-    <link href="https://github.com/cloudant/rebar_knit_appups_plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A rebar plugin for generating appups&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

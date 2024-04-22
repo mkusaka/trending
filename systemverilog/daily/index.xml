@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-21T03:21:36Z</updated>
+  <updated>2024-04-22T01:48:18Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gtaylormb/opl3_fpga</title>
-    <updated>2024-04-21T03:21:36Z</updated>
-    <id>tag:github.com,2024-04-21:/gtaylormb/opl3_fpga</id>
-    <link href="https://github.com/gtaylormb/opl3_fpga" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reverse engineered SystemVerilog RTL version of the Yamaha OPL3 (YMF262) FM Synthesizer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

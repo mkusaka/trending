@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-21T03:11:37Z</updated>
+  <updated>2024-04-22T01:32:57Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>munris-vlad/munris.tech</title>
-    <updated>2024-04-21T03:11:37Z</updated>
-    <id>tag:github.com,2024-04-21:/munris-vlad/munris.tech</id>
-    <link href="https://github.com/munris-vlad/munris.tech" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;munris.tech&lt;/h1&gt; &#xA;&lt;p&gt;What?&lt;/p&gt;</summary>
+    <title>shitiven/GitPower</title>
+    <updated>2024-04-22T01:32:57Z</updated>
+    <id>tag:github.com,2024-04-22:/shitiven/GitPower</id>
+    <link href="https://github.com/shitiven/GitPower" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast, secure and stable solution based on Python &amp; Django&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;http://www.gitpower.com&#34;&gt;GitPower Demo&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installation Guide&lt;/h2&gt; &#xA;&lt;h4&gt;Requirements&lt;/h4&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Python &amp;gt;= 2.5 &amp;amp;&amp;amp; Python &amp;lt;= 2.7&lt;/li&gt; &#xA; &lt;li&gt;The django support database (defalut mysql)&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://redis.io/&#34;&gt;Redis server &lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://pypi.python.org/pypi/pip&#34;&gt;pip tool&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/epriestley/sshd-vcs&#34;&gt;sshd-vcs&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h4&gt;Install python requirements&lt;/h4&gt; &#xA;&lt;p&gt;&lt;code&gt;sudo pip install -r requirements.txt&lt;/code&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>jckermagoret/jckermagoret.github.com</title>
-    <updated>2024-04-21T03:11:37Z</updated>
-    <id>tag:github.com,2024-04-21:/jckermagoret/jckermagoret.github.com</id>
-    <link href="https://github.com/jckermagoret/jckermagoret.github.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Personal Web Site&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;jckermagoret.github.com&lt;/h1&gt; &#xA;&lt;p&gt;Personal Web Site&lt;/p&gt; &#xA;&lt;p&gt;Test&lt;/p&gt;</summary>
+    <title>codenihar/react-love-letter</title>
+    <updated>2024-04-22T01:32:57Z</updated>
+    <id>tag:github.com,2024-04-22:/codenihar/react-love-letter</id>
+    <link href="https://github.com/codenihar/react-love-letter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Propose your GF/BF using React Love Letter&lt;/h1&gt; &#xA;&lt;p&gt;Developed by &lt;a href=&#34;https://instagram.com/niihaaarrrr&#34;&gt;Dodagatta Nihar&lt;/a&gt; Website Link: &lt;a href=&#34;https://react-love-letter.vercel.app&#34;&gt;Click Here&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;How to use this?&lt;/h3&gt; &#xA;&lt;p&gt;Just fork the repository and install dependencies and run &#39;npm start&#39; and done :)&lt;/p&gt;</summary>
   </entry>
 </feed>

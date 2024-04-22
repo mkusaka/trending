@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-21T03:20:07Z</updated>
+  <updated>2024-04-22T01:46:09Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>onehundredproof/ec2-main</title>
+    <updated>2024-04-22T01:46:09Z</updated>
+    <id>tag:github.com,2024-04-22:/onehundredproof/ec2-main</id>
+    <link href="https://github.com/onehundredproof/ec2-main" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EC2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phaedryx/rails-angularjs-hello-world</title>
+    <updated>2024-04-22T01:46:09Z</updated>
+    <id>tag:github.com,2024-04-22:/phaedryx/rails-angularjs-hello-world</id>
+    <link href="https://github.com/phaedryx/rails-angularjs-hello-world" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple hello world for angularjs+rails&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Simple app to try out angularjs with rails&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-21T03:15:32Z</updated>
+  <updated>2024-04-22T01:38:56Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DonggeJia/LDPMLab</title>
-    <updated>2024-04-21T03:15:32Z</updated>
-    <id>tag:github.com,2024-04-21:/DonggeJia/LDPMLab</id>
-    <link href="https://github.com/DonggeJia/LDPMLab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LDPM developement laboratory&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CedarEDA/CedarEDA.jl</title>
+    <updated>2024-04-22T01:38:56Z</updated>
+    <id>tag:github.com,2024-04-22:/CedarEDA/CedarEDA.jl</id>
+    <link href="https://github.com/CedarEDA/CedarEDA.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Top level CedarEDA integration package&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CliMA/ClimaDiagnostics.jl</title>
-    <updated>2024-04-21T03:15:32Z</updated>
-    <id>tag:github.com,2024-04-21:/CliMA/ClimaDiagnostics.jl</id>
-    <link href="https://github.com/CliMA/ClimaDiagnostics.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Diagnostics support for CliMA ESM component models&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tinggong/Microstructure.jl</title>
+    <updated>2024-04-22T01:38:56Z</updated>
+    <id>tag:github.com,2024-04-22:/Tinggong/Microstructure.jl</id>
+    <link href="https://github.com/Tinggong/Microstructure.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia Toolbox for microstructure imaging&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kalmarek/Arblib.jl</title>
-    <updated>2024-04-21T03:15:32Z</updated>
-    <id>tag:github.com,2024-04-21:/kalmarek/Arblib.jl</id>
-    <link href="https://github.com/kalmarek/Arblib.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Thin, efficient wrapper around Arb library (http://arblib.org/)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/DelayDiffEq.jl</title>
+    <updated>2024-04-22T01:38:56Z</updated>
+    <id>tag:github.com,2024-04-22:/SciML/DelayDiffEq.jl</id>
+    <link href="https://github.com/SciML/DelayDiffEq.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delay differential equation (DDE) solvers in Julia for the SciML scientific machine learning ecosystem. Covers neutral and retarded delay differential equations, and differential-algebraic equations.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
