@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-22T01:39:53Z</updated>
+  <updated>2024-04-23T01:36:57Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cmu-l3/llmlean</title>
-    <updated>2024-04-22T01:39:53Z</updated>
-    <id>tag:github.com,2024-04-22:/cmu-l3/llmlean</id>
-    <link href="https://github.com/cmu-l3/llmlean" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LLMs + Lean, on your laptop or in the cloud&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NUS-Math-Formalization/coxeter</title>
+    <updated>2024-04-23T01:36:57Z</updated>
+    <id>tag:github.com,2024-04-23:/NUS-Math-Formalization/coxeter</id>
+    <link href="https://github.com/NUS-Math-Formalization/coxeter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

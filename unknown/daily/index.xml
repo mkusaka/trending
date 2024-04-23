@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-22T01:29:22Z</updated>
+  <updated>2024-04-23T01:28:33Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Aikoyori/ProgrammingVTuberLogos</title>
-    <updated>2024-04-22T01:29:22Z</updated>
-    <id>tag:github.com,2024-04-22:/Aikoyori/ProgrammingVTuberLogos</id>
-    <link href="https://github.com/Aikoyori/ProgrammingVTuberLogos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High-quality PNGs for logos I made for fun&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG</title>
-    <updated>2024-04-22T01:29:22Z</updated>
-    <id>tag:github.com,2024-04-22:/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG</id>
-    <link href="https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dive into a diverse array of Free Images of routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Whether you&#39;re a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rbhatia46/Data-Science-Interview-Resources</title>
-    <updated>2024-04-22T01:29:22Z</updated>
-    <id>tag:github.com,2024-04-22:/rbhatia46/Data-Science-Interview-Resources</id>
-    <link href="https://github.com/rbhatia46/Data-Science-Interview-Resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qiye45/wechatVideoDownload</title>
+    <updated>2024-04-23T01:28:33Z</updated>
+    <id>tag:github.com,2024-04-23:/qiye45/wechatVideoDownload</id>
+    <link href="https://github.com/qiye45/wechatVideoDownload" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;微信视频号下载工具，支持视频、直播回放下载&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

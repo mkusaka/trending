@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-22T01:36:55Z</updated>
+  <updated>2024-04-23T01:34:47Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>well-typed/trace-foreign-calls</title>
-    <updated>2024-04-22T01:36:55Z</updated>
-    <id>tag:github.com,2024-04-22:/well-typed/trace-foreign-calls</id>
-    <link href="https://github.com/well-typed/trace-foreign-calls" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GHC plugin to add eventlog tracing for foreign function calls&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Eventlog tracing for foreign function calls&lt;/h1&gt; &#xA;&lt;p&gt;Suppose we have a module containing&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haskell&#34;&gt;foreign import capi &#34;test_cbits.h answer&#34; c_answerIO :: IO CInt&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;If we compile this module with the plugin from this package by adding this to the module header:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;{-# OPTIONS_GHC -fplugin=Plugin.TraceForeignCalls #-}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;then the foreign call will be wrapped, so that any call to this particular foreign function will result in events such as this in the eventlog:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;..&#xA;694754: cap 0: start foreign call c_answerIO&#xA;..&#xA;697444: cap 0: stop foreign call c_answerIO&#xA;..&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

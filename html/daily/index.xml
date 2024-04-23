@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-22T01:37:26Z</updated>
+  <updated>2024-04-23T01:35:09Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>reisxd/TizenBrew</title>
+    <updated>2024-04-23T01:35:09Z</updated>
+    <id>tag:github.com,2024-04-23:/reisxd/TizenBrew</id>
+    <link href="https://github.com/reisxd/TizenBrew" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A way to experience modded websites and you can install newer apps without fighting with Tizen Studio&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TizenBrew&lt;/h1&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/reisxd/TizenBrew/main/.github/assets/logo.png&#34;&gt; &lt;br&gt; &lt;a&gt;Thank you &lt;/a&gt;&lt;a href=&#34;https://github.com/Zyborg777&#34;&gt;@Zyborg777&lt;/a&gt; for the logo! &lt;/p&gt; &#xA;&lt;p&gt;TizenBrew is a way to experience modded websites (like &lt;a href=&#34;https://github.com/reisxd/TizenTube&#34;&gt;TizenTube&lt;/a&gt;) and you can install newer apps without having to deal with Tizen Studio multiple times.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://discord.gg/m2P7v8Y2qR&#34;&gt;Discord Server Invite&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Getting started&lt;/h1&gt; &#xA;&lt;p&gt;You can read the &lt;a href=&#34;https://raw.githubusercontent.com/reisxd/TizenBrew/main/docs/README.md&#34;&gt;guide&lt;/a&gt; to get started with TizenBrew.&lt;/p&gt; &#xA;&lt;h1&gt;Making a module&lt;/h1&gt; &#xA;&lt;p&gt;You can read the &lt;a href=&#34;https://raw.githubusercontent.com/reisxd/TizenBrew/main/docs/MODULES.md&#34;&gt;guide&lt;/a&gt; to make a module for TizenBrew.&lt;/p&gt;</summary>
+  </entry>
 </feed>

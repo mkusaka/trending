@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-22T01:47:35Z</updated>
+  <updated>2024-04-23T01:43:00Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DependencyTrack/helm-charts</title>
-    <updated>2024-04-22T01:47:35Z</updated>
-    <id>tag:github.com,2024-04-22:/DependencyTrack/helm-charts</id>
-    <link href="https://github.com/DependencyTrack/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm Charts for Dependency-Track&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clemlesne/blue-agent</title>
+    <updated>2024-04-23T01:43:00Z</updated>
+    <id>tag:github.com,2024-04-23:/clemlesne/blue-agent</id>
+    <link href="https://github.com/clemlesne/blue-agent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deploy Azure Pipelines agent on Kubernetes. Easy way. Cheap. Windows and Linux.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
