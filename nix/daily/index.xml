@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-23T01:38:41Z</updated>
+  <updated>2024-04-24T01:30:01Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nix-community/dconf2nix</title>
-    <updated>2024-04-23T01:38:41Z</updated>
-    <id>tag:github.com,2024-04-23:/nix-community/dconf2nix</id>
-    <link href="https://github.com/nix-community/dconf2nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐾 Convert dconf files (e.g. GNOME Shell) to Nix, as expected by Home Manager [maintainer=@jtojnar]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Andrey0189/nixos-config</title>
-    <updated>2024-04-23T01:38:41Z</updated>
-    <id>tag:github.com,2024-04-23:/Andrey0189/nixos-config</id>
-    <link href="https://github.com/Andrey0189/nixos-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;❄️ My nixos configuration files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IogaMaster/flux</title>
+    <updated>2024-04-24T01:30:01Z</updated>
+    <id>tag:github.com,2024-04-24:/IogaMaster/flux</id>
+    <link href="https://github.com/IogaMaster/flux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create and deploy game servers with nix&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

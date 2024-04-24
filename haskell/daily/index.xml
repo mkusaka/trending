@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-23T01:34:47Z</updated>
+  <updated>2024-04-24T01:28:22Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pdepjm/2024-f-ej-clase-cumpleanios</title>
+    <updated>2024-04-24T01:28:22Z</updated>
+    <id>tag:github.com,2024-04-24:/pdepjm/2024-f-ej-clase-cumpleanios</id>
+    <link href="https://github.com/pdepjm/2024-f-ej-clase-cumpleanios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ejercicio de la clase del 18/04 donde vimos orden superior y composición&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Ejercicio de la clase del 18/04 donde vimos orden superior y composición. Para ver el enunciado segui &lt;a href=&#34;https://docs.google.com/document/d/1fiwFHxrfKRtdPdK3iMCJgnzq5kDXppnkPha-QI9y5Xk/edit?usp=sharing&#34;&gt;este link&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

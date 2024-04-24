@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-23T01:43:47Z</updated>
+  <updated>2024-04-24T01:32:26Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CS-MATH-113-Spring-2024/pset15</title>
-    <updated>2024-04-23T01:43:47Z</updated>
-    <id>tag:github.com,2024-04-23:/CS-MATH-113-Spring-2024/pset15</id>
-    <link href="https://github.com/CS-MATH-113-Spring-2024/pset15" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Problem Set 15: Problem Set 15: Graphs and Matchings&lt;/h1&gt; &#xA;&lt;h1&gt;CS/MATH 113 Discrete Mathematics, Spring 2024&lt;/h1&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Each Problem Set (PSet) contains problems on recently covered material for you to practice. These prepare you for upcoming assessments and later topics.&lt;/p&gt; &#xA;&lt;h1&gt;Purpose&lt;/h1&gt; &#xA;&lt;p&gt;This PSet contains problems on graphs and matchings.&lt;/p&gt; &#xA;&lt;h1&gt;Background and requirement&lt;/h1&gt; &#xA;&lt;p&gt;To attempt and submit this PSet you will need&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;to recall and apply the definitions of types of graphs: connected, bipartite, simple, cycle&lt;/li&gt; &#xA; &lt;li&gt;to recall and apply the definitions of related concepts: degree, matching, coloring&lt;/li&gt; &#xA; &lt;li&gt;to recall the proof techniques covered previously and select appropriate ones&lt;/li&gt; &#xA; &lt;li&gt;to model a problem using graphs&lt;/li&gt; &#xA; &lt;li&gt;to make logical arguments as required for a proof&lt;/li&gt; &#xA; &lt;li&gt;comfort with GitHub and LaTeX&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Grading&lt;/h1&gt; &#xA;&lt;p&gt;Grading is described on Canvas.&lt;/p&gt; &#xA;&lt;h1&gt;Task&lt;/h1&gt; &#xA;&lt;p&gt;The task for this PSet is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file.&lt;/p&gt; &#xA;&lt;h1&gt;Deadline and discussion&lt;/h1&gt; &#xA;&lt;p&gt;The deadline is mentioned on Canvas.&lt;/p&gt; &#xA;&lt;p&gt;For discussion on the PSet, please use the related Canvas discussion thread.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;viel Spass!&lt;/p&gt;</summary>
+    <title>compsys-progtools/spring2024</title>
+    <updated>2024-04-24T01:32:26Z</updated>
+    <id>tag:github.com,2024-04-24:/compsys-progtools/spring2024</id>
+    <link href="https://github.com/compsys-progtools/spring2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;sp24 site&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Computer systems and programming tools sp23&lt;/h1&gt; &#xA;&lt;!--&#xA;Course Manual For fall 2020&#xA;&#xA;This is the student handbook for the course for this semester.  This repo (and the rendered jupyter book) contain all of the nonprivate content that is required for the course.  &#xA;&#xA;Private content such as grades and timely content like announcements are on Brightspace.  --&gt;</summary>
   </entry>
   <entry>
-    <title>CS-MATH-113-Spring-2024/wc15</title>
-    <updated>2024-04-23T01:43:47Z</updated>
-    <id>tag:github.com,2024-04-23:/CS-MATH-113-Spring-2024/wc15</id>
-    <link href="https://github.com/CS-MATH-113-Spring-2024/wc15" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Weekly Challenge 15: Matching in Bipartite Graphs&lt;/h1&gt; &#xA;&lt;h1&gt;CS/MATH 113 Discrete Mathematics, Spring 2024&lt;/h1&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Each Weekly Challenge (WC) invites you to critically engage with the topics covered up to that week. They may take on a variety of formats and be available and attempted through diverse platforms as the semester progresses. They may be attempted individually or in teams as indicated.&lt;/p&gt; &#xA;&lt;h1&gt;Purpose&lt;/h1&gt; &#xA;&lt;p&gt;This WC presents a puzzle that has to be modeled as a matching in a bipartite graph.&lt;/p&gt; &#xA;&lt;h1&gt;Background and Requirements&lt;/h1&gt; &#xA;&lt;p&gt;To attempt and submit the task you will need&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;to follow given rules to solve a puzzle&lt;/li&gt; &#xA; &lt;li&gt;apply the definitions of bipartite graphs and matching in order to model a situation&lt;/li&gt; &#xA; &lt;li&gt;to recall previously covered proof techniques in order to select and apply one for a given task&lt;/li&gt; &#xA; &lt;li&gt;the time, patience, and perseverance to work through the problem&lt;/li&gt; &#xA; &lt;li&gt;the willingness to work through the LaTeX source&lt;/li&gt; &#xA; &lt;li&gt;comfort with GitHub and LaTeX&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Grading&lt;/h1&gt; &#xA;&lt;p&gt;Grading is as per the rubric shared on Canvas.&lt;/p&gt; &#xA;&lt;h1&gt;Task&lt;/h1&gt; &#xA;&lt;p&gt;The task for this WC is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file.&lt;/p&gt; &#xA;&lt;h1&gt;Deadline and discussion&lt;/h1&gt; &#xA;&lt;p&gt;The deadline is mentioned on Canvas.&lt;/p&gt; &#xA;&lt;p&gt;For discussion on the WC, please use the related Canvas discussion thread.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;viel Spass!&lt;/p&gt;</summary>
+    <title>cipri-tom/CVs</title>
+    <updated>2024-04-24T01:32:26Z</updated>
+    <id>tag:github.com,2024-04-24:/cipri-tom/CVs</id>
+    <link href="https://github.com/cipri-tom/CVs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CVs&lt;/h1&gt; &#xA;&lt;p&gt;A few versions of my CVs, updated as often as necessary.&lt;/p&gt;</summary>
   </entry>
 </feed>

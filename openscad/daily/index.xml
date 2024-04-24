@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OpenSCAD Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-23T01:39:21Z</updated>
+  <updated>2024-04-24T01:30:17Z</updated>
   <subtitle>Daily Trending of OpenSCAD in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sammy-hughes/key-sweep</title>
+    <updated>2024-04-24T01:30:17Z</updated>
+    <id>tag:github.com,2024-04-24:/sammy-hughes/key-sweep</id>
+    <link href="https://github.com/sammy-hughes/key-sweep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A multi-axis, concave typing experience on your good ol&#39; planar keyboard!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-23T01:44:44Z</updated>
+  <updated>2024-04-24T01:32:53Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fluentlabs-xyz/fluentbase</title>
-    <updated>2024-04-23T01:44:44Z</updated>
-    <id>tag:github.com,2024-04-23:/fluentlabs-xyz/fluentbase</id>
-    <link href="https://github.com/fluentlabs-xyz/fluentbase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A framework for building WASM-based ZK apps&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-23T01:40:27Z</updated>
+  <updated>2024-04-24T01:30:44Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>twisst/living_QR_code</title>
+    <updated>2024-04-24T01:30:44Z</updated>
+    <id>tag:github.com,2024-04-24:/twisst/living_QR_code</id>
+    <link href="https://github.com/twisst/living_QR_code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A QR code that appears to be entirely composed of your webcam video — and yet remains scannable!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>martinhj/processingGUI</title>
+    <updated>2024-04-24T01:30:44Z</updated>
+    <id>tag:github.com,2024-04-24:/martinhj/processingGUI</id>
+    <link href="https://github.com/martinhj/processingGUI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Testing processing gui capabilities&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cambodia21/midterm</title>
+    <updated>2024-04-24T01:30:44Z</updated>
+    <id>tag:github.com,2024-04-24:/cambodia21/midterm</id>
+    <link href="https://github.com/cambodia21/midterm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

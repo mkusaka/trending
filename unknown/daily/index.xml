@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-23T01:28:33Z</updated>
+  <updated>2024-04-24T01:25:58Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>qiye45/wechatVideoDownload</title>
-    <updated>2024-04-23T01:28:33Z</updated>
-    <id>tag:github.com,2024-04-23:/qiye45/wechatVideoDownload</id>
-    <link href="https://github.com/qiye45/wechatVideoDownload" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;微信视频号下载工具，支持视频、直播回放下载&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>datawhalechina/so-large-lm</title>
+    <updated>2024-04-24T01:25:58Z</updated>
+    <id>tag:github.com,2024-04-24:/datawhalechina/so-large-lm</id>
+    <link href="https://github.com/datawhalechina/so-large-lm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;大模型基础: 一文了解大模型基础知识&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>01Kevin01/OnionLinksV3</title>
+    <updated>2024-04-24T01:25:58Z</updated>
+    <id>tag:github.com,2024-04-24:/01Kevin01/OnionLinksV3</id>
+    <link href="https://github.com/01Kevin01/OnionLinksV3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2024!!Onion Links V3!!(Forum&amp;Chat&amp;Markets)TR-EN&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

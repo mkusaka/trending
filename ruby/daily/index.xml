@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-23T01:42:01Z</updated>
+  <updated>2024-04-24T01:31:24Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>paypal/paypalcheckout-ios</title>
-    <updated>2024-04-23T01:42:01Z</updated>
-    <id>tag:github.com,2024-04-23:/paypal/paypalcheckout-ios</id>
-    <link href="https://github.com/paypal/paypalcheckout-ios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Need to add Native Checkout to your iOS Application? We can help!&lt;/p&gt;&lt;hr&gt;&lt;h3&gt;Notice&lt;/h3&gt; &#xA;&lt;p&gt;Integrating the Native Checkout is only active for existing developers who have previously integrated the PayPal iOS Checkout SDK. For any new developers seeking the Native Checkout experience, this integration path is considered inactive. Please integrate via the &lt;a href=&#34;https://github.com/braintree/braintree_ios&#34;&gt;Braintree iOS SDK&lt;/a&gt; or the &lt;a href=&#34;https://github.com/paypal/iOS-SDK/&#34;&gt;PayPal iOS SDK&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;3DS Support&lt;/h2&gt; &#xA;&lt;p&gt;The PayPal Native Checkout SDK supports processing transactions that involve resolving 3D-Secure contingencies. In order to enable 3D-Secure contingency resolution for your users, there are a couple extra steps involved in the PayPalCheckout integration.&lt;/p&gt; &#xA;&lt;h2&gt;OTP Support&lt;/h2&gt; &#xA;&lt;p&gt;Some users (those in the U.S. with a confirmed phone number associated with their account) will be able to log in to their PayPal account using a one time passcode sent via SMS, instead of via a webview. To test this flow in the &lt;code&gt;sandbox&lt;/code&gt; environment, log in using a sandbox user with a confirmed phone number. The passcode to test a successful flow will be &lt;code&gt;111111&lt;/code&gt;, while any other passcode will result in a failure response.&lt;/p&gt; &#xA;&lt;h2&gt;Feedback&lt;/h2&gt; &#xA;&lt;p&gt;For exisiting developers who have previously integrated the PayPal iOS Checkout SDK&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/paypal/paypalcheckout-ios/issues&#34;&gt;Open an issue&lt;/a&gt; - for issues, feedback, or to report a bug&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For new developers who have not previously integrated the PayPal iOS Checkout SDK, please integrate via the &lt;a href=&#34;https://github.com/braintree/braintree_ios&#34;&gt;Braintree iOS SDK&lt;/a&gt; or the &lt;a href=&#34;https://github.com/paypal/iOS-SDK/&#34;&gt;PayPal iOS SDK&lt;/a&gt;. For feedback, issues, or bugs, reach out to the Braintree team. See &lt;a href=&#34;https://github.com/braintree/braintree_ios&#34;&gt;Braintree iOS SDK&lt;/a&gt; for more information on how.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;See the LICENSE file for more info.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>appdev-projects/rails-omnicalc-2</title>
-    <updated>2024-04-23T01:42:01Z</updated>
-    <id>tag:github.com,2024-04-23:/appdev-projects/rails-omnicalc-2</id>
-    <link href="https://github.com/appdev-projects/rails-omnicalc-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;rails-omnicalc-2&lt;/h1&gt; &#xA;&lt;p&gt;Target: &lt;a href=&#34;https://omnicalc-2.matchthetarget.com/&#34;&gt;https://omnicalc-2.matchthetarget.com/&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>appdev-projects/rails-rps</title>
-    <updated>2024-04-23T01:42:01Z</updated>
-    <id>tag:github.com,2024-04-23:/appdev-projects/rails-rps</id>
-    <link href="https://github.com/appdev-projects/rails-rps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;rails-rps&lt;/h1&gt; &#xA;&lt;p&gt;Target: &lt;a href=&#34;https://rps.matchthetarget.com/&#34;&gt;https://rps.matchthetarget.com/&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-23T01:39:43Z</updated>
+  <updated>2024-04-24T01:30:26Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Ensembl/ensembl-io</title>
-    <updated>2024-04-23T01:39:43Z</updated>
-    <id>tag:github.com,2024-04-23:/Ensembl/ensembl-io</id>
-    <link href="https://github.com/Ensembl/ensembl-io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;File parsing and writing code for Ensembl&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ensembl-io&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/Ensembl/ensembl-io&#34;&gt;&lt;img src=&#34;https://travis-ci.org/Ensembl/ensembl-io.svg?branch=release/111&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;File parsing and writing code for Ensembl&lt;/h2&gt; &#xA;&lt;p&gt;The ensembl-io repo is intended as a shared codebase for handling the parsing and writing of popular biological formats used by Ensembl, such as BED, BigWig and FASTA. For a full list of supported formats, see the child objects in modules/Bio/EnsEMBL/IO/Parser/.&lt;/p&gt; &#xA;&lt;p&gt;As the code matures, it is anticipated that various teams within the Ensembl project will begin to integrate Bio::EnsEMBL::IO modules into their pipelines; it is now used in future releases of the Ensembl website to handle parsing of uploaded data.&lt;/p&gt; &#xA;&lt;p&gt;All parsers should have associated unit tests, which can also serve as simple tutorials on how to use ensembl-io.&lt;/p&gt; &#xA;&lt;h3&gt;Bio::DB::HTS&lt;/h3&gt; &#xA;&lt;p&gt;Tabix and BAM/CRAM file access requires the Bio::DB::HTS module to be installed. For details on how to obtain and install this please see &lt;a href=&#34;https://github.com/Ensembl/Bio-HTS&#34;&gt;https://github.com/Ensembl/Bio-HTS&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Alternatively, Bio::DB::HTS can be installed from CPAN.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>tipdbmp/misc</title>
-    <updated>2024-04-23T01:39:43Z</updated>
-    <id>tag:github.com,2024-04-23:/tipdbmp/misc</id>
-    <link href="https://github.com/tipdbmp/misc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;misc stuff&lt;/p&gt;&lt;hr&gt;&lt;p&gt;misc modules/templates/snippets&lt;/p&gt; &#xA;&lt;p&gt;http_async: a must have wrapper around AnyEvent::HTTP::http_request&lt;/p&gt; &#xA;&lt;p&gt;SetTheory: the set operations ∪, ∩, -, ^ ∪ : union (elements that are both in A or B) ∩ : intersection (elements incommon) - : difference (elements that are members of A but not members of B) ^ : symmetric difference (only in A or only in B but not both)&lt;/p&gt; &#xA;&lt;p&gt;Module: a module template (yeah it is that difficult in Perl :P)&lt;/p&gt; &#xA;&lt;p&gt;special_literals: those come in handy from time to time&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>stockholmuniversity/radiator-fticks-anonymizer</title>
-    <updated>2024-04-23T01:39:43Z</updated>
-    <id>tag:github.com,2024-04-23:/stockholmuniversity/radiator-fticks-anonymizer</id>
-    <link href="https://github.com/stockholmuniversity/radiator-fticks-anonymizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Radiator hook to anonymize MAC address before sending to F-Ticks.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;radiator-fticks-anonymizer&lt;/h1&gt; &#xA;&lt;p&gt;Radiator hook to anonymize MAC address before sending to F-Ticks.&lt;/p&gt; &#xA;&lt;p&gt;This hook anonymizes the MAC address so the user data can be sent upstream without violating the users privacy.&lt;/p&gt; &#xA;&lt;p&gt;To use this hook you need to specify a key in the radiator config:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;DefineGlobalVar FTicks_hash_key KEY&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The default behaviour is to save the vendor part of the address and hash the rest. If you like to hash the whole address you can add do this by adding following to the radiator config:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;DefineGlobalVar FTicks_hash_all yes&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then use it as a ordinary hook:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;PostAuthHook file:&#34;/local/radiator/hooks/fticks_anonymizer&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;And syslog with the new hashed variable created in the hook (X-Calling-Station-Id-Hashed):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;SuccessFormat F-TICKS/eduroam/1.0#REALM=%R#VISCOUNTRY=%{eduroam-SP-Country}#VISINST=%{Operator-Name}#CSI=%{X-Calling-Station-Id-Hashed}#RESULT=OK#&#xA;FailureFormat F-TICKS/eduroam/1.0#REALM=%R#VISCOUNTRY=%{eduroam-SP-Country}#VISINST=%{Operator-Name}#CSI=%{X-Calling-Station-Id-Hashed}#RESULT=FAIL#&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;F-Ticks&lt;/h2&gt; &#xA;&lt;p&gt;Read more about F-Ticks &lt;a href=&#34;http://monitor.eduroam.org/f-ticks/&#34;&gt;http://monitor.eduroam.org/f-ticks/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Configure F-Ticks in Radiator &lt;a href=&#34;https://confluence.terena.org/display/H2eduroam/radiator-flr&#34;&gt;https://confluence.terena.org/display/H2eduroam/radiator-flr&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

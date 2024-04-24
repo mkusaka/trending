@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-23T01:45:18Z</updated>
+  <updated>2024-04-24T01:33:09Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pkmn/engine</title>
-    <updated>2024-04-23T01:45:18Z</updated>
-    <id>tag:github.com,2024-04-23:/pkmn/engine</id>
-    <link href="https://github.com/pkmn/engine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimal, complete, Pokémon battle simulation engine optimized for performance&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>andrewCodeDev/Fluent</title>
-    <updated>2024-04-23T01:45:18Z</updated>
-    <id>tag:github.com,2024-04-23:/andrewCodeDev/Fluent</id>
-    <link href="https://github.com/andrewCodeDev/Fluent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fluent interface impementation for native scalar types&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

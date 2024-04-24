@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-23T01:41:50Z</updated>
+  <updated>2024-04-24T01:31:20Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Estati/Eaglercraft-1.5-1.8-Server-Template</title>
+    <updated>2024-04-24T01:31:20Z</updated>
+    <id>tag:github.com,2024-04-24:/Estati/Eaglercraft-1.5-1.8-Server-Template</id>
+    <link href="https://github.com/Estati/Eaglercraft-1.5-1.8-Server-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A server template for eaglercraft im making for my schoolmates to use&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

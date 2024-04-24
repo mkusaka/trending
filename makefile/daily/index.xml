@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-23T01:37:40Z</updated>
+  <updated>2024-04-24T01:29:35Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pulumi/pulumi-cloudinit</title>
-    <updated>2024-04-23T01:37:40Z</updated>
-    <id>tag:github.com,2024-04-23:/pulumi/pulumi-cloudinit</id>
-    <link href="https://github.com/pulumi/pulumi-cloudinit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pulumi provider for rendering CloudInit config in multiple-languages&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pulumi/pulumi-venafi</title>
-    <updated>2024-04-23T01:37:40Z</updated>
-    <id>tag:github.com,2024-04-23:/pulumi/pulumi-venafi</id>
-    <link href="https://github.com/pulumi/pulumi-venafi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Venafi Pulumi resource package, providing multi-language access to Venafi&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ageitgey/face_recognition_models</title>
-    <updated>2024-04-23T01:37:40Z</updated>
-    <id>tag:github.com,2024-04-23:/ageitgey/face_recognition_models</id>
-    <link href="https://github.com/ageitgey/face_recognition_models" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Trained models for the face_recognition python library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
