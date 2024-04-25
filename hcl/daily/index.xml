@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-24T01:28:26Z</updated>
+  <updated>2024-04-25T01:30:38Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>terraform-ibm-modules/sample-deployable-architectures</title>
-    <updated>2024-04-24T01:28:26Z</updated>
-    <id>tag:github.com,2024-04-24:/terraform-ibm-modules/sample-deployable-architectures</id>
-    <link href="https://github.com/terraform-ibm-modules/sample-deployable-architectures" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

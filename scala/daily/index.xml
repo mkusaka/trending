@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-24T01:31:38Z</updated>
+  <updated>2024-04-25T01:33:44Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>joernio/joern-type-stubs</title>
-    <updated>2024-04-24T01:31:38Z</updated>
-    <id>tag:github.com,2024-04-24:/joernio/joern-type-stubs</id>
-    <link href="https://github.com/joernio/joern-type-stubs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Type-Stubs for Builtin functions&lt;/h1&gt; &#xA;&lt;h2&gt;A program that holds all the type-stubs for builtin functions of various frontend languages for Joern&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;sbt stage&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
-  <entry>
-    <title>softprops/harping</title>
-    <updated>2024-04-24T01:31:38Z</updated>
-    <id>tag:github.com,2024-04-24:/softprops/harping</id>
-    <link href="https://github.com/softprops/harping" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;http librarian&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;harping&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://www.softwareishard.com/blog/har-12-spec&#34;&gt;HttpARchival&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Doug Tangren (softprops) 2012&lt;/p&gt;</summary>
+    <title>hmrc/one-stop-shop-exclusions-performance-tests</title>
+    <updated>2024-04-25T01:33:44Z</updated>
+    <id>tag:github.com,2024-04-25:/hmrc/one-stop-shop-exclusions-performance-tests</id>
+    <link href="https://github.com/hmrc/one-stop-shop-exclusions-performance-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;strong&gt;This is a template README.md. Be sure to update this with project specific content that describes your performance test project.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;h1&gt;one-stop-shop-exclusions-performance-tests&lt;/h1&gt; &#xA;&lt;p&gt;Performance test suite for the &lt;code&gt;one-stop-shop-exclusions-frontend&lt;/code&gt;, using &lt;a href=&#34;https://github.com/hmrc/performance-test-runner&#34;&gt;performance-test-runner&lt;/a&gt; under the hood.&lt;/p&gt; &#xA;&lt;h2&gt;Pre-requisites&lt;/h2&gt; &#xA;&lt;h3&gt;Services&lt;/h3&gt; &#xA;&lt;p&gt;Start Mongo Docker container as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;docker run --rm -d -p 27017:27017 --name mongo mongo:4.4&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Start &lt;code&gt;ONE_STOP_SHOP&lt;/code&gt; services as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sm2 --start ONE_STOP_SHOP_ALL&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Logging&lt;/h3&gt; &#xA;&lt;p&gt;The default log level for all HTTP requests is set to &lt;code&gt;WARN&lt;/code&gt;. Configure &lt;a href=&#34;https://raw.githubusercontent.com/hmrc/one-stop-shop-exclusions-performance-tests/main/src/test/resources/logback.xml&#34;&gt;logback.xml&lt;/a&gt; to update this if required.&lt;/p&gt; &#xA;&lt;h3&gt;WARNING &lt;span&gt;⚠&lt;/span&gt;&lt;/h3&gt; &#xA;&lt;p&gt;Do &lt;strong&gt;NOT&lt;/strong&gt; run a full performance test against staging from your local machine. Please &lt;a href=&#34;https://confluence.tools.tax.service.gov.uk/display/DTRG/Practical+guide+to+performance+testing+a+digital+service#Practicalguidetoperformancetestingadigitalservice-SettingupabuildonJenkinstorunagainsttheStagingenvironment&#34;&gt;implement a new performance test job&lt;/a&gt; and execute your job from the dashboard in &lt;a href=&#34;https://performance.tools.staging.tax.service.gov.uk&#34;&gt;Performance Jenkins&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Tests&lt;/h2&gt; &#xA;&lt;p&gt;Run smoke test (locally) as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt -Dperftest.runSmokeTest=true -DrunLocal=true gatling:test&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Run full performance test (locally) as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt -DrunLocal=true gatling:test&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Run smoke test (staging) as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt -Dperftest.runSmokeTest=true -DrunLocal=false gatling:test&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Scalafmt&lt;/h2&gt; &#xA;&lt;p&gt;Check all project files are formatted as expected as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt scalafmtCheckAll scalafmtCheck&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Format &lt;code&gt;*.sbt&lt;/code&gt; and &lt;code&gt;project/*.scala&lt;/code&gt; files as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt scalafmtSbt&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Format all project files as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt scalafmtAll&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;This code is open source software licensed under the &lt;a href=&#34;https://raw.githubusercontent.com/hmrc/one-stop-shop-exclusions-performance-tests/main/%22http://www.apache.org/licenses/LICENSE-2.0.html%22&#34;&gt;Apache 2.0 License&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-24T01:32:02Z</updated>
+  <updated>2024-04-25T01:34:08Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mztacat/Base</title>
-    <updated>2024-04-24T01:32:02Z</updated>
-    <id>tag:github.com,2024-04-24:/mztacat/Base</id>
-    <link href="https://github.com/mztacat/Base" rel="alternate"></link>
+    <title>Cyfrin/2024-04-Beanstalk-DIB</title>
+    <updated>2024-04-25T01:34:08Z</updated>
+    <id>tag:github.com,2024-04-25:/Cyfrin/2024-04-Beanstalk-DIB</id>
+    <link href="https://github.com/Cyfrin/2024-04-Beanstalk-DIB" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MiloTruck/evm-ctf-challenges</title>
-    <updated>2024-04-24T01:32:02Z</updated>
-    <id>tag:github.com,2024-04-24:/MiloTruck/evm-ctf-challenges</id>
-    <link href="https://github.com/MiloTruck/evm-ctf-challenges" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CTF challenges made by MiloTruck&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coinbase/commerce-onchain-payment-protocol</title>
+    <updated>2024-04-25T01:34:08Z</updated>
+    <id>tag:github.com,2024-04-25:/coinbase/commerce-onchain-payment-protocol</id>
+    <link href="https://github.com/coinbase/commerce-onchain-payment-protocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

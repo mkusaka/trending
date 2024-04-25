@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-24T01:26:59Z</updated>
+  <updated>2024-04-25T01:26:58Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>4am-robotics/cob_common</title>
-    <updated>2024-04-24T01:26:59Z</updated>
-    <id>tag:github.com,2024-04-24:/4am-robotics/cob_common</id>
-    <link href="https://github.com/4am-robotics/cob_common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The cob_common stack hosts common packages that are used within the Care-O-bot repository. E.g. utility packages or common message and service definitions etc. Also the urdf desciption of the robot is located in this stack.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ZitaoTech/zmk-config_9900</title>
-    <updated>2024-04-24T01:26:59Z</updated>
-    <id>tag:github.com,2024-04-24:/ZitaoTech/zmk-config_9900</id>
-    <link href="https://github.com/ZitaoTech/zmk-config_9900" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>microsoft/cxplat</title>
-    <updated>2024-04-24T01:26:59Z</updated>
-    <id>tag:github.com,2024-04-24:/microsoft/cxplat</id>
-    <link href="https://github.com/microsoft/cxplat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross platform, C abstraction layer for both user mode and kernel mode libraries&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

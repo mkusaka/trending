@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-24T01:27:43Z</updated>
+  <updated>2024-04-25T01:29:56Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>groxio-learning/gi_otp_1</title>
-    <updated>2024-04-24T01:27:43Z</updated>
-    <id>tag:github.com,2024-04-24:/groxio-learning/gi_otp_1</id>
-    <link href="https://github.com/groxio-learning/gi_otp_1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OTP Groxio Training&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>phoenix-playground/phoenix_playground</title>
+    <updated>2024-04-25T01:29:56Z</updated>
+    <id>tag:github.com,2024-04-25:/phoenix-playground/phoenix_playground</id>
+    <link href="https://github.com/phoenix-playground/phoenix_playground" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Phoenix Playground makes it easy to create single-file Phoenix applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-24T01:32:47Z</updated>
+  <updated>2024-04-25T01:34:53Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jpiat/hard-cv</title>
-    <updated>2024-04-24T01:32:47Z</updated>
-    <id>tag:github.com,2024-04-24:/jpiat/hard-cv</id>
-    <link href="https://github.com/jpiat/hard-cv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository of IPs for hardware computer vision (FPGA)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-24T01:33:04Z</updated>
+  <updated>2024-04-25T01:35:10Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TYPO3-svn-archive/ter_xsl</title>
-    <updated>2024-04-24T01:33:04Z</updated>
-    <id>tag:github.com,2024-04-24:/TYPO3-svn-archive/ter_xsl</id>
-    <link href="https://github.com/TYPO3-svn-archive/ter_xsl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Archived version of former SVN repo https://svn.typo3.org/TYPO3v4/Extensions/$r/.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

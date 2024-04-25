@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-24T01:25:58Z</updated>
+  <updated>2024-04-25T01:25:55Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>datawhalechina/so-large-lm</title>
-    <updated>2024-04-24T01:25:58Z</updated>
-    <id>tag:github.com,2024-04-24:/datawhalechina/so-large-lm</id>
-    <link href="https://github.com/datawhalechina/so-large-lm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;大模型基础: 一文了解大模型基础知识&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prometeytron/Prometheus-Tron-Brute-Force</title>
+    <updated>2024-04-25T01:25:55Z</updated>
+    <id>tag:github.com,2024-04-25:/prometeytron/Prometheus-Tron-Brute-Force</id>
+    <link href="https://github.com/prometeytron/Prometheus-Tron-Brute-Force" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tron Wallets Brute Force&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>01Kevin01/OnionLinksV3</title>
-    <updated>2024-04-24T01:25:58Z</updated>
-    <id>tag:github.com,2024-04-24:/01Kevin01/OnionLinksV3</id>
-    <link href="https://github.com/01Kevin01/OnionLinksV3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2024!!Onion Links V3!!(Forum&amp;Chat&amp;Markets)TR-EN&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thehappydinoa/awesome-censys-queries</title>
+    <updated>2024-04-25T01:25:55Z</updated>
+    <id>tag:github.com,2024-04-25:/thehappydinoa/awesome-censys-queries</id>
+    <link href="https://github.com/thehappydinoa/awesome-censys-queries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of fascinating and bizarre Censys Search Queries&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CScorza/OSINT-IA</title>
+    <updated>2024-04-25T01:25:55Z</updated>
+    <id>tag:github.com,2024-04-25:/CScorza/OSINT-IA</id>
+    <link href="https://github.com/CScorza/OSINT-IA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;L&#39;I.A. a supporto dell&#39;OSINT&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

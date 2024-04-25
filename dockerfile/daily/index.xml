@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-24T01:27:28Z</updated>
+  <updated>2024-04-25T01:29:40Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Andru-1987/61875-data-engineering</title>
+    <updated>2024-04-25T01:29:40Z</updated>
+    <id>tag:github.com,2024-04-25:/Andru-1987/61875-data-engineering</id>
+    <link href="https://github.com/Andru-1987/61875-data-engineering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;61875-data-engineering&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Trabajo en clases -&amp;gt; Guia a guia y ayudas&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>lidorg-dev/super-app</title>
+    <updated>2024-04-25T01:29:40Z</updated>
+    <id>tag:github.com,2024-04-25:/lidorg-dev/super-app</id>
+    <link href="https://github.com/lidorg-dev/super-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;super-app&lt;/h1&gt; &#xA;&lt;p&gt;Hi please setup mysql container: version 8.0.28 use this enviornment variable : MYSQL_DATABASE: &#39;super-app&#39; MYSQL_ROOT_PASSWORD: &#39;password&#39; don&#39;t forget to use ports : 3306&lt;/p&gt; &#xA;&lt;p&gt;now you have the node application ready for you the port of the application is : 3000&lt;/p&gt; &#xA;&lt;p&gt;you also have the php ready for you the port of the php is:80&lt;/p&gt; &#xA;&lt;p&gt;write the docker compose file the application is not really connecting to DB&lt;/p&gt; &#xA;&lt;p&gt;good luck&lt;/p&gt;</summary>
+  </entry>
 </feed>

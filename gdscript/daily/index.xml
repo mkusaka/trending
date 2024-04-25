@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-24T01:27:59Z</updated>
+  <updated>2024-04-25T01:30:14Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>etherealxx/limbo-godot</title>
+    <updated>2024-04-25T01:30:14Z</updated>
+    <id>tag:github.com,2024-04-25:/etherealxx/limbo-godot</id>
+    <link href="https://github.com/etherealxx/limbo-godot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot 4 implementation of Geometry Dash Limbo keys minigame in Windows 10/11&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Open-Source-Software-Development/Cardtorium</title>
+    <updated>2024-04-25T01:30:14Z</updated>
+    <id>tag:github.com,2024-04-25:/Open-Source-Software-Development/Cardtorium</id>
+    <link href="https://github.com/Open-Source-Software-Development/Cardtorium" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OSSD Project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

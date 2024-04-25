@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-24T01:32:51Z</updated>
+  <updated>2024-04-25T01:34:57Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BewlyBewly/BewlyBewly</title>
-    <updated>2024-04-24T01:32:51Z</updated>
-    <id>tag:github.com,2024-04-24:/BewlyBewly/BewlyBewly</id>
-    <link href="https://github.com/BewlyBewly/BewlyBewly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shenxiancaiCCC/Vue-Springboot-Library</title>
+    <updated>2024-04-25T01:34:57Z</updated>
+    <id>tag:github.com,2024-04-25:/shenxiancaiCCC/Vue-Springboot-Library</id>
+    <link href="https://github.com/shenxiancaiCCC/Vue-Springboot-Library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于vue+springboot的图书馆管理系统&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
