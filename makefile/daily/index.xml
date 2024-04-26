@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-25T01:31:44Z</updated>
+  <updated>2024-04-26T01:28:42Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pulumi/pulumi-minio</title>
-    <updated>2024-04-25T01:31:44Z</updated>
-    <id>tag:github.com,2024-04-25:/pulumi/pulumi-minio</id>
-    <link href="https://github.com/pulumi/pulumi-minio" rel="alternate"></link>
+    <title>Maissacrement/ModelesDeServiceCloud</title>
+    <updated>2024-04-26T01:28:42Z</updated>
+    <id>tag:github.com,2024-04-26:/Maissacrement/ModelesDeServiceCloud</id>
+    <link href="https://github.com/Maissacrement/ModelesDeServiceCloud" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pulumi/pulumi-hcloud</title>
-    <updated>2024-04-25T01:31:44Z</updated>
-    <id>tag:github.com,2024-04-25:/pulumi/pulumi-hcloud</id>
-    <link href="https://github.com/pulumi/pulumi-hcloud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Hetzner Cloud Pulumi resource package, providing multi-language access to Hetzner Cloud&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

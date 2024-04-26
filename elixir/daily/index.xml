@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-25T01:29:56Z</updated>
+  <updated>2024-04-26T01:26:40Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>phoenix-playground/phoenix_playground</title>
-    <updated>2024-04-25T01:29:56Z</updated>
-    <id>tag:github.com,2024-04-25:/phoenix-playground/phoenix_playground</id>
-    <link href="https://github.com/phoenix-playground/phoenix_playground" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Phoenix Playground makes it easy to create single-file Phoenix applications.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joken-elixir/joken_jwks</title>
+    <updated>2024-04-26T01:26:40Z</updated>
+    <id>tag:github.com,2024-04-26:/joken-elixir/joken_jwks</id>
+    <link href="https://github.com/joken-elixir/joken_jwks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Joken 2 hook for fetching the signer from a public JWKS url&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

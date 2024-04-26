@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-25T01:25:55Z</updated>
+  <updated>2024-04-26T01:24:52Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>prometeytron/Prometheus-Tron-Brute-Force</title>
-    <updated>2024-04-25T01:25:55Z</updated>
-    <id>tag:github.com,2024-04-25:/prometeytron/Prometheus-Tron-Brute-Force</id>
-    <link href="https://github.com/prometeytron/Prometheus-Tron-Brute-Force" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tron Wallets Brute Force&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9</title>
+    <updated>2024-04-26T01:24:52Z</updated>
+    <id>tag:github.com,2024-04-26:/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9</id>
+    <link href="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reverse engineering of the Quansheng UV-K5 V1.4 PCB in KiCad 7&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thehappydinoa/awesome-censys-queries</title>
-    <updated>2024-04-25T01:25:55Z</updated>
-    <id>tag:github.com,2024-04-25:/thehappydinoa/awesome-censys-queries</id>
-    <link href="https://github.com/thehappydinoa/awesome-censys-queries" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of fascinating and bizarre Censys Search Queries&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Profluent-AI/OpenCRISPR</title>
+    <updated>2024-04-26T01:24:52Z</updated>
+    <id>tag:github.com,2024-04-26:/Profluent-AI/OpenCRISPR</id>
+    <link href="https://github.com/Profluent-AI/OpenCRISPR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI-generated gene editing systems&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CScorza/OSINT-IA</title>
-    <updated>2024-04-25T01:25:55Z</updated>
-    <id>tag:github.com,2024-04-25:/CScorza/OSINT-IA</id>
-    <link href="https://github.com/CScorza/OSINT-IA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;L&#39;I.A. a supporto dell&#39;OSINT&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SAWARATSUKI/ServiceLogos</title>
+    <updated>2024-04-26T01:24:52Z</updated>
+    <id>tag:github.com,2024-04-26:/SAWARATSUKI/ServiceLogos</id>
+    <link href="https://github.com/SAWARATSUKI/ServiceLogos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ロゴを可愛く作ろう　節度を持って利用してください🫠&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

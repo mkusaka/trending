@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-25T01:34:08Z</updated>
+  <updated>2024-04-26T01:31:08Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Cyfrin/2024-04-Beanstalk-DIB</title>
-    <updated>2024-04-25T01:34:08Z</updated>
-    <id>tag:github.com,2024-04-25:/Cyfrin/2024-04-Beanstalk-DIB</id>
-    <link href="https://github.com/Cyfrin/2024-04-Beanstalk-DIB" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paradigmxyz/forge-alphanet</title>
+    <updated>2024-04-26T01:31:08Z</updated>
+    <id>tag:github.com,2024-04-26:/paradigmxyz/forge-alphanet</id>
+    <link href="https://github.com/paradigmxyz/forge-alphanet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Foundry tools for interfacing with Reth Alphanet&#39;s bleeding-edge EVM extensions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>coinbase/commerce-onchain-payment-protocol</title>
-    <updated>2024-04-25T01:34:08Z</updated>
-    <id>tag:github.com,2024-04-25:/coinbase/commerce-onchain-payment-protocol</id>
-    <link href="https://github.com/coinbase/commerce-onchain-payment-protocol" rel="alternate"></link>
+    <title>euler-xyz/euler-vault-kit</title>
+    <updated>2024-04-26T01:31:08Z</updated>
+    <id>tag:github.com,2024-04-26:/euler-xyz/euler-vault-kit</id>
+    <link href="https://github.com/euler-xyz/euler-vault-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build lending vaults that connect through Ethereum Vault Connector&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yetanotherco/aligned_layer</title>
+    <updated>2024-04-26T01:31:08Z</updated>
+    <id>tag:github.com,2024-04-26:/yetanotherco/aligned_layer</id>
+    <link href="https://github.com/yetanotherco/aligned_layer" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

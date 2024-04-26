@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-25T01:29:58Z</updated>
+  <updated>2024-04-26T01:26:42Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kidmose/.emacs.d</title>
-    <updated>2024-04-25T01:29:58Z</updated>
-    <id>tag:github.com,2024-04-25:/kidmose/.emacs.d</id>
-    <link href="https://github.com/kidmose/.emacs.d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Git repository for my emacs configuration&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;README for my .emacs.d&lt;/h1&gt; &#xA;&lt;p&gt;Git repository for my emacs configuration.&lt;/p&gt; &#xA;&lt;h2&gt;Installing emacs 25&lt;/h2&gt; &#xA;&lt;p&gt;I&#39;m om linux mint 17.3 (and other debian-based), not satisfied with the version in official repos (magit requires 24.4):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sudo apt-add-repository -y ppa:adrozdoff/emacs\&#xA; &amp;amp;&amp;amp; sudo apt-get update\&#xA; &amp;amp;&amp;amp; sudo apt-get install -y emacs25&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Installing git&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;sudo add-apt-repository -y ppa:git-core/ppa\&#xA; &amp;amp;&amp;amp; sudo apt-get update&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Mixed dependencies:&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;sudo apt install -y\&#xA; autoconf\&#xA; build-essential\&#xA; git\&#xA; git-flow\&#xA; install-info\&#xA; markdown\&#xA; texinfo\&#xA; texlive-base\&#xA; texlive-binaries\&#xA; texlive-latex-base&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-25T01:27:07Z</updated>
+  <updated>2024-04-26T01:25:59Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gromo/jquery.scrollbar</title>
-    <updated>2024-04-25T01:27:07Z</updated>
-    <id>tag:github.com,2024-04-25:/gromo/jquery.scrollbar</id>
-    <link href="https://github.com/gromo/jquery.scrollbar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;jQuery CSS Customizable Scrollbar&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;jQuery Scrollbar&lt;/h1&gt; &#xA;&lt;p&gt;Cross-browser CSS customizable scrollbar with advanced features:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Easy to implement&lt;/li&gt; &#xA; &lt;li&gt;No fixed height or width&lt;/li&gt; &#xA; &lt;li&gt;Responsive design support&lt;/li&gt; &#xA; &lt;li&gt;CSS customizable&lt;/li&gt; &#xA; &lt;li&gt;Standard scroll behavior&lt;/li&gt; &#xA; &lt;li&gt;Vertical, horizontal or both scrollbars&lt;/li&gt; &#xA; &lt;li&gt;Automatically reinitialize scrollbar&lt;/li&gt; &#xA; &lt;li&gt;External scrollbars support&lt;/li&gt; &#xA; &lt;li&gt;Browser support: IE7+, Firefox&lt;sup&gt;1&lt;/sup&gt;, Opera, Chrome, Safari&lt;/li&gt; &#xA; &lt;li&gt;jQuery Scrollbar as Angular.JS directive&lt;/li&gt; &#xA; &lt;li&gt;Textarea scrollbar&lt;/li&gt; &#xA; &lt;li&gt;RTL support&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h4&gt;&lt;a href=&#34;http://gromo.github.io/jquery.scrollbar/demo/basic.html&#34;&gt;Basic Scrollbars Demo&lt;/a&gt;&lt;/h4&gt; &#xA;&lt;h4&gt;&lt;a href=&#34;http://gromo.github.io/jquery.scrollbar/demo/advanced.html&#34;&gt;Advanced Scrollbars Demo&lt;/a&gt;&lt;/h4&gt; &#xA;&lt;h4&gt;&lt;a href=&#34;http://gromo.github.io/jquery.scrollbar/demo/angular.html&#34;&gt;jQuery Scrollbar as Angular.JS directive&lt;/a&gt;&lt;/h4&gt; &#xA;&lt;h4&gt;&lt;a href=&#34;http://gromo.github.io/jquery.scrollbar/&#34;&gt;Documentation&lt;/a&gt;&lt;/h4&gt; &#xA;&lt;h4&gt;&lt;a href=&#34;https://github.com/gromo/jquery.scrollbar/raw/master/CHANGELOG.md&#34;&gt;Changelog&lt;/a&gt;&lt;/h4&gt; &#xA;&lt;h4&gt;&lt;a href=&#34;https://github.com/gromo/jquery.scrollbar/archive/gh-pages.zip&#34;&gt;Download&lt;/a&gt;&lt;/h4&gt; &#xA;&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt; There is known issue that native browser scrollbar cannot be hidden in Firefox on Apple devices, so this plugin is not initialized and you will see native scrollbars. &lt;sup&gt;2&lt;/sup&gt; Experimental support in master branch, styles for scrollbars are not updated&lt;/p&gt;</summary>
+    <title>bedimcode/responsive-chips-website</title>
+    <updated>2024-04-26T01:25:59Z</updated>
+    <id>tag:github.com,2024-04-26:/bedimcode/responsive-chips-website</id>
+    <link href="https://github.com/bedimcode/responsive-chips-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Responsive Chips Website Design Using HTML CSS And JavaScript&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Responsive Chips Website&lt;/h1&gt; &#xA;&lt;h2&gt;&lt;a href=&#34;https://youtu.be/vcb-cEkE-UI&#34;&gt;Watch it on youtube&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;h3&gt;Responsive Chips Website&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Responsive Chips Website Design Using HTML CSS And JavaScript&lt;/li&gt; &#xA; &lt;li&gt;Contains animations when scrolling.&lt;/li&gt; &#xA; &lt;li&gt;Smooth scrolling in each section.&lt;/li&gt; &#xA; &lt;li&gt;Developed first with the Mobile First methodology, then for desktop.&lt;/li&gt; &#xA; &lt;li&gt;Compatible with all mobile devices and with a beautiful and pleasant user interface.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;💙 Join the channel to see more videos like this. &lt;a href=&#34;https://www.youtube.com/@Bedimcode&#34;&gt;Bedimcode&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/bedimcode/responsive-chips-website/main/preview.png&#34; alt=&#34;preview img&#34;&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Yandex-Practicum/go_final_project</title>
-    <updated>2024-04-25T01:27:07Z</updated>
-    <id>tag:github.com,2024-04-25:/Yandex-Practicum/go_final_project</id>
-    <link href="https://github.com/Yandex-Practicum/go_final_project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Файлы для итогового задания&lt;/h1&gt; &#xA;&lt;p&gt;В директории &lt;code&gt;tests&lt;/code&gt; находятся тесты для проверки API, которое должно быть реализовано в веб-сервере.&lt;/p&gt; &#xA;&lt;p&gt;Директория &lt;code&gt;web&lt;/code&gt; содержит файлы фронтенда.&lt;/p&gt;</summary>
+    <title>IndraMahayana/to-do-List</title>
+    <updated>2024-04-26T01:25:59Z</updated>
+    <id>tag:github.com,2024-04-26:/IndraMahayana/to-do-List</id>
+    <link href="https://github.com/IndraMahayana/to-do-List" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple Todo List&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rhildred/UX308PracticeFinal</title>
-    <updated>2024-04-25T01:27:07Z</updated>
-    <id>tag:github.com,2024-04-25:/rhildred/UX308PracticeFinal</id>
-    <link href="https://github.com/rhildred/UX308PracticeFinal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;React + Vite&lt;/h1&gt; &#xA;&lt;p&gt;This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.&lt;/p&gt; &#xA;&lt;p&gt;Currently, two official plugins are available:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/vitejs/vite-plugin-react/raw/main/packages/plugin-react/README.md&#34;&gt;@vitejs/plugin-react&lt;/a&gt; uses &lt;a href=&#34;https://babeljs.io/&#34;&gt;Babel&lt;/a&gt; for Fast Refresh&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/vitejs/vite-plugin-react-swc&#34;&gt;@vitejs/plugin-react-swc&lt;/a&gt; uses &lt;a href=&#34;https://swc.rs/&#34;&gt;SWC&lt;/a&gt; for Fast Refresh&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://diy-pwa.dev/~/gh/rhildred/UX308PracticeFinal/&#34;&gt;Edit Here&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>matthewkent/wedding-website</title>
+    <updated>2024-04-26T01:25:59Z</updated>
+    <id>tag:github.com,2024-04-26:/matthewkent/wedding-website</id>
+    <link href="https://github.com/matthewkent/wedding-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

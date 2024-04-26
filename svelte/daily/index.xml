@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-25T01:34:19Z</updated>
+  <updated>2024-04-26T01:31:19Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nilsherzig/LLocalSearch</title>
-    <updated>2024-04-25T01:34:19Z</updated>
-    <id>tag:github.com,2024-04-25:/nilsherzig/LLocalSearch</id>
-    <link href="https://github.com/nilsherzig/LLocalSearch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

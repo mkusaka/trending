@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-25T01:26:35Z</updated>
+  <updated>2024-04-26T01:25:32Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mansk1es/CVE-2024-21111</title>
-    <updated>2024-04-25T01:26:35Z</updated>
-    <id>tag:github.com,2024-04-25:/mansk1es/CVE-2024-21111</id>
-    <link href="https://github.com/mansk1es/CVE-2024-21111" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CVE-2024-21111&lt;/h1&gt; &#xA;&lt;p&gt;Oracle VirtualBox Prior to 7.0.16 is vulnerable to Local Privilege Escalation via Symbolic Link Following leading to Arbitrary File Delete and Arbitrary File Move.&lt;/p&gt; &#xA;&lt;p&gt;VirtualBox attempts to move log files as NT AUTHORITY\SYSTEM in C:\ProgramData\VirtualBox (which all users can write to) to backup themselves by an ordinal, but MAX 10 logs. VirtualBox will also try to delete the 11th log as NT AUTHORITY\SYSTEM exposing itself to 2 bugs that lead to privilege escalation. Finding this bug was very interesting :)&lt;/p&gt; &#xA;&lt;h2&gt;Arbitrary File Delete&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/mansk1es/CVE-2024-21111/assets/74832816/54a78fa6-82b2-441a-8b37-ad411fbc6e33&#34;&gt;https://github.com/mansk1es/CVE-2024-21111/assets/74832816/54a78fa6-82b2-441a-8b37-ad411fbc6e33&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Arbitrary File Move&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/mansk1es/CVE-2024-21111/assets/74832816/85430839-bb51-4c8e-b6c4-9fd38b256ff8&#34;&gt;https://github.com/mansk1es/CVE-2024-21111/assets/74832816/85430839-bb51-4c8e-b6c4-9fd38b256ff8&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Fun fact me and @filip_dragovic (Wh04m1001) found this bug each independently :D shout out to him!&lt;/p&gt; &#xA;&lt;h3&gt;Report Timeline&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;19/3/2024 - Vulnerability Reported to Oracle&lt;/li&gt; &#xA; &lt;li&gt;21/3/2024 - Oracle Confirms Vulnerability&lt;/li&gt; &#xA; &lt;li&gt;13/4/2024 - Oracle Notified About Public Advisory&lt;/li&gt; &#xA; &lt;li&gt;16/4/2024 - CVE-2024-21111 Publicized &amp;amp;&amp;amp; Public Advisory on Oracle Critical Patch Updates&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

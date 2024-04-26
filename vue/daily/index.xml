@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-25T01:34:57Z</updated>
+  <updated>2024-04-26T01:31:58Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>shenxiancaiCCC/Vue-Springboot-Library</title>
-    <updated>2024-04-25T01:34:57Z</updated>
-    <id>tag:github.com,2024-04-25:/shenxiancaiCCC/Vue-Springboot-Library</id>
-    <link href="https://github.com/shenxiancaiCCC/Vue-Springboot-Library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于vue+springboot的图书馆管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>github-copilot-resources/copilot-metrics-viewer</title>
+    <updated>2024-04-26T01:31:58Z</updated>
+    <id>tag:github.com,2024-04-26:/github-copilot-resources/copilot-metrics-viewer</id>
+    <link href="https://github.com/github-copilot-resources/copilot-metrics-viewer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xororz/web-realesrgan</title>
+    <updated>2024-04-26T01:31:58Z</updated>
+    <id>tag:github.com,2024-04-26:/xororz/web-realesrgan</id>
+    <link href="https://github.com/xororz/web-realesrgan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run Real-ESRGAN in Your Local Browser on Any Device. Powered by TensorFlow.js. Support computing with WebGL and WebGPU.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nunjucks Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-25T01:32:12Z</updated>
+  <updated>2024-04-26T01:29:11Z</updated>
   <subtitle>Daily Trending of Nunjucks in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>thegreenwebfoundation/developer-docs</title>
-    <updated>2024-04-25T01:32:12Z</updated>
-    <id>tag:github.com,2024-04-25:/thegreenwebfoundation/developer-docs</id>
-    <link href="https://github.com/thegreenwebfoundation/developer-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The developer documentation site for The Green Web Foundations open source libraries.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

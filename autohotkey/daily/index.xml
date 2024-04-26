@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-25T01:26:21Z</updated>
+  <updated>2024-04-26T01:25:14Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tranht17/WinTune</title>
-    <updated>2024-04-25T01:26:21Z</updated>
-    <id>tag:github.com,2024-04-25:/tranht17/WinTune</id>
-    <link href="https://github.com/tranht17/WinTune" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tweak &amp; optimize your Windows system&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

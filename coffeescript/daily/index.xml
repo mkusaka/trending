@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-25T01:26:59Z</updated>
+  <updated>2024-04-26T01:25:52Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nodayoshikazu/node-mongo-loginskel</title>
+    <updated>2024-04-26T01:25:52Z</updated>
+    <id>tag:github.com,2024-04-26:/nodayoshikazu/node-mongo-loginskel</id>
+    <link href="https://github.com/nodayoshikazu/node-mongo-loginskel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Node.js and Express app skeleton with only login/logout API. This is a platform to start building a Node.js RESTful app.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bellycard/node_settings_module</title>
+    <updated>2024-04-26T01:25:52Z</updated>
+    <id>tag:github.com,2024-04-26:/bellycard/node_settings_module</id>
+    <link href="https://github.com/bellycard/node_settings_module" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A very simple node module to manage application settings, we share this between node projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
