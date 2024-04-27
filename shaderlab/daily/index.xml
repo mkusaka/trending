@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-26T01:30:52Z</updated>
+  <updated>2024-04-27T01:30:03Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>UnityDevelopers/UDVP</title>
-    <updated>2024-04-26T01:30:52Z</updated>
-    <id>tag:github.com,2024-04-26:/UnityDevelopers/UDVP</id>
-    <link href="https://github.com/UnityDevelopers/UDVP" rel="alternate"></link>
+    <title>WoWPerro/FuzzyLogic</title>
+    <updated>2024-04-27T01:30:03Z</updated>
+    <id>tag:github.com,2024-04-27:/WoWPerro/FuzzyLogic</id>
+    <link href="https://github.com/WoWPerro/FuzzyLogic" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

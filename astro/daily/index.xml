@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-26T01:25:13Z</updated>
+  <updated>2024-04-27T01:24:31Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>michael-andreuzza/microblog</title>
-    <updated>2024-04-26T01:25:13Z</updated>
-    <id>tag:github.com,2024-04-26:/michael-andreuzza/microblog</id>
-    <link href="https://github.com/michael-andreuzza/microblog" rel="alternate"></link>
+    <title>gnulinuxindia/site</title>
+    <updated>2024-04-27T01:24:31Z</updated>
+    <id>tag:github.com,2024-04-27:/gnulinuxindia/site</id>
+    <link href="https://github.com/gnulinuxindia/site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The website for gnulinuxindia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>netlify-templates/astro-platform-starter</title>
+    <updated>2024-04-27T01:24:31Z</updated>
+    <id>tag:github.com,2024-04-27:/netlify-templates/astro-platform-starter</id>
+    <link href="https://github.com/netlify-templates/astro-platform-starter" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

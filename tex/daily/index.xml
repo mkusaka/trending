@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-26T01:31:33Z</updated>
+  <updated>2024-04-27T01:30:42Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>changh95/latex_resume_template_kor</title>
+    <updated>2024-04-27T01:30:42Z</updated>
+    <id>tag:github.com,2024-04-27:/changh95/latex_resume_template_kor</id>
+    <link href="https://github.com/changh95/latex_resume_template_kor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[이력서/경력기술서] Beautiful CV/resume template for Koreans, in LaTeX&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;latex_resume_template_kor&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;이력서 (CV/Resume)&lt;/li&gt; &#xA; &lt;li&gt;경력기술서&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;...를 LaTeX로 이쁘게 적을 수 있게 해주는 템플릿 &lt;span&gt;😄&lt;/span&gt;&lt;/p&gt; &#xA;&lt;h1&gt;사용 방법&lt;/h1&gt; &#xA;&lt;p&gt;&lt;code&gt;/Curriculum_Vitae_Template&lt;/code&gt; 폴더에는 &lt;strong&gt;이력서 템플릿&lt;/strong&gt;이 있습니다. &lt;a href=&#34;https://github.com/changh95/resume_template_kor/raw/main/Curriculum_Vitae_Template/resume.tex&#34;&gt;파일&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;/Work_Experiences_Template&lt;/code&gt; 폴더에는 &lt;strong&gt;경력기술서 템플릿&lt;/strong&gt;이 있습니다. &lt;a href=&#34;https://github.com/changh95/resume_template_kor/raw/main/Work_Experiences_Template/work_experience.tex&#34;&gt;파일&lt;/a&gt;&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;파일을 다운로드한다.&lt;/li&gt; &#xA; &lt;li&gt;Tex 에디터를 통해 수정하고 렌더링한다. Tex 에디터에 대해 잘 모르신다면 &lt;a href=&#34;https://www.overleaf.com&#34;&gt;Overleaf&lt;/a&gt;을 추천드립니다.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h1&gt;예시&lt;/h1&gt; &#xA;&lt;h2&gt;이력서&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/changh95/latex_resume_template_kor/raw/main/resume_img.png?raw=true&#34; alt=&#34;cv&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;경력 기술서&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/changh95/latex_resume_template_kor/raw/main/work_experience_img.png?raw=true&#34; alt=&#34;we&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;(예시는 곧 만들어서 올릴게요!)&lt;/p&gt; &#xA;&lt;h1&gt;라이센스&lt;/h1&gt; &#xA;&lt;p&gt;이 repo에 있는 모든 tex 파일은 &lt;a href=&#34;https://github.com/sb2nov/resume&#34;&gt;sb2nov의 CV 템플릿&lt;/a&gt;을 수정하여 만들었고, 기존의 MIT 라이센스를 유지합니다.&lt;/p&gt;</summary>
+  </entry>
 </feed>

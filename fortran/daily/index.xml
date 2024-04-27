@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-26T01:26:58Z</updated>
+  <updated>2024-04-27T01:26:08Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BoldingBruggeman/fabm-mops</title>
-    <updated>2024-04-26T01:26:58Z</updated>
-    <id>tag:github.com,2024-04-26:/BoldingBruggeman/fabm-mops</id>
-    <link href="https://github.com/BoldingBruggeman/fabm-mops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MOPS2.0 is ported to FABM in the EU research program - OceanICU&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BoldingBruggeman/flexout</title>
-    <updated>2024-04-26T01:26:58Z</updated>
-    <id>tag:github.com,2024-04-26:/BoldingBruggeman/flexout</id>
-    <link href="https://github.com/BoldingBruggeman/flexout" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fortran-based flexible output manager with support for NetCDF and text formats&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SWMFsoftware/PARMISAN</title>
+    <updated>2024-04-27T01:26:08Z</updated>
+    <id>tag:github.com,2024-04-27:/SWMFsoftware/PARMISAN</id>
+    <link href="https://github.com/SWMFsoftware/PARMISAN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PARMISAN&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

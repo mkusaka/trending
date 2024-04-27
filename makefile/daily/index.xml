@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-26T01:28:42Z</updated>
+  <updated>2024-04-27T01:27:55Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Maissacrement/ModelesDeServiceCloud</title>
-    <updated>2024-04-26T01:28:42Z</updated>
-    <id>tag:github.com,2024-04-26:/Maissacrement/ModelesDeServiceCloud</id>
-    <link href="https://github.com/Maissacrement/ModelesDeServiceCloud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bbc/tams</title>
+    <updated>2024-04-27T01:27:55Z</updated>
+    <id>tag:github.com,2024-04-27:/bbc/tams</id>
+    <link href="https://github.com/bbc/tams" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Time Addressable Media Store API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-26T01:24:52Z</updated>
+  <updated>2024-04-27T01:24:10Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9</title>
-    <updated>2024-04-26T01:24:52Z</updated>
-    <id>tag:github.com,2024-04-26:/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9</id>
-    <link href="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reverse engineering of the Quansheng UV-K5 V1.4 PCB in KiCad 7&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KushalVijay/AmazonCrackedResource</title>
+    <updated>2024-04-27T01:24:10Z</updated>
+    <id>tag:github.com,2024-04-27:/KushalVijay/AmazonCrackedResource</id>
+    <link href="https://github.com/KushalVijay/AmazonCrackedResource" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A List of frequently asked questions in Amazon&#39;s Online Assessment and Interviews&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Profluent-AI/OpenCRISPR</title>
-    <updated>2024-04-26T01:24:52Z</updated>
-    <id>tag:github.com,2024-04-26:/Profluent-AI/OpenCRISPR</id>
-    <link href="https://github.com/Profluent-AI/OpenCRISPR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AI-generated gene editing systems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bpc-clone/bypass-paywalls-chrome-clean</title>
+    <updated>2024-04-27T01:24:10Z</updated>
+    <id>tag:github.com,2024-04-27:/bpc-clone/bypass-paywalls-chrome-clean</id>
+    <link href="https://github.com/bpc-clone/bypass-paywalls-chrome-clean" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SAWARATSUKI/ServiceLogos</title>
-    <updated>2024-04-26T01:24:52Z</updated>
-    <id>tag:github.com,2024-04-26:/SAWARATSUKI/ServiceLogos</id>
-    <link href="https://github.com/SAWARATSUKI/ServiceLogos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ロゴを可愛く作ろう　節度を持って利用してください🫠&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Madelena/esphome-weatherman-dashboard</title>
+    <updated>2024-04-27T01:24:10Z</updated>
+    <id>tag:github.com,2024-04-27:/Madelena/esphome-weatherman-dashboard</id>
+    <link href="https://github.com/Madelena/esphome-weatherman-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple dashboard with weather and NYC subway information for ESPHome&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
