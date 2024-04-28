@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-27T01:24:37Z</updated>
+  <updated>2024-04-28T01:29:14Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lovebetterworld/gis-spicy-hot-pot</title>
-    <updated>2024-04-27T01:24:37Z</updated>
-    <id>tag:github.com,2024-04-27:/lovebetterworld/gis-spicy-hot-pot</id>
-    <link href="https://github.com/lovebetterworld/gis-spicy-hot-pot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WebGis解决方案，GIS全套笔记，OpenLayers，GIS算法，GIS开发，QGIS，GeoServer笔记&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Ixve/Red-Team-Tools</title>
-    <updated>2024-04-27T01:24:37Z</updated>
-    <id>tag:github.com,2024-04-27:/Ixve/Red-Team-Tools</id>
-    <link href="https://github.com/Ixve/Red-Team-Tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo containing cracked red teaming tools.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

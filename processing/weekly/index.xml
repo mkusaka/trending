@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Processing Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-28T01:41:10Z</updated>
+  <subtitle>Weekly Trending of Processing in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jordanorelli/boids</title>
+    <updated>2024-04-28T01:41:10Z</updated>
+    <id>tag:github.com,2024-04-28:/jordanorelli/boids</id>
+    <link href="https://github.com/jordanorelli/boids" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;simple flocking in Processing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jabrake/King-of-the-Frogs</title>
+    <updated>2024-04-28T01:41:10Z</updated>
+    <id>tag:github.com,2024-04-28:/jabrake/King-of-the-Frogs</id>
+    <link href="https://github.com/jabrake/King-of-the-Frogs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Final Project for Redial + Nature of Code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>itschristinith/printingCodeFinal</title>
+    <updated>2024-04-28T01:41:10Z</updated>
+    <id>tag:github.com,2024-04-28:/itschristinith/printingCodeFinal</id>
+    <link href="https://github.com/itschristinith/printingCodeFinal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

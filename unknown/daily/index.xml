@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-27T01:24:10Z</updated>
+  <updated>2024-04-28T01:28:40Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KushalVijay/AmazonCrackedResource</title>
-    <updated>2024-04-27T01:24:10Z</updated>
-    <id>tag:github.com,2024-04-27:/KushalVijay/AmazonCrackedResource</id>
-    <link href="https://github.com/KushalVijay/AmazonCrackedResource" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A List of frequently asked questions in Amazon&#39;s Online Assessment and Interviews&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OdysseusYuan/Mocreak</title>
+    <updated>2024-04-28T01:28:40Z</updated>
+    <id>tag:github.com,2024-04-28:/OdysseusYuan/Mocreak</id>
+    <link href="https://github.com/OdysseusYuan/Mocreak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 LKY_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bpc-clone/bypass-paywalls-chrome-clean</title>
-    <updated>2024-04-27T01:24:10Z</updated>
-    <id>tag:github.com,2024-04-27:/bpc-clone/bypass-paywalls-chrome-clean</id>
-    <link href="https://github.com/bpc-clone/bypass-paywalls-chrome-clean" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Finallyt/Heroglyph</title>
+    <updated>2024-04-28T01:28:40Z</updated>
+    <id>tag:github.com,2024-04-28:/Finallyt/Heroglyph</id>
+    <link href="https://github.com/Finallyt/Heroglyph" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Incentives For Transforming Ethereum Validator Dynamics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Madelena/esphome-weatherman-dashboard</title>
-    <updated>2024-04-27T01:24:10Z</updated>
-    <id>tag:github.com,2024-04-27:/Madelena/esphome-weatherman-dashboard</id>
-    <link href="https://github.com/Madelena/esphome-weatherman-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple dashboard with weather and NYC subway information for ESPHome&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Shenzhi-Wang/Llama3-Chinese-Chat</title>
+    <updated>2024-04-28T01:28:40Z</updated>
+    <id>tag:github.com,2024-04-28:/Shenzhi-Wang/Llama3-Chinese-Chat</id>
+    <link href="https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the first Chinese chat model specifically fine-tuned for Chinese through ORPO based on the Meta-Llama-3-8B-Instruct model.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

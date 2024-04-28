@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-28T01:38:49Z</updated>
+  <subtitle>Weekly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pdepjm/2024-f-repoBase</title>
+    <updated>2024-04-28T01:38:49Z</updated>
+    <id>tag:github.com,2024-04-28:/pdepjm/2024-f-repoBase</id>
+    <link href="https://github.com/pdepjm/2024-f-repoBase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositorio base para Funcional (Haskell con Pdepreludat)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ejercicio-alumno&lt;/h1&gt; &#xA;&lt;h2&gt;Integrantes&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;integrante1 (usuario github)&lt;/li&gt; &#xA; &lt;li&gt;integrante2 (usuario github) ...&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>chancez/haskell-fun</title>
+    <updated>2024-04-28T01:38:49Z</updated>
+    <id>tag:github.com,2024-04-28:/chancez/haskell-fun</id>
+    <link href="https://github.com/chancez/haskell-fun" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dymatic/parrotBot</title>
+    <updated>2024-04-28T01:38:49Z</updated>
+    <id>tag:github.com,2024-04-28:/dymatic/parrotBot</id>
+    <link href="https://github.com/dymatic/parrotBot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A C-Response-System rewrite in Haskell&lt;/p&gt;&lt;hr&gt;&lt;p&gt;===ParrotBot&lt;/p&gt; &#xA;&lt;p&gt;Welcome to the ParrotBot github page! Just as a disclaimer, all parrots are completely virtual and no tropical birds were harmed in the making of this program.&lt;/p&gt; &#xA;&lt;p&gt;ParrotBot does everythign you want it to. The only limit is yourself. You feed it a file called a learn file that it can read (and write to), it will perform analysis on it, talk to you, and learn from its mistakes.&lt;/p&gt; &#xA;&lt;h2&gt;If you follow my projects you might think &#34;Wow, this sounds a lot like C-response-system&#34;. Yeah, this is the rewrite of that. Now, I spent a lot of time on C-response-system, so 7 hours of programming will not create a product that can nearly rival C-response-system. Expect a lot of updates over the coming weeks on this, more heavy on the weekends.&lt;/h2&gt; &#xA;&lt;p&gt;===Limitations over C-response-system&lt;/p&gt; &#xA;&lt;h2&gt;-Some of the WING responses aren&#39;t always accurate. This is a problem from StatAnal and will be fixed. -No Crunch -No random responses -No boot system -No config file&lt;/h2&gt; &#xA;&lt;p&gt;===Advantages over C-R-S&lt;/p&gt; &#xA;&lt;p&gt;-True Learning works a LOT better, simpler, and easier than it does in C-response system. Better: It can read am phrases, is phrases, and are phrases. simpler: The process that extracts the information is really terse thanks to LibHaskell. easier: All the user has to do is type learn: phrase for the bot to learn the phrase.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fuzzy search has been implemented, meaning that similar phrases will be returned. This is what AI WING tried to do. Features that will be implemented&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;-Config File -Random Responses -Special Commands -REMOVE THE HACKS&lt;/h2&gt; &#xA;&lt;p&gt;===Plans for the future&lt;/p&gt; &#xA;&lt;h2&gt;This has required a lot of hacks (including writing a C++ program to append files to avoid lazy evaluation), so I want to clean them up AFTER the program is feature-complete.&lt;/h2&gt; &#xA;&lt;p&gt;===License&lt;/p&gt; &#xA;&lt;h2&gt;Like all of my projects, this is being licensed under the BJLPL.&lt;/h2&gt;</summary>
+  </entry>
+</feed>

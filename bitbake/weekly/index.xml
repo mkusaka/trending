@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub BitBake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-04-28T01:36:40Z</updated>
+  <subtitle>Weekly Trending of BitBake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>varigit/meta-variscite-debian</title>
+    <updated>2024-04-28T01:36:40Z</updated>
+    <id>tag:github.com,2024-04-28:/varigit/meta-variscite-debian</id>
+    <link href="https://github.com/varigit/meta-variscite-debian" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Wind-River/meta-secure-core</title>
+    <updated>2024-04-28T01:36:40Z</updated>
+    <id>tag:github.com,2024-04-28:/Wind-River/meta-secure-core</id>
+    <link href="https://github.com/Wind-River/meta-secure-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

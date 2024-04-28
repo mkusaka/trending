@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-27T01:27:54Z</updated>
+  <updated>2024-04-28T01:32:32Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>OAI/OpenAPI-Specification</title>
-    <updated>2024-04-27T01:27:54Z</updated>
-    <id>tag:github.com,2024-04-27:/OAI/OpenAPI-Specification</id>
-    <link href="https://github.com/OAI/OpenAPI-Specification" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The OpenAPI Specification Repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>P0L3NARUBA/gtav-sourcecode-build-guide</title>
-    <updated>2024-04-27T01:27:54Z</updated>
-    <id>tag:github.com,2024-04-27:/P0L3NARUBA/gtav-sourcecode-build-guide</id>
-    <link href="https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GTA V Source Code Build Tutorial with an extra additions!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

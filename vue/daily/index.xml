@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-27T01:31:08Z</updated>
+  <updated>2024-04-28T01:35:49Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Zhouqluo/bilidown-web</title>
-    <updated>2024-04-27T01:31:08Z</updated>
-    <id>tag:github.com,2024-04-27:/Zhouqluo/bilidown-web</id>
-    <link href="https://github.com/Zhouqluo/bilidown-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;在线下载b站视频&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oldnicke/MasteringEthereum</title>
+    <updated>2024-04-28T01:35:49Z</updated>
+    <id>tag:github.com,2024-04-28:/oldnicke/MasteringEthereum</id>
+    <link href="https://github.com/oldnicke/MasteringEthereum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;《精通以太坊》中文翻译版&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

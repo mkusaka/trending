@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-27T01:26:38Z</updated>
+  <updated>2024-04-28T01:31:20Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ThibautHH/MyPandoc</title>
+    <updated>2024-04-28T01:31:20Z</updated>
+    <id>tag:github.com,2024-04-28:/ThibautHH/MyPandoc</id>
+    <link href="https://github.com/ThibautHH/MyPandoc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MyPandoc&lt;/h1&gt; &#xA;&lt;p&gt;Epitech 2nd year project, simpilfied Pandoc document translator implementation.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>UCSC-CSE-114A/02-random-art</title>
+    <updated>2024-04-28T01:31:20Z</updated>
+    <id>tag:github.com,2024-04-28:/UCSC-CSE-114A/02-random-art</id>
+    <link href="https://github.com/UCSC-CSE-114A/02-random-art" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;See wiki for instructions: &lt;a href=&#34;https://github.com/UCSC-CSE-114A/02-random-art/wiki/README&#34;&gt;https://github.com/UCSC-CSE-114A/02-random-art/wiki/README&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>tomjaguarpaw/bluefin</title>
+    <updated>2024-04-28T01:31:20Z</updated>
+    <id>tag:github.com,2024-04-28:/tomjaguarpaw/bluefin</id>
+    <link href="https://github.com/tomjaguarpaw/bluefin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Bluefin&lt;/h1&gt; &#xA;&lt;p&gt;Bluefin is an effect system for Haskell which allows you, through value-level handles, to freely mix a variety of effects including&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/tomjaguarpaw/bluefin/master/bluefin/src/Bluefin/EarlyReturn.hs&#34;&gt;&lt;code&gt;Bluefin.EarlyReturn&lt;/code&gt;&lt;/a&gt;, for early return&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/tomjaguarpaw/bluefin/master/bluefin/src/Bluefin/Exception.hs&#34;&gt;&lt;code&gt;Bluefin.Exception&lt;/code&gt;&lt;/a&gt;, for exceptions&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/tomjaguarpaw/bluefin/master/bluefin/src/Bluefin/IO.hs&#34;&gt;&lt;code&gt;Bluefin.IO&lt;/code&gt;&lt;/a&gt;, for I/O&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/tomjaguarpaw/bluefin/master/bluefin/src/Bluefin/State.hs&#34;&gt;&lt;code&gt;Bluefin.State&lt;/code&gt;&lt;/a&gt;, for mutable state&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/tomjaguarpaw/bluefin/master/bluefin/src/Bluefin/Stream.hs&#34;&gt;&lt;code&gt;Bluefin.Stream&lt;/code&gt;&lt;/a&gt;, for streams&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;For an introduction to Bluefin, see the docs in the &lt;a href=&#34;https://raw.githubusercontent.com/tomjaguarpaw/bluefin/master/bluefin/src/Bluefin.hs&#34;&gt;&lt;code&gt;Bluefin&lt;/code&gt;&lt;/a&gt; module.&lt;/p&gt; &#xA;&lt;h2&gt;Acknowledgements&lt;/h2&gt; &#xA;&lt;p&gt;Tom Ellis would like to thank many individuals for their work related to effect systems. Without the work of these individuals, Bluefin would not exist.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Oleg Kiselyov, particularly for his work on effects and delimited continuations&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Michael Snoyman, particularly for his work on conduit and the &lt;code&gt;ReaderT&lt;/code&gt; &lt;code&gt;IO&lt;/code&gt; pattern&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Gabriella Gonzalez, particularly for her work on pipes&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Alexis King, particularly for her work on effect systems and delimited continuations&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;David Feuer, particularly for [his observation about handlers and rank-2 types]( &lt;a href=&#34;https://www.reddit.com/r/haskell/comments/pywuqg/comment/hexo2uu/&#34;&gt;https://www.reddit.com/r/haskell/comments/pywuqg/comment/hexo2uu/&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Andrzej Rybczak for his work on effectful&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Francois Pottier for &#34;Wandering through linear types, capabilities, and regions&#34; &lt;a href=&#34;http://pauillac.inria.fr/~fpottier/slides/fpottier-2007-05-linear-bestiary.pdf&#34;&gt;http://pauillac.inria.fr/~fpottier/slides/fpottier-2007-05-linear-bestiary.pdf&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Jasper van de Jeugt, particularly for promoting the handle pattern &lt;a href=&#34;https://jaspervdj.be/posts/2018-03-08-handle-pattern.html#fnref2&#34;&gt;https://jaspervdj.be/posts/2018-03-08-handle-pattern.html#fnref2&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

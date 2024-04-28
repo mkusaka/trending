@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-27T01:26:41Z</updated>
+  <updated>2024-04-28T01:31:24Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kamone416/MayaToonOutlineShader</title>
-    <updated>2024-04-27T01:26:41Z</updated>
-    <id>tag:github.com,2024-04-27:/kamone416/MayaToonOutlineShader</id>
-    <link href="https://github.com/kamone416/MayaToonOutlineShader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Realtime Toon Shader for Maya Hardware 2.0 Renderer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DevsDaddy/UnityXScaling</title>
+    <updated>2024-04-28T01:31:24Z</updated>
+    <id>tag:github.com,2024-04-28:/DevsDaddy/UnityXScaling</id>
+    <link href="https://github.com/DevsDaddy/UnityXScaling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unity XScaling - a runtime framework for GPU-based textures and screen upscaling (super-resolution). Supports every platform.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
