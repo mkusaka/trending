@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-28T01:34:58Z</updated>
+  <updated>2024-04-29T01:31:25Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>code-423n4/2024-04-noya</title>
+    <updated>2024-04-29T01:31:25Z</updated>
+    <id>tag:github.com,2024-04-29:/code-423n4/2024-04-noya</id>
+    <link href="https://github.com/code-423n4/2024-04-noya" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZpokenWeb3/zk-light-client-implementation</title>
+    <updated>2024-04-29T01:31:25Z</updated>
+    <id>tag:github.com,2024-04-29:/ZpokenWeb3/zk-light-client-implementation</id>
+    <link href="https://github.com/ZpokenWeb3/zk-light-client-implementation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zero Knowledge Light Client Implementation by Zpoken team.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wilsoncusack/safe-singleton-deployer-sol</title>
+    <updated>2024-04-29T01:31:25Z</updated>
+    <id>tag:github.com,2024-04-29:/wilsoncusack/safe-singleton-deployer-sol</id>
+    <link href="https://github.com/wilsoncusack/safe-singleton-deployer-sol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

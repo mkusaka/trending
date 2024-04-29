@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-28T01:28:40Z</updated>
+  <updated>2024-04-29T01:25:46Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OdysseusYuan/Mocreak</title>
-    <updated>2024-04-28T01:28:40Z</updated>
-    <id>tag:github.com,2024-04-28:/OdysseusYuan/Mocreak</id>
-    <link href="https://github.com/OdysseusYuan/Mocreak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于 LKY_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ImplFerris/LearnRust</title>
+    <updated>2024-04-29T01:25:46Z</updated>
+    <id>tag:github.com,2024-04-29:/ImplFerris/LearnRust</id>
+    <link href="https://github.com/ImplFerris/LearnRust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust Learning Resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Finallyt/Heroglyph</title>
-    <updated>2024-04-28T01:28:40Z</updated>
-    <id>tag:github.com,2024-04-28:/Finallyt/Heroglyph</id>
-    <link href="https://github.com/Finallyt/Heroglyph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Incentives For Transforming Ethereum Validator Dynamics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Gar-b-age/CookLikeHOC</title>
+    <updated>2024-04-29T01:25:46Z</updated>
+    <id>tag:github.com,2024-04-29:/Gar-b-age/CookLikeHOC</id>
+    <link href="https://github.com/Gar-b-age/CookLikeHOC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Shenzhi-Wang/Llama3-Chinese-Chat</title>
-    <updated>2024-04-28T01:28:40Z</updated>
-    <id>tag:github.com,2024-04-28:/Shenzhi-Wang/Llama3-Chinese-Chat</id>
-    <link href="https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the first Chinese chat model specifically fine-tuned for Chinese through ORPO based on the Meta-Llama-3-8B-Instruct model.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nodelrd/ChatGPT-Next-Web-PLUS</title>
+    <updated>2024-04-29T01:25:46Z</updated>
+    <id>tag:github.com,2024-04-29:/nodelrd/ChatGPT-Next-Web-PLUS</id>
+    <link href="https://github.com/nodelrd/ChatGPT-Next-Web-PLUS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于chatgpt-next-web 增强版本，后台管理，接入知识库等。将按需持续接入midjourney绘画功能，接入了stable-diffusion，支持oss，支持dall-e-3、gpt-4-vision-preview、whisper、tts，支持gpt-4-all，支持GPTs商店。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

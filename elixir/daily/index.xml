@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-28T01:30:39Z</updated>
+  <updated>2024-04-29T01:27:25Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>michalmuskala/jason</title>
-    <updated>2024-04-28T01:30:39Z</updated>
-    <id>tag:github.com,2024-04-28:/michalmuskala/jason</id>
-    <link href="https://github.com/michalmuskala/jason" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A blazing fast JSON parser and generator in pure Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pow-auth/pow</title>
+    <updated>2024-04-29T01:27:25Z</updated>
+    <id>tag:github.com,2024-04-29:/pow-auth/pow</id>
+    <link href="https://github.com/pow-auth/pow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Robust, modular, and extendable user authentication system&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xavier/xlsx_reader</title>
-    <updated>2024-04-28T01:30:39Z</updated>
-    <id>tag:github.com,2024-04-28:/xavier/xlsx_reader</id>
-    <link href="https://github.com/xavier/xlsx_reader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A production-ready XLSX file reader for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zeeetech/ativar</title>
+    <updated>2024-04-29T01:27:25Z</updated>
+    <id>tag:github.com,2024-04-29:/zeeetech/ativar</id>
+    <link href="https://github.com/zeeetech/ativar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elixir-cldr/cldr_territories</title>
+    <updated>2024-04-29T01:27:25Z</updated>
+    <id>tag:github.com,2024-04-29:/elixir-cldr/cldr_territories</id>
+    <link href="https://github.com/elixir-cldr/cldr_territories" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Territory formatting functions for the Common Locale Data Repository (CLDR) package https://github.com/elixir-cldr/cldr&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

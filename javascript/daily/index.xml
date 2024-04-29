@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-28T01:31:53Z</updated>
+  <updated>2024-04-29T01:28:35Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Lunakepio/Mario-Bros.js</title>
+    <updated>2024-04-29T01:28:35Z</updated>
+    <id>tag:github.com,2024-04-29:/Lunakepio/Mario-Bros.js</id>
+    <link href="https://github.com/Lunakepio/Mario-Bros.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Mario Bros in 3D with React&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;React + Vite&lt;/h1&gt; &#xA;&lt;p&gt;This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.&lt;/p&gt; &#xA;&lt;p&gt;Currently, two official plugins are available:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/vitejs/vite-plugin-react/raw/main/packages/plugin-react/README.md&#34;&gt;@vitejs/plugin-react&lt;/a&gt; uses &lt;a href=&#34;https://babeljs.io/&#34;&gt;Babel&lt;/a&gt; for Fast Refresh&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/vitejs/vite-plugin-react-swc&#34;&gt;@vitejs/plugin-react-swc&lt;/a&gt; uses &lt;a href=&#34;https://swc.rs/&#34;&gt;SWC&lt;/a&gt; for Fast Refresh&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

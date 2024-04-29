@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-28T01:35:09Z</updated>
+  <updated>2024-04-29T01:31:35Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>at-pyrix/pyrix</title>
-    <updated>2024-04-28T01:35:09Z</updated>
-    <id>tag:github.com,2024-04-28:/at-pyrix/pyrix</id>
-    <link href="https://github.com/at-pyrix/pyrix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Personal Blog made with SvelteKit &amp; Sanity CMS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thedivtagguy/whoismyneta</title>
+    <updated>2024-04-29T01:31:35Z</updated>
+    <id>tag:github.com,2024-04-29:/thedivtagguy/whoismyneta</id>
+    <link href="https://github.com/thedivtagguy/whoismyneta" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dashboard to explore self-reported details and parliamentary activity of MPs in the 17th Lok Sabha&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
