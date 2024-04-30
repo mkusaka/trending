@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-29T01:25:46Z</updated>
+  <updated>2024-04-30T01:24:50Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ImplFerris/LearnRust</title>
-    <updated>2024-04-29T01:25:46Z</updated>
-    <id>tag:github.com,2024-04-29:/ImplFerris/LearnRust</id>
-    <link href="https://github.com/ImplFerris/LearnRust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust Learning Resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>func25/go-practical-tips</title>
+    <updated>2024-04-30T01:24:50Z</updated>
+    <id>tag:github.com,2024-04-30:/func25/go-practical-tips</id>
+    <link href="https://github.com/func25/go-practical-tips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Go Practical Tips&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Gar-b-age/CookLikeHOC</title>
-    <updated>2024-04-29T01:25:46Z</updated>
-    <id>tag:github.com,2024-04-29:/Gar-b-age/CookLikeHOC</id>
-    <link href="https://github.com/Gar-b-age/CookLikeHOC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nodelrd/ChatGPT-Next-Web-PLUS</title>
-    <updated>2024-04-29T01:25:46Z</updated>
-    <id>tag:github.com,2024-04-29:/nodelrd/ChatGPT-Next-Web-PLUS</id>
-    <link href="https://github.com/nodelrd/ChatGPT-Next-Web-PLUS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于chatgpt-next-web 增强版本，后台管理，接入知识库等。将按需持续接入midjourney绘画功能，接入了stable-diffusion，支持oss，支持dall-e-3、gpt-4-vision-preview、whisper、tts，支持gpt-4-all，支持GPTs商店。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>project-fika/Fika-Documentation</title>
+    <updated>2024-04-30T01:24:50Z</updated>
+    <id>tag:github.com,2024-04-30:/project-fika/Fika-Documentation</id>
+    <link href="https://github.com/project-fika/Fika-Documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

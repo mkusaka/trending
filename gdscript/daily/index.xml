@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-29T01:27:46Z</updated>
+  <updated>2024-04-30T01:26:56Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Samachiy/Qinti</title>
-    <updated>2024-04-29T01:27:46Z</updated>
-    <id>tag:github.com,2024-04-29:/Samachiy/Qinti</id>
-    <link href="https://github.com/Samachiy/Qinti" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>YuriSizov/boscaceoil-blue</title>
-    <updated>2024-04-29T01:27:46Z</updated>
-    <id>tag:github.com,2024-04-29:/YuriSizov/boscaceoil-blue</id>
-    <link href="https://github.com/YuriSizov/boscaceoil-blue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A beginner-friendly music making app.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>skooter500/miniature-rotary-phone</title>
-    <updated>2024-04-29T01:27:46Z</updated>
-    <id>tag:github.com,2024-04-29:/skooter500/miniature-rotary-phone</id>
-    <link href="https://github.com/skooter500/miniature-rotary-phone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>newjoker6/Asset-Drawer</title>
+    <updated>2024-04-30T01:26:56Z</updated>
+    <id>tag:github.com,2024-04-30:/newjoker6/Asset-Drawer</id>
+    <link href="https://github.com/newjoker6/Asset-Drawer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Moves the FileDock to the bottom of the screen, similar to Unity and Unreal. You can also use the shortcut key to show and hide it.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

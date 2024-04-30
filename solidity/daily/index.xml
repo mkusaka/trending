@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-29T01:31:25Z</updated>
+  <updated>2024-04-30T01:30:44Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2024-04-noya</title>
-    <updated>2024-04-29T01:31:25Z</updated>
-    <id>tag:github.com,2024-04-29:/code-423n4/2024-04-noya</id>
-    <link href="https://github.com/code-423n4/2024-04-noya" rel="alternate"></link>
+    <title>gentlebigbear/ethereum-mev-bot</title>
+    <updated>2024-04-30T01:30:44Z</updated>
+    <id>tag:github.com,2024-04-30:/gentlebigbear/ethereum-mev-bot</id>
+    <link href="https://github.com/gentlebigbear/ethereum-mev-bot" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ZpokenWeb3/zk-light-client-implementation</title>
-    <updated>2024-04-29T01:31:25Z</updated>
-    <id>tag:github.com,2024-04-29:/ZpokenWeb3/zk-light-client-implementation</id>
-    <link href="https://github.com/ZpokenWeb3/zk-light-client-implementation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zero Knowledge Light Client Implementation by Zpoken team.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Cyfrin/forge-template</title>
+    <updated>2024-04-30T01:30:44Z</updated>
+    <id>tag:github.com,2024-04-30:/Cyfrin/forge-template</id>
+    <link href="https://github.com/Cyfrin/forge-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wilsoncusack/safe-singleton-deployer-sol</title>
-    <updated>2024-04-29T01:31:25Z</updated>
-    <id>tag:github.com,2024-04-29:/wilsoncusack/safe-singleton-deployer-sol</id>
-    <link href="https://github.com/wilsoncusack/safe-singleton-deployer-sol" rel="alternate"></link>
+    <title>Oldwarma/Web3-Financial-Engineering-Courses-main</title>
+    <updated>2024-04-30T01:30:44Z</updated>
+    <id>tag:github.com,2024-04-30:/Oldwarma/Web3-Financial-Engineering-Courses-main</id>
+    <link href="https://github.com/Oldwarma/Web3-Financial-Engineering-Courses-main" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

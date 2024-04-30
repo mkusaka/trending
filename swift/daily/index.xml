@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-29T01:31:39Z</updated>
+  <updated>2024-04-30T01:30:57Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vapor/fluent</title>
+    <updated>2024-04-30T01:30:57Z</updated>
+    <id>tag:github.com,2024-04-30:/vapor/fluent</id>
+    <link href="https://github.com/vapor/fluent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vapor ORM (queries, models, and relations) for NoSQL and SQL databases&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &#xA; &lt;picture&gt; &#xA;  &lt;source media=&#34;(prefers-color-scheme: dark)&#34; srcset=&#34;https://github.com/vapor/fluent/assets/1130717/f4708c0b-3c9e-4e8b-9508-aa1ca6481c70&#34;&gt; &#xA;  &lt;source media=&#34;(prefers-color-scheme: light)&#34; srcset=&#34;https://github.com/vapor/fluent/assets/1130717/bc4e1040-1e8a-4c0c-a24d-e87221a01af3&#34;&gt; &#xA;  &lt;img src=&#34;https://github.com/vapor/fluent/assets/1130717/bc4e1040-1e8a-4c0c-a24d-e87221a01af3&#34; height=&#34;96&#34; alt=&#34;Fluent&#34;&gt; &#xA; &lt;/picture&gt; &lt;br&gt; &lt;br&gt; &lt;a href=&#34;https://docs.vapor.codes/4.0/&#34;&gt;&lt;img src=&#34;https://design.vapor.codes/images/readthedocs.svg?sanitize=true&#34; alt=&#34;Documentation&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://discord.gg/vapor&#34;&gt;&lt;img src=&#34;https://design.vapor.codes/images/discordchat.svg?sanitize=true&#34; alt=&#34;Team Chat&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://raw.githubusercontent.com/vapor/fluent/main/LICENSE&#34;&gt;&lt;img src=&#34;https://design.vapor.codes/images/mitlicense.svg?sanitize=true&#34; alt=&#34;MIT License&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/vapor/fluent/actions/workflows/test.yml&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/actions/workflow/status/vapor/fluent/test.yml?event=push&amp;amp;style=plastic&amp;amp;logo=github&amp;amp;label=tests&amp;amp;logoColor=%23ccc&#34; alt=&#34;Continuous Integration&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://codecov.io/github/vapor/fluent&#34;&gt;&lt;img src=&#34;https://img.shields.io/codecov/c/github/vapor/fluent?style=plastic&amp;amp;logo=codecov&amp;amp;label=codecov&amp;amp;token=yDzzHja8lt&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://swift.org&#34;&gt;&lt;img src=&#34;https://design.vapor.codes/images/swift58up.svg?sanitize=true&#34; alt=&#34;Swift 5.8+&#34;&gt;&lt;/a&gt; &lt;/p&gt; &#xA;&lt;br&gt; &#xA;&lt;p&gt;The Fluent package makes it easy to use FluentKit in Vapor applications by tying the FluentKit database abstraction layer into the Vapor application lifecycle. It also provides helpers for mapping FluentKit&#39;s models to Vapor&#39;s authentication APIs.&lt;/p&gt; &#xA;&lt;p&gt;For more information, see the &lt;a href=&#34;https://docs.vapor.codes/fluent/overview/&#34;&gt;Fluent documentation&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
