@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-30T01:25:17Z</updated>
+  <updated>2024-05-01T01:29:16Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Kometa-Team/Community-Configs</title>
-    <updated>2024-04-30T01:25:17Z</updated>
-    <id>tag:github.com,2024-04-30:/Kometa-Team/Community-Configs</id>
-    <link href="https://github.com/Kometa-Team/Community-Configs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Config files for Plex Meta Manager&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lzwme/scoop-proxy-cn</title>
+    <updated>2024-05-01T01:29:16Z</updated>
+    <id>tag:github.com,2024-05-01:/lzwme/scoop-proxy-cn</id>
+    <link href="https://github.com/lzwme/scoop-proxy-cn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;适合中国大陆的 Scoop buckets 代理镜像库。从多个开源 bucket 仓库同步更新，包含应用 1.6w+。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>open-navigation/docs.nav2.org</title>
+    <updated>2024-05-01T01:29:16Z</updated>
+    <id>tag:github.com,2024-05-01:/open-navigation/docs.nav2.org</id>
+    <link href="https://github.com/open-navigation/docs.nav2.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://docs.nav2.org/&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

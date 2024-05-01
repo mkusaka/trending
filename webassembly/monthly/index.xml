@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub WebAssembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-01T01:50:31Z</updated>
+  <subtitle>Monthly Trending of WebAssembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WebAssembly/half-precision</title>
+    <updated>2024-05-01T01:50:31Z</updated>
+    <id>tag:github.com,2024-05-01:/WebAssembly/half-precision</id>
+    <link href="https://github.com/WebAssembly/half-precision" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proposal to introduce half precision operations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WebAssembly/custom-page-sizes</title>
+    <updated>2024-05-01T01:50:31Z</updated>
+    <id>tag:github.com,2024-05-01:/WebAssembly/custom-page-sizes</id>
+    <link href="https://github.com/WebAssembly/custom-page-sizes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

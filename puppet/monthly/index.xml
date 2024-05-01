@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-01T01:48:41Z</updated>
+  <subtitle>Monthly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>devopsconsulting/puppet-stud</title>
+    <updated>2024-05-01T01:48:41Z</updated>
+    <id>tag:github.com,2024-05-01:/devopsconsulting/puppet-stud</id>
+    <link href="https://github.com/devopsconsulting/puppet-stud" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage stud with puppet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>devopsconsulting/puppet-devtools</title>
+    <updated>2024-05-01T01:48:41Z</updated>
+    <id>tag:github.com,2024-05-01:/devopsconsulting/puppet-devtools</id>
+    <link href="https://github.com/devopsconsulting/puppet-devtools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;devtools for doing puppet development&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thias/puppet-moxi</title>
+    <updated>2024-05-01T01:48:41Z</updated>
+    <id>tag:github.com,2024-05-01:/thias/puppet-moxi</id>
+    <link href="https://github.com/thias/puppet-moxi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet Moxi module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

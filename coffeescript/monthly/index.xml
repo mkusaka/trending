@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-01T01:44:35Z</updated>
+  <subtitle>Monthly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shendongming/js-game</title>
+    <updated>2024-05-01T01:44:35Z</updated>
+    <id>tag:github.com,2024-05-01:/shendongming/js-game</id>
+    <link href="https://github.com/shendongming/js-game" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;javascript 游戏+ai&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tshelburne/scribe-js</title>
+    <updated>2024-05-01T01:44:35Z</updated>
+    <id>tag:github.com,2024-05-01:/tshelburne/scribe-js</id>
+    <link href="https://github.com/tshelburne/scribe-js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;in-memory object storage mechanism for javascript using repository pattern&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>garbados/fwords</title>
+    <updated>2024-05-01T01:44:35Z</updated>
+    <id>tag:github.com,2024-05-01:/garbados/fwords</id>
+    <link href="https://github.com/garbados/fwords" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of function words for different languages.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

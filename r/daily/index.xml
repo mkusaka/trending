@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-30T01:29:56Z</updated>
+  <updated>2024-05-01T01:34:10Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yujunnokia/eBird.ODEFP</title>
-    <updated>2024-04-30T01:29:56Z</updated>
-    <id>tag:github.com,2024-04-30:/yujunnokia/eBird.ODEFP</id>
-    <link href="https://github.com/yujunnokia/eBird.ODEFP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ODE-FP model&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hughec1329/285_gtrend</title>
+    <updated>2024-05-01T01:34:10Z</updated>
+    <id>tag:github.com,2024-05-01:/hughec1329/285_gtrend</id>
+    <link href="https://github.com/hughec1329/285_gtrend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;285 project - research online data sources&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;justify w stock price info&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;data sources&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;gtrend&lt;/li&gt; &#xA; &lt;li&gt;census - API access&lt;/li&gt; &#xA; &lt;li&gt;quandl&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;social media&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;blogging??&lt;/li&gt; &#xA; &lt;li&gt;twitter&lt;/li&gt; &#xA; &lt;li&gt;wiki page views&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;explain R, sources for learning.&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;benefits - API.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;websites&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;wiki page views easy scraper.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://gigaom.com/2013/05/10/scraperwiki-lets-anyone-scrape-twitter-data-without-coding/&#34;&gt;http://gigaom.com/2013/05/10/scraperwiki-lets-anyone-scrape-twitter-data-without-coding/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://blog.scraperwiki.com/2013/05/10/free-community-accounts/&#34;&gt;http://blog.scraperwiki.com/2013/05/10/free-community-accounts/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

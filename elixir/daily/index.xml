@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-30T01:26:34Z</updated>
+  <updated>2024-05-01T01:30:36Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pawlooss1/elixir_challenge</title>
-    <updated>2024-04-30T01:26:34Z</updated>
-    <id>tag:github.com,2024-04-30:/pawlooss1/elixir_challenge</id>
-    <link href="https://github.com/pawlooss1/elixir_challenge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A contest challenge for the participants of ESL&#39;s School of Elixir 2024&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elixir-cldr/cldr</title>
-    <updated>2024-04-30T01:26:34Z</updated>
-    <id>tag:github.com,2024-04-30:/elixir-cldr/cldr</id>
-    <link href="https://github.com/elixir-cldr/cldr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir implementation of CLDR/ICU&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

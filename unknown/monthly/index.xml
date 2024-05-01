@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-01T01:43:32Z</updated>
+  <subtitle>Monthly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>1c7/chinese-independent-developer</title>
+    <updated>2024-05-01T01:43:32Z</updated>
+    <id>tag:github.com,2024-05-01:/1c7/chinese-independent-developer</id>
+    <link href="https://github.com/1c7/chinese-independent-developer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HqWu-HITCS/Awesome-Chinese-LLM</title>
+    <updated>2024-05-01T01:43:32Z</updated>
+    <id>tag:github.com,2024-05-01:/HqWu-HITCS/Awesome-Chinese-LLM</id>
+    <link href="https://github.com/HqWu-HITCS/Awesome-Chinese-LLM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code</title>
+    <updated>2024-05-01T01:43:32Z</updated>
+    <id>tag:github.com,2024-05-01:/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code</id>
+    <link href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;500 AI Machine learning Deep learning Computer vision NLP Projects with code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

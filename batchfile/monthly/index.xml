@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-01T01:44:00Z</updated>
+  <subtitle>Monthly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cgohlke/talib-build</title>
+    <updated>2024-05-01T01:44:00Z</updated>
+    <id>tag:github.com,2024-05-01:/cgohlke/talib-build</id>
+    <link href="https://github.com/cgohlke/talib-build" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build TA-Lib wheels for Windows&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SillyTavern/SillyTavern-Launcher</title>
+    <updated>2024-05-01T01:44:00Z</updated>
+    <id>tag:github.com,2024-05-01:/SillyTavern/SillyTavern-Launcher</id>
+    <link href="https://github.com/SillyTavern/SillyTavern-Launcher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Launcher scripts for SillyTavern and ST-Extras.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AlexBlackmore/roms</title>
+    <updated>2024-05-01T01:44:00Z</updated>
+    <id>tag:github.com,2024-05-01:/AlexBlackmore/roms</id>
+    <link href="https://github.com/AlexBlackmore/roms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

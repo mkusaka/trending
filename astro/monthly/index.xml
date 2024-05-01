@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-01T01:43:55Z</updated>
+  <subtitle>Monthly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mearashadowfax/ScrewFast</title>
+    <updated>2024-05-01T01:43:55Z</updated>
+    <id>tag:github.com,2024-05-01:/mearashadowfax/ScrewFast</id>
+    <link href="https://github.com/mearashadowfax/ScrewFast" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open-source Astro website template with sleek, customizable TailwindCSS components.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>saicaca/fuwari</title>
+    <updated>2024-05-01T01:43:55Z</updated>
+    <id>tag:github.com,2024-05-01:/saicaca/fuwari</id>
+    <link href="https://github.com/saicaca/fuwari" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A static blog template built with Astro.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>roadmapsh/deprecated-version</title>
+    <updated>2024-05-01T01:43:55Z</updated>
+    <id>tag:github.com,2024-05-01:/roadmapsh/deprecated-version</id>
+    <link href="https://github.com/roadmapsh/deprecated-version" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Next version of roadmap.sh&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

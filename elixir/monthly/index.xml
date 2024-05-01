@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-01T01:45:25Z</updated>
+  <subtitle>Monthly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Clivern/Lynx</title>
+    <updated>2024-05-01T01:45:25Z</updated>
+    <id>tag:github.com,2024-05-01:/Clivern/Lynx</id>
+    <link href="https://github.com/Clivern/Lynx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kieraneglin/pinchflat</title>
+    <updated>2024-05-01T01:45:25Z</updated>
+    <id>tag:github.com,2024-05-01:/kieraneglin/pinchflat</id>
+    <link href="https://github.com/kieraneglin/pinchflat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Your next YouTube media manager&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hexpm/hex</title>
+    <updated>2024-05-01T01:45:25Z</updated>
+    <id>tag:github.com,2024-05-01:/hexpm/hex</id>
+    <link href="https://github.com/hexpm/hex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Package manager for the Erlang VM&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

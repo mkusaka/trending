@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-30T01:27:56Z</updated>
+  <updated>2024-05-01T01:32:03Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SciML/ADTypes.jl</title>
+    <updated>2024-05-01T01:32:03Z</updated>
+    <id>tag:github.com,2024-05-01:/SciML/ADTypes.jl</id>
+    <link href="https://github.com/SciML/ADTypes.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for SciML AD backend types&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/BoundaryValueDiffEq.jl</title>
+    <updated>2024-05-01T01:32:03Z</updated>
+    <id>tag:github.com,2024-05-01:/SciML/BoundaryValueDiffEq.jl</id>
+    <link href="https://github.com/SciML/BoundaryValueDiffEq.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Boundary value problem (BVP) solvers for scientific machine learning (SciML)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tpgillam/AssociativeWindowAggregation.jl</title>
+    <updated>2024-05-01T01:32:03Z</updated>
+    <id>tag:github.com,2024-05-01:/tpgillam/AssociativeWindowAggregation.jl</id>
+    <link href="https://github.com/tpgillam/AssociativeWindowAggregation.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aggregation of associative operators over rolling windows.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

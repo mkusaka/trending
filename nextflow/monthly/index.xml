@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nextflow Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-01T01:47:48Z</updated>
+  <subtitle>Monthly Trending of Nextflow in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nf-core/reportho</title>
+    <updated>2024-05-01T01:47:48Z</updated>
+    <id>tag:github.com,2024-05-01:/nf-core/reportho</id>
+    <link href="https://github.com/nf-core/reportho" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nf-core pipeline for comparative analysis of ortholog predictions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nf-core/seqinspector</title>
+    <updated>2024-05-01T01:47:48Z</updated>
+    <id>tag:github.com,2024-05-01:/nf-core/seqinspector</id>
+    <link href="https://github.com/nf-core/seqinspector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;QC pipeline to inspect your sequences&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ncbi/egapx</title>
+    <updated>2024-05-01T01:47:48Z</updated>
+    <id>tag:github.com,2024-05-01:/ncbi/egapx</id>
+    <link href="https://github.com/ncbi/egapx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Eukaryotic Genome Annotation Pipeline-External caller scripts and documentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

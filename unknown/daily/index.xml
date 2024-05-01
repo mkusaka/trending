@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-30T01:24:50Z</updated>
+  <updated>2024-05-01T01:28:46Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>func25/go-practical-tips</title>
-    <updated>2024-04-30T01:24:50Z</updated>
-    <id>tag:github.com,2024-04-30:/func25/go-practical-tips</id>
-    <link href="https://github.com/func25/go-practical-tips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Go Practical Tips&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Kludex/fastapi-tips</title>
+    <updated>2024-05-01T01:28:46Z</updated>
+    <id>tag:github.com,2024-05-01:/Kludex/fastapi-tips</id>
+    <link href="https://github.com/Kludex/fastapi-tips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FastAPI Tips by The FastAPI Expert!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>project-fika/Fika-Documentation</title>
-    <updated>2024-04-30T01:24:50Z</updated>
-    <id>tag:github.com,2024-04-30:/project-fika/Fika-Documentation</id>
-    <link href="https://github.com/project-fika/Fika-Documentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>harsharock/BaseCamp</title>
+    <updated>2024-05-01T01:28:46Z</updated>
+    <id>tag:github.com,2024-05-01:/harsharock/BaseCamp</id>
+    <link href="https://github.com/harsharock/BaseCamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BaseCamp Contracts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jkiolppm/Crypto-Miner-Soft</title>
+    <updated>2024-05-01T01:28:46Z</updated>
+    <id>tag:github.com,2024-05-01:/jkiolppm/Crypto-Miner-Soft</id>
+    <link href="https://github.com/jkiolppm/Crypto-Miner-Soft" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;miner bitcoin-mining crypto-miner bitcoin-miner cryptocurrency-mining xmr-miner dual-mining ton-miner btc-miner rvn-miner xna-miner ergo-miner kas-miner neox-miner ctxc-miner zephyr-miner zeph-miner aeon-miner zcash-miner open-sources-code-github&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

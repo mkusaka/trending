@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Gleam Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-01T01:45:49Z</updated>
+  <subtitle>Monthly Trending of Gleam in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gleam-lang/stdlib</title>
+    <updated>2024-05-01T01:45:49Z</updated>
+    <id>tag:github.com,2024-05-01:/gleam-lang/stdlib</id>
+    <link href="https://github.com/gleam-lang/stdlib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎁 Gleam&#39;s standard library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gleam-lang/otp</title>
+    <updated>2024-05-01T01:45:49Z</updated>
+    <id>tag:github.com,2024-05-01:/gleam-lang/otp</id>
+    <link href="https://github.com/gleam-lang/otp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📫 Fault tolerant multicore programs with actors&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

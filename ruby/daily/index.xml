@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-04-30T01:30:13Z</updated>
+  <updated>2024-05-01T01:34:31Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>appdev-projects/msm-gui</title>
-    <updated>2024-04-30T01:30:13Z</updated>
-    <id>tag:github.com,2024-04-30:/appdev-projects/msm-gui</id>
-    <link href="https://github.com/appdev-projects/msm-gui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;msm-gui&lt;/h1&gt; &#xA;&lt;p&gt;Target: &lt;a href=&#34;https://msm-gui.matchthetarget.com/&#34;&gt;https://msm-gui.matchthetarget.com/&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

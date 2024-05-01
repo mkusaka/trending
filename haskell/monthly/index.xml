@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-01T01:46:06Z</updated>
+  <subtitle>Monthly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>divarvel/hammertime</title>
+    <updated>2024-05-01T01:46:06Z</updated>
+    <id>tag:github.com,2024-05-01:/divarvel/hammertime</id>
+    <link href="https://github.com/divarvel/hammertime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple time tracker&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/divarvel/hammertime&#34;&gt;&lt;img src=&#34;https://travis-ci.org/divarvel/hammertime.png&#34; alt=&#34;Build status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;#Hammertime&lt;/p&gt; &#xA;&lt;p&gt;Hammertime is a simple time-tracker.&lt;/p&gt; &#xA;&lt;p&gt;Please notice that hammertime is more a pet project than a real one. Its main goal is to allow me to write some &#34;Real World&#34; haskell.&lt;/p&gt; &#xA;&lt;h2&gt;Install&lt;/h2&gt; &#xA;&lt;p&gt;With cabal&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cabal configure&#xA;cabal build&#xA;cabal install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;###Start tracking a task&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;hammertime start project_name task_name [tags*]&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Starting a new task automatically closes the previous.&lt;/p&gt; &#xA;&lt;p&gt;###Stop tracking a task&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;hammertime stop&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;###Visualize tasks&lt;/p&gt; &#xA;&lt;p&gt;Show current tasks&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;hammertime current&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Show all tasks done today&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;hammertime report day&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Show all tasks of a particular project done this month&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;hammertime report month --project=&amp;lt;project name&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Show the time spent on a particular activity, this week&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;hammertime report week --activity=&amp;lt;activity name&amp;gt; --type=totaltime&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;To see all the available options&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;hammertime report --help&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Roadmap&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Polish the existing reports&lt;/li&gt; &#xA; &lt;li&gt;Use a templating engine to ease the creation of reports&lt;/li&gt; &#xA; &lt;li&gt;Create SVG reports&lt;/li&gt; &#xA; &lt;li&gt;Create CSV reports&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>akiradeveloper/haskell-is-fun</title>
+    <updated>2024-05-01T01:46:06Z</updated>
+    <id>tag:github.com,2024-05-01:/akiradeveloper/haskell-is-fun</id>
+    <link href="https://github.com/akiradeveloper/haskell-is-fun" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vincenthz/hs-packer</title>
+    <updated>2024-05-01T01:46:06Z</updated>
+    <id>tag:github.com,2024-05-01:/vincenthz/hs-packer</id>
+    <link href="https://github.com/vincenthz/hs-packer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast serialization in haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Packer: fast strict serialization in haskell&lt;/h1&gt; &#xA;&lt;p&gt;Packer is originally an experiment when benchmarking other serialization solution, namely cereal and binary. It turns out that the experiment yields interesting result performance-wise, and also allowed different use cases.&lt;/p&gt; &#xA;&lt;p&gt;Packer provides a way to de-serialize and serialize data, from/to bytestring. The usage is very similar to binary and cereal runPut/runGet, except that it doesn&#39;t allow incremental feeding.&lt;/p&gt; &#xA;&lt;h2&gt;Holes&lt;/h2&gt; &#xA;&lt;p&gt;The interface allows to create holes during the packing; this is useful to have a more C like API where some fields are computed a-posteriori:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;putF = do&#xA;    crc32  &amp;lt;- putHoleWord32LE&#xA;    crcVal &amp;lt;- foldM (\acc w -&amp;gt; putWord32LE w &amp;gt;&amp;gt; addCRC acc w) 0 [1,2,3]&#xA;    fillHole crc32 crcVal&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+</feed>

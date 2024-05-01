@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-01T01:49:25Z</updated>
+  <subtitle>Monthly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>leonidk/leonidk.github.io</title>
+    <updated>2024-05-01T01:49:25Z</updated>
+    <id>tag:github.com,2024-05-01:/leonidk/leonidk.github.io</id>
+    <link href="https://github.com/leonidk/leonidk.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a fork of https://jonbarron.info/ for use in jekyll builds with markdown page updates&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uswds/uswds</title>
+    <updated>2024-05-01T01:49:25Z</updated>
+    <id>tag:github.com,2024-05-01:/uswds/uswds</id>
+    <link href="https://github.com/uswds/uswds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>StefMa/hugo-fresh</title>
+    <updated>2024-05-01T01:49:25Z</updated>
+    <id>tag:github.com,2024-05-01:/StefMa/hugo-fresh</id>
+    <link href="https://github.com/StefMa/hugo-fresh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hugo Fresh Theme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
