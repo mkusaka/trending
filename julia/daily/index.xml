@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-01T01:32:03Z</updated>
+  <updated>2024-05-02T01:28:30Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SciML/ADTypes.jl</title>
-    <updated>2024-05-01T01:32:03Z</updated>
-    <id>tag:github.com,2024-05-01:/SciML/ADTypes.jl</id>
-    <link href="https://github.com/SciML/ADTypes.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for SciML AD backend types&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/SurrogatesBase.jl</title>
+    <updated>2024-05-02T01:28:30Z</updated>
+    <id>tag:github.com,2024-05-02:/SciML/SurrogatesBase.jl</id>
+    <link href="https://github.com/SciML/SurrogatesBase.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basically just a surrogate in disguise&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SciML/BoundaryValueDiffEq.jl</title>
-    <updated>2024-05-01T01:32:03Z</updated>
-    <id>tag:github.com,2024-05-01:/SciML/BoundaryValueDiffEq.jl</id>
-    <link href="https://github.com/SciML/BoundaryValueDiffEq.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Boundary value problem (BVP) solvers for scientific machine learning (SciML)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tpgillam/AssociativeWindowAggregation.jl</title>
-    <updated>2024-05-01T01:32:03Z</updated>
-    <id>tag:github.com,2024-05-01:/tpgillam/AssociativeWindowAggregation.jl</id>
-    <link href="https://github.com/tpgillam/AssociativeWindowAggregation.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Aggregation of associative operators over rolling windows.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/CellMLToolkit.jl</title>
+    <updated>2024-05-02T01:28:30Z</updated>
+    <id>tag:github.com,2024-05-02:/SciML/CellMLToolkit.jl</id>
+    <link href="https://github.com/SciML/CellMLToolkit.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CellMLToolkit.jl is a Julia library that connects CellML models to the Scientific Julia ecosystem.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

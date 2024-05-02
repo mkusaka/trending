@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-01T01:35:06Z</updated>
+  <updated>2024-05-02T01:31:30Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LayerZero-Labs/SyncPools</title>
-    <updated>2024-05-01T01:35:06Z</updated>
-    <id>tag:github.com,2024-05-01:/LayerZero-Labs/SyncPools</id>
-    <link href="https://github.com/LayerZero-Labs/SyncPools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>swagamoney/ponzi.contracts</title>
-    <updated>2024-05-01T01:35:06Z</updated>
-    <id>tag:github.com,2024-05-01:/swagamoney/ponzi.contracts</id>
-    <link href="https://github.com/swagamoney/ponzi.contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official smart contracts of https://www.ponzi.market&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>anton-rs/3074-invokers</title>
-    <updated>2024-05-01T01:35:06Z</updated>
-    <id>tag:github.com,2024-05-01:/anton-rs/3074-invokers</id>
-    <link href="https://github.com/anton-rs/3074-invokers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;EIP-3074 (`AUTH` and `AUTHCALL` opcodes) example foundry project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>layer3xyz/cubes</title>
+    <updated>2024-05-02T01:31:30Z</updated>
+    <id>tag:github.com,2024-05-02:/layer3xyz/cubes</id>
+    <link href="https://github.com/layer3xyz/cubes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Layer3 CUBE Contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

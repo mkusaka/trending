@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CodeQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-01T01:29:52Z</updated>
+  <updated>2024-05-02T01:26:17Z</updated>
   <subtitle>Daily Trending of CodeQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GitHubSecurityLab/codeql-zero-to-hero</title>
-    <updated>2024-05-01T01:29:52Z</updated>
-    <id>tag:github.com,2024-05-01:/GitHubSecurityLab/codeql-zero-to-hero</id>
-    <link href="https://github.com/GitHubSecurityLab/codeql-zero-to-hero" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CodeQL zero to hero blog post series challenges&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

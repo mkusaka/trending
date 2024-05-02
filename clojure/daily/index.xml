@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-01T01:29:49Z</updated>
+  <updated>2024-05-02T01:26:14Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aqexwayi/simtran</title>
+    <updated>2024-05-02T01:26:14Z</updated>
+    <id>tag:github.com,2024-05-02:/aqexwayi/simtran</id>
+    <link href="https://github.com/aqexwayi/simtran" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;common transfer function&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gtrogers/clojure-opengl-spike</title>
+    <updated>2024-05-02T01:26:14Z</updated>
+    <id>tag:github.com,2024-05-02:/gtrogers/clojure-opengl-spike</id>
+    <link href="https://github.com/gtrogers/clojure-opengl-spike" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Setting up opengl (via lwjgl) and some shaders to render a cube using clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

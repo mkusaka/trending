@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-01T01:33:18Z</updated>
+  <updated>2024-05-02T01:29:41Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tezos/tezos-mirror</title>
-    <updated>2024-05-01T01:33:18Z</updated>
-    <id>tag:github.com,2024-05-01:/tezos/tezos-mirror</id>
-    <link href="https://github.com/tezos/tezos-mirror" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Github test mirror of the Octez software. Please do not submit pull-requests here!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>robur-coop/mollymawk</title>
-    <updated>2024-05-01T01:33:18Z</updated>
-    <id>tag:github.com,2024-05-01:/robur-coop/mollymawk</id>
-    <link href="https://github.com/robur-coop/mollymawk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A web interface for albatross&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

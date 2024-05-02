@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-01T01:35:28Z</updated>
+  <updated>2024-05-02T01:31:51Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kyahnu/latex-docker-kotex</title>
-    <updated>2024-05-01T01:35:28Z</updated>
-    <id>tag:github.com,2024-05-01:/kyahnu/latex-docker-kotex</id>
-    <link href="https://github.com/kyahnu/latex-docker-kotex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;latex-docker + kotex&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;latex-docker-kotex&lt;/h1&gt; &#xA;&lt;p&gt;latex-docker + kotex&lt;/p&gt; &#xA;&lt;p&gt;A lab-exercise template to build a docker image from &lt;code&gt;blang/latex:ctanbasic&lt;/code&gt;, adding &lt;code&gt;kotex&lt;/code&gt; packages.&lt;/p&gt; &#xA;&lt;h2&gt;Commands&lt;/h2&gt; &#xA;&lt;p&gt;To build docker image&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker build -t mylatex .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;To build pdf&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;./latexdockercmd.sh pdflatex main.tex&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Links&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/blang/latex-docker&#34;&gt;https://github.com/blang/latex-docker&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://wiki.ktug.org/wiki/wiki.php/ko.TeX&#34;&gt;http://wiki.ktug.org/wiki/wiki.php/ko.TeX&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>asalber/calculo-manual</title>
+    <updated>2024-05-02T01:31:51Z</updated>
+    <id>tag:github.com,2024-05-02:/asalber/calculo-manual</id>
+    <link href="https://github.com/asalber/calculo-manual" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Presentación para un curso básico de cálculo para titulaciones de grado en ciencias de la salud. Realizado con latex&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mlresearch/v238</title>
+    <updated>2024-05-02T01:31:51Z</updated>
+    <id>tag:github.com,2024-05-02:/mlresearch/v238</id>
+    <link href="https://github.com/mlresearch/v238" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proceedings of AISTATS 2024&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PMLR 238&lt;/h1&gt; &#xA;&lt;p&gt;To suggest fixes to this volume please make a pull request containing the changes requested and a justification for the changes.&lt;/p&gt; &#xA;&lt;p&gt;To edit the details of this conference work edit the &lt;a href=&#34;https://raw.githubusercontent.com/mlresearch/v238/gh-pages/_config.yml&#34;&gt;_config.yml&lt;/a&gt; file and submit a pull request.&lt;/p&gt; &#xA;&lt;p&gt;To make changes to the individual paper details, edit the associated paper file in the &lt;a href=&#34;https://raw.githubusercontent.com/mlresearch/v238/gh-pages/_posts&#34;&gt;./_posts&lt;/a&gt; subdirectory.&lt;/p&gt; &#xA;&lt;p&gt;For details of how to publish in PMLR please check &lt;a href=&#34;https://proceedings.mlr.press/faq.html&#34;&gt;https://proceedings.mlr.press/faq.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;For details of what is required to submit a proceedings please check &lt;a href=&#34;https://proceedings.mlr.press/spec.html&#34;&gt;https://proceedings.mlr.press/spec.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Published as Volume 238 by the Proceedings of Machine Learning Research on 18 April 2024.&lt;/p&gt; &#xA;&lt;p&gt;Volume Edited by:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Sanjoy Dasgupta&lt;/li&gt; &#xA; &lt;li&gt;Stephan Mandt&lt;/li&gt; &#xA; &lt;li&gt;Yingzhen Li&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Series Editors:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Neil D. Lawrence&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

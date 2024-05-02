@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-01T01:31:02Z</updated>
+  <updated>2024-05-02T01:27:30Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>exercicios-programacao/ia-2024-t1</title>
-    <updated>2024-05-01T01:31:02Z</updated>
-    <id>tag:github.com,2024-05-01:/exercicios-programacao/ia-2024-t1</id>
-    <link href="https://github.com/exercicios-programacao/ia-2024-t1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>1C-CPM/VA-Tests-ERPUH32</title>
-    <updated>2024-05-01T01:31:02Z</updated>
-    <id>tag:github.com,2024-05-01:/1C-CPM/VA-Tests-ERPUH32</id>
-    <link href="https://github.com/1C-CPM/VA-Tests-ERPUH32" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Сценарии автоматизированного тестирования для конфигурации 1С:ERP.Управление холдингом 3.2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

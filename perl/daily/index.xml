@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-01T01:33:32Z</updated>
+  <updated>2024-05-02T01:29:54Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>w5xd/diysha</title>
+    <updated>2024-05-02T01:29:54Z</updated>
+    <id>tag:github.com,2024-05-02:/w5xd/diysha</id>
+    <link href="https://github.com/w5xd/diysha" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Do it yourself secure home automation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;diysha&lt;/h1&gt; &#xA;&lt;p&gt;Do it yourself secure home automation.&lt;br&gt; Read more about it on the &lt;a href=&#34;http://github.com/w5xd/diysha/wiki&#34;&gt;wiki&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
