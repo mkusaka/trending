@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:25:37Z</updated>
+  <updated>2024-05-03T01:27:16Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>suchat932/astro-quickstart</title>
-    <updated>2024-05-02T01:25:37Z</updated>
-    <id>tag:github.com,2024-05-02:/suchat932/astro-quickstart</id>
-    <link href="https://github.com/suchat932/astro-quickstart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>florian-lefebvre/astro-loading-indicator</title>
+    <updated>2024-05-03T01:27:16Z</updated>
+    <id>tag:github.com,2024-05-03:/florian-lefebvre/astro-loading-indicator</id>
+    <link href="https://github.com/florian-lefebvre/astro-loading-indicator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Display a progress bar between page navigations when using View Transitions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PlayForm/Starter</title>
-    <updated>2024-05-02T01:25:37Z</updated>
-    <id>tag:github.com,2024-05-02:/PlayForm/Starter</id>
-    <link href="https://github.com/PlayForm/Starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📄 — Starter —&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Trycatch-tv/trycatch_factory_site</title>
+    <updated>2024-05-03T01:27:16Z</updated>
+    <id>tag:github.com,2024-05-03:/Trycatch-tv/trycatch_factory_site</id>
+    <link href="https://github.com/Trycatch-tv/trycatch_factory_site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

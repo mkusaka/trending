@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Racket Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:30:38Z</updated>
+  <updated>2024-05-03T01:31:56Z</updated>
   <subtitle>Daily Trending of Racket in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tonyg/racket-critbit</title>
-    <updated>2024-05-02T01:30:38Z</updated>
-    <id>tag:github.com,2024-05-02:/tonyg/racket-critbit</id>
-    <link href="https://github.com/tonyg/racket-critbit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Critbit trees in Racket&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

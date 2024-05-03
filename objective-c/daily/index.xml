@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:29:37Z</updated>
+  <updated>2024-05-03T01:30:54Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>simonwhitaker/tab-hint-demo</title>
-    <updated>2024-05-02T01:29:37Z</updated>
-    <id>tag:github.com,2024-05-02:/simonwhitaker/tab-hint-demo</id>
-    <link href="https://github.com/simonwhitaker/tab-hint-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo project showing how to animate a &#34;hint&#34; view to a tab bar icon using gravity and physics and shit&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Tab Hint Demo&lt;/h1&gt; &#xA;&lt;p&gt;This is a demonstration of a technique for using a gravity-bound animated view to offer a visual hint to a user that action on one tab in an iOS app results in content change on another. A common scenario where you might find this useful is if you have a Downloads tab and actions on other tabs can result in an item being added to the Downloads queue.&lt;/p&gt; &#xA;&lt;p&gt;You can see the sample app in action in &lt;a href=&#34;http://www.youtube.com/watch?v=pXal1MoAFxo0&#34;&gt;this YouTube video&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:27:25Z</updated>
+  <updated>2024-05-03T01:28:54Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Brackeys/first-game-in-godot</title>
-    <updated>2024-05-02T01:27:25Z</updated>
-    <id>tag:github.com,2024-05-02:/Brackeys/first-game-in-godot</id>
-    <link href="https://github.com/Brackeys/first-game-in-godot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project files for our video on making your first game in Godot.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fozzedout/PracticeJam3</title>
+    <updated>2024-05-03T01:28:54Z</updated>
+    <id>tag:github.com,2024-05-03:/fozzedout/PracticeJam3</id>
+    <link href="https://github.com/fozzedout/PracticeJam3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot game for the Practise Jam #3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

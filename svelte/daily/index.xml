@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:31:40Z</updated>
+  <updated>2024-05-03T01:33:05Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shahradelahi/wireadmin</title>
-    <updated>2024-05-02T01:31:40Z</updated>
-    <id>tag:github.com,2024-05-02:/shahradelahi/wireadmin</id>
-    <link href="https://github.com/shahradelahi/wireadmin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐉 WireGuard VPN Server with an web-based admin UI + TOR&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pirateking92/teamtarot</title>
-    <updated>2024-05-02T01:31:40Z</updated>
-    <id>tag:github.com,2024-05-02:/pirateking92/teamtarot</id>
-    <link href="https://github.com/pirateking92/teamtarot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>taikoxyz/taiko-mono</title>
-    <updated>2024-05-02T01:31:40Z</updated>
-    <id>tag:github.com,2024-05-02:/taikoxyz/taiko-mono</id>
-    <link href="https://github.com/taikoxyz/taiko-mono" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A based rollup. 🥁&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

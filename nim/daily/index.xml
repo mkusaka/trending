@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:29:27Z</updated>
+  <updated>2024-05-03T01:30:44Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>itaymigdal/PartyLoader</title>
-    <updated>2024-05-02T01:29:27Z</updated>
-    <id>tag:github.com,2024-05-02:/itaymigdal/PartyLoader</id>
-    <link href="https://github.com/itaymigdal/PartyLoader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Threadless shellcode injection tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yuya-isaka/Nimcc</title>
+    <updated>2024-05-03T01:30:44Z</updated>
+    <id>tag:github.com,2024-05-03:/yuya-isaka/Nimcc</id>
+    <link href="https://github.com/yuya-isaka/Nimcc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mini C compiler written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

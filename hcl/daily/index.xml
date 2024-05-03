@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:27:54Z</updated>
+  <updated>2024-05-03T01:29:20Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tungbq/devops-basics</title>
+    <updated>2024-05-03T01:29:20Z</updated>
+    <id>tag:github.com,2024-05-03:/tungbq/devops-basics</id>
+    <link href="https://github.com/tungbq/devops-basics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 Practical and document place for DevOps toolchain&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:25:16Z</updated>
+  <updated>2024-05-03T01:26:54Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mlabonne/llm-datasets</title>
-    <updated>2024-05-02T01:25:16Z</updated>
-    <id>tag:github.com,2024-05-02:/mlabonne/llm-datasets</id>
-    <link href="https://github.com/mlabonne/llm-datasets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High-quality datasets, tools, and concepts for LLM fine-tuning.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>idk10-a/aviator</title>
+    <updated>2024-05-03T01:26:54Z</updated>
+    <id>tag:github.com,2024-05-03:/idk10-a/aviator</id>
+    <link href="https://github.com/idk10-a/aviator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Level up your Aviator game! This bot employs its prediction prowess to help you maximize your profit – and it&#39;s completely free!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>codenihar/ml</title>
-    <updated>2024-05-02T01:25:16Z</updated>
-    <id>tag:github.com,2024-05-02:/codenihar/ml</id>
-    <link href="https://github.com/codenihar/ml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo contains all the resources related to the massive mass coders machine learning series&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JeoJay127/RapidEFI-Tool</title>
+    <updated>2024-05-03T01:26:54Z</updated>
+    <id>tag:github.com,2024-05-03:/JeoJay127/RapidEFI-Tool</id>
+    <link href="https://github.com/JeoJay127/RapidEFI-Tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An excellent one-click EFI configuration tool based on OpenCore&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dinaashraf20003/Software-Internship-Guide</title>
-    <updated>2024-05-02T01:25:16Z</updated>
-    <id>tag:github.com,2024-05-02:/dinaashraf20003/Software-Internship-Guide</id>
-    <link href="https://github.com/dinaashraf20003/Software-Internship-Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Software Internship Guide for Egyptian Undergraduates&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CeliaLyu/DataStructure-Algorithm-Intro</title>
+    <updated>2024-05-03T01:26:54Z</updated>
+    <id>tag:github.com,2024-05-03:/CeliaLyu/DataStructure-Algorithm-Intro</id>
+    <link href="https://github.com/CeliaLyu/DataStructure-Algorithm-Intro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

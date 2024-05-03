@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:26:07Z</updated>
+  <updated>2024-05-03T01:27:44Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CarmineOptions/governance</title>
-    <updated>2024-05-02T01:26:07Z</updated>
-    <id>tag:github.com,2024-05-02:/CarmineOptions/governance</id>
-    <link href="https://github.com/CarmineOptions/governance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A toolkit for DAO-like governance on Starknet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BlockheaderWeb3-Community/cairo-bootcamp-24</title>
-    <updated>2024-05-02T01:26:07Z</updated>
-    <id>tag:github.com,2024-05-02:/BlockheaderWeb3-Community/cairo-bootcamp-24</id>
-    <link href="https://github.com/BlockheaderWeb3-Community/cairo-bootcamp-24" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo introduces the core fundamentals of creating a Cairo program&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

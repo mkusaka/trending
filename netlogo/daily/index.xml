@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NetLogo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:29:25Z</updated>
+  <updated>2024-05-03T01:30:42Z</updated>
   <subtitle>Daily Trending of NetLogo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GionKS/DA382A_Project_VT24</title>
-    <updated>2024-05-02T01:29:25Z</updated>
-    <id>tag:github.com,2024-05-02:/GionKS/DA382A_Project_VT24</id>
-    <link href="https://github.com/GionKS/DA382A_Project_VT24" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

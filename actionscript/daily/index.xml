@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:25:25Z</updated>
+  <updated>2024-05-03T01:27:04Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>iv-one/wildcard</title>
-    <updated>2024-05-02T01:25:25Z</updated>
-    <id>tag:github.com,2024-05-02:/iv-one/wildcard</id>
-    <link href="https://github.com/iv-one/wildcard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The library supports functional development in ActionScript3.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yinqiang/atf2png</title>
-    <updated>2024-05-02T01:25:25Z</updated>
-    <id>tag:github.com,2024-05-02:/yinqiang/atf2png</id>
-    <link href="https://github.com/yinqiang/atf2png" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tool for export image data from ATF files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

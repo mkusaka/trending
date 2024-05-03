@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:31:30Z</updated>
+  <updated>2024-05-03T01:32:54Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>layer3xyz/cubes</title>
-    <updated>2024-05-02T01:31:30Z</updated>
-    <id>tag:github.com,2024-05-02:/layer3xyz/cubes</id>
-    <link href="https://github.com/layer3xyz/cubes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Layer3 CUBE Contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2024-04-renzo</title>
+    <updated>2024-05-03T01:32:54Z</updated>
+    <id>tag:github.com,2024-05-03:/code-423n4/2024-04-renzo</id>
+    <link href="https://github.com/code-423n4/2024-04-renzo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>R3D4NG3L/PresaleSmartContract</title>
+    <updated>2024-05-03T01:32:54Z</updated>
+    <id>tag:github.com,2024-05-03:/R3D4NG3L/PresaleSmartContract</id>
+    <link href="https://github.com/R3D4NG3L/PresaleSmartContract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository offers a smart contract to manage seed sales / pre-sales. It is written in Solidity for EVM blockchains (e.g. Ethereum, BSC, Cronos, ...).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

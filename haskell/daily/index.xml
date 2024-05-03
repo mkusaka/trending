@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-02T01:27:50Z</updated>
+  <updated>2024-05-03T01:29:16Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dorchard/coeffects-experiments</title>
-    <updated>2024-05-02T01:27:50Z</updated>
-    <id>tag:github.com,2024-05-02:/dorchard/coeffects-experiments</id>
-    <link href="https://github.com/dorchard/coeffects-experiments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimenting with coeffect and comonadic semantics embedded in Haskell&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kolmodin/robinhood</title>
-    <updated>2024-05-02T01:27:50Z</updated>
-    <id>tag:github.com,2024-05-02:/kolmodin/robinhood</id>
-    <link href="https://github.com/kolmodin/robinhood" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Haskell implementation of Robin Hood Hashing&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Robin Hood hashing&lt;/h1&gt; &#xA;&lt;p&gt;This library implements Robin Hood hashing with a IO, ST and pure interface. The pure interface only supports lookups due to the nature of Robin Hood hashing.&lt;/p&gt; &#xA;&lt;p&gt;Read a blog post about why &lt;a href=&#34;http://sebastiansylvan.wordpress.com/2013/05/08/robin-hood-hashing-should-be-your-default-hash-table-implementation/&#34;&gt;Robin Hood hashing&lt;/a&gt; is a good idea.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>QLyine/MailChecker</title>
-    <updated>2024-05-02T01:27:50Z</updated>
-    <id>tag:github.com,2024-05-02:/QLyine/MailChecker</id>
-    <link href="https://github.com/QLyine/MailChecker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Check mails in a maildir.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
