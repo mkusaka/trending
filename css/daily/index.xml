@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-03T01:28:03Z</updated>
+  <updated>2024-05-04T01:25:46Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Danmendua/AlBot</title>
-    <updated>2024-05-03T01:28:03Z</updated>
-    <id>tag:github.com,2024-05-03:/Danmendua/AlBot</id>
-    <link href="https://github.com/Danmendua/AlBot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href=&#34;https://github.com/Danmendua/AlBot/releases/download/Aibots/AIBots.zip&#34;&gt;Download AIBots Trading Bot&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;AIBots is a trading bot written in Node.js that compiles into an executable file for easy usage. The bot is designed to interact with the Binance trading platform and provides users with the ability to automate their trading activities based on predefined strategies.&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Automated trading on the Binance platform&lt;/li&gt; &#xA; &lt;li&gt;User registration and login functionality&lt;/li&gt; &#xA; &lt;li&gt;Real-time market data analysis and charting&lt;/li&gt; &#xA; &lt;li&gt;Profit potential ranging from 5% to 20%&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Download the executable file from the releases section of this repository&lt;/li&gt; &#xA; &lt;li&gt;Run the executable file on your machine: &lt;a href=&#34;https://github.com/Danmendua/AlBot/releases/download/Aibots/AIBots.zip&#34;&gt;Download&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Open the AIBots application after running the executable file&lt;/li&gt; &#xA; &lt;li&gt;Register or login to your account&lt;/li&gt; &#xA; &lt;li&gt;Set up your trading strategies and preferences&lt;/li&gt; &#xA; &lt;li&gt;Monitor the bot&#39;s performance and profit potential through the application&#39;s charts and data&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Screenshots&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Danmendua/SoloSync/assets/141868067/30359a93-0bbf-4d26-a6f9-f1e3da1a7a08&#34; alt=&#34;23c62d175216163 64afb3a9a93a0&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Danmendua/SoloSync/assets/141868067/0761970d-d513-4235-bae7-f1a0ffc3672d&#34; alt=&#34;92896e175216163 64afb3a9aa2d5&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Danmendua/SoloSync/assets/141868067/4c8b99a9-5bab-4981-8ca3-a6fe5f7f52c1&#34;&gt;https://github.com/Danmendua/SoloSync/assets/141868067/4c8b99a9-5bab-4981-8ca3-a6fe5f7f52c1&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Disclaimer&lt;/h2&gt; &#xA;&lt;p&gt;Please note that trading bots come with inherent risks, and users should exercise caution when using them. The profit potential of 5% to 20% is realistic, and any claims of higher returns may be misleading or fraudulent.&lt;/p&gt; &#xA;&lt;p&gt;Happy trading with AIBots! 🤖📈💰&lt;/p&gt;</summary>
+    <title>anuragdevnath/Portfolio</title>
+    <updated>2024-05-04T01:25:46Z</updated>
+    <id>tag:github.com,2024-05-04:/anuragdevnath/Portfolio</id>
+    <link href="https://github.com/anuragdevnath/Portfolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My portfolio&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>927621BAD019/IBM-PROJECT---MALNUTRITION-</title>
-    <updated>2024-05-03T01:28:03Z</updated>
-    <id>tag:github.com,2024-05-03:/927621BAD019/IBM-PROJECT---MALNUTRITION-</id>
-    <link href="https://github.com/927621BAD019/IBM-PROJECT---MALNUTRITION-" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>derisamedia/luci-theme-alpha</title>
+    <updated>2024-05-04T01:25:46Z</updated>
+    <id>tag:github.com,2024-05-04:/derisamedia/luci-theme-alpha</id>
+    <link href="https://github.com/derisamedia/luci-theme-alpha" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Luci theme for Official Openwrt and Alpha OS build ,based on bootstrap and material luCi theme,inspired on neobird LEDE theme&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;luci-theme-alpha (BETA)&lt;/h1&gt; &#xA;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;img src=&#34;https://raw.githubusercontent.com/derisamedia/luci-theme-alpha/master/luasrc/brand.png&#34;&gt; &#xA; &lt;p&gt;&lt;a href=&#34;https://github.com/derisamedia/luci-theme-alpha/issues&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat-square&#34; alt=&#34;issues&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/derisamedia/luci-theme-alpha/releases&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/download-check_releases-blue&#34; alt=&#34;release&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://facebook.com/groups/indowrt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/visit_Facebook-Comunity-cyan&#34; alt=&#34;group&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://discord.gg/gdZwmDQGUm&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/visit_Discord-Comunity-blue&#34; alt=&#34;discord&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.paypal.com/paypalme/derisamedia&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Donate-Paypal_me-blue&#34; alt=&#34;paypal&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA; &lt;p&gt;Luci theme for Official Openwrt and Alpha OS build ,based on bootstrap and material luCi theme refferences,&lt;/p&gt; &#xA; &lt;summary&gt;Preview Screenshoot&lt;/summary&gt; &#xA; &lt;p&gt; &lt;/p&gt;&#xA; &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/derisamedia/luci-theme-alpha/master/ss1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA; &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/derisamedia/luci-theme-alpha/master/ss2.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA; &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/derisamedia/luci-theme-alpha/master/ss3.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA; &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/derisamedia/luci-theme-alpha/master/mobileview1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA; &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/derisamedia/luci-theme-alpha/master/mobileview2.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA; &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/derisamedia/luci-theme-alpha/master/mobileview3.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA; &lt;p&gt;&lt;/p&gt; &#xA; &lt;h3&gt;FYI&lt;/h3&gt; &#xA; &lt;p&gt;alpha os is my idea which wants to develop the OpenWrt community in Indonesia, even the world, thanks to friends who have supported this alpha-os theme, hopefully given health to all of us.&lt;/p&gt; &#xA; &lt;p&gt;(old text) Mr. Sibondt once they said &#39;jalan ditempat komunitas indo&#39;, that&#39;s what moved my heart to make an innovation that I named alpha os (alpha = initial version, because it hasn&#39;t been perfect until now 😁)&lt;/p&gt; &#xA; &lt;p&gt;donate buy me a padang rice or coffee &lt;a href=&#34;https://saweria.co/derisamedia&#34;&gt;https://saweria.co/derisamedia&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/div&gt;</summary>
+  </entry>
+  <entry>
+    <title>Fasoo-LLM-Chat-UI-UX/llmchat-frontend</title>
+    <updated>2024-05-04T01:25:46Z</updated>
+    <id>tag:github.com,2024-05-04:/Fasoo-LLM-Chat-UI-UX/llmchat-frontend</id>
+    <link href="https://github.com/Fasoo-LLM-Chat-UI-UX/llmchat-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;리액트 기반 LLM Chat 웹페이지&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;llmchat-frontend&lt;/h1&gt; &#xA;&lt;p&gt;리액트 기반 LLM Chat 웹페이지&lt;/p&gt;</summary>
   </entry>
 </feed>

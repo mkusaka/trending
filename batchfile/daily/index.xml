@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-03T01:27:23Z</updated>
+  <updated>2024-05-04T01:25:03Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BsNgChiThanh/Kich-hoat-Office</title>
+    <updated>2024-05-04T01:25:03Z</updated>
+    <id>tag:github.com,2024-05-04:/BsNgChiThanh/Kich-hoat-Office</id>
+    <link href="https://github.com/BsNgChiThanh/Kich-hoat-Office" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kích hoạt Office 2010, 2013, 2016, 2019, 2021, 365 mọi phiên bản.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BsNgChiThanh/Crack-IDM</title>
+    <updated>2024-05-04T01:25:03Z</updated>
+    <id>tag:github.com,2024-05-04:/BsNgChiThanh/Crack-IDM</id>
+    <link href="https://github.com/BsNgChiThanh/Crack-IDM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kích hoạt IDM vĩnh viễn bằng Tool&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-03T01:30:22Z</updated>
+  <updated>2024-05-04T01:28:19Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RCPRG-ros-pkg/velma_calibration</title>
-    <updated>2024-05-03T01:30:22Z</updated>
-    <id>tag:github.com,2024-05-03:/RCPRG-ros-pkg/velma_calibration</id>
-    <link href="https://github.com/RCPRG-ros-pkg/velma_calibration" rel="alternate"></link>
+    <title>vergilgxw/njut</title>
+    <updated>2024-05-04T01:28:19Z</updated>
+    <id>tag:github.com,2024-05-04:/vergilgxw/njut</id>
+    <link href="https://github.com/vergilgxw/njut" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-03T01:29:24Z</updated>
+  <updated>2024-05-04T01:27:13Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>The-Marcy-Lab-School/2-2-css-practice-nirvana</title>
+    <updated>2024-05-04T01:27:13Z</updated>
+    <id>tag:github.com,2024-05-04:/The-Marcy-Lab-School/2-2-css-practice-nirvana</id>
+    <link href="https://github.com/The-Marcy-Lab-School/2-2-css-practice-nirvana" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CSS Practice&lt;/h1&gt; &#xA;&lt;h3&gt;To Do&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Fork this repository&lt;/li&gt; &#xA; &lt;li&gt;Clone it locally on your computer&lt;/li&gt; &#xA; &lt;li&gt;Open it with VSCode and Click &#34;Go Live&#34;&lt;/li&gt; &#xA; &lt;li&gt;Now, do the following exercise:&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Exercise&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Make this webpage look like the following screenshots:&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/The-Marcy-Lab-School/2-2-css-practice-nirvana/main/assets/images/screenshot-1.png&#34; alt=&#34;Overall Styling&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/The-Marcy-Lab-School/2-2-css-practice-nirvana/main/assets/images/screenshot-2.png&#34; alt=&#34;Comic Book Card Styling&#34;&gt;&lt;/p&gt; &#xA;&lt;h4&gt;Helpful Tip:&lt;/h4&gt; &#xA;&lt;p&gt;Refer to the &lt;strong&gt;&#34;Key Terms&#34;&lt;/strong&gt; documents in our &lt;a href=&#34;https://github.com/The-Marcy-Lab-School/2024-Spring-Curriculum-Nirvana&#34;&gt;class repository&lt;/a&gt;. Along with the &lt;strong&gt;&#34;Mod 2 Resources&#34;&lt;/strong&gt; section to figure out how to do this.&lt;/p&gt;</summary>
+  </entry>
 </feed>

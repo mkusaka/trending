@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-03T01:29:16Z</updated>
+  <updated>2024-05-04T01:27:05Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>banacorn/formal-language</title>
+    <updated>2024-05-04T01:27:05Z</updated>
+    <id>tag:github.com,2024-05-04:/banacorn/formal-language</id>
+    <link href="https://github.com/banacorn/formal-language" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curry–Howard Correspondence for fun&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;==================================== Formal languages and automata theory&lt;/h1&gt; &#xA;&lt;p&gt;Learning Formal Languages and Agda&lt;/p&gt;</summary>
+  </entry>
 </feed>

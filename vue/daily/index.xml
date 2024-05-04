@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-03T01:33:40Z</updated>
+  <updated>2024-05-04T01:31:39Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zqliang-01/lego-admin</title>
-    <updated>2024-05-03T01:33:40Z</updated>
-    <id>tag:github.com,2024-05-03:/zqliang-01/lego-admin</id>
-    <link href="https://github.com/zqliang-01/lego-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;代码生成，表单设计，flowable审批工作流等，支持微服务模块化开发部署，数据源可彻底隔离，基于ShardingSphere5多模型分库分片表的新一代低代码开发框架。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HugoRCD/canvas</title>
-    <updated>2024-05-03T01:33:40Z</updated>
-    <id>tag:github.com,2024-05-03:/HugoRCD/canvas</id>
-    <link href="https://github.com/HugoRCD/canvas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Portfolio template made with Nuxt 3, Nuxt Content and TailwindCSS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yangzongzhuan/RuoYi-Cloud-Vue3</title>
+    <updated>2024-05-04T01:31:39Z</updated>
+    <id>tag:github.com,2024-05-04:/yangzongzhuan/RuoYi-Cloud-Vue3</id>
+    <link href="https://github.com/yangzongzhuan/RuoYi-Cloud-Vue3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉 基于Spring Boot、Spring Cloud &amp; Alibaba、Vue3 &amp; Vite、Element Plus的分布式前后端分离微服务架构权限管理系统&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
