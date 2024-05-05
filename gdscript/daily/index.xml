@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-04T01:26:43Z</updated>
+  <updated>2024-05-05T01:30:09Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gdquest-demos/godot-2d-space-game</title>
-    <updated>2024-05-04T01:26:43Z</updated>
-    <id>tag:github.com,2024-05-04:/gdquest-demos/godot-2d-space-game</id>
-    <link href="https://github.com/gdquest-demos/godot-2d-space-game" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A 2D space exploration and mining game made with Godot and our AI framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KoBeWi/Godot-Project-Builds</title>
+    <updated>2024-05-05T01:30:09Z</updated>
+    <id>tag:github.com,2024-05-05:/KoBeWi/Godot-Project-Builds</id>
+    <link href="https://github.com/KoBeWi/Godot-Project-Builds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Graphical automation tool for building and publishing Godot games.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wojciech-bilicki/MarioBrosTutorial</title>
+    <updated>2024-05-05T01:30:09Z</updated>
+    <id>tag:github.com,2024-05-05:/wojciech-bilicki/MarioBrosTutorial</id>
+    <link href="https://github.com/wojciech-bilicki/MarioBrosTutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

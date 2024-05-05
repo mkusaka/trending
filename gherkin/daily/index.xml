@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-04T01:26:48Z</updated>
+  <updated>2024-05-05T01:30:13Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>codewiser116/karate</title>
-    <updated>2024-05-04T01:26:48Z</updated>
-    <id>tag:github.com,2024-05-04:/codewiser116/karate</id>
-    <link href="https://github.com/codewiser116/karate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

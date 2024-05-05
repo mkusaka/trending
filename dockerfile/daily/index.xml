@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-04T01:26:04Z</updated>
+  <updated>2024-05-05T01:29:32Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DataDog/binutils-gdb</title>
-    <updated>2024-05-04T01:26:04Z</updated>
-    <id>tag:github.com,2024-05-04:/DataDog/binutils-gdb</id>
-    <link href="https://github.com/DataDog/binutils-gdb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>praveen1994dec/python-docker</title>
+    <updated>2024-05-05T01:29:32Z</updated>
+    <id>tag:github.com,2024-05-05:/praveen1994dec/python-docker</id>
+    <link href="https://github.com/praveen1994dec/python-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;A simple Hello World app written in Python Flask.&lt;/p&gt; &#xA;&lt;p&gt;Contains Dockerfiles for Development (with Hot Reloading) and Production.&lt;/p&gt; &#xA;&lt;p&gt;Build and run using any dockerfile:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ docker build -f [dockerfile] -t python-docker .&#xA;$ docker run --rm -it -p 8080:8080 python-docker&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Uses gunicorn for production build.&lt;/p&gt;</summary>
   </entry>
 </feed>

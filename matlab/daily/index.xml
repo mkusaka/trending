@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-04T01:28:19Z</updated>
+  <updated>2024-05-05T01:31:51Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vergilgxw/njut</title>
-    <updated>2024-05-04T01:28:19Z</updated>
-    <id>tag:github.com,2024-05-04:/vergilgxw/njut</id>
-    <link href="https://github.com/vergilgxw/njut" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azurehappen/UrbanRTK-INS-OutlierOpt</title>
+    <updated>2024-05-05T01:31:51Z</updated>
+    <id>tag:github.com,2024-05-05:/Azurehappen/UrbanRTK-INS-OutlierOpt</id>
+    <link href="https://github.com/Azurehappen/UrbanRTK-INS-OutlierOpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Risk-Averse Optimization framework for RTK-GNSS/INS urban navigation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>matcutest/matcutest</title>
+    <updated>2024-05-05T01:31:51Z</updated>
+    <id>tag:github.com,2024-05-05:/matcutest/matcutest</id>
+    <link href="https://github.com/matcutest/matcutest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MatCUTEst is a package for facilitating the usage of CUTEst (https://github.com/ralna/CUTEst) in MATLAB on Linux.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

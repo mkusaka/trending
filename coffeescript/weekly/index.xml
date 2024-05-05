@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-05T01:36:23Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>benzaremean/coffee-examples</title>
+    <updated>2024-05-05T01:36:23Z</updated>
+    <id>tag:github.com,2024-05-05:/benzaremean/coffee-examples</id>
+    <link href="https://github.com/benzaremean/coffee-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LioArgentina/racer</title>
+    <updated>2024-05-05T01:36:23Z</updated>
+    <id>tag:github.com,2024-05-05:/LioArgentina/racer</id>
+    <link href="https://github.com/LioArgentina/racer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;racer 0.3.13&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BinaryMuse/wow-realm-status-angular</title>
+    <updated>2024-05-05T01:36:23Z</updated>
+    <id>tag:github.com,2024-05-05:/BinaryMuse/wow-realm-status-angular</id>
+    <link href="https://github.com/BinaryMuse/wow-realm-status-angular" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WoW Realm Status: AngularJS Edition&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

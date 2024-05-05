@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Gosu Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-05T01:37:39Z</updated>
+  <subtitle>Weekly Trending of Gosu in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kawahira/diarypost</title>
+    <updated>2024-05-05T01:37:39Z</updated>
+    <id>tag:github.com,2024-05-05:/kawahira/diarypost</id>
+    <link href="https://github.com/kawahira/diarypost" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;google カレンダーのタイトルを整形して google siteに投稿するスクリプト&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-04T01:31:39Z</updated>
+  <updated>2024-05-05T01:35:01Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yangzongzhuan/RuoYi-Cloud-Vue3</title>
-    <updated>2024-05-04T01:31:39Z</updated>
-    <id>tag:github.com,2024-05-04:/yangzongzhuan/RuoYi-Cloud-Vue3</id>
-    <link href="https://github.com/yangzongzhuan/RuoYi-Cloud-Vue3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎉 基于Spring Boot、Spring Cloud &amp; Alibaba、Vue3 &amp; Vite、Element Plus的分布式前后端分离微服务架构权限管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Atinux/nuxt-todos-edge</title>
+    <updated>2024-05-05T01:35:01Z</updated>
+    <id>tag:github.com,2024-05-05:/Atinux/nuxt-todos-edge</id>
+    <link href="https://github.com/Atinux/nuxt-todos-edge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A full-stack application with authentication, SSR and SQLite, running on the edge with Nuxt 3.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vuejs-translations/docs-ru</title>
+    <updated>2024-05-05T01:35:01Z</updated>
+    <id>tag:github.com,2024-05-05:/vuejs-translations/docs-ru</id>
+    <link href="https://github.com/vuejs-translations/docs-ru" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📄 Документация для Vue 3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>geek-fun/dockit</title>
+    <updated>2024-05-05T01:35:01Z</updated>
+    <id>tag:github.com,2024-05-05:/geek-fun/dockit</id>
+    <link href="https://github.com/geek-fun/dockit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DocKit | GUI clients for elasticsearch, opensearch and etc&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-05T01:42:03Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tpope/vim-speeddating</title>
+    <updated>2024-05-05T01:42:03Z</updated>
+    <id>tag:github.com,2024-05-05:/tpope/vim-speeddating</id>
+    <link href="https://github.com/tpope/vim-speeddating" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aklt/plantuml-syntax</title>
+    <updated>2024-05-05T01:42:03Z</updated>
+    <id>tag:github.com,2024-05-05:/aklt/plantuml-syntax</id>
+    <link href="https://github.com/aklt/plantuml-syntax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim syntax file for plantuml&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kchmck/vim-coffee-script</title>
+    <updated>2024-05-05T01:42:03Z</updated>
+    <id>tag:github.com,2024-05-05:/kchmck/vim-coffee-script</id>
+    <link href="https://github.com/kchmck/vim-coffee-script" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CoffeeScript support for vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

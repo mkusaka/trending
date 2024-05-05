@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-04T01:24:38Z</updated>
+  <updated>2024-05-05T01:28:05Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>birobirobiro/awesome-shadcn-ui</title>
-    <updated>2024-05-04T01:24:38Z</updated>
-    <id>tag:github.com,2024-05-04:/birobirobiro/awesome-shadcn-ui</id>
-    <link href="https://github.com/birobirobiro/awesome-shadcn-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome things related to shadcn/ui.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ouckah/Summer2025-Internships</title>
+    <updated>2024-05-05T01:28:05Z</updated>
+    <id>tag:github.com,2024-05-05:/Ouckah/Summer2025-Internships</id>
+    <link href="https://github.com/Ouckah/Summer2025-Internships" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of Summer 2025 tech internships!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>githubnext/copilot-workspace-user-manual</title>
-    <updated>2024-05-04T01:24:38Z</updated>
-    <id>tag:github.com,2024-05-04:/githubnext/copilot-workspace-user-manual</id>
-    <link href="https://github.com/githubnext/copilot-workspace-user-manual" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📖 The user manual for GitHub Copilot Workspace&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tldrsec/prompt-injection-defenses</title>
+    <updated>2024-05-05T01:28:05Z</updated>
+    <id>tag:github.com,2024-05-05:/tldrsec/prompt-injection-defenses</id>
+    <link href="https://github.com/tldrsec/prompt-injection-defenses" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Every practical and proposed defense against prompt injection.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nestjs/awesome-nestjs</title>
+    <updated>2024-05-05T01:28:05Z</updated>
+    <id>tag:github.com,2024-05-05:/nestjs/awesome-nestjs</id>
+    <link href="https://github.com/nestjs/awesome-nestjs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome things related to NestJS 😎&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-05T01:39:56Z</updated>
+  <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BGforgeNet/FO2tweaks</title>
+    <updated>2024-05-05T01:39:56Z</updated>
+    <id>tag:github.com,2024-05-05:/BGforgeNet/FO2tweaks</id>
+    <link href="https://github.com/BGforgeNet/FO2tweaks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fallout 2 tweaks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mikelustosa/Projeto-TInject</title>
+    <updated>2024-05-05T01:39:56Z</updated>
+    <id>tag:github.com,2024-05-05:/mikelustosa/Projeto-TInject</id>
+    <link href="https://github.com/mikelustosa/Projeto-TInject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Projeto TInject&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Processing Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-05T01:40:13Z</updated>
+  <subtitle>Weekly Trending of Processing in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kabumhacklab/freqexemplo</title>
+    <updated>2024-05-05T01:40:13Z</updated>
+    <id>tag:github.com,2024-05-05:/kabumhacklab/freqexemplo</id>
+    <link href="https://github.com/kabumhacklab/freqexemplo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;exemplo de análise de frequencia de audio usando Minim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jabes/terrace</title>
+    <updated>2024-05-05T01:40:13Z</updated>
+    <id>tag:github.com,2024-05-05:/jabes/terrace</id>
+    <link href="https://github.com/jabes/terrace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple platform game made in Processing.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>miguelmateo3/PI</title>
+    <updated>2024-05-05T01:40:13Z</updated>
+    <id>tag:github.com,2024-05-05:/miguelmateo3/PI</id>
+    <link href="https://github.com/miguelmateo3/PI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proyecto I&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

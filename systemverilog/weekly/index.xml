@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SystemVerilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-05T01:41:36Z</updated>
+  <subtitle>Weekly Trending of SystemVerilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adam-maj/tiny-gpu</title>
+    <updated>2024-05-05T01:41:36Z</updated>
+    <id>tag:github.com,2024-05-05:/adam-maj/tiny-gpu</id>
+    <link href="https://github.com/adam-maj/tiny-gpu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal GPU design in Verilog to learn how GPUs work from the ground up&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hughperkins/VeriGPU</title>
+    <updated>2024-05-05T01:41:36Z</updated>
+    <id>tag:github.com,2024-05-05:/hughperkins/VeriGPU</id>
+    <link href="https://github.com/hughperkins/VeriGPU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenSource GPU, in Verilog, loosely based on RISC-V ISA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

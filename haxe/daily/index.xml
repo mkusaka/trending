@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-04T01:27:09Z</updated>
+  <updated>2024-05-05T01:30:36Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>deepnight/gamefeel</title>
-    <updated>2024-05-04T01:27:09Z</updated>
-    <id>tag:github.com,2024-05-04:/deepnight/gamefeel</id>
-    <link href="https://github.com/deepnight/gamefeel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This prototype was first developed to serve as a demo for a “Game feel” talk in 2019 at the ENJMIN school. It was updated and modernized in 2024.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;About&lt;/h1&gt; &#xA;&lt;p&gt;This prototype is not exactly an actual game but a tool to learn game-feel techniques.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/deepnight/gamefeel/assets/1671695/1df44af1-d244-46d6-a2d0-59568b1eff4c&#34; alt=&#34;g01-compare&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;It was designed to show the impact of small details on the overall quality and feeling of a game.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;You can enable or disable individual game features in this demo by pressing the START button (gamepad) or the ENTER key (keyboard).&lt;/p&gt; &#xA;&lt;h1&gt;Compiling&lt;/h1&gt; &#xA;&lt;p&gt;The individual examples should be quite self-explanatory and rather straight forward to implement in any game engine. However, if you need any kind of insight on how they work, feel free to open an issue or drop my an email :)&lt;/p&gt; &#xA;&lt;p&gt;You will need the &lt;a href=&#34;https://haxe.org&#34;&gt;Haxe&lt;/a&gt; compiler and &lt;a href=&#34;https://heaps.io&#34;&gt;Heaps&lt;/a&gt; library.&lt;/p&gt; &#xA;&lt;p&gt;You should read the instructions on my GameBase project (&lt;a href=&#34;https://github.com/deepnight/gameBase&#34;&gt;https://github.com/deepnight/gameBase&lt;/a&gt;).&lt;/p&gt; &#xA;&lt;h1&gt;Credits&lt;/h1&gt; &#xA;&lt;p&gt;Tileset: Inca by Kronbits (&lt;a href=&#34;https://kronbits.itch.io/inca-game-assets&#34;&gt;https://kronbits.itch.io/inca-game-assets&lt;/a&gt;)&lt;/p&gt;</summary>
+    <title>crowplexus/Funkin-VSlice-Template</title>
+    <updated>2024-05-05T01:30:36Z</updated>
+    <id>tag:github.com,2024-05-05:/crowplexus/Funkin-VSlice-Template</id>
+    <link href="https://github.com/crowplexus/Funkin-VSlice-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community-made Template Mod for Friday Night Funkin&#39;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Community V-Slice Modding Template&lt;/h1&gt; &#xA;&lt;p&gt;A basic template with information on the various things scriptable in the FNF V-Slice update. If you have anything you&#39;d like to add, do a PR or send in an issue!&lt;/p&gt; &#xA;&lt;h1&gt;Organization&lt;/h1&gt; &#xA;&lt;p&gt;Scripts can be put anywhere in the mod, as long as it extends the correct classes (Module, Song, NoteStyle, etc). They all should have the &#34;.hxc&#34; file format. They are all a modified version of HScript, allowing uses of regular imports, classes, exports, etcetera. Assets are organized as per usual asset organization (assets/images, assets/shared/images, etc)&lt;/p&gt; &#xA;&lt;p&gt;For sake of the template, all scripts will be organized in a scripts folder, except for the main Module class.&lt;/p&gt; &#xA;&lt;p&gt;TODO: add more to this mayB?E??&lt;/p&gt;</summary>
   </entry>
 </feed>

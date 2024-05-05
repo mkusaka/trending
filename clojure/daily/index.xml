@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-04T01:25:35Z</updated>
+  <updated>2024-05-05T01:29:02Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tlipski/ganelon</title>
-    <updated>2024-05-04T01:25:35Z</updated>
-    <id>tag:github.com,2024-05-04:/tlipski/ganelon</id>
-    <link href="https://github.com/tlipski/ganelon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ganelon microframework brings rapid development of dynamic web applications to Clojure, by introducing thin JavaScript layer for AJAX-based server-side management of page&#39;s content.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jeanlaurent/fizzbuzz-in-clojure</title>
+    <updated>2024-05-05T01:29:02Z</updated>
+    <id>tag:github.com,2024-05-05:/jeanlaurent/fizzbuzz-in-clojure</id>
+    <link href="https://github.com/jeanlaurent/fizzbuzz-in-clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

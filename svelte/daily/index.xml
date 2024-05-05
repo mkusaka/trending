@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-04T01:31:01Z</updated>
+  <updated>2024-05-05T01:34:22Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>joaopgrassi/otel-recipes</title>
-    <updated>2024-05-04T01:31:01Z</updated>
-    <id>tag:github.com,2024-05-04:/joaopgrassi/otel-recipes</id>
-    <link href="https://github.com/joaopgrassi/otel-recipes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn how to get started with OpenTelemetry with the help of our collection of sample applications.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>grischaerbe/threlter</title>
-    <updated>2024-05-04T01:31:01Z</updated>
-    <id>tag:github.com,2024-05-04:/grischaerbe/threlter</id>
-    <link href="https://github.com/grischaerbe/threlter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Race in your browser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Rar9/SveltyCMS</title>
+    <updated>2024-05-05T01:34:22Z</updated>
+    <id>tag:github.com,2024-05-05:/Rar9/SveltyCMS</id>
+    <link href="https://github.com/Rar9/SveltyCMS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-05T01:42:06Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>github-copilot-resources/copilot-metrics-viewer</title>
+    <updated>2024-05-05T01:42:06Z</updated>
+    <id>tag:github.com,2024-05-05:/github-copilot-resources/copilot-metrics-viewer</id>
+    <link href="https://github.com/github-copilot-resources/copilot-metrics-viewer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zyronon/typing-word</title>
+    <updated>2024-05-05T01:42:06Z</updated>
+    <id>tag:github.com,2024-05-05:/zyronon/typing-word</id>
+    <link href="https://github.com/zyronon/typing-word" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;在网页上背单词&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pinky-pig/arvin</title>
+    <updated>2024-05-05T01:42:06Z</updated>
+    <id>tag:github.com,2024-05-05:/pinky-pig/arvin</id>
+    <link href="https://github.com/pinky-pig/arvin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;个人网站&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

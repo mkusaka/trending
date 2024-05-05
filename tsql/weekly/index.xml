@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-05T01:41:49Z</updated>
+  <subtitle>Weekly Trending of TSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Straight-Path-Solutions/sp_CheckSecurity</title>
+    <updated>2024-05-05T01:41:49Z</updated>
+    <id>tag:github.com,2024-05-05:/Straight-Path-Solutions/sp_CheckSecurity</id>
+    <link href="https://github.com/Straight-Path-Solutions/sp_CheckSecurity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All things related to sp_CheckSecurity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

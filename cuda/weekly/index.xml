@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cuda Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-05T01:36:34Z</updated>
+  <subtitle>Weekly Trending of Cuda in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NVIDIA/cuda-checkpoint</title>
+    <updated>2024-05-05T01:36:34Z</updated>
+    <id>tag:github.com,2024-05-05:/NVIDIA/cuda-checkpoint</id>
+    <link href="https://github.com/NVIDIA/cuda-checkpoint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CUDA checkpoint and restore utility&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ROCm/rccl-tests</title>
+    <updated>2024-05-05T01:36:34Z</updated>
+    <id>tag:github.com,2024-05-05:/ROCm/rccl-tests</id>
+    <link href="https://github.com/ROCm/rccl-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RCCL Performance Benchmark Tests&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

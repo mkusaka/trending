@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-04T01:24:57Z</updated>
+  <updated>2024-05-05T01:28:26Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>astrolicious/studiocms</title>
+    <updated>2024-05-05T01:28:26Z</updated>
+    <id>tag:github.com,2024-05-05:/astrolicious/studiocms</id>
+    <link href="https://github.com/astrolicious/studiocms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dedicated CMS for Astro Studio. Built from the ground up by the Astro community.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

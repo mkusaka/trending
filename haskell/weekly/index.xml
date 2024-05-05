@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-05T01:37:47Z</updated>
+  <subtitle>Weekly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>banacorn/formal-language</title>
+    <updated>2024-05-05T01:37:47Z</updated>
+    <id>tag:github.com,2024-05-05:/banacorn/formal-language</id>
+    <link href="https://github.com/banacorn/formal-language" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curry–Howard Correspondence for fun&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;==================================== Formal languages and automata theory&lt;/h1&gt; &#xA;&lt;p&gt;Learning Formal Languages and Agda&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>edahlgren/relationship</title>
+    <updated>2024-05-05T01:37:47Z</updated>
+    <id>tag:github.com,2024-05-05:/edahlgren/relationship</id>
+    <link href="https://github.com/edahlgren/relationship" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Two programmers in a relationship, a description in code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Jiggins/Odd-bits-of-code</title>
+    <updated>2024-05-05T01:37:47Z</updated>
+    <id>tag:github.com,2024-05-05:/Jiggins/Odd-bits-of-code</id>
+    <link href="https://github.com/Jiggins/Odd-bits-of-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Just some odd bits of code I leave thrown about the place.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Odd-bits-of-code&lt;/h1&gt; &#xA;&lt;p&gt;Just some odd bits of code I leave thrown about the place.&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-05T01:37:43Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dtolabs/yana2</title>
+    <updated>2024-05-05T01:37:43Z</updated>
+    <id>tag:github.com,2024-05-05:/dtolabs/yana2</id>
+    <link href="https://github.com/dtolabs/yana2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yet Another Node Authority ... because you wanted an agile Real-Time Service Model (RTSM)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>geoneubie/ioosMetadata</title>
+    <updated>2024-05-05T01:37:43Z</updated>
+    <id>tag:github.com,2024-05-05:/geoneubie/ioosMetadata</id>
+    <link href="https://github.com/geoneubie/ioosMetadata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generate ISO Metadata for IOOS Services&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

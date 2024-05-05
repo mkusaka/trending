@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-04T01:30:49Z</updated>
+  <updated>2024-05-05T01:34:10Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>majoferenc/demo-cicd-automation-app</title>
-    <updated>2024-05-04T01:30:49Z</updated>
-    <id>tag:github.com,2024-05-04:/majoferenc/demo-cicd-automation-app</id>
-    <link href="https://github.com/majoferenc/demo-cicd-automation-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>giantswarm/cluster-shared</title>
-    <updated>2024-05-04T01:30:49Z</updated>
-    <id>tag:github.com,2024-05-04:/giantswarm/cluster-shared</id>
-    <link href="https://github.com/giantswarm/cluster-shared" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library chart of shared CAPI cluster helpers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SocialGouv/helm-charts</title>
+    <updated>2024-05-05T01:34:10Z</updated>
+    <id>tag:github.com,2024-05-05:/SocialGouv/helm-charts</id>
+    <link href="https://github.com/SocialGouv/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SocialGouv Helm Charts Registry&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
