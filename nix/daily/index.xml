@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-05T01:32:14Z</updated>
+  <updated>2024-05-06T01:30:44Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>atropos112/nixos</title>
+    <updated>2024-05-06T01:30:44Z</updated>
+    <id>tag:github.com,2024-05-06:/atropos112/nixos</id>
+    <link href="https://github.com/atropos112/nixos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aciceri/agenix-shell</title>
+    <updated>2024-05-06T01:30:44Z</updated>
+    <id>tag:github.com,2024-05-06:/aciceri/agenix-shell</id>
+    <link href="https://github.com/aciceri/agenix-shell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

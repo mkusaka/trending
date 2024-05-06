@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-05T01:35:01Z</updated>
+  <updated>2024-05-06T01:33:25Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Atinux/nuxt-todos-edge</title>
-    <updated>2024-05-05T01:35:01Z</updated>
-    <id>tag:github.com,2024-05-05:/Atinux/nuxt-todos-edge</id>
-    <link href="https://github.com/Atinux/nuxt-todos-edge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A full-stack application with authentication, SSR and SQLite, running on the edge with Nuxt 3.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SuYxh/chatgpt-web-sea</title>
+    <updated>2024-05-06T01:33:25Z</updated>
+    <id>tag:github.com,2024-05-06:/SuYxh/chatgpt-web-sea</id>
+    <link href="https://github.com/SuYxh/chatgpt-web-sea" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 chatgpt-web 兼容 LLM Red Team 项目下所有的 free-api 以及 one-api 或 new-api提供的接口和 key&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vuejs-translations/docs-ru</title>
-    <updated>2024-05-05T01:35:01Z</updated>
-    <id>tag:github.com,2024-05-05:/vuejs-translations/docs-ru</id>
-    <link href="https://github.com/vuejs-translations/docs-ru" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📄 Документация для Vue 3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vernaillen/vernaillen.dev</title>
+    <updated>2024-05-06T01:33:25Z</updated>
+    <id>tag:github.com,2024-05-06:/vernaillen/vernaillen.dev</id>
+    <link href="https://github.com/vernaillen/vernaillen.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>geek-fun/dockit</title>
-    <updated>2024-05-05T01:35:01Z</updated>
-    <id>tag:github.com,2024-05-05:/geek-fun/dockit</id>
-    <link href="https://github.com/geek-fun/dockit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DocKit | GUI clients for elasticsearch, opensearch and etc&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lemonfog/lemon-live</title>
+    <updated>2024-05-06T01:33:25Z</updated>
+    <id>tag:github.com,2024-05-06:/lemonfog/lemon-live</id>
+    <link href="https://github.com/lemonfog/lemon-live" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个简单的web端聚合直播平台 支持 虎牙直播 斗鱼直播 哔哩直播 CC直播 直播源 直播信息 弹幕直播&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

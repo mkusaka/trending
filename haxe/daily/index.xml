@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-05T01:30:36Z</updated>
+  <updated>2024-05-06T01:29:06Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>crowplexus/Funkin-VSlice-Template</title>
-    <updated>2024-05-05T01:30:36Z</updated>
-    <id>tag:github.com,2024-05-05:/crowplexus/Funkin-VSlice-Template</id>
-    <link href="https://github.com/crowplexus/Funkin-VSlice-Template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community-made Template Mod for Friday Night Funkin&#39;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Community V-Slice Modding Template&lt;/h1&gt; &#xA;&lt;p&gt;A basic template with information on the various things scriptable in the FNF V-Slice update. If you have anything you&#39;d like to add, do a PR or send in an issue!&lt;/p&gt; &#xA;&lt;h1&gt;Organization&lt;/h1&gt; &#xA;&lt;p&gt;Scripts can be put anywhere in the mod, as long as it extends the correct classes (Module, Song, NoteStyle, etc). They all should have the &#34;.hxc&#34; file format. They are all a modified version of HScript, allowing uses of regular imports, classes, exports, etcetera. Assets are organized as per usual asset organization (assets/images, assets/shared/images, etc)&lt;/p&gt; &#xA;&lt;p&gt;For sake of the template, all scripts will be organized in a scripts folder, except for the main Module class.&lt;/p&gt; &#xA;&lt;p&gt;TODO: add more to this mayB?E??&lt;/p&gt;</summary>
-  </entry>
 </feed>

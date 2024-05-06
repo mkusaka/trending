@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-05T01:34:22Z</updated>
+  <updated>2024-05-06T01:32:50Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Rar9/SveltyCMS</title>
-    <updated>2024-05-05T01:34:22Z</updated>
-    <id>tag:github.com,2024-05-05:/Rar9/SveltyCMS</id>
-    <link href="https://github.com/Rar9/SveltyCMS" rel="alternate"></link>
+    <title>0x-cygnet/langchain-pdf</title>
+    <updated>2024-05-06T01:32:50Z</updated>
+    <id>tag:github.com,2024-05-06:/0x-cygnet/langchain-pdf</id>
+    <link href="https://github.com/0x-cygnet/langchain-pdf" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-05T01:29:05Z</updated>
+  <updated>2024-05-06T01:27:24Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>beman-project/example</title>
-    <updated>2024-05-05T01:29:05Z</updated>
-    <id>tag:github.com,2024-05-05:/beman-project/example</id>
-    <link href="https://github.com/beman-project/example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example Beman project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Ravbug/sdl3-sample</title>
-    <updated>2024-05-05T01:29:05Z</updated>
-    <id>tag:github.com,2024-05-05:/Ravbug/sdl3-sample</id>
-    <link href="https://github.com/Ravbug/sdl3-sample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimal HowTo for building and using SDL3 on a variety of platforms, including mobile and web&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kiksworks/ssl-protos</title>
-    <updated>2024-05-05T01:29:05Z</updated>
-    <id>tag:github.com,2024-05-05:/kiksworks/ssl-protos</id>
-    <link href="https://github.com/kiksworks/ssl-protos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RoboCup SSL でよく使う *.proto ファイルの詰め合わせ&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

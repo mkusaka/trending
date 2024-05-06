@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-05T01:28:27Z</updated>
+  <updated>2024-05-06T01:26:49Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>USF-CS631-S24/tests</title>
-    <updated>2024-05-05T01:28:27Z</updated>
-    <id>tag:github.com,2024-05-05:/USF-CS631-S24/tests</id>
-    <link href="https://github.com/USF-CS631-S24/tests" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CS631 2024S Autograder Tests&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>smaant/lis331</title>
+    <updated>2024-05-06T01:26:49Z</updated>
+    <id>tag:github.com,2024-05-06:/smaant/lis331</id>
+    <link href="https://github.com/smaant/lis331" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

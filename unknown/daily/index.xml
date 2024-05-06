@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-05T01:28:05Z</updated>
+  <updated>2024-05-06T01:26:29Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ouckah/Summer2025-Internships</title>
-    <updated>2024-05-05T01:28:05Z</updated>
-    <id>tag:github.com,2024-05-05:/Ouckah/Summer2025-Internships</id>
-    <link href="https://github.com/Ouckah/Summer2025-Internships" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of Summer 2025 tech internships!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tldrsec/prompt-injection-defenses</title>
-    <updated>2024-05-05T01:28:05Z</updated>
-    <id>tag:github.com,2024-05-05:/tldrsec/prompt-injection-defenses</id>
-    <link href="https://github.com/tldrsec/prompt-injection-defenses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Every practical and proposed defense against prompt injection.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nestjs/awesome-nestjs</title>
-    <updated>2024-05-05T01:28:05Z</updated>
-    <id>tag:github.com,2024-05-05:/nestjs/awesome-nestjs</id>
-    <link href="https://github.com/nestjs/awesome-nestjs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome things related to NestJS 😎&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CrealityOfficial/CrealityPrint</title>
+    <updated>2024-05-06T01:26:29Z</updated>
+    <id>tag:github.com,2024-05-06:/CrealityOfficial/CrealityPrint</id>
+    <link href="https://github.com/CrealityOfficial/CrealityPrint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

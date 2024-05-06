@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-05T01:28:36Z</updated>
+  <updated>2024-05-06T01:26:59Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rdkcentral/meta-rdk-wan</title>
-    <updated>2024-05-05T01:28:36Z</updated>
-    <id>tag:github.com,2024-05-05:/rdkcentral/meta-rdk-wan</id>
-    <link href="https://github.com/rdkcentral/meta-rdk-wan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All WAN component recipes are maintained in this meta layer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-05T01:29:51Z</updated>
+  <updated>2024-05-06T01:28:12Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>readyforproduction/polo</title>
-    <updated>2024-05-05T01:29:51Z</updated>
-    <id>tag:github.com,2024-05-05:/readyforproduction/polo</id>
-    <link href="https://github.com/readyforproduction/polo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimalist, browser-based JSON API REST client.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>liveview-native/live_view_native_stylesheet</title>
+    <updated>2024-05-06T01:28:12Z</updated>
+    <id>tag:github.com,2024-05-06:/liveview-native/live_view_native_stylesheet</id>
+    <link href="https://github.com/liveview-native/live_view_native_stylesheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

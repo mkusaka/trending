@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-05T01:29:02Z</updated>
+  <updated>2024-05-06T01:27:22Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jeanlaurent/fizzbuzz-in-clojure</title>
-    <updated>2024-05-05T01:29:02Z</updated>
-    <id>tag:github.com,2024-05-05:/jeanlaurent/fizzbuzz-in-clojure</id>
-    <link href="https://github.com/jeanlaurent/fizzbuzz-in-clojure" rel="alternate"></link>
+    <title>simon-katz/nomis-midje-protocols-records-in-different-ns</title>
+    <updated>2024-05-06T01:27:22Z</updated>
+    <id>tag:github.com,2024-05-06:/simon-katz/nomis-midje-protocols-records-in-different-ns</id>
+    <link href="https://github.com/simon-katz/nomis-midje-protocols-records-in-different-ns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tombarys/roam-depot-nautilus</title>
+    <updated>2024-05-06T01:27:22Z</updated>
+    <id>tag:github.com,2024-05-06:/tombarys/roam-depot-nautilus</id>
+    <link href="https://github.com/tombarys/roam-depot-nautilus" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
