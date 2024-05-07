@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-06T01:33:23Z</updated>
+  <updated>2024-05-07T01:33:25Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>IammyselfYBX/.vim</title>
-    <updated>2024-05-06T01:33:23Z</updated>
-    <id>tag:github.com,2024-05-06:/IammyselfYBX/.vim</id>
-    <link href="https://github.com/IammyselfYBX/.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;我的(neo)vim配置&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>IammyselfYBX/vim-commenter</title>
-    <updated>2024-05-06T01:33:23Z</updated>
-    <id>tag:github.com,2024-05-06:/IammyselfYBX/vim-commenter</id>
-    <link href="https://github.com/IammyselfYBX/vim-commenter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;python注释插件&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

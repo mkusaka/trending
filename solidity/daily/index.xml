@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-06T01:32:40Z</updated>
+  <updated>2024-05-07T01:32:39Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>orenyomtov/gas-meter</title>
-    <updated>2024-05-06T01:32:40Z</updated>
-    <id>tag:github.com,2024-05-06:/orenyomtov/gas-meter</id>
-    <link href="https://github.com/orenyomtov/gas-meter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple contract to accurately measure gas consumption of contract calls&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stader-labs/ethx</title>
+    <updated>2024-05-07T01:32:39Z</updated>
+    <id>tag:github.com,2024-05-07:/stader-labs/ethx</id>
+    <link href="https://github.com/stader-labs/ethx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

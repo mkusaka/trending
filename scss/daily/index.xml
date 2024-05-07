@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-06T01:32:23Z</updated>
+  <updated>2024-05-07T01:32:24Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GradienceTeam/Submodules</title>
-    <updated>2024-05-06T01:32:23Z</updated>
-    <id>tag:github.com,2024-05-06:/GradienceTeam/Submodules</id>
-    <link href="https://github.com/GradienceTeam/Submodules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Submodules for Gradience&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bedimcode/animated-login-form</title>
+    <updated>2024-05-07T01:32:24Z</updated>
+    <id>tag:github.com,2024-05-07:/bedimcode/animated-login-form</id>
+    <link href="https://github.com/bedimcode/animated-login-form" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Animated Login Form Using HTML CSS &amp; JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>abbos1711/angular-project-CICD-gitlab-githubAction-Jenkins</title>
-    <updated>2024-05-06T01:32:23Z</updated>
-    <id>tag:github.com,2024-05-06:/abbos1711/angular-project-CICD-gitlab-githubAction-Jenkins</id>
-    <link href="https://github.com/abbos1711/angular-project-CICD-gitlab-githubAction-Jenkins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;dockerized angular project . ci/cd with gitlab/github_Actions-and-Jenkins and deployed K8s&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elementary/stylesheet</title>
-    <updated>2024-05-06T01:32:23Z</updated>
-    <id>tag:github.com,2024-05-06:/elementary/stylesheet</id>
-    <link href="https://github.com/elementary/stylesheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The GTK Stylesheet for elementary OS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pluralsight-styling-angular-apps/demos-v3</title>
+    <updated>2024-05-07T01:32:24Z</updated>
+    <id>tag:github.com,2024-05-07:/pluralsight-styling-angular-apps/demos-v3</id>
+    <link href="https://github.com/pluralsight-styling-angular-apps/demos-v3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

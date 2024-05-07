@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-06T01:28:12Z</updated>
+  <updated>2024-05-07T01:28:02Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>liveview-native/live_view_native_stylesheet</title>
-    <updated>2024-05-06T01:28:12Z</updated>
-    <id>tag:github.com,2024-05-06:/liveview-native/live_view_native_stylesheet</id>
-    <link href="https://github.com/liveview-native/live_view_native_stylesheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hauleth/defconst</title>
+    <updated>2024-05-07T01:28:02Z</updated>
+    <id>tag:github.com,2024-05-07:/hauleth/defconst</id>
+    <link href="https://github.com/hauleth/defconst" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helper macros for defining constant values in modules&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ocsf/ocsf-server</title>
+    <updated>2024-05-07T01:28:02Z</updated>
+    <id>tag:github.com,2024-05-07:/ocsf/ocsf-server</id>
+    <link href="https://github.com/ocsf/ocsf-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OCSF Schema WEB Server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>edgedb/edgedb-elixir</title>
+    <updated>2024-05-07T01:28:02Z</updated>
+    <id>tag:github.com,2024-05-07:/edgedb/edgedb-elixir</id>
+    <link href="https://github.com/edgedb/edgedb-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir client for EdgeDB&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-06T01:33:25Z</updated>
+  <updated>2024-05-07T01:33:27Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SuYxh/chatgpt-web-sea</title>
-    <updated>2024-05-06T01:33:25Z</updated>
-    <id>tag:github.com,2024-05-06:/SuYxh/chatgpt-web-sea</id>
-    <link href="https://github.com/SuYxh/chatgpt-web-sea" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于 chatgpt-web 兼容 LLM Red Team 项目下所有的 free-api 以及 one-api 或 new-api提供的接口和 key&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vernaillen/vernaillen.dev</title>
-    <updated>2024-05-06T01:33:25Z</updated>
-    <id>tag:github.com,2024-05-06:/vernaillen/vernaillen.dev</id>
-    <link href="https://github.com/vernaillen/vernaillen.dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lemonfog/lemon-live</title>
-    <updated>2024-05-06T01:33:25Z</updated>
-    <id>tag:github.com,2024-05-06:/lemonfog/lemon-live</id>
-    <link href="https://github.com/lemonfog/lemon-live" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个简单的web端聚合直播平台 支持 虎牙直播 斗鱼直播 哔哩直播 CC直播 直播源 直播信息 弹幕直播&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>050644zf/ArknightsStoryTextReader</title>
+    <updated>2024-05-07T01:33:27Z</updated>
+    <id>tag:github.com,2024-05-07:/050644zf/ArknightsStoryTextReader</id>
+    <link href="https://github.com/050644zf/ArknightsStoryTextReader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A website that help you read Arknights Stories&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
