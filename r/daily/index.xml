@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-07T01:31:48Z</updated>
+  <updated>2024-05-08T01:22:03Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ericschumann12/InvestigatoR</title>
+    <updated>2024-05-08T01:22:03Z</updated>
+    <id>tag:github.com,2024-05-08:/ericschumann12/InvestigatoR</id>
+    <link href="https://github.com/ericschumann12/InvestigatoR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;What the Package Does (Title Case)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;InvestigatoR&lt;/h1&gt; &#xA;&lt;!-- badges: start --&gt; &#xA;&lt;!-- badges: end --&gt; &#xA;&lt;p&gt;The goal of InvestigatoR is to …&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;You can install the development version of InvestigatoR from &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; with:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;# install.packages(&#34;devtools&#34;)&#xA;devtools::install_github(&#34;ericschumann12/InvestigatoR&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Example&lt;/h2&gt; &#xA;&lt;p&gt;This is a basic example which shows you how to solve a common problem:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(InvestigatoR)&#xA;## basic example code&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;What is special about using &lt;code&gt;README.Rmd&lt;/code&gt; instead of just &lt;code&gt;README.md&lt;/code&gt;? You can include R chunks like so:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;performance(c(1,2,NA,3))&#xA;#&amp;gt; [1] 2&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You’ll still need to render &lt;code&gt;README.Rmd&lt;/code&gt; regularly, to keep &lt;code&gt;README.md&lt;/code&gt; up-to-date. &lt;code&gt;devtools::build_readme()&lt;/code&gt; is handy for this.&lt;/p&gt; &#xA;&lt;p&gt;You can also embed plots, for example:&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/ericschumann12/InvestigatoR/master/man/figures/README-pressure-1.png&#34; width=&#34;100%&#34;&gt; &#xA;&lt;p&gt;In that case, don’t forget to commit and push the resulting figure files, so they display on GitHub and CRAN.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>BjnNowak/TidyTuesday</title>
+    <updated>2024-05-08T01:22:03Z</updated>
+    <id>tag:github.com,2024-05-08:/BjnNowak/TidyTuesday</id>
+    <link href="https://github.com/BjnNowak/TidyTuesday" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

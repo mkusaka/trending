@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-07T01:29:39Z</updated>
+  <updated>2024-05-08T01:20:00Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>femtotrader/OnlineTechnicalIndicators.jl</title>
-    <updated>2024-05-07T01:29:39Z</updated>
-    <id>tag:github.com,2024-05-07:/femtotrader/OnlineTechnicalIndicators.jl</id>
-    <link href="https://github.com/femtotrader/OnlineTechnicalIndicators.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia Incremental Technical Analysis Indicators (inspired by talipp)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/ReservoirComputing.jl</title>
+    <updated>2024-05-08T01:20:00Z</updated>
+    <id>tag:github.com,2024-05-08:/SciML/ReservoirComputing.jl</id>
+    <link href="https://github.com/SciML/ReservoirComputing.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reservoir computing utilities for scientific machine learning (SciML)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

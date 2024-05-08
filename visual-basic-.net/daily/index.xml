@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-07T01:33:25Z</updated>
+  <updated>2024-05-08T01:24:07Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dougferris-rmit/RemoteConnect</title>
+    <updated>2024-05-08T01:24:07Z</updated>
+    <id>tag:github.com,2024-05-08:/dougferris-rmit/RemoteConnect</id>
+    <link href="https://github.com/dougferris-rmit/RemoteConnect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GUI tool for remote connections at RMIT&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TasneemDuridi/CloudApplication</title>
+    <updated>2024-05-08T01:24:07Z</updated>
+    <id>tag:github.com,2024-05-08:/TasneemDuridi/CloudApplication</id>
+    <link href="https://github.com/TasneemDuridi/CloudApplication" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

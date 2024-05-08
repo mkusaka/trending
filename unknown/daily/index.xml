@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-07T01:26:11Z</updated>
+  <updated>2024-05-08T01:16:41Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>casubsverssnor1979/Aviator-Prediction-App</title>
-    <updated>2024-05-07T01:26:11Z</updated>
-    <id>tag:github.com,2024-05-07:/casubsverssnor1979/Aviator-Prediction-App</id>
-    <link href="https://github.com/casubsverssnor1979/Aviator-Prediction-App" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;1&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ca110us/epeius</title>
+    <updated>2024-05-08T01:16:41Z</updated>
+    <id>tag:github.com,2024-05-08:/ca110us/epeius</id>
+    <link href="https://github.com/ca110us/epeius" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deploy Trojan using a Serverless approach&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kolesarm/539b</title>
-    <updated>2024-05-07T01:26:11Z</updated>
-    <id>tag:github.com,2024-05-07:/kolesarm/539b</id>
-    <link href="https://github.com/kolesarm/539b" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(Advanced) Applied Econometrics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>raultrades/SMA-outfits</title>
+    <updated>2024-05-08T01:16:41Z</updated>
+    <id>tag:github.com,2024-05-08:/raultrades/SMA-outfits</id>
+    <link href="https://github.com/raultrades/SMA-outfits" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Analysis of SMA outfit (blackbox) use in public equity markets for real-time insight into wealth distribution and direct stock market influence. A call for transparency and public discourse.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jacobdjwilson/awesome-annual-security-reports</title>
-    <updated>2024-05-07T01:26:11Z</updated>
-    <id>tag:github.com,2024-05-07:/jacobdjwilson/awesome-annual-security-reports</id>
-    <link href="https://github.com/jacobdjwilson/awesome-annual-security-reports" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of annual cyber security reports&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>youssefHosni/Awesome-AI-Data-Guided-Projects</title>
+    <updated>2024-05-08T01:16:41Z</updated>
+    <id>tag:github.com,2024-05-08:/youssefHosni/Awesome-AI-Data-Guided-Projects</id>
+    <link href="https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of data science &amp; AI guided projects to start building your portfolio&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

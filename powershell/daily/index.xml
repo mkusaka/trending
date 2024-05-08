@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-07T01:31:27Z</updated>
+  <updated>2024-05-08T01:21:46Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>V-i-x-x/AMSI-BYPASS</title>
-    <updated>2024-05-07T01:31:27Z</updated>
-    <id>tag:github.com,2024-05-07:/V-i-x-x/AMSI-BYPASS</id>
-    <link href="https://github.com/V-i-x-x/AMSI-BYPASS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is a 0day vulnerability discovery for bypassing Antimalware Scan Interface (AMSI) and I will call it AMSI Write Raid, I mean why not?&lt;/p&gt; &#xA;&lt;p&gt;Usually all the memory addresses pointing to the functions and data within the DLLs that the program depends on are inside the import address table (IAT) and they are marked as read only, so whenever you want to tamper with them, you have to use VirtualProtect api to mark the page as writable first.&lt;/p&gt; &#xA;&lt;p&gt;And so EDR&#39;s will monitor the VirtualProtect API to see if the API call is doing something suspicious or not.&lt;/p&gt; &#xA;&lt;p&gt;But strangely, I discovered a writable entry that you can overwrite without the need of &lt;code&gt;VirtualProtect&lt;/code&gt; API, that can bypass the whole AMSI process.&lt;/p&gt; &#xA;&lt;p&gt;And because I am not using VirtualProtect API to change the memory protection, as it is already marked as Read/Write, it will likely bypass AV&#39;s and EDR&#39;s.&lt;/p&gt; &#xA;&lt;p&gt;Note: Most AV&#39;s supports and uses the AMSI functionality developed by Microsoft, so bypassing AMSI =&amp;gt; Bypasses not only defender but all of them.&lt;/p&gt; &#xA;&lt;p&gt;Tested on win11 Build 22631 (Latest at the time of writing) and windows Preview.&lt;/p&gt;</summary>
+    <title>v1k1ngfr/fuegoshell</title>
+    <updated>2024-05-08T01:21:46Z</updated>
+    <id>tag:github.com,2024-05-08:/v1k1ngfr/fuegoshell</id>
+    <link href="https://github.com/v1k1ngfr/fuegoshell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fuegoshell is a powershell oneliner generator for Windows remote shell re-using TCP 445&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;About Fuegoshell&lt;/h1&gt; &#xA;&lt;p&gt;All details are available on &lt;a href=&#34;https://v1k1ngfr.github.io/fuegoshell/&#34;&gt;https://v1k1ngfr.github.io/fuegoshell/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;Fuegoshell&lt;/code&gt; could be useful when your Remote Code Execution or data exfiltration require bypassing some restrictions (firewalls) or detections (EDR). It&#39;s more a trick than a tool but it provides a PS1 script for generating Powershell oneliners. Those shells (bind or reverse) are focusing on :&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;no local admin privilege required&lt;/li&gt; &#xA; &lt;li&gt;no need to Bind() / listen on a new server local port, re-use of TCP 445&lt;/li&gt; &#xA; &lt;li&gt;use of named pipes for sending commands / receiving results&lt;/li&gt; &#xA; &lt;li&gt;keep it simple using Powershell oneliners for all this stuff&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Creating a &#34;fuegoshell&#34; bind shell&lt;/h1&gt; &#xA;&lt;p&gt;Here is an example below of running in &#34;bind&#34; mode.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;powershell -exec bypass .\generate_bind_fuegoshell.ps1 &#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/v1k1ngfr/fuegoshell/main/img/fuegoshell_bind_example.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Creating a &#34;fuegoshell&#34; reverse shell&lt;/h1&gt; &#xA;&lt;p&gt;Here is an example below of running in &#34;reverse&#34; mode.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;powershell -exec bypass .\generate_reverse_fuegoshell.ps1 &#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/v1k1ngfr/fuegoshell/main/img/fuegoshell_reverse_example.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

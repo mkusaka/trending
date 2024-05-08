@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-07T01:30:50Z</updated>
+  <updated>2024-05-08T01:21:07Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>m1entus/MZAppearance</title>
-    <updated>2024-05-07T01:30:50Z</updated>
-    <id>tag:github.com,2024-05-07:/m1entus/MZAppearance</id>
-    <link href="https://github.com/m1entus/MZAppearance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;UIAppearance proxy for custom objects&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/Carthage/Carthage&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat&#34; alt=&#34;Carthage compatible&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;MZAppearance&lt;/h1&gt; &#xA;&lt;p&gt;UIAppearance proxy for custom objects&lt;/p&gt; &#xA;&lt;h2&gt;How To Use&lt;/h2&gt; &#xA;&lt;p&gt;All you need is mark a method that participates in the appearance proxy API using MZ_APPEARANCE_SELECTOR. Implement &#xA; &lt;mzappearance&gt;&#xA;   protocol method + (id)appearance, and call applyInvocationTo inside your init or viewDidLoad object method.&#xA; &lt;/mzappearance&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-objective-c&#34;&gt;@interface MZViewController : UIViewController &amp;lt;MZApperance&amp;gt;&#xA;&#xA;@property (nonatomic,strong) UIColor *customColor MZ_APPEARANCE_SELECTOR;&#xA;@property (nonatomic,assign) CGFloat customFloat MZ_APPEARANCE_SELECTOR;&#xA;&#xA;+ (id)appearance;&#xA;&#xA;@end&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-objective-c&#34;&gt;+ (id)appearance&#xA;{&#xA;    return [MZAppearance appearanceForClass:[self class]];&#xA;}&#xA;&#xA;- (void)viewDidLoad&#xA;{&#xA;    [super viewDidLoad];&#xA;&#xA;    [[[self class] appearance] applyInvocationTo:self];&#xA;    &#xA;    NSLog(@&#34;custom color: %@&#34;,self.customColor);&#xA;    NSLog(@&#34;custom float: %f&#34;,self.customFloat);&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;How to setup appearance variable&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-objective-c&#34;&gt;[[MZViewController appearance] setCustomColor:[UIColor blackColor]];&#xA;[[MZViewController appearance] setCustomFloat:6.0];&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Console result will be&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-objective-c&#34;&gt;2013-08-17 19:59:38.546 MZAppearance[3374:c07] custom color: UIDeviceWhiteColorSpace 0 1&#xA;2013-08-17 19:59:38.547 MZAppearance[3374:c07] custom float: 6.000000&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://bitdeli.com/free&#34; title=&#34;Bitdeli Badge&#34;&gt;&lt;img src=&#34;https://d2weczhvl823v0.cloudfront.net/m1entus/mzappearance/trend.png&#34; alt=&#34;Bitdeli Badge&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>
