@@ -4,11 +4,4 @@
   <updated>2024-05-08T01:21:00Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BatteredBunny/brew-nix</title>
-    <updated>2024-05-08T01:21:00Z</updated>
-    <id>tag:github.com,2024-05-08:/BatteredBunny/brew-nix</id>
-    <link href="https://github.com/BatteredBunny/brew-nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental nix expression to package all MacOS casks from homebrew automatically&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

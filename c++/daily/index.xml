@@ -4,11 +4,4 @@
   <updated>2024-05-08T01:17:27Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dillo-browser/dillo</title>
-    <updated>2024-05-08T01:17:27Z</updated>
-    <id>tag:github.com,2024-05-08:/dillo-browser/dillo</id>
-    <link href="https://github.com/dillo-browser/dillo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dillo, a multi-platform graphical web browser&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Dillo web browser&lt;/h1&gt; &#xA;&lt;p&gt;Dillo is a multi-platform graphical web browser, known for its speed and small footprint, that is developed with a focus on personal security and privacy. It is built with the &lt;a href=&#34;http://fltk.org&#34;&gt;FLTK 1.3 GUI toolkit&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/dillo-browser/dillo/master/doc/dillo-wiki.png&#34; width=&#34;60%&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;To install Dillo follow the &lt;a href=&#34;https://raw.githubusercontent.com/dillo-browser/dillo/master/doc/install.md&#34;&gt;installation guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This repository contains mostly the original code of Dillo with some minor patches. Additional patches or pull requests are welcome.&lt;/p&gt; &#xA;&lt;p&gt;See also other related forks: &lt;a href=&#34;https://github.com/crossbowerbt/dillo-plus&#34;&gt;dillo-plus&lt;/a&gt;, &lt;a href=&#34;https://github.com/w00fpack/dilloNG&#34;&gt;dilloNG&lt;/a&gt;, &lt;a href=&#34;https://sourceforge.net/projects/dplus-browser/&#34;&gt;D+ browser&lt;/a&gt; and &lt;a href=&#34;https://www.toomanyatoms.com/software/mobilized_dillo.html&#34;&gt;Mobilized Dillo&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[!WARNING] As of December 2023, the host &lt;code&gt;dillo.org&lt;/code&gt; is no longer under control of Dillo developers. A &lt;a href=&#34;http://web.archive.org/web/20220508022123/https://www.dillo.org/&#34;&gt;copy of the website from May 2022&lt;/a&gt; is archived in the Wayback Machine.&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
-  </entry>
 </feed>
