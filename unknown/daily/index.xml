@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-08T01:16:41Z</updated>
+  <updated>2024-05-10T01:26:56Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>deepseek-ai/DeepSeek-V2</title>
+    <updated>2024-05-10T01:26:56Z</updated>
+    <id>tag:github.com,2024-05-10:/deepseek-ai/DeepSeek-V2</id>
+    <link href="https://github.com/deepseek-ai/DeepSeek-V2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ibm-granite/granite-code-models</title>
+    <updated>2024-05-10T01:26:56Z</updated>
+    <id>tag:github.com,2024-05-10:/ibm-granite/granite-code-models</id>
+    <link href="https://github.com/ibm-granite/granite-code-models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Granite Code Models: A Family of Open Foundation Models for Code Intelligence&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elicit/machine-learning-list</title>
+    <updated>2024-05-10T01:26:56Z</updated>
+    <id>tag:github.com,2024-05-10:/elicit/machine-learning-list</id>
+    <link href="https://github.com/elicit/machine-learning-list" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curriculum for learning about foundation models, from scratch to the frontier&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

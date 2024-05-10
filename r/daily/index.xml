@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-08T01:22:03Z</updated>
+  <updated>2024-05-10T01:32:22Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CastleLi/scBSP</title>
+    <updated>2024-05-10T01:32:22Z</updated>
+    <id>tag:github.com,2024-05-10:/CastleLi/scBSP</id>
+    <link href="https://github.com/CastleLi/scBSP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;scBSP - A Fast Tool for Single-Cell Spatially Variable Genes Identifications on Large-Scale Spatially Resolved Transcriptomics Data&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.11123268&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/DOI/10.5281/zenodo.11123268.svg?sanitize=true&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;This package utilizes a granularity-based dimension-agnostic tool, single-cell big-small patch (scBSP), implementing sparse matrix operation and KD-tree/balltree method for distance calculation, for the identification of spatially variable genes on large-scale data. A corresponding Python library is available at &lt;a href=&#34;https://pypi.org/project/scbsp/&#34;&gt;https://pypi.org/project/scbsp&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;p&gt;This package can be installed on R CRAN&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;install.packages(&#34;scBSP&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;# Creating coords and expression matrix&#xA;Coords &amp;lt;- expand.grid(1:100,1:100, 1:3)&#xA;RandFunc &amp;lt;- function(n) floor(10 * stats::rbeta(n, 1, 5))&#xA;Raw_Exp &amp;lt;- Matrix::rsparsematrix(nrow = 10^4, ncol = 3*10^4, density = 0.0001, rand.x = RandFunc)&#xA;&#xA;# Excluding low expressed genes&#xA;Filtered_ExpMat &amp;lt;- SpFilter(Raw_Exp)&#xA;rownames(Filtered_ExpMat) &amp;lt;- paste0(&#34;Gene_&#34;, 1:nrow(Filtered_ExpMat))&#xA;&#xA;# Computing p-values&#xA;P_values &amp;lt;- scBSP(Coords, Filtered_ExpMat)&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Reference&lt;/h1&gt; &#xA;&lt;p&gt;Wang, J., Li, J., Kramer, S.T. et al. Dimension-agnostic and granularity-based spatially variable gene identification using BSP. Nat Commun 14, 7367 (2023). &lt;a href=&#34;https://doi.org/10.1038/s41467-023-43256-5&#34;&gt;https://doi.org/10.1038/s41467-023-43256-5&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>molgenis/ds-tidyverse-client</title>
+    <updated>2024-05-10T01:32:22Z</updated>
+    <id>tag:github.com,2024-05-10:/molgenis/ds-tidyverse-client</id>
+    <link href="https://github.com/molgenis/ds-tidyverse-client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dsTidyverseClient&lt;/h1&gt; &#xA;&lt;p&gt;Clientside implementation of selected Tidyverse functions&lt;/p&gt;</summary>
+  </entry>
 </feed>

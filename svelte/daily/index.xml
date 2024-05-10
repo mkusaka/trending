@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-08T01:23:14Z</updated>
+  <updated>2024-05-10T01:33:24Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>helius-labs/xray</title>
+    <updated>2024-05-10T01:33:24Z</updated>
+    <id>tag:github.com,2024-05-10:/helius-labs/xray</id>
+    <link href="https://github.com/helius-labs/xray" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A human-readable Solana transaction explorer powered by Helius.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ladvace/astro-bento-portfolio</title>
+    <updated>2024-05-10T01:33:24Z</updated>
+    <id>tag:github.com,2024-05-10:/Ladvace/astro-bento-portfolio</id>
+    <link href="https://github.com/Ladvace/astro-bento-portfolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

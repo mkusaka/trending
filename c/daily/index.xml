@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-08T01:17:20Z</updated>
+  <updated>2024-05-10T01:27:41Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dcfsswindy/oled-ui-astra</title>
+    <updated>2024-05-10T01:27:41Z</updated>
+    <id>tag:github.com,2024-05-10:/dcfsswindy/oled-ui-astra</id>
+    <link href="https://github.com/dcfsswindy/oled-ui-astra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;powered by astra UI.&lt;/h2&gt; &#xA;&lt;h1&gt;&lt;a href=&#34;https://github.com/dcfsswindy/oled-ui-astra/releases&#34;&gt;Releases&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;h1&gt;&lt;a href=&#34;https://github.com/dcfsswindy/oled-ui-astra/wiki&#34;&gt;Wiki&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;h1&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV16x421S7qc&#34;&gt;Video&lt;/a&gt;&lt;/h1&gt;</summary>
+  </entry>
 </feed>

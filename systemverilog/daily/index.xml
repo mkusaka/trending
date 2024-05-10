@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-08T01:23:17Z</updated>
+  <updated>2024-05-10T01:33:26Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cooper-union-ece-251-marano/final-project-ece-251-spring-2024-computer_design_template</title>
+    <updated>2024-05-10T01:33:26Z</updated>
+    <id>tag:github.com,2024-05-10:/cooper-union-ece-251-marano/final-project-ece-251-spring-2024-computer_design_template</id>
+    <link href="https://github.com/cooper-union-ece-251-marano/final-project-ece-251-spring-2024-computer_design_template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;final-project-ece-251-spring-2024-computer_design_template created by GitHub Classroom&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

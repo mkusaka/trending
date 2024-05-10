@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-08T01:17:47Z</updated>
+  <updated>2024-05-10T01:28:00Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ROCm/rocm-cmake</title>
+    <updated>2024-05-10T01:28:00Z</updated>
+    <id>tag:github.com,2024-05-10:/ROCm/rocm-cmake</id>
+    <link href="https://github.com/ROCm/rocm-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake modules used within the ROCm libraries&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

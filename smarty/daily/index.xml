@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-08T01:23:01Z</updated>
+  <updated>2024-05-10T01:33:12Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sentry-kubernetes/charts</title>
+    <updated>2024-05-10T01:33:12Z</updated>
+    <id>tag:github.com,2024-05-10:/sentry-kubernetes/charts</id>
+    <link href="https://github.com/sentry-kubernetes/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily deploy Sentry on your Kubernetes Cluster&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EOEPCA/helm-charts-dev</title>
+    <updated>2024-05-10T01:33:12Z</updated>
+    <id>tag:github.com,2024-05-10:/EOEPCA/helm-charts-dev</id>
+    <link href="https://github.com/EOEPCA/helm-charts-dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>open-webui/helm-charts</title>
+    <updated>2024-05-10T01:33:12Z</updated>
+    <id>tag:github.com,2024-05-10:/open-webui/helm-charts</id>
+    <link href="https://github.com/open-webui/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
