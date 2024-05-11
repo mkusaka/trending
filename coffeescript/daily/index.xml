@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-10T01:28:02Z</updated>
+  <updated>2024-05-11T01:27:08Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rodrigomes/kokiri-spirit</title>
-    <updated>2024-05-10T01:28:02Z</updated>
-    <id>tag:github.com,2024-05-10:/rodrigomes/kokiri-spirit</id>
-    <link href="https://github.com/rodrigomes/kokiri-spirit" rel="alternate"></link>
+    <title>kaosf/jade-h5bp</title>
+    <updated>2024-05-11T01:27:08Z</updated>
+    <id>tag:github.com,2024-05-11:/kaosf/jade-h5bp</id>
+    <link href="https://github.com/kaosf/jade-h5bp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>classdojo/database</title>
-    <updated>2024-05-10T01:28:02Z</updated>
-    <id>tag:github.com,2024-05-10:/classdojo/database</id>
-    <link href="https://github.com/classdojo/database" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Db stuff&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tq-jappy/knockout-coffee</title>
-    <updated>2024-05-10T01:28:02Z</updated>
-    <id>tag:github.com,2024-05-10:/tq-jappy/knockout-coffee</id>
-    <link href="https://github.com/tq-jappy/knockout-coffee" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Knockout.js sample using CoffeeScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

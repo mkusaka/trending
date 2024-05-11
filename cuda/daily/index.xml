@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-10T01:28:13Z</updated>
+  <updated>2024-05-11T01:27:20Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hbb1/diff-surfel-rasterization</title>
-    <updated>2024-05-10T01:28:13Z</updated>
-    <id>tag:github.com,2024-05-10:/hbb1/diff-surfel-rasterization</id>
-    <link href="https://github.com/hbb1/diff-surfel-rasterization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A differentiable rasterizer used in the project &#34;2D Gaussian Splatting&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ifromeast/cuda_learning</title>
+    <updated>2024-05-11T01:27:20Z</updated>
+    <id>tag:github.com,2024-05-11:/ifromeast/cuda_learning</id>
+    <link href="https://github.com/ifromeast/cuda_learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;learning how CUDA works&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>66RING/tiny-flash-attention</title>
+    <updated>2024-05-11T01:27:20Z</updated>
+    <id>tag:github.com,2024-05-11:/66RING/tiny-flash-attention</id>
+    <link href="https://github.com/66RING/tiny-flash-attention" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;flash attention tutorial written in python, triton, cuda, cutlass&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

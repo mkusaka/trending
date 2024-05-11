@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-10T01:31:57Z</updated>
+  <updated>2024-05-11T01:30:58Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ardentperf/dsef</title>
+    <updated>2024-05-11T01:30:58Z</updated>
+    <id>tag:github.com,2024-05-11:/ardentperf/dsef</id>
+    <link href="https://github.com/ardentperf/dsef" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DiffStats and ExplainFull: detailed SQL reports for third party help &amp; support&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dataforgelabs/dataforge-core</title>
+    <updated>2024-05-11T01:30:58Z</updated>
+    <id>tag:github.com,2024-05-11:/dataforgelabs/dataforge-core</id>
+    <link href="https://github.com/dataforgelabs/dataforge-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DataForge helps data teams write functional transformation pipelines by leveraging software engineering principles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

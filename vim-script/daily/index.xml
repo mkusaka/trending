@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-10T01:33:58Z</updated>
+  <updated>2024-05-11T01:33:05Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lambdalisue/vim-fern</title>
-    <updated>2024-05-10T01:33:58Z</updated>
-    <id>tag:github.com,2024-05-10:/lambdalisue/vim-fern</id>
-    <link href="https://github.com/lambdalisue/vim-fern" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌿 General purpose asynchronous tree viewer written in Pure Vim script&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>laktak/tome</title>
+    <updated>2024-05-11T01:33:05Z</updated>
+    <id>tag:github.com,2024-05-11:/laktak/tome</id>
+    <link href="https://github.com/laktak/tome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔁 Script playbooks for frequent commands in any terminal application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>andbroby/werks</title>
+    <updated>2024-05-11T01:33:05Z</updated>
+    <id>tag:github.com,2024-05-11:/andbroby/werks</id>
+    <link href="https://github.com/andbroby/werks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a colorscheme for vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>austinylin/dotfiles-old</title>
+    <updated>2024-05-11T01:33:05Z</updated>
+    <id>tag:github.com,2024-05-11:/austinylin/dotfiles-old</id>
+    <link href="https://github.com/austinylin/dotfiles-old" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Austin&#39;s Dot Files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

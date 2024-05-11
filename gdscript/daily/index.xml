@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-10T01:29:09Z</updated>
+  <updated>2024-05-11T01:28:08Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Quaint-Studios/Reia</title>
-    <updated>2024-05-10T01:29:09Z</updated>
-    <id>tag:github.com,2024-05-10:/Quaint-Studios/Reia</id>
-    <link href="https://github.com/Quaint-Studios/Reia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Explore endless worlds and embark on a magical adventure of a lifetime! Reia is an action-adventure RPG and also an open-source game. Play offline or online with friends, or login for an MMO experience! Create and explore worlds, manage your own economy and products, and restore Reia&#39;s world via the story. Choose the way you want to play.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StayAtHomeDev-Git/Godot-Run-Screen-Toolbar</title>
+    <updated>2024-05-11T01:28:08Z</updated>
+    <id>tag:github.com,2024-05-11:/StayAtHomeDev-Git/Godot-Run-Screen-Toolbar</id>
+    <link href="https://github.com/StayAtHomeDev-Git/Godot-Run-Screen-Toolbar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot Engine addon that creates a toolbar to quickly switch between run screens and set fullscreen mode.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Maaack/Godot-Menus-Template</title>
+    <updated>2024-05-11T01:28:08Z</updated>
+    <id>tag:github.com,2024-05-11:/Maaack/Godot-Menus-Template</id>
+    <link href="https://github.com/Maaack/Godot-Menus-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot template with a main menu, options menus, credits, and a scene loader.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

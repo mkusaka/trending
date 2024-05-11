@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-10T01:34:00Z</updated>
+  <updated>2024-05-11T01:33:08Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>taozhi1010/nest-admin</title>
-    <updated>2024-05-10T01:34:00Z</updated>
-    <id>tag:github.com,2024-05-10:/taozhi1010/nest-admin</id>
-    <link href="https://github.com/taozhi1010/nest-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nest全栈快速开发平台&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>flomesh-io/ztm</title>
+    <updated>2024-05-11T01:33:08Z</updated>
+    <id>tag:github.com,2024-05-11:/flomesh-io/ztm</id>
+    <link href="https://github.com/flomesh-io/ztm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ZTM (Zero Trust Mesh) is an open source decentralized network software based on HTTP/2. Boundless connectivity. Meshing the world！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
