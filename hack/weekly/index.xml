@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Hack Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-12T01:40:14Z</updated>
+  <subtitle>Weekly Trending of Hack in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>francis-njenga/login-form-with-database-connection</title>
+    <updated>2024-05-12T01:40:14Z</updated>
+    <id>tag:github.com,2024-05-12:/francis-njenga/login-form-with-database-connection</id>
+    <link href="https://github.com/francis-njenga/login-form-with-database-connection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Check out the step-by-step tutorial on creating login and register forms on my YouTube channel at https://www.youtube.com/@francis_tech&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

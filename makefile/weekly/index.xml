@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-12T01:41:36Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>remerge/go-lock_free_timer</title>
+    <updated>2024-05-12T01:41:36Z</updated>
+    <id>tag:github.com,2024-05-12:/remerge/go-lock_free_timer</id>
+    <link href="https://github.com/remerge/go-lock_free_timer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;go-lock_free_timer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>remerge/go-worker_pool</title>
+    <updated>2024-05-12T01:41:36Z</updated>
+    <id>tag:github.com,2024-05-12:/remerge/go-worker_pool</id>
+    <link href="https://github.com/remerge/go-worker_pool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;go-worker_pool&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-11T01:30:42Z</updated>
+  <updated>2024-05-12T01:34:55Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wertarbyte/hetzner-rdns</title>
+    <updated>2024-05-12T01:34:55Z</updated>
+    <id>tag:github.com,2024-05-12:/wertarbyte/hetzner-rdns</id>
+    <link href="https://github.com/wertarbyte/hetzner-rdns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;update reverse DNS settings for systems hosted at Hetzner; a successor (hetzner-robot-perl) is in preparation to utilise the webservice interface&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yappo/p5-Module-Setup</title>
+    <updated>2024-05-12T01:34:55Z</updated>
+    <id>tag:github.com,2024-05-12:/yappo/p5-Module-Setup</id>
+    <link href="https://github.com/yappo/p5-Module-Setup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is Perl module Module::Setup.&lt;/p&gt; &#xA;&lt;p&gt;INSTALLATION&lt;/p&gt; &#xA;&lt;p&gt;Module::Setup installation is straightforward. If your CPAN shell is set up, you should just be able to do&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;% cpan Module::Setup&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Download it, unpack it, then build it as per the usual:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;% perl Makefile.PL&#xA;% make &amp;amp;&amp;amp; make test&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then install it:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;% make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;DOCUMENTATION&lt;/p&gt; &#xA;&lt;p&gt;Module::Setup documentation is available as in POD. So you can do:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;% perldoc Module::Setup&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;to read the documentation online with your favorite pager.&lt;/p&gt; &#xA;&lt;p&gt;Kazuhiro Osawa&lt;/p&gt;</summary>
+  </entry>
 </feed>

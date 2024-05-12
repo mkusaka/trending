@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-12T01:40:17Z</updated>
+  <subtitle>Weekly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>haskell-suite/haskell-src-exts</title>
+    <updated>2024-05-12T01:40:17Z</updated>
+    <id>tag:github.com,2024-05-12:/haskell-suite/haskell-src-exts</id>
+    <link href="https://github.com/haskell-suite/haskell-src-exts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Haskell Source Extensions&lt;/h1&gt; &#xA;&lt;p&gt;haskell-src-exts is a package for handling and manipulating Haskell source code. It is a descendant of the haskell-src package that is part of the standard libraries, but extends this to support a number of syntactic extensions, e.g. MPTCs, fundeps, GADTs, TH etc. The aim is to support all extensions recognized by the community, as determined by what is implemented in compilers and tools.&lt;/p&gt; &#xA;&lt;p&gt;Apart from the more standard extensions supported by e.g. GHC, haskell-src-exts provides support for HaRP (Haskell Regular Patterns) and HSX (Haskell Source with XML) syntax.&lt;/p&gt; &#xA;&lt;h2&gt;Package structure&lt;/h2&gt; &#xA;&lt;p&gt;The modules that comprise haskell-src-exts all reside in the hierarchic namespace Language.Haskell.Exts. Notable exposed modules include:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;Language.Haskell.Exts&lt;/code&gt; - Imports and re-exports all the below, and also defines some functions that combine functionality from several modules.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;Language.Haskell.Exts.Syntax&lt;/code&gt; - The abstract syntax tree that the other modules work on.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;Language.Haskell.Exts.Build&lt;/code&gt; - Combinators for building abstract syntax.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;Language.Haskell.Exts.Parser&lt;/code&gt; - Functions for parsing Haskell source code into an abstract syntax representation.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;The haskell-src-exts Package is distributed under a derived BSD-style license. It derives from several sources, all of which are distributable under BSD-style or compatible licenses. See the file LICENSE for the complete license text.&lt;/p&gt; &#xA;&lt;h2&gt;Maintenance&lt;/h2&gt; &#xA;&lt;p&gt;Dan Burton is currently keeping haskell-src-exts on life support. If you are interested in more actively making improvements to this package, please make your interests known.&lt;/p&gt; &#xA;&lt;p&gt;You might want to try &lt;a href=&#34;http://hackage.haskell.org/package/ghc-lib-parser&#34;&gt;ghc-lib-parser&lt;/a&gt; instead.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>isturdy/tint</title>
+    <updated>2024-05-12T01:40:17Z</updated>
+    <id>tag:github.com,2024-05-12:/isturdy/tint</id>
+    <link href="https://github.com/isturdy/tint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A multi-language syntax highlighter.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

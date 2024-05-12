@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-12T01:42:10Z</updated>
+  <subtitle>Weekly Trending of Objective-C in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DanYellow/jungle-battle-ios</title>
+    <updated>2024-05-12T01:42:10Z</updated>
+    <id>tag:github.com,2024-05-12:/DanYellow/jungle-battle-ios</id>
+    <link href="https://github.com/DanYellow/jungle-battle-ios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jungle Battle Random Edition - make during Angelhack Paris 2013&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;jungle-battle&lt;/h1&gt; &#xA;&lt;p&gt;Jungle Battle Random Edition - make during Angelhack Paris 2013&lt;/p&gt; &#xA;&lt;p&gt;Visit junglebattle.com and choose your favorite animal during a fight !&lt;/p&gt;</summary>
+  </entry>
+</feed>

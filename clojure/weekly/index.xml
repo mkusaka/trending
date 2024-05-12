@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-12T01:38:34Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>simon-katz/nomis-midje-protocols-records-in-different-ns</title>
+    <updated>2024-05-12T01:38:34Z</updated>
+    <id>tag:github.com,2024-05-12:/simon-katz/nomis-midje-protocols-records-in-different-ns</id>
+    <link href="https://github.com/simon-katz/nomis-midje-protocols-records-in-different-ns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>swarmpit/swarmpit</title>
+    <updated>2024-05-12T01:38:34Z</updated>
+    <id>tag:github.com,2024-05-12:/swarmpit/swarmpit</id>
+    <link href="https://github.com/swarmpit/swarmpit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight mobile-friendly Docker Swarm management UI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gwtexa/btc_datom</title>
+    <updated>2024-05-12T01:38:34Z</updated>
+    <id>tag:github.com,2024-05-12:/gwtexa/btc_datom</id>
+    <link href="https://github.com/gwtexa/btc_datom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

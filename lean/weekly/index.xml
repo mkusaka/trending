@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Lean Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-12T01:41:18Z</updated>
+  <subtitle>Weekly Trending of Lean in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>leanprover-community/batteries</title>
+    <updated>2024-05-12T01:41:18Z</updated>
+    <id>tag:github.com,2024-05-12:/leanprover-community/batteries</id>
+    <link href="https://github.com/leanprover-community/batteries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The &#34;batteries included&#34; extended library for the Lean programming language and theorem prover&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kevinsullivan/AffineSpace</title>
+    <updated>2024-05-12T01:41:18Z</updated>
+    <id>tag:github.com,2024-05-12:/kevinsullivan/AffineSpace</id>
+    <link href="https://github.com/kevinsullivan/AffineSpace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

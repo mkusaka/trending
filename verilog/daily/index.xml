@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-11T01:33:03Z</updated>
+  <updated>2024-05-12T01:37:12Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chili-chips-ba/openCologne</title>
+    <updated>2024-05-12T01:37:12Z</updated>
+    <id>tag:github.com,2024-05-12:/chili-chips-ba/openCologne</id>
+    <link href="https://github.com/chili-chips-ba/openCologne" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RESMIRNAIR/ALU</title>
+    <updated>2024-05-12T01:37:12Z</updated>
+    <id>tag:github.com,2024-05-12:/RESMIRNAIR/ALU</id>
+    <link href="https://github.com/RESMIRNAIR/ALU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

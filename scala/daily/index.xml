@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-11T01:31:55Z</updated>
+  <updated>2024-05-12T01:36:04Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>blopker/Play-2-Router-Test</title>
-    <updated>2024-05-11T01:31:55Z</updated>
-    <id>tag:github.com,2024-05-11:/blopker/Play-2-Router-Test</id>
-    <link href="https://github.com/blopker/Play-2-Router-Test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Testing a custom router, fileless router for the Play framework. Based on this post: http://jazzy.id.au/default/2013/05/08/advanced_routing_in_play_framework.html&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Play 2 Custom Router Test&lt;/h1&gt; &#xA;&lt;p&gt;Testing a custom router, fileless router for the Play framework. Based on this post: &lt;a href=&#34;http://jazzy.id.au/default/2013/05/08/advanced_routing_in_play_framework.html&#34;&gt;http://jazzy.id.au/default/2013/05/08/advanced_routing_in_play_framework.html&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>lichess-org/lila-fishnet</title>
+    <updated>2024-05-12T01:36:04Z</updated>
+    <id>tag:github.com,2024-05-12:/lichess-org/lila-fishnet</id>
+    <link href="https://github.com/lichess-org/lila-fishnet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proxy between lila and fishnet move clients&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lila Fishnet&lt;/h1&gt; &#xA;&lt;p&gt;Proxy between lila and fishnet move clients&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;lila &amp;lt;-&amp;gt; redis &amp;lt;-&amp;gt; lila-fishnet &amp;lt;- http &amp;lt;- fishnet-clients&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Developement&lt;/h2&gt; &#xA;&lt;p&gt;Start:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;sbt&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Start with default config:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;sbt app/run&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Use environment variables to start with custom config (&lt;code&gt;redis.host&lt;/code&gt; and &lt;code&gt;kamon&lt;/code&gt; for example):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;REDIS_HOST=redis KAMON_ENABLED=true CONFIG_FORCE_kamon_influxdb_port=8888 sbt app/run&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Or creating an &lt;code&gt;.env&lt;/code&gt; file with environment variables, for example:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;cp .env.example .env&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;For other &lt;code&gt;config&lt;/code&gt; check &lt;a href=&#34;https://github.com/lichess-org/lila-fishnet/raw/master/app/src/main/scala/AppConfig.scala&#34;&gt;AppConfig.scala&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Run all tests (required Docker for IntegrationTest):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;sbt app/test&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Run a single test:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;sbt app/testOnly lila.fishnet.ExecutorTest&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Run code format and auto code refactor with scalafmt &amp;amp; scalafix:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;sbt prepare&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

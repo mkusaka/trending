@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub YAML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-12T01:45:05Z</updated>
+  <subtitle>Weekly Trending of YAML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aquaproj/aqua-registry</title>
+    <updated>2024-05-12T01:45:05Z</updated>
+    <id>tag:github.com,2024-05-12:/aquaproj/aqua-registry</id>
+    <link href="https://github.com/aquaproj/aqua-registry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;aqua&#39;s Standard Registry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

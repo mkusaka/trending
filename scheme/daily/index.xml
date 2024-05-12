@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-11T01:32:00Z</updated>
+  <updated>2024-05-12T01:36:08Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>haramako/lisp</title>
-    <updated>2024-05-11T01:32:00Z</updated>
-    <id>tag:github.com,2024-05-11:/haramako/lisp</id>
-    <link href="https://github.com/haramako/lisp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;lisp&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

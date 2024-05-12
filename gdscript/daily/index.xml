@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-11T01:28:08Z</updated>
+  <updated>2024-05-12T01:32:20Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>StayAtHomeDev-Git/Godot-Run-Screen-Toolbar</title>
-    <updated>2024-05-11T01:28:08Z</updated>
-    <id>tag:github.com,2024-05-11:/StayAtHomeDev-Git/Godot-Run-Screen-Toolbar</id>
-    <link href="https://github.com/StayAtHomeDev-Git/Godot-Run-Screen-Toolbar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot Engine addon that creates a toolbar to quickly switch between run screens and set fullscreen mode.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Maaack/Godot-Menus-Template</title>
-    <updated>2024-05-11T01:28:08Z</updated>
-    <id>tag:github.com,2024-05-11:/Maaack/Godot-Menus-Template</id>
-    <link href="https://github.com/Maaack/Godot-Menus-Template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot template with a main menu, options menus, credits, and a scene loader.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

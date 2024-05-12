@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-12T01:40:13Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>owahlen/fritzlog</title>
+    <updated>2024-05-12T01:40:13Z</updated>
+    <id>tag:github.com,2024-05-12:/owahlen/fritzlog</id>
+    <link href="https://github.com/owahlen/fritzlog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Java executable to extract the event log from a AVM Fritz!Box&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>d10xa/holidays-calendar</title>
+    <updated>2024-05-12T01:40:13Z</updated>
+    <id>tag:github.com,2024-05-12:/d10xa/holidays-calendar</id>
+    <link href="https://github.com/d10xa/holidays-calendar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Производственный календарь json&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

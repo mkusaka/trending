@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Logos Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-12T01:41:24Z</updated>
+  <subtitle>Weekly Trending of Logos in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>maxkatzmann/FolderSwipe</title>
+    <updated>2024-05-12T01:41:24Z</updated>
+    <id>tag:github.com,2024-05-12:/maxkatzmann/FolderSwipe</id>
+    <link href="https://github.com/maxkatzmann/FolderSwipe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open folders Velox-Style!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cairo Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-12T01:38:27Z</updated>
+  <subtitle>Weekly Trending of Cairo in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BlockheaderWeb3-Community/cairo-bootcamp-24</title>
+    <updated>2024-05-12T01:38:27Z</updated>
+    <id>tag:github.com,2024-05-12:/BlockheaderWeb3-Community/cairo-bootcamp-24</id>
+    <link href="https://github.com/BlockheaderWeb3-Community/cairo-bootcamp-24" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo introduces the core fundamentals of creating a Cairo program and Starknet contract&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>keep-starknet-strange/joyboy</title>
+    <updated>2024-05-12T01:38:27Z</updated>
+    <id>tag:github.com,2024-05-12:/keep-starknet-strange/joyboy</id>
+    <link href="https://github.com/keep-starknet-strange/joyboy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Decentralized social built with Nostr and powered by Starknet account abstraction.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

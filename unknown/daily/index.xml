@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-11T01:26:00Z</updated>
+  <updated>2024-05-12T01:30:06Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SAWARATSUKI/KawaiiLogos</title>
-    <updated>2024-05-11T01:26:00Z</updated>
-    <id>tag:github.com,2024-05-11:/SAWARATSUKI/KawaiiLogos</id>
-    <link href="https://github.com/SAWARATSUKI/KawaiiLogos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>w3laba/CoinMarketCap-Trending</title>
+    <updated>2024-05-12T01:30:06Z</updated>
+    <id>tag:github.com,2024-05-12:/w3laba/CoinMarketCap-Trending</id>
+    <link href="https://github.com/w3laba/CoinMarketCap-Trending" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CoinMarketCap (CMC) Trending | CMC, Coingecko, Dexscreener, Dextools Trending services&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CodingChallengesFYI/SharedSolutions</title>
-    <updated>2024-05-11T01:26:00Z</updated>
-    <id>tag:github.com,2024-05-11:/CodingChallengesFYI/SharedSolutions</id>
-    <link href="https://github.com/CodingChallengesFYI/SharedSolutions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Publicly shared solutions to Coding Challenges&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>w3laba/DexScreener-Trending</title>
+    <updated>2024-05-12T01:30:06Z</updated>
+    <id>tag:github.com,2024-05-12:/w3laba/DexScreener-Trending</id>
+    <link href="https://github.com/w3laba/DexScreener-Trending" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DexScreener Trending | CMC, Coingecko, Dexscreener, Dextools Trending services&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lucidrains/alphafold3-pytorch</title>
-    <updated>2024-05-11T01:26:00Z</updated>
-    <id>tag:github.com,2024-05-11:/lucidrains/alphafold3-pytorch</id>
-    <link href="https://github.com/lucidrains/alphafold3-pytorch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of Alphafold3 in Pytorch&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mintisan/awesome-kan</title>
+    <updated>2024-05-12T01:30:06Z</updated>
+    <id>tag:github.com,2024-05-12:/mintisan/awesome-kan</id>
+    <link href="https://github.com/mintisan/awesome-kan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

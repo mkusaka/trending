@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-11T01:31:01Z</updated>
+  <updated>2024-05-12T01:35:13Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BenjaminDRichards/MDDN_442_Project2</title>
-    <updated>2024-05-11T01:31:01Z</updated>
-    <id>tag:github.com,2024-05-11:/BenjaminDRichards/MDDN_442_Project2</id>
-    <link href="https://github.com/BenjaminDRichards/MDDN_442_Project2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MDDN 442 project 2: interactive installation. Sprite-based fleet control game featuring normal mapped sprites.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

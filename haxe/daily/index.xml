@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-11T01:28:36Z</updated>
+  <updated>2024-05-12T01:32:48Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>riconuts/troll-engine</title>
-    <updated>2024-05-11T01:28:36Z</updated>
-    <id>tag:github.com,2024-05-11:/riconuts/troll-engine</id>
-    <link href="https://github.com/riconuts/troll-engine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Engine originally used on the TGT v4 mod.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Friday Night Funkin&#39;: Troll Engine&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/riconuts/troll-engine&#34;&gt;Troll Engine&lt;/a&gt; is the fork of &lt;a href=&#34;https://github.com/ShadowMario/FNF-PsychEngine&#34;&gt;Psych Engine&lt;/a&gt; that&#39;s used on the &lt;a href=&#34;https://gamebanana.com/mods/320596&#34;&gt;Tails Gets Trolled mod&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Installation:&lt;/h2&gt; &#xA;&lt;p&gt;You must have &lt;a href=&#34;https://haxe.org/download/version/4.2.5/&#34;&gt;Haxe 4.2.5&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;open up a Command Prompt/PowerShell or Terminal, type &lt;code&gt;haxelib install hmm&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;after it finishes, simply type &lt;code&gt;haxelib run hmm install&lt;/code&gt; in order to install all the needed libraries&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>FunkinCrew/funkVis</title>
-    <updated>2024-05-11T01:28:36Z</updated>
-    <id>tag:github.com,2024-05-11:/FunkinCrew/funkVis</id>
-    <link href="https://github.com/FunkinCrew/funkVis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;funkin.vis&lt;/h1&gt; &#xA;&lt;p&gt;&lt;code&gt;funkin.vis&lt;/code&gt; is a haxelib for processing audio data into frequency data using FFT&#39;s, created for Friday Night Funkin&#39; by The Funkin&#39; Crew Inc.&lt;/p&gt; &#xA;&lt;p&gt;On web it uses web browsers&#39; &lt;code&gt;AnalyzerNode&lt;/code&gt;, and on native it uses a Radix-2 FFT algorithm.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;haxelib git funkin.vis https://github.com/FunkinCrew/funkVis&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;todo...&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;LICENSE&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;funkin.vis&lt;/code&gt; is licensed under the MIT license, which can be viewed here: &lt;a href=&#34;https://raw.githubusercontent.com/FunkinCrew/funkVis/main/LICENSE.md&#34;&gt;LICENSE.md&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Attributions&lt;/h3&gt; &#xA;&lt;p&gt;In the &lt;a href=&#34;https://raw.githubusercontent.com/FunkinCrew/funkVis/main/example/assets/music&#34;&gt;&lt;code&gt;example/assets/music&lt;/code&gt;&lt;/a&gt; folder are a handful of songs for demonstration use. Below is the attribution links, and relavent licensing information.&lt;/p&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Musician&lt;/th&gt; &#xA;   &lt;th&gt;Song&lt;/th&gt; &#xA;   &lt;th&gt;License&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://baryiscool.newgrounds.com&#34;&gt;baryiscool&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1294925&#34;&gt;Cat stuck in an elevator&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/legalcode&#34;&gt;CC BY 3.0&lt;/a&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://AlbeGian.newgrounds.com&#34;&gt;AlbeGian&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1286411&#34;&gt;Medley for a Gamer&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/legalcode&#34;&gt;CC BY 3.0&lt;/a&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;!-- Musicians --&gt; &#xA;&lt;!-- Songs --&gt; &#xA;&lt;!-- License --&gt;</summary>
-  </entry>
-  <entry>
-    <title>FunkinCrew/funkin.art</title>
-    <updated>2024-05-11T01:28:36Z</updated>
-    <id>tag:github.com,2024-05-11:/FunkinCrew/funkin.art</id>
-    <link href="https://github.com/FunkinCrew/funkin.art" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Funkin&#39; Art&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains raw art project files used in the development of Friday Night Funkin&#39;.&lt;/p&gt; &#xA;&lt;p&gt;Note that this repository and its contents are subject to different licensing from those imposed by the base repository. See &lt;a href=&#34;https://raw.githubusercontent.com/FunkinCrew/funkin.art/main/LICENSE.md&#34;&gt;the LICENSE file&lt;/a&gt; for more information.&lt;/p&gt;</summary>
-  </entry>
 </feed>

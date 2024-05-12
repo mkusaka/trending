@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-11T01:26:31Z</updated>
+  <updated>2024-05-12T01:30:39Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SMEWebify/WebErpMesv2</title>
-    <updated>2024-05-11T01:26:31Z</updated>
-    <id>tag:github.com,2024-05-11:/SMEWebify/WebErpMesv2</id>
-    <link href="https://github.com/SMEWebify/WebErpMesv2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ressource Management and Manufacturing execution system Web for industry (sheet metal, machining, mold ...)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

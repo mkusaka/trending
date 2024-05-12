@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-11T01:32:18Z</updated>
+  <updated>2024-05-12T01:36:27Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Analog-Labs/analog-gmp</title>
-    <updated>2024-05-11T01:32:18Z</updated>
-    <id>tag:github.com,2024-05-11:/Analog-Labs/analog-gmp</id>
-    <link href="https://github.com/Analog-Labs/analog-gmp" rel="alternate"></link>
+    <title>bgd-labs/solidity-utils</title>
+    <updated>2024-05-12T01:36:27Z</updated>
+    <id>tag:github.com,2024-05-12:/bgd-labs/solidity-utils</id>
+    <link href="https://github.com/bgd-labs/solidity-utils" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

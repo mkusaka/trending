@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-12T01:44:04Z</updated>
+  <subtitle>Weekly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pybind/pybind11_bazel</title>
+    <updated>2024-05-12T01:44:04Z</updated>
+    <id>tag:github.com,2024-05-12:/pybind/pybind11_bazel</id>
+    <link href="https://github.com/pybind/pybind11_bazel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel wrapper around the pybind11 repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

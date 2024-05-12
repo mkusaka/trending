@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-11T01:32:29Z</updated>
+  <updated>2024-05-12T01:36:37Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>open-meteo/open-meteo-website</title>
-    <updated>2024-05-11T01:32:29Z</updated>
-    <id>tag:github.com,2024-05-11:/open-meteo/open-meteo-website</id>
-    <link href="https://github.com/open-meteo/open-meteo-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-meteo.com website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nburmi/doc2plan</title>
+    <updated>2024-05-12T01:36:37Z</updated>
+    <id>tag:github.com,2024-05-12:/nburmi/doc2plan</id>
+    <link href="https://github.com/nburmi/doc2plan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Transform your book into structured learning plan.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Materialious/Materialious</title>
-    <updated>2024-05-11T01:32:29Z</updated>
-    <id>tag:github.com,2024-05-11:/Materialious/Materialious</id>
-    <link href="https://github.com/Materialious/Materialious" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern material design for Invidious.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dagmawibabi/TelegramCommunityGallery</title>
+    <updated>2024-05-12T01:36:37Z</updated>
+    <id>tag:github.com,2024-05-12:/dagmawibabi/TelegramCommunityGallery</id>
+    <link href="https://github.com/dagmawibabi/TelegramCommunityGallery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

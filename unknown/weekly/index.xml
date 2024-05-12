@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-12T01:37:38Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CodingChallengesFYI/SharedSolutions</title>
+    <updated>2024-05-12T01:37:38Z</updated>
+    <id>tag:github.com,2024-05-12:/CodingChallengesFYI/SharedSolutions</id>
+    <link href="https://github.com/CodingChallengesFYI/SharedSolutions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Publicly shared solutions to Coding Challenges&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bpc-clone/bypass-paywalls-chrome-clean</title>
+    <updated>2024-05-12T01:37:38Z</updated>
+    <id>tag:github.com,2024-05-12:/bpc-clone/bypass-paywalls-chrome-clean</id>
+    <link href="https://github.com/bpc-clone/bypass-paywalls-chrome-clean" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elicit/machine-learning-list</title>
+    <updated>2024-05-12T01:37:38Z</updated>
+    <id>tag:github.com,2024-05-12:/elicit/machine-learning-list</id>
+    <link href="https://github.com/elicit/machine-learning-list" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curriculum for learning about foundation models, from scratch to the frontier&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

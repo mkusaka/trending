@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-11T01:30:40Z</updated>
+  <updated>2024-05-12T01:34:53Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>shanzhashu/shanzhashu</title>
-    <updated>2024-05-11T01:30:40Z</updated>
-    <id>tag:github.com,2024-05-11:/shanzhashu/shanzhashu</id>
-    <link href="https://github.com/shanzhashu/shanzhashu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NIKJOO/PEP</title>
+    <updated>2024-05-12T01:34:53Z</updated>
+    <id>tag:github.com,2024-05-12:/NIKJOO/PEP</id>
+    <link href="https://github.com/NIKJOO/PEP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Private exe protector&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
