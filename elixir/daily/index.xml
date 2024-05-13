@@ -4,11 +4,4 @@
   <updated>2024-05-12T01:31:59Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ash-project/ash_sqlite</title>
-    <updated>2024-05-12T01:31:59Z</updated>
-    <id>tag:github.com,2024-05-12:/ash-project/ash_sqlite</id>
-    <link href="https://github.com/ash-project/ash_sqlite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The SQLite data layer for Ash Framework.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -4,11 +4,4 @@
   <updated>2024-05-12T01:33:31Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rbSparky/KolmogorovArnoldNetworks.jl</title>
-    <updated>2024-05-12T01:33:31Z</updated>
-    <id>tag:github.com,2024-05-12:/rbSparky/KolmogorovArnoldNetworks.jl</id>
-    <link href="https://github.com/rbSparky/KolmogorovArnoldNetworks.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;KolmogorovArnoldNetworks.jl is a Julia library providing implementations of Kolmogorov-Arnold neural networks&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

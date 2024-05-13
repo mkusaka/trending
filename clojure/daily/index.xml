@@ -4,18 +4,4 @@
   <updated>2024-05-12T01:31:13Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>griffinbank/test.contract</title>
-    <updated>2024-05-12T01:31:13Z</updated>
-    <id>tag:github.com,2024-05-12:/griffinbank/test.contract</id>
-    <link href="https://github.com/griffinbank/test.contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;quickcheck of stateful protocols&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tatut/clj-prolog</title>
-    <updated>2024-05-12T01:31:13Z</updated>
-    <id>tag:github.com,2024-05-12:/tatut/clj-prolog</id>
-    <link href="https://github.com/tatut/clj-prolog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure interface to Prolog&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
