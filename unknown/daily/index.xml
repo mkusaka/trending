@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-12T01:30:06Z</updated>
+  <updated>2024-05-14T01:26:40Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cisagov/vulnrichment</title>
-    <updated>2024-05-12T01:30:06Z</updated>
-    <id>tag:github.com,2024-05-12:/cisagov/vulnrichment</id>
-    <link href="https://github.com/cisagov/vulnrichment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repo to conduct vulnerability enrichment.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>X-LANCE/AniTalker</title>
+    <updated>2024-05-14T01:26:40Z</updated>
+    <id>tag:github.com,2024-05-14:/X-LANCE/AniTalker</id>
+    <link href="https://github.com/X-LANCE/AniTalker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Cry1ngMan/1</title>
-    <updated>2024-05-12T01:30:06Z</updated>
-    <id>tag:github.com,2024-05-12:/Cry1ngMan/1</id>
-    <link href="https://github.com/Cry1ngMan/1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;手机往下滑 ❤️ 定期更新 ❤️ 免费/白嫖/公益/节点/机场/订阅/vpn/翻墙&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>friuns2/BlackFriday-GPTs-Prompts</title>
+    <updated>2024-05-14T01:26:40Z</updated>
+    <id>tag:github.com,2024-05-14:/friuns2/BlackFriday-GPTs-Prompts</id>
+    <link href="https://github.com/friuns2/BlackFriday-GPTs-Prompts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of free GPTs that doesn&#39;t require plus subscription&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AI-Guru/xlstm-resources</title>
-    <updated>2024-05-12T01:30:06Z</updated>
-    <id>tag:github.com,2024-05-12:/AI-Guru/xlstm-resources</id>
-    <link href="https://github.com/AI-Guru/xlstm-resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Resources about xLSTM by Sepp Hochreiter&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elder-plinius/L1B3RT45</title>
+    <updated>2024-05-14T01:26:40Z</updated>
+    <id>tag:github.com,2024-05-14:/elder-plinius/L1B3RT45</id>
+    <link href="https://github.com/elder-plinius/L1B3RT45" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;J41LBR34K PR0MPT5&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

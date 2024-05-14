@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Crystal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-12T01:31:22Z</updated>
+  <updated>2024-05-14T01:27:52Z</updated>
   <subtitle>Daily Trending of Crystal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cloudamqp/amqproxy</title>
+    <updated>2024-05-14T01:27:52Z</updated>
+    <id>tag:github.com,2024-05-14:/cloudamqp/amqproxy</id>
+    <link href="https://github.com/cloudamqp/amqproxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An intelligent AMQP proxy, with connection and channel pooling/reusing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

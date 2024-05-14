@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-12T01:32:48Z</updated>
+  <updated>2024-05-14T01:29:22Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cloudposse/terraform-aws-vpc-flow-logs-s3-bucket</title>
+    <updated>2024-05-14T01:29:22Z</updated>
+    <id>tag:github.com,2024-05-14:/cloudposse/terraform-aws-vpc-flow-logs-s3-bucket</id>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-flow-logs-s3-bucket" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision s3-backed flow logs for VPC and subnets&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GoogleCloudPlatform/terraform-google-artifact-registry</title>
+    <updated>2024-05-14T01:29:22Z</updated>
+    <id>tag:github.com,2024-05-14:/GoogleCloudPlatform/terraform-google-artifact-registry</id>
+    <link href="https://github.com/GoogleCloudPlatform/terraform-google-artifact-registry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create and manage Artifact Registry repositories&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

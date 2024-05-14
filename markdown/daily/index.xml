@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-12T01:34:03Z</updated>
+  <updated>2024-05-14T01:30:27Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zhaoshenzhai/mathwiki</title>
+    <updated>2024-05-14T01:30:27Z</updated>
+    <id>tag:github.com,2024-05-14:/zhaoshenzhai/mathwiki</id>
+    <link href="https://github.com/zhaoshenzhai/mathwiki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Obsidian.md vault for my math course notes in university.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
