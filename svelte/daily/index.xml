@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-14T01:33:00Z</updated>
+  <updated>2024-05-15T09:03:46Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>valiantlynx/svelte-manga</title>
-    <updated>2024-05-14T01:33:00Z</updated>
-    <id>tag:github.com,2024-05-14:/valiantlynx/svelte-manga</id>
-    <link href="https://github.com/valiantlynx/svelte-manga" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Read the latest manga online for free at https://www.ghostscans.com, update fastest, most full, synthesized 24h free with high-quality images and be the first one to publish new chapters.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zakkor/lluminous</title>
+    <updated>2024-05-15T09:03:46Z</updated>
+    <id>tag:github.com,2024-05-15:/zakkor/lluminous</id>
+    <link href="https://github.com/zakkor/lluminous" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>t1da/t-pausemenu</title>
+    <updated>2024-05-15T09:03:46Z</updated>
+    <id>tag:github.com,2024-05-15:/t1da/t-pausemenu</id>
+    <link href="https://github.com/t1da/t-pausemenu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🗺️ Pause Menu&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

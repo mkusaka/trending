@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-14T01:32:34Z</updated>
+  <updated>2024-05-15T09:03:19Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>m-Mons/MittaUI</title>
-    <updated>2024-05-14T01:32:34Z</updated>
-    <id>tag:github.com,2024-05-14:/m-Mons/MittaUI</id>
-    <link href="https://github.com/m-Mons/MittaUI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RJ-06/PTGReversal</title>
-    <updated>2024-05-14T01:32:34Z</updated>
-    <id>tag:github.com,2024-05-14:/RJ-06/PTGReversal</id>
-    <link href="https://github.com/RJ-06/PTGReversal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a reverse pass the game - everyone works at once, no communicating&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

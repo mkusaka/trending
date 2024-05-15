@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-14T01:27:40Z</updated>
+  <updated>2024-05-15T08:58:32Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>howie-serious/feynman_OS</title>
-    <updated>2024-05-14T01:27:40Z</updated>
-    <id>tag:github.com,2024-05-14:/howie-serious/feynman_OS</id>
-    <link href="https://github.com/howie-serious/feynman_OS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;这是@howie.serious 的《费曼学习法》在笔记落地环节的示范项目。请直接通过网站体验效果。体验后有兴趣，则通过RELEASES 下载 logseq 模板。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hans/stockr</title>
+    <updated>2024-05-15T08:58:32Z</updated>
+    <id>tag:github.com,2024-05-15:/hans/stockr</id>
+    <link href="https://github.com/hans/stockr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>exercism/clojurescript-test-runner</title>
+    <updated>2024-05-15T08:58:32Z</updated>
+    <id>tag:github.com,2024-05-15:/exercism/clojurescript-test-runner</id>
+    <link href="https://github.com/exercism/clojurescript-test-runner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

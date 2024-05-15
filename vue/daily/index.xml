@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-14T01:33:36Z</updated>
+  <updated>2024-05-15T09:04:25Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Code-Pop/build-trello-clone-with-nuxt-3</title>
-    <updated>2024-05-14T01:33:36Z</updated>
-    <id>tag:github.com,2024-05-14:/Code-Pop/build-trello-clone-with-nuxt-3</id>
-    <link href="https://github.com/Code-Pop/build-trello-clone-with-nuxt-3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code for &#34;Build a Trello Clone with Nuxt 3&#34; by @bencodezen&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AkiChase/scrcpy-mask</title>
+    <updated>2024-05-15T09:04:25Z</updated>
+    <id>tag:github.com,2024-05-15:/AkiChase/scrcpy-mask</id>
+    <link href="https://github.com/AkiChase/scrcpy-mask" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Scrcpy client in Rust &amp; Tarui aimed at providing mouse and key mapping to control Android device, similar to a game emulator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Code-Pop/Touring-Vue-Router-Composition-API</title>
-    <updated>2024-05-14T01:33:36Z</updated>
-    <id>tag:github.com,2024-05-14:/Code-Pop/Touring-Vue-Router-Composition-API</id>
-    <link href="https://github.com/Code-Pop/Touring-Vue-Router-Composition-API" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/everyonecancode</title>
+    <updated>2024-05-15T09:04:25Z</updated>
+    <id>tag:github.com,2024-05-15:/microsoft/everyonecancode</id>
+    <link href="https://github.com/microsoft/everyonecancode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Workshop content for Everyone can Code! - Light your Fire for Coding workshop&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Code-Pop/Real-World-Nuxt-3</title>
-    <updated>2024-05-14T01:33:36Z</updated>
-    <id>tag:github.com,2024-05-14:/Code-Pop/Real-World-Nuxt-3</id>
-    <link href="https://github.com/Code-Pop/Real-World-Nuxt-3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>super-upup/98tang</title>
+    <updated>2024-05-15T09:04:25Z</updated>
+    <id>tag:github.com,2024-05-15:/super-upup/98tang</id>
+    <link href="https://github.com/super-upup/98tang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;98tang/98堂/色花堂/sehuatang自动签到/每日签到/升级【2024年2月】&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

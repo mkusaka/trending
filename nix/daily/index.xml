@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-14T01:30:54Z</updated>
+  <updated>2024-05-15T09:01:36Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>WilliButz/preservation</title>
-    <updated>2024-05-14T01:30:54Z</updated>
-    <id>tag:github.com,2024-05-14:/WilliButz/preservation</id>
-    <link href="https://github.com/WilliButz/preservation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix tooling to enable declarative management of non-volatile system state.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>auxolotl/infra</title>
-    <updated>2024-05-14T01:30:54Z</updated>
-    <id>tag:github.com,2024-05-14:/auxolotl/infra</id>
-    <link href="https://github.com/auxolotl/infra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Infrastructure for Auxolotl&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

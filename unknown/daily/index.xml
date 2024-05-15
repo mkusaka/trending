@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-14T01:26:40Z</updated>
+  <updated>2024-05-15T08:57:36Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>X-LANCE/AniTalker</title>
-    <updated>2024-05-14T01:26:40Z</updated>
-    <id>tag:github.com,2024-05-14:/X-LANCE/AniTalker</id>
-    <link href="https://github.com/X-LANCE/AniTalker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>theokwebb/C-from-Scratch</title>
+    <updated>2024-05-15T08:57:36Z</updated>
+    <id>tag:github.com,2024-05-15:/theokwebb/C-from-Scratch</id>
+    <link href="https://github.com/theokwebb/C-from-Scratch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A roadmap to learn C from Scratch&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>friuns2/BlackFriday-GPTs-Prompts</title>
-    <updated>2024-05-14T01:26:40Z</updated>
-    <id>tag:github.com,2024-05-14:/friuns2/BlackFriday-GPTs-Prompts</id>
-    <link href="https://github.com/friuns2/BlackFriday-GPTs-Prompts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of free GPTs that doesn&#39;t require plus subscription&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>01-ai/Yi-1.5</title>
+    <updated>2024-05-15T08:57:36Z</updated>
+    <id>tag:github.com,2024-05-15:/01-ai/Yi-1.5</id>
+    <link href="https://github.com/01-ai/Yi-1.5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yi-1.5 is an upgraded version of Yi, delivering stronger performance in coding, math, reasoning, and instruction-following capability.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elder-plinius/L1B3RT45</title>
-    <updated>2024-05-14T01:26:40Z</updated>
-    <id>tag:github.com,2024-05-14:/elder-plinius/L1B3RT45</id>
-    <link href="https://github.com/elder-plinius/L1B3RT45" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;J41LBR34K PR0MPT5&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shubham-gangpuri/Android-Interview-Questions</title>
+    <updated>2024-05-15T08:57:36Z</updated>
+    <id>tag:github.com,2024-05-15:/shubham-gangpuri/Android-Interview-Questions</id>
+    <link href="https://github.com/shubham-gangpuri/Android-Interview-Questions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Android / Koltin / Java questions or topics for android developer interviews&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

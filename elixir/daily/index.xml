@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-14T01:28:32Z</updated>
+  <updated>2024-05-15T08:59:19Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mimiquate/blend</title>
-    <updated>2024-05-14T01:28:32Z</updated>
-    <id>tag:github.com,2024-05-14:/mimiquate/blend</id>
-    <link href="https://github.com/mimiquate/blend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🥣 Test your package against different versions of its dependencies&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kzemek/es6_maps</title>
+    <updated>2024-05-15T08:59:19Z</updated>
+    <id>tag:github.com,2024-05-15:/kzemek/es6_maps</id>
+    <link href="https://github.com/kzemek/es6_maps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ES6-like shorthand syntax for Elixir maps: `%{foo, bar} = map; IO.puts(foo)`&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fly-apps/wps</title>
-    <updated>2024-05-14T01:28:32Z</updated>
-    <id>tag:github.com,2024-05-14:/fly-apps/wps</id>
-    <link href="https://github.com/fly-apps/wps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;World Page Speed&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Hentioe/honeycomb</title>
+    <updated>2024-05-15T08:59:19Z</updated>
+    <id>tag:github.com,2024-05-15:/Hentioe/honeycomb</id>
+    <link href="https://github.com/Hentioe/honeycomb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Another scheduling system, focusing on the collection of results for one-time tasks, written in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

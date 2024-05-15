@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-14T01:28:39Z</updated>
+  <updated>2024-05-15T08:59:25Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fslaborg/TensorMath</title>
-    <updated>2024-05-14T01:28:39Z</updated>
-    <id>tag:github.com,2024-05-14:/fslaborg/TensorMath</id>
-    <link href="https://github.com/fslaborg/TensorMath" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TensorMath&lt;/h1&gt;</summary>
-  </entry>
 </feed>

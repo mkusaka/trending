@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-14T01:28:59Z</updated>
+  <updated>2024-05-15T08:59:44Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>IVAO-XU/EW-Sector-File</title>
-    <updated>2024-05-14T01:28:59Z</updated>
-    <id>tag:github.com,2024-05-14:/IVAO-XU/EW-Sector-File</id>
-    <link href="https://github.com/IVAO-XU/EW-Sector-File" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;XU MCD: British Overseas Territories Sector File&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

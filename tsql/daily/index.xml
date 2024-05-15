@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-14T01:33:18Z</updated>
+  <updated>2024-05-15T09:04:09Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sdw-online/top_uk_youtubers_2024</title>
-    <updated>2024-05-14T01:33:18Z</updated>
-    <id>tag:github.com,2024-05-14:/sdw-online/top_uk_youtubers_2024</id>
-    <link href="https://github.com/sdw-online/top_uk_youtubers_2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sevryukov/UDF-optimization</title>
+    <updated>2024-05-15T09:04:09Z</updated>
+    <id>tag:github.com,2024-05-15:/sevryukov/UDF-optimization</id>
+    <link href="https://github.com/sevryukov/UDF-optimization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Задание к курсу Оптимизация БД&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
