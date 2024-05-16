@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-15T09:00:40Z</updated>
+  <updated>2024-05-16T01:30:02Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jverzani/DThree.jl</title>
-    <updated>2024-05-15T09:00:40Z</updated>
-    <id>tag:github.com,2024-05-15:/jverzani/DThree.jl</id>
-    <link href="https://github.com/jverzani/DThree.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple interface to d3.js from Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

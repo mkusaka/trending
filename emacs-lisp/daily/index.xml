@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-15T08:59:21Z</updated>
+  <updated>2024-05-16T01:28:43Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ichernyshovvv/light-dashboard</title>
+    <updated>2024-05-16T01:28:43Z</updated>
+    <id>tag:github.com,2024-05-16:/ichernyshovvv/light-dashboard</id>
+    <link href="https://github.com/ichernyshovvv/light-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple dashboard package that may be used as a startup screen in Emacs.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;code&gt;light-dashboard&lt;/code&gt;&lt;/h1&gt; &#xA;&lt;p&gt;A simple dashboard package that may be used as a startup screen in Emacs.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ichernyshovvv/light-dashboard/master/demo.gif&#34; alt=&#34;Demo&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installation and configuration&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;(use-package light-dashboard&#xA;  :init&#xA;  (unless (package-installed-p &#39;light-dashboard)&#xA;    (package-vc-install&#xA;     &#39;(light-dashboard&#xA;       :vc-backend Git&#xA;       :url &#34;https://github.com/ichernyshovvv/light-dashboard&#34;&#xA;       :branch &#34;master&#34;)))&#xA;  :custom&#xA;  (light-dashboard-alist&#xA;   &#39;((&#34;Org Mode&#34;&#xA;      (&#34;Org-Agenda (current day)&#34; (org-agenda nil &#34;a&#34;) &#34;a&#34;)&#xA;      (&#34;Recipes&#34; (find-file &#34;/org/recipes.org&#34;))&#xA;      (&#34;Inbox&#34; (find-file &#34;/org/inbox.org&#34;) &#34;i&#34;))&#xA;     (&#34;Downloads&#34; (&#34;Transmission&#34; transmission &#34;t&#34;))&#xA;     (&#34;Current Projects&#34;&#xA;      (&#34;org-timeblock&#34; (dired &#34;~/.my-emacs-packages.d/active/org-timeblock/&#34;) &#34;o&#34;)&#xA;      (&#34;chloe&#34; (dired &#34;~/.my-emacs-packages.d/active/chloe/&#34;) &#34;x&#34;))))&#xA;  :config&#xA;  (light-dashboard-open))&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;M-x light-dashboard-open&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Thanks to @a13 and @progfolio for code review.&lt;/p&gt;</summary>
+  </entry>
 </feed>

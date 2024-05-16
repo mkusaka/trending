@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-15T08:58:03Z</updated>
+  <updated>2024-05-16T01:27:29Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/APICenter-Analyzer</title>
+    <updated>2024-05-16T01:27:29Z</updated>
+    <id>tag:github.com,2024-05-16:/Azure/APICenter-Analyzer</id>
+    <link href="https://github.com/Azure/APICenter-Analyzer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Analyze your API Specs with Azure API Center (Preview)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

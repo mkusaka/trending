@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-15T09:03:46Z</updated>
+  <updated>2024-05-16T01:33:05Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zakkor/lluminous</title>
-    <updated>2024-05-15T09:03:46Z</updated>
-    <id>tag:github.com,2024-05-15:/zakkor/lluminous</id>
-    <link href="https://github.com/zakkor/lluminous" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>t1da/t-pausemenu</title>
-    <updated>2024-05-15T09:03:46Z</updated>
-    <id>tag:github.com,2024-05-15:/t1da/t-pausemenu</id>
-    <link href="https://github.com/t1da/t-pausemenu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🗺️ Pause Menu&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cowboycodr/KianKit</title>
+    <updated>2024-05-16T01:33:05Z</updated>
+    <id>tag:github.com,2024-05-16:/cowboycodr/KianKit</id>
+    <link href="https://github.com/cowboycodr/KianKit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SvelteKit + Supabase starter kit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

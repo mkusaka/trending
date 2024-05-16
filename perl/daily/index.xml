@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-15T09:02:03Z</updated>
+  <updated>2024-05-16T01:31:24Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>frankiejol/snortban</title>
+    <updated>2024-05-16T01:31:24Z</updated>
+    <id>tag:github.com,2024-05-16:/frankiejol/snortban</id>
+    <link href="https://github.com/frankiejol/snortban" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parses the snort alert log and creates one line logs suitable for fail2ban&lt;/p&gt;&lt;hr&gt;&lt;p&gt;SNORTBAN&lt;/p&gt; &#xA;&lt;p&gt;Parses the snort alert log and creates one line logs suitable for fail2ban.&lt;/p&gt; &#xA;&lt;p&gt;REQUIRES&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;- Perl&#xA;- One Perl module: Proc::PID::File.&#xA;  On Debian, Ubuntu and derivates install it issuing:&#xA;    # apt-get install libproc-pid-file-perl&#xA;- fail2ban&#xA;- snort&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;HOW TO INSTALL&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;- Copy the snortban file to a place suitable, run it from /etc/rc.loca&#xA;  or create a service file.  It must be called with an &#39;&amp;amp;&#39; so it goes to background.&#xA;&#xA;- Add an entry in your logrotate.d/snort file to rotate your alert.ban file.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;USAGE&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;snortban [--debug] [--logfile=/var/log/snort/alert] [--banfile=/var/log/snort/alert.ban] &amp;amp;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;USING FROM fail2ban&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;When running, snortban will log entries to the banfile like this:&#xA;&#xA;Thu Jan 12 09:56:07 2012 [Priority: 3]  1.2.3.4 -&amp;gt; 5.6.7.8 [**] [122:3:0] (portscan) TCP Portsweep [**]&#xA;&#xA;Filters must be created in fail2ban to check it. Two examples are in this&#xA;package: snortp1.conf and snortp2.conf. Those fails should be in &#xA;/etc/fail2ban/filter.d/&#xA;Add this to your jail.conf file so the rules are used:&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;[snortp1] enabled = true port = 22 banaction= iptables-allports filter = snort_p1 maxretry = 1 logpath = /var/log/snort/alert.ban&lt;/p&gt; &#xA;&lt;p&gt;[snortp2] enabled = true port = 22 banaction= iptables-allports filter = snort_p2 maxretry = 10 logpath = /var/log/snort/alert.ban&lt;/p&gt; &#xA;&lt;p&gt;LICENSE&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;GNU GENERAL PUBLIC LICENSE Version 3&#xA;http://www.gnu.org/licenses/gpl.html&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;AUTHOR&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Francesc Guasch -  frankie  etsetb upc edu&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

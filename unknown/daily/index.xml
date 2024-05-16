@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-15T08:57:36Z</updated>
+  <updated>2024-05-16T01:27:00Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>theokwebb/C-from-Scratch</title>
-    <updated>2024-05-15T08:57:36Z</updated>
-    <id>tag:github.com,2024-05-15:/theokwebb/C-from-Scratch</id>
-    <link href="https://github.com/theokwebb/C-from-Scratch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A roadmap to learn C from Scratch&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bobeff/open-source-games</title>
+    <updated>2024-05-16T01:27:00Z</updated>
+    <id>tag:github.com,2024-05-16:/bobeff/open-source-games</id>
+    <link href="https://github.com/bobeff/open-source-games" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of open source games.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>01-ai/Yi-1.5</title>
-    <updated>2024-05-15T08:57:36Z</updated>
-    <id>tag:github.com,2024-05-15:/01-ai/Yi-1.5</id>
-    <link href="https://github.com/01-ai/Yi-1.5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yi-1.5 is an upgraded version of Yi, delivering stronger performance in coding, math, reasoning, and instruction-following capability.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terrakok/kmp-awesome</title>
+    <updated>2024-05-16T01:27:00Z</updated>
+    <id>tag:github.com,2024-05-16:/terrakok/kmp-awesome</id>
+    <link href="https://github.com/terrakok/kmp-awesome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>shubham-gangpuri/Android-Interview-Questions</title>
-    <updated>2024-05-15T08:57:36Z</updated>
-    <id>tag:github.com,2024-05-15:/shubham-gangpuri/Android-Interview-Questions</id>
-    <link href="https://github.com/shubham-gangpuri/Android-Interview-Questions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Android / Koltin / Java questions or topics for android developer interviews&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GigaAI-research/General-World-Models-Survey</title>
+    <updated>2024-05-16T01:27:00Z</updated>
+    <id>tag:github.com,2024-05-16:/GigaAI-research/General-World-Models-Survey</id>
+    <link href="https://github.com/GigaAI-research/General-World-Models-Survey" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

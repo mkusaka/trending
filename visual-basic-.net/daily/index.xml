@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-15T09:04:24Z</updated>
+  <updated>2024-05-16T01:33:45Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TasneemDuridi/TasneemDuridi</title>
-    <updated>2024-05-15T09:04:24Z</updated>
-    <id>tag:github.com,2024-05-15:/TasneemDuridi/TasneemDuridi</id>
-    <link href="https://github.com/TasneemDuridi/TasneemDuridi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Welcome To cloud&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

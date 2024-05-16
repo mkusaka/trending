@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-15T08:57:55Z</updated>
+  <updated>2024-05-16T01:27:20Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ilmenit/sizecoding</title>
-    <updated>2024-05-15T08:57:55Z</updated>
-    <id>tag:github.com,2024-05-15:/ilmenit/sizecoding</id>
-    <link href="https://github.com/ilmenit/sizecoding" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;repo of my sizecoding entries&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ruke1ire/RTF</title>
+    <updated>2024-05-16T01:27:20Z</updated>
+    <id>tag:github.com,2024-05-16:/ruke1ire/RTF</id>
+    <link href="https://github.com/ruke1ire/RTF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A State-Space Model with Rational Transfer Function Representation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>santiontanon/westen-ex</title>
-    <updated>2024-05-15T08:57:55Z</updated>
-    <id>tag:github.com,2024-05-15:/santiontanon/westen-ex</id>
-    <link href="https://github.com/santiontanon/westen-ex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Westen House EX (MSX)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blondie7575/ChoplifterReverse</title>
+    <updated>2024-05-16T01:27:20Z</updated>
+    <id>tag:github.com,2024-05-16:/blondie7575/ChoplifterReverse</id>
+    <link href="https://github.com/blondie7575/ChoplifterReverse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A full reverse engineer of Choplifter, the Apple II game written by Dan Gorlin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

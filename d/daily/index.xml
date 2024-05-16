@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-15T08:58:51Z</updated>
+  <updated>2024-05-16T01:28:15Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>trikko/etichetta</title>
+    <updated>2024-05-16T01:28:15Z</updated>
+    <id>tag:github.com,2024-05-16:/trikko/etichetta</id>
+    <link href="https://github.com/trikko/etichetta" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A YOLO annotator, for human beings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dymk/temple</title>
+    <updated>2024-05-16T01:28:15Z</updated>
+    <id>tag:github.com,2024-05-16:/dymk/temple</id>
+    <link href="https://github.com/dymk/temple" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compile Time Embedded Template Parser/Generator for D&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-15T09:04:25Z</updated>
+  <updated>2024-05-16T01:33:46Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AkiChase/scrcpy-mask</title>
-    <updated>2024-05-15T09:04:25Z</updated>
-    <id>tag:github.com,2024-05-15:/AkiChase/scrcpy-mask</id>
-    <link href="https://github.com/AkiChase/scrcpy-mask" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Scrcpy client in Rust &amp; Tarui aimed at providing mouse and key mapping to control Android device, similar to a game emulator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>microsoft/everyonecancode</title>
-    <updated>2024-05-15T09:04:25Z</updated>
-    <id>tag:github.com,2024-05-15:/microsoft/everyonecancode</id>
-    <link href="https://github.com/microsoft/everyonecancode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Workshop content for Everyone can Code! - Light your Fire for Coding workshop&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>super-upup/98tang</title>
-    <updated>2024-05-15T09:04:25Z</updated>
-    <id>tag:github.com,2024-05-15:/super-upup/98tang</id>
-    <link href="https://github.com/super-upup/98tang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;98tang/98堂/色花堂/sehuatang自动签到/每日签到/升级【2024年2月】&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>disler/omni-complete</title>
+    <updated>2024-05-16T01:33:46Z</updated>
+    <id>tag:github.com,2024-05-16:/disler/omni-complete</id>
+    <link href="https://github.com/disler/omni-complete" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LLM Use Case: LLM Powered, Reusable, Domain Agnostic Autocompletes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
