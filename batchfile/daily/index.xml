@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-16T01:27:27Z</updated>
+  <updated>2024-05-17T01:27:13Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ros-navigation/docs.nav2.org</title>
-    <updated>2024-05-16T01:27:27Z</updated>
-    <id>tag:github.com,2024-05-16:/ros-navigation/docs.nav2.org</id>
-    <link href="https://github.com/ros-navigation/docs.nav2.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;https://docs.nav2.org/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tennessene/LockBit</title>
+    <updated>2024-05-17T01:27:13Z</updated>
+    <id>tag:github.com,2024-05-17:/Tennessene/LockBit</id>
+    <link href="https://github.com/Tennessene/LockBit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The LockBit builder files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>adavak/Win_ISO_Patching_Scripts</title>
+    <updated>2024-05-17T01:27:13Z</updated>
+    <id>tag:github.com,2024-05-17:/adavak/Win_ISO_Patching_Scripts</id>
+    <link href="https://github.com/adavak/Win_ISO_Patching_Scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Win_ISO_Patching_Scripts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-16T01:27:08Z</updated>
+  <updated>2024-05-17T01:26:55Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kanon1109/particles</title>
-    <updated>2024-05-16T01:27:08Z</updated>
-    <id>tag:github.com,2024-05-16:/kanon1109/particles</id>
-    <link href="https://github.com/kanon1109/particles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a base of particles engine 简单粒子引擎&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Jesse-DInG/ImageDetector</title>
+    <updated>2024-05-17T01:26:55Z</updated>
+    <id>tag:github.com,2024-05-17:/Jesse-DInG/ImageDetector</id>
+    <link href="https://github.com/Jesse-DInG/ImageDetector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a lib that can recognize pic based on lbp&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

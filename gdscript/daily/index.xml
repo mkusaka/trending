@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-16T01:28:59Z</updated>
+  <updated>2024-05-17T01:28:54Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Zorochase/ultimate-retro-shader-collection</title>
-    <updated>2024-05-16T01:28:59Z</updated>
-    <id>tag:github.com,2024-05-16:/Zorochase/ultimate-retro-shader-collection</id>
-    <link href="https://github.com/Zorochase/ultimate-retro-shader-collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shaders designed to replicate the graphical style of the PlayStation and Nintendo 64.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fstxz/scene_tools</title>
+    <updated>2024-05-17T01:28:54Z</updated>
+    <id>tag:github.com,2024-05-17:/fstxz/scene_tools</id>
+    <link href="https://github.com/fstxz/scene_tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An editor plugin for Godot 4.2+ to help you with designing your levels and quick prototyping. It currently only supports asset placement.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sscovil/godot-input-controller-addon</title>
+    <updated>2024-05-17T01:28:54Z</updated>
+    <id>tag:github.com,2024-05-17:/sscovil/godot-input-controller-addon</id>
+    <link href="https://github.com/sscovil/godot-input-controller-addon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;InputController plugin for the Godot game engine. Easily differentiate between a button tap, double tap, press, long press, and hold for all of your input actions in Godot.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KevinInoCol/Mates-Aplicadas-2024-1</title>
+    <updated>2024-05-17T01:28:54Z</updated>
+    <id>tag:github.com,2024-05-17:/KevinInoCol/Mates-Aplicadas-2024-1</id>
+    <link href="https://github.com/KevinInoCol/Mates-Aplicadas-2024-1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

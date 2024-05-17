@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-16T01:28:28Z</updated>
+  <updated>2024-05-17T01:28:20Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>buggregator/docs</title>
-    <updated>2024-05-16T01:28:28Z</updated>
-    <id>tag:github.com,2024-05-16:/buggregator/docs</id>
-    <link href="https://github.com/buggregator/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Buggregator official documentation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>francoataffarel/PPPwn-Flask</title>
+    <updated>2024-05-17T01:28:20Z</updated>
+    <id>tag:github.com,2024-05-17:/francoataffarel/PPPwn-Flask</id>
+    <link href="https://github.com/francoataffarel/PPPwn-Flask" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;PPPwn-Flask&lt;/p&gt; &#xA;&lt;p&gt;This is a script to setup PPPwn-Flask via webbrowser main focus on router that has hability to create vlan&#39;s&lt;/p&gt; &#xA;&lt;p&gt;Thank for all scene developers!!&lt;/p&gt; &#xA;&lt;p&gt;TOTALY IN DEVELOPMENT!!&lt;/p&gt;</summary>
   </entry>
 </feed>

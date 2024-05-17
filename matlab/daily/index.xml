@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-16T01:30:37Z</updated>
+  <updated>2024-05-17T01:30:42Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Ahlfeldt/MRRH2018-toolkit</title>
-    <updated>2024-05-16T01:30:37Z</updated>
-    <id>tag:github.com,2024-05-16:/Ahlfeldt/MRRH2018-toolkit</id>
-    <link href="https://github.com/Ahlfeldt/MRRH2018-toolkit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Toolkit for quantitative spatial models à la Monte, Redding, Rossi-Hansberg (2018)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

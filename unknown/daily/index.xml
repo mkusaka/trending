@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-16T01:27:00Z</updated>
+  <updated>2024-05-17T01:26:47Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bobeff/open-source-games</title>
-    <updated>2024-05-16T01:27:00Z</updated>
-    <id>tag:github.com,2024-05-16:/bobeff/open-source-games</id>
-    <link href="https://github.com/bobeff/open-source-games" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of open source games.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0x676e67/js-fuck</title>
+    <updated>2024-05-17T01:26:47Z</updated>
+    <id>tag:github.com,2024-05-17:/0x676e67/js-fuck</id>
+    <link href="https://github.com/0x676e67/js-fuck" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;无视ip、账号强开gpt-4o&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terrakok/kmp-awesome</title>
-    <updated>2024-05-16T01:27:00Z</updated>
-    <id>tag:github.com,2024-05-16:/terrakok/kmp-awesome</id>
-    <link href="https://github.com/terrakok/kmp-awesome" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GigaAI-research/General-World-Models-Survey</title>
-    <updated>2024-05-16T01:27:00Z</updated>
-    <id>tag:github.com,2024-05-16:/GigaAI-research/General-World-Models-Survey</id>
-    <link href="https://github.com/GigaAI-research/General-World-Models-Survey" rel="alternate"></link>
+    <title>LayerZero-Labs/sybil-report</title>
+    <updated>2024-05-17T01:26:47Z</updated>
+    <id>tag:github.com,2024-05-17:/LayerZero-Labs/sybil-report</id>
+    <link href="https://github.com/LayerZero-Labs/sybil-report" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>langgptai/wonderful-prompts</title>
+    <updated>2024-05-17T01:26:47Z</updated>
+    <id>tag:github.com,2024-05-17:/langgptai/wonderful-prompts</id>
+    <link href="https://github.com/langgptai/wonderful-prompts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

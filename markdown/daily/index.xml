@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-16T01:30:35Z</updated>
+  <updated>2024-05-17T01:30:39Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NotAShelf/ZenVer</title>
-    <updated>2024-05-16T01:30:35Z</updated>
-    <id>tag:github.com,2024-05-16:/NotAShelf/ZenVer</id>
-    <link href="https://github.com/NotAShelf/ZenVer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A post-modern versioning scheme that does not suck.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

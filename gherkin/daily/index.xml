@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-16T01:29:03Z</updated>
+  <updated>2024-05-17T01:28:58Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mdsol/dice_bag</title>
-    <updated>2024-05-16T01:29:03Z</updated>
-    <id>tag:github.com,2024-05-16:/mdsol/dice_bag</id>
-    <link href="https://github.com/mdsol/dice_bag" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DiceBag is a library of rake tasks for configuring web apps in the style of The Twelve-Factor App.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

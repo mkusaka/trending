@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-16T01:30:59Z</updated>
+  <updated>2024-05-17T01:31:05Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ryan4yin/nixos-rk3588</title>
+    <updated>2024-05-17T01:31:05Z</updated>
+    <id>tag:github.com,2024-05-17:/ryan4yin/nixos-rk3588</id>
+    <link href="https://github.com/ryan4yin/nixos-rk3588" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimal NixOS running on RK3588/RK3588s based SBC(Orange Pi 5 Plus, Orange Pi 5, Rock 5A, etc)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Weathercold/nixfiles</title>
+    <updated>2024-05-17T01:31:05Z</updated>
+    <id>tag:github.com,2024-05-17:/Weathercold/nixfiles</id>
+    <link href="https://github.com/Weathercold/nixfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dotfiles powered by Nix™ (plus package overlay)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

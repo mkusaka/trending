@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-16T01:28:12Z</updated>
+  <updated>2024-05-17T01:28:04Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>andylolu2/simpleGEMM</title>
-    <updated>2024-05-16T01:28:12Z</updated>
-    <id>tag:github.com,2024-05-16:/andylolu2/simpleGEMM</id>
-    <link href="https://github.com/andylolu2/simpleGEMM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The simplest but fast implementation of matrix multiplication in CUDA.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HigherOrderCO/HVM</title>
+    <updated>2024-05-17T01:28:04Z</updated>
+    <id>tag:github.com,2024-05-17:/HigherOrderCO/HVM</id>
+    <link href="https://github.com/HigherOrderCO/HVM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A massively parallel, optimal functional runtime in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
