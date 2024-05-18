@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-17T01:28:04Z</updated>
+  <updated>2024-05-18T01:27:49Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HigherOrderCO/HVM</title>
-    <updated>2024-05-17T01:28:04Z</updated>
-    <id>tag:github.com,2024-05-17:/HigherOrderCO/HVM</id>
-    <link href="https://github.com/HigherOrderCO/HVM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A massively parallel, optimal functional runtime in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>QINZHAOYU/CudaSteps</title>
+    <updated>2024-05-18T01:27:49Z</updated>
+    <id>tag:github.com,2024-05-18:/QINZHAOYU/CudaSteps</id>
+    <link href="https://github.com/QINZHAOYU/CudaSteps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于《cuda编程-基础与实践》（樊哲勇 著）的cuda学习之路。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IST-DASLab/Sparse-Marlin</title>
+    <updated>2024-05-18T01:27:49Z</updated>
+    <id>tag:github.com,2024-05-18:/IST-DASLab/Sparse-Marlin</id>
+    <link href="https://github.com/IST-DASLab/Sparse-Marlin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

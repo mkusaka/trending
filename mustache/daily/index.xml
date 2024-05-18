@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-17T01:30:57Z</updated>
+  <updated>2024-05-18T01:30:38Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Consensys/quorum-kubernetes</title>
+    <updated>2024-05-18T01:30:38Z</updated>
+    <id>tag:github.com,2024-05-18:/Consensys/quorum-kubernetes</id>
+    <link href="https://github.com/Consensys/quorum-kubernetes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for Hyperledger Besu and GoQuorum&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sonatype/nxrm3-ha-repository</title>
+    <updated>2024-05-18T01:30:38Z</updated>
+    <id>tag:github.com,2024-05-18:/sonatype/nxrm3-ha-repository</id>
+    <link href="https://github.com/sonatype/nxrm3-ha-repository" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for YAML configuration files for Nexus Repository Manager High Availability Feature&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nginxinc/nginx-ingress-helm-operator</title>
+    <updated>2024-05-18T01:30:38Z</updated>
+    <id>tag:github.com,2024-05-18:/nginxinc/nginx-ingress-helm-operator</id>
+    <link href="https://github.com/nginxinc/nginx-ingress-helm-operator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NGINX Ingress Operator for NGINX and NGINX Plus Ingress Controllers. Based on the Helm chart for NGINX Ingress Controller - https://github.com/nginxinc/helm-charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

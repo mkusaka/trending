@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-17T01:32:59Z</updated>
+  <updated>2024-05-18T01:32:43Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tembo-io/tembo-self-hosted</title>
-    <updated>2024-05-17T01:32:59Z</updated>
-    <id>tag:github.com,2024-05-17:/tembo-io/tembo-self-hosted</id>
-    <link href="https://github.com/tembo-io/tembo-self-hosted" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm chart for Tembo Self Hosted&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ciwomun/hdcvf</title>
+    <updated>2024-05-18T01:32:43Z</updated>
+    <id>tag:github.com,2024-05-18:/ciwomun/hdcvf</id>
+    <link href="https://github.com/ciwomun/hdcvf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>opea-project/GenAIInfra</title>
+    <updated>2024-05-18T01:32:43Z</updated>
+    <id>tag:github.com,2024-05-18:/opea-project/GenAIInfra</id>
+    <link href="https://github.com/opea-project/GenAIInfra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Containerization and cloud native suite for OPEA&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

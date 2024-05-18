@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-17T01:27:59Z</updated>
+  <updated>2024-05-18T01:27:45Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>itscodenation/int-u5l2-23-24-student-exercises</title>
-    <updated>2024-05-17T01:27:59Z</updated>
-    <id>tag:github.com,2024-05-17:/itscodenation/int-u5l2-23-24-student-exercises</id>
-    <link href="https://github.com/itscodenation/int-u5l2-23-24-student-exercises" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lesson 5.2: Array Methods &amp;amp; Properties&lt;/h1&gt; &#xA;&lt;h2&gt;Overview&lt;/h2&gt; &#xA;&lt;p&gt;Arrays in JavaScript are used to store multiple values in a single variable. They are a fundamental aspect of managing collections of data.&lt;/p&gt; &#xA;&lt;h2&gt;Array Properties&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;Length&lt;/strong&gt;: Determines the number of elements in an array. &lt;pre&gt;&lt;code class=&#34;language-javascript&#34;&gt;const arr = [1, 2, 3];&#xA;console.log(arr.length); // Output: 3&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Manipulating Arrays&lt;/h2&gt; &#xA;&lt;h3&gt;Adding Elements&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;push()&lt;/strong&gt;: Adds one or more elements to the end of an array and returns the new length.&lt;/p&gt; &lt;pre&gt;&lt;code class=&#34;language-javascript&#34;&gt;arr.push(4); // Adds 4 to the end&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;unshift()&lt;/strong&gt;: Adds one or more elements to the beginning of an array and returns the new length.&lt;/p&gt; &lt;pre&gt;&lt;code class=&#34;language-javascript&#34;&gt;arr.unshift(0); // Adds 0 to the start&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Removing Elements&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;pop()&lt;/strong&gt;: Removes the last element from an array and returns that element.&lt;/p&gt; &lt;pre&gt;&lt;code class=&#34;language-javascript&#34;&gt;arr.pop(); // Removes the last element&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;shift()&lt;/strong&gt;: Removes the first element from an array and returns that element.&lt;/p&gt; &lt;pre&gt;&lt;code class=&#34;language-javascript&#34;&gt;arr.shift(); // Removes the first element&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;This guide covers the basics of array manipulation in JavaScript, focusing on commonly used methods and properties. Understanding these will significantly aid in data handling and manipulation tasks in your projects. Practice these methods to become proficient in managing arrays efficiently.&lt;/p&gt; &#xA;&lt;p&gt;Happy coding! 😊&lt;/p&gt;</summary>
+    <title>Balakumarmd/Landing-Page</title>
+    <updated>2024-05-18T01:27:45Z</updated>
+    <id>tag:github.com,2024-05-18:/Balakumarmd/Landing-Page</id>
+    <link href="https://github.com/Balakumarmd/Landing-Page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>paregorios/srp-boilerplate</title>
-    <updated>2024-05-17T01:27:59Z</updated>
-    <id>tag:github.com,2024-05-17:/paregorios/srp-boilerplate</id>
-    <link href="https://github.com/paregorios/srp-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Boilerplate for the Syriac Reference Portal (built on HTML5 Boilerplate and Twitter Bootstrap via Initializr)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Boilerplate for Syriac Reference Portal (SRP) Digital Publications&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains website boilerplate for digital publications to be created by the Syriac Reference Portal (SRP) project (&lt;a href=&#34;http://syriaca.org&#34;&gt;http://syriaca.org&lt;/a&gt;).&lt;/p&gt; &#xA;&lt;p&gt;It is customized from an HTML5 Boilerplate + Twitter Bootstrap template, created via &lt;a href=&#34;http://www.initializr.com/&#34;&gt;http://www.initializr.com/&lt;/a&gt; on 16 May 2014.&lt;/p&gt; &#xA;&lt;p&gt;Bootstrap is licensed under the terms of the Apache License v2.0 &lt;a href=&#34;http://www.apache.org/licenses/LICENSE-2.0&#34;&gt;http://www.apache.org/licenses/LICENSE-2.0&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;HTML 5 Boilerplate is licensed under the MIT License.&lt;/p&gt; &#xA;&lt;p&gt;The distro via Initializr did not come with license or copyright files, but some of the relevant source files contain copyright and credit and license assertions and links. Those interested in what we have changed and adapted should, for the time being, consult the commit history in the git repos at &lt;a href=&#34;https://github.com/paregorios/srp-boilerplate&#34;&gt;https://github.com/paregorios/srp-boilerplate&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Todo:&lt;/h2&gt; &#xA;&lt;p&gt;Add copyright and license statements to files that don&#39;t have them (this implies deciding how we will license our content in a way that is compatible in both spirit and letter with the terms of the Apache 2.0 and MIT licenses ... which may not be easy since we are not a lawyer).&lt;/p&gt;</summary>
+    <title>pipeops-dev/pipeops-html</title>
+    <updated>2024-05-18T01:27:45Z</updated>
+    <id>tag:github.com,2024-05-18:/pipeops-dev/pipeops-html</id>
+    <link href="https://github.com/pipeops-dev/pipeops-html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PipeOps-HTML-Starterkit&lt;/h1&gt; &#xA;&lt;h3&gt;Get Started&lt;/h3&gt; &#xA;&lt;p&gt;Firstly you need to clone the project&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ git clone &amp;lt;project&amp;gt;&#xA;$ cd &amp;lt;project&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Open index.html&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Harikishore-Official/Landing-Page-</title>
+    <updated>2024-05-18T01:27:45Z</updated>
+    <id>tag:github.com,2024-05-18:/Harikishore-Official/Landing-Page-</id>
+    <link href="https://github.com/Harikishore-Official/Landing-Page-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

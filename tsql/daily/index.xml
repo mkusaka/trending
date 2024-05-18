@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-17T01:33:33Z</updated>
+  <updated>2024-05-18T01:33:15Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sedc-codecademy/mkwd12-net-07-dbdevdesign</title>
-    <updated>2024-05-17T01:33:33Z</updated>
-    <id>tag:github.com,2024-05-17:/sedc-codecademy/mkwd12-net-07-dbdevdesign</id>
-    <link href="https://github.com/sedc-codecademy/mkwd12-net-07-dbdevdesign" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

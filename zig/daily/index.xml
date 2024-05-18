@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-17T01:34:16Z</updated>
+  <updated>2024-05-18T01:33:52Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ZigEmbeddedGroup/sycl-badge</title>
+    <updated>2024-05-18T01:33:52Z</updated>
+    <id>tag:github.com,2024-05-18:/ZigEmbeddedGroup/sycl-badge</id>
+    <link href="https://github.com/ZigEmbeddedGroup/sycl-badge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MicroZig running on the PyBadge! https://badgesim.microzig.tech/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

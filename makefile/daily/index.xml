@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-17T01:30:40Z</updated>
+  <updated>2024-05-18T01:30:21Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>instructlab/dev-docs</title>
-    <updated>2024-05-17T01:30:40Z</updated>
-    <id>tag:github.com,2024-05-17:/instructlab/dev-docs</id>
-    <link href="https://github.com/instructlab/dev-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Design documents that span multiple InstructLab components&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mitjafelicijan/makext</title>
-    <updated>2024-05-17T01:30:40Z</updated>
-    <id>tag:github.com,2024-05-17:/mitjafelicijan/makext</id>
-    <link href="https://github.com/mitjafelicijan/makext" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;QOL Extensions for GNU Make&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cours2k24/build_docker</title>
+    <updated>2024-05-18T01:30:21Z</updated>
+    <id>tag:github.com,2024-05-18:/cours2k24/build_docker</id>
+    <link href="https://github.com/cours2k24/build_docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

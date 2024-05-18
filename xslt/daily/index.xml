@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-17T01:34:10Z</updated>
+  <updated>2024-05-18T01:33:46Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gentoo/devmanual</title>
-    <updated>2024-05-17T01:34:10Z</updated>
-    <id>tag:github.com,2024-05-17:/gentoo/devmanual</id>
-    <link href="https://github.com/gentoo/devmanual" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[MIRROR] Gentoo devmanual source&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;devmanual.gentoo.org&lt;/h1&gt; &#xA;&lt;p&gt;Gentoo devmanual source&lt;/p&gt; &#xA;&lt;p&gt;You can find the compiled version here: &lt;a href=&#34;https://devmanual.gentoo.org&#34;&gt;https://devmanual.gentoo.org&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This document is licensed under &lt;a href=&#34;https://raw.githubusercontent.com/gentoo/devmanual/master/LICENSE&#34;&gt;CC-BY-SA-4.0&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;See also &lt;a href=&#34;https://devmanual.gentoo.org/appendices/contributing/index.html&#34;&gt;https://devmanual.gentoo.org/appendices/contributing/index.html&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>
