@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-18T01:27:49Z</updated>
+  <updated>2024-05-19T01:30:18Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>QINZHAOYU/CudaSteps</title>
-    <updated>2024-05-18T01:27:49Z</updated>
-    <id>tag:github.com,2024-05-18:/QINZHAOYU/CudaSteps</id>
-    <link href="https://github.com/QINZHAOYU/CudaSteps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于《cuda编程-基础与实践》（樊哲勇 著）的cuda学习之路。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>IST-DASLab/Sparse-Marlin</title>
-    <updated>2024-05-18T01:27:49Z</updated>
-    <id>tag:github.com,2024-05-18:/IST-DASLab/Sparse-Marlin</id>
-    <link href="https://github.com/IST-DASLab/Sparse-Marlin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yklcs/jaxsplat</title>
+    <updated>2024-05-19T01:30:18Z</updated>
+    <id>tag:github.com,2024-05-19:/yklcs/jaxsplat</id>
+    <link href="https://github.com/yklcs/jaxsplat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;3D Gaussian Splatting in JAX&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

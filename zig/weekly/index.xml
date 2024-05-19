@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-19T01:44:17Z</updated>
+  <subtitle>Weekly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fairyglade/ly</title>
+    <updated>2024-05-19T01:44:17Z</updated>
+    <id>tag:github.com,2024-05-19:/fairyglade/ly</id>
+    <link href="https://github.com/fairyglade/ly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;display manager with console UI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bfactory-ai/zignal</title>
+    <updated>2024-05-19T01:44:17Z</updated>
+    <id>tag:github.com,2024-05-19:/bfactory-ai/zignal</id>
+    <link href="https://github.com/bfactory-ai/zignal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Image processing library in Zig&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zigcc/zig-cookbook</title>
+    <updated>2024-05-19T01:44:17Z</updated>
+    <id>tag:github.com,2024-05-19:/zigcc/zig-cookbook</id>
+    <link href="https://github.com/zigcc/zig-cookbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple Zig programs that demonstrate good practices to accomplish common programming tasks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

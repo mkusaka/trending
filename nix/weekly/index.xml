@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-19T01:41:10Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Andrey0189/nixos-config</title>
+    <updated>2024-05-19T01:41:10Z</updated>
+    <id>tag:github.com,2024-05-19:/Andrey0189/nixos-config</id>
+    <link href="https://github.com/Andrey0189/nixos-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;❄️ My nixos configuration files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>auxolotl/top-level</title>
+    <updated>2024-05-19T01:41:10Z</updated>
+    <id>tag:github.com,2024-05-19:/auxolotl/top-level</id>
+    <link href="https://github.com/auxolotl/top-level" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>auxolotl/templates</title>
+    <updated>2024-05-19T01:41:10Z</updated>
+    <id>tag:github.com,2024-05-19:/auxolotl/templates</id>
+    <link href="https://github.com/auxolotl/templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix templates for quickly bootstrapping a system with Auxpkgs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Roff Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-19T01:42:28Z</updated>
+  <subtitle>Weekly Trending of Roff in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ppavic2/hio2024</title>
+    <updated>2024-05-19T01:42:28Z</updated>
+    <id>tag:github.com,2024-05-19:/ppavic2/hio2024</id>
+    <link href="https://github.com/ppavic2/hio2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yoh2/etc-portage-tower</title>
+    <updated>2024-05-19T01:42:28Z</updated>
+    <id>tag:github.com,2024-05-19:/yoh2/etc-portage-tower</id>
+    <link href="https://github.com/yoh2/etc-portage-tower" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;通常使用PC (タワー) の /etc/portage。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

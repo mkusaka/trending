@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-18T01:33:31Z</updated>
+  <updated>2024-05-19T01:36:27Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jeffchao/dotfiles</title>
+    <updated>2024-05-19T01:36:27Z</updated>
+    <id>tag:github.com,2024-05-19:/jeffchao/dotfiles</id>
+    <link href="https://github.com/jeffchao/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of personal configuration files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>drbraden/dotfiles</title>
+    <updated>2024-05-19T01:36:27Z</updated>
+    <id>tag:github.com,2024-05-19:/drbraden/dotfiles</id>
+    <link href="https://github.com/drbraden/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal collection of dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

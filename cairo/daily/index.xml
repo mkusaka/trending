@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-18T01:27:27Z</updated>
+  <updated>2024-05-19T01:29:53Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CarmineOptions/konoha</title>
-    <updated>2024-05-18T01:27:27Z</updated>
-    <id>tag:github.com,2024-05-18:/CarmineOptions/konoha</id>
-    <link href="https://github.com/CarmineOptions/konoha" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A toolkit for DAO-like governance on Starknet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

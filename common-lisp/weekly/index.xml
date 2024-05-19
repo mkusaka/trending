@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-19T01:38:00Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dasuxullebt/cl-geoip</title>
+    <updated>2024-05-19T01:38:00Z</updated>
+    <id>tag:github.com,2024-05-19:/dasuxullebt/cl-geoip</id>
+    <link href="https://github.com/dasuxullebt/cl-geoip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wrapper around libGeoIP&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cl-geoip&lt;/h1&gt; &#xA;&lt;p&gt;A simple cffi-wrapper around some basic functionality of libGeoIP as provided by the debian package &lt;a href=&#34;http://packages.debian.org/wheezy/libgeoip-dev&#34;&gt;http://packages.debian.org/wheezy/libgeoip-dev&lt;/a&gt; (original source &lt;a href=&#34;http://www.maxmind.com&#34;&gt;http://www.maxmind.com&lt;/a&gt;). I only implemented the functionality I actually need, and released it since it might be useful for other people. If anybody needs more functionality, patches are welcome!&lt;/p&gt; &#xA;&lt;p&gt;I tested this under SBCL, Linux x64.&lt;/p&gt; &#xA;&lt;h2&gt;Copyright&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;Copyright (C) 2013 (let ((n &#34;Christoph-Simon Senjak&#34;)) #| |#&#xA; (format nil &#34;~A &amp;lt;~C~C~C~C~A&amp;gt;&#34; n (elt n 0) (elt n 10) (elt n 16)&#xA; #\@ &#34;uxul.de&#34;))&#xA;&#xA;This program is free software. It comes without any warranty, to&#xA;the extent permitted by applicable law. You can redistribute it&#xA;and/or modify it under the terms of the Do What The Fuck You Want&#xA;To Public License, Version 2, as published by Sam Hocevar. See&#xA;http://www.wtfpl.net/ for more details.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Under Debian/Ubuntu, the packages libgeoip-dev and geoip-database should provide the necessary files to get started.&lt;/p&gt; &#xA;&lt;p&gt;Before we can use the databases, they have to be initialized using &lt;code&gt;open-databases&lt;/code&gt;, which wants two file names, one for the IPv4 and one fore the IPv6 database. Under Debian/Ubuntu, the following should be correct:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(geoip:open-databases &#34;/usr/share/GeoIP/GeoIP.dat&#34;&#xA;                      &#34;/usr/share/GeoIP/GeoIPv6.dat&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;After that, you should be able to find Country-Codes for IP-Strings using &lt;code&gt;get-country-code&lt;/code&gt;. If it is not found, NIL is returned:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;  CL-USER&amp;gt; (geoip:get-country-code &#34;188.40.170.99&#34;)&#xA;  &#34;DE&#34;&#xA;  CL-USER&amp;gt; (geoip:get-country-code &#34;2a01:4f8:101:281:7ad5:1003:0:1&#34;)&#xA;  &#34;DE&#34;&#xA;  CL-USER&amp;gt; (geoip:get-country-code &#34;some clusterfuck&#34;)&#xA;  NIL&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>rjmacready/test-eval-when</title>
+    <updated>2024-05-19T01:38:00Z</updated>
+    <id>tag:github.com,2024-05-19:/rjmacready/test-eval-when</id>
+    <link href="https://github.com/rjmacready/test-eval-when" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playing with (eval-when ...)&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Some ventures on &lt;code&gt;eval-when&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;On emacs, &lt;code&gt;C-c&lt;/code&gt; &lt;code&gt;C-k&lt;/code&gt; prints :COMPILE-TOPLEVEL :LOAD-TOPLEVEL&lt;/p&gt; &#xA;&lt;p&gt;On sbcl, &lt;code&gt;(load &#34;main.lisp&#34;)&lt;/code&gt; prints :EXECUTE&lt;/p&gt; &#xA;&lt;p&gt;On sbcl, &lt;code&gt;(compile-file &#34;main.lisp&#34;)&lt;/code&gt; prints :COMPILE-TOPLEVEL&lt;/p&gt; &#xA;&lt;p&gt;On sbcl, &lt;code&gt;(load (compile-file &#34;main.lisp&#34;))&lt;/code&gt; prints :COMPILE-TOPLEVEL :LOAD-TOPLEVEL&lt;/p&gt; &#xA;&lt;p&gt;On sbcl, &lt;code&gt;(load &#34;main.fasl&#34;)&lt;/code&gt; prints :LOAD-TOPLEVEL&lt;/p&gt; &#xA;&lt;p&gt;After &lt;code&gt;(make-exe)&lt;/code&gt;, calling executable prints None :D&lt;/p&gt;</summary>
+  </entry>
+</feed>

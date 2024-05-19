@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Perl Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-19T01:41:36Z</updated>
+  <subtitle>Weekly Trending of Perl in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wertarbyte/hetzner-rdns</title>
+    <updated>2024-05-19T01:41:36Z</updated>
+    <id>tag:github.com,2024-05-19:/wertarbyte/hetzner-rdns</id>
+    <link href="https://github.com/wertarbyte/hetzner-rdns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;update reverse DNS settings for systems hosted at Hetzner; a successor (hetzner-robot-perl) is in preparation to utilise the webservice interface&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ewaters/dancer-plugin-tapir</title>
+    <updated>2024-05-19T01:41:36Z</updated>
+    <id>tag:github.com,2024-05-19:/ewaters/dancer-plugin-tapir</id>
+    <link href="https://github.com/ewaters/dancer-plugin-tapir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;NAME Dancer::Plugin::Tapir - Associate a Tapir handler with Dancer routes&lt;/p&gt; &#xA;&lt;p&gt;SYNOPSIS use Dancer; use Dancer::Plugin::Tapir;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;  setup_tapir_handler&#xA;    thrift_idl    =&amp;gt; &#39;thrift/service.thrift&#39;,&#xA;    handler_class =&amp;gt; &#39;MyAPI::Service&#39;;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;DESCRIPTION The goal of this package is to quickly and without fuss expose a Tapir service via Dancer via a RESTful API. Doing so requires no additional coding, and only requires a simple comment added to your Thrift methods.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;This plugin exports the method &#34;setup_tapir_handler&#34; into the caller.&#xA;Call it with either a list of arguments or using your Dancer&#xA;configuration (see below).&#xA;&#xA;The handler class must be a subclass of Tapir::Server::Handler::Class&#xA;and have registered methods for each Thrift method of the Thrift&#xA;service.&#xA;&#xA;The Dancer routes that will be exposed match up with the @rest Thrift&#xA;documentation tag. For example:&#xA;&#xA;  /*&#xA;    Create a new account&#xA;    @rest POST /accounts&#xA;  */&#xA;  account createAccount (&#xA;    1: username username,&#xA;    2: string   password&#xA;  )&#xA;&#xA;This will create a route &#34;POST /accounts&#34; which will call the method&#xA;&#34;createAccount&#34; in the handler class. The Dancer method &#34;params&#34; will be&#xA;used to extract both query string and payload parameters, and will be&#xA;used to compose the thrift message passed to the Tapir::Server::Handler.&#xA;&#xA;Control over the HTTP status code returned to the user is still being&#xA;worked out, as are being able to set headers in the HTTP response. At&#xA;the moment, the result is serialized via JSON but will in the future be&#xA;serialized according to the Accept headers of the request.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;CONFIGURATION Add something like this to your YAML config:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;  plugins:&#xA;    Tapir:&#xA;      thrift_idl: thrift/service.thrift&#xA;      handler_class: MyAPI::Service&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;SEE ALSO Tapir, Dancer&lt;/p&gt; &#xA;&lt;p&gt;LICENSE This library is free software; you may redistribute it and/or modify it under the same terms as Perl itself&lt;/p&gt; &#xA;&lt;p&gt;COPYRIGHT Copyright (c) 2012 Eric Waters. All rights reserved. This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.&lt;/p&gt; &#xA;&lt;p&gt;AUTHOR Eric Waters &lt;a href=&#34;mailto:ewaters@gmail.com&#34;&gt;ewaters@gmail.com&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>afolson/irssi-spotify</title>
+    <updated>2024-05-19T01:41:36Z</updated>
+    <id>tag:github.com,2024-05-19:/afolson/irssi-spotify</id>
+    <link href="https://github.com/afolson/irssi-spotify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Irssi script to display data about songs on Spotify.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;irssi-spotify&lt;/h1&gt; &#xA;&lt;p&gt;An Irssi script to display data about songs on Spotify.&lt;/p&gt;</summary>
+  </entry>
+</feed>

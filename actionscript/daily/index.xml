@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-18T01:26:44Z</updated>
+  <updated>2024-05-19T01:29:08Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>benrhodes/graffiti-as3-drawing-lib-touch</title>
-    <updated>2024-05-18T01:26:44Z</updated>
-    <id>tag:github.com,2024-05-18:/benrhodes/graffiti-as3-drawing-lib-touch</id>
-    <link href="https://github.com/benrhodes/graffiti-as3-drawing-lib-touch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ActionScript 3 Drawing library made for touch devices.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pjako/ArProject</title>
-    <updated>2024-05-18T01:26:44Z</updated>
-    <id>tag:github.com,2024-05-18:/pjako/ArProject</id>
-    <link href="https://github.com/pjako/ArProject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hs-offenburg AR project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-18T01:32:55Z</updated>
+  <updated>2024-05-19T01:35:45Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>r4rmas/saraui</title>
-    <updated>2024-05-18T01:32:55Z</updated>
-    <id>tag:github.com,2024-05-18:/r4rmas/saraui</id>
-    <link href="https://github.com/r4rmas/saraui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sara UI is a collection of enhanced daisyUI components for Sveltekit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>up-csi/innovcamp-2024</title>
+    <updated>2024-05-19T01:35:45Z</updated>
+    <id>tag:github.com,2024-05-19:/up-csi/innovcamp-2024</id>
+    <link href="https://github.com/up-csi/innovcamp-2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

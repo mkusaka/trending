@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-18T01:28:59Z</updated>
+  <updated>2024-05-19T01:31:38Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gradle/develocity-ci-injection</title>
-    <updated>2024-05-18T01:28:59Z</updated>
-    <id>tag:github.com,2024-05-18:/gradle/develocity-ci-injection</id>
-    <link href="https://github.com/gradle/develocity-ci-injection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Initscript for auto-injection of Develocity into Gradle builds&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>asciidoctor/asciidoctor-gradle-plugin</title>
-    <updated>2024-05-18T01:28:59Z</updated>
-    <id>tag:github.com,2024-05-18:/asciidoctor/asciidoctor-gradle-plugin</id>
-    <link href="https://github.com/asciidoctor/asciidoctor-gradle-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

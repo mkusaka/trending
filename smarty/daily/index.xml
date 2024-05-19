@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-18T01:32:43Z</updated>
+  <updated>2024-05-19T01:35:32Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ciwomun/hdcvf</title>
-    <updated>2024-05-18T01:32:43Z</updated>
-    <id>tag:github.com,2024-05-18:/ciwomun/hdcvf</id>
-    <link href="https://github.com/ciwomun/hdcvf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>opea-project/GenAIInfra</title>
-    <updated>2024-05-18T01:32:43Z</updated>
-    <id>tag:github.com,2024-05-18:/opea-project/GenAIInfra</id>
-    <link href="https://github.com/opea-project/GenAIInfra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Containerization and cloud native suite for OPEA&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

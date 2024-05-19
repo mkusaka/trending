@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-18T01:32:09Z</updated>
+  <updated>2024-05-19T01:34:59Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ruby/typeprof</title>
+    <updated>2024-05-19T01:34:59Z</updated>
+    <id>tag:github.com,2024-05-19:/ruby/typeprof</id>
+    <link href="https://github.com/ruby/typeprof" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An experimental type-level Ruby interpreter for testing and understanding Ruby code&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TypeProf&lt;/h1&gt; &#xA;&lt;p&gt;An experimental type-level Ruby interpreter for testing and understanding Ruby code.&lt;/p&gt; &#xA;&lt;h2&gt;Development&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Install Ruby 3.3 or later.&lt;/li&gt; &#xA; &lt;li&gt;Git clone this repository: &lt;code&gt;git clone https://github.com/ruby/typeprof.git&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Install VSCode extension: &lt;code&gt;code --install-extension mame.ruby-typeprof&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Open the repository in VSCode: &lt;code&gt;code typeprof&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Testing&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ bundle install&#xA;$ bundle exec rake test&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;More details&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/mame/good-first-issues-of-typeprof&#34;&gt;https://speakerdeck.com/mame/good-first-issues-of-typeprof&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;LICENSE&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://raw.githubusercontent.com/ruby/typeprof/v2/LICENSE&#34;&gt;LICENSE&lt;/a&gt; file.&lt;/p&gt;</summary>
+  </entry>
 </feed>

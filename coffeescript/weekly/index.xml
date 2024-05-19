@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-19T01:37:58Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>valpackett/ember-script-brunch</title>
+    <updated>2024-05-19T01:37:58Z</updated>
+    <id>tag:github.com,2024-05-19:/valpackett/ember-script-brunch</id>
+    <link href="https://github.com/valpackett/ember-script-brunch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adds EmberScript support to brunch.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kumikoda/problems</title>
+    <updated>2024-05-19T01:37:58Z</updated>
+    <id>tag:github.com,2024-05-19:/kumikoda/problems</id>
+    <link href="https://github.com/kumikoda/problems" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;some interview problems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chrismay/euler-coffee</title>
+    <updated>2024-05-19T01:37:58Z</updated>
+    <id>tag:github.com,2024-05-19:/chrismay/euler-coffee</id>
+    <link href="https://github.com/chrismay/euler-coffee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In which I learn coffeescript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
