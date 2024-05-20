@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-19T01:34:06Z</updated>
+  <updated>2024-05-20T01:31:59Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>honemiya/NotCoinBot</title>
+    <updated>2024-05-20T01:31:59Z</updated>
+    <id>tag:github.com,2024-05-20:/honemiya/NotCoinBot</id>
+    <link href="https://github.com/honemiya/NotCoinBot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Download - &lt;a href=&#34;https://github.com/honemiya/NotCoinBot/releases/tag/131&#34;&gt;Link&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;h1&gt;Possibilities:&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Price Tracker: Get live quotes and charts for over 10,000 cryptocurrencies.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;News and Analysis: Stay up to date with the latest news and analysis on the cryptocurrency market.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Trading Signals: Receive buy and sell signals for various cryptocurrencies based on technical analysis.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Arbitrage Opportunities: The bot scans the market for arbitrage opportunities that allow users to profit from price differences across different exchanges.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Trading Bot: Users can set up a bot to trade automatically based on specified parameters.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Personalized Alerts: Set up alerts for prices, news, and other events related to specific cryptocurrencies.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Clicker which has a speed that allows you to receive more than 50 million notcoins in 40 seconds&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Advantages:&lt;/h1&gt; &#xA;&lt;p&gt;Convenience: Get access to all cryptocurrency services directly in Telegram. Ease of use: The bot has a simple and intuitive interface. Personalization: Customize the bot to suit your needs and preferences. Free to use: Most of the bot&#39;s features are available for free. &lt;img src=&#34;https://github.com/honemiya/NotCoinBot/assets/60851577/c8445d61-2079-493a-97a8-e6925dec0ec4&#34; alt=&#34;NotCoin&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

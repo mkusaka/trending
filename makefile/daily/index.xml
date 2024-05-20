@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-19T01:33:07Z</updated>
+  <updated>2024-05-20T01:31:06Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>janmartendeboer/setup</title>
-    <updated>2024-05-19T01:33:07Z</updated>
-    <id>tag:github.com,2024-05-19:/janmartendeboer/setup</id>
-    <link href="https://github.com/janmartendeboer/setup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Workstation setup&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TheMuppets/proprietary_vendor_xiaomi_sm8350-common</title>
-    <updated>2024-05-19T01:33:07Z</updated>
-    <id>tag:github.com,2024-05-19:/TheMuppets/proprietary_vendor_xiaomi_sm8350-common</id>
-    <link href="https://github.com/TheMuppets/proprietary_vendor_xiaomi_sm8350-common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cyberimmunity-edu/cyberimmune-systems-autonomous-delivery-drone-with-kos</title>
+    <updated>2024-05-20T01:31:06Z</updated>
+    <id>tag:github.com,2024-05-20:/cyberimmunity-edu/cyberimmune-systems-autonomous-delivery-drone-with-kos</id>
+    <link href="https://github.com/cyberimmunity-edu/cyberimmune-systems-autonomous-delivery-drone-with-kos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cyberimmune autonomous delivery drone prototype&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

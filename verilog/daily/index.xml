@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-19T01:36:25Z</updated>
+  <updated>2024-05-20T01:33:58Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RESMIRNAIR/ELEVATOR_CONTROL</title>
-    <updated>2024-05-19T01:36:25Z</updated>
-    <id>tag:github.com,2024-05-19:/RESMIRNAIR/ELEVATOR_CONTROL</id>
-    <link href="https://github.com/RESMIRNAIR/ELEVATOR_CONTROL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lauchinyuan/FPGA_QPSK-modem</title>
-    <updated>2024-05-19T01:36:25Z</updated>
-    <id>tag:github.com,2024-05-19:/lauchinyuan/FPGA_QPSK-modem</id>
-    <link href="https://github.com/lauchinyuan/FPGA_QPSK-modem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A QPSK modem written in the Verilog hardware description language, that can be implemented on FPGA&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>naavaneetha/Project-Based-Experiment</title>
-    <updated>2024-05-19T01:36:25Z</updated>
-    <id>tag:github.com,2024-05-19:/naavaneetha/Project-Based-Experiment</id>
-    <link href="https://github.com/naavaneetha/Project-Based-Experiment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>avmwww/sdio-audio</title>
+    <updated>2024-05-20T01:33:58Z</updated>
+    <id>tag:github.com,2024-05-20:/avmwww/sdio-audio</id>
+    <link href="https://github.com/avmwww/sdio-audio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SDIO Audio device. Verilog.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

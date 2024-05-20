@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-19T01:36:30Z</updated>
+  <updated>2024-05-20T01:34:03Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bufferhead-code/onthisday</title>
-    <updated>2024-05-19T01:36:30Z</updated>
-    <id>tag:github.com,2024-05-19:/bufferhead-code/onthisday</id>
-    <link href="https://github.com/bufferhead-code/onthisday" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;History Weather Data for the current day powered by SQLite&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>unilei/aipan-netdisk-search</title>
+    <updated>2024-05-20T01:34:03Z</updated>
+    <id>tag:github.com,2024-05-20:/unilei/aipan-netdisk-search</id>
+    <link href="https://github.com/unilei/aipan-netdisk-search" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;本项目是一个基于vue、nuxt.js的网盘搜索项目，且持续开源和维护；目的实现人人都可以拥有自己的网盘搜索网站；建议自己部署，salute to all&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Adamant-im/adamant-im</title>
+    <updated>2024-05-20T01:34:03Z</updated>
+    <id>tag:github.com,2024-05-20:/Adamant-im/adamant-im</id>
+    <link href="https://github.com/Adamant-im/adamant-im" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ADAMANT Decentralized Messenger. Progressive Web Application (PWA)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>colinlienard/githundred</title>
+    <updated>2024-05-20T01:34:03Z</updated>
+    <id>tag:github.com,2024-05-20:/colinlienard/githundred</id>
+    <link href="https://github.com/colinlienard/githundred" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⭐️ Top 100 most starred GitHub repositories&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

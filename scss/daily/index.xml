@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-19T01:35:16Z</updated>
+  <updated>2024-05-20T01:33:04Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iref-use/ps4-remote-pkg-sender</title>
-    <updated>2024-05-19T01:35:16Z</updated>
-    <id>tag:github.com,2024-05-19:/iref-use/ps4-remote-pkg-sender</id>
-    <link href="https://github.com/iref-use/ps4-remote-pkg-sender" rel="alternate"></link>
+    <title>discourse/discourse-huggingface-theme</title>
+    <updated>2024-05-20T01:33:04Z</updated>
+    <id>tag:github.com,2024-05-20:/discourse/discourse-huggingface-theme</id>
+    <link href="https://github.com/discourse/discourse-huggingface-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Protypes/LS-28</title>
+    <updated>2024-05-20T01:33:04Z</updated>
+    <id>tag:github.com,2024-05-20:/Protypes/LS-28</id>
+    <link href="https://github.com/Protypes/LS-28" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

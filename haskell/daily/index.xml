@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-19T01:31:42Z</updated>
+  <updated>2024-05-20T01:29:53Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mlabs-haskell/ytxp-lib</title>
-    <updated>2024-05-19T01:31:42Z</updated>
-    <id>tag:github.com,2024-05-19:/mlabs-haskell/ytxp-lib</id>
-    <link href="https://github.com/mlabs-haskell/ytxp-lib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sinelaw/penalty-search</title>
-    <updated>2024-05-19T01:31:42Z</updated>
-    <id>tag:github.com,2024-05-19:/sinelaw/penalty-search</id>
-    <link href="https://github.com/sinelaw/penalty-search" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Researching the optimal decision trees (minimum expected cost) when search has a test penalty&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;penalty-search&lt;/h1&gt; &#xA;&lt;p&gt;Researching the optimal decision trees (minimum expected cost) when search has a test penalty&lt;/p&gt; &#xA;&lt;p&gt;For more information see blog posts:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;http://noamlewis.wordpress.com/2013/02/04/finding-the-perfect-baking-time-for-that-souffle-or-optimal-search-with-test-penalty/&#34;&gt;Finding the perfect baking time for that soufflé (or: optimal search with test penalty)&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;http://noamlewis.wordpress.com/2013/02/12/penalty-search-problem-revisited-dynamic-programming-control-parallel-to-the-rescue/&#34;&gt;Penalty-search problem revisited: Dynamic Programming &amp;amp; Control.Parallel to the rescue&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-19T01:33:30Z</updated>
+  <updated>2024-05-20T01:31:28Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>uclahs-cds/pipeline-recalibrate-BAM</title>
-    <updated>2024-05-19T01:33:30Z</updated>
-    <id>tag:github.com,2024-05-19:/uclahs-cds/pipeline-recalibrate-BAM</id>
-    <link href="https://github.com/uclahs-cds/pipeline-recalibrate-BAM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nextflow pipeline to perform Indel Realignment and Base Quality Score Recalibration&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

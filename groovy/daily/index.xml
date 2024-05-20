@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-19T01:31:38Z</updated>
+  <updated>2024-05-20T01:29:49Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kcjava/public</title>
+    <updated>2024-05-20T01:29:49Z</updated>
+    <id>tag:github.com,2024-05-20:/kcjava/public</id>
+    <link href="https://github.com/kcjava/public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ck1125/gradle-android</title>
+    <updated>2024-05-20T01:29:49Z</updated>
+    <id>tag:github.com,2024-05-20:/ck1125/gradle-android</id>
+    <link href="https://github.com/ck1125/gradle-android" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A prototype Gradle plugin for building Android applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>quai-md/jenkins-scripts</title>
+    <updated>2024-05-20T01:29:49Z</updated>
+    <id>tag:github.com,2024-05-20:/quai-md/jenkins-scripts</id>
+    <link href="https://github.com/quai-md/jenkins-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
