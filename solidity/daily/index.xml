@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-20T01:33:19Z</updated>
+  <updated>2024-05-21T01:32:47Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sherlock-audit/2024-05-gamma-staking</title>
-    <updated>2024-05-20T01:33:19Z</updated>
-    <id>tag:github.com,2024-05-20:/sherlock-audit/2024-05-gamma-staking</id>
-    <link href="https://github.com/sherlock-audit/2024-05-gamma-staking" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>projectawakening/world-chain-contracts</title>
-    <updated>2024-05-20T01:33:19Z</updated>
-    <id>tag:github.com,2024-05-20:/projectawakening/world-chain-contracts</id>
-    <link href="https://github.com/projectawakening/world-chain-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cubxxw/awesome-cs-cloudnative-blockchain</title>
-    <updated>2024-05-20T01:33:19Z</updated>
-    <id>tag:github.com,2024-05-20:/cubxxw/awesome-cs-cloudnative-blockchain</id>
-    <link href="https://github.com/cubxxw/awesome-cs-cloudnative-blockchain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 菜鸟成长手册🚀 CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡......&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

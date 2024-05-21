@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-20T01:31:30Z</updated>
+  <updated>2024-05-21T01:30:57Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>auxolotl/core</title>
-    <updated>2024-05-20T01:31:30Z</updated>
-    <id>tag:github.com,2024-05-20:/auxolotl/core</id>
-    <link href="https://github.com/auxolotl/core" rel="alternate"></link>
+    <title>the-computer-club/automous-zones</title>
+    <updated>2024-05-21T01:30:57Z</updated>
+    <id>tag:github.com,2024-05-21:/the-computer-club/automous-zones</id>
+    <link href="https://github.com/the-computer-club/automous-zones" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

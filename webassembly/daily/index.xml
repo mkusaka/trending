@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-20T01:34:06Z</updated>
+  <updated>2024-05-21T01:33:34Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ellnix/aoc_club</title>
-    <updated>2024-05-20T01:34:06Z</updated>
-    <id>tag:github.com,2024-05-20:/ellnix/aoc_club</id>
-    <link href="https://github.com/ellnix/aoc_club" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AoC Solutions for the unofficial Exercism AoC Club&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

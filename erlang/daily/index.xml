@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-20T01:29:14Z</updated>
+  <updated>2024-05-21T01:28:47Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>max-au/erlperf</title>
-    <updated>2024-05-20T01:29:14Z</updated>
-    <id>tag:github.com,2024-05-20:/max-au/erlperf</id>
-    <link href="https://github.com/max-au/erlperf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang Benchmarking Suite. Simpler way to say &#34;this code is faster&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

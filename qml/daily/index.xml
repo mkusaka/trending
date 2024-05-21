@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-20T01:32:28Z</updated>
+  <updated>2024-05-21T01:31:58Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Aseman-Land/easy-camera</title>
+    <updated>2024-05-21T01:31:58Z</updated>
+    <id>tag:github.com,2024-05-21:/Aseman-Land/easy-camera</id>
+    <link href="https://github.com/Aseman-Land/easy-camera" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An easy to use desktop and camera recorder for those who want to record videos.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

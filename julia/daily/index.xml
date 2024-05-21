@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-20T01:30:31Z</updated>
+  <updated>2024-05-21T01:30:03Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jolin-io/JuliaScript.jl</title>
+    <updated>2024-05-21T01:30:03Z</updated>
+    <id>tag:github.com,2024-05-21:/jolin-io/JuliaScript.jl</id>
+    <link href="https://github.com/jolin-io/JuliaScript.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;finally fast julia scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

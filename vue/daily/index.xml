@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-20T01:34:03Z</updated>
+  <updated>2024-05-21T01:33:31Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>unilei/aipan-netdisk-search</title>
-    <updated>2024-05-20T01:34:03Z</updated>
-    <id>tag:github.com,2024-05-20:/unilei/aipan-netdisk-search</id>
-    <link href="https://github.com/unilei/aipan-netdisk-search" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;本项目是一个基于vue、nuxt.js的网盘搜索项目，且持续开源和维护；目的实现人人都可以拥有自己的网盘搜索网站；建议自己部署，salute to all&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xiaomaogame/catctor</title>
+    <updated>2024-05-21T01:33:31Z</updated>
+    <id>tag:github.com,2024-05-21:/xiaomaogame/catctor</id>
+    <link href="https://github.com/xiaomaogame/catctor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Adamant-im/adamant-im</title>
-    <updated>2024-05-20T01:34:03Z</updated>
-    <id>tag:github.com,2024-05-20:/Adamant-im/adamant-im</id>
-    <link href="https://github.com/Adamant-im/adamant-im" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ADAMANT Decentralized Messenger. Progressive Web Application (PWA)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oliver225/thingsboard-ui-vue3</title>
+    <updated>2024-05-21T01:33:31Z</updated>
+    <id>tag:github.com,2024-05-21:/oliver225/thingsboard-ui-vue3</id>
+    <link href="https://github.com/oliver225/thingsboard-ui-vue3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;本项目为基于Vue3开发的 ThingsBoard 前台 ,AntDesginVue、VbenVueAdmin、AntV X6、规则链代码已全部开放、ThingsBoard3.x持续更新中&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>colinlienard/githundred</title>
-    <updated>2024-05-20T01:34:03Z</updated>
-    <id>tag:github.com,2024-05-20:/colinlienard/githundred</id>
-    <link href="https://github.com/colinlienard/githundred" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⭐️ Top 100 most starred GitHub repositories&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apache/skywalking-booster-ui</title>
+    <updated>2024-05-21T01:33:31Z</updated>
+    <id>tag:github.com,2024-05-21:/apache/skywalking-booster-ui</id>
+    <link href="https://github.com/apache/skywalking-booster-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache SkyWalking 3rd generation UI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

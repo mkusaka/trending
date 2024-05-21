@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-20T01:29:25Z</updated>
+  <updated>2024-05-21T01:28:59Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Nodragem/twin-stick-shooter-starter-kit</title>
-    <updated>2024-05-20T01:29:25Z</updated>
-    <id>tag:github.com,2024-05-20:/Nodragem/twin-stick-shooter-starter-kit</id>
-    <link href="https://github.com/Nodragem/twin-stick-shooter-starter-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A small prototype to learn implementing basic gameplay mechanics in Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>folt-a/godot-live-debugger</title>
-    <updated>2024-05-20T01:29:25Z</updated>
-    <id>tag:github.com,2024-05-20:/folt-a/godot-live-debugger</id>
-    <link href="https://github.com/folt-a/godot-live-debugger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;godot 4 develop addon. high-level debug window for game status.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Coding-Dead/D17-Gaming</title>
+    <updated>2024-05-21T01:28:59Z</updated>
+    <id>tag:github.com,2024-05-21:/Coding-Dead/D17-Gaming</id>
+    <link href="https://github.com/Coding-Dead/D17-Gaming" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;D17-Gaming&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

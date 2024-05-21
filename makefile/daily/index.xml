@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-20T01:31:06Z</updated>
+  <updated>2024-05-21T01:30:33Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cyberimmunity-edu/cyberimmune-systems-autonomous-delivery-drone-with-kos</title>
-    <updated>2024-05-20T01:31:06Z</updated>
-    <id>tag:github.com,2024-05-20:/cyberimmunity-edu/cyberimmune-systems-autonomous-delivery-drone-with-kos</id>
-    <link href="https://github.com/cyberimmunity-edu/cyberimmune-systems-autonomous-delivery-drone-with-kos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cyberimmune autonomous delivery drone prototype&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

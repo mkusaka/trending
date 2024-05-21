@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-20T01:34:01Z</updated>
+  <updated>2024-05-21T01:33:29Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>IammyselfYBX/vim-rainbow</title>
-    <updated>2024-05-20T01:34:01Z</updated>
-    <id>tag:github.com,2024-05-20:/IammyselfYBX/vim-rainbow</id>
-    <link href="https://github.com/IammyselfYBX/vim-rainbow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;彩虹效果的 Vim 插件&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lambdalisue/vim-suda</title>
-    <updated>2024-05-20T01:34:01Z</updated>
-    <id>tag:github.com,2024-05-20:/lambdalisue/vim-suda</id>
-    <link href="https://github.com/lambdalisue/vim-suda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

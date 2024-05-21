@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-20T01:31:59Z</updated>
+  <updated>2024-05-21T01:31:26Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>honemiya/NotCoinBot</title>
-    <updated>2024-05-20T01:31:59Z</updated>
-    <id>tag:github.com,2024-05-20:/honemiya/NotCoinBot</id>
-    <link href="https://github.com/honemiya/NotCoinBot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Download - &lt;a href=&#34;https://github.com/honemiya/NotCoinBot/releases/tag/131&#34;&gt;Link&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;h1&gt;Possibilities:&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Price Tracker: Get live quotes and charts for over 10,000 cryptocurrencies.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;News and Analysis: Stay up to date with the latest news and analysis on the cryptocurrency market.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Trading Signals: Receive buy and sell signals for various cryptocurrencies based on technical analysis.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Arbitrage Opportunities: The bot scans the market for arbitrage opportunities that allow users to profit from price differences across different exchanges.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Trading Bot: Users can set up a bot to trade automatically based on specified parameters.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Personalized Alerts: Set up alerts for prices, news, and other events related to specific cryptocurrencies.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Clicker which has a speed that allows you to receive more than 50 million notcoins in 40 seconds&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Advantages:&lt;/h1&gt; &#xA;&lt;p&gt;Convenience: Get access to all cryptocurrency services directly in Telegram. Ease of use: The bot has a simple and intuitive interface. Personalization: Customize the bot to suit your needs and preferences. Free to use: Most of the bot&#39;s features are available for free. &lt;img src=&#34;https://github.com/honemiya/NotCoinBot/assets/60851577/c8445d61-2079-493a-97a8-e6925dec0ec4&#34; alt=&#34;NotCoin&#34;&gt;&lt;/p&gt;</summary>
+    <title>dayrui/xunruicms</title>
+    <updated>2024-05-21T01:31:26Z</updated>
+    <id>tag:github.com,2024-05-21:/dayrui/xunruicms</id>
+    <link href="https://github.com/dayrui/xunruicms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;迅睿CMS框架由PHP+MySQL+Codeigniter架构，基于MIT开源协议发布，免费且不限制商业使用，允许开发者自由修改前后台界面中的版权信息。&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;迅睿CMS建站程序&lt;/h1&gt; &#xA;&lt;p&gt;迅睿CMS框架是一款PHP8高性能·简单易用的开发框架 支持的微信公众号，小程序，APP客户端，移动端网站，PC网站等多站式管理系统。&lt;/p&gt; &#xA;&lt;h4&gt;运行环境&lt;/h4&gt; &#xA;&lt;p&gt;PHP7.3以上（支持PHP8） MySQL5以上，推荐5.7及以上 Apache、Nginx、IIS等Web服务器都可以&lt;/p&gt; &#xA;&lt;h4&gt;在线预览&lt;/h4&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://demo4.xunruicms.com/admin.php&#34;&gt;http://demo4.xunruicms.com/admin.php&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h4&gt;安装教程&lt;/h4&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;将代码下载到网站的根目录&lt;/li&gt; &#xA; &lt;li&gt;运行环境检查程序 /test.php&lt;/li&gt; &#xA; &lt;li&gt;环境通过后，运行安装文件 /install.php&lt;/li&gt; &#xA; &lt;li&gt;切忌不要放在子目录安装&lt;/li&gt; &#xA; &lt;li&gt;默认后台入口文件是 /admin.php&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h4&gt;使用说明&lt;/h4&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;使用文档：&lt;a href=&#34;https://www.xunruicms.com/doc/&#34;&gt;https://www.xunruicms.com/doc/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;技术论坛：&lt;a href=&#34;https://www.xunruicms.com/wenda/&#34;&gt;https://www.xunruicms.com/wenda/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;正式版程序下载：&lt;a href=&#34;https://www.xunruicms.com/down/&#34;&gt;https://www.xunruicms.com/down/&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
   </entry>
 </feed>
