@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-21T01:27:48Z</updated>
+  <updated>2024-05-22T01:28:49Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vfasky/hexo-summarizer</title>
+    <updated>2024-05-22T01:28:49Z</updated>
+    <id>tag:github.com,2024-05-22:/vfasky/hexo-summarizer</id>
+    <link href="https://github.com/vfasky/hexo-summarizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于TF-IDF自动提取摘要，关键字插件 for Hexo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WealthBar/angular-d3</title>
+    <updated>2024-05-22T01:28:49Z</updated>
+    <id>tag:github.com,2024-05-22:/WealthBar/angular-d3</id>
+    <link href="https://github.com/WealthBar/angular-d3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AngularJS directives for declaratively using D3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

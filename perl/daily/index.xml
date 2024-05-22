@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-21T01:31:22Z</updated>
+  <updated>2024-05-22T01:32:27Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Ensembl/ensembl-datacheck</title>
-    <updated>2024-05-21T01:31:22Z</updated>
-    <id>tag:github.com,2024-05-21:/Ensembl/ensembl-datacheck</id>
-    <link href="https://github.com/Ensembl/ensembl-datacheck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code for checking Ensembl databases during release production&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://coveralls.io/github/Ensembl/ensembl-datacheck?branch=master&#34;&gt;&lt;img src=&#34;https://coveralls.io/repos/github/Ensembl/ensembl-datacheck/badge.svg?branch=master&#34; alt=&#34;Coverage Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://travis-ci.org/Ensembl/ensembl-datacheck&#34;&gt;&lt;img src=&#34;https://travis-ci.org/Ensembl/ensembl-datacheck.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;ensembl-datacheck&lt;/h1&gt; &#xA;&lt;p&gt;Code for checking Ensembl data&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Ensembl/ensembl-datacheck/release/111/framework.md&#34;&gt;Framework details&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Repository dependencies&lt;/h2&gt; &#xA;&lt;p&gt;The datachecks require the following repositories to be checked out and their libraries available in your environment:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ensembl/ensembl&#34;&gt;ensembl&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ensembl/ensembl-compara&#34;&gt;ensembl-compara&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ensembl/ensembl-funcgen&#34;&gt;ensembl-funcgen&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ensembl/ensembl-metadata&#34;&gt;ensembl-metadata&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ensembl/ensembl-orm&#34;&gt;ensembl-orm&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Ensembl/ensembl-variation&#34;&gt;ensembl-variation&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Using git hooks to synchronise the datacheck index&lt;/h2&gt; &#xA;&lt;p&gt;It&#39;s easy to get out of sync between datachecks and the index. There&#39;s a test for this, so it would eventually get detected, but we can proactively avoid the problem with a git hook that automatically updates the index.&lt;/p&gt; &#xA;&lt;p&gt;To configure this, in your local repository do: &lt;code&gt;ln -s hooks/pre-commit.sh .git/hooks/pre-commit&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Then, whenever you commit, the index will be checked, and updated if necessary. To skip the checking, use the &lt;code&gt;--no-verify&lt;/code&gt; flag.&lt;/p&gt;</summary>
-  </entry>
 </feed>

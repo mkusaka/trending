@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoIt Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-21T01:27:14Z</updated>
+  <updated>2024-05-22T01:28:06Z</updated>
   <subtitle>Daily Trending of AutoIt in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rcmaehl/FreezeToStock</title>
-    <updated>2024-05-21T01:27:14Z</updated>
-    <id>tag:github.com,2024-05-21:/rcmaehl/FreezeToStock</id>
-    <link href="https://github.com/rcmaehl/FreezeToStock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The quickest way to low background CPU usage | Temporarily Pause Non-Required Processes and Services before Gaming | Download under Releases&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>x-cod3r/Remote-administration-tools-archive</title>
+    <updated>2024-05-22T01:28:06Z</updated>
+    <id>tag:github.com,2024-05-22:/x-cod3r/Remote-administration-tools-archive</id>
+    <link href="https://github.com/x-cod3r/Remote-administration-tools-archive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Here are +200 different rats some with source code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

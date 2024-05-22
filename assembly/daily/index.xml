@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-21T01:27:12Z</updated>
+  <updated>2024-05-22T01:28:04Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hightower969/Catizen-Auto-Farm-Bot</title>
-    <updated>2024-05-21T01:27:12Z</updated>
-    <id>tag:github.com,2024-05-21:/hightower969/Catizen-Auto-Farm-Bot</id>
-    <link href="https://github.com/hightower969/Catizen-Auto-Farm-Bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Auto farm bot to @Catizen_Mntbot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>broom19hogcher/Airdrop_free</title>
-    <updated>2024-05-21T01:27:12Z</updated>
-    <id>tag:github.com,2024-05-21:/broom19hogcher/Airdrop_free</id>
-    <link href="https://github.com/broom19hogcher/Airdrop_free" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Airdrop-hash/Airdrop_bot</title>
-    <updated>2024-05-21T01:27:12Z</updated>
-    <id>tag:github.com,2024-05-21:/Airdrop-hash/Airdrop_bot</id>
-    <link href="https://github.com/Airdrop-hash/Airdrop_bot" rel="alternate"></link>
+    <title>P4r4d1se/dll_hijack</title>
+    <updated>2024-05-22T01:28:04Z</updated>
+    <id>tag:github.com,2024-05-22:/P4r4d1se/dll_hijack</id>
+    <link href="https://github.com/P4r4d1se/dll_hijack" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

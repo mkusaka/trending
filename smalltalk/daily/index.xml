@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-21T01:32:43Z</updated>
+  <updated>2024-05-22T01:33:59Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mosqutip/EECS395-33</title>
+    <updated>2024-05-22T01:33:59Z</updated>
+    <id>tag:github.com,2024-05-22:/mosqutip/EECS395-33</id>
+    <link href="https://github.com/mosqutip/EECS395-33" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for EECS 395 - Object Oriented Programming Languages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

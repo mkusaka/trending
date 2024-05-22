@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-21T01:26:50Z</updated>
+  <updated>2024-05-22T01:27:38Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>weeeBox/mobile-system-design</title>
-    <updated>2024-05-21T01:26:50Z</updated>
-    <id>tag:github.com,2024-05-21:/weeeBox/mobile-system-design</id>
-    <link href="https://github.com/weeeBox/mobile-system-design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple framework for mobile system design interviews&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>it-ebooks-0/geektime-books</title>
+    <updated>2024-05-22T01:27:38Z</updated>
+    <id>tag:github.com,2024-05-22:/it-ebooks-0/geektime-books</id>
+    <link href="https://github.com/it-ebooks-0/geektime-books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 极客时间电子书&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>solana-mobile/solana-mobile-stack-sdk</title>
-    <updated>2024-05-21T01:26:50Z</updated>
-    <id>tag:github.com,2024-05-21:/solana-mobile/solana-mobile-stack-sdk</id>
-    <link href="https://github.com/solana-mobile/solana-mobile-stack-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mcinglis/c-style</title>
+    <updated>2024-05-22T01:27:38Z</updated>
+    <id>tag:github.com,2024-05-22:/mcinglis/c-style</id>
+    <link href="https://github.com/mcinglis/c-style" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My favorite C programming practices.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ruesandora/0rbit</title>
-    <updated>2024-05-21T01:26:50Z</updated>
-    <id>tag:github.com,2024-05-21:/ruesandora/0rbit</id>
-    <link href="https://github.com/ruesandora/0rbit" rel="alternate"></link>
+    <title>ulab-uiuc/AGI-survey</title>
+    <updated>2024-05-22T01:27:38Z</updated>
+    <id>tag:github.com,2024-05-22:/ulab-uiuc/AGI-survey</id>
+    <link href="https://github.com/ulab-uiuc/AGI-survey" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

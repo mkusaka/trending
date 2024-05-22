@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-21T01:28:36Z</updated>
+  <updated>2024-05-22T01:29:31Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ashley0143/poke</title>
+    <updated>2024-05-22T01:29:31Z</updated>
+    <id>tag:github.com,2024-05-22:/ashley0143/poke</id>
+    <link href="https://github.com/ashley0143/poke" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Poke! (formerly poketube) is a free and libre software anonymous and Private Search engine &amp; Youtube, Google Translate And OSM Frontend With Actual gooda UI :3 🔎▶️ | Like us? Gib stars :3 (mirror from https://codeberg.org/ashley/poke)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

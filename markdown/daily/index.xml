@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-21T01:30:34Z</updated>
+  <updated>2024-05-22T01:31:36Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MrRobinOfficial/Guide-UnrealEngine</title>
-    <updated>2024-05-21T01:30:34Z</updated>
-    <id>tag:github.com,2024-05-21:/MrRobinOfficial/Guide-UnrealEngine</id>
-    <link href="https://github.com/MrRobinOfficial/Guide-UnrealEngine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is designed to help developers learn how to get started with Unreal Engine and C++.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>llvm/clangd-www</title>
-    <updated>2024-05-21T01:30:34Z</updated>
-    <id>tag:github.com,2024-05-21:/llvm/clangd-www</id>
-    <link href="https://github.com/llvm/clangd-www" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

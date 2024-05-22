@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-21T01:32:33Z</updated>
+  <updated>2024-05-22T01:33:49Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lastre1208/GameProduction_Team_B</title>
-    <updated>2024-05-21T01:32:33Z</updated>
-    <id>tag:github.com,2024-05-21:/lastre1208/GameProduction_Team_B</id>
-    <link href="https://github.com/lastre1208/GameProduction_Team_B" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ゲーム制作BチームのUnityのプロジェクトを管理します。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xoxfaby/BetterUI</title>
+    <updated>2024-05-22T01:33:49Z</updated>
+    <id>tag:github.com,2024-05-22:/xoxfaby/BetterUI</id>
+    <link href="https://github.com/xoxfaby/BetterUI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Risk of Rain 2 mod BetterUI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

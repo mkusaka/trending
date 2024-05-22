@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-21T01:29:20Z</updated>
+  <updated>2024-05-22T01:30:15Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bumptech/nitro-haskell</title>
+    <updated>2024-05-22T01:30:15Z</updated>
+    <id>tag:github.com,2024-05-22:/bumptech/nitro-haskell</id>
+    <link href="https://github.com/bumptech/nitro-haskell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Haskell bindings for Nitro&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Haskell bindings for Nitro&lt;/h2&gt; &#xA;&lt;p&gt;=============================&lt;/p&gt; &#xA;&lt;p&gt;Requirements:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;libev&lt;/li&gt; &#xA; &lt;li&gt;gcc-4.7&lt;/li&gt; &#xA; &lt;li&gt;ghc &amp;gt;= 7.6.1&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/bumptech/nitro&#34;&gt;nitro&lt;/a&gt; &amp;gt;= 0.2&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jedisct1/libsodium/releases&#34;&gt;sodium&lt;/a&gt; &amp;gt;= 4.2&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Build&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;autoreconf&#xA;cabal configure&#xA;./build.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Packaging&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;./package.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Usage&lt;/h3&gt; &#xA;&lt;p&gt;View the &lt;a href=&#34;https://raw.githubusercontent.com/bumptech/nitro-haskell/master/haskell.gonitro.io&#34;&gt;hackage documentation&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Run the examples&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;./run-examples.sh&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>
