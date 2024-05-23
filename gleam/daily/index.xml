@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gleam Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-22T01:29:59Z</updated>
+  <updated>2024-05-23T01:28:49Z</updated>
   <subtitle>Daily Trending of Gleam in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nerdyworm/monitor_bear_gleam</title>
-    <updated>2024-05-22T01:29:59Z</updated>
-    <id>tag:github.com,2024-05-22:/nerdyworm/monitor_bear_gleam</id>
-    <link href="https://github.com/nerdyworm/monitor_bear_gleam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A website monitoring tool written in gleam/mist/lustre&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

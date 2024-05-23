@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-22T01:31:35Z</updated>
+  <updated>2024-05-23T01:30:39Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>courtois-neuromod/phantom_multimodal</title>
-    <updated>2024-05-22T01:31:35Z</updated>
-    <id>tag:github.com,2024-05-22:/courtois-neuromod/phantom_multimodal</id>
-    <link href="https://github.com/courtois-neuromod/phantom_multimodal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Training multimodal neural networks on the CNeuroMod datasets&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>axone-protocol/ontology</title>
+    <updated>2024-05-23T01:30:39Z</updated>
+    <id>tag:github.com,2024-05-23:/axone-protocol/ontology</id>
+    <link href="https://github.com/axone-protocol/ontology" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📙 The Axone Ontology&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>solarwinds/apm-proto</title>
-    <updated>2024-05-22T01:31:35Z</updated>
-    <id>tag:github.com,2024-05-22:/solarwinds/apm-proto</id>
-    <link href="https://github.com/solarwinds/apm-proto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;gRPC-defined protobuf for Solarwinds APM services&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>timescale/pgai</title>
+    <updated>2024-05-23T01:30:39Z</updated>
+    <id>tag:github.com,2024-05-23:/timescale/pgai</id>
+    <link href="https://github.com/timescale/pgai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Artificial Intelligence for Postgres&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

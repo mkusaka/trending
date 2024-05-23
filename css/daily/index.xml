@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-22T01:28:57Z</updated>
+  <updated>2024-05-23T01:27:48Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>newmanix/form-processing</title>
-    <updated>2024-05-22T01:28:57Z</updated>
-    <id>tag:github.com,2024-05-22:/newmanix/form-processing</id>
-    <link href="https://github.com/newmanix/form-processing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A starting point for an assignment on form fundamentals&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;form-processing&lt;/h1&gt; &#xA;&lt;p&gt;A starting point for an assignment on form fundamentals&lt;/p&gt;</summary>
+    <title>wahidustoz/school39</title>
+    <updated>2024-05-23T01:27:48Z</updated>
+    <id>tag:github.com,2024-05-23:/wahidustoz/school39</id>
+    <link href="https://github.com/wahidustoz/school39" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;��#� �s�c�h�o�o�l�3�9� � �&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>TalyaOW/T2Class5</title>
+    <updated>2024-05-23T01:27:48Z</updated>
+    <id>tag:github.com,2024-05-23:/TalyaOW/T2Class5</id>
+    <link href="https://github.com/TalyaOW/T2Class5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rjc1704/nb5-standard-3rd-hw</title>
+    <updated>2024-05-23T01:27:48Z</updated>
+    <id>tag:github.com,2024-05-23:/rjc1704/nb5-standard-3rd-hw</id>
+    <link href="https://github.com/rjc1704/nb5-standard-3rd-hw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;React + Vite&lt;/h1&gt; &#xA;&lt;p&gt;This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.&lt;/p&gt; &#xA;&lt;p&gt;Currently, two official plugins are available:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/vitejs/vite-plugin-react/raw/main/packages/plugin-react/README.md&#34;&gt;@vitejs/plugin-react&lt;/a&gt; uses &lt;a href=&#34;https://babeljs.io/&#34;&gt;Babel&lt;/a&gt; for Fast Refresh&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/vitejs/vite-plugin-react-swc&#34;&gt;@vitejs/plugin-react-swc&lt;/a&gt; uses &lt;a href=&#34;https://swc.rs/&#34;&gt;SWC&lt;/a&gt; for Fast Refresh&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-22T01:31:02Z</updated>
+  <updated>2024-05-23T01:30:02Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HolyLab/FlyThroughPaths.jl</title>
-    <updated>2024-05-22T01:31:02Z</updated>
-    <id>tag:github.com,2024-05-22:/HolyLab/FlyThroughPaths.jl</id>
-    <link href="https://github.com/HolyLab/FlyThroughPaths.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create &#34;fly-throughs&#34; in 3d visualization&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tangwei94/AD4VUMPS.jl</title>
-    <updated>2024-05-22T01:31:02Z</updated>
-    <id>tag:github.com,2024-05-22:/tangwei94/AD4VUMPS.jl</id>
-    <link href="https://github.com/tangwei94/AD4VUMPS.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

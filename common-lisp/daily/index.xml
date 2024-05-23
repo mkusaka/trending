@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-22T01:28:51Z</updated>
+  <updated>2024-05-23T01:27:43Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lisplizards/vinland</title>
-    <updated>2024-05-22T01:28:51Z</updated>
-    <id>tag:github.com,2024-05-22:/lisplizards/vinland</id>
-    <link href="https://github.com/lisplizards/vinland" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common Lisp web framework&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;vinland&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Common Lisp web framework&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;Website: &lt;a href=&#34;https://www.vinland.dev/&#34;&gt;https://www.vinland.dev/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Vinland is a Clack-based web framework built on the &lt;a href=&#34;https://github.com/lisplizards/raven&#34;&gt;Raven&lt;/a&gt; router.&lt;/p&gt; &#xA;&lt;h2&gt;Warning&lt;/h2&gt; &#xA;&lt;p&gt;Vinland is BETA software. Breaking API changes may be introduced.&lt;/p&gt; &#xA;&lt;p&gt;Additionally, struct definitions may be updated from time to time, so it is recommended to restart the Lisp process whenever upgrading.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://github.com/lisplizards/vinland-todo-app&#34;&gt;vinland-todo-app&lt;/a&gt; for an example of an application built with Vinland and Hotwire.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Not in Quicklisp, so clone the repository to &#34;local-projects/&#34;.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Open an Issue or Pull Request on GitHub.&lt;/p&gt; &#xA;&lt;p&gt;If you decide to open a Pull Request, please provide context to your changes: describe the impact, what problem it solves for you, and any alternative approaches you considered.&lt;/p&gt; &#xA;&lt;h2&gt;Author&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;John Newton (&lt;a href=&#34;mailto:jnewton@lisplizards.dev&#34;&gt;&lt;/a&gt;&lt;a href=&#34;mailto:jnewton@lisplizards.dev&#34;&gt;jnewton@lisplizards.dev&lt;/a&gt;)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Copyright&lt;/h2&gt; &#xA;&lt;p&gt;Copyright (c) 2024 John Newton&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Apache-2.0&lt;/p&gt;</summary>
-  </entry>
 </feed>

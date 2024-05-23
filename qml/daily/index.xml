@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-22T01:33:06Z</updated>
+  <updated>2024-05-23T01:32:06Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dsgoficial/configuracoes_producao</title>
-    <updated>2024-05-22T01:33:06Z</updated>
-    <id>tag:github.com,2024-05-22:/dsgoficial/configuracoes_producao</id>
-    <link href="https://github.com/dsgoficial/configuracoes_producao" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Configurações utilizadas na linha de produção das OMDS/DSG&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

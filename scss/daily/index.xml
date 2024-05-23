@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-22T01:33:47Z</updated>
+  <updated>2024-05-23T01:32:47Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>emfcamp/developer.emfcamp.org</title>
-    <updated>2024-05-22T01:33:47Z</updated>
-    <id>tag:github.com,2024-05-22:/emfcamp/developer.emfcamp.org</id>
-    <link href="https://github.com/emfcamp/developer.emfcamp.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Developer documentation for EMF APIs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>unmaya/Girder</title>
+    <updated>2024-05-23T01:32:47Z</updated>
+    <id>tag:github.com,2024-05-23:/unmaya/Girder</id>
+    <link href="https://github.com/unmaya/Girder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple CSS grid for building and prototyping modern websites. Its flexible, semantic and responsive.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

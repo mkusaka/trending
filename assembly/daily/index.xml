@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-22T01:28:04Z</updated>
+  <updated>2024-05-23T01:27:00Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>P4r4d1se/dll_hijack</title>
-    <updated>2024-05-22T01:28:04Z</updated>
-    <id>tag:github.com,2024-05-22:/P4r4d1se/dll_hijack</id>
-    <link href="https://github.com/P4r4d1se/dll_hijack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hightower969/Hamster-Kombat-auto-Farm-bot</title>
+    <updated>2024-05-23T01:27:00Z</updated>
+    <id>tag:github.com,2024-05-23:/hightower969/Hamster-Kombat-auto-Farm-bot</id>
+    <link href="https://github.com/hightower969/Hamster-Kombat-auto-Farm-bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automatic bot that performs tasks and farms currency with the ability to create many threads for farming to @hamster_kombat_bot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ymartel06/GnGeo-Pi</title>
+    <updated>2024-05-23T01:27:00Z</updated>
+    <id>tag:github.com,2024-05-23:/ymartel06/GnGeo-Pi</id>
+    <link href="https://github.com/ymartel06/GnGeo-Pi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NeoGeo emulator optimized for Raspberry Pi&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ReturnInfinity/Pure64</title>
+    <updated>2024-05-23T01:27:00Z</updated>
+    <id>tag:github.com,2024-05-23:/ReturnInfinity/Pure64</id>
+    <link href="https://github.com/ReturnInfinity/Pure64" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure64 is a kernel/software loader for x86-64 systems.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
