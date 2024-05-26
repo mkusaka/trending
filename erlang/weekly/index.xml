@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-23T01:36:30Z</updated>
+  <subtitle>Weekly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>olcai/fsal</title>
+    <updated>2024-05-23T01:36:30Z</updated>
+    <id>tag:github.com,2024-05-23:/olcai/fsal</id>
+    <link href="https://github.com/olcai/fsal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A stupid File System Abstraction Layer for Erlang.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

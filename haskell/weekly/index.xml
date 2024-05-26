@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-23T01:37:07Z</updated>
+  <subtitle>Weekly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Zankoku-Okuno/templar</title>
+    <updated>2024-05-23T01:37:07Z</updated>
+    <id>tag:github.com,2024-05-23:/Zankoku-Okuno/templar</id>
+    <link href="https://github.com/Zankoku-Okuno/templar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advanced templating engine decoupled from specific uses.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Regikul/okasaki-fp</title>
+    <updated>2024-05-23T01:37:07Z</updated>
+    <id>tag:github.com,2024-05-23:/Regikul/okasaki-fp</id>
+    <link href="https://github.com/Regikul/okasaki-fp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;okasaki&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;okasaki-fp&lt;/h1&gt; &#xA;&lt;p&gt;okasaki&lt;/p&gt;</summary>
+  </entry>
+</feed>

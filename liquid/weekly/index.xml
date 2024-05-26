@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Liquid Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-23T01:38:16Z</updated>
+  <subtitle>Weekly Trending of Liquid in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>servicetitan/request-middleware-templates</title>
+    <updated>2024-05-23T01:38:16Z</updated>
+    <id>tag:github.com,2024-05-23:/servicetitan/request-middleware-templates</id>
+    <link href="https://github.com/servicetitan/request-middleware-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools and templates to help connect your systems to the ServiceTitan supply chain&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

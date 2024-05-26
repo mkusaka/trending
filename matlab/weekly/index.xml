@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-23T01:38:34Z</updated>
+  <subtitle>Weekly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ai-winter/matlab_motion_planning</title>
+    <updated>2024-05-23T01:38:34Z</updated>
+    <id>tag:github.com,2024-05-23:/ai-winter/matlab_motion_planning</id>
+    <link href="https://github.com/ai-winter/matlab_motion_planning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, Theta*, JPS, D*, LPA*, D* Lite, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, LQR, MPC, APF, DWA, Bezier, B-spline, Dubins, Reeds-Shepp etc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

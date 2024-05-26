@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-23T01:34:19Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KAYOKG/BibliotecaDev</title>
+    <updated>2024-05-23T01:34:19Z</updated>
+    <id>tag:github.com,2024-05-23:/KAYOKG/BibliotecaDev</id>
+    <link href="https://github.com/KAYOKG/BibliotecaDev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Biblioteca de livros essenciais da área da programação. (Confira o meu novo projeto `SendScriptWhatsapp`)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>X-LANCE/AniTalker</title>
+    <updated>2024-05-23T01:34:19Z</updated>
+    <id>tag:github.com,2024-05-23:/X-LANCE/AniTalker</id>
+    <link href="https://github.com/X-LANCE/AniTalker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>datawhalechina/so-large-lm</title>
+    <updated>2024-05-23T01:34:19Z</updated>
+    <id>tag:github.com,2024-05-23:/datawhalechina/so-large-lm</id>
+    <link href="https://github.com/datawhalechina/so-large-lm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;大模型基础: 一文了解大模型基础知识&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

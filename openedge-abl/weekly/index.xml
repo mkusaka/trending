@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OpenEdge ABL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-23T01:39:12Z</updated>
+  <subtitle>Weekly Trending of OpenEdge ABL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>amix/photoshop</title>
+    <updated>2024-05-23T01:39:12Z</updated>
+    <id>tag:github.com,2024-05-23:/amix/photoshop</id>
+    <link href="https://github.com/amix/photoshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Photoshop 1.0 Source Code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

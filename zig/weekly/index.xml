@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-23T01:42:01Z</updated>
+  <subtitle>Weekly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>godot-zig/godot-zig</title>
+    <updated>2024-05-23T01:42:01Z</updated>
+    <id>tag:github.com,2024-05-23:/godot-zig/godot-zig</id>
+    <link href="https://github.com/godot-zig/godot-zig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zig bindings for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zfl9/chinadns-ng</title>
+    <updated>2024-05-23T01:42:01Z</updated>
+    <id>tag:github.com,2024-05-23:/zfl9/chinadns-ng</id>
+    <link href="https://github.com/zfl9/chinadns-ng" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;chinadns 重构增强版，支持域名分流、ipset/nftset、UDP/TCP/DoT&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>karlseguin/zul</title>
+    <updated>2024-05-23T01:42:01Z</updated>
+    <id>tag:github.com,2024-05-23:/karlseguin/zul</id>
+    <link href="https://github.com/karlseguin/zul" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;zig utility library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

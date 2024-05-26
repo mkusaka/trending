@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-05-23T01:34:41Z</updated>
+  <subtitle>Weekly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ccbikai/astro-aria</title>
+    <updated>2024-05-23T01:34:41Z</updated>
+    <id>tag:github.com,2024-05-23:/ccbikai/astro-aria</id>
+    <link href="https://github.com/ccbikai/astro-aria" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A personal blog, portfolio, or blog template&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
