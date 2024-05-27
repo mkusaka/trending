@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-23T01:34:00Z</updated>
+  <updated>2024-05-27T01:35:30Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>multivactech/MultiVAC</title>
+    <updated>2024-05-27T01:35:30Z</updated>
+    <id>tag:github.com,2024-05-27:/multivactech/MultiVAC</id>
+    <link href="https://github.com/multivactech/MultiVAC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All-dimensional Sharding Flexible Blockchain&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

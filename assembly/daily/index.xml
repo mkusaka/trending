@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-23T01:27:00Z</updated>
+  <updated>2024-05-27T01:28:37Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ic3qu33n/OffensiveCon24-uefi-task-of-the-translator</title>
+    <updated>2024-05-27T01:28:37Z</updated>
+    <id>tag:github.com,2024-05-27:/ic3qu33n/OffensiveCon24-uefi-task-of-the-translator</id>
+    <link href="https://github.com/ic3qu33n/OffensiveCon24-uefi-task-of-the-translator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OffensiveCon 2024 Repo, contains PoCs and materials for talk &#34;UEFI and the Task of the Translator&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>onx/CIH</title>
+    <updated>2024-05-27T01:28:37Z</updated>
+    <id>tag:github.com,2024-05-27:/onx/CIH</id>
+    <link href="https://github.com/onx/CIH" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The source code of the CIH virus&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

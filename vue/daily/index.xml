@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-23T01:33:58Z</updated>
+  <updated>2024-05-27T01:35:27Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yangjian102621/geekai</title>
+    <updated>2024-05-27T01:35:27Z</updated>
+    <id>tag:github.com,2024-05-27:/yangjian102621/geekai</id>
+    <link href="https://github.com/yangjian102621/geekai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI 绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bobvinch/comfyui-webdemo</title>
+    <updated>2024-05-27T01:35:27Z</updated>
+    <id>tag:github.com,2024-05-27:/bobvinch/comfyui-webdemo</id>
+    <link href="https://github.com/bobvinch/comfyui-webdemo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A very beautiful and simple front-end AI drawing demo using ComfyUI as the background, using Nuxt3 and Vuetify&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ifzc/Shkjem</title>
+    <updated>2024-05-27T01:35:27Z</updated>
+    <id>tag:github.com,2024-05-27:/ifzc/Shkjem</id>
+    <link href="https://github.com/ifzc/Shkjem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于Vue&amp;ElementUI的企业官网&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

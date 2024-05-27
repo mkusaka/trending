@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MQL5 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-23T01:30:55Z</updated>
+  <updated>2024-05-27T01:32:23Z</updated>
   <subtitle>Daily Trending of MQL5 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>peterthomet/MetaTrader-5-and-4-Tools</title>
+    <updated>2024-05-27T01:32:23Z</updated>
+    <id>tag:github.com,2024-05-27:/peterthomet/MetaTrader-5-and-4-Tools</id>
+    <link href="https://github.com/peterthomet/MetaTrader-5-and-4-Tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Indicators and EA Snippets for MetaTrader 5&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

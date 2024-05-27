@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-23T01:33:04Z</updated>
+  <updated>2024-05-27T01:34:36Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>code-423n4/2024-05-predy</title>
+    <updated>2024-05-27T01:34:36Z</updated>
+    <id>tag:github.com,2024-05-27:/code-423n4/2024-05-predy</id>
+    <link href="https://github.com/code-423n4/2024-05-predy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cyfrin/2024-05-mafia-take-down</title>
+    <updated>2024-05-27T01:34:36Z</updated>
+    <id>tag:github.com,2024-05-27:/Cyfrin/2024-05-mafia-take-down</id>
+    <link href="https://github.com/Cyfrin/2024-05-mafia-take-down" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Lilyjjo/tldr-research</title>
+    <updated>2024-05-27T01:34:36Z</updated>
+    <id>tag:github.com,2024-05-27:/Lilyjjo/tldr-research</id>
+    <link href="https://github.com/Lilyjjo/tldr-research" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Suave/TEE PoCs of MEV Resistant AMMs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
