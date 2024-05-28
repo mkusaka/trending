@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-27T01:31:34Z</updated>
+  <updated>2024-05-28T01:30:16Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>qutip/QuantumToolbox.jl</title>
-    <updated>2024-05-27T01:31:34Z</updated>
-    <id>tag:github.com,2024-05-27:/qutip/QuantumToolbox.jl</id>
-    <link href="https://github.com/qutip/QuantumToolbox.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Quantum Toolbox in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MilesCranmer/DispatchDoctor.jl</title>
+    <updated>2024-05-28T01:30:16Z</updated>
+    <id>tag:github.com,2024-05-28:/MilesCranmer/DispatchDoctor.jl</id>
+    <link href="https://github.com/MilesCranmer/DispatchDoctor.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The dispatch doctor prescribes type stability&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaAI/MLJ.jl</title>
-    <updated>2024-05-27T01:31:34Z</updated>
-    <id>tag:github.com,2024-05-27:/JuliaAI/MLJ.jl</id>
-    <link href="https://github.com/JuliaAI/MLJ.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia machine learning framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kimikage/BMPImages.jl</title>
+    <updated>2024-05-28T01:30:16Z</updated>
+    <id>tag:github.com,2024-05-28:/kimikage/BMPImages.jl</id>
+    <link href="https://github.com/kimikage/BMPImages.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows Bitmap file I/O for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaDynamics/DynamicSumTypes.jl</title>
+    <updated>2024-05-28T01:30:16Z</updated>
+    <id>tag:github.com,2024-05-28:/JuliaDynamics/DynamicSumTypes.jl</id>
+    <link href="https://github.com/JuliaDynamics/DynamicSumTypes.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Combine multiple types in a single one&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

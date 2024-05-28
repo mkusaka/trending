@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-27T01:30:14Z</updated>
+  <updated>2024-05-28T01:28:55Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alavrik/piqi-erlang</title>
-    <updated>2024-05-27T01:30:14Z</updated>
-    <id>tag:github.com,2024-05-27:/alavrik/piqi-erlang</id>
-    <link href="https://github.com/alavrik/piqi-erlang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Protocol Buffers, JSON, XML data serialization system for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>2600hz/erlang-amqp_dist</title>
+    <updated>2024-05-28T01:28:55Z</updated>
+    <id>tag:github.com,2024-05-28:/2600hz/erlang-amqp_dist</id>
+    <link href="https://github.com/2600hz/erlang-amqp_dist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;erlang distribution protocol over amqp&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aialferov/oauth2</title>
-    <updated>2024-05-27T01:30:14Z</updated>
-    <id>tag:github.com,2024-05-27:/aialferov/oauth2</id>
-    <link href="https://github.com/aialferov/oauth2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple OAuth2 client.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>2600hz/erlang-esaml</title>
+    <updated>2024-05-28T01:28:55Z</updated>
+    <id>tag:github.com,2024-05-28:/2600hz/erlang-esaml</id>
+    <link href="https://github.com/2600hz/erlang-esaml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

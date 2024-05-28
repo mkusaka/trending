@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-27T01:29:44Z</updated>
+  <updated>2024-05-28T01:28:25Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vdespa/install-jenkins-docker</title>
-    <updated>2024-05-27T01:29:44Z</updated>
-    <id>tag:github.com,2024-05-27:/vdespa/install-jenkins-docker</id>
-    <link href="https://github.com/vdespa/install-jenkins-docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Docker compose configuration for a quick installation of Jenkins&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Install Jenkins using Docker Compose&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains a Docker Compose configuration for a quick installation of Jenkins. This setup is not intended for production systems.&lt;/p&gt; &#xA;&lt;p&gt;Credits: This approach is mostly based on the &lt;a href=&#34;https://www.jenkins.io/doc/book/installing/docker/&#34;&gt;offical instructions&lt;/a&gt; but takes advantage of Docker Compose (by using a &lt;code&gt;docker-compose.yml&lt;/code&gt; file) to reduce the number of steps needed to get Jenkins up and running.&lt;/p&gt; &#xA;&lt;h1&gt;Docker Installation&lt;/h1&gt; &#xA;&lt;h2&gt;Step 1&lt;/h2&gt; &#xA;&lt;p&gt;Install Docker locally (probably using Docker Desktop is the easiest approach).&lt;/p&gt; &#xA;&lt;h2&gt;Step 2&lt;/h2&gt; &#xA;&lt;p&gt;Clone this repository or download it&#39;s contents.&lt;/p&gt; &#xA;&lt;h2&gt;Step 2&lt;/h2&gt; &#xA;&lt;p&gt;Open a terminal window in the same directory where the &lt;code&gt;Dockerfile&lt;/code&gt; from this repository is located. Build the Jenkins Docker image:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker build -t my-jenkins .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Step 3&lt;/h2&gt; &#xA;&lt;p&gt;Start Jenkins:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker compose up -d&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Step 4&lt;/h2&gt; &#xA;&lt;p&gt;Open Jenkins by going to: &lt;a href=&#34;http://localhost:8080/&#34;&gt;http://localhost:8080/&lt;/a&gt; and finish the installation process.&lt;/p&gt; &#xA;&lt;h2&gt;Step 5&lt;/h2&gt; &#xA;&lt;p&gt;If you wish to stop Jenkins and get back to it later, run:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker compose down&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;If you wish to start Jenkins again later, just run the same comand from Step 3.&lt;/p&gt; &#xA;&lt;h1&gt;Removing Jenkins&lt;/h1&gt; &#xA;&lt;p&gt;Once you are done playing with Jenkins maybe it is time to clean things up.&lt;/p&gt; &#xA;&lt;p&gt;Run the following comand to terminate Jenkins and to remove all volumes and images used:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker compose down --volumes --rmi all &#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>
