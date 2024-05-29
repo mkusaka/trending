@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-28T01:27:21Z</updated>
+  <updated>2024-05-29T01:28:52Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>team-s2/ctf_summer_courses</title>
-    <updated>2024-05-28T01:27:21Z</updated>
-    <id>tag:github.com,2024-05-28:/team-s2/ctf_summer_courses</id>
-    <link href="https://github.com/team-s2/ctf_summer_courses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AAA - 短学期安全攻防实践开源仓库&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brandonlw/Linky</title>
+    <updated>2024-05-29T01:28:52Z</updated>
+    <id>tag:github.com,2024-05-29:/brandonlw/Linky</id>
+    <link href="https://github.com/brandonlw/Linky" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Flash application for the TI-84 Plus, TI-84 Plus Silver Edition, and TI-84 Plus C Silver Edition exposing an API (in multiple forms) for other programs and applications to implement USB host and peripheral functionality.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

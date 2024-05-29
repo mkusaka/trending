@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-28T01:33:16Z</updated>
+  <updated>2024-05-29T01:35:23Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kry0sc0pic/encryptid-finale</title>
-    <updated>2024-05-28T01:33:16Z</updated>
-    <id>tag:github.com,2024-05-28:/kry0sc0pic/encryptid-finale</id>
-    <link href="https://github.com/kry0sc0pic/encryptid-finale" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

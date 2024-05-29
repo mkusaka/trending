@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-28T01:33:43Z</updated>
+  <updated>2024-05-29T01:36:04Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>qingyi/myvim</title>
+    <updated>2024-05-29T01:36:04Z</updated>
+    <id>tag:github.com,2024-05-29:/qingyi/myvim</id>
+    <link href="https://github.com/qingyi/myvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;my .vimrc and plugins&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jboyens/minimal-vim-config</title>
+    <updated>2024-05-29T01:36:04Z</updated>
+    <id>tag:github.com,2024-05-29:/jboyens/minimal-vim-config</id>
+    <link href="https://github.com/jboyens/minimal-vim-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

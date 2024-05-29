@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-28T01:27:57Z</updated>
+  <updated>2024-05-29T01:29:34Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>freezedev/milksugar-template</title>
+    <updated>2024-05-29T01:29:34Z</updated>
+    <id>tag:github.com,2024-05-29:/freezedev/milksugar-template</id>
+    <link href="https://github.com/freezedev/milksugar-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ready-to-go template for MilkSugar&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eraserhd/git-story</title>
+    <updated>2024-05-29T01:29:34Z</updated>
+    <id>tag:github.com,2024-05-29:/eraserhd/git-story</id>
+    <link href="https://github.com/eraserhd/git-story" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a &#39;story&#39; subcommand for git for developing tickets on branches&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

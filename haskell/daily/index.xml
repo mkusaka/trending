@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-28T01:29:30Z</updated>
+  <updated>2024-05-29T01:31:04Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tchoutri/confer</title>
+    <updated>2024-05-29T01:31:04Z</updated>
+    <id>tag:github.com,2024-05-29:/tchoutri/confer</id>
+    <link href="https://github.com/tchoutri/confer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The dotfiles manager&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Confer &lt;a href=&#34;https://haskell.org&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Made%20in-Haskell-%235e5086?logo=haskell&amp;amp;style=flat-square&#34; alt=&#34;Made with Haskell&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;The dotfiles manager&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;📖 Documentation&lt;/h2&gt; &#xA;&lt;p&gt;Read the &lt;a href=&#34;https://raw.githubusercontent.com/tchoutri/confer/main/doc/MANUAL.md&#34;&gt;Manual&lt;/a&gt; for documentation. For more details about the inner workings, read the &lt;a href=&#34;https://raw.githubusercontent.com/tchoutri/confer/main/doc/ARCHITECTURE.md&#34;&gt;Architecture document&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;📦 Install&lt;/h2&gt; &#xA;&lt;p&gt;No binaries are currently available. See the Build instructions&lt;/p&gt; &#xA;&lt;h2&gt;🔧 Build&lt;/h2&gt; &#xA;&lt;p&gt;&lt;em&gt;Confer&lt;/em&gt; is made in Haskell. To build it from source, use &lt;a href=&#34;https://www.haskell.org/ghcup/&#34;&gt;ghcup&lt;/a&gt; to install the following toolchains:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;cabal&lt;/code&gt; 3.12 &lt;code&gt;$ ghcup install cabal --force -u https://github.com/haskell/cabal/releases/download/cabal-head/cabal-head-Linux-x86_64.tar.gz head&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;ghc&lt;/code&gt; 9.10.1 &lt;code&gt;$ ghcup tui&lt;/code&gt; -&amp;gt; select GHC 9.10.1&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>brendanhay/chrononaut</title>
+    <updated>2024-05-29T01:31:04Z</updated>
+    <id>tag:github.com,2024-05-29:/brendanhay/chrononaut</id>
+    <link href="https://github.com/brendanhay/chrononaut" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure SQL Migrations&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Chrononaut&lt;/h2&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;TODO&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
+  </entry>
+  <entry>
+    <title>m4b/cloaked-robot</title>
+    <updated>2024-05-29T01:31:04Z</updated>
+    <id>tag:github.com,2024-05-29:/m4b/cloaked-robot</id>
+    <link href="https://github.com/m4b/cloaked-robot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;compilers final project --- Data Flow&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cloaked-robot&lt;/h1&gt; &#xA;&lt;p&gt;compilers final project --- Data Flow&lt;/p&gt;</summary>
+  </entry>
 </feed>

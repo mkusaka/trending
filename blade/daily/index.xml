@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-28T01:27:30Z</updated>
+  <updated>2024-05-29T01:29:01Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>combindma/demo-dashui</title>
-    <updated>2024-05-28T01:27:30Z</updated>
-    <id>tag:github.com,2024-05-28:/combindma/demo-dashui</id>
-    <link href="https://github.com/combindma/demo-dashui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A demo for Dash UI package using Laravel&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thedevdojo/laravel-ollama</title>
+    <updated>2024-05-29T01:29:01Z</updated>
+    <id>tag:github.com,2024-05-29:/thedevdojo/laravel-ollama</id>
+    <link href="https://github.com/thedevdojo/laravel-ollama" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple example of how to use Ollama and get a response in Laravel and Livewire. Logic is inside of resources/views/pages/index.blade.php&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
