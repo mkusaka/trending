@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-29T01:33:25Z</updated>
+  <updated>2024-05-30T01:32:01Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jric/fs-benchmark</title>
-    <updated>2024-05-29T01:33:25Z</updated>
-    <id>tag:github.com,2024-05-29:/jric/fs-benchmark</id>
-    <link href="https://github.com/jric/fs-benchmark" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This benchmark runs a series of file I/O operations. Benchmark is executed in node.js and python2.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;fs-benchmark&lt;/h1&gt; &#xA;&lt;p&gt;This benchmark runs a series of file I/O operations. Benchmark is executed in node.js and python2.&lt;/p&gt; &#xA;&lt;p&gt;Put some test html files into a directory, let&#39;s call it &lt;code&gt;test&lt;/code&gt;. Make sure this directory is in your path.&lt;/p&gt; &#xA;&lt;p&gt;Then, run &lt;code&gt;benchmark.pl test&lt;/code&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>bingos/poe-component-irc-plugin-role</title>
-    <updated>2024-05-29T01:33:25Z</updated>
-    <id>tag:github.com,2024-05-29:/bingos/poe-component-irc-plugin-role</id>
-    <link href="https://github.com/bingos/poe-component-irc-plugin-role" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(perl) A Moose role for POE::Component::IRC plugins&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ServerControl/mod-tomcat</title>
+    <updated>2024-05-30T01:32:01Z</updated>
+    <id>tag:github.com,2024-05-30:/ServerControl/mod-tomcat</id>
+    <link href="https://github.com/ServerControl/mod-tomcat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ServerControl Module to manage Tomcat instances&lt;/p&gt;&lt;hr&gt;&lt;p&gt;=pod&lt;/p&gt; &#xA;&lt;p&gt;This is the Tomcat Module for ServerControl.&lt;/p&gt; &#xA;&lt;p&gt;=head2 Dependencies&lt;/p&gt; &#xA;&lt;p&gt;=over 4&lt;/p&gt; &#xA;&lt;p&gt;=item *&lt;/p&gt; &#xA;&lt;p&gt;ServerControl &amp;gt;= 0.93&lt;/p&gt; &#xA;&lt;p&gt;=back&lt;/p&gt;</summary>
   </entry>
 </feed>

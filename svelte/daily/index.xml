@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-29T01:35:23Z</updated>
+  <updated>2024-05-30T01:33:53Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JijaProGamer/Youtube-Rumble-View-Bot</title>
+    <updated>2024-05-30T01:33:53Z</updated>
+    <id>tag:github.com,2024-05-30:/JijaProGamer/Youtube-Rumble-View-Bot</id>
+    <link href="https://github.com/JijaProGamer/Youtube-Rumble-View-Bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Only working youtube and rumble vews/watch bot with an API, GUI, likes, dislikes, comments, views and watch time&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stocknear/frontend</title>
+    <updated>2024-05-30T01:33:53Z</updated>
+    <id>tag:github.com,2024-05-30:/stocknear/frontend</id>
+    <link href="https://github.com/stocknear/frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;UI of stocknear - Stock Analysis &amp; Community Platform for Small Investors ❤️&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

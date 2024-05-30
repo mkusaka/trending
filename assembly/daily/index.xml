@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-29T01:28:52Z</updated>
+  <updated>2024-05-30T01:27:39Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>brandonlw/Linky</title>
-    <updated>2024-05-29T01:28:52Z</updated>
-    <id>tag:github.com,2024-05-29:/brandonlw/Linky</id>
-    <link href="https://github.com/brandonlw/Linky" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Flash application for the TI-84 Plus, TI-84 Plus Silver Edition, and TI-84 Plus C Silver Edition exposing an API (in multiple forms) for other programs and applications to implement USB host and peripheral functionality.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>banmrgamefun40/Catizen-Auto-bot-autofarm</title>
+    <updated>2024-05-30T01:27:39Z</updated>
+    <id>tag:github.com,2024-05-30:/banmrgamefun40/Catizen-Auto-bot-autofarm</id>
+    <link href="https://github.com/banmrgamefun40/Catizen-Auto-bot-autofarm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;We will help you automate all processes in the catizen game @Catizenbot auto farm Catzien&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bick11undead/Hamster-kombat-farm-auto-bot</title>
+    <updated>2024-05-30T01:27:39Z</updated>
+    <id>tag:github.com,2024-05-30:/bick11undead/Hamster-kombat-farm-auto-bot</id>
+    <link href="https://github.com/bick11undead/Hamster-kombat-farm-auto-bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bot that mines coins in HamsterKombat @hamster_kombat hamster-kombat-bot-free hamster-kombat-bot-download hamster-kombat-bot-setup hamster-kombat-bot-installation hamster-kombat-trading-bot hamster-kombat-bot-features hamster-kombat-crypto-bot hamster-kombat-automated-trading&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bitsfox/new_task</title>
+    <updated>2024-05-30T01:27:39Z</updated>
+    <id>tag:github.com,2024-05-30:/bitsfox/new_task</id>
+    <link href="https://github.com/bitsfox/new_task" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
