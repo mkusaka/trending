@@ -5,24 +5,10 @@
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DNM-Bible/DNM-Bible</title>
+    <title>ravynsoft/ravynos</title>
     <updated>2024-05-30T01:27:16Z</updated>
-    <id>tag:github.com,2024-05-30:/DNM-Bible/DNM-Bible</id>
-    <link href="https://github.com/DNM-Bible/DNM-Bible" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hey, this is verified list of darknet resources&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hichemfelouat/ML_DL_Course</title>
-    <updated>2024-05-30T01:27:16Z</updated>
-    <id>tag:github.com,2024-05-30:/hichemfelouat/ML_DL_Course</id>
-    <link href="https://github.com/hichemfelouat/ML_DL_Course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Machine Learning and Deep Learning Course&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adysec/nuclei_poc</title>
-    <updated>2024-05-30T01:27:16Z</updated>
-    <id>tag:github.com,2024-05-30:/adysec/nuclei_poc</id>
-    <link href="https://github.com/adysec/nuclei_poc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nuclei POC，每日更新&lt;/p&gt;&lt;hr&gt;</summary>
+    <id>tag:github.com,2024-05-30:/ravynsoft/ravynos</id>
+    <link href="https://github.com/ravynsoft/ravynos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

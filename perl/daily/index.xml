@@ -4,11 +4,4 @@
   <updated>2024-05-30T01:32:01Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ServerControl/mod-tomcat</title>
-    <updated>2024-05-30T01:32:01Z</updated>
-    <id>tag:github.com,2024-05-30:/ServerControl/mod-tomcat</id>
-    <link href="https://github.com/ServerControl/mod-tomcat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ServerControl Module to manage Tomcat instances&lt;/p&gt;&lt;hr&gt;&lt;p&gt;=pod&lt;/p&gt; &#xA;&lt;p&gt;This is the Tomcat Module for ServerControl.&lt;/p&gt; &#xA;&lt;p&gt;=head2 Dependencies&lt;/p&gt; &#xA;&lt;p&gt;=over 4&lt;/p&gt; &#xA;&lt;p&gt;=item *&lt;/p&gt; &#xA;&lt;p&gt;ServerControl &amp;gt;= 0.93&lt;/p&gt; &#xA;&lt;p&gt;=back&lt;/p&gt;</summary>
-  </entry>
 </feed>

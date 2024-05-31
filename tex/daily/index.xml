@@ -4,25 +4,4 @@
   <updated>2024-05-30T01:34:07Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Zeta611/snu-ece-bsc-thesis</title>
-    <updated>2024-05-30T01:34:07Z</updated>
-    <id>tag:github.com,2024-05-30:/Zeta611/snu-ece-bsc-thesis</id>
-    <link href="https://github.com/Zeta611/snu-ece-bsc-thesis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;서울대학교 전기정보공학부 학사학위논문 양식 LaTeX 클래스&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;snu-ece-bsc-thesis 클래스&lt;/h1&gt; &#xA;&lt;p&gt;snu-ece-bsc-thesis 클래스는 서울대학교 전기정보공학부 학사학위논문 양식을 LaTeX으로 작성하기 위한 클래스입니다.&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;ko&lt;/code&gt; 및 &lt;code&gt;en&lt;/code&gt; 옵션으로 한국어와 영어 논문을 둘 다 지원합니다.&lt;/p&gt; &#xA;&lt;h2&gt;사용법&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;XeLaTeX 혹은 LuaLaTeX&lt;/strong&gt;을 사용해야 합니다. pdfLaTeX은 지원하지 않습니다.[^1]&lt;/p&gt; &#xA;&lt;p&gt;[^1]: XeLaTeX 및 LuaLaTeX은 (pdfLaTeX과 달리) 기본적으로 유니코드 인코딩을 지원하고, OTF 및 TTF 폰트를 사용할 수 있습니다. 더 자세한 정보는 &lt;a href=&#34;https://tex.stackexchange.com/a/72/97583&#34;&gt;여기&lt;/a&gt;를 참고하세요.&lt;/p&gt; &#xA;&lt;h3&gt;예시&lt;/h3&gt; &#xA;&lt;p&gt;XeLaTeX을 사용할 경우 아래와 같이 조판할 수 있습니다. Biber를 통해 참고문헌을 처리하고, XeLaTeX을 두 번 더 실행하여 참조를 처리합니다.[^2]&lt;/p&gt; &#xA;&lt;p&gt;[^2]: &lt;a href=&#34;https://www.overleaf.com/&#34;&gt;Overleaf&lt;/a&gt;를 사용하는 경우 이 과정을 자동으로 처리하는 것 같습니다. 이외에도 &lt;a href=&#34;https://tectonic-typesetting.github.io/&#34;&gt;Tectonic&lt;/a&gt;, &lt;a href=&#34;https://mg.readthedocs.io/latexmk.html&#34;&gt;Latexmk&lt;/a&gt; 등을 사용하여 자동화할 수 있습니다.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;xelatex example-ko&#xA;biber example-ko&#xA;xelatex example-ko&#xA;xelatex example-ko&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Zeta611/snu-ece-bsc-thesis/main/example/example-ko.tex&#34;&gt;example-ko.tex&lt;/a&gt; 파일과 &lt;a href=&#34;https://raw.githubusercontent.com/Zeta611/snu-ece-bsc-thesis/main/example/example-en.tex&#34;&gt;example-en.tex&lt;/a&gt; 파일을 참고하세요.&lt;/p&gt; &#xA;&lt;h2&gt;저자&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;이재호 &lt;a href=&#34;https://raw.githubusercontent.com/Zeta611/snu-ece-bsc-thesis/main/jaeho.lee@snu.ac.kr&#34;&gt;jaeho.lee@snu.ac.kr&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;라이선스&lt;/h2&gt; &#xA;&lt;p&gt;snu-ece-bsc-thesis 클래스는 MIT 라이선스를 따릅니다. &lt;a href=&#34;https://raw.githubusercontent.com/Zeta611/snu-ece-bsc-thesis/main/LICENSE&#34;&gt;LICENSE&lt;/a&gt; 파일을 참고하세요.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>jinqiang-yu/jinqiang-thesis</title>
-    <updated>2024-05-30T01:34:07Z</updated>
-    <id>tag:github.com,2024-05-30:/jinqiang-yu/jinqiang-thesis</id>
-    <link href="https://github.com/jinqiang-yu/jinqiang-thesis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Commands to write comments: &lt;code&gt;\pnote&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;\anote&lt;/code&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>iestevez/mathsandroboticfleet</title>
-    <updated>2024-05-30T01:34:07Z</updated>
-    <id>tag:github.com,2024-05-30:/iestevez/mathsandroboticfleet</id>
-    <link href="https://github.com/iestevez/mathsandroboticfleet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimenting on models and operations research with robotic fleets&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;mathsandroboticfleet&lt;/h1&gt; &#xA;&lt;p&gt;Experimenting on models and operations research with robotic fleets&lt;/p&gt;</summary>
-  </entry>
 </feed>
