@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-01T01:49:35Z</updated>
+  <subtitle>Monthly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>euler-xyz/ethereum-vault-connector</title>
+    <updated>2024-06-01T01:49:35Z</updated>
+    <id>tag:github.com,2024-06-01:/euler-xyz/ethereum-vault-connector</id>
+    <link href="https://github.com/euler-xyz/ethereum-vault-connector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Ethereum Vault Connector (EVC) is a mediator between Vaults that may have borrowing functionality.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Arachnid/solidity-stringutils</title>
+    <updated>2024-06-01T01:49:35Z</updated>
+    <id>tag:github.com,2024-06-01:/Arachnid/solidity-stringutils</id>
+    <link href="https://github.com/Arachnid/solidity-stringutils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basic string utilities for Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>euler-xyz/euler-price-oracle</title>
+    <updated>2024-06-01T01:49:35Z</updated>
+    <id>tag:github.com,2024-06-01:/euler-xyz/euler-price-oracle</id>
+    <link href="https://github.com/euler-xyz/euler-price-oracle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Euler Price Oracles, a library of immutable oracle adapters and components&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Emacs Lisp Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-01T01:45:18Z</updated>
+  <subtitle>Monthly Trending of Emacs Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ledyba/.emacs.d</title>
+    <updated>2024-06-01T01:45:18Z</updated>
+    <id>tag:github.com,2024-06-01:/ledyba/.emacs.d</id>
+    <link href="https://github.com/ledyba/.emacs.d" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;.emacs.dです。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>emacs-straight/queue</title>
+    <updated>2024-06-01T01:45:18Z</updated>
+    <id>tag:github.com,2024-06-01:/emacs-straight/queue</id>
+    <link href="https://github.com/emacs-straight/queue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mirror of the queue package from GNU ELPA, current as of 2024-06-01&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>company-mode/company-mode</title>
+    <updated>2024-06-01T01:45:18Z</updated>
+    <id>tag:github.com,2024-06-01:/company-mode/company-mode</id>
+    <link href="https://github.com/company-mode/company-mode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modular in-buffer completion framework for Emacs&lt;/p&gt;&lt;hr&gt;&lt;p&gt;See the homepage for &lt;a href=&#34;http://company-mode.github.io/&#34;&gt;installation and usage instructions&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;File a bug report in &lt;a href=&#34;https://github.com/company-mode/company-mode/issues&#34;&gt;Issues&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Ask a question or suggest a feature in &lt;a href=&#34;https://github.com/company-mode/company-mode/discussions/&#34;&gt;Discussions&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://github.com/company-mode/company-mode/raw/master/CONTRIBUTING.md&#34;&gt;Contributing&lt;/a&gt; on other ways to help out.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/company-mode/company-mode/actions/workflows/ci.yml&#34;&gt;&lt;img src=&#34;https://github.com/company-mode/company-mode/actions/workflows/ci.yml/badge.svg?sanitize=true&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;&lt;img src=&#34;https://img.shields.io/static/v1?logo=gnuemacs&amp;amp;logoColor=fafafa&amp;amp;label=Made%20for&amp;amp;message=GNU%20Emacs&amp;amp;color=7F5AB6&amp;amp;style=flat&#34; alt=&#34;GNU Emacs&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://melpa.org/#/company&#34;&gt;&lt;img src=&#34;https://melpa.org/packages/company-badge.svg?sanitize=true&#34; alt=&#34;MELPA&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://elpa.gnu.org/packages/company.html&#34;&gt;&lt;img src=&#34;https://elpa.gnu.org/packages/company.svg?sanitize=true&#34; alt=&#34;GNU ELPA&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://elpa.gnu.org/devel/company.html&#34;&gt;&lt;img src=&#34;https://elpa.gnu.org/devel/company.svg?sanitize=true&#34; alt=&#34;GNU-devel ELPA&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

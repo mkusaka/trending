@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-01T01:45:54Z</updated>
+  <subtitle>Monthly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>satchitpande/groovysamples</title>
+    <updated>2024-06-01T01:45:54Z</updated>
+    <id>tag:github.com,2024-06-01:/satchitpande/groovysamples</id>
+    <link href="https://github.com/satchitpande/groovysamples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Netflix/mantis-gradle-plugin</title>
+    <updated>2024-06-01T01:45:54Z</updated>
+    <id>tag:github.com,2024-06-01:/Netflix/mantis-gradle-plugin</id>
+    <link href="https://github.com/Netflix/mantis-gradle-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin for producing a deployable Mantis Job artifact from a JVM-based project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Netflix/asgard</title>
+    <updated>2024-06-01T01:45:54Z</updated>
+    <id>tag:github.com,2024-06-01:/Netflix/asgard</id>
+    <link href="https://github.com/Netflix/asgard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-30T01:29:02Z</updated>
+  <updated>2024-06-01T01:30:52Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ElixirMostWanted/elixirmostwanted.com</title>
+    <updated>2024-06-01T01:30:52Z</updated>
+    <id>tag:github.com,2024-06-01:/ElixirMostWanted/elixirmostwanted.com</id>
+    <link href="https://github.com/ElixirMostWanted/elixirmostwanted.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>girishramnani/polly</title>
+    <updated>2024-06-01T01:30:52Z</updated>
+    <id>tag:github.com,2024-06-01:/girishramnani/polly</id>
+    <link href="https://github.com/girishramnani/polly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A social poll application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

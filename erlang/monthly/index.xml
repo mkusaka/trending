@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-01T01:45:23Z</updated>
+  <subtitle>Monthly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rmeritz/hq9plus</title>
+    <updated>2024-06-01T01:45:23Z</updated>
+    <id>tag:github.com,2024-06-01:/rmeritz/hq9plus</id>
+    <link href="https://github.com/rmeritz/hq9plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Joke&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jcomellas/getopt</title>
+    <updated>2024-06-01T01:45:23Z</updated>
+    <id>tag:github.com,2024-06-01:/jcomellas/getopt</id>
+    <link href="https://github.com/jcomellas/getopt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang module to parse command line arguments using the GNU getopt syntax&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>covertool/covertool</title>
+    <updated>2024-06-01T01:45:23Z</updated>
+    <id>tag:github.com,2024-06-01:/covertool/covertool</id>
+    <link href="https://github.com/covertool/covertool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tool to convert Erlang cover data files into Cobertura XML reports&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

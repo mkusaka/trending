@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-01T01:49:46Z</updated>
+  <subtitle>Monthly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>taikoxyz/taiko-mono</title>
+    <updated>2024-06-01T01:49:46Z</updated>
+    <id>tag:github.com,2024-06-01:/taikoxyz/taiko-mono</id>
+    <link href="https://github.com/taikoxyz/taiko-mono" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A based rollup. 🥁&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>0x2E/fusion</title>
+    <updated>2024-06-01T01:49:46Z</updated>
+    <id>tag:github.com,2024-06-01:/0x2E/fusion</id>
+    <link href="https://github.com/0x2E/fusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight, self-hosted friendly RSS aggregator and reader&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bkuehnis/KI-Anwendungen-n-to-n-frontend</title>
+    <updated>2024-06-01T01:49:46Z</updated>
+    <id>tag:github.com,2024-06-01:/bkuehnis/KI-Anwendungen-n-to-n-frontend</id>
+    <link href="https://github.com/bkuehnis/KI-Anwendungen-n-to-n-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

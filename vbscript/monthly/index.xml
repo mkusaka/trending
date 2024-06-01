@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub VBScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-01T01:50:18Z</updated>
+  <subtitle>Monthly Trending of VBScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>abbodi1406/vcredist</title>
+    <updated>2024-06-01T01:50:18Z</updated>
+    <id>tag:github.com,2024-06-01:/abbodi1406/vcredist</id>
+    <link href="https://github.com/abbodi1406/vcredist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Awk Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-01T01:43:43Z</updated>
+  <subtitle>Monthly Trending of Awk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>x-cmd/x-cmd</title>
+    <updated>2024-06-01T01:43:43Z</updated>
+    <id>tag:github.com,2024-06-01:/x-cmd/x-cmd</id>
+    <link href="https://github.com/x-cmd/x-cmd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Opensource lightweight posix script for tools (500+) management and classic command extensions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

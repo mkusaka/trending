@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-30T01:27:16Z</updated>
+  <updated>2024-06-01T01:29:06Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ravynsoft/ravynos</title>
-    <updated>2024-05-30T01:27:16Z</updated>
-    <id>tag:github.com,2024-05-30:/ravynsoft/ravynos</id>
-    <link href="https://github.com/ravynsoft/ravynos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alibaba-yuanjing-aigclab/ViViD</title>
+    <updated>2024-06-01T01:29:06Z</updated>
+    <id>tag:github.com,2024-06-01:/alibaba-yuanjing-aigclab/ViViD</id>
+    <link href="https://github.com/alibaba-yuanjing-aigclab/ViViD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ViViD: Video Virtual Try-on using Diffusion Models&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>malvuln/RansomLord</title>
+    <updated>2024-06-01T01:29:06Z</updated>
+    <id>tag:github.com,2024-06-01:/malvuln/RansomLord</id>
+    <link href="https://github.com/malvuln/RansomLord" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise ransomware pre-encryption.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>amusi/Deep-Learning-Interview-Book</title>
+    <updated>2024-06-01T01:29:06Z</updated>
+    <id>tag:github.com,2024-06-01:/amusi/Deep-Learning-Interview-Book</id>
+    <link href="https://github.com/amusi/Deep-Learning-Interview-Book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

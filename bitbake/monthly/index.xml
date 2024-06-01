@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub BitBake Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-01T01:43:51Z</updated>
+  <subtitle>Monthly Trending of BitBake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sbabic/meta-swupdate</title>
+    <updated>2024-06-01T01:43:51Z</updated>
+    <id>tag:github.com,2024-06-01:/sbabic/meta-swupdate</id>
+    <link href="https://github.com/sbabic/meta-swupdate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yocto receipes to generate a swupdate rootfilesystem as initrd&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openembedded/openembedded-core</title>
+    <updated>2024-06-01T01:43:51Z</updated>
+    <id>tag:github.com,2024-06-01:/openembedded/openembedded-core</id>
+    <link href="https://github.com/openembedded/openembedded-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official Git repository is at https://git.openembedded.org/openembedded-core/.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>STMicroelectronics/meta-st-stm32mp</title>
+    <updated>2024-06-01T01:43:51Z</updated>
+    <id>tag:github.com,2024-06-01:/STMicroelectronics/meta-st-stm32mp</id>
+    <link href="https://github.com/STMicroelectronics/meta-st-stm32mp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;meta-st-stm32mp&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

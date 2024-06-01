@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-01T01:49:33Z</updated>
+  <subtitle>Monthly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>supabase-community/supabase-kubernetes</title>
+    <updated>2024-06-01T01:49:33Z</updated>
+    <id>tag:github.com,2024-06-01:/supabase-community/supabase-kubernetes</id>
+    <link href="https://github.com/supabase-community/supabase-kubernetes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm 3 charts to deploy a Supabase on Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eryajf/awesome-ops</title>
+    <updated>2024-06-01T01:49:33Z</updated>
+    <id>tag:github.com,2024-06-01:/eryajf/awesome-ops</id>
+    <link href="https://github.com/eryajf/awesome-ops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 500 个。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

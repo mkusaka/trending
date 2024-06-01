@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-30T01:30:36Z</updated>
+  <updated>2024-06-01T01:32:08Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aj47/clickolas-cage</title>
+    <updated>2024-06-01T01:32:08Z</updated>
+    <id>tag:github.com,2024-06-01:/aj47/clickolas-cage</id>
+    <link href="https://github.com/aj47/clickolas-cage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a chrome extension that performs web browsing actions autonomously to complete a given goal/task (using LLM as brain).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vituri/QuartoDocBuilder.jl</title>
+    <updated>2024-06-01T01:32:08Z</updated>
+    <id>tag:github.com,2024-06-01:/vituri/QuartoDocBuilder.jl</id>
+    <link href="https://github.com/vituri/QuartoDocBuilder.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OndrejKincl/SmoothedParticles.jl</title>
+    <updated>2024-06-01T01:32:08Z</updated>
+    <id>tag:github.com,2024-06-01:/OndrejKincl/SmoothedParticles.jl</id>
+    <link href="https://github.com/OndrejKincl/SmoothedParticles.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia framework for smoothed particle hydrodynamics. Requires Julia 1.5 or newer.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

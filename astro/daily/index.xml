@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-30T01:27:38Z</updated>
+  <updated>2024-06-01T01:29:25Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dsmhs/dsm-freshman-guide</title>
+    <updated>2024-06-01T01:29:25Z</updated>
+    <id>tag:github.com,2024-06-01:/dsmhs/dsm-freshman-guide</id>
+    <link href="https://github.com/dsmhs/dsm-freshman-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;대덕SW마이스터고등학교 신입생을 위한 전공 공부 가이드입니다.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

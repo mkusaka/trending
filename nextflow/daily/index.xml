@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-05-30T01:31:30Z</updated>
+  <updated>2024-06-01T01:32:59Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>uclahs-cds/pipeline-calculate-targeted-coverage</title>
+    <updated>2024-06-01T01:32:59Z</updated>
+    <id>tag:github.com,2024-06-01:/uclahs-cds/pipeline-calculate-targeted-coverage</id>
+    <link href="https://github.com/uclahs-cds/pipeline-calculate-targeted-coverage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nextflow pipeline to calculate read-depth related stats for targeted sequencing experiments&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uclahs-cds/pipeline-align-DNA</title>
+    <updated>2024-06-01T01:32:59Z</updated>
+    <id>tag:github.com,2024-06-01:/uclahs-cds/pipeline-align-DNA</id>
+    <link href="https://github.com/uclahs-cds/pipeline-align-DNA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nextflow pipeline to align paired DNA FASTQs and sort, mark duplicates, and index resulting alignment&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

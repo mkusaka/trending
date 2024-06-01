@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scala Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-01T01:49:13Z</updated>
+  <subtitle>Monthly Trending of Scala in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>marcus-downing/rapture-html</title>
+    <updated>2024-06-01T01:49:13Z</updated>
+    <id>tag:github.com,2024-06-01:/marcus-downing/rapture-html</id>
+    <link href="https://github.com/marcus-downing/rapture-html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rapture HTML library&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;rapture-html&lt;/h1&gt; &#xA;&lt;p&gt;Rapture HTML library&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Happy0/twitchbot</title>
+    <updated>2024-06-01T01:49:13Z</updated>
+    <id>tag:github.com,2024-06-01:/Happy0/twitchbot</id>
+    <link href="https://github.com/Happy0/twitchbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An IRC bot for announcing when tracked Twitch users are beginning to stream, written in Scala&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;twitchbot&lt;/h1&gt; &#xA;&lt;p&gt;An IRC bot for announcing when tracked Twitch users are beginning to stream, written in Scala.&lt;/p&gt; &#xA;&lt;p&gt;(Not yet in a usable state)&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>svtk/lecture4-scala</title>
+    <updated>2024-06-01T01:49:13Z</updated>
+    <id>tag:github.com,2024-06-01:/svtk/lecture4-scala</id>
+    <link href="https://github.com/svtk/lecture4-scala" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The code used in a lecture # 4 (28.09)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lecture#4&lt;/h1&gt; &#xA;&lt;p&gt;The code used in a lecture # 4 (28.09)&lt;/p&gt; &#xA;&lt;h1&gt;Task&lt;/h1&gt; &#xA;&lt;p&gt;Implement normalization of a lambda term. Lambda term should be specified like this:&lt;/p&gt; &#xA;&lt;p&gt;Appl(Abst(Var(&#34;x&#34;), Appl(Var(&#34;x&#34;),Var(&#34;y&#34;))),Abst(Var(&#34;x&#34;),Var(&#34;x&#34;)))&lt;/p&gt; &#xA;&lt;p&gt;Use case classes and pattern matching!&lt;/p&gt; &#xA;&lt;p&gt;Send it by e-mail: &lt;a href=&#34;mailto:course.scala@gmail.com&#34;&gt;course.scala@gmail.com&lt;/a&gt; Deadline is 4 October 2012, 21:00&lt;/p&gt;</summary>
+  </entry>
+</feed>
