@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Macaulay2 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-01T01:32:35Z</updated>
+  <updated>2024-06-02T01:37:34Z</updated>
   <subtitle>Daily Trending of Macaulay2 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Macaulay2/Workshop-2024-Utah</title>
-    <updated>2024-06-01T01:32:35Z</updated>
-    <id>tag:github.com,2024-06-01:/Macaulay2/Workshop-2024-Utah</id>
-    <link href="https://github.com/Macaulay2/Workshop-2024-Utah" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collaboration area for the Macaulay2 workshop in Salt Lake City, 2024&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

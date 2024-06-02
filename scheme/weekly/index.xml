@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scheme Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-02T01:55:20Z</updated>
+  <subtitle>Weekly Trending of Scheme in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ythuang-sandbox/salt</title>
+    <updated>2024-06-02T01:55:20Z</updated>
+    <id>tag:github.com,2024-06-02:/ythuang-sandbox/salt</id>
+    <link href="https://github.com/ythuang-sandbox/salt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Saltstack deployment and states&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

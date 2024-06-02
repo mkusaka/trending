@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-01T01:30:09Z</updated>
+  <updated>2024-06-02T01:32:44Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>weavejester/reagi</title>
+    <updated>2024-06-02T01:32:44Z</updated>
+    <id>tag:github.com,2024-06-02:/weavejester/reagi</id>
+    <link href="https://github.com/weavejester/reagi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An FRP library for Clojure and ClojureScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eliascotto/tryclojure</title>
+    <updated>2024-06-02T01:32:44Z</updated>
+    <id>tag:github.com,2024-06-02:/eliascotto/tryclojure</id>
+    <link href="https://github.com/eliascotto/tryclojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure live REPL tutorial&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

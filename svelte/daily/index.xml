@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-01T01:34:58Z</updated>
+  <updated>2024-06-02T01:41:47Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>moonlitgrace/coreproject-v3-ui</title>
-    <updated>2024-06-01T01:34:58Z</updated>
-    <id>tag:github.com,2024-06-01:/moonlitgrace/coreproject-v3-ui</id>
-    <link href="https://github.com/moonlitgrace/coreproject-v3-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;v3 CoreProject UI - a modern anime streaming platform frontend powered with svelte and sveltekit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>narze/bkk-sticker</title>
+    <updated>2024-06-02T01:41:47Z</updated>
+    <id>tag:github.com,2024-06-02:/narze/bkk-sticker</id>
+    <link href="https://github.com/narze/bkk-sticker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

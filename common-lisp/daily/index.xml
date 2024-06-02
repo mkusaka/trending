@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-01T01:30:14Z</updated>
+  <updated>2024-06-02T01:32:54Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cage433/cribbage</title>
+    <updated>2024-06-02T01:32:54Z</updated>
+    <id>tag:github.com,2024-06-02:/cage433/cribbage</id>
+    <link href="https://github.com/cage433/cribbage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cribbage engine&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cribbage&lt;/h1&gt; &#xA;&lt;p&gt;A cribbage engine&lt;/p&gt;</summary>
+  </entry>
 </feed>

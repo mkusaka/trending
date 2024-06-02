@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-01T01:33:43Z</updated>
+  <updated>2024-06-02T01:39:42Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dotnet/android-api-docs</title>
-    <updated>2024-06-01T01:33:43Z</updated>
-    <id>tag:github.com,2024-06-01:/dotnet/android-api-docs</id>
-    <link href="https://github.com/dotnet/android-api-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;.NET for Android reference documentation.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;.NET for Android API documentation&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains the API documentation for .NET for Android. It&#39;s published at the &lt;a href=&#34;https://learn.microsoft.com/dotnet/api&#34;&gt;.NET API browser&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Legal Notices&lt;/h2&gt; &#xA;&lt;p&gt;.NET Foundation and any contributors grant you a license to the .NET Foundation documentation and other content in this repository under the &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/legalcode&#34;&gt;Creative Commons Attribution 4.0 International Public License&lt;/a&gt;, see the &lt;a href=&#34;https://raw.githubusercontent.com/dotnet/android-api-docs/main/LICENSE&#34;&gt;LICENSE&lt;/a&gt; file, and grant you a license to any code in the repository under the &lt;a href=&#34;https://opensource.org/licenses/MIT&#34;&gt;MIT License&lt;/a&gt;, see the &lt;a href=&#34;https://raw.githubusercontent.com/dotnet/android-api-docs/main/LICENSE-CODE&#34;&gt;LICENSE-CODE&lt;/a&gt; file.&lt;/p&gt; &#xA;&lt;p&gt;Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries. The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks. Microsoft&#39;s general trademark guidelines can be found at &lt;a href=&#34;http://go.microsoft.com/fwlink/?LinkID=254653&#34;&gt;http://go.microsoft.com/fwlink/?LinkID=254653&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Privacy information can be found at &lt;a href=&#34;https://privacy.microsoft.com/en-us/&#34;&gt;https://privacy.microsoft.com/en-us/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;.NET Foundation and any contributors reserve all other rights, whether under their respective copyrights, patents, or trademarks, whether by implication, estoppel or otherwise.&lt;/p&gt;</summary>
-  </entry>
 </feed>

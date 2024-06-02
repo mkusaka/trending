@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-02T01:52:22Z</updated>
+  <subtitle>Weekly Trending of Objective-C in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Hamish-Bassett/Computer_Vision_Examples</title>
+    <updated>2024-06-02T01:52:22Z</updated>
+    <id>tag:github.com,2024-06-02:/Hamish-Bassett/Computer_Vision_Examples</id>
+    <link href="https://github.com/Hamish-Bassett/Computer_Vision_Examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collections of examples for Computer Vision APIs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dmzza/CrystalBall</title>
+    <updated>2024-06-02T01:52:22Z</updated>
+    <id>tag:github.com,2024-06-02:/dmzza/CrystalBall</id>
+    <link href="https://github.com/dmzza/CrystalBall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learning iPhone App Development with @treehouse-island&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CrystalBall&lt;/h1&gt; &#xA;&lt;p&gt;My birthday present to myself. 3/28/2013&lt;/p&gt; &#xA;&lt;p&gt;Learning iPhone App Development with @treehouse-island&lt;/p&gt;</summary>
+  </entry>
+</feed>

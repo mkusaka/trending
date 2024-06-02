@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-01T01:35:17Z</updated>
+  <updated>2024-06-02T01:42:09Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jamesfang8499/math6-1</title>
+    <updated>2024-06-02T01:42:09Z</updated>
+    <id>tag:github.com,2024-06-02:/jamesfang8499/math6-1</id>
+    <link href="https://github.com/jamesfang8499/math6-1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;中学数学实验教材 第六册（上册）&lt;/h1&gt; &#xA;&lt;p&gt;本项目对1980年代初出版发行的《中学数学实验教材 第六册（上）》进行了重排。&lt;/p&gt; &#xA;&lt;p&gt;这一套中学数学实验教材是教育部委托北京师范大学、中国科学院数学研究所、人民教育出版社、北京师范学院、北京景山学校等单位组成的领导小组组织“中学数学实验教材编写组”，根据美国加州大学伯克利分校数学系项武义教授的《关于中学实验数学教材的设想》编写的。&lt;/p&gt; &#xA;&lt;p&gt;本重排本只包含原教材的上册。&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;经过初步校对，本书的原铅字版错误之处甚多（几乎每页都有，尤其是上下标和字母错误），如有问题，请通过issue 反馈&lt;/strong&gt;&lt;/em&gt;。&lt;/p&gt; &#xA;&lt;p&gt;书中的矢量图片全部使用Tikz、Tkz-euclide和CirciuTikz制作。&lt;/p&gt; &#xA;&lt;p&gt;注意：&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;书中的内容仅供参考，相当一部分内容已经超纲，请仔细辨别。&lt;/li&gt; &#xA; &lt;li&gt;本项目的内容勿用于商业目的。&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;第一章 复数系&lt;/h1&gt; &#xA;&lt;h2&gt;复数的概念&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;数的概念的发展&lt;/li&gt; &#xA; &lt;li&gt;复数及其几何表示&lt;/li&gt; &#xA; &lt;li&gt;复数的模与幅角&lt;/li&gt; &#xA; &lt;li&gt;习题1-1&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;复数的四则运算&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;复数的加，减法&lt;/li&gt; &#xA; &lt;li&gt;复数的乘．除法&lt;/li&gt; &#xA; &lt;li&gt;复数集内的多项式与方程&lt;/li&gt; &#xA; &lt;li&gt;习题1-2&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;复数的三角形式&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;复数的三角形式&lt;/li&gt; &#xA; &lt;li&gt;再谈复数的乘、除法和乘方运算&lt;/li&gt; &#xA; &lt;li&gt;复数的开方运算&lt;/li&gt; &#xA; &lt;li&gt;单位根&lt;/li&gt; &#xA; &lt;li&gt;习题1-3&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;复数的指数形式&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;复数的指数形式及其运算&lt;/li&gt; &#xA; &lt;li&gt;证明三角恒等式&lt;/li&gt; &#xA; &lt;li&gt;习题1-4&lt;/li&gt; &#xA; &lt;li&gt;本章内容要点&lt;/li&gt; &#xA; &lt;li&gt;复习题一&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;第二章 排列与组合 二项式定理&lt;/h1&gt; &#xA;&lt;h2&gt;排列与组合&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;加法原理和乘法原理&lt;/li&gt; &#xA; &lt;li&gt;排列&lt;/li&gt; &#xA; &lt;li&gt;组合&lt;/li&gt; &#xA; &lt;li&gt;习题2-1&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;环形排列、重复排列和组合&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;环形排列&lt;/li&gt; &#xA; &lt;li&gt;重复排列&lt;/li&gt; &#xA; &lt;li&gt;重复组合&lt;/li&gt; &#xA; &lt;li&gt;习题2-2&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;二项式定理&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;和号$\Sigma$&lt;/li&gt; &#xA; &lt;li&gt;二项式定理&lt;/li&gt; &#xA; &lt;li&gt;二项式的性质&lt;/li&gt; &#xA; &lt;li&gt;习题2-3&lt;/li&gt; &#xA; &lt;li&gt;本章内容要点&lt;/li&gt; &#xA; &lt;li&gt;复习题二&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;第三章 概率论初步&lt;/h1&gt; &#xA;&lt;h2&gt;随机事件与概率&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;随机事件及其概率&lt;/li&gt; &#xA; &lt;li&gt;等可能性事件的概率&lt;/li&gt; &#xA; &lt;li&gt;互斥事件与加法定理&lt;/li&gt; &#xA; &lt;li&gt;事件与集合的对应&lt;/li&gt; &#xA; &lt;li&gt;习题3-1&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;条件概率与独立事件&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;条件概率&lt;/li&gt; &#xA; &lt;li&gt;独立事件与乘法定理&lt;/li&gt; &#xA; &lt;li&gt;习题3-2&lt;/li&gt; &#xA; &lt;li&gt;独立重复试验&lt;/li&gt; &#xA; &lt;li&gt;习题3-3&lt;/li&gt; &#xA; &lt;li&gt;本章内容要点&lt;/li&gt; &#xA; &lt;li&gt;复习题三&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;附录 统计学简介&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;平均值（均值）&lt;/li&gt; &#xA; &lt;li&gt;均方差（方差）&lt;/li&gt; &#xA; &lt;li&gt;计算公式&lt;/li&gt; &#xA; &lt;li&gt;最小二乘法&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>saeyslab/VIB_Hackathon_June_2024</title>
+    <updated>2024-06-02T01:42:09Z</updated>
+    <id>tag:github.com,2024-06-02:/saeyslab/VIB_Hackathon_June_2024</id>
+    <link href="https://github.com/saeyslab/VIB_Hackathon_June_2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code repository for the VIB Hackathon June 2024 on spatial omics. More info: https://hackmd.io/@berombau/BJetSxw8T&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;VIB_Hackathon_June_2024&lt;/h1&gt; &#xA;&lt;p&gt;Code repository for the VIB Hackathon June 2024 on spatial omics. More info: &lt;a href=&#34;https://hackmd.io/@berombau/BJetSxw8T&#34;&gt;https://hackmd.io/@berombau/BJetSxw8T&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

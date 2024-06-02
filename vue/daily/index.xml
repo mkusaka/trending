@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-01T01:35:41Z</updated>
+  <updated>2024-06-02T01:43:05Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jason5ng32/EasyHomePage</title>
-    <updated>2024-06-01T01:35:41Z</updated>
-    <id>tag:github.com,2024-06-01:/jason5ng32/EasyHomePage</id>
-    <link href="https://github.com/jason5ng32/EasyHomePage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个使用 Markdown 就可以生成的个人/产品主页&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wwwAngHua/KingStudy</title>
+    <updated>2024-06-02T01:43:05Z</updated>
+    <id>tag:github.com,2024-06-02:/wwwAngHua/KingStudy</id>
+    <link href="https://github.com/wwwAngHua/KingStudy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A personal homepage website that includes blog, portfolio, courses, and photo wall display functions.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kingwrcy/discussion</title>
+    <updated>2024-06-02T01:43:05Z</updated>
+    <id>tag:github.com,2024-06-02:/kingwrcy/discussion</id>
+    <link href="https://github.com/kingwrcy/discussion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;极简论坛&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

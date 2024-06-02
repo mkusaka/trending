@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-02T01:51:16Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zhimin-dev/iptv-checker</title>
+    <updated>2024-06-02T01:51:16Z</updated>
+    <id>tag:github.com,2024-06-02:/zhimin-dev/iptv-checker</id>
+    <link href="https://github.com/zhimin-dev/iptv-checker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IPTV source checker tool for Docker to check if your playlist is available&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maratori/testableexamples</title>
+    <updated>2024-06-02T01:51:16Z</updated>
+    <id>tag:github.com,2024-06-02:/maratori/testableexamples</id>
+    <link href="https://github.com/maratori/testableexamples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Linter checks if examples are testable (have an expected output)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cyberimmunity-edu/cyberimmune-systems-autonomous-delivery-drone-with-kos</title>
+    <updated>2024-06-02T01:51:16Z</updated>
+    <id>tag:github.com,2024-06-02:/cyberimmunity-edu/cyberimmune-systems-autonomous-delivery-drone-with-kos</id>
+    <link href="https://github.com/cyberimmunity-edu/cyberimmune-systems-autonomous-delivery-drone-with-kos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cyberimmune autonomous delivery drone prototype&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

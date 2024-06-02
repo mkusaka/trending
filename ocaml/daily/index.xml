@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-01T01:33:13Z</updated>
+  <updated>2024-06-02T01:38:43Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ALT-F4-LLC/vorpal</title>
-    <updated>2024-06-01T01:33:13Z</updated>
-    <id>tag:github.com,2024-06-01:/ALT-F4-LLC/vorpal</id>
-    <link href="https://github.com/ALT-F4-LLC/vorpal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Maintain your entire supply chain with one magical tool.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mabdi/CREST</title>
-    <updated>2024-06-01T01:33:13Z</updated>
-    <id>tag:github.com,2024-06-01:/mabdi/CREST</id>
-    <link href="https://github.com/mabdi/CREST" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CREST From Code.google.com&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mirage/ocaml-cohttp</title>
-    <updated>2024-06-01T01:33:13Z</updated>
-    <id>tag:github.com,2024-06-01:/mirage/ocaml-cohttp</id>
-    <link href="https://github.com/mirage/ocaml-cohttp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An OCaml library for HTTP clients and servers using Lwt or Async&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

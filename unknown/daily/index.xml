@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-01T01:29:06Z</updated>
+  <updated>2024-06-02T01:30:44Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alibaba-yuanjing-aigclab/ViViD</title>
-    <updated>2024-06-01T01:29:06Z</updated>
-    <id>tag:github.com,2024-06-01:/alibaba-yuanjing-aigclab/ViViD</id>
-    <link href="https://github.com/alibaba-yuanjing-aigclab/ViViD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ViViD: Video Virtual Try-on using Diffusion Models&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LzhDreamcc/Blum-auto-bot</title>
+    <updated>2024-06-02T01:30:44Z</updated>
+    <id>tag:github.com,2024-06-02:/LzhDreamcc/Blum-auto-bot</id>
+    <link href="https://github.com/LzhDreamcc/Blum-auto-bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blum auto bot free download for windows / blum auto farm bot Hi everyone today we present you our bot for crypto game Blum with which you can automate the whole process in the game which is possible&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>malvuln/RansomLord</title>
-    <updated>2024-06-01T01:29:06Z</updated>
-    <id>tag:github.com,2024-06-01:/malvuln/RansomLord</id>
-    <link href="https://github.com/malvuln/RansomLord" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise ransomware pre-encryption.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>amusi/Deep-Learning-Interview-Book</title>
-    <updated>2024-06-01T01:29:06Z</updated>
-    <id>tag:github.com,2024-06-01:/amusi/Deep-Learning-Interview-Book</id>
-    <link href="https://github.com/amusi/Deep-Learning-Interview-Book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DavidS95/Smokeless_UMAF</title>
+    <updated>2024-06-02T01:30:44Z</updated>
+    <id>tag:github.com,2024-06-02:/DavidS95/Smokeless_UMAF</id>
+    <link href="https://github.com/DavidS95/Smokeless_UMAF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

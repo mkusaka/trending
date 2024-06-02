@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-02T01:52:08Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TraceMachina/rules_mojo</title>
+    <updated>2024-06-02T01:52:08Z</updated>
+    <id>tag:github.com,2024-06-02:/TraceMachina/rules_mojo</id>
+    <link href="https://github.com/TraceMachina/rules_mojo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A bleeding edge build system for Mojo 🔥&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nix-community/neovim-nightly-overlay</title>
+    <updated>2024-06-02T01:52:08Z</updated>
+    <id>tag:github.com,2024-06-02:/nix-community/neovim-nightly-overlay</id>
+    <link href="https://github.com/nix-community/neovim-nightly-overlay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[maintainer=@Kranzes, @teto, @GaetanLepage, @willruggiano]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-01T01:32:40Z</updated>
+  <updated>2024-06-02T01:37:43Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yvesx/Sensitivity</title>
-    <updated>2024-06-01T01:32:40Z</updated>
-    <id>tag:github.com,2024-06-01:/yvesx/Sensitivity</id>
-    <link href="https://github.com/yvesx/Sensitivity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;recommendation sensitivity project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wigig-tools/isac-plm</title>
+    <updated>2024-06-02T01:37:43Z</updated>
+    <id>tag:github.com,2024-06-02:/wigig-tools/isac-plm</id>
+    <link href="https://github.com/wigig-tools/isac-plm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Integrated Sensing and Communication Physical layer (PHY) model of IEEE 802.11ay/bf.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wncc-itsp/p2w08-image-processing</title>
-    <updated>2024-06-01T01:32:40Z</updated>
-    <id>tag:github.com,2024-06-01:/wncc-itsp/p2w08-image-processing</id>
-    <link href="https://github.com/wncc-itsp/p2w08-image-processing" rel="alternate"></link>
+    <title>zonghanli/SWJTU--2</title>
+    <updated>2024-06-02T01:37:43Z</updated>
+    <id>tag:github.com,2024-06-02:/zonghanli/SWJTU--2</id>
+    <link href="https://github.com/zonghanli/SWJTU--2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FMOTs/FMOT_matlab</title>
-    <updated>2024-06-01T01:32:40Z</updated>
-    <id>tag:github.com,2024-06-01:/FMOTs/FMOT_matlab</id>
-    <link href="https://github.com/FMOTs/FMOT_matlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FMOT的matlab基础开发版本&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
