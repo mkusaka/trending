@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub xBase Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-02T01:43:20Z</updated>
+  <updated>2024-06-03T01:35:23Z</updated>
   <subtitle>Daily Trending of xBase in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>v89080/Crypto</title>
+    <updated>2024-06-03T01:35:23Z</updated>
+    <id>tag:github.com,2024-06-03:/v89080/Crypto</id>
+    <link href="https://github.com/v89080/Crypto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

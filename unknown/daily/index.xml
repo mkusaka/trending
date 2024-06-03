@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-02T01:30:44Z</updated>
+  <updated>2024-06-03T01:28:33Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LzhDreamcc/Blum-auto-bot</title>
-    <updated>2024-06-02T01:30:44Z</updated>
-    <id>tag:github.com,2024-06-02:/LzhDreamcc/Blum-auto-bot</id>
-    <link href="https://github.com/LzhDreamcc/Blum-auto-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blum auto bot free download for windows / blum auto farm bot Hi everyone today we present you our bot for crypto game Blum with which you can automate the whole process in the game which is possible&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>moest-np/incubator</title>
+    <updated>2024-06-03T01:28:33Z</updated>
+    <id>tag:github.com,2024-06-03:/moest-np/incubator</id>
+    <link href="https://github.com/moest-np/incubator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Problem statements, discussions and prototypes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DavidS95/Smokeless_UMAF</title>
-    <updated>2024-06-02T01:30:44Z</updated>
-    <id>tag:github.com,2024-06-02:/DavidS95/Smokeless_UMAF</id>
-    <link href="https://github.com/DavidS95/Smokeless_UMAF" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>magic-research/InstaDrag</title>
+    <updated>2024-06-03T01:28:33Z</updated>
+    <id>tag:github.com,2024-06-03:/magic-research/InstaDrag</id>
+    <link href="https://github.com/magic-research/InstaDrag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experiencing lightning fast (~1s) and accurate drag-based image editing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

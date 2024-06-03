@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-02T01:41:10Z</updated>
+  <updated>2024-06-03T01:34:20Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>StasPlov/docker-unlock</title>
-    <updated>2024-06-02T01:41:10Z</updated>
-    <id>tag:github.com,2024-06-02:/StasPlov/docker-unlock</id>
-    <link href="https://github.com/StasPlov/docker-unlock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;left&#34;&gt; &lt;a href=&#34;https://skillicons.dev&#34;&gt; &lt;img src=&#34;https://skillicons.dev/icons?i=ubuntu,bash&#34;&gt; &lt;/a&gt; &lt;/p&gt; &#xA;&lt;h1&gt;Docker-Unlock&lt;/h1&gt; &#xA;&lt;p&gt;Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria&lt;/p&gt; &#xA;&lt;h3&gt;How to Use&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;./unlock.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[!IMPORTANT]&lt;br&gt; Don&#39;t forget to make the script executable:&lt;/p&gt; &#xA; &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt; chmod +x unlock.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;💖 Support&lt;/h2&gt; &#xA;&lt;p&gt;Thank you so much for using my projects! If you have any questions, you can always ask me here:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://t.me/StasPlov&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Telegram-blue?style=for-the-badge&amp;amp;logo=telegram&amp;amp;logoColor=white&#34; alt=&#34;Telegram Badge&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

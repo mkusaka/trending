@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-02T01:33:21Z</updated>
+  <updated>2024-06-03T01:29:52Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pierremrtn/flutter_challenges</title>
-    <updated>2024-06-02T01:33:21Z</updated>
-    <id>tag:github.com,2024-06-02:/pierremrtn/flutter_challenges</id>
-    <link href="https://github.com/pierremrtn/flutter_challenges" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of flutter challenges&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href=&#34;https://raw.githubusercontent.com/pierremrtn/flutter_challenges/main/00_animated_dragdrop/&#34;&gt;Animated Drag &amp;amp; Drop&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/pierremrtn/flutter_challenges/main/00_animated_dragdrop/readme_assets/animation_final.gif&#34; height=&#34;200&#34;&gt;</summary>
-  </entry>
 </feed>

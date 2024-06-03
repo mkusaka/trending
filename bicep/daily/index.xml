@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-02T01:31:41Z</updated>
+  <updated>2024-06-03T01:29:03Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure-Samples/azure-openai-chat-baseline-landing-zone</title>
-    <updated>2024-06-02T01:31:41Z</updated>
-    <id>tag:github.com,2024-06-02:/Azure-Samples/azure-openai-chat-baseline-landing-zone</id>
-    <link href="https://github.com/Azure-Samples/azure-openai-chat-baseline-landing-zone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A variation of the Azure OpenAI chat baseline, altered to be deployed specifically into an application landing zone.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
