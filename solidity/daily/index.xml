@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-03T01:34:34Z</updated>
+  <updated>2024-06-04T01:34:51Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ViqozUqSpectrum/MEV-trading-bot</title>
-    <updated>2024-06-03T01:34:34Z</updated>
-    <id>tag:github.com,2024-06-03:/ViqozUqSpectrum/MEV-trading-bot</id>
-    <link href="https://github.com/ViqozUqSpectrum/MEV-trading-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡ Efficient .!mevbot!. trading bot for optimizing mempool strategies 🚀&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gelatodigital/automate</title>
-    <updated>2024-06-03T01:34:34Z</updated>
-    <id>tag:github.com,2024-06-03:/gelatodigital/automate</id>
-    <link href="https://github.com/gelatodigital/automate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automate arbitrary smart contracts with Gelato Automate&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>klaytn/klaytn-dapp-toolkit</title>
+    <updated>2024-06-04T01:34:51Z</updated>
+    <id>tag:github.com,2024-06-04:/klaytn/klaytn-dapp-toolkit</id>
+    <link href="https://github.com/klaytn/klaytn-dapp-toolkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ren&#39;Py Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-03T01:33:56Z</updated>
+  <updated>2024-06-04T01:34:10Z</updated>
   <subtitle>Daily Trending of Ren&#39;Py in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ImpCharm/Charmed</title>
-    <updated>2024-06-03T01:33:56Z</updated>
-    <id>tag:github.com,2024-06-03:/ImpCharm/Charmed</id>
-    <link href="https://github.com/ImpCharm/Charmed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sexy game &lt;3&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

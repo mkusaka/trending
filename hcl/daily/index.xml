@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-03T01:31:11Z</updated>
+  <updated>2024-06-04T01:31:10Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alphagov/govuk-infrastructure</title>
-    <updated>2024-06-03T01:31:11Z</updated>
-    <id>tag:github.com,2024-06-03:/alphagov/govuk-infrastructure</id>
-    <link href="https://github.com/alphagov/govuk-infrastructure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform turnup automation for the EKS Kubernetes clusters that host GOV.UK. See https://github.com/alphagov/govuk-helm-charts for application config.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudposse/terraform-aws-rds-db-proxy</title>
-    <updated>2024-06-03T01:31:11Z</updated>
-    <id>tag:github.com,2024-06-03:/cloudposse/terraform-aws-rds-db-proxy</id>
-    <link href="https://github.com/cloudposse/terraform-aws-rds-db-proxy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to provision an Amazon RDS Proxy&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

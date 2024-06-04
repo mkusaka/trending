@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Standard ML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-03T01:34:37Z</updated>
+  <updated>2024-06-04T01:34:55Z</updated>
   <subtitle>Daily Trending of Standard ML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mrdsfun/mrds.fun</title>
+    <updated>2024-06-04T01:34:55Z</updated>
+    <id>tag:github.com,2024-06-04:/mrdsfun/mrds.fun</id>
+    <link href="https://github.com/mrdsfun/mrds.fun" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-03T01:35:15Z</updated>
+  <updated>2024-06-04T01:35:36Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Gouryella/ChatTTS-webui</title>
-    <updated>2024-06-03T01:35:15Z</updated>
-    <id>tag:github.com,2024-06-03:/Gouryella/ChatTTS-webui</id>
-    <link href="https://github.com/Gouryella/ChatTTS-webui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Web UI developed based on ChatTTS, implemented using Nuxt 3 and Ant Design.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openmynet/tvboxsp</title>
-    <updated>2024-06-03T01:35:15Z</updated>
-    <id>tag:github.com,2024-06-03:/openmynet/tvboxsp</id>
-    <link href="https://github.com/openmynet/tvboxsp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;tvbox media source processing&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bsoc-bitbyte/GetIt</title>
-    <updated>2024-06-03T01:35:15Z</updated>
-    <id>tag:github.com,2024-06-03:/bsoc-bitbyte/GetIt</id>
-    <link href="https://github.com/bsoc-bitbyte/GetIt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Streamlined college e-commerce: Simplifying merch buying and selling for students.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

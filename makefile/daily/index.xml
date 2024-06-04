@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-03T01:32:20Z</updated>
+  <updated>2024-06-04T01:32:28Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>twrpdtgen/android_device_xiaomi_peridot</title>
-    <updated>2024-06-03T01:32:20Z</updated>
-    <id>tag:github.com,2024-06-03:/twrpdtgen/android_device_xiaomi_peridot</id>
-    <link href="https://github.com/twrpdtgen/android_device_xiaomi_peridot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
