@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-04T01:35:55Z</updated>
+  <updated>2024-06-05T01:35:13Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>floooh/sokol-zig-imgui-sample</title>
-    <updated>2024-06-04T01:35:55Z</updated>
-    <id>tag:github.com,2024-06-04:/floooh/sokol-zig-imgui-sample</id>
-    <link href="https://github.com/floooh/sokol-zig-imgui-sample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample to use sokol-zig bindings with Dear ImGui&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BrookJeynes/zfe</title>
+    <updated>2024-06-05T01:35:13Z</updated>
+    <id>tag:github.com,2024-06-05:/BrookJeynes/zfe</id>
+    <link href="https://github.com/BrookJeynes/zfe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

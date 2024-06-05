@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-04T01:29:12Z</updated>
+  <updated>2024-06-05T01:28:15Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>megoxv/tailwindcraft</title>
-    <updated>2024-06-04T01:29:12Z</updated>
-    <id>tag:github.com,2024-06-04:/megoxv/tailwindcraft</id>
-    <link href="https://github.com/megoxv/tailwindcraft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Discover TailwindCraft, open-source UI components based on Tailwind CSS for effortless and efficient project development.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

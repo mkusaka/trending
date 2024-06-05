@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-04T01:30:21Z</updated>
+  <updated>2024-06-05T01:29:37Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ash-project/igniter</title>
-    <updated>2024-06-04T01:30:21Z</updated>
-    <id>tag:github.com,2024-06-04:/ash-project/igniter</id>
-    <link href="https://github.com/ash-project/igniter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>derekkraan/curl_req</title>
+    <updated>2024-06-05T01:29:37Z</updated>
+    <id>tag:github.com,2024-06-05:/derekkraan/curl_req</id>
+    <link href="https://github.com/derekkraan/curl_req" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;req to curl and back&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mechanical-orchard/playwright-elixir</title>
-    <updated>2024-06-04T01:30:21Z</updated>
-    <id>tag:github.com,2024-06-04:/mechanical-orchard/playwright-elixir</id>
-    <link href="https://github.com/mechanical-orchard/playwright-elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Elixir library for Playwright web automation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nighthawk-apps/zcash-explorer</title>
+    <updated>2024-06-05T01:29:37Z</updated>
+    <id>tag:github.com,2024-06-05:/nighthawk-apps/zcash-explorer</id>
+    <link href="https://github.com/nighthawk-apps/zcash-explorer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zcash Block Explorer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

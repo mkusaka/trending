@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-04T01:35:34Z</updated>
+  <updated>2024-06-05T01:34:51Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aming/vim-mason</title>
-    <updated>2024-06-04T01:35:34Z</updated>
-    <id>tag:github.com,2024-06-04:/aming/vim-mason</id>
-    <link href="https://github.com/aming/vim-mason" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim syntax file for Mason&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>akkari/vim-setups</title>
+    <updated>2024-06-05T01:34:51Z</updated>
+    <id>tag:github.com,2024-06-05:/akkari/vim-setups</id>
+    <link href="https://github.com/akkari/vim-setups" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim plugins and configuration files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>agelastic/vim-reading</title>
+    <updated>2024-06-05T01:34:51Z</updated>
+    <id>tag:github.com,2024-06-05:/agelastic/vim-reading</id>
+    <link href="https://github.com/agelastic/vim-reading" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My Vim config for code reading&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>liujoey/vimbundle</title>
+    <updated>2024-06-05T01:34:51Z</updated>
+    <id>tag:github.com,2024-06-05:/liujoey/vimbundle</id>
+    <link href="https://github.com/liujoey/vimbundle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;pathogen bundle folder for .vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

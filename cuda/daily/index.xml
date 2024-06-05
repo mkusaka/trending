@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-04T01:29:53Z</updated>
+  <updated>2024-06-05T01:28:58Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>r4dl/StopThePop-Rasterization</title>
-    <updated>2024-06-04T01:29:53Z</updated>
-    <id>tag:github.com,2024-06-04:/r4dl/StopThePop-Rasterization</id>
-    <link href="https://github.com/r4dl/StopThePop-Rasterization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Original reference implementation of the CUDA rasterizer from the paper &#34;StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>likejazz/llama3.cuda</title>
+    <updated>2024-06-05T01:28:58Z</updated>
+    <id>tag:github.com,2024-06-05:/likejazz/llama3.cuda</id>
+    <link href="https://github.com/likejazz/llama3.cuda" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;llama3.cuda is a pure C/CUDA implementation for Llama 3 model.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

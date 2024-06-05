@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-04T01:35:02Z</updated>
+  <updated>2024-06-05T01:34:10Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>koval01/notcoinWeb</title>
-    <updated>2024-06-04T01:35:02Z</updated>
-    <id>tag:github.com,2024-06-04:/koval01/notcoinWeb</id>
-    <link href="https://github.com/koval01/notcoinWeb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source implementation of the Notcoin site using the svelte, vite and tailwind&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-webui/extension</title>
+    <updated>2024-06-05T01:34:10Z</updated>
+    <id>tag:github.com,2024-06-05:/open-webui/extension</id>
+    <link href="https://github.com/open-webui/extension" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WIP: Open WebUI Chrome Extension (Requires Open WebUI v0.2.0+)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

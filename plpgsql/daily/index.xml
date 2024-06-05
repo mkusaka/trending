@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-04T01:33:33Z</updated>
+  <updated>2024-06-05T01:32:40Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Snowflake-Labs/sfguide-getting-started-with-devops-in-snowflake</title>
-    <updated>2024-06-04T01:33:33Z</updated>
-    <id>tag:github.com,2024-06-04:/Snowflake-Labs/sfguide-getting-started-with-devops-in-snowflake</id>
-    <link href="https://github.com/Snowflake-Labs/sfguide-getting-started-with-devops-in-snowflake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>greenplum-db/geospatial</title>
+    <updated>2024-06-05T01:32:40Z</updated>
+    <id>tag:github.com,2024-06-05:/greenplum-db/geospatial</id>
+    <link href="https://github.com/greenplum-db/geospatial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PostGIS for Greenplum&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
