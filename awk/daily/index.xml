@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Awk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-05T01:28:10Z</updated>
+  <updated>2024-06-06T05:28:33Z</updated>
   <subtitle>Daily Trending of Awk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bellhyve/zelta</title>
-    <updated>2024-06-05T01:28:10Z</updated>
-    <id>tag:github.com,2024-06-05:/bellhyve/zelta</id>
-    <link href="https://github.com/bellhyve/zelta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ZFS tools used for data migration and backup management.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

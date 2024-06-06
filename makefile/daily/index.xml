@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-05T01:31:36Z</updated>
+  <updated>2024-06-06T05:33:37Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cupid-development/android_kernel_xiaomi_sm8450-devicetrees</title>
-    <updated>2024-06-05T01:31:36Z</updated>
-    <id>tag:github.com,2024-06-05:/cupid-development/android_kernel_xiaomi_sm8450-devicetrees</id>
-    <link href="https://github.com/cupid-development/android_kernel_xiaomi_sm8450-devicetrees" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>siderolabs/contrib</title>
-    <updated>2024-06-05T01:31:36Z</updated>
-    <id>tag:github.com,2024-06-05:/siderolabs/contrib</id>
-    <link href="https://github.com/siderolabs/contrib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;talos/sidero setup examples&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
