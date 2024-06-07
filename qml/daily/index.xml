@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-06T05:38:20Z</updated>
+  <updated>2024-06-07T01:33:52Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Kangie/sddm-sugar-candy</title>
-    <updated>2024-06-06T05:38:20Z</updated>
-    <id>tag:github.com,2024-06-06:/Kangie/sddm-sugar-candy</id>
-    <link href="https://github.com/Kangie/sddm-sugar-candy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sugar Candy is the sweetest login theme available for the SDDM display manager. It&#39;s so sweet it may cause you diabetes. Sugar Candy offers a straight forward user experience focusing on functionality while still offering vast customization.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

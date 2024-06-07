@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Jupyter Notebook Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-07T01:31:47Z</updated>
+  <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>codepath/compsci_guides</title>
+    <updated>2024-06-07T01:31:47Z</updated>
+    <id>tag:github.com,2024-06-07:/codepath/compsci_guides</id>
+    <link href="https://github.com/codepath/compsci_guides" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Guides focused on fundamental computer science concepts&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Computer Science Guides&lt;/h1&gt; &#xA;&lt;p&gt;Guides focused on fundamental computer science concepts.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Check the &lt;a href=&#34;https://github.com/codepath/compsci_guides/wiki&#34;&gt;wiki&lt;/a&gt; to review or update content.&lt;/li&gt; &#xA; &lt;li&gt;Guides can be viewed on our &lt;a href=&#34;https://guides.codepath.com/compsci&#34;&gt;front-end guide system here&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Review the &lt;a href=&#34;https://github.com/codepath/compsci_guides/wiki/Contributing-Guidelines&#34;&gt;contribution guidelines&lt;/a&gt; before adding or improving articles.&lt;/p&gt;</summary>
+  </entry>
+</feed>
