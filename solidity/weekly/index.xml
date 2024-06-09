@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-09T01:47:19Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>smartcontractkit/chainlink-brownie-contracts</title>
+    <updated>2024-06-09T01:47:19Z</updated>
+    <id>tag:github.com,2024-06-09:/smartcontractkit/chainlink-brownie-contracts</id>
+    <link href="https://github.com/smartcontractkit/chainlink-brownie-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for automatically using the latest chainlink repo from the core chainlink repo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

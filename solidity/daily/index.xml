@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-08T01:34:34Z</updated>
+  <updated>2024-06-09T01:37:28Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bob-collective/bob</title>
-    <updated>2024-06-08T01:34:34Z</updated>
-    <id>tag:github.com,2024-06-08:/bob-collective/bob</id>
-    <link href="https://github.com/bob-collective/bob" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BOB is a hybrid L2 that combines the security of Bitcoin with the versatility of Ethereum.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

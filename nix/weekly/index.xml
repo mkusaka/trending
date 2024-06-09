@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-09T01:45:19Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chaotic-cx/nyx</title>
+    <updated>2024-06-09T01:45:19Z</updated>
+    <id>tag:github.com,2024-06-09:/chaotic-cx/nyx</id>
+    <link href="https://github.com/chaotic-cx/nyx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix flake for &#34;too much bleeding-edge&#34; and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tpwrules/nixos-apple-silicon</title>
+    <updated>2024-06-09T01:45:19Z</updated>
+    <id>tag:github.com,2024-06-09:/tpwrules/nixos-apple-silicon</id>
+    <link href="https://github.com/tpwrules/nixos-apple-silicon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources to install NixOS bare metal on Apple Silicon Macs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
