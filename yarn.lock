@@ -22,9 +22,9 @@ __metadata:
   linkType: hard
 
 "async@npm:^3.2.4":
-  version: 3.2.4
-  resolution: "async@npm:3.2.4"
-  checksum: 0b6cc550522408998c6b5d998aff60048c43faa139f403232435c984d65a1c7cf135be45692820c90f8c2aec662b768ab8897c71983726302033a3e9e57eb023
+  version: 3.2.5
+  resolution: "async@npm:3.2.5"
+  checksum: ca5c87f4953495110560c357e1bb22c997f03c31d094173372f134e89356c1e769a0a475156e62aa601dd4cffe934846aac56d344e8b2354f1f680d0df03e57d
   languageName: node
   linkType: hard
 
@@ -46,9 +46,9 @@ __metadata:
   linkType: hard
 
 "commander@npm:^11.0.0":
-  version: 11.0.0
-  resolution: "commander@npm:11.0.0"
-  checksum: ad974d15642d478fbd8ae01b1f1b77c2d7206f47cca5bc6d383d26333339960677b183f5ac560eed1df51530f3fe0eea5ad5958b491dae3e5c80037a55a536fc
+  version: 11.1.0
+  resolution: "commander@npm:11.1.0"
+  checksum: 569e18342ef8f635f291012c49db2bb50a07dbd12ed85cd1122d2963c2366a9cfcf13a010eefc7c7b5e1d42182d350709bcf2dad01b96d3b9a50202f1c4f996e
   languageName: node
   linkType: hard
 
@@ -120,13 +120,13 @@ __metadata:
   linkType: hard
 
 "fs-extra@npm:^11.1.1":
-  version: 11.1.1
-  resolution: "fs-extra@npm:11.1.1"
+  version: 11.2.0
+  resolution: "fs-extra@npm:11.2.0"
   dependencies:
     graceful-fs: ^4.2.0
     jsonfile: ^6.0.1
     universalify: ^2.0.0
-  checksum: d632a5c91cba9c57512816bb8f4b2a1d828093d721524e1d4f1313bfdad89aaa3d94a17223fb79def8e33a73ce3c7b63cba512981f07bc5609be9635c1d0f143
+  checksum: ec5c996acebb3d1627a4d14e671cadfccc55b859ab270c0cbbf3a257cbdfaca570d82ba0deec9d1b104e53f89192a4f3ead2d3ea84e119cb13e5f4a6af9cb550
   languageName: node
   linkType: hard
 
@@ -138,8 +138,8 @@ __metadata:
   linkType: hard
 
 "gh-pages@npm:^6":
-  version: 6.0.0
-  resolution: "gh-pages@npm:6.0.0"
+  version: 6.1.1
+  resolution: "gh-pages@npm:6.1.1"
   dependencies:
     async: ^3.2.4
     commander: ^11.0.0
@@ -151,7 +151,7 @@ __metadata:
   bin:
     gh-pages: bin/gh-pages.js
     gh-pages-clean: bin/gh-pages-clean.js
-  checksum: 87e9d27ad281d4d2307b02801b89d328a926075313daf0771ca56d53c14f915668ba1710282f12c377f97a599caf8ab6314e497c06fcee577b437ed8421efc46
+  checksum: 577f5f1b6e64265b551dcded080aaa4d10ed3edfb9f77e9e83a6bffc6dac434df0052900156085bad9b580dba1c4335f3910dfd9971c26bb9f66330aab58c1c9
   languageName: node
   linkType: hard
 
@@ -369,9 +369,9 @@ __metadata:
   linkType: hard
 
 "universalify@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "universalify@npm:2.0.0"
-  checksum: 36bfbdc97bd4b483596e66ea65e20663f5ab9ec3650157d99b075b7f97afcdefe46bbb23f89171dd75595d398cea3769a5b6d7130f5c66cae2a0f00904780f62
+  version: 2.0.1
+  resolution: "universalify@npm:2.0.1"
+  checksum: 3777897bad1720ef930e73b640c89f7fbf7bf43836b07f5379808a5abf0b623867d5984ecb487994ce2e6c997b0bc27a5ee315371ab4e8899706570087f17474
   languageName: node
   linkType: hard
 
