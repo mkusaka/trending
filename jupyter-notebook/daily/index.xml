@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-12T01:31:39Z</updated>
+  <updated>2024-06-13T01:32:13Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>google-ai-edge/mediapipe-samples</title>
+    <updated>2024-06-13T01:32:13Z</updated>
+    <id>tag:github.com,2024-06-13:/google-ai-edge/mediapipe-samples</id>
+    <link href="https://github.com/google-ai-edge/mediapipe-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This repo hosts the official MediaPipe samples with a goal of showing the fundamental steps involved to create apps with our machine learning platform.&lt;/p&gt; &#xA;&lt;p&gt;External PRs for fixes are welcome, however new sample/demo PRs will likely be rejected to maintain the simplicity of this repo for ongoing maintenance. It is strongly recommended that contributors who are interested in submitting more complex samples or demos host their samples in their own public repos and create written tutorials to share with the community. Contributors can also submit these projects and tutorials to the &lt;a href=&#34;https://devlibrary.withgoogle.com/&#34;&gt;Google DevLibrary&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;MediaPipe Solutions streamlines on-device ML development and deployment with flexible low-code / no-code tools that provide the modular building blocks for creating custom high-performance solutions for cross-platform deployment. It consists of the following components:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;MediaPipe Tasks (low-code): create and deploy custom e2e ML solution pipelines&lt;/li&gt; &#xA; &lt;li&gt;MediaPipe Model Maker (low-code): create custom ML models from advanced solutions&lt;/li&gt; &#xA; &lt;li&gt;MediaPipe Studio (no-code): create, evaluate, debug, benchmark, prototype, deploy advanced production-level solutions&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>
