@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-13T01:30:24Z</updated>
+  <updated>2024-06-14T01:30:52Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>devinus/poison</title>
-    <updated>2024-06-13T01:30:24Z</updated>
-    <id>tag:github.com,2024-06-13:/devinus/poison</id>
-    <link href="https://github.com/devinus/poison" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An incredibly fast, pure Elixir JSON library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zoonk/zoonk</title>
-    <updated>2024-06-13T01:30:24Z</updated>
-    <id>tag:github.com,2024-06-13:/zoonk/zoonk</id>
-    <link href="https://github.com/zoonk/zoonk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Platform for creating interactive courses.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>revelrylabs/elixir-nodejs</title>
+    <updated>2024-06-14T01:30:52Z</updated>
+    <id>tag:github.com,2024-06-14:/revelrylabs/elixir-nodejs</id>
+    <link href="https://github.com/revelrylabs/elixir-nodejs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir API for calling Node.js functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
