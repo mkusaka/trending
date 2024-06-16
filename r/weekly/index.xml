@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub R Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-16T01:44:02Z</updated>
+  <subtitle>Weekly Trending of R in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>r-lib/tree-sitter-r</title>
+    <updated>2024-06-16T01:44:02Z</updated>
+    <id>tag:github.com,2024-06-16:/r-lib/tree-sitter-r</id>
+    <link href="https://github.com/r-lib/tree-sitter-r" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;tree-sitter-r&lt;/h1&gt; &#xA;&lt;p&gt;An R grammar for &lt;a href=&#34;https://github.com/tree-sitter/tree-sitter&#34;&gt;tree-sitter&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Rust bindings&lt;/h2&gt; &#xA;&lt;p&gt;This grammar is available as a &lt;a href=&#34;https://crates.io/crates/tree-sitter-r&#34;&gt;Rust crate on crates.io&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;References&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/doc/manuals/r-release/R-lang.pdf&#34;&gt;The R Draft Spec&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/wch/r-source/raw/trunk/src/main/gram.y&#34;&gt;gram.y&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+</feed>

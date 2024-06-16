@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-15T01:28:29Z</updated>
+  <updated>2024-06-16T01:29:03Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mitre/cti</title>
-    <updated>2024-06-15T01:28:29Z</updated>
-    <id>tag:github.com,2024-06-15:/mitre/cti</id>
-    <link href="https://github.com/mitre/cti" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cyber Threat Intelligence Repository expressed in STIX 2.0&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0voice/from_coder_to_expert</title>
+    <updated>2024-06-16T01:29:03Z</updated>
+    <id>tag:github.com,2024-06-16:/0voice/from_coder_to_expert</id>
+    <link href="https://github.com/0voice/from_coder_to_expert" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

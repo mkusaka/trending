@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-15T01:37:15Z</updated>
+  <updated>2024-06-16T01:38:11Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>writer/writer-framework</title>
-    <updated>2024-06-15T01:37:15Z</updated>
-    <id>tag:github.com,2024-06-15:/writer/writer-framework</id>
-    <link href="https://github.com/writer/writer-framework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;No-code in the front, Python in the back. An open-source framework for creating data apps.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>primefaces/primevue</title>
+    <updated>2024-06-16T01:38:11Z</updated>
+    <id>tag:github.com,2024-06-16:/primefaces/primevue</id>
+    <link href="https://github.com/primefaces/primevue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Next Generation Vue UI Component Library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
