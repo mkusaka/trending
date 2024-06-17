@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-16T01:37:17Z</updated>
+  <updated>2024-06-17T01:37:00Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hcengineering/huly-selfhost</title>
-    <updated>2024-06-16T01:37:17Z</updated>
-    <id>tag:github.com,2024-06-16:/hcengineering/huly-selfhost</id>
-    <link href="https://github.com/hcengineering/huly-selfhost" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Huly for Self Hosting&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Huly Self-Hosted&lt;/h1&gt; &#xA;&lt;p&gt;Please use this README if you want to deploy Huly on your server with &lt;code&gt;docker compose&lt;/code&gt;. I&#39;m using a Basic Droplet on Digital Ocean with Ubuntu 23.10, but these instructions can be easily adapted for any Linux distribution.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[!NOTE] Huly is quite resource-heavy, so I recommend using a Droplet with 2 vCPUs and 4GB of RAM. Droplets with less RAM may stop responding or fail.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;If you prefer Kubernetes deployment, there is a sample Kubernetes configuration under &lt;a href=&#34;https://raw.githubusercontent.com/hcengineering/huly-selfhost/main/kube&#34;&gt;kube&lt;/a&gt; directory.&lt;/p&gt; &#xA;&lt;h2&gt;Installing &lt;code&gt;nginx&lt;/code&gt; and &lt;code&gt;docker&lt;/code&gt;&lt;/h2&gt; &#xA;&lt;p&gt;First, let&#39;s install &lt;code&gt;nginx&lt;/code&gt; and &lt;code&gt;docker&lt;/code&gt; using the commands below if you have not already installed them on your machine.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ sudo apt update&#xA;$ sudo apt install nginx&#xA;$ sudo snap install docker&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Clone the &lt;code&gt;huly-selfhost&lt;/code&gt; repository and configure &lt;code&gt;nginx&lt;/code&gt;&lt;/h2&gt; &#xA;&lt;p&gt;Next, let&#39;s clone the &lt;code&gt;huly-selfhost&lt;/code&gt; repository and configure the server address. &lt;em&gt;Please replace &lt;strong&gt;x.y.z.w&lt;/strong&gt; with your server&#39;s IP address&lt;/em&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ git clone https://github.com/hcengineering/huly-selfhost.git&#xA;$ cd huly-selfhost&#xA;$ ./setup.sh x.y.z.w # Replace x.y.z.w with your server&#39;s IP address&#xA;$ sudo ln -s $(pwd)/nginx.conf /etc/nginx/sites-enabled/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Now we&#39;re ready to run Huly&lt;/h2&gt; &#xA;&lt;p&gt;Finally, let&#39;s restart &lt;code&gt;nginx&lt;/code&gt; and run Huly with &lt;code&gt;docker compose&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ sudo systemctl restart nginx&#xA;$ sudo docker compose up&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Now, launch your web browser and enjoy Huly!&lt;/p&gt;</summary>
-  </entry>
 </feed>
