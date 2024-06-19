@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-18T01:34:52Z</updated>
+  <updated>2024-06-19T01:30:29Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>addmix/godot_aerodynamic_physics</title>
+    <updated>2024-06-19T01:30:29Z</updated>
+    <id>tag:github.com,2024-06-19:/addmix/godot_aerodynamic_physics</id>
+    <link href="https://github.com/addmix/godot_aerodynamic_physics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
