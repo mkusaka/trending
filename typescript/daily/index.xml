@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TypeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-19T01:37:35Z</updated>
+  <updated>2024-06-20T01:34:10Z</updated>
   <subtitle>Daily Trending of TypeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vercel/react-tweet</title>
+    <updated>2024-06-20T01:34:10Z</updated>
+    <id>tag:github.com,2024-06-20:/vercel/react-tweet</id>
+    <link href="https://github.com/vercel/react-tweet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Embed tweets in your React application.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;react-tweet&lt;/h1&gt; &#xA;&lt;p&gt;react-tweet allows you to embed tweets in your React application when using Next.js, Create React App, Vite, and more.&lt;/p&gt; &#xA;&lt;p&gt;For documentation visit &lt;a href=&#34;https://react-tweet.vercel.app&#34;&gt;react-tweet.vercel.app&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Visit our &lt;a href=&#34;https://react-tweet.vercel.app/contributing&#34;&gt;contributing docs&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
