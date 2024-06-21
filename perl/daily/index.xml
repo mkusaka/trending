@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-20T01:32:18Z</updated>
+  <updated>2024-06-21T01:35:40Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LMS-Community/lms-community.github.io</title>
-    <updated>2024-06-20T01:32:18Z</updated>
-    <id>tag:github.com,2024-06-20:/LMS-Community/lms-community.github.io</id>
-    <link href="https://github.com/LMS-Community/lms-community.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the web page for the Lyrion Music Server Community repository&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;lyrion.org&lt;/h1&gt; &#xA;&lt;p&gt;This is the &lt;a href=&#34;https://lyrion.org&#34;&gt;web page&lt;/a&gt; for the LMS Community.&lt;/p&gt; &#xA;&lt;p&gt;The site is based on mkdocs-material (&lt;a href=&#34;https://squidfunk.github.io/mkdocs-material/&#34;&gt;https://squidfunk.github.io/mkdocs-material/&lt;/a&gt;).&lt;/p&gt; &#xA;&lt;p&gt;To get a local development environment up you can do the following:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Follow the installation instructions on &lt;a href=&#34;https://squidfunk.github.io/mkdocs-material/getting-started/&#34;&gt;https://squidfunk.github.io/mkdocs-material/getting-started/&lt;/a&gt; to make sure that mkdocs-material is installed on your system.&lt;/li&gt; &#xA; &lt;li&gt;Clone this repository (or fork this repository).&lt;/li&gt; &#xA; &lt;li&gt;Build the Docker image with additional plugins (if using Docker):&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker build -t squidfunk/mkdocs-material .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ol start=&#34;4&#34;&gt; &#xA; &lt;li&gt;Use &lt;code&gt;mkdocs serve&lt;/code&gt; (or &lt;code&gt;docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material&lt;/code&gt; if you&#39;re using the Docker image) to setup a live preview server from the local repository. The server will automatically rebuild the site upon saving.&lt;/li&gt; &#xA; &lt;li&gt;Point your browser to &lt;a href=&#34;http://localhost:8000&#34;&gt;localhost:8000&lt;/a&gt;.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Adding a page is very simple, just add the appropriate .md page under the docs folder. If you want to add the page to the navigation you can expand the nav structure in the mkdocs.yml. Please see &lt;a href=&#34;https://squidfunk.github.io/mkdocs-material/reference/&#34;&gt;https://squidfunk.github.io/mkdocs-material/reference/&lt;/a&gt; for more information about the framework.&lt;/p&gt;</summary>
-  </entry>
 </feed>

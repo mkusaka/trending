@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-20T01:30:08Z</updated>
+  <updated>2024-06-21T01:30:51Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nix-community/nixpkgs-update</title>
-    <updated>2024-06-20T01:30:08Z</updated>
-    <id>tag:github.com,2024-06-20:/nix-community/nixpkgs-update</id>
-    <link href="https://github.com/nix-community/nixpkgs-update" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Updating nixpkgs packages since 2018&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;nixpkgs-update&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.patreon.com/nixpkgsupdate&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/patreon-donate-blue.svg?sanitize=true&#34; alt=&#34;Patreon&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Please read the &lt;a href=&#34;https://nix-community.github.io/nixpkgs-update/&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>
