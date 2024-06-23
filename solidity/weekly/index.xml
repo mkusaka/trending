@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-23T01:46:34Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OpenZeppelin/openzeppelin-foundry-upgrades</title>
+    <updated>2024-06-23T01:46:34Z</updated>
+    <id>tag:github.com,2024-06-23:/OpenZeppelin/openzeppelin-foundry-upgrades</id>
+    <link href="https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Foundry library for deploying and managing upgradeable contracts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

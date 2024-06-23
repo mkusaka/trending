@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-23T01:43:05Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>openboxes/openboxes</title>
+    <updated>2024-06-23T01:43:05Z</updated>
+    <id>tag:github.com,2024-06-23:/openboxes/openboxes</id>
+    <link href="https://github.com/openboxes/openboxes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

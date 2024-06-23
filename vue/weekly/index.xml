@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-23T01:47:25Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zxwk1998/vue-admin-better</title>
+    <updated>2024-06-23T01:47:25Z</updated>
+    <id>tag:github.com,2024-06-23:/zxwk1998/vue-admin-better</id>
+    <link href="https://github.com/zxwk1998/vue-admin-better" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dullage/flatnotes</title>
+    <updated>2024-06-23T01:47:25Z</updated>
+    <id>tag:github.com,2024-06-23:/dullage/flatnotes</id>
+    <link href="https://github.com/dullage/flatnotes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

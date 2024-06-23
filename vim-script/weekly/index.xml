@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-23T01:47:23Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>simnalamburt/vim-mundo</title>
+    <updated>2024-06-23T01:47:23Z</updated>
+    <id>tag:github.com,2024-06-23:/simnalamburt/vim-mundo</id>
+    <link href="https://github.com/simnalamburt/vim-mundo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎄 Vim undo tree visualizer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>udalov/kotlin-vim</title>
+    <updated>2024-06-23T01:47:23Z</updated>
+    <id>tag:github.com,2024-06-23:/udalov/kotlin-vim</id>
+    <link href="https://github.com/udalov/kotlin-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
