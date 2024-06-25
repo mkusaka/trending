@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-24T01:28:37Z</updated>
+  <updated>2024-06-25T01:28:41Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SimplifyJobs/Summer2025-Internships</title>
-    <updated>2024-06-24T01:28:37Z</updated>
-    <id>tag:github.com,2024-06-24:/SimplifyJobs/Summer2025-Internships</id>
-    <link href="https://github.com/SimplifyJobs/Summer2025-Internships" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of Summer 2025 tech internships!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>obsidianmd/obsidian-releases</title>
-    <updated>2024-06-24T01:28:37Z</updated>
-    <id>tag:github.com,2024-06-24:/obsidianmd/obsidian-releases</id>
-    <link href="https://github.com/obsidianmd/obsidian-releases" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community plugins list, theme list, and releases of Obsidian.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
