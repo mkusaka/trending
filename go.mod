@@ -3,7 +3,7 @@ module github.com/mkusaka/trending
 go 1.19
 
 require (
-	github.com/gorilla/feeds v1.1.2
+	github.com/gorilla/feeds v1.2.0
 	github.com/mmcdole/gofeed v1.3.0
 	github.com/motemen/go-loghttp v0.0.0-20231107055348-29ae44b293f4
 	github.com/pkg/errors v0.9.1
