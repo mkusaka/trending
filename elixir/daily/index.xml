@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-28T01:30:16Z</updated>
+  <updated>2024-06-29T01:29:45Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>philss/floki</title>
+    <updated>2024-06-29T01:29:45Z</updated>
+    <id>tag:github.com,2024-06-29:/philss/floki</id>
+    <link href="https://github.com/philss/floki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Floki is a simple HTML parser that enables search for nodes using CSS selectors.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
