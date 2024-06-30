@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-06-30T01:48:17Z</updated>
+  <subtitle>Weekly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alexforencich/verilog-pcie</title>
+    <updated>2024-06-30T01:48:17Z</updated>
+    <id>tag:github.com,2024-06-30:/alexforencich/verilog-pcie</id>
+    <link href="https://github.com/alexforencich/verilog-pcie" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verilog PCI express components&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>open-sdr/openwifi-hw</title>
+    <updated>2024-06-30T01:48:17Z</updated>
+    <id>tag:github.com,2024-06-30:/open-sdr/openwifi-hw</id>
+    <link href="https://github.com/open-sdr/openwifi-hw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;open-source IEEE 802.11 WiFi baseband FPGA (chip) design: FPGA, hardware&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

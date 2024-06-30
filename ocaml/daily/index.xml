@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-29T01:34:54Z</updated>
+  <updated>2024-06-30T01:36:06Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chshersh/github-tui</title>
+    <updated>2024-06-30T01:36:06Z</updated>
+    <id>tag:github.com,2024-06-30:/chshersh/github-tui</id>
+    <link href="https://github.com/chshersh/github-tui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌒 A TUI for GitHub&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
