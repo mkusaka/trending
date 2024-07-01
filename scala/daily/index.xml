@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-30T01:37:32Z</updated>
+  <updated>2024-07-01T01:35:08Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>apicollective/apibuilder</title>
+    <updated>2024-07-01T01:35:08Z</updated>
+    <id>tag:github.com,2024-07-01:/apicollective/apibuilder</id>
+    <link href="https://github.com/apicollective/apibuilder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple, Comprehensive Tooling for Modern APIs&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/apicollective/apibuilder&#34;&gt;&lt;img src=&#34;https://travis-ci.org/apicollective/apibuilder.svg?branch=main&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;apibuilder&lt;/h1&gt; &#xA;&lt;p&gt;Simple, Comprehensive Tooling for Modern APIs.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://www.apibuilder.io&#34;&gt;https://www.apibuilder.io&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

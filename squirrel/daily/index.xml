@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Squirrel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-30T01:37:58Z</updated>
+  <updated>2024-07-01T01:35:30Z</updated>
   <subtitle>Daily Trending of Squirrel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MSUTeam/MSU</title>
+    <updated>2024-07-01T01:35:30Z</updated>
+    <id>tag:github.com,2024-07-01:/MSUTeam/MSU</id>
+    <link href="https://github.com/MSUTeam/MSU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modding Standards and Utilities for Battle Brothers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-07-01T01:47:22Z</updated>
+  <subtitle>Monthly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>swiftlang/swift-installer-scripts</title>
+    <updated>2024-07-01T01:47:22Z</updated>
+    <id>tag:github.com,2024-07-01:/swiftlang/swift-installer-scripts</id>
+    <link href="https://github.com/swiftlang/swift-installer-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>steinbergmedia/vst3sdk</title>
+    <updated>2024-07-01T01:47:22Z</updated>
+    <id>tag:github.com,2024-07-01:/steinbergmedia/vst3sdk</id>
+    <link href="https://github.com/steinbergmedia/vst3sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VST 3 Plug-In SDK&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

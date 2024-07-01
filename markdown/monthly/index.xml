@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Markdown Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-07-01T01:52:53Z</updated>
+  <subtitle>Monthly Trending of Markdown in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>swiftlang/swift-evolution</title>
+    <updated>2024-07-01T01:52:53Z</updated>
+    <id>tag:github.com,2024-07-01:/swiftlang/swift-evolution</id>
+    <link href="https://github.com/swiftlang/swift-evolution" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>apple/swift-migration-guide</title>
+    <updated>2024-07-01T01:52:53Z</updated>
+    <id>tag:github.com,2024-07-01:/apple/swift-migration-guide</id>
+    <link href="https://github.com/apple/swift-migration-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

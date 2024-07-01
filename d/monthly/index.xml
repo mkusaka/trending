@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub D Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-07-01T01:47:37Z</updated>
+  <subtitle>Monthly Trending of D in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Dadoum/Sideloader</title>
+    <updated>2024-07-01T01:47:37Z</updated>
+    <id>tag:github.com,2024-07-01:/Dadoum/Sideloader</id>
+    <link href="https://github.com/Dadoum/Sideloader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

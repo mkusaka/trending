@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-30T01:30:51Z</updated>
+  <updated>2024-07-01T01:31:04Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>edgurgel/poxa</title>
+    <updated>2024-07-01T01:31:04Z</updated>
+    <id>tag:github.com,2024-07-01:/edgurgel/poxa</id>
+    <link href="https://github.com/edgurgel/poxa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pusher server implementation compatible with Pusher client libraries.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>beam-community/bamboo</title>
+    <updated>2024-07-01T01:31:04Z</updated>
+    <id>tag:github.com,2024-07-01:/beam-community/bamboo</id>
+    <link href="https://github.com/beam-community/bamboo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Testable, composable, and adapter based Elixir email library for devs that love piping.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

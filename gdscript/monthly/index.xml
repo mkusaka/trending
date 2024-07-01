@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-07-01T01:48:45Z</updated>
+  <subtitle>Monthly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Maaack/Godot-Game-Template</title>
+    <updated>2024-07-01T01:48:45Z</updated>
+    <id>tag:github.com,2024-07-01:/Maaack/Godot-Game-Template</id>
+    <link href="https://github.com/Maaack/Godot-Game-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dreadpon/godot_spatial_gardener</title>
+    <updated>2024-07-01T01:48:45Z</updated>
+    <id>tag:github.com,2024-07-01:/dreadpon/godot_spatial_gardener</id>
+    <link href="https://github.com/dreadpon/godot_spatial_gardener" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Godot plugin for painting plants and props on arbitrary 3D surfaces implemented in GDScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

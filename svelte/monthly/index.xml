@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-07-01T01:55:16Z</updated>
+  <subtitle>Monthly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dora-team/dora.dev</title>
+    <updated>2024-07-01T01:55:16Z</updated>
+    <id>tag:github.com,2024-07-01:/dora-team/dora.dev</id>
+    <link href="https://github.com/dora-team/dora.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public-facing knowledge site: https://dora.dev&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vkurko/calendar</title>
+    <updated>2024-07-01T01:55:16Z</updated>
+    <id>tag:github.com,2024-07-01:/vkurko/calendar</id>
+    <link href="https://github.com/vkurko/calendar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codicocodes/dotfyle</title>
+    <updated>2024-07-01T01:55:16Z</updated>
+    <id>tag:github.com,2024-07-01:/codicocodes/dotfyle</id>
+    <link href="https://github.com/codicocodes/dotfyle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Find the best Neovim plugins&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

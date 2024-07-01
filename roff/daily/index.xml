@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-06-30T01:37:18Z</updated>
+  <updated>2024-07-01T01:34:55Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cloudpanel-io/vhost-templates</title>
-    <updated>2024-06-30T01:37:18Z</updated>
-    <id>tag:github.com,2024-06-30:/cloudpanel-io/vhost-templates</id>
-    <link href="https://github.com/cloudpanel-io/vhost-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Application Vhost Templates for CloudPanel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
