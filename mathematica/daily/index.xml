@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-01T01:33:14Z</updated>
+  <updated>2024-07-02T01:32:00Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gtech-mulearn/IEEE-LAUNCHPAD</title>
+    <updated>2024-07-02T01:32:00Z</updated>
+    <id>tag:github.com,2024-07-02:/gtech-mulearn/IEEE-LAUNCHPAD</id>
+    <link href="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Connect with top employers and elevate your career! Craft your digital identity, engage with μLearn Campus Chapters, and showcase your skills to potential recruiters. Don&#39;t miss this opportunity to launch your career with LAUNCHPAD Job Fair! 🚀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

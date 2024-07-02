@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-01T01:34:18Z</updated>
+  <updated>2024-07-02T01:33:07Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>obsproject/obs-deps</title>
-    <updated>2024-07-01T01:34:18Z</updated>
-    <id>tag:github.com,2024-07-01:/obsproject/obs-deps</id>
-    <link href="https://github.com/obsproject/obs-deps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;obs-deps&lt;/h1&gt; &#xA;&lt;p&gt;This repository is a collection of build scripts to build OBS dependencies for macOS and Windows.&lt;/p&gt; &#xA;&lt;h2&gt;Windows&lt;/h2&gt; &#xA;&lt;p&gt;OBS dependencies for Windows can be built via the &lt;code&gt;Build-Dependencies.ps1&lt;/code&gt; PowerShell script. For best compatibility, it is advised to use a recent version of PowerShell Core (pwsh). Older versions of PowerShell might work, but support for these is not provided.&lt;/p&gt; &#xA;&lt;h2&gt;macOS&lt;/h2&gt; &#xA;&lt;p&gt;OBS dependencies for macOS can be built via the &lt;code&gt;build-deps.zsh&lt;/code&gt; Zsh-script. Zsh is the default interactive shell on macOS starting with macOS 10.15, the minimum version supported for building OBS. Both Intel and Apple Silicon are supported.&lt;/p&gt; &#xA;&lt;h2&gt;FFmpeg&lt;/h2&gt; &#xA;&lt;p&gt;FFmpeg can be built via the &lt;code&gt;build-ffmpeg.zsh&lt;/code&gt; Zsh-script. FFmpeg can be compiled natively on macOS and Linux, and cross-compiled on Linux for Windows. In the latter case, specify a Windows-based target (e.g., &lt;code&gt;windows-x64&lt;/code&gt;) to enable cross-compilation. On macOS, both Intel and Apple Silicon are supported.&lt;/p&gt; &#xA;&lt;h2&gt;Qt&lt;/h2&gt; &#xA;&lt;p&gt;Qt can be built via the &lt;code&gt;build-qt.zsh&lt;/code&gt; Zsh-script. Qt can be compiled natively on macOS for Intel and Apple Silicon.&lt;/p&gt; &#xA;&lt;h2&gt;More Information&lt;/h2&gt; &#xA;&lt;p&gt;Further details can be found in the &lt;a href=&#34;https://github.com/obsproject/obs-deps/wiki&#34;&gt;Wiki Pages&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Add/edit separate build scripts in the appropriate subdirectory (e.g., &lt;code&gt;deps.ffmpeg&lt;/code&gt; for FFmpeg and associated build dependencies)&lt;/li&gt; &#xA; &lt;li&gt;Ensure that either a valid Git commit hash is specified or a checksum file for a downloaded artifact has been placed in the &lt;code&gt;checksums&lt;/code&gt; subdirectory&lt;/li&gt; &#xA; &lt;li&gt;If patches are necessary, ensure those are placed in a directory with the same name of the dependency inside the &lt;code&gt;patches&lt;/code&gt; directory&lt;/li&gt; &#xA; &lt;li&gt;Name patches numerically padded to 4 digits (e.g., &lt;code&gt;0001&lt;/code&gt;) and with a descriptive name&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
