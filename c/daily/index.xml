@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-03T01:29:09Z</updated>
+  <updated>2024-07-04T01:29:27Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shalxmva/modxo</title>
-    <updated>2024-07-03T01:29:09Z</updated>
-    <id>tag:github.com,2024-07-03:/shalxmva/modxo</id>
-    <link href="https://github.com/shalxmva/modxo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Xbox LPC Port modchip using a Raspberry Pi Pico&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/shalxmva/modxo/main/images/logo.png&#34; alt=&#34;Modchip + Axolotl = Modxo&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;&lt;/h1&gt; &#xA;&lt;p&gt;Modxo (pronnounced as &#34;Modsho&#34;) is a Xbox LPC Port firmware that converts the Raspberry Pi Pico into an Original Xbox Modchip that allows running a bios.&lt;/p&gt; &#xA;&lt;h3&gt;Future features&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Implement device communication (specially with LCD)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;How to Install&lt;/h1&gt; &#xA;&lt;h3&gt;1. Requirements&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Working LPC Port&lt;/li&gt; &#xA; &lt;li&gt;Original Raspberry Pi Pico or RP2040 Zero (There are some clone boards that are not compatible)&lt;/li&gt; &#xA; &lt;li&gt;4 100 Ohm resistors (tested with 1/4 W resistors)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;2. Build Circuit&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/shalxmva/modxo/main/images/wiring_diagram.png&#34; alt=&#34;Wiring diagram&#34;&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Note: D0 is only needed by versions different to 1.6&lt;/li&gt; &#xA; &lt;li&gt;Note: LFrame pin connection is only needed by version 1.6. Also LPC Rebuild is Required&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;3. Flashing firmware&lt;/h3&gt; &#xA;&lt;h4&gt;Packing Bios&lt;/h4&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Go to &lt;a href=&#34;https://shalxmva.github.io/modxo/&#34;&gt;https://shalxmva.github.io/modxo/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Drag and Drop your bios file&lt;/li&gt; &#xA; &lt;li&gt;UF2 File with bios image will be downloaded&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h4&gt;Flashing steps&lt;/h4&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Connect Raspberry Pi Pico with BOOTSEL button pressed to a PC and one new drive will appear.&lt;/li&gt; &#xA; &lt;li&gt;Copy Modxo.uf2 into the Raspberry Pi Pico Drive.&lt;/li&gt; &#xA; &lt;li&gt;Reconnect Raspberry Pi Pico with BOOTSEL button pressed, so the previous drive will showup again.&lt;/li&gt; &#xA; &lt;li&gt;Copy your bios UF2 file into the drive&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h1&gt;Firmware Build Instructions&lt;/h1&gt; &#xA;&lt;p&gt;Todo&lt;/p&gt; &#xA;&lt;h4&gt;Windows&lt;/h4&gt; &#xA;&lt;p&gt;Todo&lt;/p&gt;</summary>
-  </entry>
 </feed>
