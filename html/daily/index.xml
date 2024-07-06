@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-05T01:31:59Z</updated>
+  <updated>2024-07-06T01:31:02Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Show-Me-the-Code/python</title>
+    <updated>2024-07-06T01:31:02Z</updated>
+    <id>tag:github.com,2024-07-06:/Show-Me-the-Code/python</id>
+    <link href="https://github.com/Show-Me-the-Code/python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Show Me the Code Python version.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;python&lt;/h1&gt; &#xA;&lt;p&gt;Show Me the Code Python version.&lt;/p&gt; &#xA;&lt;p&gt;2015年8月10日更新： 【注】Pull Request 请提交你个人的仓库 URL 链接地址。&lt;/p&gt; &#xA;&lt;h3&gt;How to Add your solutions:&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fork this repo.&lt;/li&gt; &#xA; &lt;li&gt;Create a folder named with your github name.&lt;/li&gt; &#xA; &lt;li&gt;Create a folder named the problem num.&lt;/li&gt; &#xA; &lt;li&gt;Add your solution in the folder.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For example, if you wanna add a solution for problem 0001, you should do like this:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fork &lt;code&gt;Show-Me-the-Code/python&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;git clone &lt;code&gt;YOUR_REPO_URL SOME_DIR&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;cd &lt;code&gt;SOME_DIR&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;mkdir &lt;code&gt;YOUR_GITHUB_USER_NAME&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;cd &lt;code&gt;YOU_GITHUB_USER_NAME&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;mkdir &lt;code&gt;0001&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;cd &lt;code&gt;0001&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;and the write some code &amp;amp; test it.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;If all these steps done, send us an pull request. After we accept your request, we&#39;ll invite you to this group.&lt;/p&gt;</summary>
+  </entry>
 </feed>
