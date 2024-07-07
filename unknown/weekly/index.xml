@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-07-07T01:36:52Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zhanymkanov/fastapi-best-practices</title>
+    <updated>2024-07-07T01:36:52Z</updated>
+    <id>tag:github.com,2024-07-07:/zhanymkanov/fastapi-best-practices</id>
+    <link href="https://github.com/zhanymkanov/fastapi-best-practices" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FastAPI Best Practices and Conventions we used at our startup&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>visenger/awesome-mlops</title>
+    <updated>2024-07-07T01:36:52Z</updated>
+    <id>tag:github.com,2024-07-07:/visenger/awesome-mlops</id>
+    <link href="https://github.com/visenger/awesome-mlops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of references for MLOps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>The-Cool-Coders/Project-Ideas-And-Resources</title>
+    <updated>2024-07-07T01:36:52Z</updated>
+    <id>tag:github.com,2024-07-07:/The-Cool-Coders/Project-Ideas-And-Resources</id>
+    <link href="https://github.com/The-Cool-Coders/Project-Ideas-And-Resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Collection of application ideas that can be used to improve your coding skills ❤.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

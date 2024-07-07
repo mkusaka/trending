@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-06T01:37:56Z</updated>
+  <updated>2024-07-07T01:36:40Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mustache/spec</title>
-    <updated>2024-07-06T01:37:56Z</updated>
-    <id>tag:github.com,2024-07-06:/mustache/spec</id>
-    <link href="https://github.com/mustache/spec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Mustache spec.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

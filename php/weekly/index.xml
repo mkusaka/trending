@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PHP Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-07-07T01:45:54Z</updated>
+  <subtitle>Weekly Trending of PHP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cweagans/composer-patches</title>
+    <updated>2024-07-07T01:45:54Z</updated>
+    <id>tag:github.com,2024-07-07:/cweagans/composer-patches</id>
+    <link href="https://github.com/cweagans/composer-patches" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple patches plugin for Composer&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;composer-patches&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/cweagans/composer-patches/actions/workflows/ci.yml/badge.svg?branch=main&#34; alt=&#34;Build status&#34;&gt; &lt;a href=&#34;https://coveralls.io/github/cweagans/composer-patches?branch=main&#34;&gt;&lt;img src=&#34;https://coveralls.io/repos/github/cweagans/composer-patches/badge.svg?branch=main&#34; alt=&#34;Coverage Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Simple patches plugin for Composer. Applies a patch from a local or remote file to any dependency installed by Composer.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;Documentation&lt;/strong&gt;: &lt;a href=&#34;https://docs.cweagans.net/composer-patches&#34;&gt;https://docs.cweagans.net/composer-patches&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Issues&lt;/strong&gt;: &lt;a href=&#34;https://github.com/cweagans/composer-patches/issues&#34;&gt;https://github.com/cweagans/composer-patches/issues&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Support&lt;/strong&gt;: &lt;a href=&#34;https://github.com/cweagans/composer-patches/discussions&#34;&gt;https://github.com/cweagans/composer-patches/discussions&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+</feed>
