@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-08T01:31:51Z</updated>
+  <updated>2024-07-09T01:29:29Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zodiacon/WindowsInternals</title>
-    <updated>2024-07-08T01:31:51Z</updated>
-    <id>tag:github.com,2024-07-08:/zodiacon/WindowsInternals</id>
-    <link href="https://github.com/zodiacon/WindowsInternals" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows Internals Book 7th edition Tools&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Windows Internals Book 7th Edition Tools&lt;/h1&gt; &#xA;&lt;p&gt;The Windows Internals book, 7th edition Part 1, uses many tools to demonstrate various features of the Windows operating system. Most are from Sysinternals (&lt;a href=&#34;http://www.sysinternals.com&#34;&gt;http://www.sysinternals.com&lt;/a&gt;) and built-in tools. But some tools were written by Alex Ionescu and myself and used in the book; these are be published here with full source code.&lt;/p&gt; &#xA;&lt;p&gt;Please note that these tools were NOT written by or endorsed by Microsoft. They are provided &#34;as is&#34; without any warranties or guarantees. For all I know, they might format your hard drive or even the entire World Wide Web. :) Use at your own risk!&lt;/p&gt;</summary>
-  </entry>
 </feed>
