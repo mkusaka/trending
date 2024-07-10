@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-09T01:34:49Z</updated>
+  <updated>2024-07-10T01:39:45Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>iina/iina-website</title>
-    <updated>2024-07-09T01:34:49Z</updated>
-    <id>tag:github.com,2024-07-09:/iina/iina-website</id>
-    <link href="https://github.com/iina/iina-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The source code of IINA&#39;s new website at iina.io.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
