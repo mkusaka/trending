@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-10T01:37:45Z</updated>
+  <updated>2024-07-11T01:33:03Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Tiledesk/tiledesk</title>
-    <updated>2024-07-10T01:37:45Z</updated>
-    <id>tag:github.com,2024-07-10:/Tiledesk/tiledesk</id>
-    <link href="https://github.com/Tiledesk/tiledesk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Install Tiledesk on your server using Helm for Kubernetes orchestration and Docker Compose for running multi-container Docker applications. Tiledesk provides an open-source solution comparable to Voiceflow, empowering you to create sophisticated LLM-enabled chatbots that seamlessly transition interactions to human agents when needed.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
