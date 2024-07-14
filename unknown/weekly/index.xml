@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-07-14T01:35:53Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>owainlewis/awesome-artificial-intelligence</title>
+    <updated>2024-07-14T01:35:53Z</updated>
+    <id>tag:github.com,2024-07-14:/owainlewis/awesome-artificial-intelligence</id>
+    <link href="https://github.com/owainlewis/awesome-artificial-intelligence" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>coder2gwy/coder2gwy</title>
+    <updated>2024-07-14T01:35:53Z</updated>
+    <id>tag:github.com,2024-07-14:/coder2gwy/coder2gwy</id>
+    <link href="https://github.com/coder2gwy/coder2gwy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Enraged-Rabbit-Community/ERCF_v2</title>
+    <updated>2024-07-14T01:35:53Z</updated>
+    <id>tag:github.com,2024-07-14:/Enraged-Rabbit-Community/ERCF_v2</id>
+    <link href="https://github.com/Enraged-Rabbit-Community/ERCF_v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community designed ERCF v2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

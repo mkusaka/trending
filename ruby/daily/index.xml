@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-13T01:36:34Z</updated>
+  <updated>2024-07-14T01:34:20Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>openSUSE/osem</title>
-    <updated>2024-07-13T01:36:34Z</updated>
-    <id>tag:github.com,2024-07-13:/openSUSE/osem</id>
-    <link href="https://github.com/openSUSE/osem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/openSUSE/osem/actions&#34;&gt;&lt;img src=&#34;https://github.com/openSUSE/osem/actions/workflows/spec.yml/badge.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://codeclimate.com/github/openSUSE/osem&#34;&gt;&lt;img src=&#34;https://codeclimate.com/github/openSUSE/osem.png&#34; alt=&#34;Code Climate&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://codecov.io/gh/opensuse/osem&#34;&gt;&lt;img src=&#34;https://codecov.io/gh/opensuse/osem/branch/master/graph/badge.svg?sanitize=true&#34; alt=&#34;codecov&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://depfu.com/repos/openSUSE/osem&#34;&gt;&lt;img src=&#34;https://badges.depfu.com/badges/8fcd630367d20f5b48d393774c00c5fd/overview.svg?sanitize=true&#34; alt=&#34;Dependencies&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Open Source Event Manager - &lt;a href=&#34;https://osem.io&#34;&gt;osem.io&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/openSUSE/osem/master/doc/osem-logo.png&#34; alt=&#34;OSEM Logo&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;An event management tool tailored to Free and Open Source Software conferences.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Please refer to our &lt;a href=&#34;https://raw.githubusercontent.com/openSUSE/osem/master/INSTALL.md&#34;&gt;installation guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;How to contribute to OSEM&lt;/h2&gt; &#xA;&lt;p&gt;Please refer to our &lt;a href=&#34;https://raw.githubusercontent.com/openSUSE/osem/master/CONTRIBUTING.md&#34;&gt;contributing guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Contact&lt;/h2&gt; &#xA;&lt;p&gt;GitHub issues are the primary way for communicating about specific proposed changes to this project. If you have other questions feel free to subscribe to the &lt;a href=&#34;http://lists.opensuse.org/opensuse-web/&#34;&gt;opensuse-web@opensuse.org&lt;/a&gt; mailinglist, all OSEM contributors are on that list! Additionally you can use #osem channel on &lt;a href=&#34;https://libera.chat&#34;&gt;libera.chat IRC&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>
