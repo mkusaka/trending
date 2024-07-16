@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-15T01:31:48Z</updated>
+  <updated>2024-07-16T01:32:20Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tree-sitter/haskell-tree-sitter</title>
-    <updated>2024-07-15T01:31:48Z</updated>
-    <id>tag:github.com,2024-07-15:/tree-sitter/haskell-tree-sitter</id>
-    <link href="https://github.com/tree-sitter/haskell-tree-sitter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Haskell bindings for tree-sitter&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;haskell-tree-sitter&lt;/h1&gt; &#xA;&lt;p&gt;This is the repository for the Haskell bindings to the &lt;code&gt;tree-sitter&lt;/code&gt; incremental parsing toolkit, alongside a set of packages providing &lt;code&gt;tree-sitter&lt;/code&gt;-compatible grammars for various programming languages.&lt;/p&gt; &#xA;&lt;p&gt;For more information, consult the &lt;code&gt;README&lt;/code&gt; files in each project subdirectory.&lt;/p&gt;</summary>
-  </entry>
 </feed>
