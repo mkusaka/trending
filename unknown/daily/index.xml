@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-16T01:29:31Z</updated>
+  <updated>2024-07-17T01:28:47Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xlenore/ps2-covers</title>
-    <updated>2024-07-16T01:29:31Z</updated>
-    <id>tag:github.com,2024-07-16:/xlenore/ps2-covers</id>
-    <link href="https://github.com/xlenore/ps2-covers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PS2 Covers Collection&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>InternLM/Tutorial</title>
+    <updated>2024-07-17T01:28:47Z</updated>
+    <id>tag:github.com,2024-07-17:/InternLM/Tutorial</id>
+    <link href="https://github.com/InternLM/Tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LLM Tutorial&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
