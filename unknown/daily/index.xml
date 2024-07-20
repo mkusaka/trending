@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-19T01:29:22Z</updated>
+  <updated>2024-07-20T01:28:30Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>miss-mumu/developer2gwy</title>
-    <updated>2024-07-19T01:29:22Z</updated>
-    <id>tag:github.com,2024-07-19:/miss-mumu/developer2gwy</id>
-    <link href="https://github.com/miss-mumu/developer2gwy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;公务员从入门到上岸，最佳程序员公考实践教程&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
