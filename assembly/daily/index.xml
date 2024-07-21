@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-20T01:28:49Z</updated>
+  <updated>2024-07-21T01:29:20Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pret/poketcg</title>
+    <updated>2024-07-21T01:29:20Z</updated>
+    <id>tag:github.com,2024-07-21:/pret/poketcg</id>
+    <link href="https://github.com/pret/poketcg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Disassembly of Pokémon TCG&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
