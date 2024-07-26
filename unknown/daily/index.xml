@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-25T01:29:23Z</updated>
+  <updated>2024-07-26T01:27:39Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>onceupon/Bash-Oneliner</title>
-    <updated>2024-07-25T01:29:23Z</updated>
-    <id>tag:github.com,2024-07-25:/onceupon/Bash-Oneliner</id>
-    <link href="https://github.com/onceupon/Bash-Oneliner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SheetJS/sheetjs</title>
+    <updated>2024-07-26T01:27:39Z</updated>
+    <id>tag:github.com,2024-07-26:/SheetJS/sheetjs</id>
+    <link href="https://github.com/SheetJS/sheetjs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
