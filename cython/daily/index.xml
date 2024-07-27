@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cython Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-26T01:28:49Z</updated>
+  <updated>2024-07-27T01:28:36Z</updated>
   <subtitle>Daily Trending of Cython in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pytries/marisa-trie</title>
+    <updated>2024-07-27T01:28:36Z</updated>
+    <id>tag:github.com,2024-07-27:/pytries/marisa-trie</id>
+    <link href="https://github.com/pytries/marisa-trie" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Static memory-efficient Trie-like structures for Python based on marisa-trie C++ library.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
