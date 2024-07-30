@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-29T01:37:27Z</updated>
+  <updated>2024-07-30T01:39:58Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>joaovitoriasilva/endurain</title>
-    <updated>2024-07-29T01:37:27Z</updated>
-    <id>tag:github.com,2024-07-29:/joaovitoriasilva/endurain</id>
-    <link href="https://github.com/joaovitoriasilva/endurain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My DIY fitness tracker journey. Frontend is built using Vue.js and Bootstrap CSS; Python FastAPI, Alembic, SQLAlchemy, stravalib, gpxpy, MariaDB behind the scenes. Suggestions welcome!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
