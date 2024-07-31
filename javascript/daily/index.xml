@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-30T01:31:06Z</updated>
+  <updated>2024-07-31T01:24:07Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>spicetify/cli</title>
-    <updated>2024-07-30T01:31:06Z</updated>
-    <id>tag:github.com,2024-07-30:/spicetify/cli</id>
-    <link href="https://github.com/spicetify/cli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.&lt;/p&gt;&lt;hr&gt;&lt;h3 align=&#34;center&#34;&gt;&lt;a href=&#34;https://spicetify.app/&#34;&gt;&lt;img src=&#34;https://i.imgur.com/iwcLITQ.png&#34; width=&#34;600px&#34;&gt;&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://goreportcard.com/report/github.com/spicetify/cli&#34;&gt;&lt;img src=&#34;https://goreportcard.com/badge/github.com/spicetify/cli&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/spicetify/cli/releases/latest&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/release/spicetify/cli/all.svg?colorB=97CA00?label=version&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/spicetify/cli/releases&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/downloads/spicetify/cli/total.svg?colorB=97CA00&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://discord.gg/VnevqPp2Rr&#34;&gt;&lt;img src=&#34;https://img.shields.io/discord/842219447716151306?label=chat&amp;amp;logo=discord&amp;amp;logoColor=discord&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.reddit.com/r/spicetify&#34;&gt;&lt;img src=&#34;https://img.shields.io/reddit/subreddit-subscribers/spicetify?logo=reddit&#34;&gt;&lt;/a&gt; &lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/spicetify/cli/main/.github/assets/logo.png&#34; alt=&#34;img&#34; align=&#34;right&#34; width=&#34;560px&#34; height=&#34;400px&#34;&gt; &#xA;&lt;h3&gt;Features&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Change colors whole UI&lt;/li&gt; &#xA; &lt;li&gt;Inject CSS for advanced customization&lt;/li&gt; &#xA; &lt;li&gt;Inject Extensions (Javascript script) to extend functionalities, manipulate UI and control player.&lt;/li&gt; &#xA; &lt;li&gt;Inject Custom apps&lt;/li&gt; &#xA; &lt;li&gt;Remove bloated components to improve performance&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Links&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://spicetify.app/docs/getting-started&#34;&gt;Installation&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://spicetify.app/docs/getting-started#basic-usage&#34;&gt;Basic Usage&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://spicetify.app/docs/faq&#34;&gt;FAQ&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

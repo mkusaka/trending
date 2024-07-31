@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-30T01:39:57Z</updated>
+  <updated>2024-07-31T01:28:32Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tinted-theming/base16-vim</title>
-    <updated>2024-07-30T01:39:57Z</updated>
-    <id>tag:github.com,2024-07-30:/tinted-theming/base16-vim</id>
-    <link href="https://github.com/tinted-theming/base16-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;base16-vim refreshes and commits new themes weekly automatically and has a documented build process.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
