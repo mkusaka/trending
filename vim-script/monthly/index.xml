@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-08-01T01:56:31Z</updated>
+  <subtitle>Monthly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tpope/vim-repeat</title>
+    <updated>2024-08-01T01:56:31Z</updated>
+    <id>tag:github.com,2024-08-01:/tpope/vim-repeat</id>
+    <link href="https://github.com/tpope/vim-repeat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;repeat.vim: enable repeating supported plugin maps with &#34;.&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tpope/vim-rhubarb</title>
+    <updated>2024-08-01T01:56:31Z</updated>
+    <id>tag:github.com,2024-08-01:/tpope/vim-rhubarb</id>
+    <link href="https://github.com/tpope/vim-rhubarb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;rhubarb.vim: GitHub extension for fugitive.vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wellle/targets.vim</title>
+    <updated>2024-08-01T01:56:31Z</updated>
+    <id>tag:github.com,2024-08-01:/wellle/targets.vim</id>
+    <link href="https://github.com/wellle/targets.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin that provides additional text objects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

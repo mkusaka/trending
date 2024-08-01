@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-08-01T01:53:32Z</updated>
+  <subtitle>Monthly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NotAShelf/nyx</title>
+    <updated>2024-08-01T01:53:32Z</updated>
+    <id>tag:github.com,2024-08-01:/NotAShelf/nyx</id>
+    <link href="https://github.com/NotAShelf/nyx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SaumonNet/proxmox-nixos</title>
+    <updated>2024-08-01T01:53:32Z</updated>
+    <id>tag:github.com,2024-08-01:/SaumonNet/proxmox-nixos</id>
+    <link href="https://github.com/SaumonNet/proxmox-nixos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @JulienMalka]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chaotic-cx/nyx</title>
+    <updated>2024-08-01T01:53:32Z</updated>
+    <id>tag:github.com,2024-08-01:/chaotic-cx/nyx</id>
+    <link href="https://github.com/chaotic-cx/nyx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix flake for &#34;too much bleeding-edge&#34; and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

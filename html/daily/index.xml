@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-31T01:23:41Z</updated>
+  <updated>2024-08-01T01:33:25Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Esri/calcite-design-system</title>
+    <updated>2024-08-01T01:33:25Z</updated>
+    <id>tag:github.com,2024-08-01:/Esri/calcite-design-system</id>
+    <link href="https://github.com/Esri/calcite-design-system" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A monorepo containing the packages for Esri&#39;s Calcite Design System&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Calcite Design System&lt;/h1&gt; &#xA;&lt;p&gt;This is a monorepo containing Calcite Design System packages. Please see the package-specific readmes for more information.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;We welcome contributions to this project. See &lt;a href=&#34;https://raw.githubusercontent.com/Esri/calcite-design-system/dev/CONTRIBUTING.md&#34;&gt;CONTRIBUTING.md&lt;/a&gt; for an overview of contribution guidelines.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;COPYRIGHT © 2024 Esri&lt;/p&gt; &#xA;&lt;p&gt;All rights reserved under the copyright laws of the United States and applicable international laws, treaties, and conventions.&lt;/p&gt; &#xA;&lt;p&gt;This material is licensed for use under the Esri Master License Agreement (MLA), and is bound by the terms of that agreement. You may redistribute and use this code without modification, provided you adhere to the terms of the MLA and include this copyright notice.&lt;/p&gt; &#xA;&lt;p&gt;See use restrictions at &lt;a href=&#34;http://www.esri.com/legal/pdfs/mla_e204_e300/english&#34;&gt;http://www.esri.com/legal/pdfs/mla_e204_e300/english&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;For additional information, contact: Environmental Systems Research Institute, Inc. Attn: Contracts and Legal Services Department 380 New York Street Redlands, California, USA 92373 USA&lt;/p&gt; &#xA;&lt;p&gt;email: &lt;a href=&#34;mailto:contracts@esri.com&#34;&gt;contracts@esri.com&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

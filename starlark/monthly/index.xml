@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-08-01T01:55:50Z</updated>
+  <subtitle>Monthly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>typedb/bazel-distribution</title>
+    <updated>2024-08-01T01:55:50Z</updated>
+    <id>tag:github.com,2024-08-01:/typedb/bazel-distribution</id>
+    <link href="https://github.com/typedb/bazel-distribution" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rules for assembling and deploying software distributions (see @vaticle for usage example)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-07-31T01:21:23Z</updated>
+  <updated>2024-08-01T01:28:47Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PunishXIV/Artisan</title>
+    <updated>2024-08-01T01:28:47Z</updated>
+    <id>tag:github.com,2024-08-01:/PunishXIV/Artisan</id>
+    <link href="https://github.com/PunishXIV/Artisan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A &#39;simple&#39; crafting plugin.&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;img src=&#34;https://love.puni.sh/resources/artisan.svg?sanitize=true&#34; alt=&#34;Artisan IconUrl&#34; width=&#34;15%&#34;&gt; &#xA; &lt;br&gt; &#xA; &lt;img src=&#34;https://github.com/PunishXIV/Artisan/raw/050a58be7b0ce94c959c17e43dabecb65e38a55c/PunishImages/artisan.png&#34; width=&#34;30%&#34;&gt; &#xA; &lt;p&gt;Crafting Automation Plugin/Helper for FFXIV&lt;/p&gt; &#xA; &lt;p&gt;&lt;a href=&#34;https://discord.gg/Zzrcc8kmvy&#34;&gt;&lt;img src=&#34;https://discordapp.com/api/guilds/1001823907193552978/embed.png?style=banner2&#34; alt=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA; &lt;p&gt;Repo Url:&lt;/p&gt; &#xA; &lt;p&gt;&lt;code&gt;https://love.puni.sh/ment.json&lt;/code&gt;&lt;/p&gt; &#xA;&lt;/div&gt;</summary>
+  </entry>
 </feed>
