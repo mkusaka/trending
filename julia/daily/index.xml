@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-02T01:30:36Z</updated>
+  <updated>2024-08-03T01:31:04Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>adambom/dictionary</title>
-    <updated>2024-08-02T01:30:36Z</updated>
-    <id>tag:github.com,2024-08-02:/adambom/dictionary</id>
-    <link href="https://github.com/adambom/dictionary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A JSON representation of Webster&#39;s Unabridged Dictionary&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SciML/DiffEqParamEstim.jl</title>
-    <updated>2024-08-02T01:30:36Z</updated>
-    <id>tag:github.com,2024-08-02:/SciML/DiffEqParamEstim.jl</id>
-    <link href="https://github.com/SciML/DiffEqParamEstim.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easy scientific machine learning (SciML) parameter estimation with pre-built loss functions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
