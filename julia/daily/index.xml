@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-05T01:30:54Z</updated>
+  <updated>2024-08-06T01:31:05Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>QuantumSavory/QuantumSavory.jl</title>
-    <updated>2024-08-05T01:30:54Z</updated>
-    <id>tag:github.com,2024-08-05:/QuantumSavory/QuantumSavory.jl</id>
-    <link href="https://github.com/QuantumSavory/QuantumSavory.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A full stack simulator of quantum hardware, from the low-level analog physics to high-level network dynamics. Includes discrete event simulator, symbolic representation for quantum object, and works with many backend simulators.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaTesting/Mocking.jl</title>
-    <updated>2024-08-05T01:30:54Z</updated>
-    <id>tag:github.com,2024-08-05:/JuliaTesting/Mocking.jl</id>
-    <link href="https://github.com/JuliaTesting/Mocking.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Allows Julia function calls to be temporarily overloaded for the purpose of testing&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaGPU/oneAPI.jl</title>
-    <updated>2024-08-05T01:30:54Z</updated>
-    <id>tag:github.com,2024-08-05:/JuliaGPU/oneAPI.jl</id>
-    <link href="https://github.com/JuliaGPU/oneAPI.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia support for the oneAPI programming toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/ReactionNetworkImporters.jl</title>
+    <updated>2024-08-06T01:31:05Z</updated>
+    <id>tag:github.com,2024-08-06:/SciML/ReactionNetworkImporters.jl</id>
+    <link href="https://github.com/SciML/ReactionNetworkImporters.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia Catalyst.jl importers for various reaction network file formats like BioNetGen and stoichiometry matrices&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
