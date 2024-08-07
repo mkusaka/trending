@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-06T01:31:05Z</updated>
+  <updated>2024-08-07T01:31:02Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SciML/ReactionNetworkImporters.jl</title>
-    <updated>2024-08-06T01:31:05Z</updated>
-    <id>tag:github.com,2024-08-06:/SciML/ReactionNetworkImporters.jl</id>
-    <link href="https://github.com/SciML/ReactionNetworkImporters.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia Catalyst.jl importers for various reaction network file formats like BioNetGen and stoichiometry matrices&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/SymbolicNumericIntegration.jl</title>
+    <updated>2024-08-07T01:31:02Z</updated>
+    <id>tag:github.com,2024-08-07:/SciML/SymbolicNumericIntegration.jl</id>
+    <link href="https://github.com/SciML/SymbolicNumericIntegration.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SymbolicNumericIntegration.jl: Symbolic-Numerics for Solving Integrals&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/DiffEqPhysics.jl</title>
+    <updated>2024-08-07T01:31:02Z</updated>
+    <id>tag:github.com,2024-08-07:/SciML/DiffEqPhysics.jl</id>
+    <link href="https://github.com/SciML/DiffEqPhysics.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library for building differential equations arising from physical problems for physics-informed and scientific machine learning (SciML)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaIO/CodecZlib.jl</title>
+    <updated>2024-08-07T01:31:02Z</updated>
+    <id>tag:github.com,2024-08-07:/JuliaIO/CodecZlib.jl</id>
+    <link href="https://github.com/JuliaIO/CodecZlib.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;zlib codecs for TranscodingStreams.jl.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
