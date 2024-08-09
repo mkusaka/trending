@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-08T01:36:24Z</updated>
+  <updated>2024-08-09T01:33:23Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>addy-dclxvi/i3-starterpack</title>
-    <updated>2024-08-08T01:36:24Z</updated>
-    <id>tag:github.com,2024-08-08:/addy-dclxvi/i3-starterpack</id>
-    <link href="https://github.com/addy-dclxvi/i3-starterpack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple guide (and example of configuration) to install i3 &amp; its and essentials packages, then make them look eye candy.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
