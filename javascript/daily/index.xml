@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-09T01:30:32Z</updated>
+  <updated>2024-08-10T01:30:37Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cables-gl/cables</title>
+    <updated>2024-08-10T01:30:37Z</updated>
+    <id>tag:github.com,2024-08-10:/cables-gl/cables</id>
+    <link href="https://github.com/cables-gl/cables" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cables is a tool for creating beautiful interactive content&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cables&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://cables.gl&#34;&gt;cables.gl&lt;/a&gt; and &lt;a href=&#34;https://cables.gl/standalone&#34;&gt;cables standalone&lt;/a&gt; are mainly developed by &lt;a href=&#34;https://undev.studio/&#34;&gt;undev&lt;/a&gt;, with contributions by the &lt;a href=&#34;https://discord.gg/cablesgl&#34;&gt;cables community&lt;/a&gt; and support by &lt;a href=&#34;https://cables.gl/credits&#34;&gt;various other parties and projects&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Development&lt;/h2&gt; &#xA;&lt;h3&gt;Set up local environment&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;the preferred way of developing cables locally is using the &lt;code&gt;cables_dev&lt;/code&gt; repository: &lt;a href=&#34;https://github.com/cables-gl/cables_dev&#34;&gt;https://github.com/cables-gl/cables_dev&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;that repo contains scripts that will set up everything for you to get started&lt;/li&gt; &#xA; &lt;li&gt;Read up about setting up everything for you to start contributing to cables in the section on &lt;a href=&#34;https://cables.gl/docs/6_1_developing_cables/developing_cables&#34;&gt;&#34;Developing Cables&#34;&lt;/a&gt; of the official cables documentation.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Giving Feedback&lt;/h2&gt; &#xA;&lt;h3&gt;Issue Workflow&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;create an issue, pick &#34;Bug report&#34; or &#34;Feature Request&#34; from the templates&lt;/li&gt; &#xA; &lt;li&gt;the issue will be assigned a &#34;new&#34; label&lt;/li&gt; &#xA; &lt;li&gt;we will check on these issues regularly, add them to a milestone and remove the &#34;new&#34; label&lt;/li&gt; &#xA; &lt;li&gt;once we added the feature or fixed the bug in any release (also dev/nightly) we will close the issue&lt;/li&gt; &#xA; &lt;li&gt;stable releases will have a changelog with all the closed issues&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>
