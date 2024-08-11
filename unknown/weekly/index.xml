@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-08-11T01:35:31Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KaringX/karing</title>
+    <updated>2024-08-11T01:35:31Z</updated>
+    <id>tag:github.com,2024-08-11:/KaringX/karing</id>
+    <link href="https://github.com/KaringX/karing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple &amp; Powerful proxy utility, Support routing rules for clash/sing-box&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>getcursor/cursor</title>
+    <updated>2024-08-11T01:35:31Z</updated>
+    <id>tag:github.com,2024-08-11:/getcursor/cursor</id>
+    <link href="https://github.com/getcursor/cursor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The AI Code Editor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gayanvoice/top-github-users</title>
+    <updated>2024-08-11T01:35:31Z</updated>
+    <id>tag:github.com,2024-08-11:/gayanvoice/top-github-users</id>
+    <link href="https://github.com/gayanvoice/top-github-users" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Check your ranking in GitHub! Don&#39;t forget to star ⭐ this repository.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
