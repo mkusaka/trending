@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-11T01:34:08Z</updated>
+  <updated>2024-08-12T01:36:46Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tom-snow/wechat-windows-versions</title>
-    <updated>2024-08-11T01:34:08Z</updated>
-    <id>tag:github.com,2024-08-11:/tom-snow/wechat-windows-versions</id>
-    <link href="https://github.com/tom-snow/wechat-windows-versions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;保存微信历史版本&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;wechat-windows-versions&lt;/h1&gt; &#xA;&lt;p&gt;收集 Windows 微信版本并保存&lt;/p&gt; &#xA;&lt;p&gt;相关项目:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/zsbai/wechat-versions&#34;&gt;Mac微信收集&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/tom-snow/wechat-windows-versions-x86&#34;&gt;WindowsX86 版本收集(目前仅含23年6月12日后的)&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;目录结构&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;├── README.md # 自述文件&#xA;├── WeChatSetup # 微信安装包临时目录&#xA;│   └── temp # 临时目录&#xA;└── scripts   # 脚本目录&#xA;    ├── destVersionRelease.sh # 获取安装包及取得版本号与 hash 值的脚本&#xA;    └── notify.sh # 新release 时调用通知的脚本&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;说明&lt;/h2&gt; &#xA;&lt;p&gt;项目使用 Github Action 自动下载微信最新版本安装包计算 Hash 值并推送至仓库。&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;注意： 3.5.0.46 版本以下（不包含 3.5.0.46 版， 仅下载了一部分）均下载自 &lt;a href=&#34;https://web.archive.org/web/*/https://pc.weixin.qq.com/&#34;&gt;web.archive.org&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;各版本更新日志可参见 &lt;a href=&#34;https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&amp;amp;t=weixin_faq_list&amp;amp;head=true&#34;&gt;changelog&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;如有问题/侵权，请直接提交 issue 告知。&lt;/em&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

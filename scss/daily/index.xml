@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-11T01:34:05Z</updated>
+  <updated>2024-08-12T01:36:44Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>creativetimofficial/vue-argon-design-system</title>
-    <updated>2024-08-11T01:34:05Z</updated>
-    <id>tag:github.com,2024-08-11:/creativetimofficial/vue-argon-design-system</id>
-    <link href="https://github.com/creativetimofficial/vue-argon-design-system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue Argon Design System&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-11T01:35:08Z</updated>
+  <updated>2024-08-12T01:37:40Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>itchaox/annotree</title>
-    <updated>2024-08-11T01:35:08Z</updated>
-    <id>tag:github.com,2024-08-11:/itchaox/annotree</id>
-    <link href="https://github.com/itchaox/annotree" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generate folder directory annotation tree | 生成文件夹目录注释树&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
