@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ada Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-12T01:28:03Z</updated>
+  <updated>2024-08-13T01:28:06Z</updated>
   <subtitle>Daily Trending of Ada in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ada-game-framework/sdlada</title>
-    <updated>2024-08-12T01:28:03Z</updated>
-    <id>tag:github.com,2024-08-12:/ada-game-framework/sdlada</id>
-    <link href="https://github.com/ada-game-framework/sdlada" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ada 2022 bindings to SDL 2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

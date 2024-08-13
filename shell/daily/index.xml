@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-12T01:36:46Z</updated>
+  <updated>2024-08-13T01:36:14Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>signalapp/Signal-TLS-Proxy</title>
+    <updated>2024-08-13T01:36:14Z</updated>
+    <id>tag:github.com,2024-08-13:/signalapp/Signal-TLS-Proxy</id>
+    <link href="https://github.com/signalapp/Signal-TLS-Proxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Signal TLS Proxy&lt;/h1&gt; &#xA;&lt;p&gt;To run a Signal TLS proxy, you will need a host that has ports 80 and 443 available and a domain name that points to that host.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Install Docker by following the instructions at &lt;a href=&#34;https://docs.docker.com/engine/install/&#34;&gt;https://docs.docker.com/engine/install/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Clone this repository&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;./init-certificate.sh&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;docker compose up --detach&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Your proxy is now running! You can share this with the URL &lt;code&gt;https://signal.tube/#&amp;lt;your_host_name&amp;gt;&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Updating from a previous version&lt;/h2&gt; &#xA;&lt;p&gt;If you&#39;ve previously run a proxy, please update to the most recent version by pulling the most recent changes from &lt;code&gt;main&lt;/code&gt;, then restarting your Docker containers:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;git pull&#xA;docker compose down&#xA;docker compose build&#xA;docker compose up --detach&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>
