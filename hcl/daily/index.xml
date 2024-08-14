@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-13T01:30:37Z</updated>
+  <updated>2024-08-14T01:30:25Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>joryirving/home-ops</title>
-    <updated>2024-08-13T01:30:37Z</updated>
-    <id>tag:github.com,2024-08-13:/joryirving/home-ops</id>
-    <link href="https://github.com/joryirving/home-ops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-13T01:30:33Z</updated>
+  <updated>2024-08-14T01:30:20Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>haskell/containers</title>
-    <updated>2024-08-13T01:30:33Z</updated>
-    <id>tag:github.com,2024-08-13:/haskell/containers</id>
-    <link href="https://github.com/haskell/containers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Assorted concrete container types&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The &lt;code&gt;containers&lt;/code&gt; Package &lt;a href=&#34;https://github.com/haskell/containers/actions?query=branch%3Amaster&#34;&gt;&lt;img src=&#34;https://github.com/haskell/containers/workflows/Haskell-CI/badge.svg?sanitize=true&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;For a walkthrough of what this package provides with examples of common operations see the &lt;a href=&#34;https://haskell-containers.readthedocs.io&#34;&gt;containers introduction&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;http://hackage.haskell.org/package/containers&#34;&gt;&lt;code&gt;containers&lt;/code&gt; on Hackage&lt;/a&gt; for full API documentation.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://github.com/haskell/containers/raw/master/CONTRIBUTING.md&#34;&gt;CONTRIBUTING.md&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>
