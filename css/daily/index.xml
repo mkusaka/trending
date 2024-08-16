@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-15T01:28:45Z</updated>
+  <updated>2024-08-16T01:28:54Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>biopython/biopython.github.io</title>
-    <updated>2024-08-15T01:28:45Z</updated>
-    <id>tag:github.com,2024-08-15:/biopython/biopython.github.io</id>
-    <link href="https://github.com/biopython/biopython.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source of biopython.org website, migrated from MediaWiki&lt;/p&gt;&lt;hr&gt;&lt;hr&gt; &#xA;&lt;h2&gt;title: Biopython.org website README layout: default&lt;/h2&gt; &#xA;&lt;p&gt;The git repository at &lt;a href=&#34;https://github.com/biopython/biopython.github.io/&#34;&gt;https://github.com/biopython/biopython.github.io/&lt;/a&gt; produces the Biopython website at &lt;a href=&#34;https://biopython.org&#34;&gt;https://biopython.org&lt;/a&gt; using GitHub Pages (rendered using Jekyll, see &lt;a href=&#34;https://help.github.com/articles/using-jekyll-with-pages/&#34;&gt;https://help.github.com/articles/using-jekyll-with-pages/&lt;/a&gt; for details).&lt;/p&gt; &#xA;&lt;p&gt;Almost all of the content is under the URL prefix &lt;code&gt;/wiki/&lt;/code&gt; because this was based on an automated conversion of the old MediaWiki website, using &lt;a href=&#34;https://github.com/peterjc/mediawiki_to_git_md&#34;&gt;https://github.com/peterjc/mediawiki_to_git_md&lt;/a&gt; to turn all the changes in the MediaWiki XML export file into into markdown (using pandoc) as a git repository.&lt;/p&gt; &#xA;&lt;p&gt;The old MediaWiki usernames were manually mapped to GitHub accounts. About 20 accounts on the wiki (mostly single contributions) could not be identified, but the old username is still logged in the git commits.&lt;/p&gt; &#xA;&lt;p&gt;Note the website content under &lt;code&gt;/DIST/&lt;/code&gt; is hosted in a separate GitHub Pages project repository &lt;a href=&#34;https://github.com/biopython/DIST&#34;&gt;https://github.com/biopython/DIST&lt;/a&gt; covering the Biopython releases and assorted documentation files.&lt;/p&gt;</summary>
-  </entry>
 </feed>
