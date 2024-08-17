@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-16T01:27:46Z</updated>
+  <updated>2024-08-17T01:27:44Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>base-org/brand-kit</title>
+    <updated>2024-08-17T01:27:44Z</updated>
+    <id>tag:github.com,2024-08-17:/base-org/brand-kit</id>
+    <link href="https://github.com/base-org/brand-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Brand guide and logos for the Base brand.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-16T01:28:18Z</updated>
+  <updated>2024-08-17T01:28:19Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ErsatzTV/ErsatzTV</title>
+    <updated>2024-08-17T01:28:19Z</updated>
+    <id>tag:github.com,2024-08-17:/ErsatzTV/ErsatzTV</id>
+    <link href="https://github.com/ErsatzTV/ErsatzTV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stream custom live channels using your own media&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ErsatzTV&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;ErsatzTV&lt;/strong&gt; is beta software for configuring and streaming custom live channels using your media library. The software may be unstable and is under active development.&lt;/p&gt; &#xA;&lt;p&gt;Documentation is available at &lt;a href=&#34;https://ersatztv.org/&#34;&gt;ersatztv.org&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Want to join the community or have a question? Join us at the &lt;a href=&#34;https://discuss.ersatztv.org/&#34;&gt;ErsatzTV Community&lt;/a&gt; or on &lt;a href=&#34;https://discord.gg/hHaJm3yGy6&#34;&gt;Discord&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Current Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Use local media files and optional sidecar &lt;a href=&#34;https://kodi.wiki/view/NFO_files&#34;&gt;NFO metadata&lt;/a&gt;; no need for a full media server&lt;/li&gt; &#xA; &lt;li&gt;IPTV server and HDHomeRun emulation support a wide range of client applications&lt;/li&gt; &#xA; &lt;li&gt;Channel-specific streaming mode (MPEG-TS or HLS) and transcoding settings&lt;/li&gt; &#xA; &lt;li&gt;Collection-based scheduling, with collections containing television shows, seasons, episodes and movies&lt;/li&gt; &#xA; &lt;li&gt;Powerful scheduling options such as chronological collection playback throughout the day or over multiple days&lt;/li&gt; &#xA; &lt;li&gt;Hardware-accelerated transcoding options (QSV, NVENC, VAAPI)&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.plex.tv/&#34;&gt;Plex&lt;/a&gt; media and metadata&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://jellyfin.org/&#34;&gt;Jellyfin&lt;/a&gt; media and metadata&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://emby.media/&#34;&gt;Emby&lt;/a&gt; media and metadata&lt;/li&gt; &#xA; &lt;li&gt;Song and music video libraries&lt;/li&gt; &#xA; &lt;li&gt;Pre-roll, mid-roll, post-roll filler options&lt;/li&gt; &#xA; &lt;li&gt;Subtitle burn-in&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;This project is inspired by &lt;a href=&#34;https://github.com/DEFENDORe/pseudotv&#34;&gt;pseudotv-plex&lt;/a&gt; and the &lt;a href=&#34;https://github.com/vexorian/dizquetv&#34;&gt;dizquetv&lt;/a&gt; fork and is released under the &lt;a href=&#34;https://raw.githubusercontent.com/ErsatzTV/ErsatzTV/main/LICENSE&#34;&gt;zlib license&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
