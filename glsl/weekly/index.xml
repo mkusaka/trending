@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GLSL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-08-18T01:37:34Z</updated>
+  <subtitle>Weekly Trending of GLSL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PoeticRainbow/golden-days</title>
+    <updated>2024-08-18T01:37:34Z</updated>
+    <id>tag:github.com,2024-08-18:/PoeticRainbow/golden-days</id>
+    <link href="https://github.com/PoeticRainbow/golden-days" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Golden Days is a Minecraft resource pack meant to bring back old textures, lighting, names, and sounds from older versions of Minecraft.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>javiergcim/MakeUpUltraFast</title>
+    <updated>2024-08-18T01:37:34Z</updated>
+    <id>tag:github.com,2024-08-18:/javiergcim/MakeUpUltraFast</id>
+    <link href="https://github.com/javiergcim/MakeUpUltraFast" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High performance Minecraft shader (Java). For a graphical enhancement. Intended for low-spec computers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

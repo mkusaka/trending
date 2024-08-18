@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-17T01:33:24Z</updated>
+  <updated>2024-08-18T01:33:31Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sirixdb/sirix</title>
-    <updated>2024-08-17T01:33:24Z</updated>
-    <id>tag:github.com,2024-08-17:/sirixdb/sirix</id>
-    <link href="https://github.com/sirixdb/sirix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SirixDB is an an embeddable, bitemporal, append-only database system and event store, storing immutable lightweight snapshots. It keeps the full history of each resource. Every commit stores a space-efficient snapshot through structural sharing. It is log-structured and never overwrites data. SirixDB uses a novel page-level versioning approach.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
