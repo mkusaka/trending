@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-18T01:35:04Z</updated>
+  <updated>2024-08-19T01:37:35Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>donaldzou/WGDashboard</title>
+    <updated>2024-08-19T01:37:35Z</updated>
+    <id>tag:github.com,2024-08-19:/donaldzou/WGDashboard</id>
+    <link href="https://github.com/donaldzou/WGDashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple dashboard for WireGuard VPN written in Python w/ Flask&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>palxiao/poster-design</title>
+    <updated>2024-08-19T01:37:35Z</updated>
+    <id>tag:github.com,2024-08-19:/palxiao/poster-design</id>
+    <link href="https://github.com/palxiao/poster-design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
