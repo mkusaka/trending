@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-19T01:37:12Z</updated>
+  <updated>2024-08-20T01:36:14Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OpenIntroStat/openintro-statistics-slides</title>
+    <updated>2024-08-20T01:36:14Z</updated>
+    <id>tag:github.com,2024-08-20:/OpenIntroStat/openintro-statistics-slides</id>
+    <link href="https://github.com/OpenIntroStat/openintro-statistics-slides" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👩🏻‍🏫 Slides for OpenIntro Statistics&lt;/p&gt;&lt;hr&gt;&lt;p&gt;These slides are available at &lt;a href=&#34;http://www.openintro.org&#34;&gt;http://www.openintro.org&lt;/a&gt; under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license (CC BY-NC-SA):&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;http://creativecommons.org/licenses/by-nc-sa/3.0/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This file describes guidelines for when the slides&#39; source files are modified and/or shared. The CC BY-SA license guidelines supercede any guidelines put forth in this file; follow the CC BY-SA license if there is any discrepancy between that license and these guidelines.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Communication obligation. Any derivative work must communicate that it is licensed under a CC BY-SA license, and it also must in some way include the attribution content contained in the footnote on the first page of the original document.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Derivative title. No derivative may include &#34;OpenIntro&#34; in the title, unless it is included in text of the form &#34;Derivative of OpenIntro&#34;, e.g. one might add a subtitle such as &#34;Derivative of OpenIntro Slides&#34;.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;For derivative works, we suggest but do not require that contributing authors&#39; names be listed in chronological order of their contribution.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>
