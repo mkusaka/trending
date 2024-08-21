@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TypeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-20T01:36:31Z</updated>
+  <updated>2024-08-21T01:34:43Z</updated>
   <subtitle>Daily Trending of TypeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mxkaske/mxkaske.dev</title>
-    <updated>2024-08-20T01:36:31Z</updated>
-    <id>tag:github.com,2024-08-20:/mxkaske/mxkaske.dev</id>
-    <link href="https://github.com/mxkaske/mxkaske.dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is a &lt;a href=&#34;https://nextjs.org/&#34;&gt;Next.js&lt;/a&gt; project bootstrapped with &lt;a href=&#34;https://github.com/vercel/next.js/tree/canary/packages/create-next-app&#34;&gt;&lt;code&gt;create-next-app&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;First, run the development server:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;npm run dev&#xA;# or&#xA;yarn dev&#xA;# or&#xA;pnpm dev&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Open &lt;a href=&#34;http://localhost:3000&#34;&gt;http://localhost:3000&lt;/a&gt; with your browser to see the result.&lt;/p&gt; &#xA;&lt;p&gt;You can start editing the page by modifying &lt;code&gt;app/page.tsx&lt;/code&gt;. The page auto-updates as you edit the file.&lt;/p&gt; &#xA;&lt;p&gt;This project uses &lt;a href=&#34;https://nextjs.org/docs/basic-features/font-optimization&#34;&gt;&lt;code&gt;next/font&lt;/code&gt;&lt;/a&gt; to automatically optimize and load Inter, a custom Google Font.&lt;/p&gt; &#xA;&lt;h2&gt;Learn More&lt;/h2&gt; &#xA;&lt;p&gt;To learn more about Next.js, take a look at the following resources:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://nextjs.org/docs&#34;&gt;Next.js Documentation&lt;/a&gt; - learn about Next.js features and API.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://nextjs.org/learn&#34;&gt;Learn Next.js&lt;/a&gt; - an interactive Next.js tutorial.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;You can check out &lt;a href=&#34;https://github.com/vercel/next.js/&#34;&gt;the Next.js GitHub repository&lt;/a&gt; - your feedback and contributions are welcome!&lt;/p&gt; &#xA;&lt;h2&gt;Deploy on Vercel&lt;/h2&gt; &#xA;&lt;p&gt;The easiest way to deploy your Next.js app is to use the &lt;a href=&#34;https://vercel.com/new?utm_medium=default-template&amp;amp;filter=next.js&amp;amp;utm_source=create-next-app&amp;amp;utm_campaign=create-next-app-readme&#34;&gt;Vercel Platform&lt;/a&gt; from the creators of Next.js.&lt;/p&gt; &#xA;&lt;p&gt;Check out our &lt;a href=&#34;https://nextjs.org/docs/deployment&#34;&gt;Next.js deployment documentation&lt;/a&gt; for more details.&lt;/p&gt;</summary>
-  </entry>
 </feed>
