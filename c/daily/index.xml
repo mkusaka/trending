@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-21T01:28:34Z</updated>
+  <updated>2024-08-22T01:28:34Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>unbit/uwsgi</title>
-    <updated>2024-08-21T01:28:34Z</updated>
-    <id>tag:github.com,2024-08-21:/unbit/uwsgi</id>
-    <link href="https://github.com/unbit/uwsgi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;uWSGI application server container&lt;/p&gt;&lt;hr&gt;&lt;p&gt;The uWSGI project&lt;/p&gt; &#xA;&lt;p&gt;For official documentation check: &lt;a href=&#34;https://uwsgi-docs.readthedocs.io/en/latest/&#34;&gt;https://uwsgi-docs.readthedocs.io/en/latest/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Note: The project is in maintenance mode (only bugfixes and updates for new languages apis)&lt;/p&gt; &#xA;&lt;p&gt;Do not expect quick answers on github issues and/or pull requests (sorry for that) A big thanks to all of the users and contributors since 2009.&lt;/p&gt; &#xA;&lt;p&gt;uWSGI development has been sponsored by:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://unbit.it&#34;&gt;http://unbit.it&lt;/a&gt; &lt;a href=&#34;https://www.pythonanywhere.com/&#34;&gt;https://www.pythonanywhere.com/&lt;/a&gt; &lt;a href=&#34;https://lincolnloop.com/&#34;&gt;https://lincolnloop.com/&lt;/a&gt; &lt;a href=&#34;https://yourlabs.io/oss&#34;&gt;https://yourlabs.io/oss&lt;/a&gt; &lt;a href=&#34;https://fili.com&#34;&gt;https://fili.com&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

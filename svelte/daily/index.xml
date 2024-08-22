@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-21T01:34:19Z</updated>
+  <updated>2024-08-22T01:34:25Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>brave/leo</title>
-    <updated>2024-08-21T01:34:19Z</updated>
-    <id>tag:github.com,2024-08-21:/brave/leo</id>
-    <link href="https://github.com/brave/leo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Design tokens for the Brave&#39;s design system known as Leo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

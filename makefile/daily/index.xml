@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-21T01:31:33Z</updated>
+  <updated>2024-08-22T01:31:48Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OP-TEE/build</title>
-    <updated>2024-08-21T01:31:33Z</updated>
-    <id>tag:github.com,2024-08-21:/OP-TEE/build</id>
-    <link href="https://github.com/OP-TEE/build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Makefiles to use OP-TEE on various platforms&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cilium/cilium-cli</title>
+    <updated>2024-08-22T01:31:48Z</updated>
+    <id>tag:github.com,2024-08-22:/cilium/cilium-cli</id>
+    <link href="https://github.com/cilium/cilium-cli" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
