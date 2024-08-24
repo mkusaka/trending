@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-23T01:31:39Z</updated>
+  <updated>2024-08-24T01:30:06Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bintray/gradle-bintray-plugin</title>
-    <updated>2024-08-23T01:31:39Z</updated>
-    <id>tag:github.com,2024-08-23:/bintray/gradle-bintray-plugin</id>
-    <link href="https://github.com/bintray/gradle-bintray-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
