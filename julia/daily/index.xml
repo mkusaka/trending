@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-24T01:30:51Z</updated>
+  <updated>2024-08-25T01:31:21Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TuringLang/AbstractMCMC.jl</title>
-    <updated>2024-08-24T01:30:51Z</updated>
-    <id>tag:github.com,2024-08-24:/TuringLang/AbstractMCMC.jl</id>
-    <link href="https://github.com/TuringLang/AbstractMCMC.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Abstract types and interfaces for Markov chain Monte Carlo methods&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lindahua/NumericExtensions.jl</title>
+    <updated>2024-08-25T01:31:21Z</updated>
+    <id>tag:github.com,2024-08-25:/lindahua/NumericExtensions.jl</id>
+    <link href="https://github.com/lindahua/NumericExtensions.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia extensions to provide high performance computational support&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

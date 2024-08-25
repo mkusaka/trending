@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-24T01:28:59Z</updated>
+  <updated>2024-08-25T01:29:30Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Canardoux/flutter_sound</title>
-    <updated>2024-08-24T01:28:59Z</updated>
-    <id>tag:github.com,2024-08-24:/Canardoux/flutter_sound</id>
-    <link href="https://github.com/Canardoux/flutter_sound" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flutter plugin for sound. Audio recorder and player.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://flutter-sound.canardoux.xyz/images/2-year-old-irish-girl-ukrainian.jpg&#34; alt=&#34;PeaceForUkraine&#34;&gt; Peace for Ukraine&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://flutter-sound.canardoux.xyz/images/banner.png&#34; alt=&#34;PrayForUkraine&#34;&gt; Pray for Ukraine&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;h2&gt;Flutter Sound user: your &lt;a href=&#34;https://flutter-sound.canardoux.xyz/readme.html&#34;&gt;documentation is there&lt;/a&gt;&lt;/h2&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;h2&gt;The &lt;a href=&#34;https://flutter-sound.canardoux.xyz/changelog.html&#34;&gt;CHANGELOG file is here&lt;/a&gt;&lt;/h2&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;hr&gt;</summary>
-  </entry>
 </feed>

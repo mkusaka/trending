@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-08-25T01:39:13Z</updated>
+  <subtitle>Weekly Trending of CSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ayusharma/birthday</title>
+    <updated>2024-08-25T01:39:13Z</updated>
+    <id>tag:github.com,2024-08-25:/ayusharma/birthday</id>
+    <link href="https://github.com/ayusharma/birthday" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Happy Birthday animation design in CSS3, HTML5&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Happy Birthday&lt;/p&gt; &#xA;&lt;p&gt;A Happy Birthday animation design in CSS3, HTML5.&lt;/p&gt; &#xA;&lt;p&gt;URL: &lt;a href=&#34;http://ayusharma.github.io/birthday/&#34;&gt;http://ayusharma.github.io/birthday/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Technology Used: HTML5 CSS3 jQuery GNU/Linux Digital Ocean as VPS GIMP&lt;/p&gt; &#xA;&lt;h1&gt;Setup&lt;/h1&gt; &#xA;&lt;h2&gt;If you have python installed:&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;cd Birthday&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&amp;amp;&amp;amp;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;python -m SimpleHTTPServer --port  8081&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;visit &lt;a href=&#34;http://localhost:8081&#34;&gt;http://localhost:8081&lt;/a&gt; in your browser.&lt;/p&gt; &#xA;&lt;h2&gt;If you have nodejs installed&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;npm install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&amp;amp;&amp;amp;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;npm run server-node&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;visit &lt;a href=&#34;http://localhost:8081&#34;&gt;http://localhost:8081&lt;/a&gt; in your browser.&lt;/p&gt;</summary>
+  </entry>
+</feed>
