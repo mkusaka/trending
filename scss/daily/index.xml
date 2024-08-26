@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-25T01:36:42Z</updated>
+  <updated>2024-08-26T01:34:14Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bencodezen/vue-enterprise-boilerplate</title>
-    <updated>2024-08-25T01:36:42Z</updated>
-    <id>tag:github.com,2024-08-25:/bencodezen/vue-enterprise-boilerplate</id>
-    <link href="https://github.com/bencodezen/vue-enterprise-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Moonlight-Panel/Moonlight</title>
-    <updated>2024-08-25T01:36:42Z</updated>
-    <id>tag:github.com,2024-08-25:/Moonlight-Panel/Moonlight</id>
-    <link href="https://github.com/Moonlight-Panel/Moonlight" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The next generation hosting panel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
