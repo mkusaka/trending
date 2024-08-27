@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-26T01:35:12Z</updated>
+  <updated>2024-08-27T01:35:30Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mineadmin/MineAdmin-Vue</title>
+    <updated>2024-08-27T01:35:30Z</updated>
+    <id>tag:github.com,2024-08-27:/mineadmin/MineAdmin-Vue</id>
+    <link href="https://github.com/mineadmin/MineAdmin-Vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MineAdmin Vue 是一个开源免费专门适配于 MineAdmin 后台权限管理系统的前端中后台模板，使用了 vue3, vite5, pinia, arco design, javascript 等主流开发技术，未使用Typescript，我们选择了简单。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Tencent/tdesign-vue-next-starter</title>
+    <updated>2024-08-27T01:35:30Z</updated>
+    <id>tag:github.com,2024-08-27:/Tencent/tdesign-vue-next-starter</id>
+    <link href="https://github.com/Tencent/tdesign-vue-next-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A starter-kit for TDesign Vue Next UI components&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
