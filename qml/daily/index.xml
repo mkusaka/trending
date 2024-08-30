@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-29T01:33:41Z</updated>
+  <updated>2024-08-30T01:34:02Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MarianArlt/sddm-chili</title>
+    <updated>2024-08-30T01:34:02Z</updated>
+    <id>tag:github.com,2024-08-30:/MarianArlt/sddm-chili</id>
+    <link href="https://github.com/MarianArlt/sddm-chili" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The hottest theme around for SDDM, the Simple Desktop Display Manager.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
