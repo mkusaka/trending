@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-08-30T01:28:23Z</updated>
+  <updated>2024-08-31T01:28:02Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dailydotdev/daily</title>
-    <updated>2024-08-30T01:28:23Z</updated>
-    <id>tag:github.com,2024-08-30:/dailydotdev/daily</id>
-    <link href="https://github.com/dailydotdev/daily" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anitabi/anitabi.cn-document</title>
+    <updated>2024-08-31T01:28:02Z</updated>
+    <id>tag:github.com,2024-08-31:/anitabi/anitabi.cn-document</id>
+    <link href="https://github.com/anitabi/anitabi.cn-document" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;动画巡礼文档&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
