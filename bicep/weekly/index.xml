@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-09-01T01:36:58Z</updated>
+  <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/missionlz</title>
+    <updated>2024-09-01T01:36:58Z</updated>
+    <id>tag:github.com,2024-09-01:/Azure/missionlz</id>
+    <link href="https://github.com/Azure/missionlz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure landing zone for SCCA-compliant organizations.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
