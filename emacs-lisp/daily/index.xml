@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-01T01:30:38Z</updated>
+  <updated>2024-09-02T01:29:52Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tibbe/haskell-style-guide</title>
+    <updated>2024-09-02T01:29:52Z</updated>
+    <id>tag:github.com,2024-09-02:/tibbe/haskell-style-guide</id>
+    <link href="https://github.com/tibbe/haskell-style-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A style guide for Haskell code.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Haskell Style Guide&lt;/h1&gt; &#xA;&lt;p&gt;Every major open-source project has its own style guide: a set of conventions (sometimes arbitrary) about how to write code for that project. It is much easier to understand a large codebase when all the code in it is in a consistent style.&lt;/p&gt; &#xA;&lt;p&gt;This project holds the style guidelines I use for my code. If you are modifying a project that was created by me, you may be pointed to this style guide.&lt;/p&gt; &#xA;&lt;p&gt;The style guide can be found in &lt;code&gt;haskell-style.md&lt;/code&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

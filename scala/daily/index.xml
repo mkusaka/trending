@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-01T01:34:58Z</updated>
+  <updated>2024-09-02T01:33:51Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>scylladb/scylla-migrator</title>
+    <updated>2024-09-02T01:33:51Z</updated>
+    <id>tag:github.com,2024-09-02:/scylladb/scylla-migrator</id>
+    <link href="https://github.com/scylladb/scylla-migrator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Migrate data extract using Spark to Scylla, normally from Cassandra/parquet files. Alt. from DynamoDB to Scylla Alternator.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ScyllaDB Migrator&lt;/h1&gt; &#xA;&lt;p&gt;The ScyllaDB Migrator is a Spark application that migrates data to ScyllaDB from CQL-compatible or DynamoDB-compatible databases.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://migrator.docs.scylladb.com&#34;&gt;https://migrator.docs.scylladb.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Building&lt;/h2&gt; &#xA;&lt;p&gt;To test a custom version of the migrator that has not been &lt;a href=&#34;https://github.com/scylladb/scylla-migrator/releases&#34;&gt;released&lt;/a&gt;, you can build it yourself by cloning this Git repository and following the steps below:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Make sure the Java 8+ JDK and &lt;code&gt;sbt&lt;/code&gt; are installed on your machine.&lt;/li&gt; &#xA; &lt;li&gt;Export the &lt;code&gt;JAVA_HOME&lt;/code&gt; environment variable with the path to the JDK installation.&lt;/li&gt; &#xA; &lt;li&gt;Run &lt;code&gt;build.sh&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;This will produce the .jar file to use in the &lt;code&gt;spark-submit&lt;/code&gt; command at path &lt;code&gt;migrator/target/scala-2.13/scylla-migrator-assembly.jar&lt;/code&gt;.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Please refer to the file &lt;a href=&#34;https://raw.githubusercontent.com/scylladb/scylla-migrator/master/CONTRIBUTING.md&#34;&gt;CONTRIBUTING.md&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
