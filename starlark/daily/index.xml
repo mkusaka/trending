@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-02T01:34:17Z</updated>
+  <updated>2024-09-03T01:37:03Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bazel-contrib/bazel-lib</title>
+    <updated>2024-09-03T01:37:03Z</updated>
+    <id>tag:github.com,2024-09-03:/bazel-contrib/bazel-lib</id>
+    <link href="https://github.com/bazel-contrib/bazel-lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common useful functions for writing BUILD files and Starlark macros/rules&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
