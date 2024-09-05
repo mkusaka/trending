@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-04T01:28:32Z</updated>
+  <updated>2024-09-05T01:28:27Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>opensourcepledge/osspledge.com</title>
-    <updated>2024-09-04T01:28:32Z</updated>
-    <id>tag:github.com,2024-09-04:/opensourcepledge/osspledge.com</id>
-    <link href="https://github.com/opensourcepledge/osspledge.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;We all depend on Open Source. Pay your share through Open Source Pledge.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>isooosi/astroverse</title>
-    <updated>2024-09-04T01:28:32Z</updated>
-    <id>tag:github.com,2024-09-04:/isooosi/astroverse</id>
-    <link href="https://github.com/isooosi/astroverse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Astro theme tailored for impactful image-text blogging, ideal for content creators.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
