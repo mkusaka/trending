@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-05T01:28:06Z</updated>
+  <updated>2024-09-06T01:28:06Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>itwanger/toBeBetterJavaer</title>
+    <updated>2024-09-06T01:28:06Z</updated>
+    <id>tag:github.com,2024-09-06:/itwanger/toBeBetterJavaer</id>
+    <link href="https://github.com/itwanger/toBeBetterJavaer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
