@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-06T01:31:34Z</updated>
+  <updated>2024-09-07T01:31:19Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>abelsiqueira/BestieTemplate.jl</title>
-    <updated>2024-09-06T01:31:34Z</updated>
-    <id>tag:github.com,2024-09-06:/abelsiqueira/BestieTemplate.jl</id>
-    <link href="https://github.com/abelsiqueira/BestieTemplate.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template for Julia Programming Language packages using the copier engine.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jlchan/StartUpDG.jl</title>
-    <updated>2024-09-06T01:31:34Z</updated>
-    <id>tag:github.com,2024-09-06:/jlchan/StartUpDG.jl</id>
-    <link href="https://github.com/jlchan/StartUpDG.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Initializes and sets up reference elements and physical meshes for DG.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaLinearAlgebra/BandedMatrices.jl</title>
-    <updated>2024-09-06T01:31:34Z</updated>
-    <id>tag:github.com,2024-09-06:/JuliaLinearAlgebra/BandedMatrices.jl</id>
-    <link href="https://github.com/JuliaLinearAlgebra/BandedMatrices.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia package for representing banded matrices&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MakieOrg/AlgebraOfGraphics.jl</title>
+    <updated>2024-09-07T01:31:19Z</updated>
+    <id>tag:github.com,2024-09-07:/MakieOrg/AlgebraOfGraphics.jl</id>
+    <link href="https://github.com/MakieOrg/AlgebraOfGraphics.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Combine ingredients for a plot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

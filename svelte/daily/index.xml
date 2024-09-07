@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-06T01:35:13Z</updated>
+  <updated>2024-09-07T01:37:18Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chroxify/haptic</title>
+    <updated>2024-09-07T01:37:18Z</updated>
+    <id>tag:github.com,2024-09-07:/chroxify/haptic</id>
+    <link href="https://github.com/chroxify/haptic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A new local-first, privacy-focused and open-source home for your markdown notes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
