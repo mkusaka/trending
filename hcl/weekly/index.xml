@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-09-08T01:41:00Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cloudposse/terraform-aws-efs</title>
+    <updated>2024-09-08T01:41:00Z</updated>
+    <id>tag:github.com,2024-09-08:/cloudposse/terraform-aws-efs</id>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Module to define an EFS Filesystem (aka NFS)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

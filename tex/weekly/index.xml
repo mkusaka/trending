@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TeX Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-09-08T01:47:51Z</updated>
+  <subtitle>Weekly Trending of TeX in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>becarpenter/book6</title>
+    <updated>2024-09-08T01:47:51Z</updated>
+    <id>tag:github.com,2024-09-08:/becarpenter/book6</id>
+    <link href="https://github.com/becarpenter/book6" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collaborative IPv6 book&lt;/p&gt;&lt;hr&gt;&lt;img src=&#34;https://raw.githubusercontent.com/becarpenter/book6/main/book6logo.png&#34; alt=&#34;book6 logo&#34; width=&#34;200px&#34; height=&#34;auto&#34;&gt; &#xA;&lt;p&gt;A collaborative IPv6 book.&lt;/p&gt; &#xA;&lt;p&gt;The intention is a practical introduction to IPv6 for technical people, kept up to date by active practitioners.&lt;/p&gt; &#xA;&lt;p&gt;The book will be available free of charge (and free of advertising) on-line, possibly with an option to obtain a printed copy at cost price.&lt;/p&gt; &#xA;&lt;p&gt;This GitHub repository is a starting point. It may be replaced by a differently structured repo as the work progresses and we gain experience of how to do it.&lt;/p&gt; &#xA;&lt;p&gt;You can start reading the book &lt;a href=&#34;https://raw.githubusercontent.com/becarpenter/book6/main/Contents.md&#34;&gt;here&lt;/a&gt;. It is a work in progress, and if you want to contribute, start &lt;a href=&#34;https://raw.githubusercontent.com/becarpenter/book6/main/CONTRIBUTING.md&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+</feed>

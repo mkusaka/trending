@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-07T01:37:59Z</updated>
+  <updated>2024-09-08T01:37:54Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>umodoc/editor</title>
-    <updated>2024-09-07T01:37:59Z</updated>
-    <id>tag:github.com,2024-09-07:/umodoc/editor</id>
-    <link href="https://github.com/umodoc/editor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Umo Editor 是一个基于 Vue3 和 Tiptap 的适合于国人使用的本土化开源文档编辑器。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
