@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-08T01:36:58Z</updated>
+  <updated>2024-09-09T01:36:36Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ton-blockchain/wallet-contract</title>
-    <updated>2024-09-08T01:36:58Z</updated>
-    <id>tag:github.com,2024-09-08:/ton-blockchain/wallet-contract</id>
-    <link href="https://github.com/ton-blockchain/wallet-contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wallet V4 and subscription smart contracts&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Wallet V4&lt;/h1&gt; &#xA;&lt;p&gt;Wallet v4 is proposed version of wallet to replace v3 or older wallets.&lt;/p&gt; &#xA;&lt;p&gt;The main difference from previous versions consist in plugins functionality: trusted conjugated contracts may implement complex logic while being able to use all funds from main wallet.&lt;/p&gt; &#xA;&lt;p&gt;That way wallet can be extended in numerous ways, including partial, infinite or programmatic allowances, special connectors to specific DApps, custom user-governed add-ons.&lt;/p&gt; &#xA;&lt;p&gt;More info see in &lt;a href=&#34;https://github.com/newton-blockchain/TIPs/issues/38&#34;&gt;TIPS-38&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Interface&lt;/h2&gt; &#xA;&lt;h3&gt;External messages&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Send arbitrary owner-formed message (the same functionality as v1, v2, v3)&lt;/li&gt; &#xA; &lt;li&gt;Deploy and install plugin&lt;/li&gt; &#xA; &lt;li&gt;Install deployed plugin&lt;/li&gt; &#xA; &lt;li&gt;Remove plugin&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Internal messages&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Upon receiving message with &lt;code&gt;0x706c7567&lt;/code&gt; op from plugin (list of plugins is stored in wallet storage), wallet sends requested funds to plugin.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Plugins&lt;/h2&gt; &#xA;&lt;h3&gt;Subscription plugin&lt;/h3&gt; &#xA;&lt;p&gt;Plugin implements logic of periodic predefined payments to fixed destination address. Payment is initiated by anyone-can-send external message, while plugin&#39;s logic ensures that funds will be sent not more often than desired. Fees are subtracted from transferred amount (payee pays for fees) including 1 Toncoin which stays on plugin balance until plugin destruction. Upon subscription destruction, remnants of 1 Toncoins are transferred to destination address.&lt;/p&gt;</summary>
-  </entry>
 </feed>
