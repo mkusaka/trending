@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-09T01:31:23Z</updated>
+  <updated>2024-09-10T01:31:17Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>qutip/HierarchicalEOM.jl</title>
-    <updated>2024-09-09T01:31:23Z</updated>
-    <id>tag:github.com,2024-09-09:/qutip/HierarchicalEOM.jl</id>
-    <link href="https://github.com/qutip/HierarchicalEOM.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An efficient Julia framwork for Hierarchical Equations of Motion (HEOM) in open quantum systems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaIO/CodecZstd.jl</title>
+    <updated>2024-09-10T01:31:17Z</updated>
+    <id>tag:github.com,2024-09-10:/JuliaIO/CodecZstd.jl</id>
+    <link href="https://github.com/JuliaIO/CodecZstd.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A zstd codec for TranscodingStreams.jl.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

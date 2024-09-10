@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-09T01:30:48Z</updated>
+  <updated>2024-09-10T01:30:47Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ONDC-Official/verification-logs</title>
-    <updated>2024-09-09T01:30:48Z</updated>
-    <id>tag:github.com,2024-09-09:/ONDC-Official/verification-logs</id>
-    <link href="https://github.com/ONDC-Official/verification-logs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ONDC Pre-production issue &amp; discussion board&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Verification Logs&lt;/h1&gt; &#xA;&lt;p&gt;To submit logs for protocol compliance verification, following steps need to be followed:&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;ol&gt; &#xA;  &lt;li&gt;Create a fork of the &#34;verification-logs&#34; repository&lt;/li&gt; &#xA; &lt;/ol&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;ol start=&#34;2&#34;&gt; &#xA;  &lt;li&gt;Create a branch with the name of your entity under &#34;logs&#34;&lt;/li&gt; &#xA; &lt;/ol&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;ol start=&#34;3&#34;&gt; &#xA;  &lt;li&gt;Merge your logs into this branch (logs should include request &amp;amp; response payloads for all enabled APIs)&lt;/li&gt; &#xA; &lt;/ol&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;ol start=&#34;4&#34;&gt; &#xA;  &lt;li&gt;Create PR for your branch&lt;/li&gt; &#xA; &lt;/ol&gt; &#xA;&lt;/blockquote&gt;</summary>
-  </entry>
 </feed>
