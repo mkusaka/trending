@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-10T01:34:55Z</updated>
+  <updated>2024-09-11T01:37:22Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vala-lang/vala-lint</title>
-    <updated>2024-09-10T01:34:55Z</updated>
-    <id>tag:github.com,2024-09-10:/vala-lang/vala-lint</id>
-    <link href="https://github.com/vala-lang/vala-lint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Check code-style of Vala code files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elementary/screenshot</title>
+    <updated>2024-09-11T01:37:22Z</updated>
+    <id>tag:github.com,2024-09-11:/elementary/screenshot</id>
+    <link href="https://github.com/elementary/screenshot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Screenshot tool designed for elementary OS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
