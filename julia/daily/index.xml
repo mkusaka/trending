@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-11T01:31:14Z</updated>
+  <updated>2024-09-12T01:31:33Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BioJulia/BioStructures.jl</title>
-    <updated>2024-09-11T01:31:14Z</updated>
-    <id>tag:github.com,2024-09-11:/BioJulia/BioStructures.jl</id>
-    <link href="https://github.com/BioJulia/BioStructures.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia package to read, write and manipulate macromolecular structures&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
