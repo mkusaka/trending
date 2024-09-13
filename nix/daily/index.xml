@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-12T01:37:32Z</updated>
+  <updated>2024-09-13T01:34:58Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kirinnee/oreilly-downloader</title>
-    <updated>2024-09-12T01:37:32Z</updated>
-    <id>tag:github.com,2024-09-12:/kirinnee/oreilly-downloader</id>
-    <link href="https://github.com/kirinnee/oreilly-downloader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Download Oreilly books as epub&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
