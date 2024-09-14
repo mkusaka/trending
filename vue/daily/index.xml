@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-13T01:37:46Z</updated>
+  <updated>2024-09-14T01:34:52Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Super-Badmen-Viper/NSMusicS</title>
+    <updated>2024-09-14T01:34:52Z</updated>
+    <id>tag:github.com,2024-09-14:/Super-Badmen-Viper/NSMusicS</id>
+    <link href="https://github.com/Super-Badmen-Viper/NSMusicS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NSMusicS ，Electron(Vue3+Vite+TypeScript) ，Support: navidrome server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

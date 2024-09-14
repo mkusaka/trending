@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-13T01:29:22Z</updated>
+  <updated>2024-09-14T01:28:58Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dhulihan/hooligan</title>
+    <updated>2024-09-14T01:28:58Z</updated>
+    <id>tag:github.com,2024-09-14:/dhulihan/hooligan</id>
+    <link href="https://github.com/dhulihan/hooligan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A low-lit fully responsive theme for Jekyll-Bootstrap.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is a fully responsive theme for Jekyll + Jekyll-Bootstrap. It is built on top of &lt;a href=&#34;http://twitter.github.com/bootstrap/&#34;&gt;Twitter Bootstrap&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.github.com/dhulihan/hooligan/master/screenshot.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;rake theme:install git=&#34;https://github.com/dhulihan/hooligan.git&#34; &#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Preview&lt;/h2&gt; &#xA;&lt;p&gt;You can preview this theme at the &lt;a href=&#34;http://themes.jekyllbootstrap.com/preview/hooligan/&#34;&gt;Jekyll-Bootstrap Theme Gallery&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Extra Stuff&lt;/h2&gt; &#xA;&lt;p&gt;This theme has some optional configuration support for social buttons. Just add your provider and username to &lt;code&gt;_config.yml&lt;/code&gt;, like so:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;author:&#xA;  name: John Doe&#xA;  email: blah@email.test &#xA;  github: johndoe&#xA;  twitter: johndoe&#xA;  feedburner: johndoe&#xA;  googleplus: johndoe&#xA;  # Whatever you specify for the linkedin option will be placed after `www.linkedin.com/in/`&#xA;  linkedin: johndoe&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Icons with links to your profiles will then appear on the navbar. Your stalkers will &lt;em&gt;love&lt;/em&gt; you for making things so easy!&lt;/p&gt;</summary>
+  </entry>
 </feed>
