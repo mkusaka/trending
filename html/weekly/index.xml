@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HTML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-09-15T01:44:05Z</updated>
+  <subtitle>Weekly Trending of HTML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>juliocesarfort/public-pentesting-reports</title>
+    <updated>2024-09-15T01:44:05Z</updated>
+    <id>tag:github.com,2024-09-15:/juliocesarfort/public-pentesting-reports</id>
+    <link href="https://github.com/juliocesarfort/public-pentesting-reports" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of public penetration test reports published by several consulting firms and academic security groups.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Public penetration testing reports&lt;/h1&gt; &#xA;&lt;p&gt;A repository containing public penetration test reports published by consulting firms and academic security groups.&lt;/p&gt; &#xA;&lt;p&gt;Maintained by Julio @ Blaze Information Security (&lt;a href=&#34;https://www.blazeinfosec.com&#34;&gt;https://www.blazeinfosec.com&lt;/a&gt;)&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>jonbarron/website</title>
+    <updated>2024-09-15T01:44:05Z</updated>
+    <id>tag:github.com,2024-09-15:/jonbarron/website</id>
+    <link href="https://github.com/jonbarron/website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is the source code to Jon Barron&#39;s public academic website: &lt;a href=&#34;https://jonbarron.info/&#34;&gt;https://jonbarron.info/&lt;/a&gt;. Feel free to clone this code for your own personal use.&lt;/p&gt;</summary>
+  </entry>
+</feed>

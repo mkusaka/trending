@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-14T01:28:25Z</updated>
+  <updated>2024-09-15T01:29:09Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>libssh2/libssh2</title>
-    <updated>2024-09-14T01:28:25Z</updated>
-    <id>tag:github.com,2024-09-14:/libssh2/libssh2</id>
-    <link href="https://github.com/libssh2/libssh2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;the SSH library&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;libssh2 - SSH2 library&lt;/h1&gt; &#xA;&lt;p&gt;libssh2 is a library implementing the SSH2 protocol, available under the revised BSD license.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://libssh2.org/&#34;&gt;Web site&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://lists.haxx.se/listinfo/libssh2-devel&#34;&gt;Mailing list&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://libssh2.org/license.html&#34;&gt;BSD Licensed&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/libssh2/www&#34;&gt;Web site source code&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Installation instructions:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/libssh2/libssh2/master/docs/INSTALL_CMAKE.md&#34;&gt;for CMake&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/libssh2/libssh2/master/docs/INSTALL_AUTOTOOLS&#34;&gt;for autotools&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
