@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-16T01:30:23Z</updated>
+  <updated>2024-09-17T01:26:44Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>edance/openpace</title>
+    <updated>2024-09-17T01:26:44Z</updated>
+    <id>tag:github.com,2024-09-17:/edance/openpace</id>
+    <link href="https://github.com/edance/openpace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🏃 Track Runs and Workouts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

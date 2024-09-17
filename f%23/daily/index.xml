@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-16T01:30:30Z</updated>
+  <updated>2024-09-17T01:26:53Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>OpenRCT2/objects</title>
-    <updated>2024-09-16T01:30:30Z</updated>
-    <id>tag:github.com,2024-09-16:/OpenRCT2/objects</id>
-    <link href="https://github.com/OpenRCT2/objects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official objects for OpenRCT2&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Official objects for OpenRCT2&lt;/h1&gt; &#xA;&lt;p&gt;Contains objects from RollerCoaster Tycoon 1, RollerCoaster Tycoon 2 and their expansion packs. For the main development and codebase of OpenRCT2, visit &lt;a href=&#34;https://github.com/OpenRCT2/OpenRCT2&#34;&gt;OpenRCT2/OpenRCT2&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;Build Status&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/OpenRCT2/objects/workflows/CI/badge.svg?sanitize=true&#34; alt=&#34;Build Status&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

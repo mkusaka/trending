@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cython Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-16T01:29:58Z</updated>
+  <updated>2024-09-17T01:26:10Z</updated>
   <subtitle>Daily Trending of Cython in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>truenas/py-libzfs</title>
-    <updated>2024-09-16T01:29:58Z</updated>
-    <id>tag:github.com,2024-09-16:/truenas/py-libzfs</id>
-    <link href="https://github.com/truenas/py-libzfs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python libzfs bindings&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
