@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-17T01:37:24Z</updated>
+  <updated>2024-09-18T01:38:19Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jeetsukumaran/vim-pythonsense</title>
-    <updated>2024-09-17T01:37:24Z</updated>
-    <id>tag:github.com,2024-09-17:/jeetsukumaran/vim-pythonsense</id>
-    <link href="https://github.com/jeetsukumaran/vim-pythonsense" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Vim plugin that provides text objects and motions for Python classes, methods, functions, and doc strings.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
