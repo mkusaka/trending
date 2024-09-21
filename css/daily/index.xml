@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-20T01:29:41Z</updated>
+  <updated>2024-09-21T01:29:33Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shanselman/firsttimersonly</title>
+    <updated>2024-09-21T01:29:33Z</updated>
+    <id>tag:github.com,2024-09-21:/shanselman/firsttimersonly</id>
+    <link href="https://github.com/shanselman/firsttimersonly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Repository for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FirstTimersOnly&lt;/h1&gt; &#xA;&lt;p&gt;This Repository is for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies. Visit our live webpage at &lt;a href=&#34;https://www.firsttimersonly.com/&#34;&gt;https://www.firsttimersonly.com/&lt;/a&gt; &lt;img src=&#34;https://raw.githubusercontent.com/lauras5/firsttimersonly/gh-pages/images/homePg.jpg&#34; alt=&#34;Alt Text&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Empower a First Timer today!&lt;/h2&gt; &#xA;&lt;p&gt;We believe - and we hope you believe too - that learning how to code, how to think, and how to contribute to open source can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere!&lt;/p&gt; &#xA;&lt;p&gt;We have gathered a list of resources to motivate and empower you to making that first step into becoming a contributor to the open source realm.&lt;/p&gt; &#xA;&lt;p&gt;If you are an OSS project owner, we have some tips for you to enable you to be instrumental in ushering a new batch of programmers into the community.&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;An initiative by &lt;a href=&#34;https://github.com/shanselman&#34;&gt;SHANSELMAN&lt;/a&gt; and &lt;a href=&#34;https://github.com/kentcdodds&#34;&gt;KENTCDODDS&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
