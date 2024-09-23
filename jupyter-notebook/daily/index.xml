@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Jupyter Notebook Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-09-23T01:31:40Z</updated>
+  <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SharifiZarchi/Introduction_to_Machine_Learning</title>
+    <updated>2024-09-23T01:31:40Z</updated>
+    <id>tag:github.com,2024-09-23:/SharifiZarchi/Introduction_to_Machine_Learning</id>
+    <link href="https://github.com/SharifiZarchi/Introduction_to_Machine_Learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;دوره‌ی مقدمه‌ای بر یادگیری ماشین، برای دانشجویان&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Machine Learning Course&lt;/h1&gt; &#xA;&lt;h2&gt;Computer Engineering Department, Sharif University of Technology&lt;/h2&gt; &#xA;&lt;p&gt;You can find Slides, Jupyter Notebooks and Exercises of &#34;Introduction to machine learning&#34; course of Fall 2024 (1403) Semester. It&#39;s currently under construction and will be updated during the semster.&lt;/p&gt; &#xA;&lt;p&gt;The complete set of course material of previous semesters are located in &#34;Previous Semsters&#34;.&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-22T01:29:20Z</updated>
+  <updated>2024-09-23T01:29:16Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DarthTon/Xenos</title>
+    <updated>2024-09-23T01:29:16Z</updated>
+    <id>tag:github.com,2024-09-23:/DarthTon/Xenos</id>
+    <link href="https://github.com/DarthTon/Xenos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows dll injector&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Xenos&lt;/h1&gt; &#xA;&lt;p&gt;Windows dll injector. Based on Blackbone library - &lt;a href=&#34;https://github.com/DarthTon/Blackbone&#34;&gt;https://github.com/DarthTon/Blackbone&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Supports x86 and x64 processes and modules&lt;/li&gt; &#xA; &lt;li&gt;Kernel-mode injection feature (driver required)&lt;/li&gt; &#xA; &lt;li&gt;Manual map of kernel drivers (driver required)&lt;/li&gt; &#xA; &lt;li&gt;Injection of pure managed images without proxy dll&lt;/li&gt; &#xA; &lt;li&gt;Windows 7 cross-session and cross-desktop injection&lt;/li&gt; &#xA; &lt;li&gt;Injection into native processes (those having only ntdll loaded)&lt;/li&gt; &#xA; &lt;li&gt;Calling custom initialization routine after injection&lt;/li&gt; &#xA; &lt;li&gt;Unlinking module after injection&lt;/li&gt; &#xA; &lt;li&gt;Injection using thread hijacking&lt;/li&gt; &#xA; &lt;li&gt;Injection of x64 images into WOW64 process&lt;/li&gt; &#xA; &lt;li&gt;Image manual mapping&lt;/li&gt; &#xA; &lt;li&gt;Injection profiles&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Manual map features:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Relocations, import, delayed import, bound import&lt;/li&gt; &#xA; &lt;li&gt;Hiding allocated image memory (driver required)&lt;/li&gt; &#xA; &lt;li&gt;Static TLS and TLS callbacks&lt;/li&gt; &#xA; &lt;li&gt;Security cookie&lt;/li&gt; &#xA; &lt;li&gt;Image manifests and SxS&lt;/li&gt; &#xA; &lt;li&gt;Make module visible to GetModuleHandle, GetProcAddress, etc.&lt;/li&gt; &#xA; &lt;li&gt;Support for exceptions in private memory under DEP&lt;/li&gt; &#xA; &lt;li&gt;C++/CLI images are supported (use &#39;Add loader reference&#39; in this case)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Supported OS: Win7 - Win10 x64&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Xenos is licensed under the MIT License. Dependencies are under their respective licenses.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://ci.appveyor.com/project/DarthTon/xenos&#34;&gt;&lt;img src=&#34;https://ci.appveyor.com/api/projects/status/eu6lpbla89gjgy5m?svg=true&#34; alt=&#34;Build status&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
