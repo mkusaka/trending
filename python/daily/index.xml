@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Python Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-23T01:35:59Z</updated>
+  <updated>2024-09-24T01:33:57Z</updated>
   <subtitle>Daily Trending of Python in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LibraHp/GetQzonehistory</title>
+    <updated>2024-09-24T01:33:57Z</updated>
+    <id>tag:github.com,2024-09-24:/LibraHp/GetQzonehistory</id>
+    <link href="https://github.com/LibraHp/GetQzonehistory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;获取QQ空间发布的历史说说&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GetQzonehistory(获取qq发布的历史说说)&lt;/h1&gt; &#xA;&lt;p&gt;该项目通过获取QQ空间的历史消息列表来获取该账号下发布的所有说说（当然消息列表中没有的就获取不到，例如一些仅自己可见的说说）&lt;/p&gt; &#xA;&lt;p&gt;主要实现还是通过模拟登录QQ空间来获取历史消息列表，然后进行数据分析，最后将爬取的说说存放到/resource/result目录下&lt;/p&gt; &#xA;&lt;p&gt;由于对python编程还不是很熟悉，所以代码有很多疏漏，可以通过自己的想法来完善代码&lt;/p&gt; &#xA;&lt;h2&gt;目录结构&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;project/&#xA;├── resource/                # 资源目录&#xA;│   ├── config/              # 配置目录，文件保存位置配置&#xA;│   │   └── config.ini&#xA;│   ├── result/              # 导出结果的目录，格式为“你的qq.xlsx”&#xA;│   │   ├── ...&#xA;│   │   └── ...&#xA;│   ├── temp/                # 缓存目录&#xA;│   │   ├── ...&#xA;│   │   └── ...&#xA;│   ├── user/                # 用户信息&#xA;│   │   ├── ...&#xA;│   │   └── ...&#xA;├── util/                    # 单元工具目录&#xA;│   ├── ConfigUtil.py        # 读取配置&#xA;│   ├── GetAllMomentsUtil.py # 获取未删除的所有说说&#xA;│   ├── LoginUtil.py         # 登录相关&#xA;│   ├── RequestUtil.py       # 请求数据相关&#xA;│   └── ToolsUtil.py         # 工具&#xA;├── main.py                  # 主程序入口&#xA;├── fetch_all_message.py     # 主程序入口&#xA;├── README.md                # 项目说明文件&#xA;├── requirements.txt         # 依赖项列表&#xA;└── LICENSE                  # 许可证文件&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;安装&lt;/h2&gt; &#xA;&lt;h4&gt;使用虚拟环境（推荐）&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# 克隆储存库&#xA;git clone https://github.com/LibraHp/GetQzonehistory.git&#xA;# 打开目录&#xA;cd GetQzonehistory&#xA;# 创建名为 myenv 的虚拟环境&#xA;python -m venv myenv&#xA;# 激活虚拟环境。在终端或命令提示符中运行以下命令：&#xA;# 对于 Windows：&#xA;myenv\Scripts\activate&#xA;# 对于 macOS/Linux：&#xA;source myenv/bin/activate&#xA;# 安装依赖&#xA;pip install -i https://mirrors.aliyun.com/pypi/simple/ -r requirements.txt&#xA;# 运行脚本&#xA;python main.py&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;使用本机环境（不推荐）&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# 克隆储存库&#xA;git clone https://github.com/LibraHp/GetQzonehistory.git&#xA;# 打开目录&#xA;cd GetQzonehistory&#xA;# 安装依赖&#xA;pip install -i https://mirrors.aliyun.com/pypi/simple/ -r requirements.txt&#xA;# 运行脚本&#xA;python main.py&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;参考&lt;/h2&gt; &#xA;&lt;p&gt;登录方法参考自 &lt;a href=&#34;https://blog.csdn.net/m0_50153253/article/details/113780595&#34;&gt;python-QQ空间扫码登录&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
