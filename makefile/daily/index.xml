@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-24T01:32:31Z</updated>
+  <updated>2024-09-25T01:32:23Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>clearlinux/common</title>
-    <updated>2024-09-24T01:32:31Z</updated>
-    <id>tag:github.com,2024-09-24:/clearlinux/common</id>
-    <link href="https://github.com/clearlinux/common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Developer tooling framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TritonDataCenter/pkgsrc-wip</title>
+    <updated>2024-09-25T01:32:23Z</updated>
+    <id>tag:github.com,2024-09-25:/TritonDataCenter/pkgsrc-wip</id>
+    <link href="https://github.com/TritonDataCenter/pkgsrc-wip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Conversion of the pkgsrc-wip CVS project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
