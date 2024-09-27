@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YARA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-26T01:35:58Z</updated>
+  <updated>2024-09-27T01:35:51Z</updated>
   <subtitle>Daily Trending of YARA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chainguard-dev/malcontent</title>
+    <updated>2024-09-27T01:35:51Z</updated>
+    <id>tag:github.com,2024-09-27:/chainguard-dev/malcontent</id>
+    <link href="https://github.com/chainguard-dev/malcontent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;detect malicious program behaviors&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Snippet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-26T01:35:37Z</updated>
+  <updated>2024-09-27T01:35:31Z</updated>
   <subtitle>Daily Trending of Vim Snippet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>carpentries-incubator/hpc-intro</title>
+    <updated>2024-09-27T01:35:31Z</updated>
+    <id>tag:github.com,2024-09-27:/carpentries-incubator/hpc-intro</id>
+    <link href="https://github.com/carpentries-incubator/hpc-intro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Introduction to High Performance Computing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

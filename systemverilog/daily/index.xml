@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-26T01:35:11Z</updated>
+  <updated>2024-09-27T01:35:05Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>openhwgroup/cvw</title>
-    <updated>2024-09-26T01:35:11Z</updated>
-    <id>tag:github.com,2024-09-26:/openhwgroup/cvw</id>
-    <link href="https://github.com/openhwgroup/cvw" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
