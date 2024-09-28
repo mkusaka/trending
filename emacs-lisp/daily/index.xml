@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-27T01:30:07Z</updated>
+  <updated>2024-09-28T01:30:03Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>emacsorphanage/yascroll</title>
-    <updated>2024-09-27T01:30:07Z</updated>
-    <id>tag:github.com,2024-09-27:/emacsorphanage/yascroll</id>
-    <link href="https://github.com/emacsorphanage/yascroll" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yet Another Scroll Bar Mode&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://melpa.org/#/yascroll&#34;&gt;&lt;img src=&#34;https://melpa.org/packages/yascroll-badge.svg?sanitize=true&#34; alt=&#34;MELPA&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://stable.melpa.org/#/yascroll&#34;&gt;&lt;img src=&#34;https://stable.melpa.org/packages/yascroll-badge.svg?sanitize=true&#34; alt=&#34;MELPA Stable&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;yascroll.el&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/emacsorphanage/yascroll/actions/workflows/test.yml&#34;&gt;&lt;img src=&#34;https://github.com/emacsorphanage/yascroll/actions/workflows/test.yml/badge.svg?sanitize=true&#34; alt=&#34;CI&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;yascroll.el is Yet Another Scroll Bar Mode for GNU Emacs.&lt;/p&gt; &#xA;&lt;h2&gt;Screenshots&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/m2ym/yascroll-el/master/etc/images/yascroll.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;To toggle yascroll mode for all buffers, &lt;code&gt;M-x global-yascroll-bar-mode RET&lt;/code&gt;. To make permanently enabled, add the following configuration to your &lt;code&gt;~/.emacs&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-el&#34;&gt;(global-yascroll-bar-mode 1)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Configuration&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;M-x customize-group RET yascroll RET&lt;/code&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

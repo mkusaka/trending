@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-27T01:28:12Z</updated>
+  <updated>2024-09-28T01:28:19Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mahseema/awesome-ai-tools</title>
+    <updated>2024-09-28T01:28:19Z</updated>
+    <id>tag:github.com,2024-09-28:/mahseema/awesome-ai-tools</id>
+    <link href="https://github.com/mahseema/awesome-ai-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of Artificial Intelligence Top Tools&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
