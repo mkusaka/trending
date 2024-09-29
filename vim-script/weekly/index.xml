@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-09-29T01:53:21Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mxw/vim-jsx</title>
+    <updated>2024-09-29T01:53:21Z</updated>
+    <id>tag:github.com,2024-09-29:/mxw/vim-jsx</id>
+    <link href="https://github.com/mxw/vim-jsx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;React JSX syntax highlighting and indenting for vim.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mhinz/vim-signify</title>
+    <updated>2024-09-29T01:53:21Z</updated>
+    <id>tag:github.com,2024-09-29:/mhinz/vim-signify</id>
+    <link href="https://github.com/mhinz/vim-signify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;➕ Show a diff using Vim its sign column.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

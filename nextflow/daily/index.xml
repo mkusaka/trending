@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-28T01:32:30Z</updated>
+  <updated>2024-09-29T01:35:31Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ncbi/egapx</title>
-    <updated>2024-09-28T01:32:30Z</updated>
-    <id>tag:github.com,2024-09-28:/ncbi/egapx</id>
-    <link href="https://github.com/ncbi/egapx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Eukaryotic Genome Annotation Pipeline-External caller scripts and documentation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
