@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-29T01:35:32Z</updated>
+  <updated>2024-09-30T01:32:50Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>project-idx/templates</title>
-    <updated>2024-09-29T01:35:32Z</updated>
-    <id>tag:github.com,2024-09-29:/project-idx/templates</id>
-    <link href="https://github.com/project-idx/templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official library of starter templates for Project IDX&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
