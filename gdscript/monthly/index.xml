@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-10-01T01:48:28Z</updated>
+  <subtitle>Monthly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gdquest-demos/godot-shaders</title>
+    <updated>2024-10-01T01:48:28Z</updated>
+    <id>tag:github.com,2024-10-01:/gdquest-demos/godot-shaders</id>
+    <link href="https://github.com/gdquest-demos/godot-shaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A large library of free and open-source shaders for the Godot game engine. Here, you&#39;ll get 2D and 3D shaders with playable demos.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

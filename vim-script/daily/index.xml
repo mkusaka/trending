@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-30T01:35:29Z</updated>
+  <updated>2024-10-01T01:35:40Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>joeytwiddle/sexy_scroller.vim</title>
-    <updated>2024-09-30T01:35:29Z</updated>
-    <id>tag:github.com,2024-09-30:/joeytwiddle/sexy_scroller.vim</id>
-    <link href="https://github.com/joeytwiddle/sexy_scroller.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;smooth animation of the cursor and the page whenever they move, with easing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lifepillar/vim-mucomplete</title>
+    <updated>2024-10-01T01:35:40Z</updated>
+    <id>tag:github.com,2024-10-01:/lifepillar/vim-mucomplete</id>
+    <link href="https://github.com/lifepillar/vim-mucomplete" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Chained completion that works the way you want!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-30T01:30:22Z</updated>
+  <updated>2024-10-01T01:30:27Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jtormey/lax</title>
-    <updated>2024-09-30T01:30:22Z</updated>
-    <id>tag:github.com,2024-09-30:/jtormey/lax</id>
-    <link href="https://github.com/jtormey/lax" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimal Slack clone built with Elixir &amp; Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>membraneframework/boombox</title>
-    <updated>2024-09-30T01:30:22Z</updated>
-    <id>tag:github.com,2024-09-30:/membraneframework/boombox</id>
-    <link href="https://github.com/membraneframework/boombox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Boombox is a simple streaming tool built on top of Membrane&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alfert/propcheck</title>
-    <updated>2024-09-30T01:30:22Z</updated>
-    <id>tag:github.com,2024-09-30:/alfert/propcheck</id>
-    <link href="https://github.com/alfert/propcheck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Property based Testing for Elixir (based upon PropEr)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-10-01T01:54:17Z</updated>
+  <subtitle>Monthly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rbong/vim-flog</title>
+    <updated>2024-10-01T01:54:17Z</updated>
+    <id>tag:github.com,2024-10-01:/rbong/vim-flog</id>
+    <link href="https://github.com/rbong/vim-flog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tpope/vim-dispatch</title>
+    <updated>2024-10-01T01:54:17Z</updated>
+    <id>tag:github.com,2024-10-01:/tpope/vim-dispatch</id>
+    <link href="https://github.com/tpope/vim-dispatch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;dispatch.vim: Asynchronous build and test dispatcher&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>justinmk/vim-sneak</title>
+    <updated>2024-10-01T01:54:17Z</updated>
+    <id>tag:github.com,2024-10-01:/justinmk/vim-sneak</id>
+    <link href="https://github.com/justinmk/vim-sneak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The missing motion for Vim 👟&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

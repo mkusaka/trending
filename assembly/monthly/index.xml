@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-10-01T01:46:36Z</updated>
+  <subtitle>Monthly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>riscv-non-isa/riscv-arch-test</title>
+    <updated>2024-10-01T01:46:36Z</updated>
+    <id>tag:github.com,2024-10-01:/riscv-non-isa/riscv-arch-test</id>
+    <link href="https://github.com/riscv-non-isa/riscv-arch-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>0xAX/asm</title>
+    <updated>2024-10-01T01:46:36Z</updated>
+    <id>tag:github.com,2024-10-01:/0xAX/asm</id>
+    <link href="https://github.com/0xAX/asm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learning assembly for Linux x86_64&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

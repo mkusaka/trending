@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-30T01:32:24Z</updated>
+  <updated>2024-10-01T01:32:39Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>project-trans/MtF-wiki</title>
-    <updated>2024-09-30T01:32:24Z</updated>
-    <id>tag:github.com,2024-09-30:/project-trans/MtF-wiki</id>
-    <link href="https://github.com/project-trans/MtF-wiki" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MtF.wiki is a free, open, and continuously updating transgender female knowledge integration site.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

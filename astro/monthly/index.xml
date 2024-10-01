@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-10-01T01:46:36Z</updated>
+  <subtitle>Monthly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ifpb/projects</title>
+    <updated>2024-10-01T01:46:36Z</updated>
+    <id>tag:github.com,2024-10-01:/ifpb/projects</id>
+    <link href="https://github.com/ifpb/projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Projetos do IFPB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>opensourcepledge/opensourcepledge.com</title>
+    <updated>2024-10-01T01:46:36Z</updated>
+    <id>tag:github.com,2024-10-01:/opensourcepledge/opensourcepledge.com</id>
+    <link href="https://github.com/opensourcepledge/opensourcepledge.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;We all depend on Open Source. Pay your share through Open Source Pledge.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

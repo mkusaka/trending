@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-10-01T01:50:41Z</updated>
+  <subtitle>Monthly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>raspberrypi/noobs</title>
+    <updated>2024-10-01T01:50:41Z</updated>
+    <id>tag:github.com,2024-10-01:/raspberrypi/noobs</id>
+    <link href="https://github.com/raspberrypi/noobs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openwrt/telephony</title>
+    <updated>2024-10-01T01:50:41Z</updated>
+    <id>tag:github.com,2024-10-01:/openwrt/telephony</id>
+    <link href="https://github.com/openwrt/telephony" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The telephony packages feed&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>moul/http2curl</title>
+    <updated>2024-10-01T01:50:41Z</updated>
+    <id>tag:github.com,2024-10-01:/moul/http2curl</id>
+    <link href="https://github.com/moul/http2curl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📐 Convert Golang&#39;s http.Request to CURL command line&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

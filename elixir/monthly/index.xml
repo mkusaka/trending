@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-10-01T01:48:08Z</updated>
+  <subtitle>Monthly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>algora-io/tv</title>
+    <updated>2024-10-01T01:48:08Z</updated>
+    <id>tag:github.com,2024-10-01:/algora-io/tv</id>
+    <link href="https://github.com/algora-io/tv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source Twitch for developers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wojtekmach/req</title>
+    <updated>2024-10-01T01:48:08Z</updated>
+    <id>tag:github.com,2024-10-01:/wojtekmach/req</id>
+    <link href="https://github.com/wojtekmach/req" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Req is a batteries-included HTTP client for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>liveview-native/live_view_native</title>
+    <updated>2024-10-01T01:48:08Z</updated>
+    <id>tag:github.com,2024-10-01:/liveview-native/live_view_native</id>
+    <link href="https://github.com/liveview-native/live_view_native" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A framework for building native applications with Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

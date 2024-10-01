@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-09-30T01:34:34Z</updated>
+  <updated>2024-10-01T01:34:44Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>linrunner/TLP</title>
-    <updated>2024-09-30T01:34:34Z</updated>
-    <id>tag:github.com,2024-09-30:/linrunner/TLP</id>
-    <link href="https://github.com/linrunner/TLP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TLP - Optimize Linux Laptop Battery Life&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TLP - Optimize Linux Laptop Battery Life&lt;/h1&gt; &#xA;&lt;p&gt;TLP is a feature-rich command line utility for Linux, saving laptop battery power without the need to delve deeper into technical details.&lt;/p&gt; &#xA;&lt;p&gt;TLP’s default settings are already optimized for battery life, so you may just install and forget it.&lt;/p&gt; &#xA;&lt;p&gt;Nevertheless TLP is highly customizable to meet your specific requirements.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;Read the full documentation at the website &lt;code&gt;&amp;lt;https://linrunner.de/tlp&amp;gt;&lt;/code&gt;_.&lt;/p&gt; &#xA;&lt;p&gt;For a summary of how TLP works and its features see &lt;code&gt;Introduction &amp;lt;https://linrunner.de/tlp/introduction&amp;gt;&lt;/code&gt;_.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;TLP packages are available for all major Linux distributions: &lt;code&gt;Installation &amp;lt;https://linrunner.de/tlp/installation&amp;gt;&lt;/code&gt;_.&lt;/p&gt; &#xA;&lt;h2&gt;Settings&lt;/h2&gt; &#xA;&lt;p&gt;Settings are organized into two profiles, enabling you to adjust between savings and performance independently for battery (BAT) and AC operation.&lt;/p&gt; &#xA;&lt;p&gt;Refer to &lt;code&gt;Settings &amp;lt;https://linrunner.de/tlp/settings/introduction&amp;gt;&lt;/code&gt;_ to learn how to customize the configuration if desired.&lt;/p&gt; &#xA;&lt;h2&gt;Support&lt;/h2&gt; &#xA;&lt;p&gt;Please visit your favorite Linux community for help and support questions. Make shure to check &lt;code&gt;Support &amp;lt;https://linrunner.de/tlp/support&amp;gt;&lt;/code&gt;_ first.&lt;/p&gt; &#xA;&lt;h2&gt;Bug reports&lt;/h2&gt; &#xA;&lt;p&gt;Refer to the &lt;code&gt;Bug Reporting Howto &amp;lt;https://github.com/linrunner/TLP/blob/master/.github/Bug_Reporting_Howto.md&amp;gt;&lt;/code&gt;_.&lt;/p&gt; &#xA;&lt;h2&gt;Contribute&lt;/h2&gt; &#xA;&lt;p&gt;Contributing is not only about coding. Volunteers helping with support, testing and documentation are always welcome!&lt;/p&gt; &#xA;&lt;p&gt;See &lt;code&gt;Contributing &amp;lt;https://linrunner.de/tlp/contribute&amp;gt;&lt;/code&gt;_.&lt;/p&gt;</summary>
-  </entry>
 </feed>
