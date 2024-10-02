@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-01T01:35:03Z</updated>
+  <updated>2024-10-02T01:37:31Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Muhammed-Rahif/Notpad</title>
-    <updated>2024-10-01T01:35:03Z</updated>
-    <id>tag:github.com,2024-10-01:/Muhammed-Rahif/Notpad</id>
-    <link href="https://github.com/Muhammed-Rahif/Notpad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Notepad without an `e` on it, ;-). Windows like notepad for cross platform.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

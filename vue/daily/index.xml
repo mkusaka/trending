@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-01T01:35:42Z</updated>
+  <updated>2024-10-02T01:38:12Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>87789771/meimei-nestjs-admin</title>
+    <updated>2024-10-02T01:38:12Z</updated>
+    <id>tag:github.com,2024-10-02:/87789771/meimei-nestjs-admin</id>
+    <link href="https://github.com/87789771/meimei-nestjs-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀🚀 基于NestJs + TypeScript +Prisma + Redis + MySql + Vue3 + vite + Element-UI编写的一款前后端分离的权限管理系统。🚀内置角色系统、导入导出、数据权限、表单连续提交拦截、前端表格列自定义等...🚀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

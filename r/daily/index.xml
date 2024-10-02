@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-01T01:34:08Z</updated>
+  <updated>2024-10-02T01:36:24Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>datacarpentry/r-socialsci</title>
-    <updated>2024-10-01T01:34:08Z</updated>
-    <id>tag:github.com,2024-10-01:/datacarpentry/r-socialsci</id>
-    <link href="https://github.com/datacarpentry/r-socialsci" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;R for Social Scientists&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://travis-ci.com/github/datacarpentry/r-socialsci&#34;&gt;&lt;img src=&#34;https://travis-ci.org/datacarpentry/r-socialsci.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://slack-invite.carpentries.org/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg?sanitize=true&#34; alt=&#34;Create a Slack Account with us&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://carpentries.slack.com/messages/C9X9JDTSR&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Slack_Channel-dc--socsci--r-E01563.svg?sanitize=true&#34; alt=&#34;Slack Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://zenodo.org/badge/latestdoi/92420906&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/92420906.svg?sanitize=true&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;r-socialsci&lt;/h1&gt; &#xA;&lt;p&gt;Lesson on R for social scientists. Please see &lt;a href=&#34;https://datacarpentry.org/r-socialsci/&#34;&gt;https://datacarpentry.org/r-socialsci/&lt;/a&gt; for a rendered version of this lesson.&lt;/p&gt; &#xA;&lt;p&gt;This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). The lessons cover some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;a href=&#34;https://datacarpentry.org/r-socialsci/guide/index.html&#34;&gt;instructor notes page&lt;/a&gt; have some tips about how to best teach this workshop.&lt;/p&gt; &#xA;&lt;p&gt;Maintainers:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/juanfung&#34;&gt;Juan Fung&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/eirini-zormpa&#34;&gt;Eirini Zormpa&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/jessesadler&#34;&gt;Jesse Sadler&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
