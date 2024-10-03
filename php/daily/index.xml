@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-02T01:35:56Z</updated>
+  <updated>2024-10-03T01:33:25Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>symfony/symfony-docs</title>
+    <updated>2024-10-03T01:33:25Z</updated>
+    <id>tag:github.com,2024-10-03:/symfony/symfony-docs</id>
+    <link href="https://github.com/symfony/symfony-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Symfony documentation&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt;&lt;a href=&#34;https://symfony.com&#34; target=&#34;_blank&#34;&gt; &lt;img src=&#34;https://symfony.com/logos/symfony_black_02.svg?sanitize=true&#34;&gt; &lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3 align=&#34;center&#34;&gt; The official Symfony Documentation &lt;/h3&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://symfony.com/doc/current/index.html&#34;&gt; Online version &lt;/a&gt; &lt;span&gt; | &lt;/span&gt; &lt;a href=&#34;https://symfony.com/components&#34;&gt; Components &lt;/a&gt; &lt;span&gt; | &lt;/span&gt; &lt;a href=&#34;https://symfonycasts.com&#34;&gt; Screencasts &lt;/a&gt; &lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;We love contributors! For more information on how you can contribute, please read the &lt;a href=&#34;https://symfony.com/doc/current/contributing/documentation/overview.html&#34;&gt;Symfony Docs Contributing Guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[!IMPORTANT] Use &lt;code&gt;5.4&lt;/code&gt; branch as the base of your pull requests, unless you are documenting a feature that was introduced &lt;em&gt;after&lt;/em&gt; Symfony 5.4 (e.g. in Symfony 7.1).&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Build Documentation Locally&lt;/h2&gt; &#xA;&lt;p&gt;This is not needed for contributing, but it&#39;s useful if you would like to debug some issue in the docs or if you want to read Symfony Documentation offline.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ git clone git@github.com:symfony/symfony-docs.git&#xA;&#xA;$ cd symfony-docs/&#xA;$ cd _build/&#xA;&#xA;$ composer install&#xA;&#xA;$ php build.php&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;After generating docs, serve them with the internal PHP server:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ php -S localhost:8000 -t output/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Browse &lt;code&gt;http://localhost:8000&lt;/code&gt; to read the docs.&lt;/p&gt;</summary>
+  </entry>
 </feed>

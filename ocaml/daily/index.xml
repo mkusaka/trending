@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-02T01:35:35Z</updated>
+  <updated>2024-10-03T01:33:09Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>libguestfs/virt-v2v</title>
-    <updated>2024-10-02T01:35:35Z</updated>
-    <id>tag:github.com,2024-10-02:/libguestfs/virt-v2v</id>
-    <link href="https://github.com/libguestfs/virt-v2v" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Virt-v2v converts guests from foreign hypervisors to run on KVM&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mirage/alcotest</title>
-    <updated>2024-10-02T01:35:35Z</updated>
-    <id>tag:github.com,2024-10-02:/mirage/alcotest</id>
-    <link href="https://github.com/mirage/alcotest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight and colourful test framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
