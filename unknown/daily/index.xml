@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-03T01:28:31Z</updated>
+  <updated>2024-10-04T01:28:30Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>searxng/searxng-docker</title>
+    <updated>2024-10-04T01:28:30Z</updated>
+    <id>tag:github.com,2024-10-04:/searxng/searxng-docker</id>
+    <link href="https://github.com/searxng/searxng-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The docker-compose files for setting up a SearXNG instance with docker.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>northwesternfintech/2025QuantInternships</title>
+    <updated>2024-10-04T01:28:30Z</updated>
+    <id>tag:github.com,2024-10-04:/northwesternfintech/2025QuantInternships</id>
+    <link href="https://github.com/northwesternfintech/2025QuantInternships" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public quant internship repository, maintained by NUFT but available for everyone.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
