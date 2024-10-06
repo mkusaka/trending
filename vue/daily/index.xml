@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-05T01:38:05Z</updated>
+  <updated>2024-10-06T01:40:52Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>unovue/shadcn-vue</title>
-    <updated>2024-10-05T01:38:05Z</updated>
-    <id>tag:github.com,2024-10-05:/unovue/shadcn-vue</id>
-    <link href="https://github.com/unovue/shadcn-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue port of shadcn-ui&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>unovue/radix-vue</title>
-    <updated>2024-10-05T01:38:05Z</updated>
-    <id>tag:github.com,2024-10-05:/unovue/radix-vue</id>
-    <link href="https://github.com/unovue/radix-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>45Drives/cockpit-file-sharing</title>
-    <updated>2024-10-05T01:38:05Z</updated>
-    <id>tag:github.com,2024-10-05:/45Drives/cockpit-file-sharing</id>
-    <link href="https://github.com/45Drives/cockpit-file-sharing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Cockpit plugin to easily manage samba and NFS file sharing.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
