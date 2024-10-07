@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-06T01:34:07Z</updated>
+  <updated>2024-10-07T01:31:48Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>inertiajs/inertia</title>
-    <updated>2024-10-06T01:34:07Z</updated>
-    <id>tag:github.com,2024-10-06:/inertiajs/inertia</id>
-    <link href="https://github.com/inertiajs/inertia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://inertiajs.com/&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/inertiajs/inertia/master/.github/LOGO.png&#34; alt=&#34;Inertia.js&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers. Find full documentation at &lt;a href=&#34;https://inertiajs.com/&#34;&gt;inertiajs.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;If you&#39;re interested in contributing to Inertia.js, please read our &lt;a href=&#34;https://github.com/inertiajs/inertia/raw/master/.github/CONTRIBUTING.md&#34;&gt;contributing guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Sponsors&lt;/h2&gt; &#xA;&lt;p&gt;A huge thanks to all &lt;a href=&#34;https://inertiajs.com/sponsors&#34;&gt;our sponsors&lt;/a&gt; who help push Inertia.js development forward! In particular, we&#39;d like to say a special thank you to our partners:&lt;/p&gt; &#xA;&lt;p&gt; &lt;a href=&#34;https://forge.laravel.com&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/inertiajs/inertia/master/.github/sponsors/forge.svg?sanitize=true&#34; width=&#34;150&#34; alt=&#34;Laravel Forge&#34;&gt; &lt;/a&gt; &lt;/p&gt; &#xA;&lt;p&gt;If you&#39;d like to become a sponsor, please &lt;a href=&#34;https://github.com/sponsors/reinink&#34;&gt;see here&lt;/a&gt; for more information. 💜&lt;/p&gt;</summary>
-  </entry>
 </feed>
