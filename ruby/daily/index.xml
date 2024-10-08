@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-07T01:34:36Z</updated>
+  <updated>2024-10-08T01:34:49Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TheAlgorithms/Ruby</title>
+    <updated>2024-10-08T01:34:49Z</updated>
+    <id>tag:github.com,2024-10-08:/TheAlgorithms/Ruby</id>
+    <link href="https://github.com/TheAlgorithms/Ruby" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All algorithms implemented in Ruby&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The Algorithms - Ruby&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://gitter.im/#TheAlgorithms_community:gitter.im&#34;&gt;&lt;img src=&#34;https://badges.gitter.im/gitterHQ/gitter.png&#34; alt=&#34;Gitter chat&#34;&gt;&lt;/a&gt;&amp;nbsp; &lt;a href=&#34;https://github.com/TheAlgorithms/Ruby/raw/master/CONTRIBUTING.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/static/v1.svg?label=Contributions&amp;amp;message=Welcome&amp;amp;color=0059b3&amp;amp;style=flat-square&#34; alt=&#34;contributions welcome&#34;&gt;&lt;/a&gt;&amp;nbsp; &lt;img src=&#34;https://img.shields.io/github/repo-size/TheAlgorithms/Ruby.svg?label=Repo%20size&amp;amp;style=flat-square&#34; alt=&#34;&#34;&gt;&amp;nbsp; &lt;a href=&#34;https://discord.gg/c7MnfGFGa6&#34;&gt;&lt;img src=&#34;https://img.shields.io/discord/808045925556682782.svg?logo=discord&amp;amp;colorB=7289DA&amp;amp;style=flat-square&#34; alt=&#34;Discord chat&#34;&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt; &#xA;&lt;h3&gt;All algorithms implemented in Ruby (for education)&lt;/h3&gt; &#xA;&lt;p&gt;These implementations are for learning purposes only. Therefore they may be less efficient than the implementations in the Ruby standard library.&lt;/p&gt; &#xA;&lt;h2&gt;Contribution Guidelines&lt;/h2&gt; &#xA;&lt;p&gt;Read our &lt;a href=&#34;https://raw.githubusercontent.com/TheAlgorithms/Ruby/master/CONTRIBUTING.md&#34;&gt;Contribution Guidelines&lt;/a&gt; before you contribute.&lt;/p&gt; &#xA;&lt;h2&gt;Community Channel&lt;/h2&gt; &#xA;&lt;p&gt;We&#39;re on &lt;a href=&#34;https://gitter.im/TheAlgorithms&#34;&gt;Gitter&lt;/a&gt;! Please join us.&lt;/p&gt; &#xA;&lt;h2&gt;List of Algorithms&lt;/h2&gt; &#xA;&lt;p&gt;See our &lt;a href=&#34;https://raw.githubusercontent.com/TheAlgorithms/Ruby/master/DIRECTORY.md&#34;&gt;directory&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

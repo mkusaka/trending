@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-07T01:35:11Z</updated>
+  <updated>2024-10-08T01:35:21Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>erenon/bazel_clang_tidy</title>
+    <updated>2024-10-08T01:35:21Z</updated>
+    <id>tag:github.com,2024-10-08:/erenon/bazel_clang_tidy</id>
+    <link href="https://github.com/erenon/bazel_clang_tidy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run clang-tidy on Bazel C++ targets directly, efficiently, with caching enabled&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
