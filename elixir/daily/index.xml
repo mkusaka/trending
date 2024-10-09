@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-08T01:30:31Z</updated>
+  <updated>2024-10-09T01:30:10Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SphericalKat/katbin</title>
-    <updated>2024-10-08T01:30:31Z</updated>
-    <id>tag:github.com,2024-10-08:/SphericalKat/katbin</id>
-    <link href="https://github.com/SphericalKat/katbin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Small, lightweight pastebin+URL shortener written in Elixir using the Phoenix framework.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>andrewtimberlake/elixir-pdf</title>
+    <updated>2024-10-09T01:30:10Z</updated>
+    <id>tag:github.com,2024-10-09:/andrewtimberlake/elixir-pdf</id>
+    <link href="https://github.com/andrewtimberlake/elixir-pdf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An attempt to get a nice API for PDF generation in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
