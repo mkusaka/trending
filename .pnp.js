@@ -62,10 +62,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["async", [
-        ["npm:3.2.5", {
-          "packageLocation": "./.yarn/cache/async-npm-3.2.5-f5dbdabdfc-ca5c87f495.zip/node_modules/async/",
+        ["npm:3.2.6", {
+          "packageLocation": "./.yarn/cache/async-npm-3.2.6-aa4f5aa081-044aee0667.zip/node_modules/async/",
           "packageDependencies": [
-            ["async", "npm:3.2.5"]
+            ["async", "npm:3.2.6"]
           ],
           "linkType": "HARD",
         }]
@@ -205,7 +205,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/gh-pages-npm-6.1.1-7bde86cdf6-577f5f1b6e.zip/node_modules/gh-pages/",
           "packageDependencies": [
             ["gh-pages", "npm:6.1.1"],
-            ["async", "npm:3.2.5"],
+            ["async", "npm:3.2.6"],
             ["commander", "npm:11.1.0"],
             ["email-addresses", "npm:5.0.0"],
             ["filenamify", "npm:4.3.0"],
