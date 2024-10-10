@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-09T01:35:51Z</updated>
+  <updated>2024-10-10T01:41:02Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lyqht/mini-qr</title>
+    <updated>2024-10-10T01:41:02Z</updated>
+    <id>tag:github.com,2024-10-10:/lyqht/mini-qr</id>
+    <link href="https://github.com/lyqht/mini-qr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mini accessible web app to generate customized qr codes easily 👾&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
