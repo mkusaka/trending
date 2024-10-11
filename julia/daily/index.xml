@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-10T01:34:34Z</updated>
+  <updated>2024-10-11T01:31:49Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sintefmath/JutulDarcy.jl</title>
-    <updated>2024-10-10T01:34:34Z</updated>
-    <id>tag:github.com,2024-10-10:/sintefmath/JutulDarcy.jl</id>
-    <link href="https://github.com/sintefmath/JutulDarcy.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Darcy flow and reservoir simulator based on Jutul.jl&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
