@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-10-13T01:43:23Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yetanotherco/aligned_layer</title>
+    <updated>2024-10-13T01:43:23Z</updated>
+    <id>tag:github.com,2024-10-13:/yetanotherco/aligned_layer</id>
+    <link href="https://github.com/yetanotherco/aligned_layer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aligned is a verification layer for zero-knowledge proofs using EigenLayer. Our mission is to accelerate the adoption of zero-knowledge and validity proofs on Ethereum.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codedge-llc/pigeon</title>
+    <updated>2024-10-13T01:43:23Z</updated>
+    <id>tag:github.com,2024-10-13:/codedge-llc/pigeon</id>
+    <link href="https://github.com/codedge-llc/pigeon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;iOS and Android push notifications for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

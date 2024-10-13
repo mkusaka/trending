@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PHP Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-10-13T01:49:01Z</updated>
+  <subtitle>Weekly Trending of PHP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TheAlgorithms/PHP</title>
+    <updated>2024-10-13T01:49:01Z</updated>
+    <id>tag:github.com,2024-10-13:/TheAlgorithms/PHP</id>
+    <link href="https://github.com/TheAlgorithms/PHP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All Algorithms implemented in PHP&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The Algorithms - PHP&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://gitpod.io/#https://github.com/TheAlgorithms/PHP&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod&#34; alt=&#34;Gitpod ready-to-code&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;The Algorithms - PHP, is a library or framework written in the PHP programming language that provides a set of algorithms and data structures for various computational tasks. It aims to simplify the implementation of common algorithms and data structures in PHP, making it easier for developers to leverage these powerful tools in their projects.&lt;/p&gt; &#xA;&lt;h3&gt;All algorithms implemented in PHP - for education&lt;/h3&gt; &#xA;&lt;p&gt;The Implementations in this repo are examples and may be less efficient than the implementations in the PHP standard Library.&lt;/p&gt; &#xA;&lt;h2&gt;Contribution Guidelines:&lt;/h2&gt; &#xA;&lt;p&gt;To Contribute to this repo please take your time to read our &lt;a href=&#34;https://raw.githubusercontent.com/TheAlgorithms/PHP/master/CONTRIBUTING.md&#34;&gt;Contribution Guidelines&lt;/a&gt; before you contribute.&lt;/p&gt; &#xA;&lt;h2&gt;Community Channels&lt;/h2&gt; &#xA;&lt;p&gt;We&#39;re on &lt;a href=&#34;https://discord.gg/c7MnfGFGa6&#34;&gt;Discord&lt;/a&gt; and &lt;a href=&#34;https://gitter.im/TheAlgorithms&#34;&gt;Gitter&lt;/a&gt;! Community channels are great for you to ask questions and get help. Please join us!&lt;/p&gt; &#xA;&lt;h2&gt;List of Algorithms&lt;/h2&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://raw.githubusercontent.com/TheAlgorithms/PHP/master/DIRECTORY.md&#34;&gt;directory&lt;/a&gt; for easier navigation and to view the current list of algorithms.&lt;/p&gt; &#xA;&lt;p&gt;Thanks for contributing!!&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-10-13T01:39:09Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zakirullin/cognitive-load</title>
+    <updated>2024-10-13T01:39:09Z</updated>
+    <id>tag:github.com,2024-10-13:/zakirullin/cognitive-load</id>
+    <link href="https://github.com/zakirullin/cognitive-load" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧠 Cognitive Load is what matters&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>awesome-foss/awesome-sysadmin</title>
+    <updated>2024-10-13T01:39:09Z</updated>
+    <id>tag:github.com,2024-10-13:/awesome-foss/awesome-sysadmin</id>
+    <link href="https://github.com/awesome-foss/awesome-sysadmin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of amazingly awesome open-source sysadmin resources.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KHwang9883/MobileModels</title>
+    <updated>2024-10-13T01:39:09Z</updated>
+    <id>tag:github.com,2024-10-13:/KHwang9883/MobileModels</id>
+    <link href="https://github.com/KHwang9883/MobileModels" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

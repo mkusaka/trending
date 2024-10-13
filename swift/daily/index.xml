@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-12T01:37:46Z</updated>
+  <updated>2024-10-13T01:38:05Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Stengo/DeskPad</title>
+    <updated>2024-10-13T01:38:05Z</updated>
+    <id>tag:github.com,2024-10-13:/Stengo/DeskPad</id>
+    <link href="https://github.com/Stengo/DeskPad" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A virtual monitor for screen sharing&lt;/p&gt;&lt;hr&gt;&lt;h3 align=&#34;center&#34;&gt; &lt;a href=&#34;https://github.com/Stengo/DeskPad/raw/main/DeskPad/Assets.xcassets/AppIcon.appiconset/Icon-256.png&#34;&gt; &lt;img src=&#34;https://github.com/Stengo/DeskPad/raw/main/DeskPad/Assets.xcassets/AppIcon.appiconset/Icon-256.png?raw=true&#34; alt=&#34;DeskPad Icon&#34; width=&#34;128&#34;&gt; &lt;/a&gt; &lt;/h3&gt; &#xA;&lt;h1&gt;DeskPad&lt;/h1&gt; &#xA;&lt;p&gt;A virtual monitor for screen sharing&lt;/p&gt; &#xA;&lt;h3 align=&#34;center&#34;&gt; &lt;a href=&#34;https://github.com/Stengo/DeskPad/raw/main/screenshot.jpg&#34;&gt; &lt;img src=&#34;https://github.com/Stengo/DeskPad/raw/main/screenshot.jpg?raw=true&#34; alt=&#34;DeskPad Screenshot&#34;&gt; &lt;/a&gt; &lt;/h3&gt; &#xA;&lt;p&gt;Certain workflows require sharing the entire screen (usually due to switching through multiple applications), but if the presenter has a much larger display than the audience it can be hard to see what is happening.&lt;/p&gt; &#xA;&lt;p&gt;DeskPad creates a virtual display that is mirrored within its application window so that you can create a dedicated, easily shareable workspace.&lt;/p&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;p&gt;You can either download the &lt;a href=&#34;https://github.com/Stengo/DeskPad/releases&#34;&gt;latest release binary&lt;/a&gt; or install via &lt;a href=&#34;https://brew.sh&#34;&gt;Homebrew&lt;/a&gt; by calling &lt;code&gt;brew install deskpad&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;DeskPad behaves like any other display. Launching the app is equivalent to plugging in a monitor, so macOS will take care of properly arranging your windows to their previous configuration.&lt;/p&gt; &#xA;&lt;p&gt;You can change the display resolution through the system preferences and the application window will adjust accordingly.&lt;/p&gt; &#xA;&lt;p&gt;Whenever you move your mouse cursor to the virtual display, DeskPad will highlight its title bar in blue and move the application window to the front to let you know where you are.&lt;/p&gt; &#xA;&lt;h3 align=&#34;center&#34;&gt; &lt;a href=&#34;https://github.com/Stengo/DeskPad/raw/main/demonstration.gif&#34;&gt; &lt;img src=&#34;https://github.com/Stengo/DeskPad/raw/main/demonstration.gif?raw=true&#34; alt=&#34;DeskPad Demonstration&#34;&gt; &lt;/a&gt; &lt;/h3&gt;</summary>
+  </entry>
 </feed>

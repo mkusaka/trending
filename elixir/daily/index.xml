@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-12T01:30:21Z</updated>
+  <updated>2024-10-13T01:30:40Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DockYard/elixir-mail</title>
-    <updated>2024-10-12T01:30:21Z</updated>
-    <id>tag:github.com,2024-10-12:/DockYard/elixir-mail</id>
-    <link href="https://github.com/DockYard/elixir-mail" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build composable mail messages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>felt/geo</title>
+    <updated>2024-10-13T01:30:40Z</updated>
+    <id>tag:github.com,2024-10-13:/felt/geo</id>
+    <link href="https://github.com/felt/geo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of GIS functions for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
