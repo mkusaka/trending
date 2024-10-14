@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-13T01:35:53Z</updated>
+  <updated>2024-10-14T01:35:44Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gnustep/libs-back</title>
+    <updated>2024-10-14T01:35:44Z</updated>
+    <id>tag:github.com,2024-10-14:/gnustep/libs-back</id>
+    <link href="https://github.com/gnustep/libs-back" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The GNUstep gui library is a library of graphical user interface classes written completely in the Objective-C language; the classes are based upon Apple&#39;s Cocoa framework (which came from the OpenStep specification). *** Larger patches require copyright assignment to FSF. please file bugs here. ***&lt;/p&gt;&lt;hr&gt;&lt;p&gt;1 README&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;This is version 0.29.0 of the GNUstep GUI Backend (&#39;gnustep-back&#39;).&lt;/p&gt; &#xA;&lt;p&gt;Here is some introductory info to get you started:&lt;/p&gt; &#xA;&lt;h1&gt;1.1 Initial reading&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;The file &#39;ANNOUNCE&#39; contains a very brief overview of the library. It also tells you where to get the most recent version.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;The file &#39;NEWS&#39; has the library&#39;s feature history.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;The file &#39;INSTALL&#39; gives instructions for installing the library.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;1.2 How can you help?&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Give us feedback! Tell us what you like; tell us what you think could be better. Send us bug reports at &lt;a href=&#34;mailto:bug-gnustep@gnu.org&#34;&gt;bug-gnustep@gnu.org&lt;/a&gt;.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

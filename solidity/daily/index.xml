@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-13T01:37:53Z</updated>
+  <updated>2024-10-14T01:37:35Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>l2beat/l2beat</title>
-    <updated>2024-10-13T01:37:53Z</updated>
-    <id>tag:github.com,2024-10-13:/l2beat/l2beat</id>
-    <link href="https://github.com/l2beat/l2beat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
