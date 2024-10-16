@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-15T01:28:29Z</updated>
+  <updated>2024-10-16T01:32:39Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>enochtangg/quick-SQL-cheatsheet</title>
+    <updated>2024-10-16T01:32:39Z</updated>
+    <id>tag:github.com,2024-10-16:/enochtangg/quick-SQL-cheatsheet</id>
+    <link href="https://github.com/enochtangg/quick-SQL-cheatsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A quick reminder of all SQL queries and examples on how to use them.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

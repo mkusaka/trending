@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Go Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-15T01:30:52Z</updated>
+  <updated>2024-10-16T01:35:09Z</updated>
   <subtitle>Daily Trending of Go in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kercre123/wire-pod</title>
-    <updated>2024-10-15T01:30:52Z</updated>
-    <id>tag:github.com,2024-10-15:/kercre123/wire-pod</id>
-    <link href="https://github.com/kercre123/wire-pod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free, fully-featured server software for the Anki Vector robot.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;wire-pod&lt;/h1&gt; &#xA;&lt;p&gt;&lt;code&gt;wire-pod&lt;/code&gt; is fully-featured server software for the Anki (now Digital Dream Labs) &lt;a href=&#34;https://web.archive.org/web/20190417120536if_/https://www.anki.com/en-us/vector&#34;&gt;Vector&lt;/a&gt; robot. It was created thanks to Digital Dream Labs&#39; &lt;a href=&#34;https://github.com/digital-dream-labs/chipper&#34;&gt;open-sourced code&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;It allows voice commands to work with any Vector 1.0 or 2.0 for no fee, including regular production robots.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;The installation guide exists on the wiki: &lt;a href=&#34;https://github.com/kercre123/wire-pod/wiki/Installation&#34;&gt;Installation guide&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Wiki&lt;/h2&gt; &#xA;&lt;p&gt;Check out the &lt;a href=&#34;https://github.com/kercre123/wire-pod/wiki&#34;&gt;wiki&lt;/a&gt; for more information on what wire-pod is, a guide on how to install wire-pod, troubleshooting, how to develop for it, and for some generally helpful tips.&lt;/p&gt; &#xA;&lt;h2&gt;Donate&lt;/h2&gt; &#xA;&lt;p&gt;If you want to :P&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://buymeacoffee.com/kercre123&#34;&gt;&lt;img src=&#34;https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png&#34; alt=&#34;Buy Me A Coffee&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/digital-dream-labs&#34;&gt;Digital Dream Labs&lt;/a&gt; for open sourcing chipper and creating escape pod (which made this possible)&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/bliteknight&#34;&gt;bliteknight&lt;/a&gt; for making wire-pod more accessible with his easy-to-use pre-setup Linux boxes&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/dietb&#34;&gt;dietb&lt;/a&gt; for rewriting chipper and giving tips&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/fforchino&#34;&gt;fforchino&lt;/a&gt; for adding many features such as localization and multilanguage, and for helping out&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/xanathon&#34;&gt;xanathon&lt;/a&gt; for the publicity and web interface help&lt;/li&gt; &#xA; &lt;li&gt;Anyone who has opened an issue and/or created a pull request for wire-pod&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
