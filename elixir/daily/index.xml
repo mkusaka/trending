@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-16T01:34:39Z</updated>
+  <updated>2024-10-17T01:30:06Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fastrepl/canary</title>
-    <updated>2024-10-16T01:34:39Z</updated>
-    <id>tag:github.com,2024-10-16:/fastrepl/canary</id>
-    <link href="https://github.com/fastrepl/canary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐤 Canary is modern Algolia DocSearch replacement&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
