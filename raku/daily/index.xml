@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Raku Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-17T01:34:27Z</updated>
+  <updated>2024-10-18T01:34:55Z</updated>
   <subtitle>Daily Trending of Raku in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Kong/lua-kong-nginx-module</title>
+    <updated>2024-10-18T01:34:55Z</updated>
+    <id>tag:github.com,2024-10-18:/Kong/lua-kong-nginx-module</id>
+    <link href="https://github.com/Kong/lua-kong-nginx-module" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nginx C module to allow deeper control of Nginx behaviors by Kong Lua code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
