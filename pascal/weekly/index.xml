@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-10-20T01:44:09Z</updated>
+  <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MagicFoundation/Alcinoe</title>
+    <updated>2024-10-20T01:44:09Z</updated>
+    <id>tag:github.com,2024-10-20:/MagicFoundation/Alcinoe</id>
+    <link href="https://github.com/MagicFoundation/Alcinoe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Alcinoe Component Library For Delphi. Full opengl video player, WebRTC delphi wrapper, native ios/android TEdit, Improuved firemonkey controls, Firebase cloud messaging, Android/ios facebook sdk login, Json/Bson Parser, ImageMagick wrapper, MongoDb client And much more&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

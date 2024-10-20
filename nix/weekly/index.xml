@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-10-20T01:43:45Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zhaofengli/nix-homebrew</title>
+    <updated>2024-10-20T01:43:45Z</updated>
+    <id>tag:github.com,2024-10-20:/zhaofengli/nix-homebrew</id>
+    <link href="https://github.com/zhaofengli/nix-homebrew" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Homebrew installation manager for nix-darwin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NotAShelf/nvf</title>
+    <updated>2024-10-20T01:43:45Z</updated>
+    <id>tag:github.com,2024-10-20:/NotAShelf/nvf</id>
+    <link href="https://github.com/NotAShelf/nvf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A highly modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
