@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-21T01:28:31Z</updated>
+  <updated>2024-10-22T01:28:16Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Pik-4/HsMod</title>
-    <updated>2024-10-21T01:28:31Z</updated>
-    <id>tag:github.com,2024-10-21:/Pik-4/HsMod</id>
-    <link href="https://github.com/Pik-4/HsMod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hearthstone Modify Based on BepInEx&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gfriends/gfriends</title>
-    <updated>2024-10-21T01:28:31Z</updated>
-    <id>tag:github.com,2024-10-21:/gfriends/gfriends</id>
-    <link href="https://github.com/gfriends/gfriends" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;媒体服务器演员头像仓库&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AZeC4/TelegramGroup</title>
-    <updated>2024-10-21T01:28:31Z</updated>
-    <id>tag:github.com,2024-10-21:/AZeC4/TelegramGroup</id>
-    <link href="https://github.com/AZeC4/TelegramGroup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hiddify/awesome-freedom</title>
+    <updated>2024-10-22T01:28:16Z</updated>
+    <id>tag:github.com,2024-10-22:/hiddify/awesome-freedom</id>
+    <link href="https://github.com/hiddify/awesome-freedom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In this repository we have collected all awesome tools for iranian people&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
