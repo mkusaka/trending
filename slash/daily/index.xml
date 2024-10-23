@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Slash Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-22T01:37:21Z</updated>
+  <updated>2024-10-23T01:58:18Z</updated>
   <subtitle>Daily Trending of Slash in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ellisk42/ec</title>
+    <updated>2024-10-23T01:58:18Z</updated>
+    <id>tag:github.com,2024-10-23:/ellisk42/ec</id>
+    <link href="https://github.com/ellisk42/ec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
