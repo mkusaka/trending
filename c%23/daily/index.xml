@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-23T01:51:33Z</updated>
+  <updated>2024-10-24T01:29:04Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Suprcode/Crystal</title>
-    <updated>2024-10-23T01:51:33Z</updated>
-    <id>tag:github.com,2024-10-23:/Suprcode/Crystal</id>
-    <link href="https://github.com/Suprcode/Crystal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Legend of Mir 2 - Official Public Crystal Source&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Legend of Mir 2 - Official Public Crystal Source&lt;/h1&gt; &#xA;&lt;p&gt;Visit our forum at &lt;a href=&#34;https://www.lomcn.net/forum/forums/crystalm2-files-open-source.633/&#34;&gt;LOMCN&lt;/a&gt; for discussions, help, and updates.&lt;/p&gt; &#xA;&lt;h1&gt;Useful Links:&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.lomcn.net/wiki/index.php/Getting_Started&#34;&gt;Build Guide&lt;/a&gt; // &lt;a href=&#34;https://www.lomcn.net/wiki/index.php/Crystal&#34;&gt;Wiki&lt;/a&gt; // &lt;a href=&#34;https://github.com/Suprcode/Crystal.Database&#34;&gt;Databases&lt;/a&gt; // &lt;a href=&#34;https://github.com/Suprcode/Crystal.MapEditor&#34;&gt;Map Editor&lt;/a&gt; // &lt;a href=&#34;https://www.lomcn.net/forum/forums/crystalm2-help.663/&#34;&gt;Help&lt;/a&gt; // &lt;a href=&#34;https://www.lomcn.net/forum/forums/crystalm2-tutorials.634/&#34;&gt;Tutorials&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Other Projects:&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/JevLOMCN/mir1/&#34;&gt;Mir 1&lt;/a&gt; // &lt;a href=&#34;https://github.com/Suprcode/Carbon.Database&#34;&gt;Database&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Suprcode/Zircon&#34;&gt;Mir 3&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/mir-ethernity/mir-eternal&#34;&gt;Mir 3D&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/JevLOMCN/mir4-launchers&#34;&gt;Mir 4&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

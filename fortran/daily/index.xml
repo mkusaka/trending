@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-23T01:53:06Z</updated>
+  <updated>2024-10-24T01:30:22Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ufs-community/UFS_UTILS</title>
+    <updated>2024-10-24T01:30:22Z</updated>
+    <id>tag:github.com,2024-10-24:/ufs-community/UFS_UTILS</id>
+    <link href="https://github.com/ufs-community/UFS_UTILS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utilities for the NCEP models.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

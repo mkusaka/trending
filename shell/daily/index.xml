@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-23T01:58:06Z</updated>
+  <updated>2024-10-24T01:34:36Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>open-telemetry/opentelemetry-collector-releases</title>
-    <updated>2024-10-23T01:58:06Z</updated>
-    <id>tag:github.com,2024-10-23:/open-telemetry/opentelemetry-collector-releases</id>
-    <link href="https://github.com/open-telemetry/opentelemetry-collector-releases" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenTelemetry Collector Official Releases&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OpenTelemetry Collector distributions&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;&lt;span&gt;⚠&lt;/span&gt; &lt;strong&gt;Important note:&lt;/strong&gt; Git tags in this repository may change at any time to fix any issues found during a release. They are only meant to trigger Github releases and should not be relied upon.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;This repository assembles OpenTelemetry Collector distributions, such as the &#34;core&#34; distribution, or &#34;contrib&#34;.&lt;/p&gt; &#xA;&lt;p&gt;Each distribution contains:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Binaries for a multitude of platforms and architectures&lt;/li&gt; &#xA; &lt;li&gt;Multi-arch container images&lt;/li&gt; &#xA; &lt;li&gt;Packages to be used with Linux distributions (RPM, deb), Mac OS (brew) for the above-mentioned architectures&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;More details about each individual distribution can be seen in its own readme files.&lt;/p&gt; &#xA;&lt;p&gt;Current list of distributions:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/open-telemetry/opentelemetry-collector-releases/main/distributions/otelcol&#34;&gt;OpenTelemetry Collector (also known as &#34;otelcol&#34;)&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/open-telemetry/opentelemetry-collector-releases/main/distributions/otelcol-contrib&#34;&gt;OpenTelemetry Collector Contrib (also known as &#34;otelcol-contrib&#34;)&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/open-telemetry/opentelemetry-collector-releases/main/distributions/otelcol-k8s&#34;&gt;OpenTelemetry Collector for Kubernetes (also known as &#34;otelcol-k8s&#34;)&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/open-telemetry/opentelemetry-collector-releases/main/distributions/otelcol-otlp&#34;&gt;OpenTelemetry Collector OTLP (also known as &#34;otelcol-otlp&#34;)&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

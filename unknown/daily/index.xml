@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-23T01:50:44Z</updated>
+  <updated>2024-10-24T01:28:18Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Cryakl/Ultimate-RAT-Collection</title>
-    <updated>2024-10-23T01:50:44Z</updated>
-    <id>tag:github.com,2024-10-23:/Cryakl/Ultimate-RAT-Collection</id>
-    <link href="https://github.com/Cryakl/Ultimate-RAT-Collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;For educational purposes only, samples of 400+ classic/modern trojan builders including screenshots.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SkipToTheEndpoint/OpenIntuneBaseline</title>
-    <updated>2024-10-23T01:50:44Z</updated>
-    <id>tag:github.com,2024-10-23:/SkipToTheEndpoint/OpenIntuneBaseline</id>
-    <link href="https://github.com/SkipToTheEndpoint/OpenIntuneBaseline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community-driven baseline to accelerate Intune adoption and learning.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
