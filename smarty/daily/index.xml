@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-24T01:34:46Z</updated>
+  <updated>2024-10-25T01:37:56Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hyperledger-bevel/bevel</title>
-    <updated>2024-10-24T01:34:46Z</updated>
-    <id>tag:github.com,2024-10-24:/hyperledger-bevel/bevel</id>
-    <link href="https://github.com/hyperledger-bevel/bevel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An automation framework for rapidly and consistently deploying production-ready DLT platforms&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
