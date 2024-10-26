@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-25T01:38:10Z</updated>
+  <updated>2024-10-26T01:34:45Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>engageintellect/spatz-2</title>
+    <updated>2024-10-26T01:34:45Z</updated>
+    <id>tag:github.com,2024-10-26:/engageintellect/spatz-2</id>
+    <link href="https://github.com/engageintellect/spatz-2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;just like spatz... but with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
