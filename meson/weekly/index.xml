@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Meson Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-10-27T01:40:57Z</updated>
+  <subtitle>Weekly Trending of Meson in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>somepaulo/MoreWaita</title>
+    <updated>2024-10-27T01:40:57Z</updated>
+    <id>tag:github.com,2024-10-27:/somepaulo/MoreWaita</id>
+    <link href="https://github.com/somepaulo/MoreWaita" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An expanded Adwaita-styled companion icon theme with extra icons for popular apps to complement Gnome Shell&#39;s original icons.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
