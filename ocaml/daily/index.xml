@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-27T01:33:44Z</updated>
+  <updated>2024-10-28T01:38:13Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ocaml-community/omd</title>
-    <updated>2024-10-27T01:33:44Z</updated>
-    <id>tag:github.com,2024-10-27:/ocaml-community/omd</id>
-    <link href="https://github.com/ocaml-community/omd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;extensible Markdown library and tool in &#34;pure OCaml&#34;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-27T01:31:38Z</updated>
+  <updated>2024-10-28T01:33:45Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HigherOrderCO/Kind</title>
-    <updated>2024-10-27T01:31:38Z</updated>
-    <id>tag:github.com,2024-10-27:/HigherOrderCO/Kind</id>
-    <link href="https://github.com/HigherOrderCO/Kind" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern proof language&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Kind&lt;/h1&gt; &#xA;&lt;p&gt;Kind is a minimal Proof Checker.&lt;/p&gt; &#xA;&lt;p&gt;This repository is a full rewrite of Kind from the old JS implementation to Haskell. It is being actively developed. See examples on &lt;a href=&#34;https://github.com/HigherOrderCO/KindBook&#34;&gt;KindBook&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Clone and install this project&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Use the &lt;code&gt;kind&lt;/code&gt; command to check/run terms&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;We will write a proper README later (:&lt;/p&gt;</summary>
-  </entry>
 </feed>
