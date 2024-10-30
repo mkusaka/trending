@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-29T01:30:37Z</updated>
+  <updated>2024-10-30T01:30:25Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>devonestes/fast-elixir</title>
+    <updated>2024-10-30T01:30:25Z</updated>
+    <id>tag:github.com,2024-10-30:/devonestes/fast-elixir</id>
+    <link href="https://github.com/devonestes/fast-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💨 Writing Fast Elixir 😍 -- Collect Common Elixir idioms.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
