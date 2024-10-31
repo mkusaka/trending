@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-30T01:38:01Z</updated>
+  <updated>2024-10-31T01:32:47Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nf-core/deepmodeloptim</title>
+    <updated>2024-10-31T01:32:47Z</updated>
+    <id>tag:github.com,2024-10-31:/nf-core/deepmodeloptim</id>
+    <link href="https://github.com/nf-core/deepmodeloptim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stochastic Testing and Input Manipulation for Unbiased Learning Systems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nf-core/scdownstream</title>
+    <updated>2024-10-31T01:32:47Z</updated>
+    <id>tag:github.com,2024-10-31:/nf-core/scdownstream</id>
+    <link href="https://github.com/nf-core/scdownstream" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A single cell transcriptomics pipeline for QC, integration and making the data presentable&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

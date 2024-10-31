@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-30T01:38:17Z</updated>
+  <updated>2024-10-31T01:33:04Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ocaml/flexdll</title>
-    <updated>2024-10-30T01:38:17Z</updated>
-    <id>tag:github.com,2024-10-30:/ocaml/flexdll</id>
-    <link href="https://github.com/ocaml/flexdll" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a dlopen-like API for Windows&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0install/0install</title>
+    <updated>2024-10-31T01:33:04Z</updated>
+    <id>tag:github.com,2024-10-31:/0install/0install</id>
+    <link href="https://github.com/0install/0install" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;the core 0install package&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
