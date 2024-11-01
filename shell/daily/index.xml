@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-31T01:34:31Z</updated>
+  <updated>2024-11-01T01:35:18Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>themactep/thingino-firmware</title>
-    <updated>2024-10-31T01:34:31Z</updated>
-    <id>tag:github.com,2024-10-31:/themactep/thingino-firmware</id>
-    <link href="https://github.com/themactep/thingino-firmware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-source firmware for Ingenic SoC IP cameras&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Thingino. Open Source Firmware for Ingenic SoC IP Cameras.&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://thingino.com/a/webui-hawaii.jpg&#34; alt=&#34;Thingino Web UI&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Supported Hardware&lt;/h3&gt; &#xA;&lt;p&gt;Visit &lt;a href=&#34;https://thingino.com/&#34;&gt;project website&lt;/a&gt; for a list of supported cameras.&lt;/p&gt; &#xA;&lt;h3&gt;Building&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone --recurse-submodules https://github.com/themactep/thingino-firmware&#xA;cd thingino-firmware&#xA;make&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Read &lt;a href=&#34;https://github.com/themactep/thingino-firmware/wiki/Building-from-sources&#34;&gt;Building from sources&lt;/a&gt; article for more info.&lt;/p&gt; &#xA;&lt;h3&gt;Resources&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://thingino.com/&#34;&gt;Project Website&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/themactep/thingino-firmware/wiki&#34;&gt;Project Wiki&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Buildroot Manual &lt;a href=&#34;https://buildroot.org/downloads/manual/manual.html&#34;&gt;HTML&lt;/a&gt; &lt;a href=&#34;https://nightly.buildroot.org/manual.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://discord.gg/xDmqS944zr&#34;&gt;Discord channel&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://t.me/thingino&#34;&gt;Telegram group&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;GitHub CI Status&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/themactep/thingino-firmware/actions/workflows/toolchain.yaml&#34;&gt;&lt;img src=&#34;https://github.com/themactep/thingino-firmware/actions/workflows/toolchain.yaml/badge.svg?sanitize=true&#34; alt=&#34;toolchain&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/themactep/thingino-firmware/actions/workflows/firmware.yaml&#34;&gt;&lt;img src=&#34;https://github.com/themactep/thingino-firmware/actions/workflows/firmware.yaml/badge.svg?sanitize=true&#34; alt=&#34;firmware&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

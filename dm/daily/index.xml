@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-10-31T01:29:56Z</updated>
+  <updated>2024-11-01T01:30:21Z</updated>
   <subtitle>Daily Trending of DM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Project-IS12/IS12-Warfare</title>
-    <updated>2024-10-31T01:29:56Z</updated>
-    <id>tag:github.com,2024-10-31:/Project-IS12/IS12-Warfare</id>
-    <link href="https://github.com/Project-IS12/IS12-Warfare" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official IS12 Warfare repo.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
