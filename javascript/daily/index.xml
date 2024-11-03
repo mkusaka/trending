@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-02T01:31:33Z</updated>
+  <updated>2024-11-03T01:31:34Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SnapDrop/snapdrop</title>
+    <updated>2024-11-03T01:31:34Z</updated>
+    <id>tag:github.com,2024-11-03:/SnapDrop/snapdrop</id>
+    <link href="https://github.com/SnapDrop/snapdrop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Progressive Web App for local file sharing&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Snapdrop&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://snapdrop.net&#34;&gt;Snapdrop&lt;/a&gt;: local file sharing in your browser. Inspired by Apple&#39;s Airdrop.&lt;/p&gt; &#xA;&lt;h4&gt;Snapdrop is built with the following awesome technologies:&lt;/h4&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Vanilla HTML5 / ES6 / CSS3 frontend&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://webrtc.org/&#34;&gt;WebRTC&lt;/a&gt; / &lt;a href=&#34;http://www.websocket.org/&#34;&gt;WebSockets&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://nodejs.org/en/&#34;&gt;NodeJS&lt;/a&gt; backend&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://wikipedia.org/wiki/Progressive_Web_App&#34;&gt;Progressive Web App&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Have any questions? Read our &lt;a href=&#34;https://raw.githubusercontent.com/SnapDrop/snapdrop/master/docs/faq.md&#34;&gt;FAQ&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;You can &lt;a href=&#34;https://raw.githubusercontent.com/SnapDrop/snapdrop/master/docs/local-dev.md&#34;&gt;host your own instance with Docker&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Support the Snapdrop Community&lt;/h2&gt; &#xA;&lt;p&gt;Snapdrop is free. Still, we have to pay for the server. If you want to contribute, please use PayPal:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.paypal.com/donate/?hosted_button_id=MG8GV7YCYT352&#34;&gt;&lt;img src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;or Bitcoin:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://coins.github.io/thx/#1K9zQ8f4iTyhKyHWmiDKt21cYX2QSDckWB?label=Snapdrop&amp;amp;message=Thanks!%20Your%20contribution%20helps%20to%20keep%20Snapdrop%20free%20for%20everybody!&#34;&gt;&lt;img src=&#34;https://coins.github.io/thx/logo-color-large-pill-320px.png&#34; alt=&#34;CoinThx&#34; width=&#34;200&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://tippin.me/@robin_linus&#34;&gt;Bitcoin Lighting&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Alternatively, you can become a &lt;a href=&#34;https://github.com/sponsors/RobinLinus&#34;&gt;Github Sponsor&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Thanks a lot for supporting free and open software!&lt;/p&gt;</summary>
+  </entry>
 </feed>

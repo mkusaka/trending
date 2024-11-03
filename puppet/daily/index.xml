@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-02T01:33:50Z</updated>
+  <updated>2024-11-03T01:36:10Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>voxpupuli/puppet-kafka</title>
+    <updated>2024-11-03T01:36:10Z</updated>
+    <id>tag:github.com,2024-11-03:/voxpupuli/puppet-kafka</id>
+    <link href="https://github.com/voxpupuli/puppet-kafka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The kafka module for managing the installation and configuration of Apache Kafka&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

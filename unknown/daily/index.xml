@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-02T01:28:13Z</updated>
+  <updated>2024-11-03T01:28:35Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elevenlabs/elevenlabs-examples</title>
-    <updated>2024-11-02T01:28:13Z</updated>
-    <id>tag:github.com,2024-11-02:/elevenlabs/elevenlabs-examples</id>
-    <link href="https://github.com/elevenlabs/elevenlabs-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lucia-auth/lucia</title>
+    <updated>2024-11-03T01:28:35Z</updated>
+    <id>tag:github.com,2024-11-03:/lucia-auth/lucia</id>
+    <link href="https://github.com/lucia-auth/lucia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Authentication, simple and clean&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>himahuja/Research-Internships-for-Undergraduates</title>
+    <updated>2024-11-03T01:28:35Z</updated>
+    <id>tag:github.com,2024-11-03:/himahuja/Research-Internships-for-Undergraduates</id>
+    <link href="https://github.com/himahuja/Research-Internships-for-Undergraduates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of Research Internships for Undergraduate Students&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

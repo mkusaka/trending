@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-11-03T01:38:22Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>s2underground/GhostNet</title>
+    <updated>2024-11-03T01:38:22Z</updated>
+    <id>tag:github.com,2024-11-03:/s2underground/GhostNet</id>
+    <link href="https://github.com/s2underground/GhostNet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GhostNet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>0x4D31/awesome-threat-detection</title>
+    <updated>2024-11-03T01:38:22Z</updated>
+    <id>tag:github.com,2024-11-03:/0x4D31/awesome-threat-detection</id>
+    <link href="https://github.com/0x4D31/awesome-threat-detection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

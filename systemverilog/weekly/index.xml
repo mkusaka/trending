@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SystemVerilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-11-03T01:47:36Z</updated>
+  <subtitle>Weekly Trending of SystemVerilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chipsalliance/Cores-VeeR-EL2</title>
+    <updated>2024-11-03T01:47:36Z</updated>
+    <id>tag:github.com,2024-11-03:/chipsalliance/Cores-VeeR-EL2</id>
+    <link href="https://github.com/chipsalliance/Cores-VeeR-EL2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VeeR EL2 Core&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

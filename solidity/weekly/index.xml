@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-11-03T01:47:20Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WTFAcademy/WTF-Dapp</title>
+    <updated>2024-11-03T01:47:20Z</updated>
+    <id>tag:github.com,2024-11-03:/WTFAcademy/WTF-Dapp</id>
+    <link href="https://github.com/WTFAcademy/WTF-Dapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⭐ Minimal tutorials to build Dapps | DEX Development Tutorial | Uniswap 代码解析 | 去中心化交易所实战教程 | DApp 智能合约和前端教程 ⭐&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
