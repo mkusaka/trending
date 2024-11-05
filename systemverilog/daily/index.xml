@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-04T01:37:37Z</updated>
+  <updated>2024-11-05T01:37:43Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>openhwgroup/cv-hpdcache</title>
-    <updated>2024-11-04T01:37:37Z</updated>
-    <id>tag:github.com,2024-11-04:/openhwgroup/cv-hpdcache</id>
-    <link href="https://github.com/openhwgroup/cv-hpdcache" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RTL sources of the High-Performance L1 Dcache (HPDcache) for OpenHW CV cores&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
