@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-05T01:33:53Z</updated>
+  <updated>2024-11-06T01:31:23Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MehVahdJukaar/Supplementaries</title>
-    <updated>2024-11-05T01:33:53Z</updated>
-    <id>tag:github.com,2024-11-05:/MehVahdJukaar/Supplementaries</id>
-    <link href="https://github.com/MehVahdJukaar/Supplementaries" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Supplementaries&lt;/h1&gt; &#xA;&lt;p&gt;Supplementaries is a highly configurable Forge mod focused on adding valuable content which fills the gaps vanilla has. Its features are tailored to be functional, aesthetically viable, and complementary to preexisting content and provide many new ways to enhance your Vanilla+ experience.&lt;/p&gt; &#xA;&lt;p&gt;Before reporting any issues be sure to check out the wiki!&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-05T01:34:21Z</updated>
+  <updated>2024-11-06T01:31:55Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>google/android-fhir</title>
+    <updated>2024-11-06T01:31:55Z</updated>
+    <id>tag:github.com,2024-11-06:/google/android-fhir</id>
+    <link href="https://github.com/google/android-fhir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Android FHIR SDK is a set of Kotlin libraries for building offline-capable, mobile-first healthcare applications using the HL7® FHIR® standard on Android.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Android FHIR SDK&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/google/android-fhir/actions/workflows/build.yml&#34;&gt;&lt;img src=&#34;https://github.com/google/android-fhir/actions/workflows/build.yml/badge.svg?branch=master&#34; alt=&#34;master&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://codecov.io/gh/google/android-fhir/branch/master&#34;&gt;&lt;img src=&#34;https://codecov.io/gh/google/android-fhir/branch/master/graph/badge.svg?token=PDSC4WRDTQ&#34; alt=&#34;codecov&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://opensource.org/licenses/Apache-2.0&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/License-Apache_2.0-blue.svg?sanitize=true&#34; alt=&#34;License&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://chat.fhir.org/#narrow/stream/276344-android&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/zulip-join_chat-brightgreen.svg?sanitize=true&#34; alt=&#34;project chat&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;The Android FHIR SDK is a set of Kotlin libraries for building offline-capable, mobile-first healthcare applications using the &lt;a href=&#34;https://www.hl7.org/fhir/&#34;&gt;HL7® FHIR® standard&lt;/a&gt; on Android. It aims to accelerate the adoption of FHIR by making it easy to incorporate FHIR into new and existing mobile applications.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://google.github.io/android-fhir/&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Disclaimer&lt;/h2&gt; &#xA;&lt;p&gt;This product is not intended to be a medical device.&lt;/p&gt; &#xA;&lt;p&gt;HL7®, and FHIR® are the registered trademarks of Health Level Seven International and their use of these trademarks does not constitute an endorsement by HL7.&lt;/p&gt;</summary>
+  </entry>
 </feed>

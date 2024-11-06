@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-05T01:32:07Z</updated>
+  <updated>2024-11-06T01:29:36Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>FlutterKaigi/2024</title>
+    <updated>2024-11-06T01:29:36Z</updated>
+    <id>tag:github.com,2024-11-06:/FlutterKaigi/2024</id>
+    <link href="https://github.com/FlutterKaigi/2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;img src=&#34;https://github.com/user-attachments/assets/574c3073-19e2-4874-8c97-d9467f2f41c1&#34; alt=&#34;FlutterKaigi 2024 公式プロジェクトのバナー画像&#34;&gt; &#xA;&lt;h1&gt;FlutterKaigi 2024 公式プロジェクト&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/invertase/melos&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/maintained%20with-melos-f700ff.svg?style=flat-square&#34; alt=&#34;melos&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;FlutterKaigi 2024 公式プロジェクトのリポジトリへようこそ！&lt;/p&gt; &#xA;&lt;p&gt;FlutterKaigi 2024 についての詳しい情報は &lt;a href=&#34;https://flutterkaigi.jp/2024&#34;&gt;FlutterKaigi 2024 公式ウェブサイト&lt;/a&gt; をご覧ください。&lt;/p&gt; &#xA;&lt;h2&gt;プロジェクトへの貢献方法&lt;/h2&gt; &#xA;&lt;p&gt;みなさんのご協力をお待ちしています！&lt;/p&gt; &#xA;&lt;p&gt;詳しくは &lt;a href=&#34;https://raw.githubusercontent.com/FlutterKaigi/2024/main/docs/CONTRIBUTING.md&#34;&gt;CONTRIBUTING.md&lt;/a&gt; をご覧ください。&lt;/p&gt; &#xA;&lt;h2&gt;プロジェクト構成&lt;/h2&gt; &#xA;&lt;p&gt;このプロジェクトでは、いくつかのアプリやパッケージを &lt;a href=&#34;https://melos.invertase.dev/~melos-latest&#34;&gt;Melos&lt;/a&gt; で管理しています。&lt;/p&gt; &#xA;&lt;p&gt;詳しくは &lt;a href=&#34;https://raw.githubusercontent.com/FlutterKaigi/2024/main/docs/ARCHITECTURE.md&#34;&gt;ARCHITECTURE.md&lt;/a&gt; をご覧ください。&lt;/p&gt; &#xA;&lt;!-- Links --&gt;</summary>
+  </entry>
 </feed>
