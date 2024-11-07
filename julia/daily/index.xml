@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-06T01:31:45Z</updated>
+  <updated>2024-11-07T01:31:55Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NonlinearOscillations/HarmonicBalance.jl</title>
+    <updated>2024-11-07T01:31:55Z</updated>
+    <id>tag:github.com,2024-11-07:/NonlinearOscillations/HarmonicBalance.jl</id>
+    <link href="https://github.com/NonlinearOscillations/HarmonicBalance.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia package for solving nonlinear differential equations using the harmonic balance method.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaGraphs/GraphNeuralNetworks.jl</title>
+    <updated>2024-11-07T01:31:55Z</updated>
+    <id>tag:github.com,2024-11-07:/JuliaGraphs/GraphNeuralNetworks.jl</id>
+    <link href="https://github.com/JuliaGraphs/GraphNeuralNetworks.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Graph Neural Networks in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
