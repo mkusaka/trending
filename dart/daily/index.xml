@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-08T01:30:01Z</updated>
+  <updated>2024-11-09T01:29:38Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>suesitran/public_chat</title>
+    <updated>2024-11-09T01:29:38Z</updated>
+    <id>tag:github.com,2024-11-09:/suesitran/public_chat</id>
+    <link href="https://github.com/suesitran/public_chat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple public chat for anyone to chat with Gemini&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;public_chat&lt;/h1&gt; &#xA;&lt;p&gt;A Flutter project to create an Auto Translated Chat application, which uses the power of Gemini 1.5 to traslate every message in to user&#39;s preferred language.&lt;/p&gt; &#xA;&lt;p&gt;Google Cloud credits are provided for this project.&lt;/p&gt;</summary>
+  </entry>
 </feed>
