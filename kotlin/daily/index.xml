@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-09T01:31:47Z</updated>
+  <updated>2024-11-10T01:32:20Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>google-developer-training/basic-android-kotlin-compose-birthday-card-app</title>
-    <updated>2024-11-09T01:31:47Z</updated>
-    <id>tag:github.com,2024-11-09:/google-developer-training/basic-android-kotlin-compose-birthday-card-app</id>
-    <link href="https://github.com/google-developer-training/basic-android-kotlin-compose-birthday-card-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Happy Birthday app - Solution Code&lt;/h1&gt; &#xA;&lt;p&gt;Solution code for the Android Basics with Compose: Add images to your Android app codelab.&lt;/p&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;In this codelab, you will learn how to add images to your app using an Image Composable.&lt;/p&gt; &#xA;&lt;h2&gt;Pre-requisites&lt;/h2&gt; &#xA;&lt;p&gt;You need to know:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;How to create and run a new app in Android Studio.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Download and run the app.&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
 </feed>

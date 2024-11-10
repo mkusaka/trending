@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-09T01:31:38Z</updated>
+  <updated>2024-11-10T01:32:10Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NVIDIA/accelerated-computing-hub</title>
-    <updated>2024-11-09T01:31:38Z</updated>
-    <id>tag:github.com,2024-11-09:/NVIDIA/accelerated-computing-hub</id>
-    <link href="https://github.com/NVIDIA/accelerated-computing-hub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NVIDIA curated collection of educational resources related to general purpose GPU programming.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Welcome to the NVIDIA Accelerated Computing Hub&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/NVIDIA/accelerated-computing-hub/assets/172857182/0f315e16-cacd-44f5-9a77-fc62367b05cf&#34; alt=&#34;nvidia&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;This repository is to serve as a home for open learning materials related to GPU computing. You will find user guides, tutorials, and other works freely available for all learners interested in GPU Computing.&lt;/p&gt; &#xA;&lt;p&gt;The intention is to create a living project where documents, examples, best practices, optimizations, and new features can become both visible and accessible to users quickly and easily.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;All written materials (user guides, documentation, presentations) are subject to &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons CC BY-NC-SA 4.0&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;All codes (notebook code, coding examples) are subject to &lt;a href=&#34;https://www.apache.org/licenses/LICENSE-2.0&#34;&gt;APACHE LICENSE, VERSION 2.0&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Contact&lt;/h2&gt; &#xA;&lt;p&gt;For additional help, please use &lt;a href=&#34;https://forums.developer.nvidia.com/c/accelerated-computing/cuda/206&#34;&gt;NVIDIA&#39;s CUDA Developer Forums&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>
