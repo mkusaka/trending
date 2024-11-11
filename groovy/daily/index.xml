@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-10T01:31:11Z</updated>
+  <updated>2024-11-11T01:31:07Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>grails/grails-spring-security-rest</title>
-    <updated>2024-11-10T01:31:11Z</updated>
-    <id>tag:github.com,2024-11-10:/grails/grails-spring-security-rest</id>
-    <link href="https://github.com/grails/grails-spring-security-rest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Grails plugin to implement token-based, RESTful authentication using Spring Security&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
