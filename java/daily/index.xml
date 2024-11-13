@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-12T01:31:29Z</updated>
+  <updated>2024-11-13T01:31:48Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xdsopl/robot36</title>
+    <updated>2024-11-13T01:31:48Z</updated>
+    <id>tag:github.com,2024-11-13:/xdsopl/robot36</id>
+    <link href="https://github.com/xdsopl/robot36" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Decode SSTV encoded audio signals to images&lt;/p&gt;&lt;hr&gt;&lt;h3&gt;Robot36: The Java Cut&lt;/h3&gt; &#xA;&lt;p&gt;This is not a drill!&lt;/p&gt; &#xA;&lt;p&gt;Get ready to beam in a whole new Robot36, rebuilt from the ground up in pure Java! Just like that nostalgic reboot of your favorite childhood show (but hopefully better written!), things might be a little different this time around. There will be glitches, there will be bugs, but hey, that&#39;s the beauty of live transmission, right? Hold on to your spacesuits, folks, it&#39;s gonna be a bumpy ride!&lt;/p&gt; &#xA;&lt;p&gt;Stay tuned for further transmissions...&lt;/p&gt;</summary>
+  </entry>
 </feed>
