@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-13T01:32:05Z</updated>
+  <updated>2024-11-14T01:32:01Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GoogleCloudPlatform/guest-test-infra</title>
+    <updated>2024-11-14T01:32:01Z</updated>
+    <id>tag:github.com,2024-11-14:/GoogleCloudPlatform/guest-test-infra</id>
+    <link href="https://github.com/GoogleCloudPlatform/guest-test-infra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compute Engine Guest OS - Test infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
