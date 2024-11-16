@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-15T01:31:16Z</updated>
+  <updated>2024-11-16T01:30:49Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>grails-plugins/grails-rest-client-builder</title>
-    <updated>2024-11-15T01:31:16Z</updated>
-    <id>tag:github.com,2024-11-15:/grails-plugins/grails-rest-client-builder</id>
-    <link href="https://github.com/grails-plugins/grails-rest-client-builder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;REST client plugin that uses Spring&#39;s RestTemplate&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>grails-plugins/grails-resources</title>
-    <updated>2024-11-15T01:31:16Z</updated>
-    <id>tag:github.com,2024-11-15:/grails-plugins/grails-resources</id>
-    <link href="https://github.com/grails-plugins/grails-resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Resources framework for Grails 2.0&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

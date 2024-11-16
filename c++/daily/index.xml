@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-15T01:29:28Z</updated>
+  <updated>2024-11-16T01:29:07Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cra-ros-pkg/robot_localization</title>
+    <updated>2024-11-16T01:29:07Z</updated>
+    <id>tag:github.com,2024-11-16:/cra-ros-pkg/robot_localization</id>
+    <link href="https://github.com/cra-ros-pkg/robot_localization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;robot_localization is a package of nonlinear state estimation nodes. The package was developed by Charles River Analytics, Inc. Please ask questions on answers.ros.org.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;robot_localization&lt;/h1&gt; &#xA;&lt;p&gt;robot_localization is a package of nonlinear state estimation nodes. The package was developed by Charles River Analytics, Inc.&lt;/p&gt; &#xA;&lt;p&gt;Please see documentation here: &lt;a href=&#34;http://wiki.ros.org/robot_localization&#34;&gt;http://wiki.ros.org/robot_localization&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

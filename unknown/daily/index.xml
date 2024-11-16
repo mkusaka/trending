@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-15T01:28:53Z</updated>
+  <updated>2024-11-16T01:28:24Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>langchain-ai/langgraph-studio</title>
+    <updated>2024-11-16T01:28:24Z</updated>
+    <id>tag:github.com,2024-11-16:/langchain-ai/langgraph-studio</id>
+    <link href="https://github.com/langchain-ai/langgraph-studio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Desktop app for prototyping and debugging LangGraph applications locally.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
