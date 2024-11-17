@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-11-17T01:44:00Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alvan/vim-closetag</title>
+    <updated>2024-11-17T01:44:00Z</updated>
+    <id>tag:github.com,2024-11-17:/alvan/vim-closetag</id>
+    <link href="https://github.com/alvan/vim-closetag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Auto close (X)HTML tags&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

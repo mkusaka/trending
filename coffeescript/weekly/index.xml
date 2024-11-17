@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-11-17T01:37:38Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>winsonwq/viff</title>
+    <updated>2024-11-17T01:37:38Z</updated>
+    <id>tag:github.com,2024-11-17:/winsonwq/viff</id>
+    <link href="https://github.com/winsonwq/viff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Viff Testing Framework. Find visual differences between web pages in different environments(developing, staging, production) and browsers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

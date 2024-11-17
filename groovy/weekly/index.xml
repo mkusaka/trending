@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-11-17T01:39:03Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sonatype/docker-nexus3</title>
+    <updated>2024-11-17T01:39:03Z</updated>
+    <id>tag:github.com,2024-11-17:/sonatype/docker-nexus3</id>
+    <link href="https://github.com/sonatype/docker-nexus3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dockerized version of Nexus Repo Manager 3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

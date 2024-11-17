@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SystemVerilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-11-17T01:43:29Z</updated>
+  <subtitle>Weekly Trending of SystemVerilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>openhwgroup/cvw</title>
+    <updated>2024-11-17T01:43:29Z</updated>
+    <id>tag:github.com,2024-11-17:/openhwgroup/cvw</id>
+    <link href="https://github.com/openhwgroup/cvw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openhwgroup/cv-hpdcache</title>
+    <updated>2024-11-17T01:43:29Z</updated>
+    <id>tag:github.com,2024-11-17:/openhwgroup/cv-hpdcache</id>
+    <link href="https://github.com/openhwgroup/cv-hpdcache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RTL sources of the High-Performance L1 Dcache (HPDcache) for OpenHW CV cores&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

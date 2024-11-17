@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-11-17T01:44:02Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OpenCSGs/csghub</title>
+    <updated>2024-11-17T01:44:02Z</updated>
+    <id>tag:github.com,2024-11-17:/OpenCSGs/csghub</id>
+    <link href="https://github.com/OpenCSGs/csghub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CSGHub is an open-source large model platform just like on-premise version of Hugging Face. You can easily manage models and datasets, deploy model applications and setup model finetune or inference jobs with user interface. CSGHub also provides Python SDK with full compatibility of hf sdk. Join us together to build a safer and more open platform⭐️&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gooaclok819/sublinkX</title>
+    <updated>2024-11-17T01:44:02Z</updated>
+    <id>tag:github.com,2024-11-17:/gooaclok819/sublinkX</id>
+    <link href="https://github.com/gooaclok819/sublinkX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;开源节点订阅转换生成管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

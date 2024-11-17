@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-11-17T01:40:29Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DataExpert-io/data-engineer-handbook</title>
+    <updated>2024-11-17T01:40:29Z</updated>
+    <id>tag:github.com,2024-11-17:/DataExpert-io/data-engineer-handbook</id>
+    <link href="https://github.com/DataExpert-io/data-engineer-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a repo with links to everything you&#39;d ever want to learn about data engineering&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sanjay-kv/Open-source-Practice</title>
+    <updated>2024-11-17T01:40:29Z</updated>
+    <id>tag:github.com,2024-11-17:/sanjay-kv/Open-source-Practice</id>
+    <link href="https://github.com/sanjay-kv/Open-source-Practice" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
