@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-17T01:28:51Z</updated>
+  <updated>2024-11-18T01:28:41Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fishttp/awesome-bluesky</title>
+    <updated>2024-11-18T01:28:41Z</updated>
+    <id>tag:github.com,2024-11-18:/fishttp/awesome-bluesky</id>
+    <link href="https://github.com/fishttp/awesome-bluesky" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of all known tools available for the Bluesky platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
