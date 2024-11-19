@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Go Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-18T01:30:57Z</updated>
+  <updated>2024-11-19T01:31:22Z</updated>
   <subtitle>Daily Trending of Go in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jesusprubio/up</title>
-    <updated>2024-11-18T01:30:57Z</updated>
-    <id>tag:github.com,2024-11-18:/jesusprubio/up</id>
-    <link href="https://github.com/jesusprubio/up" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📶 Troubleshoot problems with your Internet connection&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;up&lt;/h1&gt; &#xA;&lt;p&gt;Troubleshoot problems with your Internet connection based on different &lt;a href=&#34;https://raw.githubusercontent.com/jesusprubio/up/main/internal/protocol.go&#34;&gt;protocols&lt;/a&gt; and well-known &lt;a href=&#34;https://raw.githubusercontent.com/jesusprubio/up/main/internal/servers.go&#34;&gt;public servers&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://pkg.go.dev/github.com/jesusprubio/up&#34;&gt;&lt;img src=&#34;https://pkg.go.dev/badge/github.com/jesusprubio/up&#34; alt=&#34;GoDoc&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/jesusprubio/up/workflows/go.yml&#34;&gt;&lt;img src=&#34;https://github.com/jesusprubio/up/workflows/CI/badge.svg?sanitize=true&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;img src=&#34;https://img.shields.io/github/license/jesusprubio/up&#34; alt=&#34;License&#34;&gt;&lt;/p&gt; &#xA;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;img alt=&#34;Logo&#34; src=&#34;https://github.com/jesusprubio/up/assets/2753855/a9c6bdb5-ab53-4969-8b36-97896c09a090&#34; width=&#34;70%&#34;&gt; &#xA;&lt;/div&gt; &#xA;&lt;h2&gt;Install&lt;/h2&gt; &#xA;&lt;h3&gt;Binary Release&lt;/h3&gt; &#xA;&lt;p&gt;You can manually download a binary release for Linux, OSX, Windows or FreeBSD from the &lt;a href=&#34;https://github.com/jesusprubio/up/releases&#34;&gt;releases&lt;/a&gt; page.&lt;/p&gt; &#xA;&lt;h3&gt;Go&lt;/h3&gt; &#xA;&lt;p&gt;Please notice &lt;code&gt;latest&lt;/code&gt; will install the dev version.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;go install -ldflags=&#34;-s -w&#34; -v github.com/jesusprubio/up@latest&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Use&lt;/h2&gt; &#xA;&lt;p&gt;The default behavior is to verify all the &lt;a href=&#34;https://raw.githubusercontent.com/jesusprubio/up/main/internal/protocol.go&#34;&gt;supported protocols&lt;/a&gt; against a randomly selected &lt;a href=&#34;https://raw.githubusercontent.com/jesusprubio/up/main/internal/servers.go&#34;&gt;public server&lt;/a&gt; for each one.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;up&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>
