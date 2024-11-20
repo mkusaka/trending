@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-19T01:36:29Z</updated>
+  <updated>2024-11-20T01:36:37Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>imsyy/vitepress-theme-curve</title>
-    <updated>2024-11-19T01:36:29Z</updated>
-    <id>tag:github.com,2024-11-19:/imsyy/vitepress-theme-curve</id>
-    <link href="https://github.com/imsyy/vitepress-theme-curve" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

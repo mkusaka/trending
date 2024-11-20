@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-19T01:28:44Z</updated>
+  <updated>2024-11-20T01:28:43Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CSS-Next/css-next</title>
-    <updated>2024-11-19T01:28:44Z</updated>
-    <id>tag:github.com,2024-11-19:/CSS-Next/css-next</id>
-    <link href="https://github.com/CSS-Next/css-next" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Admin repo for meetings, charter, and action items for the CSS-Next community group, a part of the w3c.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

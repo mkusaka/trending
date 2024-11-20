@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-19T01:30:28Z</updated>
+  <updated>2024-11-20T01:30:19Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jup-ag/jupiter-swap-api</title>
+    <updated>2024-11-20T01:30:19Z</updated>
+    <id>tag:github.com,2024-11-20:/jup-ag/jupiter-swap-api</id>
+    <link href="https://github.com/jup-ag/jupiter-swap-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The jupiter swap api binary&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;jupiter-swap-api&lt;/h1&gt; &#xA;&lt;p&gt;The binary of the Jupiter V6 Swap API&lt;/p&gt; &#xA;&lt;p&gt;Refer to &lt;a href=&#34;https://station.jup.ag/docs/apis/self-hosted&#34;&gt;self-hosted&lt;/a&gt; for documentation&lt;/p&gt; &#xA;&lt;p&gt;To receive updates from telegram, can join &lt;a href=&#34;https://t.me/jup_dev&#34;&gt;https://t.me/jup_dev&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
