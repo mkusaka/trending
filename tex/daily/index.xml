@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-22T01:38:21Z</updated>
+  <updated>2024-11-23T01:35:40Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fsharp/fsharp.org</title>
-    <updated>2024-11-22T01:38:21Z</updated>
-    <id>tag:github.com,2024-11-22:/fsharp/fsharp.org</id>
-    <link href="https://github.com/fsharp/fsharp.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The F# Software Foundation website&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The F# Software Foundation&lt;/h1&gt; &#xA;&lt;p&gt;This repository hosts &lt;a href=&#34;https://fsharp.org/&#34;&gt;The F# Software Foundation web site&lt;/a&gt;. Pull requests are welcome. The web site code is hosted in the &lt;code&gt;gh-pages&lt;/code&gt; branch and is created using the tools provided by GitHub:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Switch to &lt;a href=&#34;https://github.com/fsharp/fsharp.org/tree/gh-pages&#34;&gt;the &lt;code&gt;gh-pages&lt;/code&gt; branch&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Read &lt;a href=&#34;https://help.github.com/categories/20/articles&#34;&gt;documentation for Github Pages&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;The site is using &lt;a href=&#34;http://jekyllrb.com/docs/usage/&#34;&gt;Jekyll for templating&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
