@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-23T01:29:01Z</updated>
+  <updated>2024-11-24T01:29:22Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>quickjs-ng/quickjs</title>
+    <updated>2024-11-24T01:29:22Z</updated>
+    <id>tag:github.com,2024-11-24:/quickjs-ng/quickjs</id>
+    <link href="https://github.com/quickjs-ng/quickjs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;QuickJS, the Next Generation: a mighty JavaScript engine&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;⚡️ QuickJS - A mighty JavaScript engine&lt;/h1&gt; &#xA;&lt;h2&gt;Overview&lt;/h2&gt; &#xA;&lt;p&gt;QuickJS is a small and embeddable JavaScript engine. It aims to support the latest &lt;a href=&#34;https://tc39.es/ecma262/&#34;&gt;ECMAScript&lt;/a&gt; specification.&lt;/p&gt; &#xA;&lt;p&gt;This project is a &lt;em&gt;fork&lt;/em&gt; of the &lt;a href=&#34;https://bellard.org/quickjs&#34;&gt;original QuickJS project&lt;/a&gt; by Fabrice Bellard and Charlie Gordon, after it went dormant, with the intent of reigniting its development.&lt;/p&gt; &#xA;&lt;h2&gt;Getting started&lt;/h2&gt; &#xA;&lt;p&gt;Head over to the &lt;a href=&#34;https://quickjs-ng.github.io/quickjs/&#34;&gt;project website&lt;/a&gt; for instructions on how to get started and more documentation.&lt;/p&gt; &#xA;&lt;h2&gt;Authors&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/bnoordhuis&#34;&gt;@bnoordhuis&lt;/a&gt;, &lt;a href=&#34;https://github.com/saghul&#34;&gt;@saghul&lt;/a&gt;, and many more &lt;a href=&#34;https://github.com/quickjs-ng/quickjs/graphs/contributors&#34;&gt;contributors&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
