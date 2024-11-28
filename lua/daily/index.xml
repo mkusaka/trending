@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Lua Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-11-28T01:33:22Z</updated>
+  <subtitle>Daily Trending of Lua in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nanotee/sqls.nvim</title>
+    <updated>2024-11-28T01:33:22Z</updated>
+    <id>tag:github.com,2024-11-28:/nanotee/sqls.nvim</id>
+    <link href="https://github.com/nanotee/sqls.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Neovim plugin for sqls that leverages the built-in LSP client&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;sqls.nvim&lt;/h1&gt; &#xA;&lt;p&gt;Neovim plugin for &lt;a href=&#34;https://github.com/lighttiger2505/sqls&#34;&gt;sqls&lt;/a&gt; that leverages the built-in LSP client. Loosely based on the code from &lt;a href=&#34;https://github.com/lighttiger2505/sqls.vim&#34;&gt;sqls.vim&lt;/a&gt;. Requires Neovim 0.8.0+&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/wbthomason/packer.nvim&#34;&gt;packer.nvim&lt;/a&gt; &lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;use &#39;nanotee/sqls.nvim&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/savq/paq-nvim&#34;&gt;paq-nvim&lt;/a&gt; &lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;paq &#39;nanotee/sqls.nvim&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/junegunn/vim-plug&#34;&gt;vim-plug&lt;/a&gt; &lt;pre&gt;&lt;code class=&#34;language-vim&#34;&gt;Plug &#39;nanotee/sqls.nvim&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Setup the plugin with &lt;a href=&#34;https://github.com/neovim/nvim-lspconfig&#34;&gt;nvim-lspconfig&lt;/a&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;require(&#39;lspconfig&#39;).sqls.setup{&#xA;    on_attach = function(client, bufnr)&#xA;        require(&#39;sqls&#39;).on_attach(client, bufnr)&#xA;    end&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Commands&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://raw.githubusercontent.com/nanotee/sqls.nvim/main/doc/sqls-nvim.txt#L14&#34;&gt;sqls-nvim-commands&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Mappings&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://raw.githubusercontent.com/nanotee/sqls.nvim/main/doc/sqls-nvim.txt#L54&#34;&gt;sqls-nvim-maps&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Events&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://raw.githubusercontent.com/nanotee/sqls.nvim/main/doc/sqls-nvim.txt#L66&#34;&gt;sqls-nvim-events&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-27T01:30:18Z</updated>
+  <updated>2024-11-28T01:30:22Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SawfishWM/sawfish</title>
+    <updated>2024-11-28T01:30:22Z</updated>
+    <id>tag:github.com,2024-11-28:/SawfishWM/sawfish</id>
+    <link href="https://github.com/SawfishWM/sawfish" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sawfish Window-Manager&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is sawfish, a highly configurable window manager for X11.&lt;/p&gt; &#xA;&lt;p&gt;It is released under the terms of the GNU GPL, copyright (c) John Harper &lt;a href=&#34;mailto:jsh@users.sourceforge.net&#34;&gt;jsh@users.sourceforge.net&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Maintainer until 2007 was: John Harper Maintainer until Dec 2008 was: Janek Kozicki &lt;a href=&#34;mailto:cosurgi@gmail.com&#34;&gt;cosurgi@gmail.com&lt;/a&gt; Maintainer since Dec 2008 is: Christopher Bratusek &lt;a href=&#34;mailto:nano@jpberlin.de&#34;&gt;nano@jpberlin.de&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;For more details, see the sawfish wiki: &lt;a href=&#34;http://sawfish.wikia.com/&#34;&gt;http://sawfish.wikia.com/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Manifesto&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Sawfish is an extensible window manager using an Emacs Lisp-like scripting language--all window decorations are configurable, the basic idea is to have as much user-interface policy as possible controlled through the Lisp language.&lt;/p&gt; &#xA;&lt;p&gt;Despite this extensibility its policy is currently very minimal compared to most window managers. Its aim is simply to manage windows in the most flexible and attractive manner possible. As such it does not implement desktop backgrounds, applications docks, or other things that may be achieved through separate applications.&lt;/p&gt; &#xA;&lt;p&gt;All high-level wm functions are implemented in Lisp for future extensibility or redefinition. Currently this includes menus (using GTK+), interactive window moving and resizing, virtual desktop, iconification, focus/transient window policies, frame theme definitions and much more.&lt;/p&gt; &#xA;&lt;p&gt;Also, most received events are exported to the Lisp environment through ``key-bindings&#39;&#39; and hooks, similar to in Emacs. These events include pointer behaviour and many internal X11 events (enter/leave, focus-in/focus-out, map/unmap, etc..)&lt;/p&gt;</summary>
+  </entry>
 </feed>
