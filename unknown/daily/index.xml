@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-28T01:28:58Z</updated>
+  <updated>2024-11-29T01:28:47Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>skills/github-pages</title>
-    <updated>2024-11-28T01:28:58Z</updated>
-    <id>tag:github.com,2024-11-28:/skills/github-pages</id>
-    <link href="https://github.com/skills/github-pages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create a site or blog from your GitHub repositories with GitHub Pages.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cmliu/WorkerVless2sub</title>
+    <updated>2024-11-29T01:28:47Z</updated>
+    <id>tag:github.com,2024-11-29:/cmliu/WorkerVless2sub</id>
+    <link href="https://github.com/cmliu/WorkerVless2sub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
