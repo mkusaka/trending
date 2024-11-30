@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-29T01:29:08Z</updated>
+  <updated>2024-11-30T01:29:06Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>apple/swift-crypto</title>
-    <updated>2024-11-29T01:29:08Z</updated>
-    <id>tag:github.com,2024-11-29:/apple/swift-crypto</id>
-    <link href="https://github.com/apple/swift-crypto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

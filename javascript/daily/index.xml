@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-11-29T01:32:03Z</updated>
+  <updated>2024-11-30T01:32:04Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>besuper/TwitchNoSub</title>
+    <updated>2024-11-30T01:32:04Z</updated>
+    <id>tag:github.com,2024-11-30:/besuper/TwitchNoSub</id>
+    <link href="https://github.com/besuper/TwitchNoSub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An extension to watch sub only VOD on Twitch&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TwitchNoSub&lt;/h1&gt; &#xA;&lt;p&gt;Be able to watch any sub-only vod on Twitch, integrated in the website and support every twitch features.&lt;/p&gt; &#xA;&lt;p&gt;Support chromium based browser (Chrome, Edge, Brave, Opera, ...) and Firefox.&lt;/p&gt; &#xA;&lt;h2&gt;Download &amp;amp; installation&lt;/h2&gt; &#xA;&lt;h5&gt;Chromium based browser&lt;/h5&gt; &#xA;&lt;p&gt;Download the latest release in the &lt;a href=&#34;https://github.com/besuper/TwitchNoSub/releases&#34;&gt;releases section&lt;/a&gt; or clone the repo.&lt;/p&gt; &#xA;&lt;p&gt;You have to install the extension manually:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Go in manage extension (&lt;strong&gt;chrome://extensions/&lt;/strong&gt; in chrome)&lt;/li&gt; &#xA; &lt;li&gt;Make sure &lt;strong&gt;Developer mode&lt;/strong&gt; is enabled&lt;/li&gt; &#xA; &lt;li&gt;Hit &lt;strong&gt;Load unpacked extension&lt;/strong&gt; and select the unzipped folder of the extension.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;If you use Chromium (not Chrome), you can pack the extension to get a .crx file you can drag &amp;amp; drop inside extensions page (which removes the need to have a dedicated directory for the extension on your hard drive)&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Unzip the extension&lt;/li&gt; &#xA; &lt;li&gt;In the parent directory of the extension, run the following command : &lt;code&gt;chromium --pack-extension=TwitchNoSub&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Drop the created crx file in the extensions page of your browser (make sure &lt;strong&gt;Developer mode&lt;/strong&gt; is enabled, however it will not work)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h5&gt;Firefox&lt;/h5&gt; &#xA;&lt;p&gt;Download the latest .&lt;strong&gt;xpi&lt;/strong&gt; file in the &lt;a href=&#34;https://github.com/besuper/TwitchNoSub/releases&#34;&gt;releases section&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Drag and drop the xpi file on Firefox&lt;/li&gt; &#xA; &lt;li&gt;Click on &#34;Add&#34; in the little confirmation popup&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Warning&lt;/h2&gt; &#xA;&lt;p&gt;This extension is still in work in progress, if there is any issue please report it.&lt;/p&gt;</summary>
+  </entry>
 </feed>
