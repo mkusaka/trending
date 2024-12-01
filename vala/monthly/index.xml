@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vala Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-01T01:59:02Z</updated>
+  <subtitle>Monthly Trending of Vala in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Aylur/astal</title>
+    <updated>2024-12-01T01:59:02Z</updated>
+    <id>tag:github.com,2024-12-01:/Aylur/astal</id>
+    <link href="https://github.com/Aylur/astal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Building blocks for creating custom desktop shells&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>calo001/fondo</title>
+    <updated>2024-12-01T01:59:02Z</updated>
+    <id>tag:github.com,2024-12-01:/calo001/fondo</id>
+    <link href="https://github.com/calo001/fondo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📷 Wallpaper App for Linux&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

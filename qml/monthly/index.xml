@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub QML Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-01T01:57:27Z</updated>
+  <subtitle>Monthly Trending of QML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>luisbocanegra/plasma-panel-colorizer</title>
+    <updated>2024-12-01T01:57:27Z</updated>
+    <id>tag:github.com,2024-12-01:/luisbocanegra/plasma-panel-colorizer</id>
+    <link href="https://github.com/luisbocanegra/plasma-panel-colorizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Latte-Dock and WM status bar customization features for the default KDE Plasma panel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

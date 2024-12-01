@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-01T01:40:53Z</updated>
+  <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app</title>
+    <updated>2024-12-01T01:40:53Z</updated>
+    <id>tag:github.com,2024-12-01:/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app</id>
+    <link href="https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A sample Express.js app using a MongoDB database to show how to host Node.js app in Azure App service using Azure Cosmos DB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

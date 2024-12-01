@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HTML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-01T01:43:15Z</updated>
+  <subtitle>Weekly Trending of HTML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tpn/pdfs</title>
+    <updated>2024-12-01T01:43:15Z</updated>
+    <id>tag:github.com,2024-12-01:/tpn/pdfs</id>
+    <link href="https://github.com/tpn/pdfs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>brave/brave-core</title>
+    <updated>2024-12-01T01:43:15Z</updated>
+    <id>tag:github.com,2024-12-01:/brave/brave-core</id>
+    <link href="https://github.com/brave/brave-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Brave Core&lt;/h1&gt; &#xA;&lt;p&gt;Brave Core is a set of changes, APIs, and scripts used for customizing Chromium to make the Brave browser. Please also check &lt;a href=&#34;https://github.com/brave/brave-browser&#34;&gt;https://github.com/brave/brave-browser&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Follow &lt;a href=&#34;https://twitter.com/brave&#34;&gt;@brave&lt;/a&gt; on Twitter for important announcements.&lt;/p&gt; &#xA;&lt;h2&gt;Resources&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/brave/brave-browser/issues&#34;&gt;Issues&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/brave/brave-browser/releases&#34;&gt;Releases&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/brave/brave-browser/wiki&#34;&gt;Documentation wiki&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Community&lt;/h2&gt; &#xA;&lt;p&gt;You can ask questions and interact with the community in the following locations:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://community.brave.com/&#34;&gt;Brave Community&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://bravesoftware.slack.com&#34;&gt;&lt;code&gt;community&lt;/code&gt;&lt;/a&gt; channel on Brave Software&#39;s Slack&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+</feed>
