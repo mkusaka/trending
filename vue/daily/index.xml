@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-01T01:39:58Z</updated>
+  <updated>2024-12-02T01:36:32Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Bronya0/Kafka-King</title>
-    <updated>2024-12-01T01:39:58Z</updated>
-    <id>tag:github.com,2024-12-01:/Bronya0/Kafka-King</id>
-    <link href="https://github.com/Bronya0/Kafka-King" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern and practical kafka GUI client | 一个现代、实用的kafka本地客户端&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
