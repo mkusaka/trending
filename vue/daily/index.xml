@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-02T01:36:32Z</updated>
+  <updated>2024-12-03T01:37:24Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Bug-Duck/vuemotion</title>
+    <updated>2024-12-03T01:37:24Z</updated>
+    <id>tag:github.com,2024-12-03:/Bug-Duck/vuemotion</id>
+    <link href="https://github.com/Bug-Duck/vuemotion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The next-generation animation engine for Vuejs Ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
