@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-03T01:28:56Z</updated>
+  <updated>2024-12-04T01:28:53Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Aethersailor/Custom_OpenClash_Rules</title>
-    <updated>2024-12-03T01:28:56Z</updated>
-    <id>tag:github.com,2024-12-03:/Aethersailor/Custom_OpenClash_Rules</id>
-    <link href="https://github.com/Aethersailor/Custom_OpenClash_Rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
