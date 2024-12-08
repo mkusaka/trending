@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Shell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-08T01:45:41Z</updated>
+  <subtitle>Weekly Trending of Shell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>overleaf/toolkit</title>
+    <updated>2024-12-08T01:45:41Z</updated>
+    <id>tag:github.com,2024-12-08:/overleaf/toolkit</id>
+    <link href="https://github.com/overleaf/toolkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Overleaf Toolkit&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains the Overleaf Toolkit, the standard tools for running a local instance of &lt;a href=&#34;https://overleaf.com&#34;&gt;Overleaf&lt;/a&gt;. This toolkit will help you to set up and administer both Overleaf Community Edition (free to use, and community supported), and Overleaf Server Pro (commercial, with professional support).&lt;/p&gt; &#xA;&lt;p&gt;The &lt;a href=&#34;https://github.com/overleaf/overleaf/wiki&#34;&gt;Developer wiki&lt;/a&gt; contains further documentation on releases, features and other configuration elements.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;Clone this repository locally:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;git clone https://github.com/overleaf/toolkit.git ./overleaf-toolkit&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then follow the &lt;a href=&#34;https://raw.githubusercontent.com/overleaf/toolkit/master/doc/quick-start-guide.md&#34;&gt;Quick Start Guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://raw.githubusercontent.com/overleaf/toolkit/master/doc/README.md&#34;&gt;Documentation Index&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://github.com/overleaf/overleaf/raw/main/CONTRIBUTING.md&#34;&gt;CONTRIBUTING&lt;/a&gt; file.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Help&lt;/h2&gt; &#xA;&lt;p&gt;Users of the free Community Edition should &lt;a href=&#34;https://github.com/overleaf/toolkit/issues&#34;&gt;open an issue on github&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Users of Server Pro should contact &lt;code&gt;support@overleaf.com&lt;/code&gt; for assistance.&lt;/p&gt; &#xA;&lt;p&gt;In both cases, it is a good idea to include the output of the &lt;code&gt;bin/doctor&lt;/code&gt; script in your message.&lt;/p&gt;</summary>
+  </entry>
+</feed>

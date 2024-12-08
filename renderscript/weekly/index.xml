@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub RenderScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-08T01:45:03Z</updated>
+  <subtitle>Weekly Trending of RenderScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mTvare6/hello-world.rs</title>
+    <updated>2024-12-08T01:45:03Z</updated>
+    <id>tag:github.com,2024-12-08:/mTvare6/hello-world.rs</id>
+    <link href="https://github.com/mTvare6/hello-world.rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

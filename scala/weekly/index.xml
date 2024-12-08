@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scala Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-08T01:45:35Z</updated>
+  <subtitle>Weekly Trending of Scala in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aimacode/aima-scala</title>
+    <updated>2024-12-08T01:45:35Z</updated>
+    <id>tag:github.com,2024-12-08:/aimacode/aima-scala</id>
+    <link href="https://github.com/aimacode/aima-scala" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;img src=&#34;https://github.com/aimacode/aima-java/raw/gh-pages/aima3e/images/aima3e.jpg&#34; alt=&#34;&#34;&gt;aima-scala &lt;a href=&#34;https://travis-ci.org/aimacode/aima-scala&#34;&gt;&lt;img src=&#34;https://travis-ci.org/aimacode/aima-scala.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://gitter.im/aima-scala/community?utm_source=badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=pr-badge&#34;&gt;&lt;img src=&#34;https://badges.gitter.im/aima-scala/community.svg?sanitize=true&#34; alt=&#34;Gitter&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;Scala implementation of algorithms from &lt;a href=&#34;http://www.cs.berkeley.edu/~russell/&#34;&gt;Russell&lt;/a&gt; And &lt;a href=&#34;http://www.norvig.com/&#34;&gt;Norvig&#39;s&lt;/a&gt; &lt;a href=&#34;http://aima.cs.berkeley.edu/&#34;&gt;Artificial Intelligence - A Modern Approach 3rd Edition&lt;/a&gt;. You can use this in conjunction with a course on AI, or for study on your own.&lt;/p&gt; &#xA;&lt;h2&gt;Formating the code&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt scalafmt&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Test Coverage&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;sbt &#34;;clean;test&#34;&#xA;sbt coverageReport&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;reports are generated in the target/scoverage-report folder of the sub-projects&lt;/p&gt;</summary>
+  </entry>
+</feed>

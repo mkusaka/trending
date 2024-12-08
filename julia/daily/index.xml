@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-07T01:32:04Z</updated>
+  <updated>2024-12-08T01:32:26Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaGeometry/MeshIntegrals.jl</title>
-    <updated>2024-12-07T01:32:04Z</updated>
-    <id>tag:github.com,2024-12-07:/JuliaGeometry/MeshIntegrals.jl</id>
-    <link href="https://github.com/JuliaGeometry/MeshIntegrals.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Numerical integration over Meshes.jl geometry domains&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaHEP/JetReconstruction.jl</title>
+    <updated>2024-12-08T01:32:26Z</updated>
+    <id>tag:github.com,2024-12-08:/JuliaHEP/JetReconstruction.jl</id>
+    <link href="https://github.com/JuliaHEP/JetReconstruction.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jet reconstruction (reclustering) with Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
