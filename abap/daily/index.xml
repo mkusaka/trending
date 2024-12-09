@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ABAP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-08T01:29:08Z</updated>
+  <updated>2024-12-09T01:28:59Z</updated>
   <subtitle>Daily Trending of ABAP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SAP/abap-file-formats</title>
-    <updated>2024-12-08T01:29:08Z</updated>
-    <id>tag:github.com,2024-12-08:/SAP/abap-file-formats</id>
-    <link href="https://github.com/SAP/abap-file-formats" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;File formats that define and specify the file representation for ABAP development objects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
