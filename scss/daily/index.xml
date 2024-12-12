@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-11T01:36:11Z</updated>
+  <updated>2024-12-12T01:35:26Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LeelaChessZero/lczero.org</title>
+    <updated>2024-12-12T01:35:26Z</updated>
+    <id>tag:github.com,2024-12-12:/LeelaChessZero/lczero.org</id>
+    <link href="https://github.com/LeelaChessZero/lczero.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A website (will be lczero.org)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
