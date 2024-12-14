@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-13T01:28:58Z</updated>
+  <updated>2024-12-14T01:28:38Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>amilajack/reading</title>
-    <updated>2024-12-13T01:28:58Z</updated>
-    <id>tag:github.com,2024-12-13:/amilajack/reading</id>
-    <link href="https://github.com/amilajack/reading" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of computer-science readings I recommend&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

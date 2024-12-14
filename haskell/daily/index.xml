@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-13T01:31:55Z</updated>
+  <updated>2024-12-14T01:31:13Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mchav/dataframe</title>
-    <updated>2024-12-13T01:31:55Z</updated>
-    <id>tag:github.com,2024-12-13:/mchav/dataframe</id>
-    <link href="https://github.com/mchav/dataframe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An intuitive, dynamically-typed DataFrame library.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DataFrame&lt;/h1&gt; &#xA;&lt;p&gt;An intuitive, dynamically-typed DataFrame library.&lt;/p&gt; &#xA;&lt;p&gt;Goals:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Exploratory data analysis&lt;/li&gt; &#xA; &lt;li&gt;Shallow learning curve&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Non-goals:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Static types/strong type-safety&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Example usage&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/mchav/dataframe/main/static/example.gif&#34; alt=&#34;Screencast of usage in GHCI&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Longer form examples in &lt;code&gt;./app&lt;/code&gt; folder using many of the constructs in the API.&lt;/p&gt; &#xA;&lt;p&gt;Future work:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Apache arrow and Parquet compatability&lt;/li&gt; &#xA; &lt;li&gt;Integration with common data formats (currently only supports CSV)&lt;/li&gt; &#xA; &lt;li&gt;Support windowed plotting (currently only supports ASCII plots)&lt;/li&gt; &#xA; &lt;li&gt;Create a lazy API that builds an execution graph instead of running eagerly (will be used to compute on files larger than RAM)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
