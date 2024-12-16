@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Python Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-15T01:36:57Z</updated>
+  <updated>2024-12-16T01:36:41Z</updated>
   <subtitle>Daily Trending of Python in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chainstacklabs/pump-fun-bot</title>
+    <updated>2024-12-16T01:36:41Z</updated>
+    <id>tag:github.com,2024-12-16:/chainstacklabs/pump-fun-bot</id>
+    <link href="https://github.com/chainstacklabs/pump-fun-bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fully functional pump.fun trading and sniping bot not relying on any 3rd party APIs&lt;/p&gt;&lt;hr&gt;&lt;p&gt;For the full walkthrough, see &lt;a href=&#34;https://docs.chainstack.com/docs/solana-creating-a-pumpfun-bot&#34;&gt;Solana: Creating a trading and sniping pump.fun bot&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;For near-instantaneous transaction propagation, you can use the &lt;a href=&#34;https://docs.chainstack.com/docs/warp-transactions&#34;&gt;Chainstack Solana Trader nodes&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://console.chainstack.com&#34;&gt;Sign up with Chainstack&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Alvin9999/new-pac</title>
+    <updated>2024-12-16T01:36:41Z</updated>
+    <id>tag:github.com,2024-12-16:/Alvin9999/new-pac</id>
+    <link href="https://github.com/Alvin9999/new-pac" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子&lt;/p&gt;&lt;hr&gt;&lt;p&gt;科学上网-翻墙、免费翻墙、免费科学上网、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/Alvin9999/new-pac/wiki&#34;&gt;https://github.com/Alvin9999/new-pac/wiki&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;北京时间2024年12月16日09点03分更新。&lt;/p&gt;</summary>
+  </entry>
 </feed>
