@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-16T01:28:53Z</updated>
+  <updated>2024-12-17T01:28:49Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>acdlite/react-fiber-architecture</title>
-    <updated>2024-12-16T01:28:53Z</updated>
-    <id>tag:github.com,2024-12-16:/acdlite/react-fiber-architecture</id>
-    <link href="https://github.com/acdlite/react-fiber-architecture" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A description of React&#39;s new core algorithm, React Fiber&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
