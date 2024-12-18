@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-17T01:28:49Z</updated>
+  <updated>2024-12-18T01:29:15Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>run-llama/llamacloud-demo</title>
+    <updated>2024-12-18T01:29:15Z</updated>
+    <id>tag:github.com,2024-12-18:/run-llama/llamacloud-demo</id>
+    <link href="https://github.com/run-llama/llamacloud-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hijkzzz/Awesome-LLM-Strawberry</title>
+    <updated>2024-12-18T01:29:15Z</updated>
+    <id>tag:github.com,2024-12-18:/hijkzzz/Awesome-LLM-Strawberry</id>
+    <link href="https://github.com/hijkzzz/Awesome-LLM-Strawberry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

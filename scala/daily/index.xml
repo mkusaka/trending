@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-17T01:35:36Z</updated>
+  <updated>2024-12-18T01:38:54Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>effekt-lang/effekt</title>
-    <updated>2024-12-17T01:35:36Z</updated>
-    <id>tag:github.com,2024-12-17:/effekt-lang/effekt</id>
-    <link href="https://github.com/effekt-lang/effekt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A language with lexical effect handlers and lightweight effect polymorphism&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ξ Effekt&lt;/h1&gt; &#xA;&lt;p&gt;Compared to other languages with effect handlers (and support for polymorphic effects) the Effekt language aims to be significantly more lightweight in its concepts.&lt;/p&gt; &#xA;&lt;h2&gt;Disclaimer: Use at your own risk&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;Effekt is a research-level language. We are actively working on it and the language (and everything else) is very likely to change.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;Also, Effekt comes with no warranty and there are (probably) many bugs -- If this does not discourage you, feel free to play with it and give us your feedback :)&lt;/p&gt; &#xA;&lt;h2&gt;Examples&lt;/h2&gt; &#xA;&lt;p&gt;If you are looking for examples of the Effekt language, we invite you to look at the &lt;a href=&#34;https://github.com/effekt-lang/effekt/tree/master/examples/casestudies&#34;&gt;casestudies&lt;/a&gt; and the &lt;a href=&#34;https://effekt-lang.org/tour&#34;&gt;language tour&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Please navigate to the &lt;a href=&#34;https://effekt-lang.org/docs&#34;&gt;getting-started guide&lt;/a&gt; on our &lt;a href=&#34;https://effekt-lang.org&#34;&gt;website&lt;/a&gt; for detailed instructions of how to install Effekt.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Thanks for considering to contribute to the Effekt compiler! For setting up your local environment, please check out our &lt;a href=&#34;https://effekt-lang.org/contributing.html&#34;&gt;contributing guide&lt;/a&gt; on the &lt;a href=&#34;https://effekt-lang.org&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>
