@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-19T01:38:26Z</updated>
+  <updated>2024-12-20T01:38:51Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jd-opensource/nutui</title>
-    <updated>2024-12-19T01:38:26Z</updated>
-    <id>tag:github.com,2024-12-19:/jd-opensource/nutui</id>
-    <link href="https://github.com/jd-opensource/nutui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
