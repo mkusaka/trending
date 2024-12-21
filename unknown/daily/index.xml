@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-20T01:28:35Z</updated>
+  <updated>2024-12-21T01:28:18Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TalEliyahu/awesome-security-newsletters</title>
-    <updated>2024-12-20T01:28:35Z</updated>
-    <id>tag:github.com,2024-12-20:/TalEliyahu/awesome-security-newsletters</id>
-    <link href="https://github.com/TalEliyahu/awesome-security-newsletters" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PatrickJS/awesome-cursorrules</title>
+    <updated>2024-12-21T01:28:18Z</updated>
+    <id>tag:github.com,2024-12-21:/PatrickJS/awesome-cursorrules</id>
+    <link href="https://github.com/PatrickJS/awesome-cursorrules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📄 A curated list of awesome .cursorrules files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wwb521/live</title>
-    <updated>2024-12-20T01:28:35Z</updated>
-    <id>tag:github.com,2024-12-20:/wwb521/live</id>
-    <link href="https://github.com/wwb521/live" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;更新高质量电视直播源，欢迎大家使用，永久免费&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>phmullins/awesome-macos</title>
+    <updated>2024-12-21T01:28:18Z</updated>
+    <id>tag:github.com,2024-12-21:/phmullins/awesome-macos</id>
+    <link href="https://github.com/phmullins/awesome-macos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome software for Apple&#39;s macOS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
