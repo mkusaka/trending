@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Gleam Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-22T01:41:46Z</updated>
+  <subtitle>Weekly Trending of Gleam in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>giacomocavalieri/squirrel</title>
+    <updated>2024-12-22T01:41:46Z</updated>
+    <id>tag:github.com,2024-12-22:/giacomocavalieri/squirrel</id>
+    <link href="https://github.com/giacomocavalieri/squirrel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐿️ Type safe SQL in Gleam&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

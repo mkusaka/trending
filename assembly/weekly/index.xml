@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-22T01:39:36Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>apache/arrow-go</title>
+    <updated>2024-12-22T01:39:36Z</updated>
+    <id>tag:github.com,2024-12-22:/apache/arrow-go</id>
+    <link href="https://github.com/apache/arrow-go" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Go implementation of Apache Arrow&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

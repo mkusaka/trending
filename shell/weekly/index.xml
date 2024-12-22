@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Shell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2024-12-22T01:50:45Z</updated>
+  <subtitle>Weekly Trending of Shell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>n8n-io/n8n-hosting</title>
+    <updated>2024-12-22T01:50:45Z</updated>
+    <id>tag:github.com,2024-12-22:/n8n-io/n8n-hosting</id>
+    <link href="https://github.com/n8n-io/n8n-hosting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example of self-hosting n8n in various environments like docker, kubernetes, etc.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;n8n-hosting&lt;/h1&gt;</summary>
+  </entry>
+</feed>

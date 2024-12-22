@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-21T01:28:18Z</updated>
+  <updated>2024-12-22T01:28:40Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PatrickJS/awesome-cursorrules</title>
-    <updated>2024-12-21T01:28:18Z</updated>
-    <id>tag:github.com,2024-12-21:/PatrickJS/awesome-cursorrules</id>
-    <link href="https://github.com/PatrickJS/awesome-cursorrules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📄 A curated list of awesome .cursorrules files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>phmullins/awesome-macos</title>
-    <updated>2024-12-21T01:28:18Z</updated>
-    <id>tag:github.com,2024-12-21:/phmullins/awesome-macos</id>
-    <link href="https://github.com/phmullins/awesome-macos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome software for Apple&#39;s macOS.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
