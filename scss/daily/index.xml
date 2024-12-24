@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-23T01:35:46Z</updated>
+  <updated>2024-12-24T01:37:46Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ermongroup/cs228-notes</title>
+    <updated>2024-12-24T01:37:46Z</updated>
+    <id>tag:github.com,2024-12-24:/ermongroup/cs228-notes</id>
+    <link href="https://github.com/ermongroup/cs228-notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course notes for CS228: Probabilistic Graphical Models.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

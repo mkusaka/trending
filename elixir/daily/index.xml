@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-23T01:31:02Z</updated>
+  <updated>2024-12-24T01:30:51Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dwyl/quotes</title>
-    <updated>2024-12-23T01:31:02Z</updated>
-    <id>tag:github.com,2024-12-23:/dwyl/quotes</id>
-    <link href="https://github.com/dwyl/quotes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💬 a curated list of quotes that inspire action + code that returns quotes by tag/author/etc. 💡&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
