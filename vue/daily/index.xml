@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-24T01:38:57Z</updated>
+  <updated>2024-12-25T01:36:14Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LinJHS/AntiRec</title>
-    <updated>2024-12-24T01:38:57Z</updated>
-    <id>tag:github.com,2024-12-24:/LinJHS/AntiRec</id>
-    <link href="https://github.com/LinJHS/AntiRec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cross-platform client application designed for real-time audio capture, processing, and playback. Built using the Tauri framework, AntiRec provides a seamless experience across different operating systems, enabling efficient and portable audio handling capabilities.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
