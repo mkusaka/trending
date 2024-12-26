@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-25T01:32:39Z</updated>
+  <updated>2024-12-26T01:32:25Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sudar/Arduino-Makefile</title>
-    <updated>2024-12-25T01:32:39Z</updated>
-    <id>tag:github.com,2024-12-25:/sudar/Arduino-Makefile</id>
-    <link href="https://github.com/sudar/Arduino-Makefile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Makefile for Arduino sketches. It defines the workflows for compiling code, flashing it to Arduino and even communicating through Serial.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
