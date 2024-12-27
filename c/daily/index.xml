@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-26T01:28:55Z</updated>
+  <updated>2024-12-27T01:29:07Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>libsdl-org/SDL_ttf</title>
-    <updated>2024-12-26T01:28:55Z</updated>
-    <id>tag:github.com,2024-12-26:/libsdl-org/SDL_ttf</id>
-    <link href="https://github.com/libsdl-org/SDL_ttf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Support for TrueType (.ttf) font files with Simple Directmedia Layer.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;SDL_ttf 3.0&lt;/p&gt; &#xA;&lt;p&gt;The latest version of this library is available from GitHub: &lt;a href=&#34;https://github.com/libsdl-org/SDL_ttf/releases&#34;&gt;https://github.com/libsdl-org/SDL_ttf/releases&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This library is a wrapper around the FreeType and Harfbuzz libraries, allowing you to use TrueType fonts to render text in SDL applications.&lt;/p&gt; &#xA;&lt;p&gt;See the header file SDL_ttf.h and the example showfont.c for documentation on this library. This documentation is also available online at &lt;a href=&#34;https://wiki.libsdl.org/SDL_ttf&#34;&gt;https://wiki.libsdl.org/SDL_ttf&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Be careful when including fonts with your application, as many of them are copyrighted. The Microsoft fonts, for example, are not freely redistributable and even the free &#34;web&#34; fonts they provide are only redistributable in their special executable installer form (May 1998). There are plenty of freeware and shareware fonts available on the Internet though, and may suit your purposes.&lt;/p&gt; &#xA;&lt;p&gt;This library is under the zlib license, see the file &#34;LICENSE.txt&#34; for details.&lt;/p&gt; &#xA;&lt;p&gt;Portions of this software are copyright © 2013 The FreeType Project (&lt;a href=&#34;http://www.freetype.org&#34;&gt;www.freetype.org&lt;/a&gt;). All rights reserved.&lt;/p&gt;</summary>
-  </entry>
 </feed>

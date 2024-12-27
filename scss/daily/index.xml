@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-26T01:34:55Z</updated>
+  <updated>2024-12-27T01:37:24Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vpnfast/vpnfast.github.io</title>
+    <updated>2024-12-27T01:37:24Z</updated>
+    <id>tag:github.com,2024-12-27:/vpnfast/vpnfast.github.io</id>
+    <link href="https://github.com/vpnfast/vpnfast.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2024翻墙科学上网指南，最新最好用的翻墙VPN推荐排行，持续关注SSR、V2ray代理、VPN、梯子等翻墙工具，中国访问ChatGPT使用AI方法。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

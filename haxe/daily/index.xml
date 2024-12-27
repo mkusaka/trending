@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-26T01:31:06Z</updated>
+  <updated>2024-12-27T01:31:18Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>haxetink/tink_http</title>
+    <updated>2024-12-27T01:31:18Z</updated>
+    <id>tag:github.com,2024-12-27:/haxetink/tink_http</id>
+    <link href="https://github.com/haxetink/tink_http" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross platform HTTP abstraction&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Tink HTTP&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/haxetink/tink_http/actions&#34;&gt;&lt;img src=&#34;https://github.com/haxetink/tink_http/actions/workflows/ci.yml/badge.svg?sanitize=true&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://gitter.im/haxetink/public&#34;&gt;&lt;img src=&#34;https://badges.gitter.im/Join%20Chat.svg?sanitize=true&#34; alt=&#34;Gitter&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Tink HTTP provides a cross platform abstraction over the server and client side of HTTP, based on asynchronous immutable streams. Its API is an attempt to expose the protocol as directly as possible. While it can be used directly, it is meant as an abstraction layer to build frameworks on.&lt;/p&gt; &#xA;&lt;p&gt;Documentations: &lt;a href=&#34;https://haxetink.github.io/tink_http&#34;&gt;https://haxetink.github.io/tink_http&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
