@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-12-29T01:51:50Z</updated>
+  <subtitle>Weekly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lightpanda-io/browser</title>
+    <updated>2025-12-29T01:51:50Z</updated>
+    <id>tag:github.com,2025-12-29:/lightpanda-io/browser</id>
+    <link href="https://github.com/lightpanda-io/browser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The open-source browser made for headless usage&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>natecraddock/ziglua</title>
+    <updated>2025-12-29T01:51:50Z</updated>
+    <id>tag:github.com,2025-12-29:/natecraddock/ziglua</id>
+    <link href="https://github.com/natecraddock/ziglua" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zig bindings for the Lua C API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

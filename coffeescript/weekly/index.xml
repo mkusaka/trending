@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-12-29T01:40:09Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oozcitak/xmlbuilder-js</title>
+    <updated>2025-12-29T01:40:09Z</updated>
+    <id>tag:github.com,2025-12-29:/oozcitak/xmlbuilder-js</id>
+    <link href="https://github.com/oozcitak/xmlbuilder-js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An XML builder for node.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

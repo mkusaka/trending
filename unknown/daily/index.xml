@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2024-12-28T01:28:04Z</updated>
+  <updated>2025-12-29T01:28:39Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shadps4-emu/shadps4-game-compatibility</title>
+    <updated>2025-12-29T01:28:39Z</updated>
+    <id>tag:github.com,2025-12-29:/shadps4-emu/shadps4-game-compatibility</id>
+    <link href="https://github.com/shadps4-emu/shadps4-game-compatibility" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shadps4 game compatibility&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>deepseek-ai/awesome-deepseek-integration</title>
+    <updated>2025-12-29T01:28:39Z</updated>
+    <id>tag:github.com,2025-12-29:/deepseek-ai/awesome-deepseek-integration</id>
+    <link href="https://github.com/deepseek-ai/awesome-deepseek-integration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

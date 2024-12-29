@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-12-29T01:42:03Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/terraform-azurerm-avm-res-network-virtualnetwork</title>
+    <updated>2025-12-29T01:42:03Z</updated>
+    <id>tag:github.com,2025-12-29:/Azure/terraform-azurerm-avm-res-network-virtualnetwork</id>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-res-network-virtualnetwork" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Verified Module for Virtual Network&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-google-modules/terraform-google-container-vm</title>
+    <updated>2025-12-29T01:42:03Z</updated>
+    <id>tag:github.com,2025-12-29:/terraform-google-modules/terraform-google-container-vm</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-container-vm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deploys containers on Compute Engine instances&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/terraform-azurerm-avm-res-keyvault-vault</title>
+    <updated>2025-12-29T01:42:03Z</updated>
+    <id>tag:github.com,2025-12-29:/Azure/terraform-azurerm-avm-res-keyvault-vault</id>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Verified Module for Key Vault&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
