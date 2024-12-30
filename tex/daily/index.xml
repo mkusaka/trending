@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-12-29T01:38:01Z</updated>
+  <updated>2025-12-30T01:36:34Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>QuantEcon/lecture-python-advanced.myst</title>
+    <updated>2025-12-30T01:36:34Z</updated>
+    <id>tag:github.com,2025-12-30:/QuantEcon/lecture-python-advanced.myst</id>
+    <link href="https://github.com/QuantEcon/lecture-python-advanced.myst" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advanced Quantitative Economics with Python&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Advanced Quantitative Economics with Python&lt;/h1&gt; &#xA;&lt;p&gt;This website presents a set of advanced lectures on quantitative economic modeling.&lt;/p&gt; &#xA;&lt;h2&gt;Jupyter notebooks&lt;/h2&gt; &#xA;&lt;p&gt;Jupyter notebook versions of each lecture are available for download via the website.&lt;/p&gt; &#xA;&lt;h2&gt;Contributions&lt;/h2&gt; &#xA;&lt;p&gt;To comment on the lectures please add to or open an issue in the issue tracker (see above).&lt;/p&gt; &#xA;&lt;p&gt;We welcome pull requests!&lt;/p&gt; &#xA;&lt;p&gt;Please read the &lt;a href=&#34;https://manual.quantecon.org/intro.html&#34;&gt;QuantEcon style guide&lt;/a&gt; first, so that you can match our style.&lt;/p&gt;</summary>
+  </entry>
 </feed>
