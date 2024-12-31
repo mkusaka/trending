@@ -106,11 +106,11 @@ __metadata:
   linkType: hard
 
 "fastq@npm:^1.6.0":
-  version: 1.17.1
-  resolution: "fastq@npm:1.17.1"
+  version: 1.18.0
+  resolution: "fastq@npm:1.18.0"
   dependencies:
     reusify: ^1.0.4
-  checksum: d2c45fc4875d6351a372e9fc21f96fe6003328af4ebbcbbc4472748bf9622c404aab521a9cf7a5ab9689782f685a466d893c66c215f0f92f26bc32e1cde0abf2
+  checksum: 6b739390741fb51633abef4be13ed800d7ad8b41607ee20844a87e7ee4c50ab3794e0d04ebf2282a33243004e16933951278336b7280d34a702f9e073729f606
   languageName: node
   linkType: hard
 
