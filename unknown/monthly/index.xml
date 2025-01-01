@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-01-01T01:46:08Z</updated>
+  <subtitle>Monthly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PatrickJS/awesome-cursorrules</title>
+    <updated>2025-01-01T01:46:08Z</updated>
+    <id>tag:github.com,2025-01-01:/PatrickJS/awesome-cursorrules</id>
+    <link href="https://github.com/PatrickJS/awesome-cursorrules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📄 A curated list of awesome .cursorrules files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ByteByteGoHq/system-design-101</title>
+    <updated>2025-01-01T01:46:08Z</updated>
+    <id>tag:github.com,2025-01-01:/ByteByteGoHq/system-design-101</id>
+    <link href="https://github.com/ByteByteGoHq/system-design-101" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>trimstray/the-book-of-secret-knowledge</title>
+    <updated>2025-01-01T01:46:08Z</updated>
+    <id>tag:github.com,2025-01-01:/trimstray/the-book-of-secret-knowledge</id>
+    <link href="https://github.com/trimstray/the-book-of-secret-knowledge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

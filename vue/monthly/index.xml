@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-01-01T01:57:12Z</updated>
+  <subtitle>Monthly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>frappe/crm</title>
+    <updated>2025-01-01T01:57:12Z</updated>
+    <id>tag:github.com,2025-01-01:/frappe/crm</id>
+    <link href="https://github.com/frappe/crm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fully featured, open source CRM&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>imsyy/SPlayer</title>
+    <updated>2025-01-01T01:57:12Z</updated>
+    <id>tag:github.com,2025-01-01:/imsyy/SPlayer</id>
+    <link href="https://github.com/imsyy/SPlayer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenCSGs/csghub</title>
+    <updated>2025-01-01T01:57:12Z</updated>
+    <id>tag:github.com,2025-01-01:/OpenCSGs/csghub</id>
+    <link href="https://github.com/OpenCSGs/csghub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CSGHub is an open-source large model platform just like on-premise version of Hugging Face. You can easily manage models and datasets, deploy model applications and setup model finetune or inference jobs with user interface. CSGHub also provides Python SDK with full compatibility of hf sdk. Join us together to build a safer and more open platform⭐️&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

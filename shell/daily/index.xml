@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-12-31T01:36:44Z</updated>
+  <updated>2025-01-01T01:35:46Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TRaSH-Guides/Guides</title>
-    <updated>2025-12-31T01:36:44Z</updated>
-    <id>tag:github.com,2025-12-31:/TRaSH-Guides/Guides</id>
-    <link href="https://github.com/TRaSH-Guides/Guides" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it&lt;/h1&gt; &#xA;&lt;p&gt;I have switched to MkDocs, sorry if we broke your links. The same content is available here: &lt;a href=&#34;https://trash-guides.info/&#34;&gt;trash-guides.info&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

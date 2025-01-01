@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-12-31T01:28:17Z</updated>
+  <updated>2025-01-01T01:28:48Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tycrek/degoogle</title>
-    <updated>2025-12-31T01:28:17Z</updated>
-    <id>tag:github.com,2025-12-31:/tycrek/degoogle</id>
-    <link href="https://github.com/tycrek/degoogle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A huge list of alternatives to Google products. Privacy tips, tricks, and links.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>skills/hello-github-actions</title>
-    <updated>2025-12-31T01:28:17Z</updated>
-    <id>tag:github.com,2025-12-31:/skills/hello-github-actions</id>
-    <link href="https://github.com/skills/hello-github-actions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create a GitHub Action and use it in a workflow.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-12-31T01:30:48Z</updated>
+  <updated>2025-01-01T01:31:46Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>haxiomic/GPU-Fluid-Experiments</title>
+    <updated>2025-01-01T01:31:46Z</updated>
+    <id>tag:github.com,2025-01-01:/haxiomic/GPU-Fluid-Experiments</id>
+    <link href="https://github.com/haxiomic/GPU-Fluid-Experiments" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Cross-platform GPU fluid simulation&lt;/h1&gt; &#xA;&lt;h3&gt;&lt;a href=&#34;http://haxiomic.github.io/GPU-Fluid-Experiments/html5/&#34;&gt;Demo&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;p&gt;This repo is a little old and dusty and likely doesn&#39;t build with the latest tools, If you&#39;re looking for a version with working build instructions check out &lt;a href=&#34;https://github.com/ollyc2015/BathBombFluidDynamics&#34;&gt;this fork: BathBombFluidDynamics&lt;/a&gt; by &lt;a href=&#34;https://github.com/ollyc2015&#34;&gt;Oliver Curtis&lt;/a&gt; which adds some interesting effects.&lt;/p&gt; &#xA;&lt;p&gt;I&#39;m currently working on a rewrite so watch this space :)&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;If you have an idea and you want to collaborate, feel free to get in touch with me &lt;a href=&#34;mailto:haxiomic@gmail.com&#34;&gt;haxiomic@gmail.com&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
