@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-02T01:28:21Z</updated>
+  <updated>2025-01-03T01:28:16Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>matildaexp/remote-latam</title>
+    <updated>2025-01-03T01:28:16Z</updated>
+    <id>tag:github.com,2025-01-03:/matildaexp/remote-latam</id>
+    <link href="https://github.com/matildaexp/remote-latam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated collection of US and high-income country tech job opportunities open to Latin American professionals&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

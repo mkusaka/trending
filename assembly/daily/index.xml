@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-02T01:28:42Z</updated>
+  <updated>2025-01-03T01:28:35Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>agnilondapakou/helloWorld</title>
+    <updated>2025-01-03T01:28:35Z</updated>
+    <id>tag:github.com,2025-01-03:/agnilondapakou/helloWorld</id>
+    <link href="https://github.com/agnilondapakou/helloWorld" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hello world is an Open Source project for programming beginners. It consists in providing a program that returns the “Hello World” message in the programming language you know.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

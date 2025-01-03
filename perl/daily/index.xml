@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-02T01:33:38Z</updated>
+  <updated>2025-01-03T01:35:48Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nginx/nginx-tests</title>
+    <updated>2025-01-03T01:35:48Z</updated>
+    <id>tag:github.com,2025-01-03:/nginx/nginx-tests</id>
+    <link href="https://github.com/nginx/nginx-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Test suite for nginx.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Test suite for nginx.&lt;/p&gt; &#xA;&lt;p&gt;Use prove to run tests as one usually do for perl tests. Individual tests may be run as well.&lt;/p&gt; &#xA;&lt;p&gt;Note: tests run nginx (and backend daemons if needed) listening on localhost and may use various ports in 8000 .. 8999 range.&lt;/p&gt; &#xA;&lt;p&gt;Usage:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ TEST_NGINX_BINARY=/path/to/nginx prove .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;By default tests expect nginx binary to be at ../nginx/objs/nginx.&lt;/p&gt; &#xA;&lt;p&gt;Environment variables:&lt;/p&gt; &#xA;&lt;p&gt;TEST_NGINX_BINARY&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Sets path to nginx binary to be tested, defaults to &#34;../nginx/objs/nginx&#34;.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;TEST_NGINX_MODULES&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Sets path to modules directory, defaults to dirname of TEST_NGINX_BINARY.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;TEST_NGINX_VERBOSE&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Be a bit more verbose (in particular, print requests sent and responses&#xA;got from nginx).  Note that this requires prove -v (or HARNESS_VERBOSE).&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;TEST_NGINX_LEAVE&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;If set, temporary directory with configs and logs won&#39;t be deleted on test&#xA;completion.  Useful for debugging.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;TEST_NGINX_CATLOG&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Cat error log to stdout after test completion.  Useful for debugging.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;TEST_NGINX_UNSAFE&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Run unsafe tests.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;TEST_NGINX_GLOBALS&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Sets additional directives in main context.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;TEST_NGINX_GLOBALS_HTTP&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Sets additional directives in http context.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;TEST_NGINX_GLOBALS_STREAM&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Sets additional directives in stream context.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Happy testing!&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-02T01:31:42Z</updated>
+  <updated>2025-01-03T01:31:35Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GoogleChrome/workbox</title>
-    <updated>2025-01-02T01:31:42Z</updated>
-    <id>tag:github.com,2025-01-02:/GoogleChrome/workbox</id>
-    <link href="https://github.com/GoogleChrome/workbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📦 Workbox: JavaScript libraries for Progressive Web Apps&lt;/p&gt;&lt;hr&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/110953/28352645-7a8a66d8-6c0c-11e7-83af-752609e7e072.png&#34; width=&#34;500px&#34;&gt; &#xA;&lt;h1&gt;Welcome to Workbox!&lt;/h1&gt; &#xA;&lt;p&gt;Workbox is a collection of JavaScript libraries for &lt;a href=&#34;https://web.dev/progressive-web-apps/&#34;&gt;Progressive Web Apps&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://developer.chrome.com/docs/workbox/&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://developer.chrome.com/docs/workbox/what-is-workbox&#34;&gt;Get started&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/GoogleChrome/workbox/v7/CONTRIBUTING.md&#34;&gt;Contribute&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Maintenance update&lt;/h2&gt; &#xA;&lt;p&gt;Workbox is a powerful library originally developed by members of Chrome&#39;s developer relations team to facilitate the creation of Progressive Web Apps and to improve the offline experience of web applications. It offers a suite of tools and strategies for efficiently caching and serving web assets, managing service workers, and handling offline scenarios. Workbox simplifies the implementation of common caching patterns and provides developers with a comprehensive toolkit to build robust, resilient web applications. From now on, &lt;a href=&#34;https://developer.chrome.com/docs/aurora&#34;&gt;Chrome&#39;s Aurora team&lt;/a&gt; will be the new owners of Workbox.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Development happens in the open on GitHub. We&#39;re thankful to the community for contributing any improvements.&lt;/p&gt; &#xA;&lt;p&gt;Please read the &lt;a href=&#34;https://raw.githubusercontent.com/GoogleChrome/workbox/v7/CONTRIBUTING.md&#34;&gt;guide to contributing&lt;/a&gt; for information about setting up your environment and other requirements prior to filing any pull requests.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;MIT. See &lt;a href=&#34;https://raw.githubusercontent.com/GoogleChrome/workbox/v7/LICENSE&#34;&gt;LICENSE&lt;/a&gt; for details.&lt;/p&gt;</summary>
-  </entry>
 </feed>
