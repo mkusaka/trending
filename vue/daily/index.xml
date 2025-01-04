@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-03T01:38:21Z</updated>
+  <updated>2025-01-04T01:43:15Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NOXCIS/Wiregate</title>
+    <updated>2025-01-04T01:43:15Z</updated>
+    <id>tag:github.com,2025-01-04:/NOXCIS/Wiregate</id>
+    <link href="https://github.com/NOXCIS/Wiregate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🥷🏼 WireGuard VPN Server with WGDashboard for UI + TOR + DnsCrypt + AmneziaWG&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

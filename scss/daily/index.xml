@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-03T01:37:11Z</updated>
+  <updated>2025-01-04T01:42:00Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CloudCannon/edition-jekyll-template</title>
+    <updated>2025-01-04T01:42:00Z</updated>
+    <id>tag:github.com,2025-01-04:/CloudCannon/edition-jekyll-template</id>
+    <link href="https://github.com/CloudCannon/edition-jekyll-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Product documentation template for Jekyll&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
