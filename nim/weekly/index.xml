@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nim Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-01-05T01:40:02Z</updated>
+  <subtitle>Weekly Trending of Nim in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nim-lang/nimforum</title>
+    <updated>2025-01-05T01:40:02Z</updated>
+    <id>tag:github.com,2025-01-05:/nim-lang/nimforum</id>
+    <link href="https://github.com/nim-lang/nimforum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight alternative to Discourse written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nim-lang/nimony</title>
+    <updated>2025-01-05T01:40:02Z</updated>
+    <id>tag:github.com,2025-01-05:/nim-lang/nimony</id>
+    <link href="https://github.com/nim-lang/nimony" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nimony is a new Nim implementation that is in heavy development.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>arnetheduck/nim-results</title>
+    <updated>2025-01-05T01:40:02Z</updated>
+    <id>tag:github.com,2025-01-05:/arnetheduck/nim-results</id>
+    <link href="https://github.com/arnetheduck/nim-results" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Friendly value-or-error type&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

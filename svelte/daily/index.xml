@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-04T01:42:29Z</updated>
+  <updated>2025-01-05T01:35:22Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KittyCAD/text-to-cad-ui</title>
+    <updated>2025-01-05T01:35:22Z</updated>
+    <id>tag:github.com,2025-01-05:/KittyCAD/text-to-cad-ui</id>
+    <link href="https://github.com/KittyCAD/text-to-cad-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight UI for interfacing with the Zoo text-to-cad API, built with SvelteKit.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
