@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-06T01:36:05Z</updated>
+  <updated>2025-01-07T01:36:19Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>openrisc/mor1kx</title>
-    <updated>2025-01-06T01:36:05Z</updated>
-    <id>tag:github.com,2025-01-06:/openrisc/mor1kx</id>
-    <link href="https://github.com/openrisc/mor1kx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;mor1kx - an OpenRISC 1000 processor IP core&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>YosysHQ/riscv-formal</title>
-    <updated>2025-01-06T01:36:05Z</updated>
-    <id>tag:github.com,2025-01-06:/YosysHQ/riscv-formal</id>
-    <link href="https://github.com/YosysHQ/riscv-formal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RISC-V Formal Verification Framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
