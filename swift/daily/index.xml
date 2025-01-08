@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-07T01:35:50Z</updated>
+  <updated>2025-01-08T01:35:52Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>khanhduytran0/SparseBox</title>
+    <updated>2025-01-08T01:35:52Z</updated>
+    <id>tag:github.com,2025-01-08:/khanhduytran0/SparseBox</id>
+    <link href="https://github.com/khanhduytran0/SparseBox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;On-device toolbox?&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;SparseBox&lt;/h1&gt; &#xA;&lt;p&gt;On-device backup restoration?&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; rewrote SparseRestore to swift&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;SideStore is recommended as you will also be getting the pairing file and setting up VPN.&lt;/p&gt; &#xA;&lt;p&gt;Download ipa from Actions tab or &lt;a href=&#34;https://nightly.link/khanhduytran0/SparseBox/workflows/build/main/artifact.zip&#34;&gt;nightly.link&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Before opening SparseBox, you have to close SideStore from app switcher. This is because only one app can use VPN proxy at a time. Maybe changing port could solve this issue.&lt;/p&gt; &#xA;&lt;h2&gt;Thanks to&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;@SideStore: em_proxy and minimuxer&lt;/li&gt; &#xA; &lt;li&gt;@JJTech0130: SparseRestore and backup exploit&lt;/li&gt; &#xA; &lt;li&gt;@PoomSmart: MobileGestalt dump&lt;/li&gt; &#xA; &lt;li&gt;@Lakr233: BBackupp&lt;/li&gt; &#xA; &lt;li&gt;@libimobiledevice&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://gist.github.com/f1shy-dev/23b4a78dc283edd30ae2b2e6429129b5#file-best_sae_trick-md&#34;&gt;the sneakyf1shy apple intelligence tutorial&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

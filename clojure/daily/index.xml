@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-07T01:29:29Z</updated>
+  <updated>2025-01-08T01:29:31Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>metosin/muuntaja</title>
-    <updated>2025-01-07T01:29:29Z</updated>
-    <id>tag:github.com,2025-01-07:/metosin/muuntaja</id>
-    <link href="https://github.com/metosin/muuntaja" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure library for fast http api format negotiation, encoding and decoding.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>l3nz/cli-matic</title>
-    <updated>2025-01-07T01:29:29Z</updated>
-    <id>tag:github.com,2025-01-07:/l3nz/cli-matic</id>
-    <link href="https://github.com/l3nz/cli-matic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compact, hands-free [sub]command line parsing library for Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

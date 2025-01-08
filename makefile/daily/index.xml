@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-07T01:32:38Z</updated>
+  <updated>2025-01-08T01:32:44Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pulumi/pulumi-tf-provider-boilerplate</title>
-    <updated>2025-01-07T01:32:38Z</updated>
-    <id>tag:github.com,2025-01-07:/pulumi/pulumi-tf-provider-boilerplate</id>
-    <link href="https://github.com/pulumi/pulumi-tf-provider-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Boilerplate code for Terraform provider-backed Pulumi packages&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
