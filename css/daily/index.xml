@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-10T01:29:44Z</updated>
+  <updated>2025-01-11T01:29:58Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vinaysomawat/vinaysomawat.github.io</title>
-    <updated>2025-01-10T01:29:44Z</updated>
-    <id>tag:github.com,2025-01-10:/vinaysomawat/vinaysomawat.github.io</id>
-    <link href="https://github.com/vinaysomawat/vinaysomawat.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cutting-edge portfolio web page utilizing vanilla JavaScript.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Portfolio Website.&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;If you enjoy this project, please consider &lt;a href=&#34;https://www.paypal.me/vinaysomawat&#34;&gt;supporting me&lt;/a&gt; to continue developing and maintaining it.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.paypal.me/vinaysomawat&#34;&gt;&lt;img src=&#34;https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg?sanitize=true&#34; alt=&#34;Support via PayPal&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>
