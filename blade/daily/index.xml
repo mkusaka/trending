@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-11T01:29:03Z</updated>
+  <updated>2025-01-12T01:29:27Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>theihasan/geezap</title>
+    <updated>2025-01-12T01:29:27Z</updated>
+    <id>tag:github.com,2025-01-12:/theihasan/geezap</id>
+    <link href="https://github.com/theihasan/geezap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Geezap is an AI-powered job aggregation platform built with Laravel that unifies job listings from LinkedIn, Upwork, Indeed, and ZipRecruiter. Features include smart job matching, automated cover letter generation, and application tracking.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

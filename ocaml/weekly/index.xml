@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-01-12T01:45:02Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>terrateamio/terrateam</title>
+    <updated>2025-01-12T01:45:02Z</updated>
+    <id>tag:github.com,2025-01-12:/terrateamio/terrateam</id>
+    <link href="https://github.com/terrateamio/terrateam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, and Terragrunt operations via pull requests.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ocsigen/eliom</title>
+    <updated>2025-01-12T01:45:02Z</updated>
+    <id>tag:github.com,2025-01-12:/ocsigen/eliom</id>
+    <link href="https://github.com/ocsigen/eliom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multi-tier framework for programming web and mobile applications in OCaml.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

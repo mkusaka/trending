@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-11T01:28:33Z</updated>
+  <updated>2025-01-12T01:28:57Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>openebs/openebs</title>
+    <updated>2025-01-12T01:28:57Z</updated>
+    <id>tag:github.com,2025-01-12:/openebs/openebs</id>
+    <link href="https://github.com/openebs/openebs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Most popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

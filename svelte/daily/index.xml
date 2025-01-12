@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-11T01:36:14Z</updated>
+  <updated>2025-01-12T01:36:12Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mistweaverco/bananas</title>
+    <updated>2025-01-12T01:36:12Z</updated>
+    <id>tag:github.com,2025-01-12:/mistweaverco/bananas</id>
+    <link href="https://github.com/mistweaverco/bananas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
