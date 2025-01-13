@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-12T01:31:07Z</updated>
+  <updated>2025-01-13T01:30:26Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ash-project/ash_paper_trail</title>
+    <updated>2025-01-13T01:30:26Z</updated>
+    <id>tag:github.com,2025-01-13:/ash-project/ash_paper_trail</id>
+    <link href="https://github.com/ash-project/ash_paper_trail" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The extension for keeping an audit log of changes to your Ash resources.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-12T01:29:16Z</updated>
+  <updated>2025-01-13T01:28:59Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>andrew--r/frontend-case-studies</title>
+    <updated>2025-01-13T01:28:59Z</updated>
+    <id>tag:github.com,2025-01-13:/andrew--r/frontend-case-studies</id>
+    <link href="https://github.com/andrew--r/frontend-case-studies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💼 A curated list of talks and articles about real world frontend development&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
