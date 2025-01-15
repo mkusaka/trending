@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-14T01:36:50Z</updated>
+  <updated>2025-01-15T01:38:05Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lichess-org/lila-ws</title>
+    <updated>2025-01-15T01:38:05Z</updated>
+    <id>tag:github.com,2025-01-15:/lichess-org/lila-ws</id>
+    <link href="https://github.com/lichess-org/lila-ws" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lichess&#39; websocket server&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lila websocket&lt;/h1&gt; &#xA;&lt;p&gt;Handle incoming websocket traffic for &lt;a href=&#34;https://lichess.org&#34;&gt;lichess.org&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;lila &amp;lt;-&amp;gt; redis &amp;lt;-&amp;gt; lila-ws &amp;lt;-&amp;gt; websocket &amp;lt;-&amp;gt; client&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Start:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sbt&#xA;~reStart&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Start with custom config file:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sbt -Dconfig.file=/path/to/my.conf&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Custom config file example:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;include &#34;application&#34;&#xA;http.port = 8080&#xA;mongo.uri = &#34;mongodb://localhost:27017/lichess&#34;&#xA;redis.uri = &#34;redis://127.0.0.1&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Trusts &lt;code&gt;X-Forwarded-For&lt;/code&gt;. Use only behind a reverse proxy!&lt;/p&gt; &#xA;&lt;h3&gt;Code formatting&lt;/h3&gt; &#xA;&lt;p&gt;Please &lt;code&gt;sbt prepare&lt;/code&gt; before you submit a PR. This will reformats and do some auto refactoring the code.&lt;/p&gt;</summary>
+  </entry>
 </feed>
