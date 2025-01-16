@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-15T01:37:58Z</updated>
+  <updated>2025-01-16T01:41:15Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sarah-quinones/faer-rs</title>
+    <updated>2025-01-16T01:41:15Z</updated>
+    <id>tag:github.com,2025-01-16:/sarah-quinones/faer-rs</id>
+    <link href="https://github.com/sarah-quinones/faer-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Linear algebra foundation for the Rust programming language&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://github.com/user-attachments/assets/bae4b2ae-292b-4894-b5b5-afaf56725056&#34; alt=&#34;faer logo&#34; width=&#34;25%&#34;&gt; &lt;/p&gt; &#xA;&lt;h1&gt;faer&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://docs.rs/faer&#34;&gt;&lt;img src=&#34;https://docs.rs/faer/badge.svg?sanitize=true&#34; alt=&#34;Documentation&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://crates.io/crates/faer&#34;&gt;&lt;img src=&#34;https://img.shields.io/crates/v/faer.svg?sanitize=true&#34; alt=&#34;Crate&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;faer&lt;/code&gt; is a Rust crate that implements low level linear algebra routines and a high level wrapper for ease of use, in pure Rust. The aim is to provide a fully featured library for linear algebra with focus on portability, correctness, and performance.&lt;/p&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://faer-rs.github.io&#34;&gt;official website&lt;/a&gt; and the &lt;a href=&#34;https://docs.rs/faer/latest/faer&#34;&gt;docs.rs&lt;/a&gt; documentation for code examples and usage instructions.&lt;/p&gt; &#xA;&lt;p&gt;Questions about using the library, contributing, and future directions can be discussed in the &lt;a href=&#34;https://discord.gg/Ak5jDsAFVZ&#34;&gt;Discord server&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Contributing&lt;/h1&gt; &#xA;&lt;p&gt;If you&#39;d like to contribute to &lt;code&gt;faer&lt;/code&gt;, check out the list of &#34;good first issue&#34; issues. These are all (or should be) issues that are suitable for getting started, and they generally include a detailed set of instructions for what to do. Please ask questions on the Discord server or the issue itself if anything is unclear!&lt;/p&gt; &#xA;&lt;h1&gt;Minimum supported Rust version&lt;/h1&gt; &#xA;&lt;p&gt;The current MSRV is Rust 1.84.0.&lt;/p&gt; &#xA;&lt;h1&gt;Benchmarks&lt;/h1&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://faer-rs.github.io/bench-st.html&#34;&gt;the benchmark page&lt;/a&gt; on the main website.&lt;/p&gt;</summary>
+  </entry>
 </feed>

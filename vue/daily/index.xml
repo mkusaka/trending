@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-15T01:39:19Z</updated>
+  <updated>2025-01-16T01:42:33Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jooooock/wechat-article-exporter</title>
-    <updated>2025-01-15T01:39:19Z</updated>
-    <id>tag:github.com,2025-01-15:/jooooock/wechat-article-exporter</id>
-    <link href="https://github.com/jooooock/wechat-article-exporter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;在线批量下载微信公众号文章，支持阅读量、评论、内嵌音视频，无需搭建任何环境，可100%还原文章样式，支持私有部署&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

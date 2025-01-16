@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-15T01:38:39Z</updated>
+  <updated>2025-01-16T01:41:56Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rajnandan1/kener</title>
+    <updated>2025-01-16T01:41:56Z</updated>
+    <id>tag:github.com,2025-01-16:/rajnandan1/kener</id>
+    <link href="https://github.com/rajnandan1/kener" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kener is a Modern Self hosted Status Page, batteries included&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

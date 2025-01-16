@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-15T01:39:35Z</updated>
+  <updated>2025-01-16T01:42:47Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>web-platform-dx/web-features</title>
-    <updated>2025-01-15T01:39:35Z</updated>
-    <id>tag:github.com,2025-01-15:/web-platform-dx/web-features</id>
-    <link href="https://github.com/web-platform-dx/web-features" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exploring how to present Web platform features adoptability&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
