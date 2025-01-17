@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub nesC Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-16T01:39:09Z</updated>
+  <updated>2025-01-17T01:33:20Z</updated>
   <subtitle>Daily Trending of nesC in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dgunning/edgartools</title>
-    <updated>2025-01-16T01:39:09Z</updated>
-    <id>tag:github.com,2025-01-16:/dgunning/edgartools</id>
-    <link href="https://github.com/dgunning/edgartools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Navigate SEC Edgar data in Python&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
