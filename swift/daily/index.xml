@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-17T01:36:04Z</updated>
+  <updated>2025-01-18T01:40:13Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mainframecomputer/fullmoon-ios</title>
+    <updated>2025-01-18T01:40:13Z</updated>
+    <id>tag:github.com,2025-01-18:/mainframecomputer/fullmoon-ios</id>
+    <link href="https://github.com/mainframecomputer/fullmoon-ios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;chat with private and local large language models&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;fullmoon iOS&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://fullmoon.app/images/app.png&#34; alt=&#34;fullmoon iOS&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://fullmoon.app&#34;&gt;fullmoon&lt;/a&gt; is an iOS app to chat with local large language models that’s optimized for Apple silicon and works on iPhone, iPad, and Mac. your chat history is saved locally, and you can customize the appearance of the app.&lt;/p&gt; &#xA;&lt;h2&gt;supported models&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; &lt;a href=&#34;https://huggingface.co/mlx-community/Llama-3.2-1B-Instruct-4bit&#34;&gt;Llama 3.2 1B&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; &lt;a href=&#34;https://huggingface.co/mlx-community/Llama-3.2-3B-Instruct-4bit&#34;&gt;Llama 3.2 3B&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;credits&lt;/h2&gt; &#xA;&lt;p&gt;fullmoon is made possible by &lt;a href=&#34;https://github.com/ml-explore/mlx-swift&#34;&gt;MLX Swift&lt;/a&gt; from Apple. &lt;a href=&#34;https://github.com/ml-explore/mlx&#34;&gt;MLX&lt;/a&gt; is an array framework for machine learning research on Apple silicon.&lt;/p&gt;</summary>
+  </entry>
 </feed>

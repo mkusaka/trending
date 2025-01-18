@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-17T01:30:20Z</updated>
+  <updated>2025-01-18T01:30:19Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>techgaun/zxcvbn-elixir</title>
+    <updated>2025-01-18T01:30:19Z</updated>
+    <id>tag:github.com,2025-01-18:/techgaun/zxcvbn-elixir</id>
+    <link href="https://github.com/techgaun/zxcvbn-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir implementation of zxcvbn by dropbox&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

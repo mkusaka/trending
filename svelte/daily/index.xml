@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-17T01:36:01Z</updated>
+  <updated>2025-01-18T01:40:11Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rishikanthc/Scriberr</title>
+    <updated>2025-01-18T01:40:11Z</updated>
+    <id>tag:github.com,2025-01-18:/rishikanthc/Scriberr</id>
+    <link href="https://github.com/rishikanthc/Scriberr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Self-hosted AI audio transcription&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
