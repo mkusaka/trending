@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub C Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-01-20T01:29:06Z</updated>
+  <subtitle>Daily Trending of C in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>YTEC-info/CH341A-Softwares</title>
+    <updated>2025-01-20T01:29:06Z</updated>
+    <id>tag:github.com,2025-01-20:/YTEC-info/CH341A-Softwares</id>
+    <link href="https://github.com/YTEC-info/CH341A-Softwares" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CH341A Softwares (Windows, Linux, Mac and Android)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CH341A Softwares&lt;/h1&gt; &#xA;&lt;p&gt;CH341A Softwares (Windows, Linux, Mac and Android)&lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/YTEC-info/CH341A-Softwares/main/Manual/pic-ch341a-black_.jpg&#34;&gt; &lt;/p&gt;</summary>
+  </entry>
+</feed>
