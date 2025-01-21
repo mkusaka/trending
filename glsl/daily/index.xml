@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-20T01:31:10Z</updated>
+  <updated>2025-01-21T01:44:47Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>m-ahdal/ghostty-shaders</title>
-    <updated>2025-01-20T01:31:10Z</updated>
-    <id>tag:github.com,2025-01-20:/m-ahdal/ghostty-shaders</id>
-    <link href="https://github.com/m-ahdal/ghostty-shaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository containing many free shaders to use with ghostty (the terminal)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-20T01:35:15Z</updated>
+  <updated>2025-01-21T01:48:48Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>raspberrypi/rpi-eeprom</title>
-    <updated>2025-01-20T01:35:15Z</updated>
-    <id>tag:github.com,2025-01-20:/raspberrypi/rpi-eeprom</id>
-    <link href="https://github.com/raspberrypi/rpi-eeprom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Installation scripts and binaries for the Raspberry Pi 4 and Raspberry Pi 5 bootloader EEPROMs&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;rpi-eeprom&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains the scripts and pre-compiled binaries used to create the &lt;code&gt;rpi-eeprom&lt;/code&gt; package which is used to update the Raspberry Pi 4 and Raspberry Pi 5 bootloaders EEPROM images.&lt;/p&gt; &#xA;&lt;h1&gt;Support&lt;/h1&gt; &#xA;&lt;p&gt;Please check the Raspberry Pi &lt;a href=&#34;https://forums.raspberrypi.com/viewforum.php?f=63&#34;&gt;general discussion forum&lt;/a&gt; if you have a support question.&lt;/p&gt; &#xA;&lt;h1&gt;Reset to factory defaults&lt;/h1&gt; &#xA;&lt;p&gt;To reset the bootloader back to factory defaults use &lt;a href=&#34;https://www.raspberrypi.com/software/&#34;&gt;Raspberry Pi Imager&lt;/a&gt; to write an EEPROM update image to a spare SD card. Select &lt;code&gt;Misc utility images&lt;/code&gt; under the &lt;code&gt;Operating System&lt;/code&gt; tab.&lt;/p&gt; &#xA;&lt;h1&gt;Bootloader documentation&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.com/documentation/computers/config_txt.html#boot-options&#34;&gt;Config.txt boot options&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#raspberry-pi-boot-eeprom&#34;&gt;Bootloader EEPROM&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#raspberry-pi-bootloader-configuration&#34;&gt;Bootloader configuration&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.com/documentation/computers/compute-module.html#update-the-compute-module-bootloader&#34;&gt;Updating the Compute Module 4 bootloader&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/raspberrypi/rpi-eeprom/master/releases.md&#34;&gt;Releases and release notes&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
