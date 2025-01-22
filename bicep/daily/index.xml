@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-21T01:42:42Z</updated>
+  <updated>2025-01-22T01:29:10Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure-Samples/llama-index-javascript</title>
-    <updated>2025-01-21T01:42:42Z</updated>
-    <id>tag:github.com,2025-01-21:/Azure-Samples/llama-index-javascript</id>
-    <link href="https://github.com/Azure-Samples/llama-index-javascript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
