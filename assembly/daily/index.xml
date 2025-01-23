@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-22T01:29:00Z</updated>
+  <updated>2025-01-23T01:28:45Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aws/aws-lc</title>
+    <updated>2025-01-23T01:28:45Z</updated>
+    <id>tag:github.com,2025-01-23:/aws/aws-lc</id>
+    <link href="https://github.com/aws/aws-lc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

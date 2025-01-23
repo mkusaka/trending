@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-22T01:30:04Z</updated>
+  <updated>2025-01-23T01:29:46Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mecha-org/mecha-docs</title>
+    <updated>2025-01-23T01:29:46Z</updated>
+    <id>tag:github.com,2025-01-23:/mecha-org/mecha-docs</id>
+    <link href="https://github.com/mecha-org/mecha-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Docs for Mecha Stack&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Mecha&lt;/h1&gt; &#xA;&lt;p&gt;Welcome to the documentation site for Mecha. Below are the commands you need to execute to setup and run the documentation site.&lt;/p&gt; &#xA;&lt;h2&gt;Commands&lt;/h2&gt; &#xA;&lt;h3&gt;Install dependencies&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ npm install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Generate API docs&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ npm run docusaurus clean-api-docs all&#xA;$ npm run docusaurus gen-api-docs all&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Build&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ npm run build&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Run&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;npm run start&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>
