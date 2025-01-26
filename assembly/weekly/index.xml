@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-01-26T01:41:28Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aws/aws-lc</title>
+    <updated>2025-01-26T01:41:28Z</updated>
+    <id>tag:github.com,2025-01-26:/aws/aws-lc</id>
+    <link href="https://github.com/aws/aws-lc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nicsure/TD-H3-Engineering</title>
+    <updated>2025-01-26T01:41:28Z</updated>
+    <id>tag:github.com,2025-01-26:/nicsure/TD-H3-Engineering</id>
+    <link href="https://github.com/nicsure/TD-H3-Engineering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experimentation with the TIDRADIO TD-H3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-01-26T01:50:44Z</updated>
+  <subtitle>Weekly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>uber/hermetic_cc_toolchain</title>
+    <updated>2025-01-26T01:50:44Z</updated>
+    <id>tag:github.com,2025-01-26:/uber/hermetic_cc_toolchain</id>
+    <link href="https://github.com/uber/hermetic_cc_toolchain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel C/C++ toolchain for cross-compiling C/C++ programs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

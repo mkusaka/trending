@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-25T01:30:00Z</updated>
+  <updated>2025-01-26T01:30:18Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pythonic-emacs/blacken</title>
+    <updated>2025-01-26T01:30:18Z</updated>
+    <id>tag:github.com,2025-01-26:/pythonic-emacs/blacken</id>
+    <link href="https://github.com/pythonic-emacs/blacken" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python Black for Emacs&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://melpa.org/#/blacken&#34;&gt;&lt;img src=&#34;https://melpa.org/packages/blacken-badge.svg?sanitize=true&#34; alt=&#34;MELPA&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://stable.melpa.org/#/blacken&#34;&gt;&lt;img src=&#34;https://stable.melpa.org/packages/blacken-badge.svg?sanitize=true&#34; alt=&#34;MELPA Stable&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/pythonic-emacs/blacken/actions/workflows/test.yml&#34;&gt;&lt;img src=&#34;https://github.com/pythonic-emacs/blacken/actions/workflows/test.yml/badge.svg?sanitize=true&#34; alt=&#34;CI&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Blacken&lt;/h1&gt; &#xA;&lt;p&gt;Use the python &lt;code&gt;black&lt;/code&gt; package to reformat your python buffers.&lt;/p&gt; &#xA;&lt;h2&gt;usage&lt;/h2&gt; &#xA;&lt;p&gt;The whole buffer can be reformatted with &lt;code&gt;blacken-buffer&lt;/code&gt;. If you want to format every time you save, enable &lt;code&gt;blacken-mode&lt;/code&gt; in relevant python buffers. Note that if &lt;code&gt;blacken-only-if-project-is-blackened&lt;/code&gt; is non-nil, then blacken will only run if your &lt;code&gt;pyproject.toml&lt;/code&gt; contains the &lt;code&gt;[tool.black]&lt;/code&gt; setting. This setting is off by default.&lt;/p&gt; &#xA;&lt;h2&gt;customization&lt;/h2&gt; &#xA;&lt;p&gt;The following options change the behavior of black when reformatting buffers.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;blacken-allow-py36&lt;/code&gt; Allow using Python 3.6-only syntax on all input files.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;blacken-skip-string-normalization&lt;/code&gt; Don&#39;t normalize string quotes or prefixes.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;blacken-fast-unsafe&lt;/code&gt; Skips temporary sanity checks.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;blacken-line-length&lt;/code&gt; Max line length enforced by blacken.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;license&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;blacken.el&lt;/code&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version.&lt;/p&gt; &#xA;&lt;p&gt;SPDX-License-Identifier: GPL-3.0-or-later&lt;/p&gt;</summary>
+  </entry>
 </feed>

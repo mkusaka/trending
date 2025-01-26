@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-25T01:28:11Z</updated>
+  <updated>2025-01-26T01:28:15Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jlopp/physical-bitcoin-attacks</title>
+    <updated>2025-01-26T01:28:15Z</updated>
+    <id>tag:github.com,2025-01-26:/jlopp/physical-bitcoin-attacks</id>
+    <link href="https://github.com/jlopp/physical-bitcoin-attacks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

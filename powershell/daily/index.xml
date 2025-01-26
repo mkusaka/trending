@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-25T01:33:35Z</updated>
+  <updated>2025-01-26T01:38:39Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>deevus/zed-windows-builds</title>
+    <updated>2025-01-26T01:38:39Z</updated>
+    <id>tag:github.com,2025-01-26:/deevus/zed-windows-builds</id>
+    <link href="https://github.com/deevus/zed-windows-builds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Unofficial nightly builds of Zed for Windows&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;NOTE: This is not a support channel for Zed on Windows.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;These builds are for those who want to live on the bleeding edge or just want to test Zed out on Windows.&lt;/p&gt; &#xA;&lt;p&gt;Any issues with the Windows build should go through official channels, as this repository does not concern itself with the source code of Zed or issues found therein.&lt;/p&gt; &#xA;&lt;p&gt;If you have suggestions for improvements to the build process, please start a discussion or make a PR.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Install using &lt;a href=&#34;https://scoop.sh/&#34;&gt;Scoop&lt;/a&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;scoop bucket add versions&#xA;scoop install versions/zed-nightly&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;For Windows 10 users&lt;/h3&gt; &#xA;&lt;p&gt;Zed may not start unless you install the &lt;a href=&#34;https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022&#34;&gt;Microsoft Visual C++ Redistributable 2022&lt;/a&gt; package. If you are using Scoop, you can install it using the following command:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;scoop bucket add extras&#xA;scoop install vcredist2022&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Updates&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;scoop update zed-nightly&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Is it safe?&lt;/h2&gt; &#xA;&lt;p&gt;This repository is just a &lt;a href=&#34;https://raw.githubusercontent.com/deevus/zed-windows-builds/main/.github/workflows/build.yml&#34;&gt;simple GitHub workflow&lt;/a&gt; that builds Zed from &lt;code&gt;main&lt;/code&gt; and publishes a release every night at UTC+0000. (Additionally on push for testing).&lt;/p&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://zed.dev/&#34;&gt;Zed homepage&lt;/a&gt; or &lt;a href=&#34;https://github.com/zed-industries/zed&#34;&gt;official repository&lt;/a&gt; for more details.&lt;/p&gt;</summary>
+  </entry>
 </feed>
