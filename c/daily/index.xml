@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-26T01:28:49Z</updated>
+  <updated>2025-01-27T01:29:04Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>RMerl/asuswrt-merlin.ng</title>
-    <updated>2025-01-26T01:28:49Z</updated>
-    <id>tag:github.com,2025-01-26:/RMerl/asuswrt-merlin.ng</id>
-    <link href="https://github.com/RMerl/asuswrt-merlin.ng" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Third party firmware for Asus routers (newer codebase)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;asuswrt-merlin New Gen (version 382.xx and higher)&lt;/h1&gt; &#xA;&lt;h4&gt;Support is available via the forums at &lt;a href=&#34;https://www.snbforums.com/forums/asuswrt-merlin.42/&#34;&gt;SNBForums&lt;/a&gt;.&lt;/h4&gt; &#xA;&lt;p&gt;Asuswrt-Merlin is an enhanced version of Asuswrt, the firmware used by Asus&#39;s modern routers.&lt;/p&gt; &#xA;&lt;p&gt;The goal of this project is to fix issues and bring some minor functionality adjustments to the original Asus firmware. While some features do get added, this is not the main focus of this project.&lt;br&gt; It is not meant to replace existing projects such as Tomato or DD-WRT, but rather to offer an alternative for people who prefer the original firmware featureset.&lt;/p&gt; &#xA;&lt;p&gt;This is the new development branch, originally based on Asus&#39;s 3.0.0.4.382_xxxx firmware release. Development of the 380.xx legacy branch has been dropped.&lt;/p&gt; &#xA;&lt;p&gt;Please consult the Wiki for an up-to-date list of supported models:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/RMerl/asuswrt-merlin.ng/wiki/Supported-Devices&#34;&gt;https://github.com/RMerl/asuswrt-merlin.ng/wiki/Supported-Devices&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

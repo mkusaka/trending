@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-26T01:39:40Z</updated>
+  <updated>2025-01-27T01:36:59Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>n8n-io/n8n-hosting</title>
-    <updated>2025-01-26T01:39:40Z</updated>
-    <id>tag:github.com,2025-01-26:/n8n-io/n8n-hosting</id>
-    <link href="https://github.com/n8n-io/n8n-hosting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example of self-hosting n8n in various environments like docker, kubernetes, etc.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;n8n-hosting&lt;/h1&gt;</summary>
-  </entry>
 </feed>
