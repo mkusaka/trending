@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-27T01:37:57Z</updated>
+  <updated>2025-01-28T01:36:44Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nuxt-ui-pro/saas</title>
-    <updated>2025-01-27T01:37:57Z</updated>
-    <id>tag:github.com,2025-01-27:/nuxt-ui-pro/saas</id>
-    <link href="https://github.com/nuxt-ui-pro/saas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A SaaS template made with Nuxt UI Pro.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>traPtitech/traQ_S-UI</title>
+    <updated>2025-01-28T01:36:44Z</updated>
+    <id>tag:github.com,2025-01-28:/traPtitech/traQ_S-UI</id>
+    <link href="https://github.com/traPtitech/traQ_S-UI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;traQ S - traP Internal Messenger Application Frontend&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-27T01:29:56Z</updated>
+  <updated>2025-01-28T01:30:12Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>UserNobody14/tree-sitter-dart</title>
+    <updated>2025-01-28T01:30:12Z</updated>
+    <id>tag:github.com,2025-01-28:/UserNobody14/tree-sitter-dart</id>
+    <link href="https://github.com/UserNobody14/tree-sitter-dart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Attempt to make a tree-sitter grammar for dart&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;tree-sitter-dart&lt;/h1&gt; &#xA;&lt;p&gt;This is a tree-sitter grammar written for the dart programming language. We attempt to adhere as closely as possible to the dart language spec. Initially it was started with a copy of the tree-sitter Java grammar which is why there may be a few relics included in here. For the sake of simplifying the syntax tree, many items were made inlined with tree-sitter&#39;s &#34;underscore&#34; method of writing rules.&lt;/p&gt; &#xA;&lt;h1&gt;Getting Started&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Go to the project directory&lt;/li&gt; &#xA; &lt;li&gt;run &lt;code&gt;npm install&lt;/code&gt; (first time)&lt;/li&gt; &#xA; &lt;li&gt;run &lt;code&gt;npm run build_init&lt;/code&gt; (first time) &lt;code&gt;npm run build&lt;/code&gt; (subsequent times)&lt;/li&gt; &#xA; &lt;li&gt;run &lt;code&gt;npm run test&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;To test a single highlight file&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;run &lt;code&gt;tree-sitter highlight test/highlight/types.dart&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;To test a single test file&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;run &lt;code&gt;tree-sitter test -f &#39;testcasefilter&#39;&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;for example &lt;code&gt;tree-sitter test -f &#39;dart string literals&#39;&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;To show the output of a parse for a sample file (for example while debugging highlight issues)&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;run &lt;code&gt;tree-sitter parse path/to/file.dart&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>
