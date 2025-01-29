@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-28T01:36:44Z</updated>
+  <updated>2025-01-29T01:36:49Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>traPtitech/traQ_S-UI</title>
-    <updated>2025-01-28T01:36:44Z</updated>
-    <id>tag:github.com,2025-01-28:/traPtitech/traQ_S-UI</id>
-    <link href="https://github.com/traPtitech/traQ_S-UI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;traQ S - traP Internal Messenger Application Frontend&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imsyy/SNav</title>
+    <updated>2025-01-29T01:36:49Z</updated>
+    <id>tag:github.com,2025-01-29:/imsyy/SNav</id>
+    <link href="https://github.com/imsyy/SNav" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>onetimesecret/onetimesecret</title>
+    <updated>2025-01-29T01:36:49Z</updated>
+    <id>tag:github.com,2025-01-29:/onetimesecret/onetimesecret</id>
+    <link href="https://github.com/onetimesecret/onetimesecret" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Keep passwords and other sensitive information out of your inboxes and chat logs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
