@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-29T01:32:14Z</updated>
+  <updated>2025-01-30T01:31:23Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lanl-ansi/PowerModels.jl</title>
-    <updated>2025-01-29T01:32:14Z</updated>
-    <id>tag:github.com,2025-01-29:/lanl-ansi/PowerModels.jl</id>
-    <link href="https://github.com/lanl-ansi/PowerModels.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia/JuMP Package for Power Network Optimization&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaMath/NaNMath.jl</title>
-    <updated>2025-01-29T01:32:14Z</updated>
-    <id>tag:github.com,2025-01-29:/JuliaMath/NaNMath.jl</id>
-    <link href="https://github.com/JuliaMath/NaNMath.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia math built-ins which return NaN and accumulator functions which ignore NaN&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

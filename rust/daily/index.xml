@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-29T01:35:27Z</updated>
+  <updated>2025-01-30T01:36:34Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>block/goose</title>
+    <updated>2025-01-30T01:36:34Z</updated>
+    <id>tag:github.com,2025-01-30:/block/goose</id>
+    <link href="https://github.com/block/goose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM&lt;/p&gt;&lt;hr&gt;&lt;h1 align=&#34;center&#34;&gt; codename goose &lt;/h1&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;strong&gt;an open-source, extensible AI agent that goes beyond code suggestions&lt;br&gt;install, execute, edit, and test with any LLM&lt;/strong&gt; &lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://opensource.org/licenses/Apache-2.0&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/License-Apache_2.0-blue.svg?sanitize=true&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://discord.gg/7GaTvbDwga&#34;&gt; &lt;img src=&#34;https://img.shields.io/discord/1287729918100246654?logo=discord&amp;amp;logoColor=white&amp;amp;label=Join+Us&amp;amp;color=blueviolet&#34; alt=&#34;Discord&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://github.com/block/goose/actions/workflows/ci.yml&#34;&gt; &lt;img src=&#34;https://img.shields.io/github/actions/workflow/status/block/goose/ci.yml?branch=main&#34; alt=&#34;CI&#34;&gt; &lt;/a&gt; &lt;/p&gt; &#xA;&lt;p&gt;Check out our &lt;a href=&#34;https://block.github.io/goose&#34;&gt;documentation&lt;/a&gt;, or to try it out head to the &lt;a href=&#34;https://block.github.io/goose/docs/getting-started/installation&#34;&gt;installation&lt;/a&gt; instructions!&lt;/p&gt;</summary>
+  </entry>
 </feed>

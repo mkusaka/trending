@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-29T01:28:57Z</updated>
+  <updated>2025-01-30T01:28:37Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jsoconno/azure-periodic-table-app</title>
-    <updated>2025-01-29T01:28:57Z</updated>
-    <id>tag:github.com,2025-01-29:/jsoconno/azure-periodic-table-app</id>
-    <link href="https://github.com/jsoconno/azure-periodic-table-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Azure periodic table application with service descriptions, naming rules and restrictions, infrastructure as code links, and direct access to Azure portal. It is both an Azure reference and a tool for accelerating infrastructure as code development in the Azure cloud.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
