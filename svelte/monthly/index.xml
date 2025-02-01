@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-02-01T02:02:50Z</updated>
+  <subtitle>Monthly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rajnandan1/kener</title>
+    <updated>2025-02-01T02:02:50Z</updated>
+    <id>tag:github.com,2025-02-01:/rajnandan1/kener</id>
+    <link href="https://github.com/rajnandan1/kener" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stunning status pages, batteries included!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zerebos/ghostty-config</title>
+    <updated>2025-02-01T02:02:50Z</updated>
+    <id>tag:github.com,2025-02-01:/zerebos/ghostty-config</id>
+    <link href="https://github.com/zerebos/ghostty-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A beautiful config generator for Ghostty terminal.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sparrowapp-dev/sparrow-app</title>
+    <updated>2025-02-01T02:02:50Z</updated>
+    <id>tag:github.com,2025-02-01:/sparrowapp-dev/sparrow-app</id>
+    <link href="https://github.com/sparrowapp-dev/sparrow-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Your next-gen API testing and development tool.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

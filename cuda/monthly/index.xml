@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cuda Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-02-01T01:54:15Z</updated>
+  <subtitle>Monthly Trending of Cuda in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thu-ml/SageAttention</title>
+    <updated>2025-02-01T01:54:15Z</updated>
+    <id>tag:github.com,2025-02-01:/thu-ml/SageAttention</id>
+    <link href="https://github.com/thu-ml/SageAttention" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quantized Attention that achieves speedups of 2.1-3.1x and 2.7-5.1x compared to FlashAttention2 and xformers, respectively, without lossing end-to-end metrics across various models.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

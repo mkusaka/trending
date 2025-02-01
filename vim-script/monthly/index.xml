@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-02-01T02:03:26Z</updated>
+  <subtitle>Monthly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ziglang/zig.vim</title>
+    <updated>2025-02-01T02:03:26Z</updated>
+    <id>tag:github.com,2025-02-01:/ziglang/zig.vim</id>
+    <link href="https://github.com/ziglang/zig.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim configuration for Zig&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>machakann/vim-highlightedyank</title>
+    <updated>2025-02-01T02:03:26Z</updated>
+    <id>tag:github.com,2025-02-01:/machakann/vim-highlightedyank</id>
+    <link href="https://github.com/machakann/vim-highlightedyank" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make the yanked region apparent!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>unblevable/quick-scope</title>
+    <updated>2025-02-01T02:03:26Z</updated>
+    <id>tag:github.com,2025-02-01:/unblevable/quick-scope</id>
+    <link href="https://github.com/unblevable/quick-scope" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightning fast left-right movement in Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

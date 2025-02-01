@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-01-31T01:30:02Z</updated>
+  <updated>2025-02-01T01:30:03Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pythonanywhere/help_pages</title>
+    <updated>2025-02-01T01:30:03Z</updated>
+    <id>tag:github.com,2025-02-01:/pythonanywhere/help_pages</id>
+    <link href="https://github.com/pythonanywhere/help_pages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The help pages for help.pythonanywhere.com&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The PythonAnywhere Help Pages&lt;/h1&gt; &#xA;&lt;p&gt;This repo contains the source files for help.pythonanywhere.com. They are stored in markdown format and converted to html by the Nikola static site generator. Individual help pages can be found in the &#34;articles&#34; folder.&lt;/p&gt; &#xA;&lt;p&gt;Pull requests are welcome! The only page for which we can&#39;t accept them are the API docs, which are auto-generated from our code -- if you find a problem with them, then you can let us know by raising an issue on the GitHub repository.&lt;/p&gt; &#xA;&lt;h2&gt;(for PA developers): pushing changes to live&lt;/h2&gt; &#xA;&lt;p&gt;A post-receive hook will take care of the nikola build and deploy&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;git remote add live-site help@ssh.pythonanywhere.com:/home/help/barerepo.git&#xA;# you&#39;ll probably want to add your public key to help&#39;s authorized_keys&#xA;git push live-site master&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;generating the help pages manually&lt;/h2&gt; &#xA;&lt;p&gt;The sources, if you need to rebuild manually are in &lt;code&gt;/var/www/nikola-sources&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;For whatever reason...&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;workon nikola&#xA;nikola build&#xA;nikola deploy  # nb this has a hard-coded path to a static files directory for the web app, so don&#39;t run it on your own pc&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Git stuff&lt;/h2&gt; &#xA;&lt;p&gt;The git post-receive hook (in &lt;code&gt;/home/help/barerepo.git/hooks&lt;/code&gt;), in case it gets killed is:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;#!/bin/bash&#xA;export GIT_WORK_TREE=/var/www/nikola-sources&#xA;mkdir -p $GIT_WORK_TREE&#xA;git checkout -f&#xA;echo &#34;begin nikola build: &#34;`date` &amp;gt;&amp;gt; /home/help/deploy-log.txt&#xA;cd $GIT_WORK_TREE&#xA;/home/help/.virtualenvs/nikola/bin/nikola check --clean-files&#xA;rm -f output/assets/js/tipuesearch_content.json&#xA;/home/help/.virtualenvs/nikola/bin/nikola build&#xA;/home/help/.virtualenvs/nikola/bin/nikola deploy&#xA;echo &#34;deploy completed: &#34;`date` &amp;gt;&amp;gt; /home/help/deploy-log.txt&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

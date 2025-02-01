@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-02-01T02:02:21Z</updated>
+  <subtitle>Monthly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thingsym/hugo-theme-techdoc</title>
+    <updated>2025-02-01T02:02:21Z</updated>
+    <id>tag:github.com,2025-02-01:/thingsym/hugo-theme-techdoc</id>
+    <link href="https://github.com/thingsym/hugo-theme-techdoc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Techdoc is a Hugo Theme for technical documentation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sivan/heti</title>
+    <updated>2025-02-01T02:02:21Z</updated>
+    <id>tag:github.com,2025-02-01:/sivan/heti</id>
+    <link href="https://github.com/sivan/heti" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>creativetimofficial/material-dashboard-angular2</title>
+    <updated>2025-02-01T02:02:21Z</updated>
+    <id>tag:github.com,2025-02-01:/creativetimofficial/material-dashboard-angular2</id>
+    <link href="https://github.com/creativetimofficial/material-dashboard-angular2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material Dashboard Angular&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
