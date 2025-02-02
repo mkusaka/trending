@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-02-02T01:40:27Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ecmwf/ecbuild</title>
+    <updated>2025-02-02T01:40:27Z</updated>
+    <id>tag:github.com,2025-02-02:/ecmwf/ecbuild</id>
+    <link href="https://github.com/ecmwf/ecbuild" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

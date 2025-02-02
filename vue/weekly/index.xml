@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-02-02T01:49:21Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lyqht/mini-qr</title>
+    <updated>2025-02-02T01:49:21Z</updated>
+    <id>tag:github.com,2025-02-02:/lyqht/mini-qr</id>
+    <link href="https://github.com/lyqht/mini-qr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generate customized qr codes easily 👾&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EvolutionAPI/evolution-manager</title>
+    <updated>2025-02-02T01:49:21Z</updated>
+    <id>tag:github.com,2025-02-02:/EvolutionAPI/evolution-manager</id>
+    <link href="https://github.com/EvolutionAPI/evolution-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Evolution Manager é uma interface open-source para gerenciar a Evolution API, simplificando a criação e administração de instâncias API com recursos avançados e integrações diversas.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ruxailab/RUXAILAB</title>
+    <updated>2025-02-02T01:49:21Z</updated>
+    <id>tag:github.com,2025-02-02:/ruxailab/RUXAILAB</id>
+    <link href="https://github.com/ruxailab/RUXAILAB" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RUXAILAB - Usability Testing and Heuristics Evaluation Conceptual learning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-02-02T01:39:25Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>deepseek-ai/DeepSeek-V2</title>
+    <updated>2025-02-02T01:39:25Z</updated>
+    <id>tag:github.com,2025-02-02:/deepseek-ai/DeepSeek-V2</id>
+    <link href="https://github.com/deepseek-ai/DeepSeek-V2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ombharatiya/FAANG-Coding-Interview-Questions</title>
+    <updated>2025-02-02T01:39:25Z</updated>
+    <id>tag:github.com,2025-02-02:/ombharatiya/FAANG-Coding-Interview-Questions</id>
+    <link href="https://github.com/ombharatiya/FAANG-Coding-Interview-Questions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated List of Coding Questions Asked in FAANG Interviews&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Archmage83/tvapk</title>
+    <updated>2025-02-02T01:39:25Z</updated>
+    <id>tag:github.com,2025-02-02:/Archmage83/tvapk</id>
+    <link href="https://github.com/Archmage83/tvapk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
