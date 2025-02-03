@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-02T01:38:23Z</updated>
+  <updated>2025-02-03T01:38:12Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mikker/LeaderKey.app</title>
+    <updated>2025-02-03T01:38:12Z</updated>
+    <id>tag:github.com,2025-02-03:/mikker/LeaderKey.app</id>
+    <link href="https://github.com/mikker/LeaderKey.app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Faster than your launcher&lt;/p&gt;&lt;hr&gt;&lt;img src=&#34;https://s3.brnbw.com/icon_1024-akc2Ij3q9JOyhQ6Y7Lz6AFkX6nQQFhrQaRPqbV4vor0A62EA0vq4xOGrXpg6PVKi3aUJxOAyItkyktblPtZD4K4oYZ1bJVdh96VE.png&#34; width=&#34;256&#34; height=&#34;256&#34; alt=&#34;Leader Key.app&#34;&gt; &#xA;&lt;p&gt;&lt;strong&gt;The *faster than your launcher* launcher&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;A riff on &lt;a href=&#34;https://www.raycast.com&#34;&gt;Raycast&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=m5MDv9qwhU8&amp;amp;t=540s&#34;&gt;@mxstbr&#39;s multi-key Karabiner setup&lt;/a&gt;, and Vim&#39;s &lt;code&gt;&amp;lt;leader&amp;gt;&lt;/code&gt; key.&lt;/p&gt; &#xA;&lt;p&gt;Watch the intro video on YouTube:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=hzzQl5FOL-k&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/hzzQl5FOL-k/maxresdefault.jpg&#34; alt=&#34;YouTube&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;📦 &lt;a href=&#34;https://leader-key-updates.s3.amazonaws.com/Leader%20Key-latest.zip&#34;&gt;Download latest version&lt;/a&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ brew install leader-key&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Why Leader Key?&lt;/h2&gt; &#xA;&lt;h3&gt;Problems with traditional launchers:&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Typing the name of the thing can be slow and give unpredictable results.&lt;/li&gt; &#xA; &lt;li&gt;Global shortcuts have limited combinations.&lt;/li&gt; &#xA; &lt;li&gt;Leader Key offers predictable, nested shortcuts -- like combos in a fighting game.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Example Shortcuts:&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;[leader][o][m]&lt;/code&gt; → Launch Messages (&lt;code&gt;open messages&lt;/code&gt;)&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;[leader][m][m]&lt;/code&gt; → Mute audio (&lt;code&gt;media mute&lt;/code&gt;)&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;[leader][w][m]&lt;/code&gt; → Maximize current window (&lt;code&gt;window maximize&lt;/code&gt;)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;MIT&lt;/p&gt;</summary>
+  </entry>
 </feed>

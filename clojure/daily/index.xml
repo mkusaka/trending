@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-02T01:29:47Z</updated>
+  <updated>2025-02-03T01:29:41Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>juji-io/editscript</title>
+    <updated>2025-02-03T01:29:41Z</updated>
+    <id>tag:github.com,2025-02-03:/juji-io/editscript</id>
+    <link href="https://github.com/juji-io/editscript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library to diff and patch Clojure/ClojureScript data structures&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
