@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-04T01:38:43Z</updated>
+  <updated>2025-02-05T01:40:39Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>linode/apl-core</title>
-    <updated>2025-02-04T01:38:43Z</updated>
-    <id>tag:github.com,2025-02-04:/linode/apl-core</id>
-    <link href="https://github.com/linode/apl-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Akamai App Platform for LKE&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
