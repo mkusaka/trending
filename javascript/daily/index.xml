@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-05T01:32:05Z</updated>
+  <updated>2025-02-06T01:32:11Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Lumon-Industries/Macrodata-Refinement</title>
-    <updated>2025-02-05T01:32:05Z</updated>
-    <id>tag:github.com,2025-02-05:/Lumon-Industries/Macrodata-Refinement</id>
-    <link href="https://github.com/Lumon-Industries/Macrodata-Refinement" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Marcrodata Refinement&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Lumon-Industries/Macrodata-Refinement/main/images/lumon-globe.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Macrodata Refinement&lt;/h1&gt; &#xA;&lt;p&gt;Congratulations on your new job! All of us are thrilled you&#39;ve become a part of Lumon Industries.&lt;/p&gt; &#xA;&lt;p&gt;From the humble beginnings of a small topical salve company to the world&#39;s leading pioneer in biotechnologies Lumon has thrived thanks to workers like you.&lt;/p&gt; &#xA;&lt;p&gt;Welcome to the Lumon Family!&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://lumon-industries.com&#34;&gt;https://lumon-industries.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;How will I know what to work on?&lt;/h2&gt; &#xA;&lt;p&gt;First, you will be assigned a macrodata file. This selection has been made carefully by your superior.&lt;/p&gt; &#xA;&lt;p&gt;After opening your file you will be met with a sea of numbers that seems to stretch endlessly in all directions.&lt;/p&gt; &#xA;&lt;p&gt;Over time, certain clusters of numbers will start to make you feel a certain way.&lt;/p&gt; &#xA;&lt;p&gt;There are four categories of numbers, each of which elicits a different feeling. A refiner&#39;s job is to fill each of the five bins evenly with the four kinds of number clusters.&lt;/p&gt; &#xA;&lt;p&gt;Once every bin is properly filled, the file is 100% refined and the job is done.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;WO: These numbers elicit melancholy or despair.&#xA;FC: These numbers elicit joy, gaiety or ecstasy.&#xA;DR: These numbers elicit fear, anxiety or apprehension.&#xA;MA: These numbers elicit rage or a desire to do harm.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Sample macrodata view&lt;/h2&gt; &#xA;&lt;p&gt;This is a sample of what your file might look like. If you find clusters of numbers that look scary, you should bin them.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Lumon-Industries/Macrodata-Refinement/main/images/lumon-anim.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-05T01:40:47Z</updated>
+  <updated>2025-02-06T01:38:28Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jvolkman/rules_pycross</title>
-    <updated>2025-02-05T01:40:47Z</updated>
-    <id>tag:github.com,2025-02-05:/jvolkman/rules_pycross</id>
-    <link href="https://github.com/jvolkman/rules_pycross" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel + Python rules for cross-platform external dependencies&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

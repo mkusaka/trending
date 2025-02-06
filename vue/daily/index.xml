@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-05T01:41:34Z</updated>
+  <updated>2025-02-06T01:39:13Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lookscanned/lookscanned.io</title>
-    <updated>2025-02-05T01:41:34Z</updated>
-    <id>tag:github.com,2025-02-05:/lookscanned/lookscanned.io</id>
-    <link href="https://github.com/lookscanned/lookscanned.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 LookScanned.io - Make your PDFs look scanned&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NitroRCr/AIaW</title>
-    <updated>2025-02-05T01:41:34Z</updated>
-    <id>tag:github.com,2025-02-05:/NitroRCr/AIaW</id>
-    <link href="https://github.com/NitroRCr/AIaW" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AI as Workspace - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、Artifacts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iAJue/MoeKoeMusic</title>
+    <updated>2025-02-06T01:39:13Z</updated>
+    <id>tag:github.com,2025-02-06:/iAJue/MoeKoeMusic</id>
+    <link href="https://github.com/iAJue/MoeKoeMusic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
