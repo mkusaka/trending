@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-06T01:39:13Z</updated>
+  <updated>2025-02-07T01:39:21Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>iAJue/MoeKoeMusic</title>
-    <updated>2025-02-06T01:39:13Z</updated>
-    <id>tag:github.com,2025-02-06:/iAJue/MoeKoeMusic</id>
-    <link href="https://github.com/iAJue/MoeKoeMusic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

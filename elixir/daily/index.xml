@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-06T01:30:34Z</updated>
+  <updated>2025-02-07T01:30:33Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lambdaclass/mirra_backend</title>
-    <updated>2025-02-06T01:30:34Z</updated>
-    <id>tag:github.com,2025-02-06:/lambdaclass/mirra_backend</id>
-    <link href="https://github.com/lambdaclass/mirra_backend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multiplayer 2D physics engine, matchmaking, market and leaderboard for 2D and 3D Games&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
