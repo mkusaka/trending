@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub C++ Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-02-09T01:29:17Z</updated>
+  <subtitle>Daily Trending of C++ in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mlc-ai/xgrammar</title>
+    <updated>2025-02-09T01:29:17Z</updated>
+    <id>tag:github.com,2025-02-09:/mlc-ai/xgrammar</id>
+    <link href="https://github.com/mlc-ai/xgrammar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Efficient, Flexible and Portable Structured Generation&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34; id=&#34;top&#34;&gt; &#xA; &lt;h1&gt;XGrammar&lt;/h1&gt; &#xA; &lt;p&gt;&lt;a href=&#34;https://xgrammar.mlc.ai/docs/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docs-latest-green&#34; alt=&#34;Documentation&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/mlc-ai/xgrammar/raw/main/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-apache_2-blue&#34; alt=&#34;License&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://pypi.org/project/xgrammar&#34;&gt;&lt;img src=&#34;https://img.shields.io/pypi/v/xgrammar&#34; alt=&#34;PyPI&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA; &lt;p&gt;&lt;strong&gt;Efficient, Flexible and Portable Structured Generation&lt;/strong&gt;&lt;/p&gt; &#xA; &lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/mlc-ai/xgrammar/main/#get-started&#34;&gt;Get Started&lt;/a&gt; | &lt;a href=&#34;https://xgrammar.mlc.ai/docs/&#34;&gt;Documentation&lt;/a&gt; | &lt;a href=&#34;https://blog.mlc.ai/2024/11/22/achieving-efficient-flexible-portable-structured-generation-with-xgrammar&#34;&gt;Blogpost&lt;/a&gt; | &lt;a href=&#34;https://arxiv.org/abs/2411.15100&#34;&gt;Technical Report&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/div&gt; &#xA;&lt;h2&gt;Overview&lt;/h2&gt; &#xA;&lt;p&gt;XGrammar is an open-source library for efficient, flexible, and portable structured generation. It supports general context-free grammar to enable a broad range of structures while bringing careful system optimizations to enable fast executions. XGrammar features a minimal and portable C++ backend that can be easily integrated into multiple environments and frameworks, and is co-designed with the LLM inference engine and enables zero-overhead structured generation in LLM inference.&lt;/p&gt; &#xA;&lt;h2&gt;Get Started&lt;/h2&gt; &#xA;&lt;p&gt;Please visit our &lt;a href=&#34;https://xgrammar.mlc.ai/docs/&#34;&gt;documentation&lt;/a&gt; to get started with XGrammar.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://xgrammar.mlc.ai/docs/start/install&#34;&gt;Installation&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://xgrammar.mlc.ai/docs/start/quick_start&#34;&gt;Quick start&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+</feed>
