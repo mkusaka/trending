@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-09T01:36:32Z</updated>
+  <updated>2025-02-10T01:39:35Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hackclub/OnBoard</title>
-    <updated>2025-02-09T01:36:32Z</updated>
-    <id>tag:github.com,2025-02-09:/hackclub/OnBoard</id>
-    <link href="https://github.com/hackclub/OnBoard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💡 Join 1,000 teenagers and make your first PCB with a $100 grant!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
