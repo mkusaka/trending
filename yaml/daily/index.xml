@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-11T01:38:30Z</updated>
+  <updated>2025-02-12T01:38:57Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>COVESA/vehicle_signal_specification</title>
-    <updated>2025-02-11T01:38:30Z</updated>
-    <id>tag:github.com,2025-02-11:/COVESA/vehicle_signal_specification</id>
-    <link href="https://github.com/COVESA/vehicle_signal_specification" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vehicle Signal Specification - standardized way to describe automotive data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
