@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-12T01:31:12Z</updated>
+  <updated>2025-02-13T01:31:23Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SuperSimpleDev/html-css-course</title>
+    <updated>2025-02-13T01:31:23Z</updated>
+    <id>tag:github.com,2025-02-13:/SuperSimpleDev/html-css-course</id>
+    <link href="https://github.com/SuperSimpleDev/html-css-course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Watch the course: https://youtu.be/G3e-cpL7ofc&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;HTML and CSS Course Materials&lt;/h2&gt; &#xA;&lt;p&gt;📚 Watch the course here: &lt;a href=&#34;https://youtu.be/G3e-cpL7ofc&#34;&gt;https://youtu.be/G3e-cpL7ofc&lt;/a&gt;&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/SuperSimpleDev/html-css-course/main/1-exercise-solutions&#34;&gt;Exercise solutions&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/SuperSimpleDev/html-css-course/main/2-copy-of-code&#34;&gt;Copy of the code&lt;/a&gt; at the end of each lesson&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/SuperSimpleDev/html-css-course/main/3-extra&#34;&gt;Extra resources&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;🎓 A certificate of completion is available for this course here: &lt;a href=&#34;https://courses.supersimple.dev/courses/html-css&#34;&gt;https://courses.supersimple.dev/courses/html-css&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

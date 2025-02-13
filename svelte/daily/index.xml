@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-12T01:38:00Z</updated>
+  <updated>2025-02-13T01:38:13Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mateothegreat/svelte5-router</title>
-    <updated>2025-02-12T01:38:00Z</updated>
-    <id>tag:github.com,2025-02-12:/mateothegreat/svelte5-router</id>
-    <link href="https://github.com/mateothegreat/svelte5-router" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An SPA router for Svelte that allows you to divide &amp; conquer your app with nested routers.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
