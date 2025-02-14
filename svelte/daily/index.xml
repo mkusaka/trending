@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-13T01:38:13Z</updated>
+  <updated>2025-02-14T01:40:40Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MIERUNE/svelte-maplibre-gl</title>
+    <updated>2025-02-14T01:40:40Z</updated>
+    <id>tag:github.com,2025-02-14:/MIERUNE/svelte-maplibre-gl</id>
+    <link href="https://github.com/MIERUNE/svelte-maplibre-gl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Svelte 5 wrapper for 🗺 MapLibre GL JS — Build interactive web maps effortlessly with Svelte’s reactive and declarative power 🚀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
