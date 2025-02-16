@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-02-16T01:52:32Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NitroRCr/AIaW</title>
+    <updated>2025-02-16T01:52:32Z</updated>
+    <id>tag:github.com,2025-02-16:/NitroRCr/AIaW</id>
+    <link href="https://github.com/NitroRCr/AIaW" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI as Workspace - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、Artifacts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

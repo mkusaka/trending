@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-15T01:30:14Z</updated>
+  <updated>2025-02-16T01:30:15Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>coollabsio/documentation-coolify</title>
+    <updated>2025-02-16T01:30:15Z</updated>
+    <id>tag:github.com,2025-02-16:/coollabsio/documentation-coolify</id>
+    <link href="https://github.com/coollabsio/documentation-coolify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation for Coolify&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Coolify Documentation&lt;/h1&gt; &#xA;&lt;p&gt;This is the official repository for Coolify documentation, available at &lt;a href=&#34;https://coolify.io/docs&#34;&gt;https://coolify.io/docs&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Contributors should follow the guide at: &lt;a href=&#34;https://coolify.io/docs/resource/contribute/documentation&#34;&gt;https://coolify.io/docs/resource/contribute/documentation&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

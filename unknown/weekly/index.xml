@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-02-16T01:39:28Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cncf/mentoring</title>
+    <updated>2025-02-16T01:39:28Z</updated>
+    <id>tag:github.com,2025-02-16:/cncf/mentoring</id>
+    <link href="https://github.com/cncf/mentoring" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

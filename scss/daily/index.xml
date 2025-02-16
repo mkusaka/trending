@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-15T01:40:03Z</updated>
+  <updated>2025-02-16T01:37:42Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hugo-apero/hugo-apero</title>
+    <updated>2025-02-16T01:37:42Z</updated>
+    <id>tag:github.com,2025-02-16:/hugo-apero/hugo-apero</id>
+    <link href="https://github.com/hugo-apero/hugo-apero" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apéro is a Hugo theme for personal websites. A Hugo theme you&#39;ll want to hang out with 🌌 . This is the source for the theme files to install.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

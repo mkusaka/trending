@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Shell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-02-16T01:51:21Z</updated>
+  <subtitle>Weekly Trending of Shell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>langgenius/dify-docs</title>
+    <updated>2025-02-16T01:51:21Z</updated>
+    <id>tag:github.com,2025-02-16:/langgenius/dify-docs</id>
+    <link href="https://github.com/langgenius/dify-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The open-source repo for docs.dify.ai&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Dify Docs&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains the documentation website code and Markdown source files for &lt;a href=&#34;https://docs.dify.ai&#34;&gt;docs.dify.ai&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;The Dify product documentation in the assets, content, and data folders are licensed under a &lt;a href=&#34;https://raw.githubusercontent.com/langgenius/dify-docs/main/LICENSE&#34;&gt;CC-BY license&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+</feed>
