@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-16T01:31:54Z</updated>
+  <updated>2025-02-17T01:31:52Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>enatega/food-delivery-multivendor</title>
+    <updated>2025-02-17T01:31:52Z</updated>
+    <id>tag:github.com,2025-02-17:/enatega/food-delivery-multivendor</id>
+    <link href="https://github.com/enatega/food-delivery-multivendor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Enatega Multi Vendor Food Delivery System&lt;/h2&gt; &#xA;&lt;i&gt;The food delivery and order management system for the future.&lt;/i&gt; &#xA;&lt;br&gt; &#xA;&lt;br&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/user-attachments/assets/28636698-724f-4416-a334-820ba70c4c7e&#34; alt=&#34;banner 3&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;The Enatega multi-vendor food delivery solution is perfect for anyone wanting a ready-made, user-friendly platform for their food delivery and logistics business. Like popular services such as Foodpanda and Uber Eats, our system supports multiple restaurants, including those with locations in different areas. With an accessible admin panel and dedicated apps for customers, restaurants, and delivery riders, you can quickly set up your online food ordering and delivery management system. Enatega food delivery system was created to help small and large eateries who want to expand their business and increase visibility. Our solution is open source, but the backend and API are proprietary. You can access them through a paid license. For more details, &lt;a href=&#34;https://enatega.com/?utm_source=github&amp;amp;utm_medium=referral&amp;amp;utm_campaign=github_guide&amp;amp;utm_id=12345678&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
