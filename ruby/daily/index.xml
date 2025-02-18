@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-17T01:39:48Z</updated>
+  <updated>2025-02-18T01:38:20Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>czhu12/canine</title>
+    <updated>2025-02-18T01:38:20Z</updated>
+    <id>tag:github.com,2025-02-18:/czhu12/canine</id>
+    <link href="https://github.com/czhu12/canine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Power of Kubernetes, Simplicity of Heroku&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/czhu12/canine/raw/main/public/images/logo-full.png?raw=true&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/czhu12/canine/refs/heads/main/public/images/deployment_styled.png&#34; alt=&#34;Deployment Screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;About the project&lt;/h2&gt; &#xA;&lt;p&gt;Canine is an easy to use intuitive deployment platform for Kubernetes clusters.&lt;/p&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Docker v24.0.0 or higher&lt;/li&gt; &#xA; &lt;li&gt;Docker Compose v2.0.0 or higher&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;curl -sSL https://raw.githubusercontent.com/czhu12/canine/refs/heads/main/install/install.sh | bash&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Cloud&lt;/h2&gt; &#xA;&lt;p&gt;Canine Cloud offers additional features for small teams:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;GitHub integration for seamless deployment workflows&lt;/li&gt; &#xA; &lt;li&gt;Team collaboration with role-based access control&lt;/li&gt; &#xA; &lt;li&gt;Real-time metric tracking and monitoring&lt;/li&gt; &#xA; &lt;li&gt;Way less maintenance for you&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For more information &amp;amp; pricing, take a look at our landing page &lt;a href=&#34;https://canine.sh&#34;&gt;https://canine.sh&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/czhu12/canine/raw/main/LICENSE&#34;&gt;MIT License&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
