@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-18T01:30:07Z</updated>
+  <updated>2025-02-19T01:30:13Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kodjodevf/mangayomi-extensions</title>
-    <updated>2025-02-18T01:30:07Z</updated>
-    <id>tag:github.com,2025-02-18:/kodjodevf/mangayomi-extensions</id>
-    <link href="https://github.com/kodjodevf/mangayomi-extensions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public source extensions for the Mangayomi app.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Mangayomi Extensions&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains the available extension catalogues for the Mangayomi app.&lt;/p&gt; &#xA;&lt;h2&gt;Guide&lt;/h2&gt; &#xA;&lt;p&gt;just paste them into your:&lt;/p&gt; &#xA;&lt;p&gt;manga repo&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;https://kodjodevf.github.io/mangayomi-extensions/index.json&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;anime repo&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;https://kodjodevf.github.io/mangayomi-extensions/anime_index.json&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;novel repo&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;https://kodjodevf.github.io/mangayomi-extensions/novel_index.json&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Contributing&lt;/h1&gt; &#xA;&lt;p&gt;Contributions are welcome!&lt;/p&gt; &#xA;&lt;p&gt;To get started with development, see &lt;a href=&#34;https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/CONTRIBUTING-DART.md&#34;&gt;CONTRIBUTING-DART.md&lt;/a&gt; for create sources in Dart or &lt;a href=&#34;https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/CONTRIBUTING-JS.md&#34;&gt;CONTRIBUTING-JS.md&lt;/a&gt; for create sources in JavaScript.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;Copyright 2023 Moustapha Kodjo Amadou&#xA;&#xA;Licensed under the Apache License, Version 2.0 (the &#34;License&#34;);&#xA;you may not use this file except in compliance with the License.&#xA;You may obtain a copy of the License at&#xA;&#xA;http://www.apache.org/licenses/LICENSE-2.0&#xA;&#xA;Unless required by applicable law or agreed to in writing, software&#xA;distributed under the License is distributed on an &#34;AS IS&#34; BASIS,&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xA;See the License for the specific language governing permissions and&#xA;limitations under the License.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Disclaimer&lt;/h2&gt; &#xA;&lt;p&gt;The developer of this application does not have any affiliation with the content providers available.&lt;/p&gt;</summary>
-  </entry>
 </feed>

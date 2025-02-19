@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-18T01:36:59Z</updated>
+  <updated>2025-02-19T01:36:17Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>microsoft/onnxruntime-swift-package-manager</title>
+    <updated>2025-02-19T01:36:17Z</updated>
+    <id>tag:github.com,2025-02-19:/microsoft/onnxruntime-swift-package-manager</id>
+    <link href="https://github.com/microsoft/onnxruntime-swift-package-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A light-weight repository for providing Swift Package Manager support for ONNX Runtime.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

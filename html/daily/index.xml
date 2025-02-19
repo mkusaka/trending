@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-18T01:32:09Z</updated>
+  <updated>2025-02-19T01:31:45Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hackingthemarkets/interactive-brokers-web-api</title>
+    <updated>2025-02-19T01:31:45Z</updated>
+    <id>tag:github.com,2025-02-19:/hackingthemarkets/interactive-brokers-web-api</id>
+    <link href="https://github.com/hackingthemarkets/interactive-brokers-web-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A docker container and flask app for use with the Interactive Brokers Web API 1.0&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Interactive Brokers Web API&lt;/h1&gt; &#xA;&lt;h2&gt;Video Walkthrough&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CRsH9TKveLo&#34;&gt;https://www.youtube.com/watch?v=CRsH9TKveLo&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Docker Desktop - &lt;a href=&#34;https://www.docker.com/products/docker-desktop/&#34;&gt;https://www.docker.com/products/docker-desktop/&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Clone the source code&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone https://github.com/hackingthemarkets/interactive-brokers-web-api.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Bring up the container&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker-compose up&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Getting a command line prompt&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker exec -it ibkr bash&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>
