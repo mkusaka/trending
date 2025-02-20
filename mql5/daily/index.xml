@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MQL5 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-19T01:35:52Z</updated>
+  <updated>2025-02-20T01:36:00Z</updated>
   <subtitle>Daily Trending of MQL5 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>landim32/LadinoBot</title>
+    <updated>2025-02-20T01:36:00Z</updated>
+    <id>tag:github.com,2025-02-20:/landim32/LadinoBot</id>
+    <link href="https://github.com/landim32/LadinoBot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Robô Open Source para MQL5&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
