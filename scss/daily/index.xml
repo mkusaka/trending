@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-21T01:38:46Z</updated>
+  <updated>2025-02-22T01:38:18Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tidyverse/style</title>
-    <updated>2025-02-21T01:38:46Z</updated>
-    <id>tag:github.com,2025-02-21:/tidyverse/style</id>
-    <link href="https://github.com/tidyverse/style" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The tidyverse style guide for R code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

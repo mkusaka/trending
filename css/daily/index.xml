@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-21T01:30:19Z</updated>
+  <updated>2025-02-22T01:30:13Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>open-falcon-archive/agent</title>
-    <updated>2025-02-21T01:30:19Z</updated>
-    <id>tag:github.com,2025-02-21:/open-falcon-archive/agent</id>
-    <link href="https://github.com/open-falcon-archive/agent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;linux monitor agent&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;falcon-agent&lt;/h1&gt; &#xA;&lt;p&gt;This is a linux monitor agent. Just like zabbix-agent and tcollector.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;It is a golang classic project&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# set $GOPATH and $GOROOT&#xA;mkdir -p $GOPATH/src/github.com/open-falcon&#xA;cd $GOPATH/src/github.com/open-falcon&#xA;git clone https://github.com/open-falcon/agent.git&#xA;cd agent&#xA;go get ./...&#xA;./control build&#xA;./control start&#xA;&#xA;# goto http://localhost:1988&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;I use &lt;a href=&#34;https://github.com/afaqurk/linux-dash&#34;&gt;linux-dash&lt;/a&gt; as the page theme.&lt;/p&gt; &#xA;&lt;h2&gt;Configuration&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;heartbeat: heartbeat server rpc address&lt;/li&gt; &#xA; &lt;li&gt;transfer: transfer rpc address&lt;/li&gt; &#xA; &lt;li&gt;ignore: the metrics should ignore&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Deployment&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://ulricqin.com/project/ops-updater/&#34;&gt;http://ulricqin.com/project/ops-updater/&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

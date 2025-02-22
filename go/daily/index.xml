@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Go Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-21T01:31:41Z</updated>
+  <updated>2025-02-22T01:31:27Z</updated>
   <subtitle>Daily Trending of Go in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>subtrace/subtrace</title>
+    <updated>2025-02-22T01:31:27Z</updated>
+    <id>tag:github.com,2025-02-22:/subtrace/subtrace</id>
+    <link href="https://github.com/subtrace/subtrace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wireshark for Docker containers&lt;/p&gt;&lt;hr&gt;&lt;h3&gt;Subtrace&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://subtrace.dev&#34;&gt;&lt;strong&gt;Home&lt;/strong&gt;&lt;/a&gt; — &lt;a href=&#34;https://docs.subtrace.dev&#34;&gt;&lt;strong&gt;Docs&lt;/strong&gt;&lt;/a&gt; — &lt;a href=&#34;https://subtrace.dev/discord&#34;&gt;&lt;strong&gt;Discord&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Wireshark for Docker containers&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://subtrace.dev/3f5162cfcfccd62c9f86.png&#34; alt=&#34;screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Subtrace is Wireshark for your Docker containers. It lets developers see all incoming and outgoing requests in their backend server so that they can resolve production issues faster.&lt;/p&gt; &#xA;&lt;h4&gt;Features&lt;/h4&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Works out-of-the-box&lt;/li&gt; &#xA; &lt;li&gt;No code changes needed&lt;/li&gt; &#xA; &lt;li&gt;Supports all languages (Python + Node + Go + everything else)&lt;/li&gt; &#xA; &lt;li&gt;See full payload, headers, status code, and latency&lt;/li&gt; &#xA; &lt;li&gt;Less than 100µs performance overhead&lt;/li&gt; &#xA; &lt;li&gt;Built on Clickhouse&lt;/li&gt; &#xA; &lt;li&gt;Open source&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h4&gt;Code Contributions&lt;/h4&gt; &#xA;&lt;p&gt;While Subtrace is &lt;a href=&#34;https://github.com/subtrace/subtrace/raw/master/LICENSE&#34;&gt;open source&lt;/a&gt;, we&#39;re not currently accepting pull requests. This is because we&#39;re a startup with a very small team and we don&#39;t have the resources or documentation necessary to maintain a good open source community in a way that still allows us to move quickly. This will probably change in the future.&lt;/p&gt; &#xA;&lt;p&gt;With that said, we welcome all feature requests and bug reports, so feel free to &lt;a href=&#34;https://github.com/subtrace/subtrace/issues/new/choose&#34;&gt;open an issue&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
