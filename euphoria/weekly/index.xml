@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Euphoria Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-02-23T01:41:45Z</updated>
+  <subtitle>Weekly Trending of Euphoria in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CelesTrak/fundamentals-of-astrodynamics</title>
+    <updated>2025-02-23T01:41:45Z</updated>
+    <id>tag:github.com,2025-02-23:/CelesTrak/fundamentals-of-astrodynamics</id>
+    <link href="https://github.com/CelesTrak/fundamentals-of-astrodynamics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code related to &#34;Fundamentals of Astrodynamics and Applications&#34; 5th ed. by David Vallado&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
