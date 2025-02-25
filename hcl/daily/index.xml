@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-24T01:31:25Z</updated>
+  <updated>2025-02-25T01:31:20Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>terraform-google-modules/terraform-google-lb-internal</title>
-    <updated>2025-02-24T01:31:25Z</updated>
-    <id>tag:github.com,2025-02-24:/terraform-google-modules/terraform-google-lb-internal</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-lb-internal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Creates an internal load balancer for Compute Engine by using forwarding rules&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners</title>
+    <updated>2025-02-25T01:31:20Z</updated>
+    <id>tag:github.com,2025-02-25:/Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners</id>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Verified Module for Azure DevOps Agents and GitHub Runners&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
