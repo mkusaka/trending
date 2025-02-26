@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-25T01:34:52Z</updated>
+  <updated>2025-02-26T01:36:58Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DZakh/rescript-schema</title>
-    <updated>2025-02-25T01:34:52Z</updated>
-    <id>tag:github.com,2025-02-25:/DZakh/rescript-schema</id>
-    <link href="https://github.com/DZakh/rescript-schema" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧬 The fastest parser in the entire JavaScript ecosystem with a focus on small bundle size and top-notch DX&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
