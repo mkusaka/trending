@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-01T01:55:13Z</updated>
+  <subtitle>Monthly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cashapp/hermit-packages</title>
+    <updated>2025-03-01T01:55:13Z</updated>
+    <id>tag:github.com,2025-03-01:/cashapp/hermit-packages</id>
+    <link href="https://github.com/cashapp/hermit-packages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hermit manages isolated, self-bootstrapping sets of tools in software projects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

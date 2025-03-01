@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nextflow Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-01T01:59:29Z</updated>
+  <subtitle>Monthly Trending of Nextflow in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nextflow-io/training</title>
+    <updated>2025-03-01T01:59:29Z</updated>
+    <id>tag:github.com,2025-03-01:/nextflow-io/training</id>
+    <link href="https://github.com/nextflow-io/training" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nextflow training material&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

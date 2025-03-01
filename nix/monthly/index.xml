@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-01T01:59:33Z</updated>
+  <subtitle>Monthly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NotAShelf/nvf</title>
+    <updated>2025-03-01T01:59:33Z</updated>
+    <id>tag:github.com,2025-03-01:/NotAShelf/nvf</id>
+    <link href="https://github.com/NotAShelf/nvf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nixos-bsd/nixbsd</title>
+    <updated>2025-03-01T01:59:33Z</updated>
+    <id>tag:github.com,2025-03-01:/nixos-bsd/nixbsd</id>
+    <link href="https://github.com/nixos-bsd/nixbsd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An unofficial NixOS fork with a FreeBSD kernel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tpwrules/nixos-apple-silicon</title>
+    <updated>2025-03-01T01:59:33Z</updated>
+    <id>tag:github.com,2025-03-01:/tpwrules/nixos-apple-silicon</id>
+    <link href="https://github.com/tpwrules/nixos-apple-silicon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources to install NixOS bare metal on Apple Silicon Macs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

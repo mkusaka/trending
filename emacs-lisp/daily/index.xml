@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-28T01:30:41Z</updated>
+  <updated>2025-03-01T01:30:49Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rainstormstudio/nerd-icons-dired</title>
+    <updated>2025-03-01T01:30:49Z</updated>
+    <id>tag:github.com,2025-03-01:/rainstormstudio/nerd-icons-dired</id>
+    <link href="https://github.com/rainstormstudio/nerd-icons-dired" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#+TITLE: nerd-icons-dired - Use nerd-icons for Dired #+AUTHOR: Hongyu Ding #+LANGUAGE: en&lt;/p&gt; &#xA;&lt;p&gt;[[https://melpa.org/#/nerd-icons-dired][file:https://melpa.org/packages/nerd-icons-dired-badge.svg]]&lt;/p&gt; &#xA;&lt;p&gt;nerd-icons-dired is inspired by [[https://github.com/jtbm37/all-the-icons-dired][all-the-icons-dired]]&lt;/p&gt; &#xA;&lt;p&gt;[[file:screenshots/demo.png]]&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Usage add &lt;del&gt;nerd-icons-dired&lt;/del&gt; to the &lt;del&gt;load-path&lt;/del&gt; #+BEGIN_SRC emacs-lisp (require &#39;nerd-icons) ... (require &#39;nerd-icons-dired) (add-hook &#39;dired-mode-hook #&#39;nerd-icons-dired-mode) #+END_SRC or using &lt;del&gt;use-package&lt;/del&gt; #+BEGIN_SRC emacs-lisp (use-package nerd-icons-dired :hook (dired-mode . nerd-icons-dired-mode)) #+END_SRC&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

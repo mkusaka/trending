@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-28T01:28:37Z</updated>
+  <updated>2025-03-01T01:28:48Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>microsoft/vscode-copilot-release</title>
-    <updated>2025-02-28T01:28:37Z</updated>
-    <id>tag:github.com,2025-02-28:/microsoft/vscode-copilot-release</id>
-    <link href="https://github.com/microsoft/vscode-copilot-release" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Feedback on GitHub Copilot Chat UX in Visual Studio Code.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>punkpeye/awesome-mcp-servers</title>
+    <updated>2025-03-01T01:28:48Z</updated>
+    <id>tag:github.com,2025-03-01:/punkpeye/awesome-mcp-servers</id>
+    <link href="https://github.com/punkpeye/awesome-mcp-servers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of MCP servers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>amusi/CVPR2025-Papers-with-Code</title>
+    <updated>2025-03-01T01:28:48Z</updated>
+    <id>tag:github.com,2025-03-01:/amusi/CVPR2025-Papers-with-Code</id>
+    <link href="https://github.com/amusi/CVPR2025-Papers-with-Code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CVPR 2025 论文和开源项目合集&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-02-28T01:36:02Z</updated>
+  <updated>2025-03-01T01:36:10Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>0xkuj/IPARanger</title>
+    <updated>2025-03-01T01:36:10Z</updated>
+    <id>tag:github.com,2025-03-01:/0xkuj/IPARanger</id>
+    <link href="https://github.com/0xkuj/IPARanger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GUI Interface for ipatool&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;IPARanger&lt;/h1&gt; &#xA;&lt;p&gt;Download any IPA from the appstore (encrypted) using your apple ID account!&lt;/p&gt; &#xA;&lt;p&gt;This app is meant for jailbroken devices, but may support non-jailbroken devices in the future.&lt;/p&gt; &#xA;&lt;h1&gt;Instructions&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Install dependencies (gawk, unzip, appsync unified) as these are required to run some commands / install the IPAs you download&lt;/li&gt; &#xA; &lt;li&gt;Install the deb file containing the package either from packages directory or from havoc repository.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;This app consists mainly 4 screens. Login - Where you will input your Apple ID and Apple ID password: &lt;img src=&#34;https://user-images.githubusercontent.com/56236821/228067107-e19bb1e5-3a7d-4ef9-bff4-a552bfbedf7d.png&#34; width=&#34;400&#34; height=&#34;850&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Search Screen - Where you will define the country you want to search apps in the Appstore &lt;img src=&#34;https://user-images.githubusercontent.com/56236821/228067086-f709655d-7b7c-456a-9596-01dba19c39e5.png&#34; width=&#34;400&#34; height=&#34;850&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Download Screen - Where you will handle - delete/rename/share/install your donwloaded IPAs &lt;img src=&#34;https://user-images.githubusercontent.com/56236821/228067124-f65b158e-c17d-4459-b529-99582a05fe8b.png&#34; width=&#34;400&#34; height=&#34;850&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Account Screen - Where you can see details such as last login date, your name and your email of the account that is connected to the app&lt;/p&gt; &#xA;&lt;img src=&#34;https://user-images.githubusercontent.com/56236821/228067467-e3bd91fc-9ac9-47d0-b82c-afefeb2fc571.jpg&#34; width=&#34;400&#34; height=&#34;850&#34;&gt; &#xA;&lt;h1&gt;Support&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Jailbroken devices running iOS 13.4 - iOS 16 (?) (without Xina15 jailbreak included)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Credits&lt;/h1&gt; &#xA;&lt;p&gt;Thanks to @majd&#39;s ipatool&lt;/p&gt;</summary>
+  </entry>
 </feed>
