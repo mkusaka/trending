@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nim Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-02T01:52:37Z</updated>
+  <subtitle>Weekly Trending of Nim in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>guzba/zippy</title>
+    <updated>2025-03-02T01:52:37Z</updated>
+    <id>tag:github.com,2025-03-02:/guzba/zippy</id>
+    <link href="https://github.com/guzba/zippy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure Nim implementation of deflate, zlib, gzip and zip.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
