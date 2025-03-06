@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-05T01:35:47Z</updated>
+  <updated>2025-03-06T01:36:53Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure/Azure-Landing-Zones-Library</title>
-    <updated>2025-03-05T01:35:47Z</updated>
-    <id>tag:github.com,2025-03-05:/Azure/Azure-Landing-Zones-Library</id>
-    <link href="https://github.com/Azure/Azure-Landing-Zones-Library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library of assets to deploy Azure Landing Zones architectures&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://scorecard.dev/viewer/?uri=github.com/Azure/Azure-Landing-Zones-Library&#34;&gt;&lt;img src=&#34;https://api.scorecard.dev/projects/github.com/Azure/Azure-Landing-Zones-Library/badge&#34; alt=&#34;OpenSSF Scorecard&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Azure Landing Zones Library&lt;/h1&gt; &#xA;&lt;p&gt;All documentation is on our GitHub Pages site: &lt;a href=&#34;https://azure.github.io/Azure-Landing-Zones-Library/&#34;&gt;https://azure.github.io/Azure-Landing-Zones-Library/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit &lt;a href=&#34;https://cla.opensource.microsoft.com&#34;&gt;https://cla.opensource.microsoft.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.&lt;/p&gt; &#xA;&lt;p&gt;This project has adopted the &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/&#34;&gt;Microsoft Open Source Code of Conduct&lt;/a&gt;. For more information see the &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/faq/&#34;&gt;Code of Conduct FAQ&lt;/a&gt; or contact &lt;a href=&#34;mailto:opencode@microsoft.com&#34;&gt;opencode@microsoft.com&lt;/a&gt; with any additional questions or comments.&lt;/p&gt; &#xA;&lt;h2&gt;Trademarks&lt;/h2&gt; &#xA;&lt;p&gt;This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow &lt;a href=&#34;https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general&#34;&gt;Microsoft&#39;s Trademark &amp;amp; Brand Guidelines&lt;/a&gt;. Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party&#39;s policies.&lt;/p&gt;</summary>
-  </entry>
 </feed>
