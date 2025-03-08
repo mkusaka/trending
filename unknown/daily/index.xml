@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-07T01:28:36Z</updated>
+  <updated>2025-03-08T01:26:51Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Zzaphkiel/Seraphine</title>
-    <updated>2025-03-07T01:28:36Z</updated>
-    <id>tag:github.com,2025-03-07:/Zzaphkiel/Seraphine</id>
-    <link href="https://github.com/Zzaphkiel/Seraphine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>niXman/mingw-builds-binaries</title>
-    <updated>2025-03-07T01:28:36Z</updated>
-    <id>tag:github.com,2025-03-07:/niXman/mingw-builds-binaries</id>
-    <link href="https://github.com/niXman/mingw-builds-binaries" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MinGW-W64 compiler binaries&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dhamaniasad/awesome-postgres</title>
-    <updated>2025-03-07T01:28:36Z</updated>
-    <id>tag:github.com,2025-03-07:/dhamaniasad/awesome-postgres</id>
-    <link href="https://github.com/dhamaniasad/awesome-postgres" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
