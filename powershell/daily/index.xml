@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-08T01:38:00Z</updated>
+  <updated>2025-03-09T01:36:06Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MicrosoftDocs/PowerShell-Docs-DSC</title>
+    <updated>2025-03-09T01:36:06Z</updated>
+    <id>tag:github.com,2025-03-09:/MicrosoftDocs/PowerShell-Docs-DSC</id>
+    <link href="https://github.com/MicrosoftDocs/PowerShell-Docs-DSC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation for PowerShell Desired State Configuration&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Microsoft Open Source Code of Conduct&lt;/h2&gt; &#xA;&lt;p&gt;This project has adopted the &lt;a href=&#34;https://raw.githubusercontent.com/MicrosoftDocs/PowerShell-Docs-DSC/main/CODE_OF_CONDUCT.md&#34;&gt;Microsoft Open Source Code of Conduct&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;PowerShell Updatable Help (CabGen) CI Build Status&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://apidrop.visualstudio.com/Content%20CI/_build/latest?definitionId=5074&amp;amp;repoName=MicrosoftDocs%2FPowerShell-Docs-DSC&amp;amp;branchName=live&#34;&gt;&lt;img src=&#34;https://apidrop.visualstudio.com/Content%20CI/_apis/build/status/PROD/CabGen(PowerShell_Updatable_Help)/GitHub_MicrosoftDocs_PowerShell-Docs-DSC/5e2f03cc-63f1-1428-f12c-c00198b87edc_cabgen_Publish-Updatable-Help?repoName=MicrosoftDocs%2FPowerShell-Docs-DSC&amp;amp;branchName=live&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

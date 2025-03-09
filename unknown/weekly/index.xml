@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-09T01:38:48Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>amusi/CVPR2025-Papers-with-Code</title>
+    <updated>2025-03-09T01:38:48Z</updated>
+    <id>tag:github.com,2025-03-09:/amusi/CVPR2025-Papers-with-Code</id>
+    <link href="https://github.com/amusi/CVPR2025-Papers-with-Code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CVPR 2025 论文和开源项目合集&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pi-apps/pi-platform-docs</title>
+    <updated>2025-03-09T01:38:48Z</updated>
+    <id>tag:github.com,2025-03-09:/pi-apps/pi-platform-docs</id>
+    <link href="https://github.com/pi-apps/pi-platform-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jujumilk3/leaked-system-prompts</title>
+    <updated>2025-03-09T01:38:48Z</updated>
+    <id>tag:github.com,2025-03-09:/jujumilk3/leaked-system-prompts</id>
+    <link href="https://github.com/jujumilk3/leaked-system-prompts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of leaked system prompts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
