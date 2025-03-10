@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-09T01:37:03Z</updated>
+  <updated>2025-03-10T01:41:15Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>armanbilge/calico</title>
-    <updated>2025-03-09T01:37:03Z</updated>
-    <id>tag:github.com,2025-03-09:/armanbilge/calico</id>
-    <link href="https://github.com/armanbilge/calico" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pure, reactive UI library for Scala.js&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Calico&lt;/h1&gt; &#xA;&lt;p&gt;Build reactive web applications in Scala.js with Cats Effect, FS2, and friends!&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-scala&#34;&gt;libraryDependencies += &#34;com.armanbilge&#34; %%% &#34;calico&#34; % &#34;0.2.3&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Please explore the documentation and examples at &lt;a href=&#34;https://armanbilge.github.io/calico&#34;&gt;https://armanbilge.github.io/calico&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>
