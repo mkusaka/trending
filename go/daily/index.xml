@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Go Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-10T01:30:17Z</updated>
+  <updated>2025-03-11T01:31:09Z</updated>
   <subtitle>Daily Trending of Go in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Aylur/ags</title>
-    <updated>2025-03-10T01:30:17Z</updated>
-    <id>tag:github.com,2025-03-10:/Aylur/ags</id>
-    <link href="https://github.com/Aylur/ags" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scaffolding CLI for Astal+TypeScript&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;AGS&lt;/h1&gt; &#xA;&lt;p&gt;CLI around &lt;a href=&#34;https://github.com/aylur/astal&#34;&gt;Astal&lt;/a&gt; to scaffold and run projects. Astal is a set of libraries written in Vala/C that makes writing a Desktop Shell easy. It also has an accompanying JavaScript library which lets you write Desktop Shells in JSX running on GJS. GJS is a JavaScript runtime built on Firefox&#39;s SpiderMonkey JavaScript engine and the GNOME platform libraries, the same runtime &lt;a href=&#34;https://gitlab.gnome.org/GNOME/gnome-shell&#34;&gt;GNOME Shell&lt;/a&gt; runs on.&lt;/p&gt; &#xA;&lt;h2&gt;Get started&lt;/h2&gt; &#xA;&lt;p&gt;To get started read the &lt;a href=&#34;https://aylur.github.io/ags&#34;&gt;wiki&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;[!NOTE] Wiki of the legacy v1 is still available on &lt;a href=&#34;https://aylur.github.io/ags-docs/&#34;&gt;aylur.github.io/ags-docs/&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
-  </entry>
-  <entry>
-    <title>e2b-dev/infra</title>
-    <updated>2025-03-10T01:30:17Z</updated>
-    <id>tag:github.com,2025-03-10:/e2b-dev/infra</id>
-    <link href="https://github.com/e2b-dev/infra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Infrastructure for AI code interpreting that&#39;s powering E2B.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;E2B Infrastructure&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://e2b.dev&#34;&gt;E2B&lt;/a&gt; is an open-source infrastructure for AI code interpreting. In our main repository &lt;a href=&#34;https://github.com/e2b-dev/E2B&#34;&gt;e2b-dev/e2b&lt;/a&gt; we are giving you SDKs and CLI to customize and manage environments and run your AI agents in the cloud.&lt;/p&gt; &#xA;&lt;p&gt;This repository contains the infrastructure that powers the E2B platform.&lt;/p&gt; &#xA;&lt;h2&gt;Self-hosting&lt;/h2&gt; &#xA;&lt;p&gt;Read the &lt;a href=&#34;https://raw.githubusercontent.com/e2b-dev/infra/main/self-host.md&#34;&gt;self-hosting guide&lt;/a&gt; to learn how to set up the infrastructure on your own. The infrastructure is deployed using Terraform. The process is not perfect yet, but we are working on it.&lt;/p&gt; &#xA;&lt;p&gt;Supported cloud providers:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;🟢 GCP&lt;/li&gt; &#xA; &lt;li&gt;🚧 AWS&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Azure&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; General linux machine&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-10T01:31:16Z</updated>
+  <updated>2025-03-11T01:32:08Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Jutho/KrylovKit.jl</title>
-    <updated>2025-03-10T01:31:16Z</updated>
-    <id>tag:github.com,2025-03-10:/Jutho/KrylovKit.jl</id>
-    <link href="https://github.com/Jutho/KrylovKit.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Krylov methods for linear problems, eigenvalues, singular values and matrix functions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>julia-actions/cache</title>
+    <updated>2025-03-11T01:32:08Z</updated>
+    <id>tag:github.com,2025-03-11:/julia-actions/cache</id>
+    <link href="https://github.com/julia-actions/cache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A shortcut action to cache Julia artifacts, packages, and registries.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LuxDL/Boltz.jl</title>
+    <updated>2025-03-11T01:32:08Z</updated>
+    <id>tag:github.com,2025-03-11:/LuxDL/Boltz.jl</id>
+    <link href="https://github.com/LuxDL/Boltz.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Accelerate your ML research using pre-built Deep Learning Models with Lux&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

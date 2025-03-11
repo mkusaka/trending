@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-10T01:42:47Z</updated>
+  <updated>2025-03-11T01:43:43Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>onedr0p/home-ops</title>
+    <updated>2025-03-11T01:43:43Z</updated>
+    <id>tag:github.com,2025-03-11:/onedr0p/home-ops</id>
+    <link href="https://github.com/onedr0p/home-ops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wife approved HomeOps driven by Kubernetes and GitOps using Flux&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

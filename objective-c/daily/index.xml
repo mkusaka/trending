@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-10T01:37:13Z</updated>
+  <updated>2025-03-11T01:38:14Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Adobe-Marketing-Cloud/mobile-services</title>
-    <updated>2025-03-10T01:37:13Z</updated>
-    <id>tag:github.com,2025-03-10:/Adobe-Marketing-Cloud/mobile-services</id>
-    <link href="https://github.com/Adobe-Marketing-Cloud/mobile-services" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⛔️ Deprecated ⛔️ These SDKs are no longer supported by Adobe. Please see Adobe Experience Platform Mobile SDKs for current and supported versions.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;⛔️ DEPRECATED ⛔️&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Important: These SDK libraries are no longer supported by Adobe. The Adobe Experience Platform Mobile SDK (previously referred to as v5) will exclusively support upcoming Adobe Experience Cloud features and functionality. Please see 4x SDK end of support &lt;a href=&#34;https://aep-sdks.gitbook.io/docs/version-4-sdk-end-of-support-faq&#34;&gt;FAQ&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;These new Adobe Experience Platform Mobile SDKs are configurable through &lt;a href=&#34;https://www.adobe.com/experience-platform/launch.html&#34;&gt;Experience Platform Launch&lt;/a&gt;. Visit &lt;a href=&#34;https://launch.adobe.com&#34;&gt;Launch&lt;/a&gt; to get started. Experience Platform SDK repositories are here - &lt;a href=&#34;https://github.com/Adobe-Marketing-Cloud/acp-sdks&#34;&gt;Github: Adobe Experience Platform SDKs&lt;/a&gt;.**&lt;/p&gt;</summary>
-  </entry>
 </feed>
