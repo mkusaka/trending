@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-11T01:31:32Z</updated>
+  <updated>2025-03-12T01:34:11Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>allwefantasy/auto-coder</title>
+    <updated>2025-03-12T01:34:11Z</updated>
+    <id>tag:github.com,2025-03-12:/allwefantasy/auto-coder</id>
+    <link href="https://github.com/allwefantasy/auto-coder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &#xA; &lt;picture&gt; &#xA;  &lt;img alt=&#34;auto-coder&#34; src=&#34;https://raw.githubusercontent.com/allwefantasy/auto-coder/master/logo/auto-coder.jpeg&#34; width=&#34;55%&#34;&gt; &#xA; &lt;/picture&gt; &lt;/p&gt; &#xA;&lt;h3 align=&#34;center&#34;&gt; Auto-Coder (powered by Byzer-LLM) &lt;/h3&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://uelng8wukz.feishu.cn/wiki/QIpkwpQo2iSdkwk9nP6cNSPlnPc&#34;&gt;&lt;b&gt;中文&lt;/b&gt;&lt;/a&gt; | &lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;&lt;em&gt;Latest News&lt;/em&gt; 🔥&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;[2025/01] Release Auto-Coder 0.1.208&lt;/li&gt; &#xA; &lt;li&gt;[2024/09] Release Auto-Coder 0.1.163&lt;/li&gt; &#xA; &lt;li&gt;[2024/08] Release Auto-Coder 0.1.143&lt;/li&gt; &#xA; &lt;li&gt;[2024/07] Release Auto-Coder 0.1.115&lt;/li&gt; &#xA; &lt;li&gt;[2024/06] Release Auto-Coder 0.1.82&lt;/li&gt; &#xA; &lt;li&gt;[2024/05] Release Auto-Coder 0.1.73&lt;/li&gt; &#xA; &lt;li&gt;[2024/04] Release Auto-Coder 0.1.46&lt;/li&gt; &#xA; &lt;li&gt;[2024/03] Release Auto-Coder 0.1.25&lt;/li&gt; &#xA; &lt;li&gt;[2024/03] Release Auto-Coder 0.1.24&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;conda create --name autocoder python=3.10.11&#xA;conda activate autocoder&#xA;pip install -U auto-coder&#xA;auto-coder.chat&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Tutorial&lt;/h2&gt; &#xA;&lt;ol start=&#34;0&#34;&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://uelng8wukz.feishu.cn/wiki/QIpkwpQo2iSdkwk9nP6cNSPlnPc&#34;&gt;Auto-Coder.Chat: 通向智能编程之路&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>

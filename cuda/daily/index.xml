@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-11T01:30:02Z</updated>
+  <updated>2025-03-12T01:32:27Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>microsoft/TileFusion</title>
-    <updated>2025-03-11T01:30:02Z</updated>
-    <id>tag:github.com,2025-03-11:/microsoft/TileFusion</id>
-    <link href="https://github.com/microsoft/TileFusion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TileFusion is a highly efficient C++ macro kernel template library designed to elevate the level of abstraction in CUDA C for processing tiles.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>drkennetz/cuda_examples</title>
-    <updated>2025-03-11T01:30:02Z</updated>
-    <id>tag:github.com,2025-03-11:/drkennetz/cuda_examples</id>
-    <link href="https://github.com/drkennetz/cuda_examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Some CUDA example code with READMEs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

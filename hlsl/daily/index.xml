@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-11T01:31:28Z</updated>
+  <updated>2025-03-12T01:34:05Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>The-Grand-Combination/The-Grand-Combo</title>
+    <updated>2025-03-12T01:34:05Z</updated>
+    <id>tag:github.com,2025-03-12:/The-Grand-Combination/The-Grand-Combo</id>
+    <link href="https://github.com/The-Grand-Combination/The-Grand-Combo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A deeply ambitious and complete Victoria II overhaul with improved map, historical and non historical flavor and new mechanics.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
