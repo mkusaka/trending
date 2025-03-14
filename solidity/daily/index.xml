@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-13T01:40:27Z</updated>
+  <updated>2025-03-14T01:38:48Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>base/RRC-7755-poc</title>
-    <updated>2025-03-13T01:40:27Z</updated>
-    <id>tag:github.com,2025-03-13:/base/RRC-7755-poc</id>
-    <link href="https://github.com/base/RRC-7755-poc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Proof of Concept for RRC-7755&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
