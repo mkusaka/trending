@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-14T01:32:51Z</updated>
+  <updated>2025-03-15T01:32:23Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ZacSweers/metro</title>
-    <updated>2025-03-14T01:32:51Z</updated>
-    <id>tag:github.com,2025-03-14:/ZacSweers/metro</id>
-    <link href="https://github.com/ZacSweers/metro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A multiplatform dependency injection framework for Kotlin&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;🚉 Metro&lt;/h1&gt; &#xA;&lt;h3&gt;&lt;a href=&#34;https://zacsweers.github.io/metro&#34;&gt;zacsweers.github.io/metro&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;Copyright (C) 2025 Zac Sweers&#xA;&#xA;Licensed under the Apache License, Version 2.0 (the &#34;License&#34;);&#xA;you may not use this file except in compliance with the License.&#xA;You may obtain a copy of the License at&#xA;&#xA;   https://www.apache.org/licenses/LICENSE-2.0&#xA;&#xA;Unless required by applicable law or agreed to in writing, software&#xA;distributed under the License is distributed on an &#34;AS IS&#34; BASIS,&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xA;See the License for the specific language governing permissions and&#xA;limitations under the License.&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-14T01:39:42Z</updated>
+  <updated>2025-03-15T01:43:35Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>laravel/vue-starter-kit</title>
-    <updated>2025-03-14T01:39:42Z</updated>
-    <id>tag:github.com,2025-03-14:/laravel/vue-starter-kit</id>
-    <link href="https://github.com/laravel/vue-starter-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jeecgboot/JeecgUniapp</title>
-    <updated>2025-03-14T01:39:42Z</updated>
-    <id>tag:github.com,2025-03-14:/jeecgboot/JeecgUniapp</id>
-    <link href="https://github.com/jeecgboot/JeecgUniapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JeecgBoot配套APP移动解决方案，采用uniapp架构！一份代码多终端适配，同时支持APP、小程序、H5、鸿蒙！实现了与JeecgBoot平台完美对接，目前已经实现登录、用户信息、通讯录、公告、移动首页、九宫格等基础功能。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
