@@ -55,10 +55,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"commander@npm:^11.0.0":
-  version: 11.1.0
-  resolution: "commander@npm:11.1.0"
-  checksum: 569e18342ef8f635f291012c49db2bb50a07dbd12ed85cd1122d2963c2366a9cfcf13a010eefc7c7b5e1d42182d350709bcf2dad01b96d3b9a50202f1c4f996e
+"commander@npm:^13.0.0":
+  version: 13.1.0
+  resolution: "commander@npm:13.1.0"
+  checksum: d0d72d66fdb2ea48692a03ab715f547dfeed84b00b6022d759288c2edd8b20ed8421e4160d55d55964c28587ed9ae0a301914cdd29a22077a8c8d70adf3a2575
   languageName: node
   linkType: hard
 
@@ -93,24 +93,24 @@ __metadata:
   linkType: hard
 
 "fast-glob@npm:^3.2.9":
-  version: 3.3.2
-  resolution: "fast-glob@npm:3.3.2"
+  version: 3.3.3
+  resolution: "fast-glob@npm:3.3.3"
   dependencies:
     "@nodelib/fs.stat": ^2.0.2
     "@nodelib/fs.walk": ^1.2.3
     glob-parent: ^5.1.2
     merge2: ^1.3.0
-    micromatch: ^4.0.4
-  checksum: 76c8f75492855df2d361eb10ab6090fb4632823f006ab344b6af043301478825c162cc1b7cb2bb5a0f4a4109e6ec2e5c79919147db4c3e688c5578e1ada280da
+    micromatch: ^4.0.8
+  checksum: c4d5a0c82e144ed7902581a1cf3d7a2c45cba52866a41e19441cec44c05f833ae2a02804c9723bf358072ce97b88aec56ae1efb45dcf875a5fc9d140c8d5df6a
   languageName: node
   linkType: hard
 
 "fastq@npm:^1.6.0":
-  version: 1.18.0
-  resolution: "fastq@npm:1.18.0"
+  version: 1.19.1
+  resolution: "fastq@npm:1.19.1"
   dependencies:
     reusify: ^1.0.4
-  checksum: 6b739390741fb51633abef4be13ed800d7ad8b41607ee20844a87e7ee4c50ab3794e0d04ebf2282a33243004e16933951278336b7280d34a702f9e073729f606
+  checksum: 82aea0e5c2612dde4b45e09d51536c433dd779192c1fdd82cc3dc6254da2fcc947f85347a74cb3c0f543d565cc2a86e37f3a96fb80dbbc765aa3db72436368db
   languageName: node
   linkType: hard
 
@@ -163,22 +163,22 @@ __metadata:
   linkType: hard
 
 "fs-extra@npm:^11.1.1":
-  version: 11.2.0
-  resolution: "fs-extra@npm:11.2.0"
+  version: 11.3.0
+  resolution: "fs-extra@npm:11.3.0"
   dependencies:
     graceful-fs: ^4.2.0
     jsonfile: ^6.0.1
     universalify: ^2.0.0
-  checksum: ec5c996acebb3d1627a4d14e671cadfccc55b859ab270c0cbbf3a257cbdfaca570d82ba0deec9d1b104e53f89192a4f3ead2d3ea84e119cb13e5f4a6af9cb550
+  checksum: 5d7e0725eeb3d8922b70eb372cce12d597752c365642b76c61bd2e67a3c156d529f2cfe015653efd2a849cfec81ac9f80b3699dd4def7ddec23368ae0ee7d374
   languageName: node
   linkType: hard
 
 "gh-pages@npm:^6":
-  version: 6.2.0
-  resolution: "gh-pages@npm:6.2.0"
+  version: 6.3.0
+  resolution: "gh-pages@npm:6.3.0"
   dependencies:
     async: ^3.2.4
-    commander: ^11.0.0
+    commander: ^13.0.0
     email-addresses: ^5.0.0
     filenamify: ^4.3.0
     find-cache-dir: ^3.3.1
@@ -187,7 +187,7 @@ __metadata:
   bin:
     gh-pages: bin/gh-pages.js
     gh-pages-clean: bin/gh-pages-clean.js
-  checksum: cb93ee75f0b45b9b425a4bd107e891e212d9481cec85b4c48350099533847c7cf4f121656690ff0c62079ba51ee456ba57eb99424b97b157193641141271319b
+  checksum: d565626de0378fb01298094c137d3da06fa26e175d5b673ada642f95617431bc3dd34afa67e9ac90899e327e086dd94d2406316136ccf506e7136e445ed7c989
   languageName: node
   linkType: hard
 
@@ -289,7 +289,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"micromatch@npm:^4.0.4":
+"micromatch@npm:^4.0.8":
   version: 4.0.8
   resolution: "micromatch@npm:4.0.8"
   dependencies:
@@ -362,9 +362,9 @@ __metadata:
   linkType: hard
 
 "reusify@npm:^1.0.4":
-  version: 1.0.4
-  resolution: "reusify@npm:1.0.4"
-  checksum: 08ef02ed0514f020a51131ba2e6c27c66ccebe25d49cfc83467a0d4054db4634a2853480d0895c710b645ab66af1a6fb3e183888306ae559413bd96c69f39ccd
+  version: 1.1.0
+  resolution: "reusify@npm:1.1.0"
+  checksum: b7a6f403d9f3ab0ce53520e27d3575b050276488890481cb732c8521e0570343cd1d040dc8867fa9302dd2fb7e4c7b1e2eaf18e41936178a17f70f5ac74c583e
   languageName: node
   linkType: hard
 
