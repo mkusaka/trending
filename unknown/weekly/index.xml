@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-16T01:39:06Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Rem0o/FanControl.Releases</title>
+    <updated>2025-03-16T01:39:06Z</updated>
+    <id>tag:github.com,2025-03-16:/Rem0o/FanControl.Releases</id>
+    <link href="https://github.com/Rem0o/FanControl.Releases" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>langgenius/dify-plugins</title>
+    <updated>2025-03-16T01:39:06Z</updated>
+    <id>tag:github.com,2025-03-16:/langgenius/dify-plugins</id>
+    <link href="https://github.com/langgenius/dify-plugins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

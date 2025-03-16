@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-16T01:55:21Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pages-themes/slate</title>
+    <updated>2025-03-16T01:55:21Z</updated>
+    <id>tag:github.com,2025-03-16:/pages-themes/slate</id>
+    <link href="https://github.com/pages-themes/slate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Slate is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

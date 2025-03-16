@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-15T01:30:01Z</updated>
+  <updated>2025-03-16T01:30:19Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jeroentrappers/flutter_jailbreak_detection</title>
+    <updated>2025-03-16T01:30:19Z</updated>
+    <id>tag:github.com,2025-03-16:/jeroentrappers/flutter_jailbreak_detection</id>
+    <link href="https://github.com/jeroentrappers/flutter_jailbreak_detection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flutter jailbreak detection plugin&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;flutter_jailbreak_detection&lt;/h1&gt; &#xA;&lt;p&gt;Flutter jailbreak and root detection plugin.&lt;/p&gt; &#xA;&lt;p&gt;It uses &lt;a href=&#34;https://github.com/scottyab/rootbeer&#34;&gt;RootBeer&lt;/a&gt; on Android, and &lt;a href=&#34;https://github.com/securing/IOSSecuritySuite&#34;&gt;IOSSecuritySuite&lt;/a&gt; on iOS.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;import &#39;package:flutter_jailbreak_detection/flutter_jailbreak_detection.dart&#39;;&#xA;&#xA;bool jailbroken = await FlutterJailbreakDetection.jailbroken;&#xA;bool developerMode = await FlutterJailbreakDetection.developerMode; // android only.&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

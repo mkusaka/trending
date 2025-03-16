@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-16T01:56:33Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xerrors/Yuxi-Know</title>
+    <updated>2025-03-16T01:56:33Z</updated>
+    <id>tag:github.com,2025-03-16:/xerrors/Yuxi-Know</id>
+    <link href="https://github.com/xerrors/Yuxi-Know" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
