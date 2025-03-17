@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-16T01:31:37Z</updated>
+  <updated>2025-03-17T01:31:53Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OWASP-BLT/BLT</title>
+    <updated>2025-03-17T01:31:53Z</updated>
+    <id>tag:github.com,2025-03-17:/OWASP-BLT/BLT</id>
+    <link href="https://github.com/OWASP-BLT/BLT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OWASP BLT is a collection of security tools.&lt;/p&gt;&lt;hr&gt;&lt;h1 align=&#34;center&#34;&gt; OWASP BLT &lt;/h1&gt; &#xA;&lt;p align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/OWASP/BLT/actions&#34; rel=&#34;noopener noreferrer&#34; target=&#34;__blank&#34;&gt;&lt;img alt=&#34;Build&#34; src=&#34;https://github.com/OWASP/BLT/actions/workflows/auto-merge.yml/badge.svg?sanitize=true&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/OWASP/BLT/raw/main/LICENSE.md&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/OWASP/BLT&#34; rel=&#34;noopener noreferrer&#34; target=&#34;__blank&#34;&gt;&lt;img alt=&#34;GitHub stars&#34; src=&#34;https://img.shields.io/github/stars/OWASP/BLT?style=social&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;img alt=&#34;Views&#34; src=&#34;https://blt.owasp.org/repos/blt/badge/&#34;&gt; &#xA;&lt;p&gt;Everything is on our &lt;a href=&#34;https://blt.owasp.org&#34;&gt;homepage&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Star History&lt;/h2&gt; &#xA;&lt;a href=&#34;https://star-history.com/#OWASP-BLT/BLT&amp;amp;Date&#34;&gt; &#xA; &lt;picture&gt; &#xA;  &lt;source media=&#34;(prefers-color-scheme: dark)&#34; srcset=&#34;https://api.star-history.com/svg?repos=OWASP-BLT/BLT&amp;amp;type=Date&amp;amp;theme=dark&#34;&gt; &#xA;  &lt;source media=&#34;(prefers-color-scheme: light)&#34; srcset=&#34;https://api.star-history.com/svg?repos=OWASP-BLT/BLT&amp;amp;type=Date&#34;&gt; &#xA;  &lt;img alt=&#34;Star History Chart&#34; src=&#34;https://api.star-history.com/svg?repos=OWASP-BLT/BLT&amp;amp;type=Date&#34;&gt; &#xA; &lt;/picture&gt; &lt;/a&gt;</summary>
+  </entry>
 </feed>
