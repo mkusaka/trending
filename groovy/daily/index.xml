@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-19T01:31:11Z</updated>
+  <updated>2025-03-20T01:31:05Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>apache/grails-data-mapping</title>
-    <updated>2025-03-19T01:31:11Z</updated>
-    <id>tag:github.com,2025-03-19:/apache/grails-data-mapping</id>
-    <link href="https://github.com/apache/grails-data-mapping" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GORM - Groovy Object Mapping&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

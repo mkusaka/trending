@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-19T01:35:08Z</updated>
+  <updated>2025-03-20T01:39:25Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mr150/mlut</title>
-    <updated>2025-03-19T01:35:08Z</updated>
-    <id>tag:github.com,2025-03-19:/mr150/mlut</id>
-    <link href="https://github.com/mr150/mlut" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Atomic CSS toolkit with Sass and ergonomics for creating styles of any complexity&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
