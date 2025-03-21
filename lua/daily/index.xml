@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-20T01:32:17Z</updated>
+  <updated>2025-03-21T01:34:37Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GuilloryCraft/ExtraCredit</title>
+    <updated>2025-03-21T01:34:37Z</updated>
+    <id>tag:github.com,2025-03-21:/GuilloryCraft/ExtraCredit</id>
+    <link href="https://github.com/GuilloryCraft/ExtraCredit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A small-scale vanilla-style content mod for Balatro University!&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Extra Credit!&lt;/p&gt; &#xA;&lt;p&gt;A small-scale vanilla-style content mod for Balatro University&lt;/p&gt; &#xA;&lt;p&gt;Features:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;45 jokers with new effects and art :)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Project Lead:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;CampfireCollective&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Programming:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;CampfireCollective&lt;/li&gt; &#xA; &lt;li&gt;Stupid&lt;/li&gt; &#xA; &lt;li&gt;MathIsFun_&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Art:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;kittyknight&lt;/li&gt; &#xA; &lt;li&gt;UselessReptile8&lt;/li&gt; &#xA; &lt;li&gt;Wingcap&lt;/li&gt; &#xA; &lt;li&gt;HonuKane&lt;/li&gt; &#xA; &lt;li&gt;bishopcorrigan&lt;/li&gt; &#xA; &lt;li&gt;tuzzo&lt;/li&gt; &#xA; &lt;li&gt;R3venantR3mnant&lt;/li&gt; &#xA; &lt;li&gt;Neato&lt;/li&gt; &#xA; &lt;li&gt;Sacto&lt;/li&gt; &#xA; &lt;li&gt;CampfireCollective&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Concepting:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;CampfireCollective&lt;/li&gt; &#xA; &lt;li&gt;kittyknight&lt;/li&gt; &#xA; &lt;li&gt;Audrizzle&lt;/li&gt; &#xA; &lt;li&gt;Neon&lt;/li&gt; &#xA; &lt;li&gt;Expelsword&lt;/li&gt; &#xA; &lt;li&gt;tuzzo&lt;/li&gt; &#xA; &lt;li&gt;bishopcorrigan&lt;/li&gt; &#xA; &lt;li&gt;Wingcap&lt;/li&gt; &#xA; &lt;li&gt;AlasBabylon&lt;/li&gt; &#xA; &lt;li&gt;HonuKane&lt;/li&gt; &#xA; &lt;li&gt;conk reet&lt;/li&gt; &#xA; &lt;li&gt;Sacto&lt;/li&gt; &#xA; &lt;li&gt;BioSector&lt;/li&gt; &#xA; &lt;li&gt;Splatter_Proto&lt;/li&gt; &#xA; &lt;li&gt;SenrabMJam&lt;/li&gt; &#xA; &lt;li&gt;Stupid&lt;/li&gt; &#xA; &lt;li&gt;AviolosAvali&lt;/li&gt; &#xA; &lt;li&gt;Xilande&lt;/li&gt; &#xA; &lt;li&gt;Sbubby&lt;/li&gt; &#xA; &lt;li&gt;Seadubbs&lt;/li&gt; &#xA; &lt;li&gt;Swordodo&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Special thanks:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Drspectred&lt;/li&gt; &#xA; &lt;li&gt;Djynasty&lt;/li&gt; &#xA; &lt;li&gt;InertSteak&lt;/li&gt; &#xA; &lt;li&gt;Akai&lt;/li&gt; &#xA; &lt;li&gt;localthunk&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;If you&#39;re supposed to be on this list somewhere and aren&#39;t, please reach out to me on discord! My username is campfirecollective&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Firch/Bunco</title>
+    <updated>2025-03-21T01:34:37Z</updated>
+    <id>tag:github.com,2025-03-21:/Firch/Bunco</id>
+    <link href="https://github.com/Firch/Bunco" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bunco is a vanilla-style Balatro content mod&lt;/p&gt;&lt;hr&gt;&lt;p&gt;A mod that aims to add more content in a way that&#39;d seamlessly exist within the vanilla Balatro!&lt;/p&gt;</summary>
+  </entry>
 </feed>

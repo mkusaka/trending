@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-20T01:36:05Z</updated>
+  <updated>2025-03-21T01:38:31Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Abstrct/Schemaverse</title>
+    <updated>2025-03-21T01:38:31Z</updated>
+    <id>tag:github.com,2025-03-21:/Abstrct/Schemaverse</id>
+    <link href="https://github.com/Abstrct/Schemaverse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Schemaverse is a space-based strategy game implemented entirely within a PostgreSQL database. Compete against other players using raw SQL commands to command your fleet. Or, if your PL/pgSQL-foo is strong, wield it to write AI and have your fleet command itself!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

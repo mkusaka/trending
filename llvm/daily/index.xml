@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LLVM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-20T01:32:13Z</updated>
+  <updated>2025-03-21T01:34:33Z</updated>
   <subtitle>Daily Trending of LLVM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>arm/arm-toolchain</title>
-    <updated>2025-03-20T01:32:13Z</updated>
-    <id>tag:github.com,2025-03-20:/arm/arm-toolchain</id>
-    <link href="https://github.com/arm/arm-toolchain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets and AArch64 native Linux development.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

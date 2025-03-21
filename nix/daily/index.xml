@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-20T01:35:19Z</updated>
+  <updated>2025-03-21T01:37:46Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>project-idx/community-templates</title>
-    <updated>2025-03-20T01:35:19Z</updated>
-    <id>tag:github.com,2025-03-20:/project-idx/community-templates</id>
-    <link href="https://github.com/project-idx/community-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library of templates to get you started faster and explore tools, frameworks, and runtimes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
