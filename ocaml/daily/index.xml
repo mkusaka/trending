@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-21T01:38:01Z</updated>
+  <updated>2025-03-22T01:35:44Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>geneweb/geneweb</title>
+    <updated>2025-03-22T01:35:44Z</updated>
+    <id>tag:github.com,2025-03-22:/geneweb/geneweb</id>
+    <link href="https://github.com/geneweb/geneweb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GeneWeb is a free (as in free speech) genealogy software with a web interface created by Daniel de Rauglaudre.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
