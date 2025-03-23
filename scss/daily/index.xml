@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-22T01:37:27Z</updated>
+  <updated>2025-03-23T01:37:53Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aaaaalexis/obsidian-cupertino</title>
+    <updated>2025-03-23T01:37:53Z</updated>
+    <id>tag:github.com,2025-03-23:/aaaaalexis/obsidian-cupertino</id>
+    <link href="https://github.com/aaaaalexis/obsidian-cupertino" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-23T01:51:42Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chaselambda/makefiletutorial</title>
+    <updated>2025-03-23T01:51:42Z</updated>
+    <id>tag:github.com,2025-03-23:/chaselambda/makefiletutorial</id>
+    <link href="https://github.com/chaselambda/makefiletutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn make by example&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

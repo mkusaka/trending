@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-23T01:39:31Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ZachGoldberg/Startup-CTO-Handbook</title>
+    <updated>2025-03-23T01:39:31Z</updated>
+    <id>tag:github.com,2025-03-23:/ZachGoldberg/Startup-CTO-Handbook</id>
+    <link href="https://github.com/ZachGoldberg/Startup-CTO-Handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>appcypher/awesome-mcp-servers</title>
+    <updated>2025-03-23T01:39:31Z</updated>
+    <id>tag:github.com,2025-03-23:/appcypher/awesome-mcp-servers</id>
+    <link href="https://github.com/appcypher/awesome-mcp-servers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Awesome MCP Servers - A curated list of Model Context Protocol servers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
