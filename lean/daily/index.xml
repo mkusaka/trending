@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-24T01:32:55Z</updated>
+  <updated>2025-03-25T01:32:09Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>opencompl/lean-mlir</title>
+    <updated>2025-03-25T01:32:09Z</updated>
+    <id>tag:github.com,2025-03-25:/opencompl/lean-mlir</id>
+    <link href="https://github.com/opencompl/lean-mlir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal development of SSA theory&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
