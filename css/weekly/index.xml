@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-30T01:45:33Z</updated>
+  <subtitle>Weekly Trending of CSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>littleosbook/littleosbook</title>
+    <updated>2025-03-30T01:45:33Z</updated>
+    <id>tag:github.com,2025-03-30:/littleosbook/littleosbook</id>
+    <link href="https://github.com/littleosbook/littleosbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source for the little book about OS development&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;littleosbook&lt;/h1&gt; &#xA;&lt;p&gt;This is the source code for the book &#34;The little book about OS development&#34;. The source for the book is written in &lt;a href=&#34;http://johnmacfarlane.net/pandoc/&#34;&gt;&#34;Pandoc&#34;&lt;/a&gt; Markdown.&lt;/p&gt; &#xA;&lt;h2&gt;Building&lt;/h2&gt; &#xA;&lt;p&gt;If you want to use the build scripts (which we recommend you to do), you need &lt;a href=&#34;http://www.gnu.org/software/make/&#34;&gt;&#34;Make&#34;&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;To convert the Markdown to either HTML or PDF, you need to have &lt;a href=&#34;http://johnmacfarlane.net/pandoc/&#34;&gt;&#34;Pandoc&#34;&lt;/a&gt; version 1.9.1.1 or higher. For installing Pandoc, see &lt;a href=&#34;http://johnmacfarlane.net/pandoc/installing.html&#34;&gt;http://johnmacfarlane.net/pandoc/installing.html&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;If you want to create the PDF version, you also need &lt;code&gt;pdflatex&lt;/code&gt; installed.&lt;/p&gt; &#xA;&lt;h2&gt;Errors&lt;/h2&gt; &#xA;&lt;p&gt;If you find any error (there are probably plenty :)), please open a new &lt;a href=&#34;https://github.com/littleosbook/littleosbook/issues&#34;&gt;&#34;issue&#34;&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;If you want to contribute new material or fix some errors, please open fork the repository, make your changes and open a pull request.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;All content is licensed under the Creative Commons Attribute, NonCommercial, Share-Alike license. See &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/us/&#34;&gt;http://creativecommons.org/licenses/by-nc-sa/3.0/us/&lt;/a&gt; for more details.&lt;/p&gt;</summary>
+  </entry>
+</feed>

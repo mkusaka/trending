@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-30T01:41:51Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>warpdotdev/Warp</title>
+    <updated>2025-03-30T01:41:51Z</updated>
+    <id>tag:github.com,2025-03-30:/warpdotdev/Warp</id>
+    <link href="https://github.com/warpdotdev/Warp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cryakl/Ultimate-RAT-Collection</title>
+    <updated>2025-03-30T01:41:51Z</updated>
+    <id>tag:github.com,2025-03-30:/Cryakl/Ultimate-RAT-Collection</id>
+    <link href="https://github.com/Cryakl/Ultimate-RAT-Collection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

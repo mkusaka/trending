@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Lua Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-03-30T01:48:51Z</updated>
+  <subtitle>Weekly Trending of Lua in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Firch/Bunco</title>
+    <updated>2025-03-30T01:48:51Z</updated>
+    <id>tag:github.com,2025-03-30:/Firch/Bunco</id>
+    <link href="https://github.com/Firch/Bunco" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bunco is a vanilla-style Balatro content mod&lt;/p&gt;&lt;hr&gt;&lt;p&gt;A mod that aims to add more content in a way that&#39;d seamlessly exist within the vanilla Balatro!&lt;/p&gt;</summary>
+  </entry>
+</feed>
