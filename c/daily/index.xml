@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-30T01:29:39Z</updated>
+  <updated>2025-03-31T01:29:36Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>coop-deluxe/sm64coopdx</title>
+    <updated>2025-03-31T01:29:36Z</updated>
+    <id>tag:github.com,2025-03-31:/coop-deluxe/sm64coopdx</id>
+    <link href="https://github.com/coop-deluxe/sm64coopdx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/coop-deluxe/sm64coopdx/main/textures/segment2/custom_coopdx_logo.rgba32.png&#34; alt=&#34;sm64coopdx Logo&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;sm64coopdx is an online multiplayer project for the Super Mario 64 PC port that synchronizes all entities and every level for multiple players. The project was started by the Coop Deluxe Team. The purpose is to actively maintain and improve, but also continue sm64ex-coop, created by djoslin0. More features, customization, and power to the Lua API allow modders and players to enjoy Super Mario 64 more than ever!&lt;/p&gt; &#xA;&lt;p&gt;Feel free to report bugs or contribute to the project.&lt;/p&gt; &#xA;&lt;h2&gt;Initial Goal (Accomplished)&lt;/h2&gt; &#xA;&lt;p&gt;Create a mod for the PC port where multiple people can play together online.&lt;/p&gt; &#xA;&lt;p&gt;Unlike previous multiplayer projects, this one synchronizes enemies and events. This allows players to interact with the same world at the same time.&lt;/p&gt; &#xA;&lt;p&gt;Interestingly enough though, the goal of the project has slowly evolved over time from simply just making a Super Mario 64 multiplayer mod to constantly maintaining and improving the project (notably the Lua API.)&lt;/p&gt; &#xA;&lt;h2&gt;Lua&lt;/h2&gt; &#xA;&lt;p&gt;sm64coopdx is moddable via Lua, similar to Roblox and Garry&#39;s Mod&#39;s Lua APIs. To get started, click &lt;a href=&#34;https://raw.githubusercontent.com/coop-deluxe/sm64coopdx/main/docs/lua/lua.md&#34;&gt;here&lt;/a&gt; to see the Lua documentation.&lt;/p&gt; &#xA;&lt;h2&gt;Wiki&lt;/h2&gt; &#xA;&lt;p&gt;The wiki is made using GitHub&#39;s wiki feature, you can go to the wiki tab or click &lt;a href=&#34;https://github.com/coop-deluxe/sm64coopdx/wiki&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

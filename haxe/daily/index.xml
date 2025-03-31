@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-30T01:31:37Z</updated>
+  <updated>2025-03-31T01:31:35Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>haxetink/tink_lang</title>
-    <updated>2025-03-30T01:31:37Z</updated>
-    <id>tag:github.com,2025-03-30:/haxetink/tink_lang</id>
-    <link href="https://github.com/haxetink/tink_lang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tink Sugar. Sweeeeeeeeet.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Tinkerbell Language Extensions&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/haxetink/tink_lang&#34;&gt;&lt;img src=&#34;https://travis-ci.org/haxetink/tink_lang.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://gitter.im/haxetink/public&#34;&gt;&lt;img src=&#34;https://badges.gitter.im/Join%20Chat.svg?sanitize=true&#34; alt=&#34;Gitter&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Tinkerbell comes with all kinds of sugar to allow writing terser code.&lt;/p&gt; &#xA;&lt;p&gt;Documentations: &lt;a href=&#34;https://haxetink.github.io/tink_lang&#34;&gt;https://haxetink.github.io/tink_lang&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>
