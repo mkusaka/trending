@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SourcePawn Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-03-31T01:38:16Z</updated>
+  <updated>2025-04-01T01:40:58Z</updated>
   <subtitle>Daily Trending of SourcePawn in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Batfoxkid/Freak-Fortress-2-Rewrite</title>
+    <updated>2025-04-01T01:40:58Z</updated>
+    <id>tag:github.com,2025-04-01:/Batfoxkid/Freak-Fortress-2-Rewrite</id>
+    <link href="https://github.com/Batfoxkid/Freak-Fortress-2-Rewrite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The gamemode that&#39;s now also a standalone boss maker.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

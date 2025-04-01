@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-04-01T02:02:44Z</updated>
+  <subtitle>Monthly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DataDog/puppet-datadog-agent</title>
+    <updated>2025-04-01T02:02:44Z</updated>
+    <id>tag:github.com,2025-04-01:/DataDog/puppet-datadog-agent</id>
+    <link href="https://github.com/DataDog/puppet-datadog-agent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module to install the Datadog agent&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

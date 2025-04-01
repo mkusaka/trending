@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-04-01T02:01:54Z</updated>
+  <subtitle>Monthly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rocq-prover/rocq</title>
+    <updated>2025-04-01T02:01:54Z</updated>
+    <id>tag:github.com,2025-04-01:/rocq-prover/rocq</id>
+    <link href="https://github.com/rocq-prover/rocq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

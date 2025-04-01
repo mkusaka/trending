@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-04-01T01:56:38Z</updated>
+  <subtitle>Monthly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>terraform-google-modules/terraform-google-cloud-router</title>
+    <updated>2025-04-01T01:56:38Z</updated>
+    <id>tag:github.com,2025-04-01:/terraform-google-modules/terraform-google-cloud-router</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-cloud-router" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manages a Cloud Router on Google Cloud&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
