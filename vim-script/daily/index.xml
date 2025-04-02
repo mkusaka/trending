@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-01T01:41:45Z</updated>
+  <updated>2025-04-02T01:40:01Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dense-analysis/neural</title>
+    <updated>2025-04-02T01:40:01Z</updated>
+    <id>tag:github.com,2025-04-02:/dense-analysis/neural</id>
+    <link href="https://github.com/dense-analysis/neural" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
