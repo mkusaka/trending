@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-02T01:28:49Z</updated>
+  <updated>2025-04-03T01:28:37Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SLAM-Handbook-contributors/slam-handbook-public-release</title>
+    <updated>2025-04-03T01:28:37Z</updated>
+    <id>tag:github.com,2025-04-03:/SLAM-Handbook-contributors/slam-handbook-public-release</id>
+    <link href="https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Release repo for our SLAM Handbook&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wong2/awesome-mcp-servers</title>
+    <updated>2025-04-03T01:28:37Z</updated>
+    <id>tag:github.com,2025-04-03:/wong2/awesome-mcp-servers</id>
+    <link href="https://github.com/wong2/awesome-mcp-servers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of Model Context Protocol (MCP) servers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

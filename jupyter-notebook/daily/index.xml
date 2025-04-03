@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-02T01:33:03Z</updated>
+  <updated>2025-04-03T01:32:08Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NVIDIA/Cosmos</title>
+    <updated>2025-04-03T01:32:08Z</updated>
+    <id>tag:github.com,2025-04-03:/NVIDIA/Cosmos</id>
+    <link href="https://github.com/NVIDIA/Cosmos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/NVIDIA/Cosmos/main/assets/nvidia-cosmos-header.png&#34; alt=&#34;NVIDIA Cosmos Header&#34;&gt; &lt;/p&gt; &#xA;&lt;p&gt;Thank you all for the valuable feedback! We have restructured the codebase to make it easier to use and contribute to.&lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;span style=&#34;font-size: 18px;&#34;&gt;New GitHub page for NVIDIA Cosmos: &lt;b&gt;&lt;a href=&#34;https://github.com/nvidia-cosmos&#34;&gt;https://github.com/nvidia-cosmos&lt;/a&gt;&lt;/b&gt;&lt;/span&gt; &lt;/p&gt; &#xA;&lt;p&gt;NVIDIA Cosmos now includes three subprojects:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/nvidia-cosmos/cosmos-predict1&#34;&gt;Cosmos-Predict1&lt;/a&gt; is a collection of general-purpose world foundation models for Physical AI that can be fine-tuned into customized world models for downstream applications.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/nvidia-cosmos/cosmos-transfer1&#34;&gt;Cosmos-Transfer1&lt;/a&gt; is a world-to-world transfer model designed to bridge the perceptual divide between simulated and real-world environments.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/nvidia-cosmos/cosmos-reason1&#34;&gt;Cosmos-Reason1&lt;/a&gt; models understand the physical common sense and generate appropriate embodied decisions in natural language through long chain-of-thought reasoning processes.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;&lt;strong&gt;This repository is no longer maintained and will soon be deprecated.&lt;/strong&gt; To view the initial release of NVIDIA Cosmos from this repository, please check out branch &lt;code&gt;archived-ces2025&lt;/code&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
