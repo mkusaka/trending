@@ -4,11 +4,4 @@
   <updated>2025-04-04T01:35:50Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ocsigen/eliom</title>
-    <updated>2025-04-04T01:35:50Z</updated>
-    <id>tag:github.com,2025-04-04:/ocsigen/eliom</id>
-    <link href="https://github.com/ocsigen/eliom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi-tier framework for programming web and mobile applications in OCaml.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
