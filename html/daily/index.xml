@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-04T01:31:26Z</updated>
+  <updated>2025-04-06T01:31:19Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sunnyoggcp/github-slideshow</title>
+    <updated>2025-04-06T01:31:19Z</updated>
+    <id>tag:github.com,2025-04-06:/sunnyoggcp/github-slideshow</id>
+    <link href="https://github.com/sunnyoggcp/github-slideshow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A robot powered training repository 🤖&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Your GitHub Learning Lab Repository for Introducing GitHub&lt;/h1&gt; &#xA;&lt;p&gt;Welcome to &lt;strong&gt;your&lt;/strong&gt; repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don&#39;t understand? We&#39;ve included an emoji 📖 next to some key terms. Click on it to see its definition.&lt;/p&gt; &#xA;&lt;p&gt;Oh! I haven&#39;t introduced myself...&lt;/p&gt; &#xA;&lt;p&gt;I&#39;m the GitHub Learning Lab bot and I&#39;m here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://lab.github.com/public/images/issue_tab.png&#34; alt=&#34;issue tab&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;I&#39;ll meet you over there, can&#39;t wait to get started!&lt;/p&gt; &#xA;&lt;p&gt;This course is using the &lt;span&gt;✨&lt;/span&gt; open source project &lt;a href=&#34;https://github.com/hakimel/reveal.js/&#34;&gt;reveal.js&lt;/a&gt;. In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.&lt;/p&gt;</summary>
+  </entry>
 </feed>

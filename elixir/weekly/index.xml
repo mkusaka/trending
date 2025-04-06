@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-04-06T01:40:34Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bitwalker/timex</title>
+    <updated>2025-04-06T01:40:34Z</updated>
+    <id>tag:github.com,2025-04-06:/bitwalker/timex</id>
+    <link href="https://github.com/bitwalker/timex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete date/time library for Elixir projects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
