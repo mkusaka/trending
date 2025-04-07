@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-06T01:30:03Z</updated>
+  <updated>2025-04-07T01:30:16Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>googleads/googleads-mobile-flutter</title>
-    <updated>2025-04-06T01:30:03Z</updated>
-    <id>tag:github.com,2025-04-06:/googleads/googleads-mobile-flutter</id>
-    <link href="https://github.com/googleads/googleads-mobile-flutter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Flutter plugin for the Google Mobile Ads SDK&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Google Mobile Ads for Flutter&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/googleads/googleads-mobile-flutter/actions/workflows/google_mobile_ads.yaml&#34;&gt;&lt;img src=&#34;https://github.com/googleads/googleads-mobile-flutter/actions/workflows/google_mobile_ads.yaml/badge.svg?sanitize=true&#34; alt=&#34;google_mobile_ads&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This repository contains the source code for the Google Mobile Ads Flutter plugin, which enables publishers to monetize &lt;a href=&#34;https://flutter.dev/&#34;&gt;Flutter&lt;/a&gt; apps using the Google Mobile Ads SDK.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;For instructions on how to use the plugin, please refer to the developer guides for &lt;a href=&#34;https://developers.google.com/admob/flutter/quick-start&#34;&gt;AdMob&lt;/a&gt; and &lt;a href=&#34;https://developers.google.com/ad-manager/mobile-ads-sdk/flutter/quick-start&#34;&gt;Ad Manager&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Downloads&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://pub.dev/packages/google_mobile_ads/versions&#34;&gt;pub.dev&lt;/a&gt; for the latest releases of the plugin.&lt;/p&gt; &#xA;&lt;h2&gt;Suggesting improvements&lt;/h2&gt; &#xA;&lt;p&gt;To file bugs, make feature requests, or to suggest other improvements, please use &lt;a href=&#34;https://github.com/googleads/googleads-mobile-flutter/issues&#34;&gt;github&#39;s issue tracker&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Other resources&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://support.google.com/admob/?hl=en#topic=7383088&#34;&gt;AdMob help center&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://support.google.com/admanager/?hl=en#topic=7505988&#34;&gt;Ad Manager help center&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.apache.org/licenses/LICENSE-2.0&#34;&gt;Apache 2.0 License&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>jagandeepbrar/lunasea</title>
-    <updated>2025-04-06T01:30:03Z</updated>
-    <id>tag:github.com,2025-04-06:/jagandeepbrar/lunasea</id>
-    <link href="https://github.com/jagandeepbrar/lunasea" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Self-hosted software controller built using Flutter&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;img width=&#34;40px&#34; src=&#34;https://raw.githubusercontent.com/jagandeepbrar/lunasea/master/lunasea/assets/images/branding_logo.png&#34; alt=&#34;LunaSea&#34;&gt;&amp;nbsp;&amp;nbsp;LunaSea&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;This is a mono-repository for archival of the entire LunaSea project.&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-06T01:31:40Z</updated>
+  <updated>2025-04-07T01:34:19Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>googlecreativelab/chrome-music-lab</title>
-    <updated>2025-04-06T01:31:40Z</updated>
-    <id>tag:github.com,2025-04-06:/googlecreativelab/chrome-music-lab</id>
-    <link href="https://github.com/googlecreativelab/chrome-music-lab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of experiments for exploring how music works, all built with the Web Audio API.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;ABOUT&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://musiclab.chromeexperiments.com&#34;&gt;Chrome Music Lab&lt;/a&gt; is a website that makes learning music more accessible through fun, hands-on experiments. We’re sharing open-source code here so that others can build new experiments based on what we’ve started. The experiments use a variety of tools – Web Audio API, WebRTC, WebMIDI, Tone.js, and more. We hope they’re useful as inspiration or reference for anyone who wants to create their own music projects on the web.&lt;/p&gt; &#xA;&lt;p&gt;Consult the README in each experiment&#39;s folder for more information on building and running that experiment. Thanks to our collaborators &lt;a href=&#34;https://github.com/tambien&#34;&gt;@tambien&lt;/a&gt;, &lt;a href=&#34;https://github.com/ericrosenbaum&#34;&gt;@ericrosenbaum&lt;/a&gt;, &lt;a href=&#34;https://github.com/theceremony&#34;&gt;@theceremony&lt;/a&gt;, &lt;a href=&#34;https://github.com/marklundin&#34;&gt;@marklundin&lt;/a&gt;, &lt;a href=&#34;https://github.com/alexanderchen&#34;&gt;@alexanderchen&lt;/a&gt;, &lt;a href=&#34;https://github.com/borismus&#34;&gt;@borismus&lt;/a&gt;, &lt;a href=&#34;https://github.com/bretmorris&#34;&gt;@bretmorris&lt;/a&gt;, &lt;a href=&#34;https://github.com/gdenisov&#34;&gt;@gdenisov&lt;/a&gt;, &lt;a href=&#34;https://github.com/jasonfarrell&#34;&gt;@jasonfarrell&lt;/a&gt;, &lt;a href=&#34;https://github.com/jennicheung&#34;&gt;@jennicheung&lt;/a&gt;. If you&#39;d like to share something with us, post it with #chromemusiclab or drop us a line at &lt;a href=&#34;mailto:chromemusiclab-support@google.com&#34;&gt;chromemusiclab-support@google.com&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

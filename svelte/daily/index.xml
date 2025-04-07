@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-06T01:37:39Z</updated>
+  <updated>2025-04-07T01:44:31Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>openfoodfacts/openfoodfacts-explorer</title>
+    <updated>2025-04-07T01:44:31Z</updated>
+    <id>tag:github.com,2025-04-07:/openfoodfacts/openfoodfacts-explorer</id>
+    <link href="https://github.com/openfoodfacts/openfoodfacts-explorer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An alternative frontend for OpenFoodFacts, made with SvelteKit&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
