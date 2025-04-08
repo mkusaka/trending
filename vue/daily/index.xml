@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-07T01:45:10Z</updated>
+  <updated>2025-04-08T01:40:58Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>2977094657/BiliHistoryFrontend</title>
+    <updated>2025-04-08T01:40:58Z</updated>
+    <id>tag:github.com,2025-04-08:/2977094657/BiliHistoryFrontend</id>
+    <link href="https://github.com/2977094657/BiliHistoryFrontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;获取b站历史记录，保存到本地数据库，可下载对应视频及时存档，生成详细的年度总结，自动化任务部署到服务器实现自动同步，以及自动发送日志邮件，下面链接是对应后端&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
