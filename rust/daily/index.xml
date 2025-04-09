@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-08T01:37:23Z</updated>
+  <updated>2025-04-09T01:37:08Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>quadratichq/quadratic</title>
+    <updated>2025-04-09T01:37:08Z</updated>
+    <id>tag:github.com,2025-04-09:/quadratichq/quadratic</id>
+    <link href="https://github.com/quadratichq/quadratic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spreadsheet with AI, Code, Connections&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/quadratichq/quadratic/actions/workflows/ci.yml/badge.svg?sanitize=true&#34; alt=&#34;CI&#34;&gt; &lt;img src=&#34;https://github.com/quadratichq/quadratic/actions/workflows/production-publish-images.yml/badge.svg?sanitize=true&#34; alt=&#34;Build and Publish Images to ECR&#34;&gt; &lt;img src=&#34;https://img.shields.io/twitter/follow/QuadraticHQ&#34; alt=&#34;Twitter Follow&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/3479421/162039117-02f85f2c-e382-4ed8-ac39-64efab17a144.svg?sanitize=true&#34; alt=&#34;quadratic icon small&#34;&gt; &lt;strong&gt;&lt;em&gt;Spreadsheet with AI, Code, and Connections&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt; &#xA;&lt;img width=&#34;1552&#34; alt=&#34;Quadratic in a standalone macOS window; users are working together on a spreadsheet to measure the life expectancy in Canada.&#34; src=&#34;https://media.quadratichq.com/github/quadratic.png&#34;&gt; &#xA;&lt;h2&gt;Learn more about Quadratic&lt;/h2&gt; &#xA;&lt;p&gt;Learn more &lt;a href=&#34;https://quadratichq.com&#34;&gt;QuadraticHQ.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Quadratic Cloud&lt;/h2&gt; &#xA;&lt;p&gt;Open Quadratic &lt;a href=&#34;https://app.quadratichq.com&#34;&gt;app.QuadraticHQ.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;Read the documentation &lt;a href=&#34;https://docs.quadratichq.com&#34;&gt;docs.QuadraticHQ.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Want to contribute?&lt;/h2&gt; &#xA;&lt;p&gt;Feature request or bug report? Submit a &lt;a href=&#34;https://github.com/quadratichq/quadratic/issues/new/choose/&#34;&gt;Github Issue&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Want to contribute? Read our &lt;a href=&#34;https://raw.githubusercontent.com/quadratichq/quadratic/qa/CONTRIBUTING.md&#34;&gt;Contributing Guide&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Quadratic is hiring&lt;/h2&gt; &#xA;&lt;p&gt;Check out our open roles ⟶ &lt;a href=&#34;https://careers.quadratichq.com&#34;&gt;careers.quadratichq.com&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
