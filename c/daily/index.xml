@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-09T01:29:31Z</updated>
+  <updated>2025-04-10T01:29:37Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Xilinx/dma_ip_drivers</title>
-    <updated>2025-04-09T01:29:31Z</updated>
-    <id>tag:github.com,2025-04-09:/Xilinx/dma_ip_drivers</id>
-    <link href="https://github.com/Xilinx/dma_ip_drivers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Xilinx QDMA IP Drivers&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Xilinx DMA IP Reference drivers&lt;/h1&gt; &#xA;&lt;h2&gt;Xilinx QDMA&lt;/h2&gt; &#xA;&lt;p&gt;The Xilinx PCI Express Multi Queue DMA (QDMA) IP provides high-performance direct memory access (DMA) via PCI Express. The PCIe QDMA can be implemented in UltraScale+ devices.&lt;/p&gt; &#xA;&lt;p&gt;Both the linux kernel driver and the DPDK driver can be run on a PCI Express root port host PC to interact with the QDMA endpoint IP via PCI Express.&lt;/p&gt; &#xA;&lt;h3&gt;Getting Started&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://xilinx.github.io/dma_ip_drivers/&#34;&gt;QDMA Reference Drivers Comprehensive documentation&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Xilinx-VSEC (XVSEC)&lt;/h2&gt; &#xA;&lt;p&gt;Xilinx-VSEC (XVSEC) are Xilinx supported VSECs. The XVSEC Driver helps creating and deploying designs that may include the Xilinx VSEC PCIe Features.&lt;/p&gt; &#xA;&lt;p&gt;VSEC (Vendor Specific Extended Capability) is a feature of PCIe.&lt;/p&gt; &#xA;&lt;p&gt;The VSEC itself is implemented in the PCIe extended capability register in the FPGA hardware (as either soft or hard IP). The drivers and SW are created to interface with and use this hardware implemented feature.&lt;/p&gt; &#xA;&lt;p&gt;The XVSEC driver currently include the MCAP VSEC, but will be expanded to include the XVC VSEC and NULL VSEC.&lt;/p&gt; &#xA;&lt;h3&gt;Getting Started&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://xilinx.github.io/dma_ip_drivers/&#34;&gt;XVSEC Linux Kernel Reference Driver Comprehensive documentation&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Support&lt;/h3&gt; &#xA;&lt;p&gt;Refer to Xilinx PCIe Forum for any queries/issues/support required w.r.t Xilinx&#39;s DMA IP Reference Drivers&lt;/p&gt; &#xA;&lt;p&gt;Note: Issues are disabled in github for these drivers. All the queries shall be redirected through Xilinx PCIe Forum link given below.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://forums.xilinx.com/t5/PCIe-and-CPM/bd-p/PCIe&#34;&gt;Xilinx PCIe Forum&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fluent Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-09T01:30:56Z</updated>
+  <updated>2025-04-10T01:33:15Z</updated>
   <subtitle>Daily Trending of Fluent in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>space-wizards/SS14.Launcher</title>
-    <updated>2025-04-09T01:30:56Z</updated>
-    <id>tag:github.com,2025-04-09:/space-wizards/SS14.Launcher</id>
-    <link href="https://github.com/space-wizards/SS14.Launcher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Launcher for Space Station 14.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
