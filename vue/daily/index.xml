@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-10T01:39:00Z</updated>
+  <updated>2025-04-11T01:43:20Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Daymychen/art-design-pro</title>
-    <updated>2025-04-10T01:39:00Z</updated>
-    <id>tag:github.com,2025-04-10:/Daymychen/art-design-pro</id>
-    <link href="https://github.com/Daymychen/art-design-pro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a backend management system template carefully crafted based on Vue 3, TypeScript, Vite, and Element-Plus, with a focus on user experience and visual design.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
