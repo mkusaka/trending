@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-11T01:30:58Z</updated>
+  <updated>2025-04-12T01:33:15Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>poingstudios/godot-admob-plugin</title>
-    <updated>2025-04-11T01:30:58Z</updated>
-    <id>tag:github.com,2025-04-11:/poingstudios/godot-admob-plugin</id>
-    <link href="https://github.com/poingstudios/godot-admob-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is for Godot&#39;s Addons to integrate natively AdMob to your Game Project without much configurations and directly inside Godot Editor!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-11T01:38:38Z</updated>
+  <updated>2025-04-12T01:36:06Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Code4Delphi/Delphi-AI-Developer</title>
+    <updated>2025-04-12T01:36:06Z</updated>
+    <id>tag:github.com,2025-04-12:/Code4Delphi/Delphi-AI-Developer</id>
+    <link href="https://github.com/Code4Delphi/Delphi-AI-Developer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Inspired by GitHub Copilot, this plugin adds AI-powered interaction capabilities to the Delphi IDE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

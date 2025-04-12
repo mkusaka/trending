@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-11T01:38:40Z</updated>
+  <updated>2025-04-12T01:36:11Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jef/zap2xml</title>
+    <updated>2025-04-12T01:36:11Z</updated>
+    <id>tag:github.com,2025-04-12:/jef/zap2xml</id>
+    <link href="https://github.com/jef/zap2xml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📺 Automate zap2it TV guide to XMLTV&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;zap2xml&lt;/h1&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://web.archive.org/web/20200426004001/zap2xml.awardspace.info/&#34;&gt;zap2xml&lt;/a&gt; for original Perl script and guidance for the configuration file.&lt;/p&gt; &#xA;&lt;h2&gt;Docker&lt;/h2&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Tag&lt;/th&gt; &#xA;   &lt;th&gt;Description&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;latest&lt;/td&gt; &#xA;   &lt;td&gt;Stable zap2xml releases&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;nightly&lt;/td&gt; &#xA;   &lt;td&gt;HEAD zap2xml release&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;h3&gt;Compose&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-yaml&#34;&gt;version: &#39;3&#39;&#xA;services:&#xA;  zap2xml:&#xA;    container_name: zap2xml&#xA;    image: ghcr.io/jef/zap2xml:latest&#xA;    environment:&#xA;      OPT_ARGS: &amp;gt;-&#xA;        -I -D -C /config/.zap2xmlrc&#xA;      SLEEPTIME: 43200 # 12 hours in seconds&#xA;      TZ: America/New_York&#xA;    volumes:&#xA;      - /path/to/appdata/zap2xml:/config&#xA;      - /path/to/appdata/xmltv:/xmltv # nice for mapping other drives to this that may use xmltv.xml&#xA;    restart: unless-stopped&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>
