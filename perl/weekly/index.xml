@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Perl Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-04-13T02:03:18Z</updated>
+  <subtitle>Weekly Trending of Perl in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shuaiscott/zap2xml</title>
+    <updated>2025-04-13T02:03:18Z</updated>
+    <id>tag:github.com,2025-04-13:/shuaiscott/zap2xml</id>
+    <link href="https://github.com/shuaiscott/zap2xml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Docker container for zap2xml&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;span&gt;⛔&lt;/span&gt; [DEPRECATED]&lt;/p&gt; &#xA;&lt;h1&gt;zap2xml&lt;/h1&gt; &#xA;&lt;p&gt;Docker container for zap2xml&lt;/p&gt; &#xA;&lt;p&gt;This is zap2xml with Environment Variables driving the configuration. By default it runs every 12 hours to update your EPG data from zap2it. This container will take a second account for zap2it and will merge the received xml files into one using tv_merge.&lt;/p&gt; &#xA;&lt;h2&gt;Quick Run&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;docker run -d --name zap2xml -v /xmltvdata:/data -e USERNAME=youremail@email.com -e PASSWORD=**password** -e OPT_ARGS=&#34;-I -D -a&#34; -e USERNAME2=yourseconduser@email.com -e PASSWORD2=**secondpassword** -e OPT_ARGS2=&#34;-I -D&#34; -e XMLTV_FILENAME=xmltv.xml shuaiscott/zap2xml&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Environment Settings&lt;/h2&gt; &#xA;&lt;p&gt;You can configure the following environment variables below:&lt;/p&gt; &#xA;&lt;h3&gt;Required&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;USERNAME - zap2it.com username&lt;/li&gt; &#xA; &lt;li&gt;PASSWORD - zap2it.com password&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Optional&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;OPT_ARGS - additional command line arguments for zap2xml&lt;/li&gt; &#xA; &lt;li&gt;USERNAME2 - Second zap2it.com username&lt;/li&gt; &#xA; &lt;li&gt;PASSWORD2 - Second zap2it.com password&lt;/li&gt; &#xA; &lt;li&gt;OPT_ARGS2 = additional command line arguments for zap2xml for the second username&lt;/li&gt; &#xA; &lt;li&gt;XMLTV_FILENAME - filename for your xmltv file (default: xmltv.xml)&lt;/li&gt; &#xA; &lt;li&gt;SLEEPTIME - time in seconds to wait before next run (default: 43200)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+</feed>
