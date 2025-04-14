@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-13T01:48:29Z</updated>
+  <updated>2025-04-14T01:29:36Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>OpenCPN/OpenCPN</title>
-    <updated>2025-04-13T01:48:29Z</updated>
-    <id>tag:github.com,2025-04-13:/OpenCPN/OpenCPN</id>
-    <link href="https://github.com/OpenCPN/OpenCPN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation&lt;/p&gt;&lt;hr&gt;&lt;hr&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Overview&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;a. Opencpn was built with the following objectives in mind.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;i.   Intended use as primary navigation interface for vessels&#xA;     with full-time helm-visible navigational suites.&#xA;     Other tools may be better for offline route planning, tide&#xA;     and current prediction, online logging, etc.&#xA;ii.  Quick startup and shutdown.&#xA;iii. Those and only those toolbar buttons really needed for&#xA;     daily operation.&#xA;iv.  Portability, thus wxWidgets core components.  Currently&#xA;     tested and in production use on Windows XP-8.1, OS X, and Linux.&#xA;v.   Conventional ( i.e. popular and modern ) chart format&#xA;     support.  In the real world, this means BSB format raster&#xA;     charts, and S57ENC format vector charts.&#xA;&#xA;&#xA;&#xA;    And, of course, opencpn is all GPL&#39;ed (or equivalent)&#xA;                    Open Source code.&#xA;&#xA;&#xA;Personal Note:&#xA;Opencpn is in primary daily use as the navigation package aboard&#xA;M/V Dyad, a 48 ft trawler yacht cruising from Newfoundland to the&#xA;Bahamas yearly.&#xA;&#xA;Our thanks go to MAXCDN for providing a CDN network delivering&#xA;the OpenCPN downloads worldwide.&#xA;&#xA;OpenCPN is distributed using a multitude of licenses, see LICENSING.&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>
