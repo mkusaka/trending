@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub FreeMarker Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-14T01:31:08Z</updated>
+  <updated>2025-04-15T01:30:55Z</updated>
   <subtitle>Daily Trending of FreeMarker in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>moshowgame/SpringBootCodeGenerator</title>
-    <updated>2025-04-14T01:31:08Z</updated>
-    <id>tag:github.com,2025-04-14:/moshowgame/SpringBootCodeGenerator</id>
-    <link href="https://github.com/moshowgame/SpringBootCodeGenerator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;又名大狼狗代码生成器，基于SpringBoot2+Freemarker的JAVA代码生成器，以释放双手为目的，支持mysql/oracle/pgsql三大数据库， 用DDL-SQL语句生成JPA/JdbcTemplate/Mybatis/MybatisPlus/BeetlSQL等相关代码.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

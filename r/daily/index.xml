@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-14T01:34:42Z</updated>
+  <updated>2025-04-15T01:34:25Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Bioconductor/BiocParallel</title>
-    <updated>2025-04-14T01:34:42Z</updated>
-    <id>tag:github.com,2025-04-14:/Bioconductor/BiocParallel</id>
-    <link href="https://github.com/Bioconductor/BiocParallel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bioconductor facilities for parallel evaluation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BiocParallel&lt;/h1&gt; &#xA;&lt;p&gt;Bioconductor facilities for parallel evaluation (experimental)&lt;/p&gt; &#xA;&lt;h2&gt;Possible TODO&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;map/reduce-like function&lt;/li&gt; &#xA; &lt;li&gt;bpforeach?&lt;/li&gt; &#xA; &lt;li&gt;Abstract scheduler&lt;/li&gt; &#xA; &lt;li&gt;lazy DoparParam&lt;/li&gt; &#xA; &lt;li&gt;SnowParam support for setSeed, recursive, cleanup&lt;/li&gt; &#xA; &lt;li&gt;subset SnowParam&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;DONE&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;encapsulate arguments as ParallelParam()&lt;/li&gt; &#xA; &lt;li&gt;Standardize signatures&lt;/li&gt; &#xA; &lt;li&gt;Make functions generics&lt;/li&gt; &#xA; &lt;li&gt;parLapply-like function&lt;/li&gt; &#xA; &lt;li&gt;Short vignette&lt;/li&gt; &#xA; &lt;li&gt;elaborate SnowParam for SnowSocketParam, SnowForkParam, SnowMpiParam, ...&lt;/li&gt; &#xA; &lt;li&gt;MulticoreParam on Windows&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;github notes&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;commit one-liners with names&lt;/p&gt; &lt;p&gt;git log --pretty=format:&#34;- %h %an: %s&#34;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;TO FIX&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;DoparParam does not pass foreach args (specifically access to .options.nws for chunking)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
