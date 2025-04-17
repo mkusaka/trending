@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-15T01:35:20Z</updated>
+  <updated>2025-04-17T01:41:05Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dtonon/nstart</title>
-    <updated>2025-04-15T01:35:20Z</updated>
-    <id>tag:github.com,2025-04-15:/dtonon/nstart</id>
-    <link href="https://github.com/dtonon/nstart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nstart aims to guide new users to Nostr offering a easy and no-nonsense onboarding wizard, with useful hints about the protocol and some really exclusive features&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
