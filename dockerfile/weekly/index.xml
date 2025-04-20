@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Dockerfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-04-20T01:38:46Z</updated>
+  <subtitle>Weekly Trending of Dockerfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>docker/scout-demo-service</title>
+    <updated>2025-04-20T01:38:46Z</updated>
+    <id>tag:github.com,2025-04-20:/docker/scout-demo-service</id>
+    <link href="https://github.com/docker/scout-demo-service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Docker Scout demo service&lt;/h1&gt; &#xA;&lt;p&gt;A repository containing an application and Dockerfile to demonstrate the use of Docker Scout to analyze and remediate CVEs in a container image.&lt;/p&gt; &#xA;&lt;p&gt;Read the &lt;a href=&#34;https://docs.docker.com/scout/quickstart&#34;&gt;Docker Scout Quickstart&lt;/a&gt; for a full walkthrough. You can build and run the image with the following command:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;docker build -t scout-demo:v1 .&#xA;docker run scout-demo:v1&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The application consists of a basic ExpressJS server and uses an intentionally old version of Express and Alpine base image.&lt;/p&gt;</summary>
+  </entry>
+</feed>
