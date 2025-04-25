@@ -55,7 +55,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"commander@npm:^13.0.0":
+"commander@npm:^13.0.0, commander@npm:^13.1.0":
   version: 13.1.0
   resolution: "commander@npm:13.1.0"
   checksum: d0d72d66fdb2ea48692a03ab715f547dfeed84b00b6022d759288c2edd8b20ed8421e4160d55d55964c28587ed9ae0a301914cdd29a22077a8c8d70adf3a2575
@@ -415,6 +415,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "trending@workspace:."
   dependencies:
+    commander: ^13.1.0
     gh-pages: ^6
   languageName: unknown
   linkType: soft
