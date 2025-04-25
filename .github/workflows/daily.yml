@@ -3,7 +3,6 @@ on:
   schedule:
     - cron: "0 13 * * *"
   workflow_dispatch:
-  push:
 
 jobs:
   fetch-and-update:
