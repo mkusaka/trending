@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-25T01:32:52Z</updated>
+  <updated>2025-04-26T01:35:30Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kubernetes-sigs/ingate</title>
+    <updated>2025-04-26T01:35:30Z</updated>
+    <id>tag:github.com,2025-04-26:/kubernetes-sigs/ingate</id>
+    <link href="https://github.com/kubernetes-sigs/ingate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;InGate - an Ingress &amp; Gateway API Controller&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
