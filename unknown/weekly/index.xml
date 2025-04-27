@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-04-27T01:41:58Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EmenstaNougat/ESP32-BlueJammer</title>
+    <updated>2025-04-27T01:41:58Z</updated>
+    <id>tag:github.com,2025-04-27:/EmenstaNougat/ESP32-BlueJammer</id>
+    <link href="https://github.com/EmenstaNougat/ESP32-BlueJammer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

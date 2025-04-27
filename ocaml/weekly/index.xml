@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-04-27T01:49:23Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kuis-isle3sw/IoPLMaterials</title>
+    <updated>2025-04-27T01:49:23Z</updated>
+    <id>tag:github.com,2025-04-27:/kuis-isle3sw/IoPLMaterials</id>
+    <link href="https://github.com/kuis-isle3sw/IoPLMaterials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Materials for the class &#34;Implementation of Programming Languages&#34; in Kyoto University.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
