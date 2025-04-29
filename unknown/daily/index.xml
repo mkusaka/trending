@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-28T01:29:24Z</updated>
+  <updated>2025-04-29T01:29:14Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TianxingChen/Embodied-AI-Guide</title>
+    <updated>2025-04-29T01:29:14Z</updated>
+    <id>tag:github.com,2025-04-29:/TianxingChen/Embodied-AI-Guide</id>
+    <link href="https://github.com/TianxingChen/Embodied-AI-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
