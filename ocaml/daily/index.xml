@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-04-29T01:34:31Z</updated>
+  <updated>2025-04-30T01:34:03Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rocq-prover/opam</title>
-    <updated>2025-04-29T01:34:31Z</updated>
-    <id>tag:github.com,2025-04-29:/rocq-prover/opam</id>
-    <link href="https://github.com/rocq-prover/opam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Archive for all Rocq and Coq-related opam packages organized in various repositories&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
