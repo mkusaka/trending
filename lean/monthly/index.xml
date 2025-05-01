@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Lean Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-01T01:47:28Z</updated>
+  <subtitle>Monthly Trending of Lean in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PatrickMassot/GlimpseOfLean</title>
+    <updated>2025-05-01T01:47:28Z</updated>
+    <id>tag:github.com,2025-05-01:/PatrickMassot/GlimpseOfLean</id>
+    <link href="https://github.com/PatrickMassot/GlimpseOfLean" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An introduction to theorem proving in Lean for the impatient.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

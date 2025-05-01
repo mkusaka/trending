@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-01T01:49:54Z</updated>
+  <subtitle>Monthly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>foreverphoenix/the-phoenix-flavour</title>
+    <updated>2025-05-01T01:49:54Z</updated>
+    <id>tag:github.com,2025-05-01:/foreverphoenix/the-phoenix-flavour</id>
+    <link href="https://github.com/foreverphoenix/the-phoenix-flavour" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Skyrim SE modding guide.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>botoxparty/XP.css</title>
+    <updated>2025-05-01T01:49:54Z</updated>
+    <id>tag:github.com,2025-05-01:/botoxparty/XP.css</id>
+    <link href="https://github.com/botoxparty/XP.css" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A CSS framework for building faithful recreations of operating system GUIs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Fausto-Korpsvart/Catppuccin-GTK-Theme</title>
+    <updated>2025-05-01T01:49:54Z</updated>
+    <id>tag:github.com,2025-05-01:/Fausto-Korpsvart/Catppuccin-GTK-Theme</id>
+    <link href="https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GTK Theme with Catppuccin colour scheme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

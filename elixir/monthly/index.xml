@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-01T01:45:40Z</updated>
+  <subtitle>Monthly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sequinstream/sequin</title>
+    <updated>2025-05-01T01:45:40Z</updated>
+    <id>tag:github.com,2025-05-01:/sequinstream/sequin</id>
+    <link href="https://github.com/sequinstream/sequin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mishka-group/mishka_chelekom</title>
+    <updated>2025-05-01T01:45:40Z</updated>
+    <id>tag:github.com,2025-05-01:/mishka-group/mishka_chelekom</id>
+    <link href="https://github.com/mishka-group/mishka_chelekom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mishka Chelekom is a fully featured components and UI kit library for Phoenix &amp; Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bitwalker/timex</title>
+    <updated>2025-05-01T01:45:40Z</updated>
+    <id>tag:github.com,2025-05-01:/bitwalker/timex</id>
+    <link href="https://github.com/bitwalker/timex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete date/time library for Elixir projects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

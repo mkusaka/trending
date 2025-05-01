@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-01T01:50:57Z</updated>
+  <subtitle>Monthly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xerrors/Yuxi-Know</title>
+    <updated>2025-05-01T01:50:57Z</updated>
+    <id>tag:github.com,2025-05-01:/xerrors/Yuxi-Know</id>
+    <link href="https://github.com/xerrors/Yuxi-Know" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于智能体 RAG 知识库的知识图谱问答系统。Langgraph + VueJS + Flask + Neo4j。大模型适配 OpenAI、Ollama、vLLM、国内主流大模型平台的模型调用。支持推理模型DeepSeek-R1、联网检索、工具调用。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>moeru-ai/airi</title>
+    <updated>2025-05-01T01:50:57Z</updated>
+    <id>tag:github.com,2025-05-01:/moeru-ai/airi</id>
+    <link href="https://github.com/moeru-ai/airi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Moonofweisheng/wot-design-uni</title>
+    <updated>2025-05-01T01:50:57Z</updated>
+    <id>tag:github.com,2025-05-01:/Moonofweisheng/wot-design-uni</id>
+    <link href="https://github.com/Moonofweisheng/wot-design-uni" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

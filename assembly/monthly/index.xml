@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-01T01:44:03Z</updated>
+  <subtitle>Monthly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BluRosie/hg-engine</title>
+    <updated>2025-05-01T01:44:03Z</updated>
+    <id>tag:github.com,2025-05-01:/BluRosie/hg-engine</id>
+    <link href="https://github.com/BluRosie/hg-engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;complete heart gold engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>z88dk/z88dk</title>
+    <updated>2025-05-01T01:44:03Z</updated>
+    <id>tag:github.com,2025-05-01:/z88dk/z88dk</id>
+    <link href="https://github.com/z88dk/z88dk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

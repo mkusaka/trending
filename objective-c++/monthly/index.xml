@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C++ Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-01T01:48:24Z</updated>
+  <subtitle>Monthly Trending of Objective-C++ in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>northpolesec/santa</title>
+    <updated>2025-05-01T01:48:24Z</updated>
+    <id>tag:github.com,2025-05-01:/northpolesec/santa</id>
+    <link href="https://github.com/northpolesec/santa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A binary and file access authorization system for macOS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

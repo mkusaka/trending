@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-01T01:44:52Z</updated>
+  <subtitle>Monthly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>flathub/shared-modules</title>
+    <updated>2025-05-01T01:44:52Z</updated>
+    <id>tag:github.com,2025-05-01:/flathub/shared-modules</id>
+    <link href="https://github.com/flathub/shared-modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common Flatpak modules that can be used as a git submodule&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
