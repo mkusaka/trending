@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-02T01:32:34Z</updated>
+  <updated>2025-05-03T01:32:42Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>teorth/equational_theories</title>
+    <updated>2025-05-03T01:32:42Z</updated>
+    <id>tag:github.com,2025-05-03:/teorth/equational_theories</id>
+    <link href="https://github.com/teorth/equational_theories" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A project to map out the relations between different equational theories of Magmas.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
