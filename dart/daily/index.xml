@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-03T01:30:40Z</updated>
+  <updated>2025-05-04T01:30:37Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>avioli/uni_links</title>
-    <updated>2025-05-03T01:30:40Z</updated>
-    <id>tag:github.com,2025-05-03:/avioli/uni_links</id>
-    <link href="https://github.com/avioli/uni_links" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flutter plugin for accepting incoming links.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Uni Links&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains the Uni Links plugin platform interface, as well as platform specific implementations.&lt;/p&gt; &#xA;&lt;p&gt;The main &lt;code&gt;uni_links&lt;/code&gt; plugin source code and documantation can be found in the &lt;a href=&#34;https://raw.githubusercontent.com/avioli/uni_links/master/uni_links&#34;&gt;uni_links&lt;/a&gt; directory.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SourcePawn Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-03T01:35:21Z</updated>
+  <updated>2025-05-04T01:37:34Z</updated>
   <subtitle>Daily Trending of SourcePawn in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shavitush/bhoptimer</title>
-    <updated>2025-05-03T01:35:21Z</updated>
-    <id>tag:github.com,2025-05-03:/shavitush/bhoptimer</id>
-    <link href="https://github.com/shavitush/bhoptimer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A bunnyhop timer plugin for Counter-Strike: Source, Counter-Strike: Global Offensive and Team Fortress 2.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
