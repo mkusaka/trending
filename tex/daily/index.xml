@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-04T01:37:58Z</updated>
+  <updated>2025-05-05T01:40:18Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jyotisham/jyotisha</title>
+    <updated>2025-05-05T01:40:18Z</updated>
+    <id>tag:github.com,2025-05-05:/jyotisham/jyotisha</id>
+    <link href="https://github.com/jyotisham/jyotisha" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python tools for the astronomical / astrological vedAnga of Hindus&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;JyotiSha tools and data&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://badge.fury.io/py/jyotisha&#34;&gt;&lt;img src=&#34;https://badge.fury.io/py/jyotisha.svg?sanitize=true&#34; alt=&#34;PyPI version&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://jyotisha.readthedocs.io/en/latest/?badge=latest&#34;&gt;&lt;img src=&#34;https://readthedocs.org/projects/jyotisha/badge/?version=latest&#34; alt=&#34;Documentation Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/jyotisham/jyotisha/actions&#34;&gt;&lt;img src=&#34;https://github.com/jyotisham/jyotisha/workflows/Python%20package/badge.svg?sanitize=true&#34; alt=&#34;Actions Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Intro, user-guide, contribution guide, example calendars etc. may be found &lt;a href=&#34;https://jyotisham.github.io/jyotisha/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
