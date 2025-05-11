@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-11T01:42:05Z</updated>
+  <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>saz/puppet-rsyslog</title>
+    <updated>2025-05-11T01:42:05Z</updated>
+    <id>tag:github.com,2025-05-11:/saz/puppet-rsyslog</id>
+    <link href="https://github.com/saz/puppet-rsyslog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage rsyslog through puppet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-10T01:40:04Z</updated>
+  <updated>2025-05-11T01:35:45Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>abrisco/rules_helm</title>
-    <updated>2025-05-10T01:40:04Z</updated>
-    <id>tag:github.com,2025-05-10:/abrisco/rules_helm</id>
-    <link href="https://github.com/abrisco/rules_helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel rules for producing Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

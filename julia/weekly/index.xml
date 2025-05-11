@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-11T01:40:08Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CliMA/ClimaOcean.jl</title>
+    <updated>2025-05-11T01:40:08Z</updated>
+    <id>tag:github.com,2025-05-11:/CliMA/ClimaOcean.jl</id>
+    <link href="https://github.com/CliMA/ClimaOcean.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌎 Regional-to-global coupled ocean and sea ice simulations based on Oceananigans.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-11T01:46:37Z</updated>
+  <subtitle>Weekly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>electric-capital/crypto-ecosystems</title>
+    <updated>2025-05-11T01:46:37Z</updated>
+    <id>tag:github.com,2025-05-11:/electric-capital/crypto-ecosystems</id>
+    <link href="https://github.com/electric-capital/crypto-ecosystems" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ghostty-org/ghostty</title>
+    <updated>2025-05-11T01:46:37Z</updated>
+    <id>tag:github.com,2025-05-11:/ghostty-org/ghostty</id>
+    <link href="https://github.com/ghostty-org/ghostty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
