@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-11T01:29:09Z</updated>
+  <updated>2025-05-12T01:29:27Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fudan-generative-vision/OpenHumanVid</title>
-    <updated>2025-05-11T01:29:09Z</updated>
-    <id>tag:github.com,2025-05-11:/fudan-generative-vision/OpenHumanVid</id>
-    <link href="https://github.com/fudan-generative-vision/OpenHumanVid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[CVPR 2025] A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-11T01:30:59Z</updated>
+  <updated>2025-05-12T01:31:32Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>inertiajs/inertia-phoenix</title>
-    <updated>2025-05-11T01:30:59Z</updated>
-    <id>tag:github.com,2025-05-11:/inertiajs/inertia-phoenix</id>
-    <link href="https://github.com/inertiajs/inertia-phoenix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Phoenix adapter for Inertia.js.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
