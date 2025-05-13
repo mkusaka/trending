@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-12T01:36:18Z</updated>
+  <updated>2025-05-13T01:40:03Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pulp-platform/croc</title>
+    <updated>2025-05-13T01:40:03Z</updated>
+    <id>tag:github.com,2025-05-13:/pulp-platform/croc</id>
+    <link href="https://github.com/pulp-platform/croc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A PULP SoC for education, easy to understand and extend with a full flow for a physical design.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
