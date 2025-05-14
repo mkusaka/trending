@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-13T01:40:05Z</updated>
+  <updated>2025-05-14T01:35:38Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Marginal/QLVideo</title>
-    <updated>2025-05-13T01:40:05Z</updated>
-    <id>tag:github.com,2025-05-13:/Marginal/QLVideo</id>
-    <link href="https://github.com/Marginal/QLVideo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;QuickLook Video&lt;/h1&gt; &#xA;&lt;p&gt;This package allows macOS Finder to display thumbnails, static previews, cover art and metadata for most types of video files.&lt;/p&gt; &#xA;&lt;p&gt;QuickLook and Spotlight understand a limited number of media files - mostly only MPEG audio and video codecs within MPEG container files. This package adds support for wide range of other codecs and &#34;non-native&#34; media file types, including &lt;code&gt;.asf&lt;/code&gt;, &lt;code&gt;.avi&lt;/code&gt;, &lt;code&gt;.flv&lt;/code&gt;, &lt;code&gt;.mkv&lt;/code&gt;, &lt;code&gt;.rm&lt;/code&gt;, &lt;code&gt;.webm&lt;/code&gt;, &lt;code&gt;.wmf&lt;/code&gt; etc.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Marginal/QLVideo/master/img/finder.jpeg&#34; alt=&#34;Finder&#34; width=&#34;508&#34;&gt; &amp;nbsp; &lt;img src=&#34;https://raw.githubusercontent.com/Marginal/QLVideo/master/img/info.jpeg&#34; alt=&#34;Finder Info&#34; width=&#34;267&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/Marginal/QLVideo/master/img/preview.jpeg&#34; alt=&#34;QuickLook preview&#34; width=&#34;962&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installation and Usage&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://github.com/Marginal/QLVideo/wiki/Getting-Started&#34;&gt;Getting Started&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Copyright © 2014-2025 Jonathan Harris.&lt;/p&gt; &#xA;&lt;p&gt;Licensed under the &lt;a href=&#34;http://www.gnu.org/licenses/gpl-2.0.html&#34;&gt;GNU Public License (GPL)&lt;/a&gt; version 2 or later.&lt;/p&gt;</summary>
-  </entry>
 </feed>
