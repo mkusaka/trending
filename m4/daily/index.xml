@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub M4 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-16T01:32:36Z</updated>
+  <updated>2025-05-17T01:33:08Z</updated>
   <subtitle>Daily Trending of M4 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alekseyzimin/EviAnn_release</title>
+    <updated>2025-05-17T01:33:08Z</updated>
+    <id>tag:github.com,2025-05-17:/alekseyzimin/EviAnn_release</id>
+    <link href="https://github.com/alekseyzimin/EviAnn_release" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the standalone version of the EviAnn pipeline&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

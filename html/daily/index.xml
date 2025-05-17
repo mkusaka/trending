@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-16T01:31:40Z</updated>
+  <updated>2025-05-17T01:32:04Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jonbarron/jonbarron.github.io</title>
-    <updated>2025-05-16T01:31:40Z</updated>
-    <id>tag:github.com,2025-05-16:/jonbarron/jonbarron.github.io</id>
-    <link href="https://github.com/jonbarron/jonbarron.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is the source code to Jon Barron&#39;s public academic website: &lt;a href=&#34;https://jonbarron.info/&#34;&gt;https://jonbarron.info/&lt;/a&gt;. Feel free to clone this code for your own personal use.&lt;/p&gt;</summary>
-  </entry>
 </feed>

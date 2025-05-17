@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-16T01:31:17Z</updated>
+  <updated>2025-05-17T01:31:39Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>laurentlb/shader-minifier</title>
-    <updated>2025-05-16T01:31:17Z</updated>
-    <id>tag:github.com,2025-05-16:/laurentlb/shader-minifier</id>
-    <link href="https://github.com/laurentlb/shader-minifier" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minify and obfuscate GLSL or HLSL code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
