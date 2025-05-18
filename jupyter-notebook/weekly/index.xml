@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Jupyter Notebook Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-18T01:40:51Z</updated>
+  <subtitle>Weekly Trending of Jupyter Notebook in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aburkov/theLMbook</title>
+    <updated>2025-05-18T01:40:51Z</updated>
+    <id>tag:github.com,2025-05-18:/aburkov/theLMbook</id>
+    <link href="https://github.com/aburkov/theLMbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the official repository for The Hundred-Page Language Models Book by Andriy Burkov&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The Hundred-Page Language Models Book&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/user-attachments/assets/06a77a36-3022-4a21-a522-d5d213320bf0&#34; alt=&#34;cover&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

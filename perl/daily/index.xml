@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-17T01:34:17Z</updated>
+  <updated>2025-05-18T01:34:40Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>k4rthik/git-cal</title>
-    <updated>2025-05-17T01:34:17Z</updated>
-    <id>tag:github.com,2025-05-17:/k4rthik/git-cal</id>
-    <link href="https://github.com/k4rthik/git-cal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;github like contributions calendar on terminal&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;git-cal&lt;/h1&gt; &#xA;&lt;h3&gt;Description&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.github.com/k4rthik/git-cal/master/screenshots/img1.png&#34; alt=&#34;screenshot with black theme&#34;&gt; &lt;img src=&#34;https://raw.github.com/k4rthik/git-cal/master/screenshots/img2.png&#34; alt=&#34;screenshot with white theme&#34;&gt; on your terminal&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;git-cal is a simple script to view commits calendar (similar to github contributions calendar) on command line&lt;/li&gt; &#xA; &lt;li&gt;Each block in the graph corresponds to a day and is shaded with one of the 5 possible colors, each representing relative number of commits on that day.&lt;/li&gt; &#xA; &lt;li&gt;Option to choose --ascii or --unicode to denote the same instead of the ANSI colors.&lt;/li&gt; &#xA; &lt;li&gt;Option to use git config to set options.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Install&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;with root access:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code&gt;perl Makefile.PL&#xA;make&#xA;sudo make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;without root access:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code&gt;perl Makefile.PL PREFIX=~/.local&#xA;make&#xA;make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;with Homebrew&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code&gt;brew install git-cal&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

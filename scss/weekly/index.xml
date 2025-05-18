@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-18T01:43:35Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>odoo/tutorials</title>
+    <updated>2025-05-18T01:43:35Z</updated>
+    <id>tag:github.com,2025-05-18:/odoo/tutorials</id>
+    <link href="https://github.com/odoo/tutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository with the code for the bases and solutions of the official Odoo tutorials&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

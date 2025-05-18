@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scala Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-18T01:43:30Z</updated>
+  <subtitle>Weekly Trending of Scala in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chipsalliance/diplomacy</title>
+    <updated>2025-05-18T01:43:30Z</updated>
+    <id>tag:github.com,2025-05-18:/chipsalliance/diplomacy</id>
+    <link href="https://github.com/chipsalliance/diplomacy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Diplomacy&lt;/h1&gt; &#xA;&lt;p&gt;Diplomacy is a parameter negotiation framework for Chisel. More documentation will be added in the future.&lt;/p&gt; &#xA;&lt;h2&gt;Development Guide&lt;/h2&gt; &#xA;&lt;h3&gt;Setup Nix&lt;/h3&gt; &#xA;&lt;p&gt;We use nix flake as our primary build system. If you have not installed nix, install it following the &lt;a href=&#34;https://nixos.org/manual/nix/stable/installation/installing-binary.html&#34;&gt;guide&lt;/a&gt;, and enable flake following the &lt;a href=&#34;https://nixos.wiki/wiki/Flakes#Enable_flakes&#34;&gt;wiki&lt;/a&gt;. Or you can try the &lt;a href=&#34;https://github.com/DeterminateSystems/nix-installer&#34;&gt;installer&lt;/a&gt; provided by Determinate Systems, which enables flake by default.&lt;/p&gt; &#xA;&lt;h3&gt;Setup Dependencies and IDE&lt;/h3&gt; &#xA;&lt;p&gt;Run command below will help you setup dependencies(including ivy and source dependencies):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;nix develop .#diplomacy -c mill mill.bsp.BSP/install&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+</feed>

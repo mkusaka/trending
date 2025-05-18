@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-18T01:37:26Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wong2/awesome-mcp-servers</title>
+    <updated>2025-05-18T01:37:26Z</updated>
+    <id>tag:github.com,2025-05-18:/wong2/awesome-mcp-servers</id>
+    <link href="https://github.com/wong2/awesome-mcp-servers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of Model Context Protocol (MCP) servers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fudan-generative-vision/OpenHumanVid</title>
+    <updated>2025-05-18T01:37:26Z</updated>
+    <id>tag:github.com,2025-05-18:/fudan-generative-vision/OpenHumanVid</id>
+    <link href="https://github.com/fudan-generative-vision/OpenHumanVid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[CVPR 2025] A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
