@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-19T01:39:31Z</updated>
+  <updated>2025-05-20T01:41:22Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Gota7/zig-sdl3</title>
-    <updated>2025-05-19T01:39:31Z</updated>
-    <id>tag:github.com,2025-05-19:/Gota7/zig-sdl3</id>
-    <link href="https://github.com/Gota7/zig-sdl3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zig wrapper for SDL3.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

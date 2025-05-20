@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-19T01:39:09Z</updated>
+  <updated>2025-05-20T01:41:00Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>algerkong/AlgerMusicPlayer</title>
+    <updated>2025-05-20T01:41:00Z</updated>
+    <id>tag:github.com,2025-05-20:/algerkong/AlgerMusicPlayer</id>
+    <link href="https://github.com/algerkong/AlgerMusicPlayer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
