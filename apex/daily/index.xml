@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-20T01:29:31Z</updated>
+  <updated>2025-05-21T01:29:21Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>UnofficialSF/LightningFlowComponents</title>
+    <updated>2025-05-21T01:29:21Z</updated>
+    <id>tag:github.com,2025-05-21:/UnofficialSF/LightningFlowComponents</id>
+    <link href="https://github.com/UnofficialSF/LightningFlowComponents" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of unofficial Flow extensions that can be used to enhance Salesforce Flow and Orchestrator.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-20T01:33:18Z</updated>
+  <updated>2025-05-21T01:32:59Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>displaylink-rpm/displaylink-rpm</title>
-    <updated>2025-05-20T01:33:18Z</updated>
-    <id>tag:github.com,2025-05-20:/displaylink-rpm/displaylink-rpm</id>
-    <link href="https://github.com/displaylink-rpm/displaylink-rpm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RPM sources for the DisplayLink USB display adapters&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
