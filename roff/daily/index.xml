@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-21T01:34:59Z</updated>
+  <updated>2025-05-22T01:35:32Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>intel/linux-intel-lts</title>
+    <updated>2025-05-22T01:35:32Z</updated>
+    <id>tag:github.com,2025-05-22:/intel/linux-intel-lts</id>
+    <link href="https://github.com/intel/linux-intel-lts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Intel LTS kernel, the kernel tree is a reference tree that contains enabling for Intel CPU&#39;s that may be up-streamed in a newer kernel version.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-21T01:36:23Z</updated>
+  <updated>2025-05-22T01:39:13Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vrcx-team/VRCX</title>
-    <updated>2025-05-21T01:36:23Z</updated>
-    <id>tag:github.com,2025-05-21:/vrcx-team/VRCX</id>
-    <link href="https://github.com/vrcx-team/VRCX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Friendship management tool for VRChat&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WINBIGFOX/TimeScribe</title>
+    <updated>2025-05-22T01:39:13Z</updated>
+    <id>tag:github.com,2025-05-22:/WINBIGFOX/TimeScribe</id>
+    <link href="https://github.com/WINBIGFOX/TimeScribe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository offers a modern, flexible time tracking app for capturing and managing personal working hours. It operates offline, requires no sign-up, and is free and open source—ideal for anyone looking to efficiently track work hours, whether at home or in the office.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
