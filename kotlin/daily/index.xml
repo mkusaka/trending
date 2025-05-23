@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-22T01:33:11Z</updated>
+  <updated>2025-05-23T01:32:56Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>android/ai-samples</title>
+    <updated>2025-05-23T01:32:56Z</updated>
+    <id>tag:github.com,2025-05-23:/android/ai-samples</id>
+    <link href="https://github.com/android/ai-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Google AI Samples&lt;/h1&gt; &#xA;&lt;p&gt;This repository provides a collection of samples showcasing Google AI technologies.&lt;/p&gt; &#xA;&lt;h2&gt;Repository Structure&lt;/h2&gt; &#xA;&lt;p&gt;The repository is organized into the following folders:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/android/ai-samples/main/gemini-nano/&#34;&gt;&lt;strong&gt;gemini-nano&lt;/strong&gt;&lt;/a&gt;: This folder contains samples focused on experimenting with Gemini Nano. You&#39;ll find code and resources here to help you explore and utilize Gemini Nano in your projects.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/android/ai-samples/main/ai-catalog&#34;&gt;&lt;strong&gt;ai-catalog&lt;/strong&gt;&lt;/a&gt;: This folder contains the Android AI Sample app. It demonstrates various AI capabilities within an Android application.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;To get started with the samples, navigate to the specific folder you&#39;re interested in and follow the instructions within that folder&#39;s README.md.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Copyright 2024 Google, Inc.&lt;/p&gt; &#xA;&lt;p&gt;Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the &#34;License&#34;); you may not use this file except in compliance with the License. You may obtain a copy of the License at&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://www.apache.org/licenses/LICENSE-2.0&#34;&gt;http://www.apache.org/licenses/LICENSE-2.0&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &#34;AS IS&#34; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.&lt;/p&gt;</summary>
+  </entry>
 </feed>

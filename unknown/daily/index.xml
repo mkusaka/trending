@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-22T01:29:19Z</updated>
+  <updated>2025-05-23T01:29:20Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MicrosoftDocs/WSL</title>
-    <updated>2025-05-22T01:29:19Z</updated>
-    <id>tag:github.com,2025-05-22:/MicrosoftDocs/WSL</id>
-    <link href="https://github.com/MicrosoftDocs/WSL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code behind the Windows Subsystem for Linux documentation.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lvgl/lvgl_editor</title>
-    <updated>2025-05-22T01:29:19Z</updated>
-    <id>tag:github.com,2025-05-22:/lvgl/lvgl_editor</id>
-    <link href="https://github.com/lvgl/lvgl_editor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>skills/communicate-using-markdown</title>
+    <updated>2025-05-23T01:29:20Z</updated>
+    <id>tag:github.com,2025-05-23:/skills/communicate-using-markdown</id>
+    <link href="https://github.com/skills/communicate-using-markdown" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Organize ideas and collaborate using Markdown, a lightweight language for text formatting.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
