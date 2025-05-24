@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-23T01:33:53Z</updated>
+  <updated>2025-05-24T01:33:13Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>k3d3/claude-desktop-linux-flake</title>
-    <updated>2025-05-23T01:33:53Z</updated>
-    <id>tag:github.com,2025-05-23:/k3d3/claude-desktop-linux-flake</id>
-    <link href="https://github.com/k3d3/claude-desktop-linux-flake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix Flake for Claude Desktop on Linux&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nix-community/preservation</title>
-    <updated>2025-05-23T01:33:53Z</updated>
-    <id>tag:github.com,2025-05-23:/nix-community/preservation</id>
-    <link href="https://github.com/nix-community/preservation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
