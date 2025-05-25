@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-05-25T01:37:15Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SLAM-Handbook-contributors/slam-handbook-public-release</title>
+    <updated>2025-05-25T01:37:15Z</updated>
+    <id>tag:github.com,2025-05-25:/SLAM-Handbook-contributors/slam-handbook-public-release</id>
+    <link href="https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Release repo for our SLAM Handbook&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/vscode-copilot-release</title>
+    <updated>2025-05-25T01:37:15Z</updated>
+    <id>tag:github.com,2025-05-25:/microsoft/vscode-copilot-release</id>
+    <link href="https://github.com/microsoft/vscode-copilot-release" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Feedback on GitHub Copilot Chat UX in Visual Studio Code.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZJU-LLMs/Foundations-of-LLMs</title>
+    <updated>2025-05-25T01:37:15Z</updated>
+    <id>tag:github.com,2025-05-25:/ZJU-LLMs/Foundations-of-LLMs</id>
+    <link href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
