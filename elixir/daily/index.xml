@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-25T01:31:20Z</updated>
+  <updated>2025-05-26T01:31:04Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudwalk/hermes-mcp</title>
-    <updated>2025-05-25T01:31:20Z</updated>
-    <id>tag:github.com,2025-05-25:/cloudwalk/hermes-mcp</id>
-    <link href="https://github.com/cloudwalk/hermes-mcp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir Model Context Protocol (MCP) SDK&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>electric-sql/phoenix_sync</title>
+    <updated>2025-05-26T01:31:04Z</updated>
+    <id>tag:github.com,2025-05-26:/electric-sql/phoenix_sync</id>
+    <link href="https://github.com/electric-sql/phoenix_sync" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Real-time sync for Postgres-backed Phoenix applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
