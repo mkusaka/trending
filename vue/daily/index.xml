@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-26T01:38:32Z</updated>
+  <updated>2025-05-27T01:41:38Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Gzh0821/pvzg_site</title>
-    <updated>2025-05-26T01:38:32Z</updated>
-    <id>tag:github.com,2025-05-26:/Gzh0821/pvzg_site</id>
-    <link href="https://github.com/Gzh0821/pvzg_site" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PvZ2 Gardendless Official Website | PvZ2 Gardendless 官方网站&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AnotiaWang/deep-research-web-ui</title>
-    <updated>2025-05-26T01:38:32Z</updated>
-    <id>tag:github.com,2025-05-26:/AnotiaWang/deep-research-web-ui</id>
-    <link href="https://github.com/AnotiaWang/deep-research-web-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
