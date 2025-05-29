@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-28T01:36:36Z</updated>
+  <updated>2025-05-29T01:37:22Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>open-logic/open-logic</title>
-    <updated>2025-05-28T01:36:36Z</updated>
-    <id>tag:github.com,2025-05-28:/open-logic/open-logic</id>
-    <link href="https://github.com/open-logic/open-logic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open Logic FPGA Standard Library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

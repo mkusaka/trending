@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-28T01:31:26Z</updated>
+  <updated>2025-05-29T01:32:07Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ee0pdt/Godot-MCP</title>
-    <updated>2025-05-28T01:31:26Z</updated>
-    <id>tag:github.com,2025-05-28:/ee0pdt/Godot-MCP</id>
-    <link href="https://github.com/ee0pdt/Godot-MCP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An MCP for Godot that lets you create and edit games in the Godot game engine with tools like Claude&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

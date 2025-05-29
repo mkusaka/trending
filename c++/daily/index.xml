@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-28T01:29:54Z</updated>
+  <updated>2025-05-29T01:30:26Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Slicer/Slicer</title>
-    <updated>2025-05-28T01:29:54Z</updated>
-    <id>tag:github.com,2025-05-28:/Slicer/Slicer</id>
-    <link href="https://github.com/Slicer/Slicer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi-platform, free open source software for visualization and image computing.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/Slicer/Slicer/actions/workflows/ci.yml&#34;&gt;&lt;img src=&#34;https://github.com/Slicer/Slicer/actions/workflows/ci.yml/badge.svg?sanitize=true&#34; alt=&#34;CI (Build)&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://securityscorecards.dev/viewer/?uri=github.com/Slicer/Slicer&#34;&gt;&lt;img src=&#34;https://api.securityscorecards.dev/projects/github.com/Slicer/Slicer/badge&#34; alt=&#34;OpenSSF Scorecard&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Slicer, or 3D Slicer, is a free, open source software package for visualization and image analysis.&lt;/p&gt; &#xA;&lt;p&gt;3D Slicer is natively designed to be available on multiple platforms, including Windows, Linux and macOS.&lt;/p&gt; &#xA;&lt;p&gt;Build instructions for all platforms are available on the Slicer wiki:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://slicer.readthedocs.io/en/latest/developer_guide/build_instructions/index.html&#34;&gt;https://slicer.readthedocs.io/en/latest/developer_guide/build_instructions/index.html&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For Slicer community announcements and support, visit:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://discourse.slicer.org&#34;&gt;https://discourse.slicer.org&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For documentation, tutorials, and more information, please see:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.slicer.org&#34;&gt;https://www.slicer.org&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;See License.txt for information on using and contributing.&lt;/p&gt;</summary>
-  </entry>
 </feed>
