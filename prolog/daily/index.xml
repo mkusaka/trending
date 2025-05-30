@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-29T01:35:20Z</updated>
+  <updated>2025-05-30T01:34:57Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>stipub/stixfonts</title>
+    <updated>2025-05-30T01:34:57Z</updated>
+    <id>tag:github.com,2025-05-30:/stipub/stixfonts</id>
+    <link href="https://github.com/stipub/stixfonts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenType Unicode fonts for Scientific, Technical, and Mathematical texts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
