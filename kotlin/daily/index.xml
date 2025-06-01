@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-31T01:32:49Z</updated>
+  <updated>2025-06-01T01:33:27Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pumPCin/HMAL</title>
-    <updated>2025-05-31T01:32:49Z</updated>
-    <id>tag:github.com,2025-05-31:/pumPCin/HMAL</id>
-    <link href="https://github.com/pumPCin/HMAL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My changes to Hide My AppList (An Xposed module to intercept applist detections)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HMAL (Hide My AppList)&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/pumPCin/HMAL/master/banner.png&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;About this Xposed (LSPosed) module app&lt;/h2&gt; &#xA;&lt;p&gt;Although it&#39;s bad practice to detect the installation of specific apps, not every app using root provides random package name support. In this case, if apps related to root (such as Fake Location and Storage Isolation) are detected, it is tantamount to detecting that the device is rooted.&lt;/p&gt; &#xA;&lt;p&gt;Additionally, some apps use various loopholes to acquire your app list, in order to use it as fingerprinting data or for other nefarious purposes.&lt;/p&gt; &#xA;&lt;p&gt;This module can work as an Xposed module to hide apps or reject app list requests, and provides some methods to test whether you have hidden your app list properly.&lt;/p&gt; &#xA;&lt;h2&gt;Fork differences with the original module HMA&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Removed: Google Services, ads, logcat logs, filtered counters, network activity.&lt;/li&gt; &#xA; &lt;li&gt;Changed: Package name, log filename, other little things in UI.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Guide&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/mModule/guide_hma&#34;&gt;https://github.com/mModule/guide_hma&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Update Log&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/pumPCin/HMAL/releases&#34;&gt;Reference to the release page&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Support me&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://new.donatepay.ru/@1377115&#34;&gt;Donate&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

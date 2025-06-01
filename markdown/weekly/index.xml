@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Markdown Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-06-01T01:41:34Z</updated>
+  <subtitle>Weekly Trending of Markdown in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MicrosoftDocs/OfficeDocs-SkypeForBusiness</title>
+    <updated>2025-06-01T01:41:34Z</updated>
+    <id>tag:github.com,2025-06-01:/MicrosoftDocs/OfficeDocs-SkypeForBusiness</id>
+    <link href="https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Skype for Business and Microsoft Teams documentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

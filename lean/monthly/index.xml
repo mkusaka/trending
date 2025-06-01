@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Lean Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-06-01T01:49:08Z</updated>
+  <subtitle>Monthly Trending of Lean in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HEPLean/PhysLean</title>
+    <updated>2025-06-01T01:49:08Z</updated>
+    <id>tag:github.com,2025-06-01:/HEPLean/PhysLean</id>
+    <link href="https://github.com/HEPLean/PhysLean" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A project to digitalise results from physics into Lean.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

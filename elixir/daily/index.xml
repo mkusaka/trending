@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-05-31T01:31:02Z</updated>
+  <updated>2025-06-01T01:31:42Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>algora-io/algora</title>
+    <updated>2025-06-01T01:31:42Z</updated>
+    <id>tag:github.com,2025-06-01:/algora-io/algora</id>
+    <link href="https://github.com/algora-io/algora" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hire the top 1% OSS engineers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

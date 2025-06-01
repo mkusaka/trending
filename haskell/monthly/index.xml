@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-06-01T01:48:10Z</updated>
+  <subtitle>Monthly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tidalcycles/Tidal</title>
+    <updated>2025-06-01T01:48:10Z</updated>
+    <id>tag:github.com,2025-06-01:/tidalcycles/Tidal</id>
+    <link href="https://github.com/tidalcycles/Tidal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pattern language&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Tidal &lt;a href=&#34;https://github.com/tidalcycles/Tidal/LICENSE&#34;&gt;&lt;img alt=&#34;License&#34; src=&#34;https://img.shields.io/github/license/tidalcycles/Tidal&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tidalcycles/Tidal/actions/workflows/ci.yml&#34;&gt;&lt;img alt=&#34;Cabal&#34; src=&#34;https://img.shields.io/github/actions/workflow/status/tidalcycles/Tidal/ci.yml?label=Cabal&amp;amp;logo=githubactions&amp;amp;logoColor=white&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/tidalcycles/Tidal/actions/workflows/stack.yml&#34;&gt;&lt;img alt=&#34;Stack&#34; src=&#34;https://img.shields.io/github/actions/workflow/status/tidalcycles/Tidal/stack.yml?label=Stack&amp;amp;logo=githubactions&amp;amp;logoColor=white&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/tidalcycles/Tidal/actions/workflows/nix.yml&#34;&gt;&lt;img alt=&#34;Nix&#34; src=&#34;https://img.shields.io/github/actions/workflow/status/tidalcycles/Tidal/nix.yml?label=Nix&amp;amp;logo=githubactions&amp;amp;logoColor=white&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/tidalcycles/Tidal/actions/workflows/windows.yml&#34;&gt;&lt;img alt=&#34;Windows&#34; src=&#34;https://img.shields.io/github/actions/workflow/status/tidalcycles/Tidal/windows.yml?label=Windows&amp;amp;logo=githubactions&amp;amp;logoColor=white&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.592191&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/898407.svg?sanitize=true&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Language for live coding algorithmic patterns&lt;/p&gt; &#xA;&lt;p&gt;For documentation, mailing list and more info see &lt;a href=&#34;https://tidalcycles.org/&#34;&gt;here&lt;/a&gt;.&lt;br&gt; You can help speed up Tidal development by &lt;a href=&#34;https://opencollective.com/tidalcycles&#34;&gt;contributing to the collective fund&lt;/a&gt;!&lt;/p&gt; &#xA;&lt;p&gt;(c) Alex McLean and contributors, 2025&lt;/p&gt;</summary>
+  </entry>
+</feed>

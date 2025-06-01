@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-06-01T01:45:28Z</updated>
+  <subtitle>Monthly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>996icu/996.ICU</title>
+    <updated>2025-06-01T01:45:28Z</updated>
+    <id>tag:github.com,2025-06-01:/996icu/996.ICU</id>
+    <link href="https://github.com/996icu/996.ICU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo for counting stars and contributing. Press F to pay respect to glorious developers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>The-Cool-Coders/Project-Ideas-And-Resources</title>
+    <updated>2025-06-01T01:45:28Z</updated>
+    <id>tag:github.com,2025-06-01:/The-Cool-Coders/Project-Ideas-And-Resources</id>
+    <link href="https://github.com/The-Cool-Coders/Project-Ideas-And-Resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Collection of application ideas that can be used to improve your coding skills ❤.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/vscode-copilot-release</title>
+    <updated>2025-06-01T01:45:28Z</updated>
+    <id>tag:github.com,2025-06-01:/microsoft/vscode-copilot-release</id>
+    <link href="https://github.com/microsoft/vscode-copilot-release" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Feedback on GitHub Copilot Chat UX in Visual Studio Code.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

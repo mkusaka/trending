@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cuda Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-06-01T01:38:52Z</updated>
+  <subtitle>Weekly Trending of Cuda in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tgale96/grouped_gemm</title>
+    <updated>2025-06-01T01:38:52Z</updated>
+    <id>tag:github.com,2025-06-01:/tgale96/grouped_gemm</id>
+    <link href="https://github.com/tgale96/grouped_gemm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PyTorch bindings for CUTLASS grouped GEMM.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>deepseek-ai/FlashMLA</title>
+    <updated>2025-06-01T01:38:52Z</updated>
+    <id>tag:github.com,2025-06-01:/deepseek-ai/FlashMLA</id>
+    <link href="https://github.com/deepseek-ai/FlashMLA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FlashMLA: Efficient MLA decoding kernels&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-06-01T01:38:48Z</updated>
+  <subtitle>Weekly Trending of CSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hunvreus/basecoat</title>
+    <updated>2025-06-01T01:38:48Z</updated>
+    <id>tag:github.com,2025-06-01:/hunvreus/basecoat</id>
+    <link href="https://github.com/hunvreus/basecoat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A components library built with Tailwind CSS that works with any web stack.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Basecoat&lt;/h1&gt; &#xA;&lt;p&gt;A collection of modern UI components built with Tailwind CSS that works with any web stack. Basecoat brings the magic of &lt;a href=&#34;https://ui.shadcn.com&#34;&gt;shadcn/ui&lt;/a&gt; to traditional web applications, no React required.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hunvreus/basecoat/main/docs/src/assets/images/screenshot.png&#34; alt=&#34;screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;Lightweight&lt;/strong&gt;: no runtime JS, just CSS and tiny Alpine.js scripts for the more interactive components.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Easy to use&lt;/strong&gt;: add classes like &lt;code&gt;btn&lt;/code&gt; or &lt;code&gt;input&lt;/code&gt; and you&#39;re done.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Framework-agnostic&lt;/strong&gt;: works with any backend or frontend stack.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Accessible&lt;/strong&gt;: components follow accessibility best practices.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Dark mode ready&lt;/strong&gt;: respects your Tailwind config.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Extendable&lt;/strong&gt;: tweak styles with Tailwind or CSS variables.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Themable&lt;/strong&gt;: fully compatible with shadcn/ui themes.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Readable&lt;/strong&gt;: no class soup, just clean markup.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Free and open source&lt;/strong&gt;: MIT licensed.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;Visit &lt;a href=&#34;https://basecoatui.com&#34;&gt;basecoatui.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Visit &lt;a href=&#34;https://basecoatui.com/installation&#34;&gt;basecoatui.com/installation&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/hunvreus/basecoat/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>
