@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TypeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-02T01:39:12Z</updated>
+  <updated>2025-06-03T01:38:21Z</updated>
   <subtitle>Daily Trending of TypeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>richardgill/llm-ui</title>
-    <updated>2025-06-02T01:39:12Z</updated>
-    <id>tag:github.com,2025-06-02:/richardgill/llm-ui</id>
-    <link href="https://github.com/richardgill/llm-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The React library for LLMs&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;llm-ui&lt;/h1&gt; &#xA;&lt;p&gt;The React library for LLMs.&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/richardgill/llm-ui/main/media/demo.webp&#34; width=&#34;500&#34;&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://llm-ui.com/docs&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Removes broken markdown syntax&lt;/li&gt; &#xA; &lt;li&gt;Add your own custom components to LLM output.&lt;/li&gt; &#xA; &lt;li&gt;Throttling smooths out pauses in the LLM’s streamed output&lt;/li&gt; &#xA; &lt;li&gt;Renders output at native frame rate&lt;/li&gt; &#xA; &lt;li&gt;Code blocks for every language with &lt;a href=&#34;https://shiki.style&#34;&gt;Shiki&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Headless: Bring your own styles&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/richardgill/llm-ui/main/LICENSE&#34;&gt;MIT&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>
