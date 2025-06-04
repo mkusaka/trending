@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TypeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-03T01:38:21Z</updated>
+  <updated>2025-06-04T01:36:31Z</updated>
   <subtitle>Daily Trending of TypeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vercel/next-forge</title>
+    <updated>2025-06-04T01:36:31Z</updated>
+    <id>tag:github.com,2025-06-04:/vercel/next-forge</id>
+    <link href="https://github.com/vercel/next-forge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Production-grade Turborepo template for Next.js apps.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;▲ / next-forge&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;Production-grade Turborepo template for Next.js apps.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;div&gt; &#xA; &lt;img src=&#34;https://img.shields.io/npm/dy/next-forge&#34; alt=&#34;&#34;&gt; &#xA; &lt;img src=&#34;https://img.shields.io/npm/v/next-forge&#34; alt=&#34;&#34;&gt; &#xA; &lt;img src=&#34;https://img.shields.io/github/license/vercel/next-forge&#34; alt=&#34;&#34;&gt; &#xA;&lt;/div&gt; &#xA;&lt;h2&gt;Overview&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/vercel/next-forge&#34;&gt;next-forge&lt;/a&gt; is a &lt;a href=&#34;https://nextjs.org/&#34;&gt;Next.js&lt;/a&gt; project boilerplate for modern web application. It is designed to be a comprehensive starting point for new apps, providing a solid, opinionated foundation with a minimal amount of configuration.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;Clone the repo using:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;npx next-forge@latest init&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then read the &lt;a href=&#34;https://www.next-forge.com/docs&#34;&gt;docs&lt;/a&gt; for more information.&lt;/p&gt; &#xA;&lt;h2&gt;Contributors&lt;/h2&gt; &#xA;&lt;a href=&#34;https://github.com/vercel/next-forge/graphs/contributors&#34;&gt; &lt;img src=&#34;https://contrib.rocks/image?repo=vercel/next-forge&#34;&gt; &lt;/a&gt; &#xA;&lt;p&gt;Made with &lt;a href=&#34;https://contrib.rocks&#34;&gt;contrib.rocks&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
