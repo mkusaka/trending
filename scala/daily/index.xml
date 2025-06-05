@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-04T01:35:33Z</updated>
+  <updated>2025-06-05T01:38:36Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ge0rg/aprsdroid</title>
+    <updated>2025-06-05T01:38:36Z</updated>
+    <id>tag:github.com,2025-06-05:/ge0rg/aprsdroid</id>
+    <link href="https://github.com/ge0rg/aprsdroid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;APRSdroid - Geo-Location for Radio Amateurs&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;APRSdroid&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://aprsdroid.org/&#34;&gt;APRSdroid&lt;/a&gt; is an Android application for Amateur Radio operators. It allows reporting your position to the &lt;a href=&#34;http://aprs.org/&#34;&gt;APRS (Automatic Packet Reporting System)&lt;/a&gt; network, displaying of nearby amateur radio stations and the exchange of APRS messages.&lt;/p&gt; &#xA;&lt;p&gt;APRSdroid is Open Source Software written in Scala and licensed under the GPLv2.&lt;/p&gt; &#xA;&lt;p&gt;Quick links:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=org.aprsdroid.app&#34;&gt;Google Play&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://twitter.com/aprsdroid&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/ge0rg/aprsdroid/wiki/Frequently-Asked-Questions&#34;&gt;FAQ&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/ge0rg/aprsdroid/wiki/Settings&#34;&gt;Configuration&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Compilation&lt;/h1&gt; &#xA;&lt;p&gt;APRSdroid is written in Scala and uses &lt;a href=&#34;https://github.com/AllBus/scala-plugin&#34;&gt;gradle-android-scala-plugin&lt;/a&gt; to compile the source. It mostly works, but takes roughly three minutes for a full build, and often produces non-working APKs on incremental builds.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Google Maps:&lt;/strong&gt; you need to &lt;a href=&#34;https://developers.google.com/maps/documentation/android-sdk/start&#34;&gt;obtain a Maps API key&lt;/a&gt; for your signing key, or the map view will remain blank.&lt;/p&gt; &#xA;&lt;p&gt;Having the Maps API key, do the following to compile and install an APK:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/ge0rg/aprsdroid/&#xA;cd aprsdroid&#xA;git submodule update --init --recursive&#xA;# replace AI... with your API key:&#xA;echo &#34;mapsApiKey=AI...&#34; &amp;gt; local.properties&#xA;# for a debug build:&#xA;./gradlew installDebug&#xA;# for a release build:&#xA;./gradlew installRelease&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

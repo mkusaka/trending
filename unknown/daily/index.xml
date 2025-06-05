@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-04T01:29:26Z</updated>
+  <updated>2025-06-05T01:29:10Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mlabonne/llm-course</title>
+    <updated>2025-06-05T01:29:10Z</updated>
+    <id>tag:github.com,2025-06-05:/mlabonne/llm-course</id>
+    <link href="https://github.com/mlabonne/llm-course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
