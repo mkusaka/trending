@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-05T01:30:34Z</updated>
+  <updated>2025-06-06T01:30:10Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>starkware-libs/starknet-staking</title>
+    <updated>2025-06-06T01:30:10Z</updated>
+    <id>tag:github.com,2025-06-06:/starkware-libs/starknet-staking</id>
+    <link href="https://github.com/starkware-libs/starknet-staking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;starknet-staking&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

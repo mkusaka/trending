@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-05T01:30:19Z</updated>
+  <updated>2025-06-06T01:30:04Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>unitreerobotics/unitree_sdk2</title>
+    <updated>2025-06-06T01:30:04Z</updated>
+    <id>tag:github.com,2025-06-06:/unitreerobotics/unitree_sdk2</id>
+    <link href="https://github.com/unitreerobotics/unitree_sdk2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unitree robot sdk version 2. https://support.unitree.com/home/zh/developer&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;unitree_sdk2&lt;/h1&gt; &#xA;&lt;p&gt;Unitree robot sdk version 2.&lt;/p&gt; &#xA;&lt;h3&gt;Prebuild environment&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;OS (Ubuntu 20.04 LTS)&lt;/li&gt; &#xA; &lt;li&gt;CPU (aarch64 and x86_64)&lt;/li&gt; &#xA; &lt;li&gt;Compiler (gcc version 9.4.0)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Build examples&lt;/h3&gt; &#xA;&lt;p&gt;To build the examples inside this repository:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir build&#xA;cd build&#xA;cmake ..&#xA;make&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Installation&lt;/h3&gt; &#xA;&lt;p&gt;To build your own application with the SDK, you can install the unitree_sdk2 to your system directory:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir build&#xA;cd build&#xA;cmake ..&#xA;sudo make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Or install unitree_sdk2 to a specified directory:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir build&#xA;cd build&#xA;cmake .. -DCMAKE_INSTALL_PREFIX=/opt/unitree_robotics&#xA;sudo make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You can refer to &lt;code&gt;example/cmake_sample&lt;/code&gt; on how to import the unitree_sdk2 into your CMake project.&lt;/p&gt; &#xA;&lt;p&gt;Note that if you install the library to other places other than &lt;code&gt;/opt/unitree_robotics&lt;/code&gt;, you need to make sure the path is added to &#34;${CMAKE_PREFIX_PATH}&#34; so that cmake can find it with &#34;find_package()&#34;.&lt;/p&gt; &#xA;&lt;h3&gt;Notice&lt;/h3&gt; &#xA;&lt;p&gt;For more reference information, please go to &lt;a href=&#34;https://support.unitree.com/home/zh/developer&#34;&gt;Unitree Document Center&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

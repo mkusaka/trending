@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-05T01:32:17Z</updated>
+  <updated>2025-06-06T01:31:40Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NHSDigital/personal-demographics-service-api</title>
-    <updated>2025-06-05T01:32:17Z</updated>
-    <id>tag:github.com,2025-06-05:/NHSDigital/personal-demographics-service-api</id>
-    <link href="https://github.com/NHSDigital/personal-demographics-service-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Specifications for NHS Digital APIs provided on the API Management Platform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
