@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-08T01:35:47Z</updated>
+  <updated>2025-06-09T01:35:09Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wodby/docker4wordpress</title>
+    <updated>2025-06-09T01:35:09Z</updated>
+    <id>tag:github.com,2025-06-09:/wodby/docker4wordpress</id>
+    <link href="https://github.com/wodby/docker4wordpress" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Docker-based WordPress stack&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
