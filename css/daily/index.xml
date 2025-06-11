@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-10T01:30:33Z</updated>
+  <updated>2025-06-11T01:31:07Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>B00merang-Project/Windows-XP</title>
+    <updated>2025-06-11T01:31:07Z</updated>
+    <id>tag:github.com,2025-06-11:/B00merang-Project/Windows-XP</id>
+    <link href="https://github.com/B00merang-Project/Windows-XP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows XP themes&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/B00merang-Project/Azurra_framework&#34;&gt;&lt;img src=&#34;https://github.com/B00merang-Project/B00merang-Project.github.io/raw/master/resources/badges/azurra/badge_smaller.png&#34; alt=&#34;built-with-azurra-framework&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Windows XP themes for Linux&lt;/h1&gt; &#xA;&lt;p&gt;Most visual styles from Windows XP brought back to life for Linux desktops&lt;/p&gt; &#xA;&lt;h3&gt;Previews&lt;/h3&gt; &#xA;&lt;p&gt;Embedded &lt;img src=&#34;https://github.com/B00merang-Project/gallery/raw/master/Windows%20XP%20Embedded%20(3).png&#34; alt=&#34;embedded&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Luna &lt;img src=&#34;https://github.com/B00merang-Project/gallery/raw/master/Windows%20XP%20Luna%20(2).png&#34; alt=&#34;luna&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Homestead &lt;img src=&#34;https://github.com/B00merang-Project/gallery/raw/master/Windows%20XP%20Homestead%20(3).png&#34; alt=&#34;olive&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Metallic &lt;img src=&#34;https://github.com/B00merang-Project/gallery/raw/master/Windows%20XP%20Metallic%20(2).png&#34; alt=&#34;metal&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Royale &lt;img src=&#34;https://github.com/B00merang-Project/gallery/raw/master/Windows%20XP%20Royale%20(2).png&#34; alt=&#34;royale&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Royale Dark (Noir) &lt;img src=&#34;https://github.com/B00merang-Project/gallery/raw/master/Windows%20XP%20Royale%20Dark%20(2).png&#34; alt=&#34;royale-dark&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Zune &lt;img src=&#34;https://github.com/B00merang-Project/gallery/raw/master/Windows%20XP%20Zune%20(2).png&#34; alt=&#34;zune&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Supported platforms&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Any GTK-based desktop&lt;/li&gt; &#xA; &lt;li&gt;Cinnamon&lt;/li&gt; &#xA; &lt;li&gt;Gnome&lt;/li&gt; &#xA; &lt;li&gt;MATE&lt;/li&gt; &#xA; &lt;li&gt;Xfce (partial)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Manual installation&lt;/h3&gt; &#xA;&lt;p&gt;Go to releases, download the latest &lt;code&gt;.zip&lt;/code&gt; file and extract it to the themes directory i.e. &lt;code&gt;/home/USERNAME/.themes&lt;/code&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
