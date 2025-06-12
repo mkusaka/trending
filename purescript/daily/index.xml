@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-11T01:35:29Z</updated>
+  <updated>2025-06-12T01:34:57Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>purescript-halogen/purescript-halogen</title>
-    <updated>2025-06-11T01:35:29Z</updated>
-    <id>tag:github.com,2025-06-11:/purescript-halogen/purescript-halogen</id>
-    <link href="https://github.com/purescript-halogen/purescript-halogen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A declarative, type-safe UI library for PureScript.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

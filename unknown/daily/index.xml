@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-11T01:29:30Z</updated>
+  <updated>2025-06-12T01:29:13Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lich0821/WeChatFerry</title>
+    <updated>2025-06-12T01:29:13Z</updated>
+    <id>tag:github.com,2025-06-12:/lich0821/WeChatFerry</id>
+    <link href="https://github.com/lich0821/WeChatFerry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
