@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-13T01:30:05Z</updated>
+  <updated>2025-06-14T01:29:51Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>not-nullptr/Aerochat</title>
-    <updated>2025-06-13T01:30:05Z</updated>
-    <id>tag:github.com,2025-06-13:/not-nullptr/Aerochat</id>
-    <link href="https://github.com/not-nullptr/Aerochat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Native rewrite of Aerochat, a WLM 09 themed Discord client&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Aerochat&lt;/h1&gt; &#xA;&lt;p&gt;A custom client for Discord that resembles Windows Live Messenger 2009.&lt;/p&gt; &#xA;&lt;h2&gt;Download&lt;/h2&gt; &#xA;&lt;p&gt;To download Aerochat, please click the links in the &#34;Releases&#34; section on the right of this page, or visit the following link:&lt;/p&gt; &#xA;&lt;h3&gt;&lt;a href=&#34;https://github.com/not-nullptr/Aerochat/releases&#34;&gt;View releases&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;h2&gt;Frequently-asked questions&lt;/h2&gt; &#xA;&lt;p&gt;Please see our dedicated page for frequently-asked questions and help.&lt;/p&gt; &#xA;&lt;h3&gt;&lt;a href=&#34;https://github.com/not-nullptr/Aerochat/wiki/Frequently%E2%80%90asked-questions&#34;&gt;View frequently-asked questions&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;h2&gt;Building&lt;/h2&gt; &#xA;&lt;p&gt;In order to build Aerochat from source, you will need:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://visualstudio.microsoft.com&#34;&gt;Visual Studio 2022 (with the .NET Desktop Development workload)&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Aerochat cannot be built as &lt;code&gt;AnyCPU&lt;/code&gt; due to depending on native code. You must set the build architecture to &lt;code&gt;x64&lt;/code&gt; before you can build.&lt;/p&gt;</summary>
-  </entry>
 </feed>
