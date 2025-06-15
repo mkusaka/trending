@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-06-15T01:37:56Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>espressif/esp-dl</title>
+    <updated>2025-06-15T01:37:56Z</updated>
+    <id>tag:github.com,2025-06-15:/espressif/esp-dl</id>
+    <link href="https://github.com/espressif/esp-dl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Espressif deep-learning library for AIoT applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
