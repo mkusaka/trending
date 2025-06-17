@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-16T01:31:06Z</updated>
+  <updated>2025-06-17T01:31:09Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>github-samples/planventure</title>
+    <updated>2025-06-17T01:31:09Z</updated>
+    <id>tag:github.com,2025-06-17:/github-samples/planventure</id>
+    <link href="https://github.com/github-samples/planventure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Planventure is a sample app used in GitHub for Beginners&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Getting Started 👩🏽‍💻&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Fork this repository to your GitHub account.&lt;/li&gt; &#xA; &lt;li&gt;Switch to the &lt;code&gt;api-start&lt;/code&gt; branch.&lt;/li&gt; &#xA; &lt;li&gt;Clone the repository to your local machine.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;You can find next steps in the README on the &lt;code&gt;api-start&lt;/code&gt; branch.&lt;/p&gt; &#xA;&lt;h2&gt;Build with Me + GitHub Copilot 🚀&lt;/h2&gt; &#xA;&lt;p&gt;You can build along with me in this &lt;a href=&#34;https://www.youtube.com/watch?v=CJUbQ1QiBUY&#34;&gt;Youtube video&lt;/a&gt; or read this &lt;a href=&#34;https://github.blog/ai-and-ml/github-copilot/github-for-beginners-building-a-rest-api-with-copilot/&#34;&gt;blog post&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CJUbQ1QiBUY&#34;&gt;&lt;img src=&#34;https://github.com/user-attachments/assets/a9e6f202-81c1-4b5e-9a77-6f03ee55938c&#34; alt=&#34;Build API Copilot&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Planventure API 🚁&lt;/h1&gt; &#xA;&lt;p&gt;A Flask-based REST API backend for the Planventure application.&lt;/p&gt; &#xA;&lt;h2&gt;Prerequisites&lt;/h2&gt; &#xA;&lt;p&gt;Before you begin, ensure you have the following:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;A GitHub account - &lt;a href=&#34;https://github.com&#34;&gt;sign up for FREE&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Access to GitHub Copilot - &lt;a href=&#34;https://gh.io/gfb-copilot&#34;&gt;sign up for FREE&lt;/a&gt;!&lt;/li&gt; &#xA; &lt;li&gt;A Code Editor - &lt;a href=&#34;https://code.visualstudio.com/download&#34;&gt;VS Code&lt;/a&gt; is recommended&lt;/li&gt; &#xA; &lt;li&gt;API Client (like &lt;a href=&#34;https://github.com/usebruno/bruno&#34;&gt;Bruno&lt;/a&gt;)&lt;/li&gt; &#xA; &lt;li&gt;Git - &lt;a href=&#34;https://git-scm.com/downloads&#34;&gt;Download &amp;amp; Install Git&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Happy Coding! 🎉&lt;/p&gt;</summary>
+  </entry>
 </feed>
