@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-18T01:36:21Z</updated>
+  <updated>2025-06-19T01:36:39Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chipsalliance/caliptra-ss</title>
+    <updated>2025-06-19T01:36:39Z</updated>
+    <id>tag:github.com,2025-06-19:/chipsalliance/caliptra-ss</id>
+    <link href="https://github.com/chipsalliance/caliptra-ss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
