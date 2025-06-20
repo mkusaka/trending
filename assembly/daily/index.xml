@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-19T01:29:42Z</updated>
+  <updated>2025-06-20T01:29:28Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>youngyangyang04/KamaOS</title>
+    <updated>2025-06-20T01:29:28Z</updated>
+    <id>tag:github.com,2025-06-20:/youngyangyang04/KamaOS</id>
+    <link href="https://github.com/youngyangyang04/KamaOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;【代码随想录知识星球】项目分享-手写操作系统内核🔥&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
