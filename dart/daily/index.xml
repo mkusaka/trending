@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-20T01:30:34Z</updated>
+  <updated>2025-06-21T01:30:34Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Celechron/Celechron</title>
-    <updated>2025-06-20T01:30:34Z</updated>
-    <id>tag:github.com,2025-06-20:/Celechron/Celechron</id>
-    <link href="https://github.com/Celechron/Celechron" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;服务于浙大学生的时间管理器&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Celechron&lt;/h1&gt; &#xA;&lt;div style=&#34;text-align: center; &#34;&gt; &#xA; &lt;img src=&#34;https://raw.githubusercontent.com/Celechron/Celechron/main/banner.png&#34; style=&#34;width: 80%;&#34;&gt; &#xA; &lt;p&gt;服务于浙大学生的时间管理器&lt;/p&gt; &#xA; &lt;p&gt;日程一览 · 课表查看 · DDL 助手 · 成绩查询&lt;/p&gt; &#xA;&lt;/div&gt;</summary>
-  </entry>
 </feed>

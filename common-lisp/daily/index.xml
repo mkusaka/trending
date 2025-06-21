@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-20T01:30:17Z</updated>
+  <updated>2025-06-21T01:30:17Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>slburson/fset</title>
+    <updated>2025-06-21T01:30:17Z</updated>
+    <id>tag:github.com,2025-06-21:/slburson/fset</id>
+    <link href="https://github.com/slburson/fset" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FSet, the functional collections library for Common Lisp.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;FSet is a functional set-theoretic collections library. &lt;em&gt;Functional&lt;/em&gt; means that all update operations return a new collection rather than modifying an existing one in place. &lt;em&gt;Set-theoretic&lt;/em&gt; means that collections may be nested arbitrarily with no additional programmer effort; for instance, sets may contain sets, maps may be keyed by sets, etc.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;a href=&#34;https://gitlab.common-lisp.net/fset/fset/-/wikis/home&#34;&gt;FSet home page&lt;/a&gt; has an introduction and tutorial.&lt;/p&gt; &#xA;&lt;p&gt;There might be some useful information on the &lt;a href=&#34;http://cliki.net/FSet&#34;&gt;FSet CLiki page&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;FSet is installable via Quicklisp:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&amp;gt; (ql:quickload &#34;fset&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SuperCollider Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-20T01:35:53Z</updated>
+  <updated>2025-06-21T01:37:58Z</updated>
   <subtitle>Daily Trending of SuperCollider in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>musikinformatik/SuperDirt</title>
+    <updated>2025-06-21T01:37:58Z</updated>
+    <id>tag:github.com,2025-06-21:/musikinformatik/SuperDirt</id>
+    <link href="https://github.com/musikinformatik/SuperDirt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tidal Audio Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
