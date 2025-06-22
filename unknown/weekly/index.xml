@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-06-22T01:38:15Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tidalcycles/strudel</title>
+    <updated>2025-06-22T01:38:15Z</updated>
+    <id>tag:github.com,2025-06-22:/tidalcycles/strudel</id>
+    <link href="https://github.com/tidalcycles/strudel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>afshinea/stanford-cs-229-machine-learning</title>
+    <updated>2025-06-22T01:38:15Z</updated>
+    <id>tag:github.com,2025-06-22:/afshinea/stanford-cs-229-machine-learning</id>
+    <link href="https://github.com/afshinea/stanford-cs-229-machine-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VIP cheatsheets for Stanford&#39;s CS 229 Machine Learning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

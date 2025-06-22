@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub YAML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-06-22T01:48:46Z</updated>
+  <subtitle>Weekly Trending of YAML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kubezero/kubezero</title>
+    <updated>2025-06-22T01:48:46Z</updated>
+    <id>tag:github.com,2025-06-22:/kubezero/kubezero</id>
+    <link href="https://github.com/kubezero/kubezero" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🅚⓿ KubeZero (also, Kube0 and K0) is a production-ready zero-friction Platform Orchestrator with GitOps designed for multi-environment Cloud Native setup.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
