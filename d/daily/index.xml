@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-22T01:31:32Z</updated>
+  <updated>2025-06-23T01:31:01Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zyedidia/Literate</title>
-    <updated>2025-06-22T01:31:32Z</updated>
-    <id>tag:github.com,2025-06-22:/zyedidia/Literate</id>
-    <link href="https://github.com/zyedidia/Literate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A literate programming tool for any language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
