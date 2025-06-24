@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-23T01:32:51Z</updated>
+  <updated>2025-06-24T01:32:24Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mafik/echo</title>
+    <updated>2025-06-24T01:32:24Z</updated>
+    <id>tag:github.com,2025-06-24:/mafik/echo</id>
+    <link href="https://github.com/mafik/echo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Time travelling recorder for Android.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Echo&lt;/h1&gt; &#xA;&lt;p&gt;Time travelling recorder for Android. It is free/libre and gratis software.&lt;/p&gt; &#xA;&lt;h2&gt;Download&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://f-droid.org/repository/browse/?fdid=eu.mrogalski.saidit&#34;&gt;F-Droid&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Architecture&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;SaidItFragment&lt;/strong&gt; the main view of the app.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;SaidItService&lt;/strong&gt; manages a high priority thread that records audio. The thread is a state machine that can be accessed by sending it tasks using Android&#39;s Handler (&lt;code&gt;audioHandler&lt;/code&gt;).&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;AudioMemory&lt;/strong&gt; (not thread-safe) manages the in-memory ring buffer of audio chunks.&lt;/p&gt;</summary>
+  </entry>
 </feed>
