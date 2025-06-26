@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-25T01:31:12Z</updated>
+  <updated>2025-06-26T01:31:36Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nurugger07/inflex</title>
+    <updated>2025-06-26T01:31:36Z</updated>
+    <id>tag:github.com,2025-06-26:/nurugger07/inflex</id>
+    <link href="https://github.com/nurugger07/inflex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Inflector library for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

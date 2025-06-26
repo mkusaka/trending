@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-25T01:32:00Z</updated>
+  <updated>2025-06-26T01:32:20Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rdk/p2rank</title>
-    <updated>2025-06-25T01:32:00Z</updated>
-    <id>tag:github.com,2025-06-25:/rdk/p2rank</id>
-    <link href="https://github.com/rdk/p2rank" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
