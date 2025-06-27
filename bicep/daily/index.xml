@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-26T01:30:05Z</updated>
+  <updated>2025-06-27T01:30:03Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure-Samples/azure-ai-document-processing-samples</title>
-    <updated>2025-06-26T01:30:05Z</updated>
-    <id>tag:github.com,2025-06-26:/Azure-Samples/azure-ai-document-processing-samples</id>
-    <link href="https://github.com/Azure-Samples/azure-ai-document-processing-samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of samples demonstrating techniques for processing documents with Azure AI including AI Foundry, OpenAI, Document Intelligence, etc.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

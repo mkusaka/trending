@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Go Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-26T01:32:10Z</updated>
+  <updated>2025-06-27T01:32:00Z</updated>
   <subtitle>Daily Trending of Go in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>oras-project/oras</title>
-    <updated>2025-06-26T01:32:10Z</updated>
-    <id>tag:github.com,2025-06-26:/oras-project/oras</id>
-    <link href="https://github.com/oras-project/oras" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OCI registry client - managing content like artifacts, images, packages&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ORAS CLI&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/oras-project/oras/actions/workflows/build.yml?query=workflow%3Abuild+event%3Apush&#34;&gt;&lt;img src=&#34;https://github.com/oras-project/oras/actions/workflows/build.yml/badge.svg?event=push&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://codecov.io/gh/oras-project/oras&#34;&gt;&lt;img src=&#34;https://codecov.io/gh/oras-project/oras/branch/main/graph/badge.svg?sanitize=true&#34; alt=&#34;codecov&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://goreportcard.com/report/oras.land/oras&#34;&gt;&lt;img src=&#34;https://goreportcard.com/badge/oras.land/oras&#34; alt=&#34;Go Report Card&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p style=&#34;text-align: left;&#34;&gt; &lt;a href=&#34;https://oras.land/&#34;&gt;&lt;img src=&#34;https://oras.land/img/oras.svg?sanitize=true&#34; alt=&#34;banner&#34; width=&#34;100px&#34;&gt;&lt;/a&gt; &lt;/p&gt; &#xA;&lt;h2&gt;Docs&lt;/h2&gt; &#xA;&lt;p&gt;Documentation for the ORAS CLI is located on the project website: &lt;a href=&#34;https://oras.land/docs/category/oras-commands&#34;&gt;oras.land/cli&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Development Environment Setup&lt;/h2&gt; &#xA;&lt;p&gt;Refer to the &lt;a href=&#34;https://oras.land/community/developer_guide&#34;&gt;development guide&lt;/a&gt; to get started &lt;a href=&#34;https://oras.land/community/contributing_guide&#34;&gt;contributing to ORAS&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Code of Conduct&lt;/h2&gt; &#xA;&lt;p&gt;This project has adopted the &lt;a href=&#34;https://github.com/cncf/foundation/raw/master/code-of-conduct.md&#34;&gt;CNCF Code of Conduct&lt;/a&gt;. See &lt;a href=&#34;https://raw.githubusercontent.com/oras-project/oras/main/CODE_OF_CONDUCT.md&#34;&gt;CODE_OF_CONDUCT.md&lt;/a&gt; for further details.&lt;/p&gt;</summary>
-  </entry>
 </feed>

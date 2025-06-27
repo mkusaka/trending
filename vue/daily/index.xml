@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-26T01:37:17Z</updated>
+  <updated>2025-06-27T01:37:12Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>antfu/node-modules-inspector</title>
+    <updated>2025-06-27T01:37:12Z</updated>
+    <id>tag:github.com,2025-06-27:/antfu/node-modules-inspector</id>
+    <link href="https://github.com/antfu/node-modules-inspector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interactive UI for local node modules inspection&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

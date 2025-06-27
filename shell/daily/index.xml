@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-26T01:36:13Z</updated>
+  <updated>2025-06-27T01:36:04Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>qichiyuhub/rule</title>
+    <updated>2025-06-27T01:36:04Z</updated>
+    <id>tag:github.com,2025-06-27:/qichiyuhub/rule</id>
+    <link href="https://github.com/qichiyuhub/rule" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clash、Sing-box、等分流规则&lt;/p&gt;&lt;hr&gt;&lt;p&gt;本仓库规则只作为视频演示用途，可能不会进行更新维护，请fork到自己仓库根据自己实际情况进行修改。&lt;br&gt; 也可进群联系我进行定制&lt;/p&gt;</summary>
+  </entry>
 </feed>
