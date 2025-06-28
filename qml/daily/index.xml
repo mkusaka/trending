@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-27T01:35:22Z</updated>
+  <updated>2025-06-28T01:37:14Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>exequtic/apdatifier</title>
+    <updated>2025-06-28T01:37:14Z</updated>
+    <id>tag:github.com,2025-06-28:/exequtic/apdatifier</id>
+    <link href="https://github.com/exequtic/apdatifier" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KDE Plasma widget that tracks updates for ArchLinux, Plasma Widgets, and Flatpak, providing notifications for new ones&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-27T01:34:51Z</updated>
+  <updated>2025-06-28T01:36:46Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>laravel/nightwatch</title>
+    <updated>2025-06-28T01:36:46Z</updated>
+    <id>tag:github.com,2025-06-28:/laravel/nightwatch</id>
+    <link href="https://github.com/laravel/nightwatch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official Laravel Nightwatch package.&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/laravel/nightwatch/1.x/art/logo.svg?sanitize=true&#34; alt=&#34;Laravel Nightwatch&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://nightwatch.laravel.com&#34;&gt;Laravel Nightwatch&lt;/a&gt; is a hosted application monitoring platform design for Laravel. It delivers unparalleled insights into your application&#39;s performance, with the intelligence only a system obsessively optimized for Laravel can deliver.&lt;/p&gt; &#xA;&lt;p&gt;This repository contains the official Laravel Nightwatch package, which gathers metrics within your application and transmits them to Nightwatch. To learn more about Laravel Nightwatch and how to use this package, please consult the &lt;a href=&#34;https://nightwatch.laravel.com/docs&#34;&gt;official documentation&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Thank you for considering contributing to Laravel Nightwatch! The contribution guide can be found in the &lt;a href=&#34;https://laravel.com/docs/contributions&#34;&gt;Laravel documentation&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Code of Conduct&lt;/h2&gt; &#xA;&lt;p&gt;In order to ensure that the Laravel community is welcoming to all, please review and abide by the &lt;a href=&#34;https://laravel.com/docs/contributions#code-of-conduct&#34;&gt;Code of Conduct&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Security Vulnerabilities&lt;/h2&gt; &#xA;&lt;p&gt;Please review &lt;a href=&#34;https://github.com/laravel/nightwatch/security/policy&#34;&gt;our security policy&lt;/a&gt; on how to report security vulnerabilities.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Laravel Nightwatch is open-sourced software licensed under the &lt;a href=&#34;https://raw.githubusercontent.com/laravel/nightwatch/1.x/LICENSE.md&#34;&gt;MIT license&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
