@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Go Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-28T01:34:05Z</updated>
+  <updated>2025-06-29T01:32:11Z</updated>
   <subtitle>Daily Trending of Go in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GoogleCloudPlatform/magic-modules</title>
-    <updated>2025-06-28T01:34:05Z</updated>
-    <id>tag:github.com,2025-06-28:/GoogleCloudPlatform/magic-modules</id>
-    <link href="https://github.com/GoogleCloudPlatform/magic-modules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Add Google Cloud Platform support to Terraform&lt;/p&gt;&lt;hr&gt;&lt;img src=&#34;https://raw.githubusercontent.com/GoogleCloudPlatform/magic-modules/main/docs/static/magic-modules.svg?sanitize=true&#34; alt=&#34;Magic Modules Logo&#34; width=&#34;300&#34; align=&#34;right&#34;&gt; &#xA;&lt;h1&gt;Magic Modules&lt;/h1&gt; &#xA;&lt;p&gt;Magic Modules is a code generator and CI system that&#39;s used to develop the Terraform provider for Google Cloud, &lt;a href=&#34;https://github.com/hashicorp/terraform-provider-google&#34;&gt;&lt;code&gt;google&lt;/code&gt;&lt;/a&gt; (or TPG) and &lt;a href=&#34;https://github.com/hashicorp/terraform-provider-google-beta&#34;&gt;&lt;code&gt;google-beta&lt;/code&gt;&lt;/a&gt; (or TPGB).&lt;/p&gt; &#xA;&lt;p&gt;Magic Modules allows contributors to make changes against a single codebase and develop both provider versions simultaneously. After sending a pull request against this repository, the &lt;code&gt;modular-magician&lt;/code&gt; robot user will manage (most of) the heavy lifting from generating a complete output, running presubmit tests, and updating the providers following your change.&lt;/p&gt; &#xA;&lt;p&gt;For information on how to use or contribute to Magic Modules, see &lt;a href=&#34;https://googlecloudplatform.github.io/magic-modules&#34;&gt;the documentation&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

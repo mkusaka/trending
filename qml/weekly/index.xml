@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub QML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-06-29T01:43:30Z</updated>
+  <subtitle>Weekly Trending of QML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Rexcrazy804/Zaphkiel</title>
+    <updated>2025-06-29T01:43:30Z</updated>
+    <id>tag:github.com,2025-06-29:/Rexcrazy804/Zaphkiel</id>
+    <link href="https://github.com/Rexcrazy804/Zaphkiel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nixos configuration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
