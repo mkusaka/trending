@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-29T01:29:36Z</updated>
+  <updated>2025-06-30T01:29:32Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Makerr-Studio/CentrifugalDustSeparator-</title>
-    <updated>2025-06-29T01:29:36Z</updated>
-    <id>tag:github.com,2025-06-29:/Makerr-Studio/CentrifugalDustSeparator-</id>
-    <link href="https://github.com/Makerr-Studio/CentrifugalDustSeparator-" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Centrifugal Dust Separator - 3D Files for printing&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tc39/proposal-signals</title>
-    <updated>2025-06-29T01:29:36Z</updated>
-    <id>tag:github.com,2025-06-29:/tc39/proposal-signals</id>
-    <link href="https://github.com/tc39/proposal-signals" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A proposal to add signals to JavaScript.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>biliticket/BHYG</title>
+    <updated>2025-06-30T01:29:32Z</updated>
+    <id>tag:github.com,2025-06-30:/biliticket/BHYG</id>
+    <link href="https://github.com/biliticket/BHYG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;B站 BW bilibiliworld 会员购 抢票 脚本&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
