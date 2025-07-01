@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-30T01:34:49Z</updated>
+  <updated>2025-07-01T01:34:49Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>guchengwuyue/yshop-crm</title>
+    <updated>2025-07-01T01:34:49Z</updated>
+    <id>tag:github.com,2025-07-01:/guchengwuyue/yshop-crm</id>
+    <link href="https://github.com/guchengwuyue/yshop-crm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;yshop-crm意象客户关系管理系统，专门为企业销售团队量身定制的工具，能够有效的管理跟进客户提供销售业绩，技术： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

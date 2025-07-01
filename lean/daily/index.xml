@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-30T01:33:17Z</updated>
+  <updated>2025-07-01T01:33:19Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>leanprover/theorem_proving_in_lean4</title>
+    <updated>2025-07-01T01:33:19Z</updated>
+    <id>tag:github.com,2025-07-01:/leanprover/theorem_proving_in_lean4</id>
+    <link href="https://github.com/leanprover/theorem_proving_in_lean4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Theorem Proving in Lean 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-07-01T01:50:31Z</updated>
+  <subtitle>Monthly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>terraform-google-modules/terraform-google-iam</title>
+    <updated>2025-07-01T01:50:31Z</updated>
+    <id>tag:github.com,2025-07-01:/terraform-google-modules/terraform-google-iam</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-iam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manages multiple IAM roles for resources on Google Cloud&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

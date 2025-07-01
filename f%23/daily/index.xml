@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-06-30T01:31:37Z</updated>
+  <updated>2025-07-01T01:31:41Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MicrosoftDocs/visualfsharpdocs</title>
-    <updated>2025-06-30T01:31:37Z</updated>
-    <id>tag:github.com,2025-06-30:/MicrosoftDocs/visualfsharpdocs</id>
-    <link href="https://github.com/MicrosoftDocs/visualfsharpdocs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Frozen documentation repository for legacy MSDN Content for Visual F#&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Visual F# Documentation&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://www.repostatus.org/#suspended&#34;&gt;&lt;img src=&#34;http://www.repostatus.org/badges/latest/suspended.svg?sanitize=true&#34; alt=&#34;Project Status: Suspended - Initial development has started, but there has not yet been a stable, usable release; work has been stopped for the time being but the author(s) intend on resuming work.&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;FROZEN CONTENT&lt;/h2&gt; &#xA;&lt;p&gt;This content is frozen. It will be migrated to docs.microsoft.com.&lt;/p&gt; &#xA;&lt;p&gt;Welcome to the open F# documentation! As we transitioned the entire publishing pipeline for this document set to Open Publishing, we are now allowing public contributions to the docs. Built and validated documents are published &lt;a href=&#34;https://msdn.microsoft.com/en-us/visualfsharpdocs/conceptual/visual-fsharp&#34;&gt;on MSDN&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Troubleshooting &amp;amp; Questions&lt;/h2&gt; &#xA;&lt;p&gt;Simply &lt;a href=&#34;https://github.com/Microsoft/visualfsharpdocs/issues&#34;&gt;open an issue&lt;/a&gt; and we&#39;ll get in touch as soon as possible.&lt;/p&gt; &#xA;&lt;h2&gt;Microsoft Open Source Code of Conduct&lt;/h2&gt; &#xA;&lt;p&gt;This project has adopted the &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/&#34;&gt;Microsoft Open Source Code of Conduct&lt;/a&gt;. For more information see the &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/faq/&#34;&gt;Code of Conduct FAQ&lt;/a&gt; or contact &lt;a href=&#34;mailto:opencode@microsoft.com&#34;&gt;opencode@microsoft.com&lt;/a&gt; with any additional questions or comments.&lt;/p&gt;</summary>
-  </entry>
 </feed>
