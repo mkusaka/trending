@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-02T01:32:59Z</updated>
+  <updated>2025-07-03T01:33:40Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hrsh7th/cmp-path</title>
-    <updated>2025-07-02T01:32:59Z</updated>
-    <id>tag:github.com,2025-07-02:/hrsh7th/cmp-path</id>
-    <link href="https://github.com/hrsh7th/cmp-path" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nvim-cmp source for path&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cmp-path&lt;/h1&gt; &#xA;&lt;p&gt;nvim-cmp source for filesystem paths.&lt;/p&gt; &#xA;&lt;h1&gt;Setup&lt;/h1&gt; &#xA;&lt;p&gt;support path alias, But don&#39;t start too much at a time, or there will be performance issues&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;require&#39;cmp&#39;.setup {&#xA;    sources = cmp.config.sources({&#xA;        { name = &#39;nvim_lsp&#39; },&#xA;        {&#xA;        name = &#39;path&#39;,&#xA;        option = {&#xA;            pathMappings = {&#xA;                [&#39;@&#39;] = &#39;${folder}/src&#39;,&#xA;                -- [&#39;/&#39;] = &#39;${folder}/src/public/&#39;,&#xA;                -- [&#39;~@&#39;] = &#39;${folder}/src&#39;,&#xA;                -- [&#39;/images&#39;] = &#39;${folder}/src/images&#39;,&#xA;                -- [&#39;/components&#39;] = &#39;${folder}/src/components&#39;,&#xA;            },&#xA;        },&#xA;        },&#xA;        { name = &#39;buffer&#39; },&#xA;        { name = &#39;luasnip&#39; },&#xA;    }),&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Configuration&lt;/h2&gt; &#xA;&lt;p&gt;The below source configuration options are available. To set any of these options, do:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;cmp.setup({&#xA;  sources = {&#xA;    {&#xA;      name = &#39;path&#39;,&#xA;      option = {&#xA;        -- Options go into this table&#xA;      },&#xA;    },&#xA;  },&#xA;})&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;trailing_slash (type: boolean)&lt;/h3&gt; &#xA;&lt;p&gt;&lt;em&gt;Default:&lt;/em&gt; &lt;code&gt;false&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Specify if completed directory names should include a trailing slash. Enabling this option makes this source behave like Vim&#39;s built-in path completion.&lt;/p&gt; &#xA;&lt;h3&gt;label_trailing_slash (type: boolean)&lt;/h3&gt; &#xA;&lt;p&gt;&lt;em&gt;Default:&lt;/em&gt; &lt;code&gt;true&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Specify if directory names in the completion menu should include a trailing slash.&lt;/p&gt; &#xA;&lt;h3&gt;get_cwd (type: function)&lt;/h3&gt; &#xA;&lt;p&gt;&lt;em&gt;Default:&lt;/em&gt; returns the current working directory of the current buffer&lt;/p&gt; &#xA;&lt;p&gt;Specifies the base directory for relative paths.&lt;/p&gt;</summary>
-  </entry>
 </feed>

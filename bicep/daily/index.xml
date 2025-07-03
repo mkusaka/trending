@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-02T01:29:37Z</updated>
+  <updated>2025-07-03T01:29:56Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>microsoft/Deploy-Your-AI-Application-In-Production</title>
+    <updated>2025-07-03T01:29:56Z</updated>
+    <id>tag:github.com,2025-07-03:/microsoft/Deploy-Your-AI-Application-In-Production</id>
+    <link href="https://github.com/microsoft/Deploy-Your-AI-Application-In-Production" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A deployment of a secure, extensible and integrated environment for running AI Foundry workloads in Production. It simplifies the process of including essential Azure services necessary to run mission-critical AI applications and adhere to Microsoft Well Architected Framework recommendations.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
