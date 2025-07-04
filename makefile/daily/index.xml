@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-03T01:33:47Z</updated>
+  <updated>2025-07-04T01:33:40Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>stevemolitor/claude-code.el</title>
-    <updated>2025-07-03T01:33:47Z</updated>
-    <id>tag:github.com,2025-07-03:/stevemolitor/claude-code.el</id>
-    <link href="https://github.com/stevemolitor/claude-code.el" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Claude Code Emacs integration&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
