@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-04T01:38:26Z</updated>
+  <updated>2025-07-05T01:37:56Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ensdomains/namechain</title>
-    <updated>2025-07-04T01:38:26Z</updated>
-    <id>tag:github.com,2025-07-04:/ensdomains/namechain</id>
-    <link href="https://github.com/ensdomains/namechain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gnosis/conditional-tokens-contracts</title>
+    <updated>2025-07-05T01:37:56Z</updated>
+    <id>tag:github.com,2025-07-05:/gnosis/conditional-tokens-contracts</id>
+    <link href="https://github.com/gnosis/conditional-tokens-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smart contracts for conditional tokens.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
