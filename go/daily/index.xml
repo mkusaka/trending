@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Go Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-06T01:31:59Z</updated>
+  <updated>2025-07-07T01:31:50Z</updated>
   <subtitle>Daily Trending of Go in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>qichiyuhub/rule</title>
+    <updated>2025-07-07T01:31:50Z</updated>
+    <id>tag:github.com,2025-07-07:/qichiyuhub/rule</id>
+    <link href="https://github.com/qichiyuhub/rule" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clash、Sing-box、等分流规则&lt;/p&gt;&lt;hr&gt;&lt;p&gt;本仓库规则只作为视频演示用途，考虑到兼容性，通用性，不能满足所有人的需求，请fork到自己仓库根据自己实际情况进行修改，参考频道yaml相关教程。&lt;br&gt; 也可联系我进行定制&lt;/p&gt;</summary>
+  </entry>
 </feed>
