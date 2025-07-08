@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-07T01:32:52Z</updated>
+  <updated>2025-07-08T01:32:46Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>RPCSX/rpcsx-ui-android</title>
-    <updated>2025-07-07T01:32:52Z</updated>
-    <id>tag:github.com,2025-07-07:/RPCSX/rpcsx-ui-android</id>
-    <link href="https://github.com/RPCSX/rpcsx-ui-android" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;h1&gt;RPCSX-UI-Android&lt;/h1&gt; &#xA; &lt;p&gt;&lt;em&gt;An experimental Android native UI for RPCSX emulator&lt;/em&gt;&lt;/p&gt; &#xA; &lt;p&gt;&lt;a href=&#34;https://discord.gg/t6dzA4wUdG&#34;&gt;&lt;img src=&#34;https://img.shields.io/discord/252023769500090368?color=5865F2&amp;amp;logo=discord&amp;amp;logoColor=white&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/div&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt;: Do not ask for link to games or system files. Piracy is not permitted on the GitHub nor in the Discord.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;If you want to contribute as a developer, please contact us in the &lt;a href=&#34;https://discord.gg/t6dzA4wUdG&#34;&gt;Discord&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;p&gt;Android 10+&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;RPCSX-UI-Android is licensed under GPLv2 license except directories containing their own LICENSE file, or files containing their own license.&lt;/p&gt;</summary>
-  </entry>
 </feed>

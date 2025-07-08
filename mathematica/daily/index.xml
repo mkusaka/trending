@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-07T01:33:20Z</updated>
+  <updated>2025-07-08T01:33:13Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>microsoft/Dynamics-365-for-Marketing---Power-BI-Reporting</title>
+    <updated>2025-07-08T01:33:13Z</updated>
+    <id>tag:github.com,2025-07-08:/microsoft/Dynamics-365-for-Marketing---Power-BI-Reporting</id>
+    <link href="https://github.com/microsoft/Dynamics-365-for-Marketing---Power-BI-Reporting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Download these Power BI templates to start building custom analytics and reports based on your Dynamics 365 for Marketing data. These templates will help you to connect to your Dynamics 365 instance and access its data. The download includes the following templates: Power BI template for Dynamics 365 for Marketing: Includes the code required to …&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
