@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-08T01:38:26Z</updated>
+  <updated>2025-07-09T01:38:57Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yudaocode/yudao-ui-admin-vben</title>
-    <updated>2025-07-08T01:38:26Z</updated>
-    <id>tag:github.com,2025-07-08:/yudaocode/yudao-ui-admin-vben</id>
-    <link href="https://github.com/yudaocode/yudao-ui-admin-vben" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ruoyi-vue-pro-vben 芋道管理后台，基于 vben5.0 最新版本，最新的 vue3 vite6 ant-design-vue typescript 语法进行重构开发，支持 springboot3 springcloud 版本&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

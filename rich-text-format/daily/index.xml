@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-08T01:34:55Z</updated>
+  <updated>2025-07-09T01:35:13Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>artur-graniszewski/DLSS-Enabler</title>
-    <updated>2025-07-08T01:34:55Z</updated>
-    <id>tag:github.com,2025-07-08:/artur-graniszewski/DLSS-Enabler</id>
-    <link href="https://github.com/artur-graniszewski/DLSS-Enabler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
