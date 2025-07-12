@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-11T01:34:36Z</updated>
+  <updated>2025-07-12T01:34:52Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>guchengwuyue/yshop-drink</title>
-    <updated>2025-07-11T01:34:36Z</updated>
-    <id>tag:github.com,2025-07-11:/guchengwuyue/yshop-drink</id>
-    <link href="https://github.com/guchengwuyue/yshop-drink" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
