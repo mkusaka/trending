@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-07-13T01:41:06Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>stevemolitor/claude-code.el</title>
+    <updated>2025-07-13T01:41:06Z</updated>
+    <id>tag:github.com,2025-07-13:/stevemolitor/claude-code.el</id>
+    <link href="https://github.com/stevemolitor/claude-code.el" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Claude Code Emacs integration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aws/eks-anywhere-build-tooling</title>
+    <updated>2025-07-13T01:41:06Z</updated>
+    <id>tag:github.com,2025-07-13:/aws/eks-anywhere-build-tooling</id>
+    <link href="https://github.com/aws/eks-anywhere-build-tooling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

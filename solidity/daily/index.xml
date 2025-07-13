@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-12T01:36:09Z</updated>
+  <updated>2025-07-13T01:35:57Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>filecoin-project/fevm-foundry-kit</title>
-    <updated>2025-07-12T01:36:09Z</updated>
-    <id>tag:github.com,2025-07-12:/filecoin-project/fevm-foundry-kit</id>
-    <link href="https://github.com/filecoin-project/fevm-foundry-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A starter foundry project for developing, deploying, and testing Solidity smart contracts on the FEVM (Ethereum Virtual Machine on Filecoin)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

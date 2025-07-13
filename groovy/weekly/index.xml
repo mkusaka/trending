@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-07-13T01:39:43Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>apache/groovy-geb</title>
+    <updated>2025-07-13T01:39:43Z</updated>
+    <id>tag:github.com,2025-07-13:/apache/groovy-geb</id>
+    <link href="https://github.com/apache/groovy-geb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache Geb: Very Groovy Browser Automation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>apache/grails-spring-security</title>
+    <updated>2025-07-13T01:39:43Z</updated>
+    <id>tag:github.com,2025-07-13:/apache/grails-spring-security</id>
+    <link href="https://github.com/apache/grails-spring-security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Grails Spring Security Plugins&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>apache/grails-quartz</title>
+    <updated>2025-07-13T01:39:43Z</updated>
+    <id>tag:github.com,2025-07-13:/apache/grails-quartz</id>
+    <link href="https://github.com/apache/grails-quartz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This project provides integration of the Quartz scheduling framework into the Grails Framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
