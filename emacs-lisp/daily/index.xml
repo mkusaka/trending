@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-13T01:31:30Z</updated>
+  <updated>2025-07-14T01:31:42Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>emacsorphanage/htmlize</title>
+    <updated>2025-07-14T01:31:42Z</updated>
+    <id>tag:github.com,2025-07-14:/emacsorphanage/htmlize</id>
+    <link href="https://github.com/emacsorphanage/htmlize" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convert buffer text and decorations to HTML.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Htmlize — Convert buffer text and decorations to HTML&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://elpa.nongnu.org/nongnu/htmlize.html&#34;&gt;&lt;img src=&#34;https://elpa.nongnu.org/nongnu/htmlize.svg?sanitize=true&#34; alt=&#34;NonGNU ELPA&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://stable.melpa.org/#/htmlize&#34;&gt;&lt;img src=&#34;https://stable.melpa.org/packages/htmlize-badge.svg?sanitize=true&#34; alt=&#34;MELPA Stable&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://melpa.org/#/htmlize&#34;&gt;&lt;img src=&#34;https://melpa.org/packages/htmlize-badge.svg?sanitize=true&#34; alt=&#34;MELPA&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This package converts the buffer text and the associated decorations to HTML.&lt;/p&gt; &#xA;&lt;p&gt;To use it, just switch to the buffer you want HTML-ized and type &lt;kbd&gt;M-x htmlize-buffer&lt;/kbd&gt;. You will be switched to a new buffer that contains the resulting HTML code. You can edit and inspect this buffer, or you can just save it with &lt;kbd&gt;C-x C-w&lt;/kbd&gt;. &lt;kbd&gt;M-x htmlize-file&lt;/kbd&gt; will find a file, fontify it, and save the HTML version in &lt;code&gt;FILE.html&lt;/code&gt;, without any additional intervention. &lt;kbd&gt;M-x htmlize-many-files&lt;/kbd&gt; allows you to htmlize any number of files in the same manner. &lt;kbd&gt;M-x htmlize-many-files-dired&lt;/kbd&gt; does the same for files marked in a dired buffer.&lt;/p&gt; &#xA;&lt;p&gt;Htmlize supports three types of HTML output, selected by setting &lt;code&gt;htmlize-output-type&lt;/code&gt;: &lt;code&gt;css&lt;/code&gt;, &lt;code&gt;inline-css&lt;/code&gt; (optimized for code snippets), and &lt;code&gt;font&lt;/code&gt; (simpler output, doesn&#39;t rely on CSS). See &lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/emacsorphanage/htmlize/raw/master/htmlize.el.html&#34;&gt;&lt;code&gt;htmlize.el.html&lt;/code&gt;&lt;/a&gt; for an example of generated HTML.&lt;/p&gt; &#xA;&lt;p&gt;You can also use htmlize from your Emacs Lisp code. When called non-interactively, &lt;code&gt;htmlize-buffer&lt;/code&gt; and &lt;code&gt;htmlize-region&lt;/code&gt; will return the resulting HTML buffer, but will not change current buffer or move the point. Htmlize will do its best to work on non-windowing Emacs sessions but the result will be limited to colors supported by the terminal.&lt;/p&gt;</summary>
+  </entry>
 </feed>
