@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-14T01:32:01Z</updated>
+  <updated>2025-07-15T01:31:46Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GD-Sync/GD-Sync</title>
-    <updated>2025-07-14T01:32:01Z</updated>
-    <id>tag:github.com,2025-07-14:/GD-Sync/GD-Sync</id>
-    <link href="https://github.com/GD-Sync/GD-Sync" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Advanced Godot Multiplayer Plugin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>VoylinsGamedevJourney/gozen</title>
-    <updated>2025-07-14T01:32:01Z</updated>
-    <id>tag:github.com,2025-07-14:/VoylinsGamedevJourney/gozen</id>
-    <link href="https://github.com/VoylinsGamedevJourney/gozen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimalistic video editor&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
