@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-15T01:30:12Z</updated>
+  <updated>2025-07-16T01:30:33Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/remote-mcp-apim-functions-python</title>
+    <updated>2025-07-16T01:30:33Z</updated>
+    <id>tag:github.com,2025-07-16:/Azure-Samples/remote-mcp-apim-functions-python</id>
+    <link href="https://github.com/Azure-Samples/remote-mcp-apim-functions-python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure API Management as AI Gateway to Remote MCP servers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/Durable-Task-Scheduler</title>
+    <updated>2025-07-16T01:30:33Z</updated>
+    <id>tag:github.com,2025-07-16:/Azure-Samples/Durable-Task-Scheduler</id>
+    <link href="https://github.com/Azure-Samples/Durable-Task-Scheduler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Durable task scheduler, currently in preview, is a managed backend for durable execution in Azure. The Durable task scheduler provides high performance, reliability, and an easy monitoring experience for stateful orchestrations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

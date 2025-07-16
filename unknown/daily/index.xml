@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-15T01:29:39Z</updated>
+  <updated>2025-07-16T01:30:01Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MoonshotAI/Kimi-VL</title>
+    <updated>2025-07-16T01:30:01Z</updated>
+    <id>tag:github.com,2025-07-16:/MoonshotAI/Kimi-VL</id>
+    <link href="https://github.com/MoonshotAI/Kimi-VL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
