@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-17T01:30:23Z</updated>
+  <updated>2025-07-18T01:31:08Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Kyome22/RunCat365</title>
-    <updated>2025-07-17T01:30:23Z</updated>
-    <id>tag:github.com,2025-07-17:/Kyome22/RunCat365</id>
-    <link href="https://github.com/Kyome22/RunCat365" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cute running cat animation on your windows taskbar.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;RunCat 365&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;A cute running cat animation on your Windows Taskbar.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Kyome22/RunCat365/issues&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/issues/Kyome22/RunCat365&#34; alt=&#34;Github issues&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/Kyome22/RunCat365/network/members&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/forks/Kyome22/RunCat365&#34; alt=&#34;Github forks&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/Kyome22/RunCat365/stargazers&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/stars/Kyome22/RunCat365&#34; alt=&#34;Github stars&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/Kyome22/RunCat365/&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/languages/top/Kyome22/RunCat365&#34; alt=&#34;Top language&#34;&gt;&lt;/a&gt; &lt;a href=&#34;&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/v/release/Kyome22/RunCat365&#34; alt=&#34;Release&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/Kyome22/RunCat365/&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/Kyome22/RunCat365&#34; alt=&#34;Github license&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Tags&lt;/h1&gt; &#xA;&lt;p&gt;&lt;code&gt;C#&lt;/code&gt; &lt;code&gt;.NET 9.0&lt;/code&gt; &lt;code&gt;Visual Studio&lt;/code&gt; &lt;code&gt;RunCat&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Demo&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Kyome22/RunCat365/main/docs/images/demo.gif&#34; alt=&#34;Demo&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Contributors&lt;/h1&gt; &#xA;&lt;a href=&#34;https://github.com/Kyome22/RunCat365/graphs/contributors&#34;&gt; &lt;img src=&#34;https://contrib.rocks/image?repo=Kyome22/RunCat365&#34;&gt; &lt;/a&gt;</summary>
-  </entry>
 </feed>

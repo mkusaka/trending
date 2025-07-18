@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-17T01:30:03Z</updated>
+  <updated>2025-07-18T01:30:42Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>niivu/resource-redirect-icon-themes</title>
+    <updated>2025-07-18T01:30:42Z</updated>
+    <id>tag:github.com,2025-07-18:/niivu/resource-redirect-icon-themes</id>
+    <link href="https://github.com/niivu/resource-redirect-icon-themes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Icon themes for the Resource Redirect mod for Windhawk&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

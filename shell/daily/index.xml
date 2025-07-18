@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-17T01:38:20Z</updated>
+  <updated>2025-07-18T01:40:36Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>suxess-it/kubriX</title>
+    <updated>2025-07-18T01:40:36Z</updated>
+    <id>tag:github.com,2025-07-18:/suxess-it/kubriX</id>
+    <link href="https://github.com/suxess-it/kubriX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;img src=&#34;https://github.com/user-attachments/assets/58af160d-92d5-4786-8f1d-f901582500ad&#34; width=&#34;200px&#34;&gt; &#xA;&lt;h1&gt;What is kubriX?&lt;/h1&gt; &#xA;&lt;p&gt;kubriX is a curated, opinionated, yet highly flexible IDP distribution, build from predefined bricks for kubernetes.&lt;/p&gt; &#xA;&lt;p&gt;More informations on &lt;a href=&#34;https://kubriX.io&#34;&gt;https://kubriX.io&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;If you have ideas / questions, please &lt;a href=&#34;https://join.slack.com/t/kubrix-platform/shared_invite/zt-2rc1yty2f-VTT3GOzUvo_k5hrgKbppKQ&#34;&gt;join our slack&lt;/a&gt; or raise an issue.&lt;/p&gt; &#xA;&lt;h1&gt;Preferred test installation&lt;/h1&gt; &#xA;&lt;p&gt;Want to bootstrap your own kubriX platform on your local KinD cluster with your own platform gitops-Repo? Follow &lt;a href=&#34;https://raw.githubusercontent.com/suxess-it/kubriX/main/bootstrap/BOOTSTRAP-local-kind.md&#34;&gt;this instructions&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Other test installations&lt;/h1&gt; &#xA;&lt;p&gt;Eager to see kubriX in action? Have a look at our &lt;a href=&#34;https://raw.githubusercontent.com/suxess-it/kubriX/main/kubrix-playground-github-codespaces.md&#34;&gt;kubriX playground with Github Codespaces&lt;/a&gt;!&lt;/p&gt; &#xA;&lt;p&gt;Want to install kubriX on your local machine without your own gitops-Repo (read-only)? Follow &lt;a href=&#34;https://raw.githubusercontent.com/suxess-it/kubriX/main/kubrix-local-installation.md&#34;&gt;local installation guide&lt;/a&gt;!&lt;/p&gt;</summary>
+  </entry>
 </feed>
