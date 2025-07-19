@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-18T01:31:57Z</updated>
+  <updated>2025-07-19T01:30:31Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hkhcoder/vprofile-project</title>
-    <updated>2025-07-18T01:31:57Z</updated>
-    <id>tag:github.com,2025-07-18:/hkhcoder/vprofile-project</id>
-    <link href="https://github.com/hkhcoder/vprofile-project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Prerequisites&lt;/h1&gt; &#xA;&lt;h1&gt;&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;JDK 17 or 21&lt;/li&gt; &#xA; &lt;li&gt;Maven 3.9&lt;/li&gt; &#xA; &lt;li&gt;MySQL 8&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Technologies&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Spring MVC&lt;/li&gt; &#xA; &lt;li&gt;Spring Security&lt;/li&gt; &#xA; &lt;li&gt;Spring Data JPA&lt;/li&gt; &#xA; &lt;li&gt;Maven&lt;/li&gt; &#xA; &lt;li&gt;JSP&lt;/li&gt; &#xA; &lt;li&gt;Tomcat&lt;/li&gt; &#xA; &lt;li&gt;MySQL&lt;/li&gt; &#xA; &lt;li&gt;Memcached&lt;/li&gt; &#xA; &lt;li&gt;Rabbitmq&lt;/li&gt; &#xA; &lt;li&gt;ElasticSearch&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Database&lt;/h1&gt; &#xA;&lt;p&gt;Here,we used Mysql DB sql dump file:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;/src/main/resources/db_backup.sql&lt;/li&gt; &#xA; &lt;li&gt;db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server&lt;/li&gt; &#xA; &lt;li&gt; &#xA;  &lt;blockquote&gt; &#xA;   &lt;p&gt;mysql -u &amp;lt;user_name&amp;gt; -p accounts &amp;lt; db_backup.sql&lt;/p&gt; &#xA;  &lt;/blockquote&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
