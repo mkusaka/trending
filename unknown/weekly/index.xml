@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-07-20T01:40:19Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>darkseal-org/lol-skins</title>
+    <updated>2025-07-20T01:40:19Z</updated>
+    <id>tag:github.com,2025-07-20:/darkseal-org/lol-skins</id>
+    <link href="https://github.com/darkseal-org/lol-skins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[⭐] A community-maintained repository featuring all official League of Legends skins and chromas as custom skin format.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

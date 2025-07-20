@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-19T01:30:31Z</updated>
+  <updated>2025-07-20T01:31:30Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LeelaChessZero/lczero.org</title>
+    <updated>2025-07-20T01:31:30Z</updated>
+    <id>tag:github.com,2025-07-20:/LeelaChessZero/lczero.org</id>
+    <link href="https://github.com/LeelaChessZero/lczero.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A website (will be lczero.org)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>linera-io/linera-documentation</title>
+    <updated>2025-07-20T01:31:30Z</updated>
+    <id>tag:github.com,2025-07-20:/linera-io/linera-documentation</id>
+    <link href="https://github.com/linera-io/linera-documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Linera Developer Documentation&lt;/h1&gt; &#xA;&lt;p&gt;Repository for the developer documentation of Linera hosted on &lt;a href=&#34;https://linera.dev&#34;&gt;https://linera.dev&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installing mdbook&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;cargo install mdbook@0.4.48 mdbook-linkcheck mdbook-mermaid mdbook-admonish&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Because we override the default template, the exact version matters. To upgrade &lt;code&gt;mdbook&lt;/code&gt;, you will have to run &lt;code&gt;mdbook init --theme&lt;/code&gt; and do a 3-way merge by hand.&lt;/p&gt; &#xA;&lt;h2&gt;Initializing git submodules&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;git submodule update --init&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;To discard local changes to the submodule (the equivalent of &lt;code&gt;git checkout -f HEAD&lt;/code&gt; for files), use &lt;code&gt;git submodule update&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Updating the submodule &lt;code&gt;linera-protocol&lt;/code&gt;&lt;/h2&gt; &#xA;&lt;p&gt;To commit local changes, use &lt;code&gt;git commit -a&lt;/code&gt; as usual.&lt;/p&gt; &#xA;&lt;p&gt;IMPORTANT: The HEAD of linera-protocol should be a commit hash (not a branch name).&lt;/p&gt; &#xA;&lt;p&gt;The complete workflow may look like this:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# Update the files `RELEASE_BRANCH` and `RELEASE_VERSION` to desired release branch and&#xA;# release version of linera-protocol:&#xA;#   echo devnet_YYYY_MM_DD &amp;gt; RELEASE_BRANCH&#xA;#   echo 0.M.N &amp;gt; RELEASE_VERSION&#xA;#   cat RELEASE_BRANCH | sed &#39;s/_/-/g&#39; &amp;gt; RELEASE_DOMAIN&#xA;&#xA;REMOTE_BRANCH=&#34;origin/$(cat RELEASE_BRANCH)&#34;&#xA;&#xA;cd linera-protocol&#xA;git fetch origin&#xA;git checkout $(git rev-parse $REMOTE_BRANCH)&#xA;cargo clean&#xA;cargo build --locked -p linera-sdk --features test,wasmer&#xA;cd ..&#xA;mdbook test -L linera-protocol/target/debug/deps&#xA;git commit -a&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Browsing the developer docs locally (including local changes)&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;mdbook serve&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then, open the URL as instructed.&lt;/p&gt; &#xA;&lt;h2&gt;Formatting&lt;/h2&gt; &#xA;&lt;p&gt;This repository is formatted with prettier. To install prettier run &lt;code&gt;npm install -g prettier&lt;/code&gt;. To use prettier run &lt;code&gt;prettier --write src&lt;/code&gt;. The repository is automatically checked for formatting in CI.&lt;/p&gt;</summary>
+  </entry>
 </feed>

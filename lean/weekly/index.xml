@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Lean Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-07-20T01:43:59Z</updated>
+  <subtitle>Weekly Trending of Lean in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>leanprover/reference-manual</title>
+    <updated>2025-07-20T01:43:59Z</updated>
+    <id>tag:github.com,2025-07-20:/leanprover/reference-manual</id>
+    <link href="https://github.com/leanprover/reference-manual" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Lean reference manual&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

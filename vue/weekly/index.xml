@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-07-20T01:49:58Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WANG-Fan0912/SnowAdmin</title>
+    <updated>2025-07-20T01:49:58Z</updated>
+    <id>tag:github.com,2025-07-20:/WANG-Fan0912/SnowAdmin</id>
+    <link href="https://github.com/WANG-Fan0912/SnowAdmin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SnowAdmin 一款基于 Vue3、TypeScript、Vite6、Pinia、Arco.Design 开源的后台管理框架，符合直觉的使用模式，使用目前最新技术栈开发。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
