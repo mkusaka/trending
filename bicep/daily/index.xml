@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-23T01:30:00Z</updated>
+  <updated>2025-07-24T01:30:01Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jasontaylordev/CleanArchitecture</title>
+    <updated>2025-07-24T01:30:01Z</updated>
+    <id>tag:github.com,2025-07-24:/jasontaylordev/CleanArchitecture</id>
+    <link href="https://github.com/jasontaylordev/CleanArchitecture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clean Architecture Solution Template for ASP.NET Core&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
