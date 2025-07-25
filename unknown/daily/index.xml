@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-24T01:29:30Z</updated>
+  <updated>2025-07-25T01:29:29Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>P3TERX/GeoLite.mmdb</title>
-    <updated>2025-07-24T01:29:30Z</updated>
-    <id>tag:github.com,2025-07-24:/P3TERX/GeoLite.mmdb</id>
-    <link href="https://github.com/P3TERX/GeoLite.mmdb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
