@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-25T01:38:34Z</updated>
+  <updated>2025-07-26T01:36:40Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eloqdata/eloqkv</title>
-    <updated>2025-07-25T01:38:34Z</updated>
-    <id>tag:github.com,2025-07-25:/eloqdata/eloqkv</id>
-    <link href="https://github.com/eloqdata/eloqkv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Redis/Valkey Compatible Distributed Transactional Key-Value Store&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

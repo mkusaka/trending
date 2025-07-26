@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-25T01:29:56Z</updated>
+  <updated>2025-07-26T01:30:00Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/remote-mcp-functions-dotnet</title>
+    <updated>2025-07-26T01:30:00Z</updated>
+    <id>tag:github.com,2025-07-26:/Azure-Samples/remote-mcp-functions-dotnet</id>
+    <link href="https://github.com/Azure-Samples/remote-mcp-functions-dotnet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a quickstart template to easily build and deploy a custom remote MCP server to the cloud using Azure functions. You can clone/restore/run on your local machine with debugging, and `azd up` to have it in the cloud in a couple minutes. The MCP server is secured by design using&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
