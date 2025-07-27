@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-26T01:36:19Z</updated>
+  <updated>2025-07-27T01:39:12Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>OpenZeppelin/openzeppelin-confidential-contracts</title>
-    <updated>2025-07-26T01:36:19Z</updated>
-    <id>tag:github.com,2025-07-26:/OpenZeppelin/openzeppelin-confidential-contracts</id>
-    <link href="https://github.com/OpenZeppelin/openzeppelin-confidential-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solidity library of encrypted contracts using Zama&#39;s FHEVM&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
