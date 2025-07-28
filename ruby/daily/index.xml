@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-27T01:36:35Z</updated>
+  <updated>2025-07-28T01:39:09Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oss-gate/workshop</title>
+    <updated>2025-07-28T01:39:09Z</updated>
+    <id>tag:github.com,2025-07-28:/oss-gate/workshop</id>
+    <link href="https://github.com/oss-gate/workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OSSの開発に未参加または参加したことはあるけどまだ自信がない人を後押しするワークショップ用のリポジトリー&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ワークショップ&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://gitter.im/oss-gate/workshop?utm_source=badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=pr-badge&amp;amp;utm_content=badge&#34;&gt;&lt;img src=&#34;https://badges.gitter.im/oss-gate/workshop.svg?sanitize=true&#34; alt=&#34;Gitter&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;概要&lt;/h2&gt; &#xA;&lt;p&gt;OSS GateではOSSへの開発参加を支援するワークショップを開催しています。このリポジトリーではそのワークショップに関する情報を管理しています。&lt;/p&gt; &#xA;&lt;h2&gt;日程&lt;/h2&gt; &#xA;&lt;p&gt;OSS Gateワークショップは奇数月の最終土曜日に開催しています。開催予定の日時は&lt;a href=&#34;https://oss-gate.doorkeeper.jp/events/upcoming&#34;&gt;DoorkeeperのOSS Gateコミュニティーのページ&lt;/a&gt;で確認できます。&lt;a href=&#34;https://oss-gate.doorkeeper.jp/member/new&#34;&gt;OSS Gateコミュニティーに参加&lt;/a&gt;すると次回開催日の通知を受け取ることができます。&lt;/p&gt; &#xA;&lt;h2&gt;チュートリアル&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/oss-gate/workshop/master/tutorial/&#34;&gt;tutorialディレクトリ&lt;/a&gt;の下には、主にワークショップの進行役が利用するための資料が置かれています。まずは&lt;a href=&#34;https://raw.githubusercontent.com/oss-gate/workshop/master/tutorial/scenario.md&#34;&gt;シナリオ&lt;/a&gt;を読んで、関連する資料を参照してください。&lt;/p&gt; &#xA;&lt;h2&gt;コミュニティーチャット&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://matrix.to/#/%23oss-gate:matrix.org&#34;&gt;https://matrix.to/#/#oss-gate:matrix.org&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>
