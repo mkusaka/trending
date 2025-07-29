@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-28T01:42:01Z</updated>
+  <updated>2025-07-29T01:46:00Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>adobe/rules_gitops</title>
-    <updated>2025-07-28T01:42:01Z</updated>
-    <id>tag:github.com,2025-07-28:/adobe/rules_gitops</id>
-    <link href="https://github.com/adobe/rules_gitops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains rules for continuous, GitOps driven Kubernetes deployments.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
