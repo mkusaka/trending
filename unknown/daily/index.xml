@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-29T01:30:01Z</updated>
+  <updated>2025-07-30T01:29:35Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ashishpatel26/500-AI-Agents-Projects</title>
-    <updated>2025-07-29T01:30:01Z</updated>
-    <id>tag:github.com,2025-07-29:/ashishpatel26/500-AI-Agents-Projects</id>
-    <link href="https://github.com/ashishpatel26/500-AI-Agents-Projects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>melontini/bootloader-unlock-wall-of-shame</title>
-    <updated>2025-07-29T01:30:01Z</updated>
-    <id>tag:github.com,2025-07-29:/melontini/bootloader-unlock-wall-of-shame</id>
-    <link href="https://github.com/melontini/bootloader-unlock-wall-of-shame" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Keeping track of companies that &#34;care about your data 🥺&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qcha/JBook</title>
+    <updated>2025-07-30T01:29:35Z</updated>
+    <id>tag:github.com,2025-07-30:/qcha/JBook</id>
+    <link href="https://github.com/qcha/JBook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Алгоритмы, паттерны, подготовка к собеседованиям, статьи и материалы по Java&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
