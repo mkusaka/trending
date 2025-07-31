@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-30T01:39:39Z</updated>
+  <updated>2025-07-31T01:39:52Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>runebookai/tome</title>
-    <updated>2025-07-30T01:39:39Z</updated>
-    <id>tag:github.com,2025-07-30:/runebookai/tome</id>
-    <link href="https://github.com/runebookai/tome" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

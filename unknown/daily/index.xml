@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-30T01:29:35Z</updated>
+  <updated>2025-07-31T01:29:37Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>qcha/JBook</title>
-    <updated>2025-07-30T01:29:35Z</updated>
-    <id>tag:github.com,2025-07-30:/qcha/JBook</id>
-    <link href="https://github.com/qcha/JBook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Алгоритмы, паттерны, подготовка к собеседованиям, статьи и материалы по Java&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>omkarcloud/google-maps-scraper</title>
+    <updated>2025-07-31T01:29:37Z</updated>
+    <id>tag:github.com,2025-07-31:/omkarcloud/google-maps-scraper</id>
+    <link href="https://github.com/omkarcloud/google-maps-scraper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

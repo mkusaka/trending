@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-30T01:34:45Z</updated>
+  <updated>2025-07-31T01:35:12Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nix-community/nixpkgs-xr</title>
+    <updated>2025-07-31T01:35:12Z</updated>
+    <id>tag:github.com,2025-07-31:/nix-community/nixpkgs-xr</id>
+    <link href="https://github.com/nix-community/nixpkgs-xr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automated packages for XR/AR/VR tools and apps for NixOS [maintainer=@Scrumplex]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
