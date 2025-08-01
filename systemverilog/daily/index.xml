@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-31T01:40:05Z</updated>
+  <updated>2025-08-01T01:40:11Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gmlarumbe/tree-sitter-systemverilog</title>
+    <updated>2025-08-01T01:40:11Z</updated>
+    <id>tag:github.com,2025-08-01:/gmlarumbe/tree-sitter-systemverilog</id>
+    <link href="https://github.com/gmlarumbe/tree-sitter-systemverilog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SystemVerilog tree-sitter grammar&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-01T01:59:56Z</updated>
+  <subtitle>Monthly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>netlify/examples</title>
+    <updated>2025-08-01T01:59:56Z</updated>
+    <id>tag:github.com,2025-08-01:/netlify/examples</id>
+    <link href="https://github.com/netlify/examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of examples and demonstrations to help people building the web with Netlify&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eduardoboucas/include-media</title>
+    <updated>2025-08-01T01:59:56Z</updated>
+    <id>tag:github.com,2025-08-01:/eduardoboucas/include-media</id>
+    <link href="https://github.com/eduardoboucas/include-media" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📐 Simple, elegant and maintainable media queries in Sass&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>overhangio/tutor-indigo</title>
+    <updated>2025-08-01T01:59:56Z</updated>
+    <id>tag:github.com,2025-08-01:/overhangio/tutor-indigo</id>
+    <link href="https://github.com/overhangio/tutor-indigo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An elegant, customizable theme for Open edX&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

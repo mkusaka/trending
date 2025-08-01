@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Lean Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-01T01:55:06Z</updated>
+  <subtitle>Monthly Trending of Lean in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cedar-policy/cedar-spec</title>
+    <updated>2025-08-01T01:55:06Z</updated>
+    <id>tag:github.com,2025-08-01:/cedar-policy/cedar-spec</id>
+    <link href="https://github.com/cedar-policy/cedar-spec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Definitional implementation of Cedar language and utilities for DRT&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

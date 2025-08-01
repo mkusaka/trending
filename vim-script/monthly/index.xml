@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-01T02:01:07Z</updated>
+  <subtitle>Monthly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>preservim/vimux</title>
+    <updated>2025-08-01T02:01:07Z</updated>
+    <id>tag:github.com,2025-08-01:/preservim/vimux</id>
+    <link href="https://github.com/preservim/vimux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;easily interact with tmux from vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HerringtonDarkholme/yats.vim</title>
+    <updated>2025-08-01T02:01:07Z</updated>
+    <id>tag:github.com,2025-08-01:/HerringtonDarkholme/yats.vim</id>
+    <link href="https://github.com/HerringtonDarkholme/yats.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mattn/emmet-vim</title>
+    <updated>2025-08-01T02:01:07Z</updated>
+    <id>tag:github.com,2025-08-01:/mattn/emmet-vim</id>
+    <link href="https://github.com/mattn/emmet-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;emmet for vim: http://emmet.io/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Open Policy Agent Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-01T01:56:16Z</updated>
+  <subtitle>Monthly Trending of Open Policy Agent in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>microsoft/regorus</title>
+    <updated>2025-08-01T01:56:16Z</updated>
+    <id>tag:github.com,2025-08-01:/microsoft/regorus</id>
+    <link href="https://github.com/microsoft/regorus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

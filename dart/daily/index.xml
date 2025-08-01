@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-07-31T01:31:14Z</updated>
+  <updated>2025-08-01T01:31:46Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dart-lang/ai</title>
-    <updated>2025-07-31T01:31:14Z</updated>
-    <id>tag:github.com,2025-07-31:/dart-lang/ai</id>
-    <link href="https://github.com/dart-lang/ai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A general repository for AI / GenAI packages and explorations.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Overview&lt;/h2&gt; &#xA;&lt;p&gt;A general repository for AI / GenAI packages and explorations.&lt;/p&gt; &#xA;&lt;h2&gt;Packages&lt;/h2&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Package&lt;/th&gt; &#xA;   &lt;th&gt;Description&lt;/th&gt; &#xA;   &lt;th&gt;Issues&lt;/th&gt; &#xA;   &lt;th&gt;Version&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://raw.githubusercontent.com/dart-lang/ai/main/pkgs/dart_mcp/&#34;&gt;dart_mcp&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;A package for making MCP servers and clients.&lt;/td&gt; &#xA;   &lt;td&gt;&lt;img src=&#34;https://img.shields.io/github/issues-search?label=issues&amp;amp;query=is%3Aissue+is%3Aopen+label%3Apackage%3Adart_mcp+repo%3Adart-lang/ai&#34; alt=&#34;issues&#34;&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://pub.dev/packages/dart_mcp&#34;&gt;&lt;img src=&#34;https://img.shields.io/pub/v/dart_mcp.svg?sanitize=true&#34; alt=&#34;pub package&#34;&gt;&lt;/a&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://raw.githubusercontent.com/dart-lang/ai/main/pkgs/dart_mcp_server/&#34;&gt;dart_mcp_server&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;An MCP server for Dart projects, exposing various developer tools to AI models.&lt;/td&gt; &#xA;   &lt;td&gt;&lt;img src=&#34;https://img.shields.io/github/issues-search?label=issues&amp;amp;query=is%3Aissue+is%3Aopen+label%3Apackage%3Adart_mcp_server+repo%3Adart-lang/ai&#34; alt=&#34;issues&#34;&gt;&lt;/td&gt; &#xA;   &lt;td&gt;n/a&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;!--&#xA;## Publishing automation&#xA;&#xA;For information about our publishing automation and release process, see&#xA;https://github.com/dart-lang/ecosystem/wiki/Publishing-automation.&#xA;&#xA;For additional information about contributing, see our&#xA;[contributing](CONTRIBUTING.md) page.&#xA;--&gt;</summary>
-  </entry>
 </feed>

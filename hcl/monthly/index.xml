@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-01T01:53:55Z</updated>
+  <subtitle>Monthly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GoogleCloudPlatform/cluster-toolkit</title>
+    <updated>2025-08-01T01:53:55Z</updated>
+    <id>tag:github.com,2025-08-01:/GoogleCloudPlatform/cluster-toolkit</id>
+    <link href="https://github.com/GoogleCloudPlatform/cluster-toolkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cluster Toolkit is an open-source software offered by Google Cloud which makes it easy for customers to deploy AI/ML and HPC environments on Google Cloud.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DataDog/serverless-sample-app</title>
+    <updated>2025-08-01T01:53:55Z</updated>
+    <id>tag:github.com,2025-08-01:/DataDog/serverless-sample-app</id>
+    <link href="https://github.com/DataDog/serverless-sample-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Explore Datadog&#39;s serverless observability features with this sample app.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hashicorp/terraform-provider-awscc</title>
+    <updated>2025-08-01T01:53:55Z</updated>
+    <id>tag:github.com,2025-08-01:/hashicorp/terraform-provider-awscc</id>
+    <link href="https://github.com/hashicorp/terraform-provider-awscc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform AWS Cloud Control provider&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

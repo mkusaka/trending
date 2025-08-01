@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-01T01:53:51Z</updated>
+  <subtitle>Monthly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>apache/doris</title>
+    <updated>2025-08-01T01:53:51Z</updated>
+    <id>tag:github.com,2025-08-01:/apache/doris</id>
+    <link href="https://github.com/apache/doris" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache Doris is an easy-to-use, high performance and unified analytics database.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>apache/groovy-geb</title>
+    <updated>2025-08-01T01:53:51Z</updated>
+    <id>tag:github.com,2025-08-01:/apache/groovy-geb</id>
+    <link href="https://github.com/apache/groovy-geb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache Geb: Very Groovy Browser Automation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>apache/grails-core</title>
+    <updated>2025-08-01T01:53:51Z</updated>
+    <id>tag:github.com,2025-08-01:/apache/grails-core</id>
+    <link href="https://github.com/apache/grails-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Grails - the Web Application Framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vala Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-01T02:01:01Z</updated>
+  <subtitle>Monthly Trending of Vala in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Vysp3r/ProtonPlus</title>
+    <updated>2025-08-01T02:01:01Z</updated>
+    <id>tag:github.com,2025-08-01:/Vysp3r/ProtonPlus</id>
+    <link href="https://github.com/Vysp3r/ProtonPlus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern compatibility tools manager&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>christianloopp/komorebi</title>
+    <updated>2025-08-01T02:01:01Z</updated>
+    <id>tag:github.com,2025-08-01:/christianloopp/komorebi</id>
+    <link href="https://github.com/christianloopp/komorebi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A beautiful and customizable wallpapers manager for Linux&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>martinpitt/umockdev</title>
+    <updated>2025-08-01T02:01:01Z</updated>
+    <id>tag:github.com,2025-08-01:/martinpitt/umockdev</id>
+    <link href="https://github.com/martinpitt/umockdev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mock hardware devices for creating unit tests and bug reporting&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
