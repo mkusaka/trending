@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CodeQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-01T01:31:25Z</updated>
+  <updated>2025-08-02T01:30:23Z</updated>
   <subtitle>Daily Trending of CodeQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>advanced-security/codeql-extractor-iac</title>
+    <updated>2025-08-02T01:30:23Z</updated>
+    <id>tag:github.com,2025-08-02:/advanced-security/codeql-extractor-iac</id>
+    <link href="https://github.com/advanced-security/codeql-extractor-iac" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CodeQL Extractor, Library, and Queries for Infrastructure as Code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
