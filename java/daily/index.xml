@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-02T01:32:25Z</updated>
+  <updated>2025-08-03T01:33:18Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OWASP-Benchmark/BenchmarkJava</title>
+    <updated>2025-08-03T01:33:18Z</updated>
+    <id>tag:github.com,2025-08-03:/OWASP-Benchmark/BenchmarkJava</id>
+    <link href="https://github.com/OWASP-Benchmark/BenchmarkJava" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually expl…&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OWASP Benchmark&lt;/h1&gt; &#xA;&lt;p&gt;The OWASP Benchmark Project is a Java test suite designed to verify the speed and accuracy of vulnerability detection tools. It is a fully runnable open source web application that can be analyzed by any type of Application Security Testing (AST) tool, including SAST, DAST (like &lt;a href=&#34;https://www.zaproxy.org/&#34;&gt;ZAP&lt;/a&gt;), and IAST tools. The intent is that all the vulnerabilities deliberately included in and scored by the Benchmark are actually exploitable so its a fair test for any kind of application vulnerability detection tool. The Benchmark also includes scorecard generators for numerous open source and commercial AST tools, and the set of supported tools is growing all the time.&lt;/p&gt; &#xA;&lt;p&gt;The project documentation is all on the OWASP site at the &lt;a href=&#34;https://owasp.org/www-project-benchmark&#34;&gt;OWASP Benchmark&lt;/a&gt; project pages. Please refer to that site for all the project details.&lt;/p&gt; &#xA;&lt;p&gt;The current latest release is v1.2. Note that all the releases that are available here: &lt;a href=&#34;https://github.com/OWASP/Benchmark/releases&#34;&gt;https://github.com/OWASP/Benchmark/releases&lt;/a&gt; are historical. The latest release is always available live by simply cloning or pulling the head of this repository (i.e., git pull).&lt;/p&gt;</summary>
+  </entry>
 </feed>
