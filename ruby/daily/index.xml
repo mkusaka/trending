@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-04T01:36:32Z</updated>
+  <updated>2025-08-05T01:35:39Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>unsplash/comment-on-pr</title>
+    <updated>2025-08-05T01:35:39Z</updated>
+    <id>tag:github.com,2025-08-05:/unsplash/comment-on-pr</id>
+    <link href="https://github.com/unsplash/comment-on-pr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A GitHub Action to comment on the relevant open PR when a commit is pushed.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Comment on PR via GitHub Action&lt;/h1&gt; &#xA;&lt;p&gt;A GitHub action to comment on the relevant open PR when a commit is pushed.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Requires the &lt;code&gt;GITHUB_TOKEN&lt;/code&gt; secret.&lt;/li&gt; &#xA; &lt;li&gt;Requires the comment&#39;s message in the &lt;code&gt;msg&lt;/code&gt; parameter.&lt;/li&gt; &#xA; &lt;li&gt;Supports &lt;code&gt;push&lt;/code&gt;, &lt;code&gt;pull_request&lt;/code&gt; and &lt;code&gt;pull_request_review&lt;/code&gt; event types.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Sample workflow&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-yaml&#34;&gt;name: comment-on-pr example&#xA;on: pull_request&#xA;jobs:&#xA;  example:&#xA;    name: sample comment&#xA;    runs-on: ubuntu-latest&#xA;    steps:&#xA;      - name: comment PR&#xA;        uses: unsplash/comment-on-pr@v1.3.0&#xA;        env:&#xA;          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}&#xA;        with:&#xA;          msg: &#34;Check out this message!&#34;&#xA;          check_for_duplicate_msg: false  # OPTIONAL&#xA;          delete_prev_regex_msg: &#34;[0-9]&#34;  # OPTIONAL&#xA;          duplicate_msg_pattern: &#34;[A-Z]&#34;  # OPTIONAL&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>
