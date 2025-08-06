@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-05T01:31:07Z</updated>
+  <updated>2025-08-06T01:31:19Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Schumacher-Group-UPB/PHOENIX</title>
-    <updated>2025-08-05T01:31:07Z</updated>
-    <id>tag:github.com,2025-08-05:/Schumacher-Group-UPB/PHOENIX</id>
-    <link href="https://github.com/Schumacher-Group-UPB/PHOENIX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PHOENIX is a CUDA-accelerated Solver for the nonlinear two-dimensional Schrödinger Equation.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
