@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-06T01:40:20Z</updated>
+  <updated>2025-08-07T01:39:13Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>crmeb/crmeb_java</title>
+    <updated>2025-08-07T01:39:13Z</updated>
+    <id>tag:github.com,2025-08-07:/crmeb/crmeb_java</id>
+    <link href="https://github.com/crmeb/crmeb_java" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

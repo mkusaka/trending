@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-06T01:39:24Z</updated>
+  <updated>2025-08-07T01:38:17Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>groundhog2k/helm-charts</title>
-    <updated>2025-08-06T01:39:24Z</updated>
-    <id>tag:github.com,2025-08-06:/groundhog2k/helm-charts</id>
-    <link href="https://github.com/groundhog2k/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm charts for open source applications - ready to use for deployment on Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
