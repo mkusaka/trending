@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-10T06:10:00Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chaos-zhu/easynode</title>
+    <updated>2025-08-10T06:10:00Z</updated>
+    <id>tag:github.com,2025-08-10:/chaos-zhu/easynode</id>
+    <link href="https://github.com/chaos-zhu/easynode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个多功能Linux服务器WEB终端面板(webSSH&amp;webSFTP). 更新通知TG：&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nuxtlabs/docus</title>
+    <updated>2025-08-10T06:10:00Z</updated>
+    <id>tag:github.com,2025-08-10:/nuxtlabs/docus</id>
+    <link href="https://github.com/nuxtlabs/docus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Write beautiful documentations with Nuxt and Markdown.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

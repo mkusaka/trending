@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Dockerfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-10T06:04:29Z</updated>
+  <subtitle>Weekly Trending of Dockerfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kubesphere/ks-jenkins</title>
+    <updated>2025-08-10T06:04:29Z</updated>
+    <id>tag:github.com,2025-08-10:/kubesphere/ks-jenkins</id>
+    <link href="https://github.com/kubesphere/ks-jenkins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jenkins distribution for Kubesphere&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ks-jenkins&lt;/h1&gt; &#xA;&lt;p&gt;Jenkins distribution for &lt;a href=&#34;https://github.com/kubesphere/kubesphere&#34;&gt;kubesphere&lt;/a&gt;, but you may use it for other purposes. It&#39;s just a standard jenkins plus some plugins.&lt;/p&gt; &#xA;&lt;h1&gt;Get started&lt;/h1&gt; &#xA;&lt;p&gt;The docker images are below:&lt;/p&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Type&lt;/th&gt; &#xA;   &lt;th&gt;Image&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;official&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://github.com/kubesphere/ks-jenkins/releases/latest&#34;&gt;latest-release&lt;/a&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;experimental&lt;/td&gt; &#xA;   &lt;td&gt;&lt;code&gt;kubesphere/ks-jenkins:master&lt;/code&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;h2&gt;Build your own jenkins image&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Clone this repo&lt;/li&gt; &#xA; &lt;li&gt;Modify the Dockerfile and plugins.txt as you need.&lt;/li&gt; &#xA; &lt;li&gt;Build the image&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;docker build -t &amp;lt;your-image-name&amp;gt; .&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-09T01:31:21Z</updated>
+  <updated>2025-08-10T05:57:14Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eschulte/emacs-web-server</title>
-    <updated>2025-08-09T01:31:21Z</updated>
-    <id>tag:github.com,2025-08-09:/eschulte/emacs-web-server</id>
-    <link href="https://github.com/eschulte/emacs-web-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;web server running Emacs Lisp handlers.&lt;/p&gt;&lt;hr&gt;&lt;pre&gt;&lt;code&gt;                       Emacs Web Server&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;DESCRIPTION A web server in Emacs running handlers written in Emacs Lisp.&lt;/p&gt; &#xA;&lt;p&gt;REQUIREMENTS Emacs 24.3 or later.&lt;/p&gt; &#xA;&lt;p&gt;STATUS Supports HTTP GET and POST requests including URL-encoded parameters, multipart/form data and file uploads. Supports web sockets. Reasonably performant, faster than Elnode [1]. This is a new project without much extended use so there are likely bugs and potentially security issues. That said it consists of little more than HTTP header parsing logic perched atop Emacs&#39; existing network process primitives, so it should be fairly robust.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;[1]  http://eschulte.github.io/emacs-web-server/benchmark/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;USAGE See the examples/ directory in this repository for examples demonstrating usage. The Emacs web-server is also used to run a paste server [2], serve editable Org-mode pages [3] and serve files for Cask [4].&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;[2]  https://github.com/eschulte/el-sprunge&#xA;[3]  https://github.com/eschulte/org-ehtml&#xA;[4]  https://github.com/cask/cask&#xA;&#xA;Available from the GNU ELPA [5].  The tutorials page [6] walks&#xA;through usage scenarios including installing the Emacs web-server&#xA;and running it behind a proxy.&#xA;&#xA;[5]  http://elpa.gnu.org/&#xA;[6]  http://eschulte.github.io/emacs-web-server/tutorials/&#xA;&#xA;Run `make check&#39; to run the included test suite.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;DOCUMENTATION Run `make doc&#39; to build the texinfo documentation, also available online [6].&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;[6]  http://eschulte.github.io/emacs-web-server&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>
