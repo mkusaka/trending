@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-10T06:02:56Z</updated>
+  <updated>2025-08-11T01:42:31Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jackielii/skhd.zig</title>
-    <updated>2025-08-10T06:02:56Z</updated>
-    <id>tag:github.com,2025-08-10:/jackielii/skhd.zig</id>
-    <link href="https://github.com/jackielii/skhd.zig" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple Hotkey Daemon for macOS, ported from skhd by koekeishiya&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

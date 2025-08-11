@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-10T06:02:35Z</updated>
+  <updated>2025-08-11T01:42:11Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>glebkudr/shotgun_code</title>
-    <updated>2025-08-10T06:02:35Z</updated>
-    <id>tag:github.com,2025-08-10:/glebkudr/shotgun_code</id>
-    <link href="https://github.com/glebkudr/shotgun_code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;One‑click codebase “blast” for Large‑Language‑Model workflows.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GiovanH/unofficial-homestuck-collection</title>
+    <updated>2025-08-11T01:42:11Z</updated>
+    <id>tag:github.com,2025-08-11:/GiovanH/unofficial-homestuck-collection</id>
+    <link href="https://github.com/GiovanH/unofficial-homestuck-collection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An offline collection of Homestuck and its related works.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fingerthief/recommendarr</title>
+    <updated>2025-08-11T01:42:11Z</updated>
+    <id>tag:github.com,2025-08-11:/fingerthief/recommendarr</id>
+    <link href="https://github.com/fingerthief/recommendarr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An LLM driven recommendation system based on Radarr and Sonarr library or watch history information&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
