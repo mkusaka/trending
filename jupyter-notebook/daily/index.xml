@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-14T01:36:15Z</updated>
+  <updated>2025-08-15T01:36:35Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LinkedInLearning/python-ET-4314028</title>
+    <updated>2025-08-15T01:36:35Z</updated>
+    <id>tag:github.com,2025-08-15:/LinkedInLearning/python-ET-4314028</id>
+    <link href="https://github.com/LinkedInLearning/python-ET-4314028" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo is for linkedin learning course: Python Essential Training (UPDATE FY24 Q4)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Python Essential Training&lt;/h1&gt; &#xA;&lt;p&gt;This is the repository for the LinkedIn Learning course &lt;code&gt;Python Essential Training&lt;/code&gt;. The full course is available from [LinkedIn Learning][lil-course-url].&lt;/p&gt; &#xA;&lt;p&gt;![Python Essential Training][lil-thumbnail-url]&lt;/p&gt; &#xA;&lt;p&gt;Python is one of the most commonly used dynamic languages for many large organizations, including Google, Yahoo, and IBM. Supported on all major operating systems, it comes pre-installed on Macs, as well as most Linux and Unix-based systems. In this course, senior software engineer Ryan Mitchell guides you through all the essentials of learning and using Python. Learn how computers think, as well as how to install Python, pip, and Jupyter Notebook and the basics of writing a program. Explore variables and types, operators, functions, classes, objects, and more. Go over basic data types like ints and floats, Booleans, and strings. Deep dive into basic data structures, control flow, functions, classes, and objects. Find out how to handle errors and exceptions, as well as threads and processes. Plus, discover how to work with different types of files in Python, pass command-line arguments to your Python script, and create modules and packages.&lt;/p&gt; &#xA;&lt;h3&gt;Instructor&lt;/h3&gt; &#xA;&lt;p&gt;Ryan Mitchell&lt;/p&gt; &#xA;&lt;p&gt;Senior Software Engineer&lt;/p&gt; &#xA;&lt;p&gt;Check out my other courses on &lt;a href=&#34;https://www.linkedin.com/learning/instructors/ryan-mitchell&#34;&gt;LinkedIn Learning&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;[lil-course-url]: &lt;a href=&#34;https://www.linkedin.com/learning/%5D(https://www.linkedin.com/learning/python-essential-training-18764650/&#34;&gt;https://www.linkedin.com/learning/](https://www.linkedin.com/learning/python-essential-training-18764650/&lt;/a&gt; [lil-thumbnail-url]: &lt;a href=&#34;https://media.licdn.com/dms/image/C4E0DAQHBQo3TSa3IUg/learning-public-crop_675_1200/0/1674513192001?e=2147483647&amp;amp;v=beta&amp;amp;t=YWS_o8SlM4I6YEzJwQnAIP8Q0kfvzX3QbqA7Avrg7K8&#34;&gt;https://media.licdn.com/dms/image/C4E0DAQHBQo3TSa3IUg/learning-public-crop_675_1200/0/1674513192001?e=2147483647&amp;amp;v=beta&amp;amp;t=YWS_o8SlM4I6YEzJwQnAIP8Q0kfvzX3QbqA7Avrg7K8&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

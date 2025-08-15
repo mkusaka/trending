@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-14T01:35:54Z</updated>
+  <updated>2025-08-15T01:36:12Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kishanrajput23/Java-Projects-Collections</title>
+    <updated>2025-08-15T01:36:12Z</updated>
+    <id>tag:github.com,2025-08-15:/kishanrajput23/Java-Projects-Collections</id>
+    <link href="https://github.com/kishanrajput23/Java-Projects-Collections" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Contribute in this repository by raising a genuine PR. Then get verified, and earn the free swags from Hacktoberfest 2023.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
