@@ -18,7 +18,7 @@ jobs:
           cache: true
       - uses: actions/setup-node@v4
         with:
-          node-version: 22.15.0
+          node-version: 22.18.0
       - run: |
           go run main.go
           git add datum.json
