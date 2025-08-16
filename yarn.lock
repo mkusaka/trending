@@ -163,13 +163,13 @@ __metadata:
   linkType: hard
 
 "fs-extra@npm:^11.1.1":
-  version: 11.3.0
-  resolution: "fs-extra@npm:11.3.0"
+  version: 11.3.1
+  resolution: "fs-extra@npm:11.3.1"
   dependencies:
     graceful-fs: ^4.2.0
     jsonfile: ^6.0.1
     universalify: ^2.0.0
-  checksum: 5d7e0725eeb3d8922b70eb372cce12d597752c365642b76c61bd2e67a3c156d529f2cfe015653efd2a849cfec81ac9f80b3699dd4def7ddec23368ae0ee7d374
+  checksum: 9a114a82405163da43ceb3291f76c5508e49716e9e932632289f56bd202ef25aedfd0380b1f296c7b328033ba2b09d78f1f03819f643568670ff2f1b6822b2a5
   languageName: node
   linkType: hard
 
@@ -252,15 +252,15 @@ __metadata:
   linkType: hard
 
 "jsonfile@npm:^6.0.1":
-  version: 6.1.0
-  resolution: "jsonfile@npm:6.1.0"
+  version: 6.2.0
+  resolution: "jsonfile@npm:6.2.0"
   dependencies:
     graceful-fs: ^4.1.6
     universalify: ^2.0.0
   dependenciesMeta:
     graceful-fs:
       optional: true
-  checksum: 9419c886abc6f8a5088cbb222b7bc17c76e8ee9f6c0e5c38781a4e09488166084f25247bc0b58e025b08c43064c82ae860ad89a992e35fc8cfae639323b7edbc
+  checksum: 4b5d4d8326e1af068a30e96c0286c79b2e2cb918361843d94267170b1e191b58b3e07c14d72f019dd0dcb22fc58b70d9eead6e6c262ce12f74335e0cf5286dc3
   languageName: node
   linkType: hard
 
