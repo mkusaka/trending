@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-16T01:40:24Z</updated>
+  <updated>2025-08-17T01:58:47Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>google/sec-gemini</title>
-    <updated>2025-08-16T01:40:24Z</updated>
-    <id>tag:github.com,2025-08-16:/google/sec-gemini</id>
-    <link href="https://github.com/google/sec-gemini" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sec-Gemini v1 is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-16T01:32:01Z</updated>
+  <updated>2025-08-17T01:50:20Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lukasmasuch/best-of-ml-python</title>
+    <updated>2025-08-17T01:50:20Z</updated>
+    <id>tag:github.com,2025-08-17:/lukasmasuch/best-of-ml-python</id>
+    <link href="https://github.com/lukasmasuch/best-of-ml-python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

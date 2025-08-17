@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-17T02:00:08Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dipakkr/A-to-Z-Resources-for-Students</title>
+    <updated>2025-08-17T02:00:08Z</updated>
+    <id>tag:github.com,2025-08-17:/dipakkr/A-to-Z-Resources-for-Students</id>
+    <link href="https://github.com/dipakkr/A-to-Z-Resources-for-Students" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✅ Curated list of resources for college students&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>arch3rPro/Pentest-Windows</title>
+    <updated>2025-08-17T02:00:08Z</updated>
+    <id>tag:github.com,2025-08-17:/arch3rPro/Pentest-Windows</id>
+    <link href="https://github.com/arch3rPro/Pentest-Windows" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚔️Windows11 Penetration Suite Toolkit 🔰 The First Windows Penetration Testing Environment on Mac M Chips&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

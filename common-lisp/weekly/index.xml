@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-17T02:01:30Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Clozure/ccl</title>
+    <updated>2025-08-17T02:01:30Z</updated>
+    <id>tag:github.com,2025-08-17:/Clozure/ccl</id>
+    <link href="https://github.com/Clozure/ccl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clozure Common Lisp&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Clozure CL&lt;/h1&gt; &#xA;&lt;p&gt;This is the source code for Clozure CL.&lt;/p&gt; &#xA;&lt;p&gt;Because CCL is written in itself, you need an already-working version of CCL to compile it.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://github.com/Clozure/ccl/releases/latest&#34;&gt;https://github.com/Clozure/ccl/releases/latest&lt;/a&gt; for instructions on how to get a copy of CCL for your system.&lt;/p&gt; &#xA;&lt;p&gt;To report a bug or request an enhancement, please make an issue at &lt;a href=&#34;https://github.com/Clozure/ccl/issues&#34;&gt;https://github.com/Clozure/ccl/issues&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;If you have questions or run into problems, send mail to &lt;a href=&#34;mailto:ccl-devel@clozure.com&#34;&gt;ccl-devel@clozure.com&lt;/a&gt; (see &lt;a href=&#34;https://lists.clozure.com&#34;&gt;https://lists.clozure.com&lt;/a&gt; for instructions on how to subscribe), ask on #ccl on libera.chat, or create an issue here, especially if you think you have found a bug.&lt;/p&gt;</summary>
+  </entry>
+</feed>
