@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-17T01:50:20Z</updated>
+  <updated>2025-08-18T01:31:22Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lukasmasuch/best-of-ml-python</title>
-    <updated>2025-08-17T01:50:20Z</updated>
-    <id>tag:github.com,2025-08-17:/lukasmasuch/best-of-ml-python</id>
-    <link href="https://github.com/lukasmasuch/best-of-ml-python" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>enescingoz/awesome-n8n-templates</title>
+    <updated>2025-08-18T01:31:22Z</updated>
+    <id>tag:github.com,2025-08-18:/enescingoz/awesome-n8n-templates</id>
+    <link href="https://github.com/enescingoz/awesome-n8n-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TheGP/untidetect-tools</title>
+    <updated>2025-08-18T01:31:22Z</updated>
+    <id>tag:github.com,2025-08-18:/TheGP/untidetect-tools</id>
+    <link href="https://github.com/TheGP/untidetect-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

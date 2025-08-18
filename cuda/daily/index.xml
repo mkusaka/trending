@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-17T01:52:01Z</updated>
+  <updated>2025-08-18T01:32:48Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>deepseek-ai/DeepGEMM</title>
-    <updated>2025-08-17T01:52:01Z</updated>
-    <id>tag:github.com,2025-08-17:/deepseek-ai/DeepGEMM</id>
-    <link href="https://github.com/deepseek-ai/DeepGEMM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
