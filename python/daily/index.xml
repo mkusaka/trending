@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Python Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-18T01:37:29Z</updated>
+  <updated>2025-08-19T01:35:52Z</updated>
   <subtitle>Daily Trending of Python in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HunxByts/GhostTrack</title>
-    <updated>2025-08-18T01:37:29Z</updated>
-    <id>tag:github.com,2025-08-18:/HunxByts/GhostTrack</id>
-    <link href="https://github.com/HunxByts/GhostTrack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Useful tool to track location or mobile number&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GhostTrack&lt;/h1&gt; &#xA;&lt;p&gt;Useful tool to track location or mobile number, so this tool can be called osint or also information gathering&lt;/p&gt; &#xA;&lt;img src=&#34;https://github.com/HunxByts/GhostTrack/raw/main/asset/bn.png&#34; /&gt; &#xA;&lt;p&gt;New update : &lt;code&gt;Version 2.2&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Instalation on Linux (deb)&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;sudo apt-get install git&#xA;sudo apt-get install python3&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Instalation on Termux&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;pkg install git&#xA;pkg install python3&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Usage Tool&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone https://github.com/HunxByts/GhostTrack.git&#xA;cd GhostTrack&#xA;pip3 install -r requirements.txt&#xA;python3 GhostTR.py&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Display on the menu &lt;code&gt;IP Tracker&lt;/code&gt;&lt;/p&gt; &#xA;&lt;img src=&#34;https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png &#34; /&gt; &#xA;&lt;p&gt;on the IP Track menu, you can combo with the seeker tool to get the target IP&lt;/p&gt; &#xA;&lt;details&gt; &#xA; &lt;summary&gt;&lt;span&gt;⚡&lt;/span&gt; Install Seeker :&lt;/summary&gt; - &#xA; &lt;strong&gt;&lt;a href=&#34;https://github.com/thewhiteh4t/seeker&#34;&gt;Get Seeker&lt;/a&gt;&lt;/strong&gt; &#xA;&lt;/details&gt; &#xA;&lt;p&gt;Display on the menu &lt;code&gt;Phone Tracker&lt;/code&gt;&lt;/p&gt; &#xA;&lt;img src=&#34;https://github.com/HunxByts/GhostTrack/raw/main/asset/phone.png&#34; /&gt; &#xA;&lt;p&gt;on this menu you can search for information from the target phone number&lt;/p&gt; &#xA;&lt;p&gt;Display on the menu &lt;code&gt;Username Tracker&lt;/code&gt;&lt;/p&gt; &#xA;&lt;img src=&#34;https://github.com/HunxByts/GhostTrack/raw/main/asset/User.png&#34; /&gt; on this menu you can search for information from the target username on social media &#xA;&lt;details&gt; &#xA; &lt;summary&gt;&lt;span&gt;⚡&lt;/span&gt; Author :&lt;/summary&gt; - &#xA; &lt;strong&gt;&lt;a href=&#34;https://github.com/HunxByts&#34;&gt;HunxByts&lt;/a&gt;&lt;/strong&gt; &#xA;&lt;/details&gt;</summary>
-  </entry>
 </feed>
