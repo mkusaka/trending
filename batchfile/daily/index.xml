@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-20T01:30:48Z</updated>
+  <updated>2025-08-21T01:31:26Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Aetherinox/pause-windows-updates</title>
+    <updated>2025-08-21T01:31:26Z</updated>
+    <id>tag:github.com,2025-08-21:/Aetherinox/pause-windows-updates</id>
+    <link href="https://github.com/Aetherinox/pause-windows-updates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pause &amp; disable Windows updates for any duration. Remove Recall / Copilot. Debloat / privacy / telemetry tools. Supports Windows 10 and 11.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
