@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-21T01:33:40Z</updated>
+  <updated>2025-08-22T01:34:08Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>endlessm/threadbare</title>
-    <updated>2025-08-21T01:33:40Z</updated>
-    <id>tag:github.com,2025-08-21:/endlessm/threadbare</id>
-    <link href="https://github.com/endlessm/threadbare" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rebuild an unraveling world&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

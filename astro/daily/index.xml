@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-21T01:31:20Z</updated>
+  <updated>2025-08-22T01:32:01Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mishamyrt/Lilex</title>
+    <updated>2025-08-22T01:32:01Z</updated>
+    <id>tag:github.com,2025-08-22:/mishamyrt/Lilex</id>
+    <link href="https://github.com/mishamyrt/Lilex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤘Open source programming font&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
