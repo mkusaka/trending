@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-22T01:39:03Z</updated>
+  <updated>2025-08-23T01:39:17Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kurozenzen/kurosearch</title>
-    <updated>2025-08-22T01:39:03Z</updated>
-    <id>tag:github.com,2025-08-22:/kurozenzen/kurosearch</id>
-    <link href="https://github.com/kurozenzen/kurosearch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple and powerful Rule34 browsing site with a focus on simplicity and user experience without compromising power.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
