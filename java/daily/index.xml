@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2025-08-23T01:33:37Z</updated>
+  <updated>2025-08-24T01:36:12Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bancolombia/scaffold-clean-architecture</title>
+    <updated>2025-08-24T01:36:12Z</updated>
+    <id>tag:github.com,2025-08-24:/bancolombia/scaffold-clean-architecture</id>
+    <link href="https://github.com/bancolombia/scaffold-clean-architecture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin to create a clean application in Java that already works, It follows our best practices!&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/bancolombia/scaffold-clean-architecture/workflows/gradle-actions/badge.svg?sanitize=true&#34; alt=&#34;&#34; /&gt; &lt;a href=&#34;https://sonarcloud.io/dashboard?id=bancolombia_scaffold-clean-architecture&#34;&gt;&lt;img src=&#34;https://sonarcloud.io/api/project_badges/measure?project=bancolombia_scaffold-clean-architecture&amp;amp;metric=alert_status&#34; alt=&#34;Quality Gate Status&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://sonarcloud.io/dashboard?id=bancolombia_scaffold-clean-architecture&#34;&gt;&lt;img src=&#34;https://sonarcloud.io/api/project_badges/measure?project=bancolombia_scaffold-clean-architecture&amp;amp;metric=sqale_rating&#34; alt=&#34;Maintainability Rating&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://codecov.io/gh/bancolombia/scaffold-clean-architecture&#34;&gt;&lt;img src=&#34;https://codecov.io/gh/bancolombia/scaffold-clean-architecture/branch/master/graph/badge.svg?sanitize=true&#34; alt=&#34;codecov&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/bancolombia/scaffold-clean-architecture/raw/master/LICENSE&#34;&gt;&lt;img src=&#34;https://shields.io/badge/license-Apache%202-blue&#34; alt=&#34;GitHub license&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/bancolombia/scaffold-clean-architecture/actions/workflows/scorecards-analysis.yml&#34;&gt;&lt;img src=&#34;https://github.com/bancolombia/scaffold-clean-architecture/actions/workflows/scorecards-analysis.yml/badge.svg?sanitize=true&#34; alt=&#34;Scorecards supply-chain security&#34; /&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Scaffolding of Clean Architecture&lt;/h1&gt; &#xA;&lt;p&gt;Gradle plugin to create a java application based on Clean Architecture following our best practices!&lt;/p&gt; &#xA;&lt;h1&gt;Getting Started&lt;/h1&gt; &#xA;&lt;p&gt;Please follow our &lt;a href=&#34;https://bancolombia.github.io/scaffold-clean-architecture/docs/intro&#34;&gt;Getting Started Guide&lt;/a&gt; to create your first project!&lt;/p&gt;</summary>
+  </entry>
 </feed>

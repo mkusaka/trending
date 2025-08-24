@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-24T01:53:36Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>glebkudr/shotgun_code</title>
+    <updated>2025-08-24T01:53:36Z</updated>
+    <id>tag:github.com,2025-08-24:/glebkudr/shotgun_code</id>
+    <link href="https://github.com/glebkudr/shotgun_code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;One‑click codebase “blast” for Large‑Language‑Model workflows.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stark81/VutronMusic</title>
+    <updated>2025-08-24T01:53:36Z</updated>
+    <id>tag:github.com,2025-08-24:/stark81/VutronMusic</id>
+    <link href="https://github.com/stark81/VutronMusic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;高颜值的第三方网易云播放器；支持流媒体音乐，如navidrome、jellyfin、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速，支持自定义主题等。支持 Windows / macOS / Linux&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>keleus/BewlyCat</title>
+    <updated>2025-08-24T01:53:36Z</updated>
+    <id>tag:github.com,2025-08-24:/keleus/BewlyCat</id>
+    <link href="https://github.com/keleus/BewlyCat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BewlyCat——基于BewlyBewly开发的Bilibili拓展&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

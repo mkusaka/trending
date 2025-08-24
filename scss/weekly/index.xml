@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-24T01:52:22Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alex-shpak/hugo-book</title>
+    <updated>2025-08-24T01:52:22Z</updated>
+    <id>tag:github.com,2025-08-24:/alex-shpak/hugo-book</id>
+    <link href="https://github.com/alex-shpak/hugo-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hugo documentation theme as simple as plain book&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

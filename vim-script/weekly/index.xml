@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-24T01:53:33Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tpope/vim-unimpaired</title>
+    <updated>2025-08-24T01:53:33Z</updated>
+    <id>tag:github.com,2025-08-24:/tpope/vim-unimpaired</id>
+    <link href="https://github.com/tpope/vim-unimpaired" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;unimpaired.vim: Pairs of handy bracket mappings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

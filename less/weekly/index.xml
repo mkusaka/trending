@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Less Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2025-08-24T01:47:29Z</updated>
+  <subtitle>Weekly Trending of Less in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>meteor/meteor-theme-hexo</title>
+    <updated>2025-08-24T01:47:29Z</updated>
+    <id>tag:github.com,2025-08-24:/meteor/meteor-theme-hexo</id>
+    <link href="https://github.com/meteor/meteor-theme-hexo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The framework we use for docs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
