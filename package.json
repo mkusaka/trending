@@ -11,6 +11,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6",
-    "commander": "^13.1.0"
+    "commander": "^14.0.0"
   }
 }
