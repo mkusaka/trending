@@ -4,9 +4,18 @@ on:
     - cron: "0 13 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
-  fetch-and-update:
-    name: update
+  build:
+    name: build and upload artifact
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -16,10 +25,8 @@ jobs:
         with:
           go-version-file: './go.mod'
           cache: true
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22.15.0
-      - run: |
+      - name: Generate site and update datum.json
+        run: |
           go run main.go
           git add datum.json
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -27,9 +34,21 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/"${GITHUB_REPOSITORY}".git
           git diff --staged --quiet || git commit -m "update"
           git push origin HEAD || echo "No changes to push"
-      - run: |
-          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          yarn install
-          yarn deploy:ci
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    name: deploy to GitHub Pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
