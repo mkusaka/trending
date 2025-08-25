@@ -17,6 +17,11 @@ jobs:
   build:
     name: build and upload artifact
     runs-on: ubuntu-latest
+    env:
+      # Retention window in months for pruning datum.json. Override via
+      # GitHub Repository Variables: Settings → Variables → Actions → RETENTION_MONTHS
+      # Falls back to '3' if the variable is not defined.
+      RETENTION_MONTHS: ${{ vars.RETENTION_MONTHS || '3' }}
     steps:
       - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
         with:
