@@ -1,12 +1,12 @@
 package main
 
 import (
-    "encoding/json"
-    "fmt"
-    "os"
-    "path"
-    "strconv"
-    "time"
+	"encoding/json"
+	"fmt"
+	"os"
+	"path"
+	"strconv"
+	"time"
 
 	"github.com/gorilla/feeds"
 	"github.com/mmcdole/gofeed"
@@ -40,28 +40,28 @@ const baseUrl = "https://mshibanami.github.io/GitHubTrendingRSS"
 const datumFileName = "datum.json"
 
 func run() error {
-    datumFile, err := os.Open(datumFileName)
-    if err != nil {
-        return errors.WithStack(err)
-    }
+	datumFile, err := os.Open(datumFileName)
+	if err != nil {
+		return errors.WithStack(err)
+	}
 
-    var r []Recent
+	var r []Recent
 
-    decoder := json.NewDecoder(datumFile)
+	decoder := json.NewDecoder(datumFile)
 
-    if err := decoder.Decode(&r); err != nil {
-        return errors.WithStack(err)
-    }
+	if err := decoder.Decode(&r); err != nil {
+		return errors.WithStack(err)
+	}
 
-    // Prune old entries before fetching new ones.
-    // Retention months is configurable via env `RETENTION_MONTHS` (default: 3).
-    retentionMonths := getRetentionMonthsFromEnv()
-    retentionThreshold := time.Now().AddDate(0, -retentionMonths, 0)
-    before := len(r)
-    r = pruneRecents(r, retentionThreshold)
-    if len(r) != before {
-        fmt.Printf("pruned %d old entries older than %s (retention %d months)\n", before-len(r), retentionThreshold.Format(time.RFC3339), retentionMonths)
-    }
+	// Prune old entries before fetching new ones.
+	// Retention months is configurable via env `RETENTION_MONTHS` (default: 3).
+	retentionMonths := getRetentionMonthsFromEnv()
+	retentionThreshold := time.Now().AddDate(0, -retentionMonths, 0)
+	before := len(r)
+	r = pruneRecents(r, retentionThreshold)
+	if len(r) != before {
+		fmt.Printf("pruned %d old entries older than %s (retention %d months)\n", before-len(r), retentionThreshold.Format(time.RFC3339), retentionMonths)
+	}
 
 	for i, recent := range r {
 		if i > 10 {
@@ -175,38 +175,38 @@ func run() error {
 }
 
 func has(rs []Recent, rr Recent) bool {
-    for _, r := range rs {
-        if r.Uri == rr.Uri && r.Period == rr.Period && r.Language == rr.Language {
-            return true
-        }
-    }
-    return false
+	for _, r := range rs {
+		if r.Uri == rr.Uri && r.Period == rr.Period && r.Language == rr.Language {
+			return true
+		}
+	}
+	return false
 }
 
 // pruneRecents returns a new slice containing only entries whose Logged
 // timestamp is on or after the cutoff. Stable order is preserved.
 func pruneRecents(rs []Recent, cutoff time.Time) []Recent {
-    pruned := make([]Recent, 0, len(rs))
-    for _, rec := range rs {
-        if rec.Logged.After(cutoff) || rec.Logged.Equal(cutoff) {
-            pruned = append(pruned, rec)
-        }
-    }
-    return pruned
+	pruned := make([]Recent, 0, len(rs))
+	for _, rec := range rs {
+		if rec.Logged.After(cutoff) || rec.Logged.Equal(cutoff) {
+			pruned = append(pruned, rec)
+		}
+	}
+	return pruned
 }
 
 // getRetentionMonthsFromEnv returns the retention period in months.
 // Uses env var `RETENTION_MONTHS` when set to a positive integer; otherwise defaults to 3.
 func getRetentionMonthsFromEnv() int {
-    const defaultMonths = 3
-    const key = "RETENTION_MONTHS"
-    v := os.Getenv(key)
-    if v == "" {
-        return defaultMonths
-    }
-    n, err := strconv.Atoi(v)
-    if err != nil || n < 1 {
-        return defaultMonths
-    }
-    return n
+	const defaultMonths = 3
+	const key = "RETENTION_MONTHS"
+	v := os.Getenv(key)
+	if v == "" {
+		return defaultMonths
+	}
+	n, err := strconv.Atoi(v)
+	if err != nil || n < 1 {
+		return defaultMonths
+	}
+	return n
 }
