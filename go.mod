@@ -2,7 +2,7 @@ module github.com/mkusaka/trending
 
 go 1.22
 
-toolchain go1.25.3
+toolchain go1.25.4
 
 require (
 	github.com/gorilla/feeds v1.2.0
