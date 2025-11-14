@@ -648,120 +648,6 @@
     "language": "typescript"
   },
   {
-    "logged": "2025-08-14T01:31:40Z",
-    "uri": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-14T01:31:40Z",
-    "uri": "https://github.com/jitsi/jitsi-meet",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-14T01:31:40Z",
-    "uri": "https://github.com/apple/embedding-atlas",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-14T01:36:02Z",
-    "uri": "https://github.com/asgeirtj/system_prompts_leaks",
-    "period": "daily",
-    "language": "javascript"
-  },
-  {
-    "logged": "2025-08-14T01:36:02Z",
-    "uri": "https://github.com/mikechambers/adb-mcp",
-    "period": "daily",
-    "language": "javascript"
-  },
-  {
-    "logged": "2025-08-14T01:38:38Z",
-    "uri": "https://github.com/microsoft/magentic-ui",
-    "period": "daily",
-    "language": "python"
-  },
-  {
-    "logged": "2025-08-14T01:38:38Z",
-    "uri": "https://github.com/browserbase/stagehand-python",
-    "period": "daily",
-    "language": "python"
-  },
-  {
-    "logged": "2025-08-14T01:38:38Z",
-    "uri": "https://github.com/Screenly/Anthias",
-    "period": "daily",
-    "language": "python"
-  },
-  {
-    "logged": "2025-08-14T01:33:19Z",
-    "uri": "https://github.com/KDAB/KDSingleApplication",
-    "period": "daily",
-    "language": "cmake"
-  },
-  {
-    "logged": "2025-08-14T01:33:47Z",
-    "uri": "https://github.com/KaringX/clashmi",
-    "period": "daily",
-    "language": "dart"
-  },
-  {
-    "logged": "2025-08-14T01:34:00Z",
-    "uri": "https://github.com/openai/codex-universal",
-    "period": "daily",
-    "language": "dockerfile"
-  },
-  {
-    "logged": "2025-08-14T01:34:00Z",
-    "uri": "https://github.com/swiftlang/swift-docker",
-    "period": "daily",
-    "language": "dockerfile"
-  },
-  {
-    "logged": "2025-08-14T01:35:07Z",
-    "uri": "https://github.com/mudler/LocalAGI",
-    "period": "daily",
-    "language": "go"
-  },
-  {
-    "logged": "2025-08-14T01:36:28Z",
-    "uri": "https://github.com/Maloy-Android/Muzza",
-    "period": "daily",
-    "language": "kotlin"
-  },
-  {
-    "logged": "2025-08-14T01:37:21Z",
-    "uri": "https://github.com/SigNoz/charts",
-    "period": "daily",
-    "language": "mustache"
-  },
-  {
-    "logged": "2025-08-14T01:39:13Z",
-    "uri": "https://github.com/j178/prek",
-    "period": "daily",
-    "language": "rust"
-  },
-  {
-    "logged": "2025-08-14T01:41:45Z",
-    "uri": "https://github.com/todotxt/todo.txt-cli",
-    "period": "daily",
-    "language": "shell"
-  },
-  {
-    "logged": "2025-08-14T01:42:32Z",
-    "uri": "https://github.com/monero-project/research-lab",
-    "period": "daily",
-    "language": "tex"
-  },
-  {
-    "logged": "2025-08-14T01:43:01Z",
-    "uri": "https://github.com/Drop-OSS/drop",
-    "period": "daily",
-    "language": "vue"
-  },
-  {
     "logged": "2025-08-15T01:32:12Z",
     "uri": "https://github.com/external-secrets/external-secrets",
     "period": "daily",
@@ -65500,5 +65386,113 @@
     "uri": "https://github.com/jackielii/skhd.zig",
     "period": "daily",
     "language": "zig"
+  },
+  {
+    "logged": "2025-11-14T01:30:33Z",
+    "uri": "https://github.com/microsoft/call-center-ai",
+    "period": "daily",
+    "language": "all"
+  },
+  {
+    "logged": "2025-11-14T01:30:33Z",
+    "uri": "https://github.com/nvm-sh/nvm",
+    "period": "daily",
+    "language": "all"
+  },
+  {
+    "logged": "2025-11-14T01:30:33Z",
+    "uri": "https://github.com/GibsonAI/Memori",
+    "period": "daily",
+    "language": "all"
+  },
+  {
+    "logged": "2025-11-14T01:31:24Z",
+    "uri": "https://github.com/Livox-SDK/livox_ros_driver2",
+    "period": "daily",
+    "language": "c++"
+  },
+  {
+    "logged": "2025-11-14T01:31:24Z",
+    "uri": "https://github.com/facebookresearch/faiss",
+    "period": "daily",
+    "language": "c++"
+  },
+  {
+    "logged": "2025-11-14T01:31:24Z",
+    "uri": "https://github.com/perspective-dev/perspective",
+    "period": "daily",
+    "language": "c++"
+  },
+  {
+    "logged": "2025-11-14T01:33:34Z",
+    "uri": "https://github.com/Max-Eee/NeoPass",
+    "period": "daily",
+    "language": "html"
+  },
+  {
+    "logged": "2025-11-14T01:36:34Z",
+    "uri": "https://github.com/google/adk-python",
+    "period": "daily",
+    "language": "python"
+  },
+  {
+    "logged": "2025-11-14T01:36:34Z",
+    "uri": "https://github.com/MustardChef/WSABuilds",
+    "period": "daily",
+    "language": "python"
+  },
+  {
+    "logged": "2025-11-14T01:36:34Z",
+    "uri": "https://github.com/google-agentic-commerce/AP2",
+    "period": "daily",
+    "language": "python"
+  },
+  {
+    "logged": "2025-11-14T01:32:18Z",
+    "uri": "https://github.com/openai/codex-universal",
+    "period": "daily",
+    "language": "dockerfile"
+  },
+  {
+    "logged": "2025-11-14T01:33:11Z",
+    "uri": "https://github.com/jmoiron/sqlx",
+    "period": "daily",
+    "language": "go"
+  },
+  {
+    "logged": "2025-11-14T01:33:11Z",
+    "uri": "https://github.com/crossplane/crossplane",
+    "period": "daily",
+    "language": "go"
+  },
+  {
+    "logged": "2025-11-14T01:33:11Z",
+    "uri": "https://github.com/Masterminds/squirrel",
+    "period": "daily",
+    "language": "go"
+  },
+  {
+    "logged": "2025-11-14T01:34:30Z",
+    "uri": "https://github.com/Aliucord/Aliucord",
+    "period": "daily",
+    "language": "kotlin"
+  },
+  {
+    "logged": "2025-11-14T01:37:28Z",
+    "uri": "https://github.com/ExtremeXT/ExtremeROM",
+    "period": "daily",
+    "language": "shell"
+  },
+  {
+    "logged": "2025-11-14T01:38:26Z",
+    "uri": "https://github.com/plait-board/drawnix",
+    "period": "daily",
+    "language": "typescript"
+  },
+  {
+    "logged": "2025-11-14T01:38:26Z",
+    "uri": "https://github.com/portainer/portainer",
+    "period": "daily",
+    "language": "typescript"
   }
 ]
