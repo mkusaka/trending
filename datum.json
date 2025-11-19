@@ -648,66 +648,6 @@
     "language": "typescript"
   },
   {
-    "logged": "2025-08-19T01:30:38Z",
-    "uri": "https://github.com/bytebot-ai/bytebot",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-19T01:30:38Z",
-    "uri": "https://github.com/enescingoz/awesome-n8n-templates",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-19T01:33:20Z",
-    "uri": "https://github.com/Zie619/n8n-workflows",
-    "period": "daily",
-    "language": "html"
-  },
-  {
-    "logged": "2025-08-19T01:36:23Z",
-    "uri": "https://github.com/hackclub/hackatime",
-    "period": "daily",
-    "language": "ruby"
-  },
-  {
-    "logged": "2025-08-19T01:31:15Z",
-    "uri": "https://github.com/ComposersDesktop/CDP8",
-    "period": "daily",
-    "language": "c"
-  },
-  {
-    "logged": "2025-08-19T01:32:58Z",
-    "uri": "https://github.com/stacklok/toolhive",
-    "period": "daily",
-    "language": "go"
-  },
-  {
-    "logged": "2025-08-19T01:33:54Z",
-    "uri": "https://github.com/SimonDanisch/BonitoBook.jl",
-    "period": "daily",
-    "language": "julia"
-  },
-  {
-    "logged": "2025-08-19T01:33:55Z",
-    "uri": "https://github.com/fpgaminer/joycaption",
-    "period": "daily",
-    "language": "jupyter-notebook"
-  },
-  {
-    "logged": "2025-08-19T01:35:04Z",
-    "uri": "https://github.com/tiktok/tiktok-business-ios-sdk",
-    "period": "daily",
-    "language": "objective-c"
-  },
-  {
-    "logged": "2025-08-19T01:37:24Z",
-    "uri": "https://github.com/bytebot-ai/bytebot",
-    "period": "daily",
-    "language": "typescript"
-  },
-  {
     "logged": "2025-08-20T01:30:23Z",
     "uri": "https://github.com/HunxByts/GhostTrack",
     "period": "daily",
@@ -65596,5 +65536,11 @@
     "uri": "https://github.com/access-company/antikythera",
     "period": "daily",
     "language": "elixir"
+  },
+  {
+    "logged": "2025-11-19T01:33:04Z",
+    "uri": "https://github.com/qq362946/Fantasy",
+    "period": "daily",
+    "language": "c%23"
   }
 ]
