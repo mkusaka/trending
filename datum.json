@@ -648,96 +648,6 @@
     "language": "typescript"
   },
   {
-    "logged": "2025-08-20T01:30:23Z",
-    "uri": "https://github.com/HunxByts/GhostTrack",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-20T01:30:23Z",
-    "uri": "https://github.com/awslabs/mcp",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-20T01:30:23Z",
-    "uri": "https://github.com/imsyy/SPlayer",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-20T01:33:02Z",
-    "uri": "https://github.com/circleci/circleci-docs",
-    "period": "daily",
-    "language": "html"
-  },
-  {
-    "logged": "2025-08-20T01:35:57Z",
-    "uri": "https://github.com/portiaAI/portia-sdk-python",
-    "period": "daily",
-    "language": "python"
-  },
-  {
-    "logged": "2025-08-20T01:35:57Z",
-    "uri": "https://github.com/tensorlakeai/tensorlake",
-    "period": "daily",
-    "language": "python"
-  },
-  {
-    "logged": "2025-08-20T01:35:57Z",
-    "uri": "https://github.com/awslabs/mcp",
-    "period": "daily",
-    "language": "python"
-  },
-  {
-    "logged": "2025-08-20T01:31:00Z",
-    "uri": "https://github.com/dekuNukem/daytripper",
-    "period": "daily",
-    "language": "c"
-  },
-  {
-    "logged": "2025-08-20T01:31:00Z",
-    "uri": "https://github.com/kolunmi/bazaar",
-    "period": "daily",
-    "language": "c"
-  },
-  {
-    "logged": "2025-08-20T01:31:05Z",
-    "uri": "https://github.com/katboi01/UmaViewer",
-    "period": "daily",
-    "language": "c%23"
-  },
-  {
-    "logged": "2025-08-20T01:31:37Z",
-    "uri": "https://github.com/Parnab03/WallGodds",
-    "period": "daily",
-    "language": "css"
-  },
-  {
-    "logged": "2025-08-20T01:33:46Z",
-    "uri": "https://github.com/Calvin-LL/Reorderable",
-    "period": "daily",
-    "language": "kotlin"
-  },
-  {
-    "logged": "2025-08-20T01:34:07Z",
-    "uri": "https://github.com/seblyng/roslyn.nvim",
-    "period": "daily",
-    "language": "lua"
-  },
-  {
-    "logged": "2025-08-20T01:34:07Z",
-    "uri": "https://github.com/A7Lavinraj/fyler.nvim",
-    "period": "daily",
-    "language": "lua"
-  },
-  {
-    "logged": "2025-08-20T01:36:31Z",
-    "uri": "https://github.com/bahdotsh/wrkflw",
-    "period": "daily",
-    "language": "rust"
-  },
-  {
     "logged": "2025-08-21T01:30:57Z",
     "uri": "https://github.com/moeru-ai/airi",
     "period": "daily",
@@ -65542,5 +65452,11 @@
     "uri": "https://github.com/qq362946/Fantasy",
     "period": "daily",
     "language": "c%23"
+  },
+  {
+    "logged": "2025-11-20T01:35:22Z",
+    "uri": "https://github.com/Shopify/horizon",
+    "period": "daily",
+    "language": "liquid"
   }
 ]
