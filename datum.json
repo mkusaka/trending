@@ -648,102 +648,6 @@
     "language": "typescript"
   },
   {
-    "logged": "2025-08-21T01:30:57Z",
-    "uri": "https://github.com/moeru-ai/airi",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-21T01:30:57Z",
-    "uri": "https://github.com/laude-institute/terminal-bench",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-21T01:30:57Z",
-    "uri": "https://github.com/bitwarden/clients",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-21T01:31:57Z",
-    "uri": "https://github.com/ROCm/rocm-systems",
-    "period": "daily",
-    "language": "c++"
-  },
-  {
-    "logged": "2025-08-21T01:34:47Z",
-    "uri": "https://github.com/YosemiteCrew/Yosemite-Crew",
-    "period": "daily",
-    "language": "javascript"
-  },
-  {
-    "logged": "2025-08-21T01:37:11Z",
-    "uri": "https://github.com/laude-institute/terminal-bench",
-    "period": "daily",
-    "language": "python"
-  },
-  {
-    "logged": "2025-08-21T01:37:11Z",
-    "uri": "https://github.com/HKUDS/AI-Researcher",
-    "period": "daily",
-    "language": "python"
-  },
-  {
-    "logged": "2025-08-21T01:31:26Z",
-    "uri": "https://github.com/Aetherinox/pause-windows-updates",
-    "period": "daily",
-    "language": "batchfile"
-  },
-  {
-    "logged": "2025-08-21T01:31:50Z",
-    "uri": "https://github.com/microsoftgraph/msgraph-sdk-powershell",
-    "period": "daily",
-    "language": "c%23"
-  },
-  {
-    "logged": "2025-08-21T01:32:27Z",
-    "uri": "https://github.com/Nayanika1402/RuRal-ReTreats",
-    "period": "daily",
-    "language": "css"
-  },
-  {
-    "logged": "2025-08-21T01:32:27Z",
-    "uri": "https://github.com/Floorp-Projects/Floorp",
-    "period": "daily",
-    "language": "css"
-  },
-  {
-    "logged": "2025-08-21T01:33:40Z",
-    "uri": "https://github.com/endlessm/threadbare",
-    "period": "daily",
-    "language": "gdscript"
-  },
-  {
-    "logged": "2025-08-21T01:33:54Z",
-    "uri": "https://github.com/isaacphi/mcp-language-server",
-    "period": "daily",
-    "language": "go"
-  },
-  {
-    "logged": "2025-08-21T01:35:01Z",
-    "uri": "https://github.com/Marktechpost/AI-Tutorial-Codes-Included",
-    "period": "daily",
-    "language": "jupyter-notebook"
-  },
-  {
-    "logged": "2025-08-21T01:35:11Z",
-    "uri": "https://github.com/nethical6/digipaws",
-    "period": "daily",
-    "language": "kotlin"
-  },
-  {
-    "logged": "2025-08-21T01:39:11Z",
-    "uri": "https://github.com/ikuaitu/vue-fabric-editor",
-    "period": "daily",
-    "language": "vue"
-  },
-  {
     "logged": "2025-08-22T01:31:34Z",
     "uri": "https://github.com/firecrawl/firecrawl",
     "period": "daily",
@@ -65458,5 +65362,23 @@
     "uri": "https://github.com/Shopify/horizon",
     "period": "daily",
     "language": "liquid"
+  },
+  {
+    "logged": "2025-11-21T01:31:48Z",
+    "uri": "https://github.com/yoonmoonsick/dnd2024",
+    "period": "daily",
+    "language": "batchfile"
+  },
+  {
+    "logged": "2025-11-21T01:34:16Z",
+    "uri": "https://github.com/endlessm/threadbare",
+    "period": "daily",
+    "language": "gdscript"
+  },
+  {
+    "logged": "2025-11-21T01:35:46Z",
+    "uri": "https://github.com/Marktechpost/AI-Tutorial-Codes-Included",
+    "period": "daily",
+    "language": "jupyter-notebook"
   }
 ]
