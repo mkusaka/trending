@@ -648,78 +648,6 @@
     "language": "typescript"
   },
   {
-    "logged": "2025-08-22T01:31:34Z",
-    "uri": "https://github.com/firecrawl/firecrawl",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-22T01:31:34Z",
-    "uri": "https://github.com/Budibase/budibase",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-22T01:31:34Z",
-    "uri": "https://github.com/plait-board/drawnix",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-08-22T01:37:45Z",
-    "uri": "https://github.com/NVIDIA-NeMo/RL",
-    "period": "daily",
-    "language": "python"
-  },
-  {
-    "logged": "2025-08-22T01:32:01Z",
-    "uri": "https://github.com/mishamyrt/Lilex",
-    "period": "daily",
-    "language": "astro"
-  },
-  {
-    "logged": "2025-08-22T01:32:22Z",
-    "uri": "https://github.com/Adaptix-Framework/AdaptixC2",
-    "period": "daily",
-    "language": "c"
-  },
-  {
-    "logged": "2025-08-22T01:33:06Z",
-    "uri": "https://github.com/ROCm/rocm-examples",
-    "period": "daily",
-    "language": "cuda"
-  },
-  {
-    "logged": "2025-08-22T01:35:28Z",
-    "uri": "https://github.com/X-PLUG/MobileAgent",
-    "period": "daily",
-    "language": "jupyter-notebook"
-  },
-  {
-    "logged": "2025-08-22T01:36:37Z",
-    "uri": "https://github.com/Araq/ormin",
-    "period": "daily",
-    "language": "nim"
-  },
-  {
-    "logged": "2025-08-22T01:39:03Z",
-    "uri": "https://github.com/kurozenzen/kurosearch",
-    "period": "daily",
-    "language": "svelte"
-  },
-  {
-    "logged": "2025-08-22T01:39:32Z",
-    "uri": "https://github.com/firecrawl/firecrawl",
-    "period": "daily",
-    "language": "typescript"
-  },
-  {
-    "logged": "2025-08-22T01:40:06Z",
-    "uri": "https://github.com/jdx/mise",
-    "period": "daily",
-    "language": "yaml"
-  },
-  {
     "logged": "2025-08-23T01:30:34Z",
     "uri": "https://github.com/Leantime/leantime",
     "period": "daily",
@@ -65380,5 +65308,23 @@
     "uri": "https://github.com/Marktechpost/AI-Tutorial-Codes-Included",
     "period": "daily",
     "language": "jupyter-notebook"
+  },
+  {
+    "logged": "2025-11-22T01:38:59Z",
+    "uri": "https://github.com/github/spec-kit",
+    "period": "daily",
+    "language": "shell"
+  },
+  {
+    "logged": "2025-11-22T01:40:09Z",
+    "uri": "https://github.com/firecrawl/firecrawl",
+    "period": "daily",
+    "language": "typescript"
+  },
+  {
+    "logged": "2025-11-22T01:40:58Z",
+    "uri": "https://github.com/electric-capital/open-dev-data",
+    "period": "daily",
+    "language": "zig"
   }
 ]
