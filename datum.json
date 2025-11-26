@@ -65236,5 +65236,23 @@
     "uri": "https://github.com/michlampert/mObywatel-improvements",
     "period": "weekly",
     "language": "vue"
+  },
+  {
+    "logged": "2025-11-26T01:34:44Z",
+    "uri": "https://github.com/dyphire/mpv-config",
+    "period": "daily",
+    "language": "glsl"
+  },
+  {
+    "logged": "2025-11-26T01:35:11Z",
+    "uri": "https://github.com/RetroBat-Official/retrobat",
+    "period": "daily",
+    "language": "hlsl"
+  },
+  {
+    "logged": "2025-11-26T01:40:16Z",
+    "uri": "https://github.com/j-hc/revanced-magisk-module",
+    "period": "daily",
+    "language": "shell"
   }
 ]
