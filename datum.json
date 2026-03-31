@@ -1,101 +1,5 @@
 [
   {
-    "logged": "2025-12-31T01:28:17Z",
-    "uri": "https://github.com/libretro/RetroArch",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-12-31T01:28:17Z",
-    "uri": "https://github.com/pathwaycom/llm-app",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-12-31T01:28:17Z",
-    "uri": "https://github.com/mikage-emu/mikage-dev",
-    "period": "daily",
-    "language": "all"
-  },
-  {
-    "logged": "2025-12-31T01:28:17Z",
-    "uri": "https://github.com/tycrek/degoogle",
-    "period": "daily",
-    "language": "unknown"
-  },
-  {
-    "logged": "2025-12-31T01:28:17Z",
-    "uri": "https://github.com/skills/hello-github-actions",
-    "period": "daily",
-    "language": "unknown"
-  },
-  {
-    "logged": "2025-12-31T01:29:01Z",
-    "uri": "https://github.com/mikage-emu/mikage-dev",
-    "period": "daily",
-    "language": "c++"
-  },
-  {
-    "logged": "2025-12-31T01:31:21Z",
-    "uri": "https://github.com/notwaldorf/emoji-translate",
-    "period": "daily",
-    "language": "javascript"
-  },
-  {
-    "logged": "2025-12-31T01:31:21Z",
-    "uri": "https://github.com/NARKOZ/hacker-scripts",
-    "period": "daily",
-    "language": "javascript"
-  },
-  {
-    "logged": "2025-12-31T01:29:18Z",
-    "uri": "https://github.com/probprog/anglican",
-    "period": "daily",
-    "language": "clojure"
-  },
-  {
-    "logged": "2025-12-31T01:29:42Z",
-    "uri": "https://github.com/astubenbord/paperless-mobile",
-    "period": "daily",
-    "language": "dart"
-  },
-  {
-    "logged": "2025-12-31T01:29:42Z",
-    "uri": "https://github.com/realth000/tsdm_client",
-    "period": "daily",
-    "language": "dart"
-  },
-  {
-    "logged": "2025-12-31T01:30:07Z",
-    "uri": "https://github.com/ocaml/tuareg",
-    "period": "daily",
-    "language": "emacs-lisp"
-  },
-  {
-    "logged": "2025-12-31T01:35:05Z",
-    "uri": "https://github.com/cooperka/react-native-snackbar",
-    "period": "daily",
-    "language": "objective-c"
-  },
-  {
-    "logged": "2025-12-31T01:35:05Z",
-    "uri": "https://github.com/forcedotcom/SalesforceMobileSDK-iOS",
-    "period": "daily",
-    "language": "objective-c"
-  },
-  {
-    "logged": "2025-12-31T01:36:44Z",
-    "uri": "https://github.com/TRaSH-Guides/Guides",
-    "period": "daily",
-    "language": "shell"
-  },
-  {
-    "logged": "2025-12-31T01:37:36Z",
-    "uri": "https://github.com/Vali-98/ChatterUI",
-    "period": "daily",
-    "language": "typescript"
-  },
-  {
     "logged": "2026-12-28T01:31:34Z",
     "uri": "https://github.com/TheAlgorithms/Python",
     "period": "daily",
@@ -65014,5 +64918,77 @@
     "uri": "https://github.com/dromara/go-view",
     "period": "daily",
     "language": "vue"
+  },
+  {
+    "logged": "2026-03-31T01:32:16Z",
+    "uri": "https://github.com/sherlock-project/sherlock",
+    "period": "daily",
+    "language": "all"
+  },
+  {
+    "logged": "2026-03-31T01:32:16Z",
+    "uri": "https://github.com/fastfetch-cli/fastfetch",
+    "period": "daily",
+    "language": "all"
+  },
+  {
+    "logged": "2026-03-31T01:32:58Z",
+    "uri": "https://github.com/AztecProtocol/aztec-packages",
+    "period": "daily",
+    "language": "c++"
+  },
+  {
+    "logged": "2026-03-31T01:32:58Z",
+    "uri": "https://github.com/jellyfin/jellyfin-desktop",
+    "period": "daily",
+    "language": "c++"
+  },
+  {
+    "logged": "2026-03-31T01:37:26Z",
+    "uri": "https://github.com/jianchang512/pyvideotrans",
+    "period": "daily",
+    "language": "python"
+  },
+  {
+    "logged": "2026-03-31T01:32:48Z",
+    "uri": "https://github.com/Flow-Launcher/Flow.Launcher",
+    "period": "daily",
+    "language": "c%23"
+  },
+  {
+    "logged": "2026-03-31T01:32:48Z",
+    "uri": "https://github.com/Altinn/altinn-studio",
+    "period": "daily",
+    "language": "c%23"
+  },
+  {
+    "logged": "2026-03-31T01:32:48Z",
+    "uri": "https://github.com/AssetRipper/AssetRipper",
+    "period": "daily",
+    "language": "c%23"
+  },
+  {
+    "logged": "2026-03-31T01:34:29Z",
+    "uri": "https://github.com/Loyalsoldier/geoip",
+    "period": "daily",
+    "language": "go"
+  },
+  {
+    "logged": "2026-03-31T01:37:50Z",
+    "uri": "https://github.com/gotempsh/temps",
+    "period": "daily",
+    "language": "rust"
+  },
+  {
+    "logged": "2026-03-31T01:37:50Z",
+    "uri": "https://github.com/elizaOS/eliza",
+    "period": "daily",
+    "language": "rust"
+  },
+  {
+    "logged": "2026-03-31T01:37:50Z",
+    "uri": "https://github.com/0x192/universal-android-debloater",
+    "period": "daily",
+    "language": "rust"
   }
 ]
