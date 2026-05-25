@@ -1,6 +1,7 @@
 {
+  minimumReleaseAge: "7days",
   extends: [
-    "config:base",
+    "config:best-practices",
     ":automergeAll"
   ],
   lockFileMaintenance: {
