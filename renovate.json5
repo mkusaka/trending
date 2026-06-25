@@ -1,10 +1,9 @@
 {
+  automerge: true,
+  platformAutomerge: false,
   $schema: "https://docs.renovatebot.com/renovate-schema.json",
   minimumReleaseAge: "7 days",
-  extends: [
-    "config:best-practices",
-    ":automergeAll"
-  ],
+  extends: ["config:best-practices", ":automergeAll"],
   customManagers: [
     {
       customType: "regex",
