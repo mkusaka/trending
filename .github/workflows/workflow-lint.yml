@@ -32,7 +32,7 @@ jobs:
       - name: Download pinact
         env:
           # renovate: datasource=github-releases depName=suzuki-shunsuke/pinact
-          PINACT_VERSION: v4.1.0
+          PINACT_VERSION: v4.1.1
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
