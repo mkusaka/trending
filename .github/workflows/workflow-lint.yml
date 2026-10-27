@@ -51,6 +51,8 @@ jobs:
         shell: bash
 
       - name: Check pinned action refs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: pinact run --check
         shell: bash
 
