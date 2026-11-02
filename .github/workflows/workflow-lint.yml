@@ -98,7 +98,7 @@ jobs:
       - name: Download ghalint
         env:
           # renovate: datasource=github-releases depName=suzuki-shunsuke/ghalint
-          GHALINT_VERSION: v1.5.6
+          GHALINT_VERSION: v1.5.7
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
